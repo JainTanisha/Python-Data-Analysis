@@ -1,0 +1,493 @@
+{
+  "response": {
+    "meta": {
+      "hits": 968,
+      "time": 59,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-conservative-bake-sale-protest.html",
+        "snippet": "A conservative students group's bake sale parodying affirmative action has drawn a crowd of 300 protesters at the University of Texas in Austin....",
+        "lead_paragraph": "A conservative students group's bake sale parodying affirmative action has drawn a crowd of 300 protesters at the University of Texas in Austin.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hundreds Protest Bake Sale Parodying Affirmative Action",
+          "print_headline": "Hundreds Protest Bake Sale Parodying Affirmative Action"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:04:12Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5811367395d0e022439c56c0",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/world/europe/ap-eu-greece-tv-licenses.html",
+        "snippet": "A high court has canceled a television license auction in Greece, dealing a blow to the country's left-wing government which carried out the sale as part of an anti-corruption drive....",
+        "lead_paragraph": "A high court has canceled a television license auction in Greece, dealing a blow to the country's left-wing government which carried out the sale as part of an anti-corruption drive.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Greece Court Cancels TV License Overhaul; Blow to Government",
+          "print_headline": "Greece Court Cancels TV License Overhaul; Blow to Government"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:01:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581135d595d0e022439c56bf",
+        "word_count": "311",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/science/gleamoscope-australia.html",
+        "snippet": "Australian astronomers produced a Gleamoscope that dials up visions of the skies from instruments using different varieties of electromagnetic radiation....",
+        "lead_paragraph": "Australian astronomers produced a Gleamoscope that dials up visions of the skies from instruments using different varieties of electromagnetic radiation.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/science/27tb-gleamoscope1/27tb-gleamoscope1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/science/27tb-gleamoscope1/27tb-gleamoscope1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/science/27tb-gleamoscope1/27tb-gleamoscope1-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/science/27tb-gleamoscope1/27tb-gleamoscope1-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/science/27tb-gleamoscope1/27tb-gleamoscope1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/science/27tb-gleamoscope1/27tb-gleamoscope1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Lighting Up the Night Skies",
+          "content_kicker": "Trilobites",
+          "kicker": "Trilobites",
+          "print_headline": "Light Show: The Night Sky, However You Choose to See It"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Stars and Galaxies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Space and Astronomy"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Australia"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Light"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "International Centre for Radio Astronomy Research"
+          }
+        ],
+        "pub_date": "2016-10-26T23:01:15+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dennis",
+              "rank": 1,
+              "lastname": "OVERBYE"
+            }
+          ],
+          "original": "By DENNIS OVERBYE"
+        },
+        "type_of_material": "News",
+        "_id": "581135c295d0e022439c56be",
+        "word_count": "296",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/world/europe/ap-soc-serie-a-earthquake.html",
+        "snippet": "A top-level soccer match between Pescara and Atalanta was temporarily halted when a second earthquake in the space of two hours struck central Italy on Wednesday, sparking terror among the fans....",
+        "lead_paragraph": "A top-level soccer match between Pescara and Atalanta was temporarily halted when a second earthquake in the space of two hours struck central Italy on Wednesday, sparking terror among the fans.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Earthquake Temporarily Halts Italian League Match",
+          "print_headline": "Earthquake Temporarily Halts Italian League Match"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:59:23Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5811355295d0e022439c56bd",
+        "word_count": "232",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-killings-by-police-little-rock.html",
+        "snippet": "Little Rock police have identified the officer who fatally shot an armed man while investigating a reported disturbance....",
+        "lead_paragraph": "Little Rock police have identified the officer who fatally shot an armed man while investigating a reported disturbance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Little Rock Police Release Name of Officer in Fatal Shooting",
+          "print_headline": "Little Rock Police Release Name of Officer in Fatal Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:58:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5811351b95d0e022439c56bc",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/arts/television/kevin-curran-dead.html",
+        "snippet": "Mr. Curran won three Emmy Awards for his work on the show and was a writer for \u201cLate Night With David Letterman\u201d in the 1980s, sharing in three Emmys....",
+        "lead_paragraph": "Mr. Curran won three Emmy Awards for his work on the show and was a writer for \u201cLate Night With David Letterman\u201d in the 1980s, sharing in three Emmys.",
+        "abstract": "Kevin Curran, Emmy award-winning writer and producer recognized for his work on late night and sitcom television, dies at age 59.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/29/arts/29curran-obit/27curran-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/29/arts/29curran-obit/27curran-obit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/29/arts/29curran-obit/27curran-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/29/arts/29curran-obit/27curran-obit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Kevin Curran, Writer and Producer for \u2018The Simpsons,\u2019 Dies at 59",
+          "print_headline": "Kevin Curran, 59, a Writer and Producer of \u2018The Simpsons\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Curran, Kevin (1957-2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Simpsons (TV Program)"
+          }
+        ],
+        "pub_date": "2016-10-26T22:51:09+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5811336795d0e022439c56bb",
+        "word_count": "211",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-trade-secret-plea.html",
+        "snippet": "A 61-year-old scientist has pleaded guilty to a federal charge nearly three years after he was accused of stealing proprietary seeds developed in the U.S. and giving them to a delegation visiting from China....",
+        "lead_paragraph": "A 61-year-old scientist has pleaded guilty to a federal charge nearly three years after he was accused of stealing proprietary seeds developed in the U.S. and giving them to a delegation visiting from China.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Arkansas Scientist Pleads in Rice Seed Theft Case",
+          "print_headline": "Arkansas Scientist Pleads in Rice Seed Theft Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:49:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581132fb95d0e022439c56ba",
+        "word_count": "260",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/world/europe/italy-earthquakes.html",
+        "snippet": "The earthquakes damaged buildings in several towns, two months after a quake killed nearly 300 people in the country....",
+        "lead_paragraph": "The earthquakes damaged buildings in several towns, two months after a quake killed nearly 300 people in the country.",
+        "abstract": "Central Italy experiences two powerful earthquakes measuring 5.4 and 5.9 in magnitude; quakes come just under two months after earthquake that killed almost 300 people.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/world/27ITALY1/27ITALY1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/world/27ITALY1/27ITALY1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/world/27ITALY1/27ITALY1-articleLarge.jpg",
+            "height": 390,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/world/27ITALY1/27ITALY1-articleLarge.jpg",
+              "xlargeheight": "390"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/world/27ITALY1/27ITALY1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/world/27ITALY1/27ITALY1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Two Earthquakes Shake Up Central Italy",
+          "print_headline": "Italy, Already Rattled, Is Hit by More Earthquakes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Earthquakes"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Italy"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Disasters and Emergencies"
+          }
+        ],
+        "pub_date": "2016-10-26T22:48:14+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elisabetta",
+              "rank": 1,
+              "lastname": "POVOLEDO"
+            }
+          ],
+          "original": "By ELISABETTA POVOLEDO"
+        },
+        "type_of_material": "News",
+        "_id": "581132b295d0e022439c56b9",
+        "word_count": "522",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-prince-estate.html",
+        "snippet": "A Minnesota judge ruled Wednesday that a woman and girl who claim to be Prince's niece and grandniece will not be considered heirs to the late music superstar's estate....",
+        "lead_paragraph": "A Minnesota judge ruled Wednesday that a woman and girl who claim to be Prince's niece and grandniece will not be considered heirs to the late music superstar's estate.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Rejects Claim to Prince Estate From Woman and Girl",
+          "print_headline": "Judge Rejects Claim to Prince Estate From Woman and Girl"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:43:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5811318195d0e022439c56b8",
+        "word_count": "343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-harvard-dining-workers-strike.html",
+        "snippet": "Harvard University's cafeteria workers are ending their strike after agreeing to a new labor contract....",
+        "lead_paragraph": "Harvard University's cafeteria workers are ending their strike after agreeing to a new labor contract.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Harvard's Dining Workers End Strike After Demands Are Met",
+          "print_headline": "Harvard's Dining Workers End Strike After Demands Are Met"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:40:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581130ee95d0e022439c56b7",
+        "word_count": "128",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

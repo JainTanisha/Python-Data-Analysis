@@ -1,0 +1,625 @@
+{
+  "response": {
+    "meta": {
+      "hits": 912,
+      "time": 186,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/us/ap-us-obit-oldest-american.html",
+        "snippet": "The oldest American person has died at her Massachusetts home at age 113. Goldie Michelson was a month short of her 114th birthday....",
+        "lead_paragraph": "The oldest American person has died at her Massachusetts home at age 113. Goldie Michelson was a month short of her 114th birthday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Oldest American, Goldie Michelson, Dies at Home at Age 113",
+          "print_headline": "Oldest American, Goldie Michelson, Dies at Home at Age 113"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:27:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578053bf38f0d8706f76421c",
+        "word_count": "138",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/08/business/08reuters-humana-m-a-aetna.html",
+        "snippet": "Aetna Inc executives met with top Justice Department antitrust officials on Friday to convince the government that asset sales it proposed would address potential competitive problems that could threaten its deal to buy rival Humana Inc, according...",
+        "lead_paragraph": "Aetna Inc executives met with top Justice Department antitrust officials on Friday to convince the government that asset sales it proposed would address potential competitive problems that could threaten its deal to buy rival Humana Inc, according to a source familiar with the matter.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Aetna Meets With Justice Department Over Merger With Humana",
+          "print_headline": "Aetna Meets With Justice Department Over Merger With Humana"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:29:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578053bb38f0d8706f76421b",
+        "word_count": "445",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004520274/watch-live-governor-on-dallas-shooting.html",
+        "snippet": "Gov. Greg Abbott of Texas speaks at a news conference about the deadly attack on police officers in Dallas....",
+        "lead_paragraph": "Gov. Greg Abbott of Texas speaks at a news conference about the deadly attack on police officers in Dallas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/08/us/08vid-gregabbott/08vid-gregabbott-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/08/us/08vid-gregabbott/08vid-gregabbott-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/08/us/08vid-gregabbott/08vid-gregabbott-articleLarge.jpg",
+            "height": 381,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/08/us/08vid-gregabbott/08vid-gregabbott-articleLarge.jpg",
+              "xlargeheight": "381"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/08/us/08vid-gregabbott/08vid-gregabbott-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/08/us/08vid-gregabbott/08vid-gregabbott-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Watch Live: Governor on Dallas Shooting"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Dallas (Tex)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Texas"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Abbott, Gregory W (1957- )"
+          }
+        ],
+        "pub_date": "2016-07-08T21:27:24+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": null,
+        "type_of_material": "Video",
+        "_id": "57801abe38f0d8706f7641b6",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/sports/olympics/ap-oly-ath-us-track-trials.html",
+        "snippet": "The defending Olympic pole vault champion warmed up, then cooled down, then ran through the whole process again, as the driving rain pelted the field Friday at U.S. Olympic Trials....",
+        "lead_paragraph": "The defending Olympic pole vault champion warmed up, then cooled down, then ran through the whole process again, as the driving rain pelted the field Friday at U.S. Olympic Trials.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rain, Tears and Teens With Olympic Track Spots on the Line",
+          "print_headline": "Rain, Tears and Teens With Olympic Track Spots on the Line"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:18:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578051a338f0d8706f764219",
+        "word_count": "881",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/09/world/asia/man-survives-terrorist-attack-but-is-arrested-as-a-suspect.html",
+        "snippet": "Tahmid Khan, a college student, was wrongly suspected of being in league with the militants, his family and friends say. They now fear for his safety....",
+        "lead_paragraph": "Tahmid Khan, a college student, was wrongly suspected of being in league with the militants, his family and friends say. They now fear for his safety.",
+        "abstract": "Tahmid Hasib Khan, University of Toronto student who was held hostage in Dhaka restaurant attack claimed by Islamic State, is being detained by Bangladeshi police on suspicion of participation in episode; Khan's family and friends say it is case of mistaken identity.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/09/world/09bangladesh1/09bangladesh1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/09/world/09bangladesh1/09bangladesh1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/09/world/09bangladesh1/09bangladesh1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/09/world/09bangladesh1/09bangladesh1-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/09/world/09bangladesh1/09bangladesh1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/09/world/09bangladesh1/09bangladesh1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Man Survives Terrorist Attack in Bangladesh, but Is in Custody as a Suspect",
+          "print_headline": "Hostage of Terrorists Is Now Held by the Police"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Dhaka (Bangladesh)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Holey Artisan Bakery (Dhaka, Bangladesh, Bakery)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interrogations"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Khan, Tahmid Hasib"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Bangladesh"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bombs and Explosives"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          }
+        ],
+        "pub_date": "2016-07-08T21:16:58+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "contributor": "Maher Sattar reported from Dhaka, and Geeta Anand from New Delhi. Julfikar Ali Manik contributed reporting from Dhaka.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Maher",
+              "rank": 1,
+              "lastname": "SATTAR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Geeta",
+              "rank": 2,
+              "lastname": "ANAND"
+            }
+          ],
+          "original": "By MAHER SATTAR and GEETA ANAND"
+        },
+        "type_of_material": "News",
+        "_id": "5780184c38f0d8706f7641af",
+        "word_count": "1098",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/09/theater/liberty-monumental-new-musical-review.html",
+        "snippet": "\u201cLiberty: A Monumental New Musical,\u201d by Dana Leslie Goldstein and Jon Goldstein, brings historical figures and one statue to life at 42West....",
+        "lead_paragraph": "\u201cLiberty: A Monumental New Musical,\u201d by Dana Leslie Goldstein and Jon Goldstein, brings historical figures and one statue to life at 42West.",
+        "abstract": "Laurel Graeber reviews Liberty: A Monumental New Musical, with book and lyrics by Dana Leslie Goldstein, at 42West theater; Evan Pappas directs and Abigail Shapiro stars.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/09/arts/09LIBERTY/09LIBERTY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/09/arts/09LIBERTY/09LIBERTY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/09/arts/09LIBERTY/09LIBERTY-articleLarge.jpg",
+            "height": 1084,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/09/arts/09LIBERTY/09LIBERTY-articleLarge.jpg",
+              "xlargeheight": "1084"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/09/arts/09LIBERTY/09LIBERTY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/09/arts/09LIBERTY/09LIBERTY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Lady Liberty Steps Off Her Pedestal to Sing",
+          "print_headline": "She\u2019s a Statue. She\u2019s a French Girl. It\u2019s Confusing."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Goldstein, Dana Leslie"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pappas, Evan (1958- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Liberty: A Monumental New Musical (Play)"
+          }
+        ],
+        "pub_date": "2016-07-08T21:14:50+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laurel",
+              "rank": 1,
+              "lastname": "GRAEBER"
+            }
+          ],
+          "original": "By LAUREL GRAEBER"
+        },
+        "type_of_material": "Review",
+        "_id": "578017cc38f0d8706f7641ae",
+        "word_count": "427",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/10/nyregion/familiar-pianist-at-caramoor-and-beethovens-gravitational-pull.html",
+        "snippet": "Jonathan Biss, the artist in residence at the center, feels the force of the legendary composer\u2019s personality....",
+        "lead_paragraph": "Jonathan Biss, the artist in residence at the center, feels the force of the legendary composer\u2019s personality.",
+        "abstract": "Classical pianist Jonathan Biss will be artist in residence for three days during Caramoor Center for Music and Arts' 71st summer festival in Katonah; Biss, whose long history with musical institution dates back to rising-star residency in 1998, will present New York premiere of Timo Andres work Banister, collaborate with two orchestras and perform with his mom, violinist Miriam Fried (Metropolitan/Westchester). ",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/10/nyregion/10ARTSWE1/10ARTSWE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/10/nyregion/10ARTSWE1/10ARTSWE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/10/nyregion/10ARTSWE1/10ARTSWE1-articleLarge.jpg",
+            "height": 456,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/10/nyregion/10ARTSWE1/10ARTSWE1-articleLarge.jpg",
+              "xlargeheight": "456"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/10/nyregion/10ARTSWE1/10ARTSWE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/10/nyregion/10ARTSWE1/10ARTSWE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Familiar Pianist at Caramoor, and Beethoven\u2019s Gravitational Pull",
+          "content_kicker": "Arts | Westchester",
+          "kicker": "Arts | Westchester",
+          "print_headline": "At Caramoor, a Pianist\u2019s Many Happy Returns"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Caramoor Center for Music and the Arts"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Biss, Jonathan"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Beethoven, Ludwig van"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Katonah (NY)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Caramoor International Music Festival"
+          }
+        ],
+        "pub_date": "2016-07-08T21:11:45+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Phillip",
+              "rank": 1,
+              "lastname": "LUTZ"
+            }
+          ],
+          "original": "By PHILLIP LUTZ"
+        },
+        "type_of_material": "News",
+        "_id": "5780171638f0d8706f7641ac",
+        "word_count": "990",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/sports/golf/ap-glf-british-open-facts-figures.html",
+        "snippet": "Facts and figures for the British Open golf championship:...",
+        "lead_paragraph": "Facts and figures for the British Open golf championship:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Facts and Figures for the British Open Golf Championship",
+          "print_headline": "Facts and Figures for the British Open Golf Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:01:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57804d6d38f0d8706f764215",
+        "word_count": "262",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/08/us/08reuters-usa-police-blackmilitants.html",
+        "snippet": "The 25-year-old army veteran who killed five Dallas police officers interacted with several \"black power\" groups, some of which post vitriolic and racist rhetoric online and which sometimes condone violence....",
+        "lead_paragraph": "The 25-year-old army veteran who killed five Dallas police officers interacted with several \"black power\" groups, some of which post vitriolic and racist rhetoric online and which sometimes condone violence.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Dallas Gunman Was Drawn to Anger of 'Black Power' Groups",
+          "print_headline": "Dallas Gunman Was Drawn to Anger of 'Black Power' Groups"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T20:53:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57804c0338f0d8706f764213",
+        "word_count": "742",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/us/ap-us-missing-boat.html",
+        "snippet": "The U.S. Coast Guard says it has suspended its search for three fishermen who went missing off Hawaii last weekend....",
+        "lead_paragraph": "The U.S. Coast Guard says it has suspended its search for three fishermen who went missing off Hawaii last weekend.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Coast Guard Suspends Search for Missing Hawaii Fishermen",
+          "print_headline": "Coast Guard Suspends Search for Missing Hawaii Fishermen"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T19:19:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57804aa238f0d8706f764212",
+        "word_count": "130",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

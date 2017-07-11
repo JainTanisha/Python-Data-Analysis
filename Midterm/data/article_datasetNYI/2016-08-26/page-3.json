@@ -1,0 +1,410 @@
+{
+  "response": {
+    "meta": {
+      "hits": 784,
+      "time": 41,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Guest Lineups for the Sunday News Shows",
+          "print_headline": "Guest Lineups for the Sunday News Shows"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:49:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c82495d0e021d7982e23",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/27/us/politics/donald-trump-minority-voters-hispanic-latino-west.html",
+        "snippet": "Republicans are concerned that Mr. Trump is accelerating the broader population shifts that threaten the party\u2019s standing in Western states....",
+        "lead_paragraph": "Republicans are concerned that Mr. Trump is accelerating the broader population shifts that threaten the party\u2019s standing in Western states.",
+        "abstract": "Republicans in Western states are afraid Donald J Trump could jeopardize party for years in nation's fastest-growing area, as he alienates generation of Hispanics, Asians and younger voters who have been changing electoral map; fears particularly mount in Arizona, which has voted for Democratic presidential candidate only once in past 68 years.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/27/us/27west1/27west1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/27/us/27west1/27west1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/27/us/27west1/27west1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/27/us/27west1/27west1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/27/us/27west1/27west1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/27/us/27west1/27west1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As Donald Trump Repels Minority Voters, G.O.P. Fears Its Future in the West",
+          "print_headline": "G.O.P. Worries Clout Is Fading in Western U.S."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Arizona"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Western States (US)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hispanic-Americans"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Asian-Americans"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Minorities"
+          }
+        ],
+        "pub_date": "2016-08-26T22:50:29+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Jeremy",
+              "middlename": "W.",
+              "lastname": "PETERS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JEREMY W. PETERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c7ba95d0e021d7982e22",
+        "word_count": "1409",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://krugman.blogs.nytimes.com/2016/08/26/germanys-drag/",
+        "snippet": "The remarkably large effect of bad macroeconomic ideas....",
+        "lead_paragraph": null,
+        "abstract": "The remarkably large effect of bad macroeconomic ideas.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Germany&#8217;s Drag",
+          "kicker": "Paul Krugman"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:44:59Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Paul",
+              "rank": 1,
+              "lastname": "KRUGMAN"
+            }
+          ],
+          "original": "By PAUL KRUGMAN"
+        },
+        "type_of_material": "Blog",
+        "_id": "57c0c71695d0e021d7982e21",
+        "word_count": "452",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/sports/ap-car-nascar-michigan-qualifying.html",
+        "snippet": "Joey Logano won the pole at Michigan International Speedway &#8212; and lately at this track, that's been a pretty good indicator of things to come....",
+        "lead_paragraph": "Joey Logano won the pole at Michigan International Speedway &#8212; and lately at this track, that's been a pretty good indicator of things to come.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Joey Logano Wins Another NASCAR Sprint Cup Pole at Michigan",
+          "print_headline": "Joey Logano Wins Another NASCAR Sprint Cup Pole at Michigan"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:44:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c6ca95d0e021d7982e20",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/26/business/26reuters-st-jude-medical-cyber-investors.html",
+        "snippet": "One day after a short seller claimed that St. Jude Medical Inc's heart implants are vulnerable to deadly cyber attacks, investors appear most concerned about whether the accusation will derail St. Jude's $24 billion planned deal for Abbott Labs to...",
+        "lead_paragraph": "One day after a short seller claimed that St. Jude Medical Inc's heart implants are vulnerable to deadly cyber attacks, investors appear most concerned about whether the accusation will derail St. Jude's $24 billion planned deal for Abbott Labs to buy it.St. Jude's stock at one point fell around 3 percent on Friday, though it ended the day slightly up, following a drop of around 5 percent on Thursday after Muddy Waters Capital leveled the accusation against St. Jude. The stock continues to trade well below its price on Wednesday of around $82 per share.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Whiplashed Investors Stay Skittish About St. Jude",
+          "print_headline": "Whiplashed Investors Stay Skittish About St. Jude"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:43:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c69e95d0e021d7982e1f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-oregon-state-fair-marijuana-the-latest.html",
+        "snippet": "The Latest on marijuana plant display at Oregon State Fair (all times local):...",
+        "lead_paragraph": "The Latest on marijuana plant display at Oregon State Fair (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Pot Plants on Display at Oregon State Fair",
+          "print_headline": "The Latest: Pot Plants on Display at Oregon State Fair"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:38:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c5ff95d0e021d7982e1e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-refinery-fire.html",
+        "snippet": "A sulfur storage tank exploded Friday at the largest oil refinery in California, sending a chemical cloud into the air and causing a fire, authorities said. No injuries were reported....",
+        "lead_paragraph": "A sulfur storage tank exploded Friday at the largest oil refinery in California, sending a chemical cloud into the air and causing a fire, authorities said. No injuries were reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Tank Explodes at California Refinery; No Injuries Reported",
+          "print_headline": "Tank Explodes at California Refinery; No Injuries Reported"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:36:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c54295d0e021d7982e1d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/26/sports/golf/26reuters-golf-ryder-stenson.html",
+        "snippet": "Europe captain Darren Clarke has allayed fears over the fitness of British Open champion Henrik Stenson ahead of next month's Ryder Cup defense at Hazeltine, Minnesota....",
+        "lead_paragraph": "Europe captain Darren Clarke has allayed fears over the fitness of British Open champion Henrik Stenson ahead of next month's Ryder Cup defense at Hazeltine, Minnesota.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ryder Cup Captain Clarke Calms Stenson Injury Concerns",
+          "print_headline": "Ryder Cup Captain Clarke Calms Stenson Injury Concerns"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:38:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c52b95d0e021d7982e1c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-supreme-court-garland.html",
+        "snippet": "Supreme Court nominee Merrick Garland told entering Harvard Law School students on Friday that they shouldn't expect a predictable career path because life can take surprising turns....",
+        "lead_paragraph": "Supreme Court nominee Merrick Garland told entering Harvard Law School students on Friday that they shouldn't expect a predictable career path because life can take surprising turns.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Garland Tells Law Students That Careers Can Be Unpredictable",
+          "print_headline": "Garland Tells Law Students That Careers Can Be Unpredictable"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:28:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c33d95d0e021d7982e19",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-odd-tollway-cat-chaser.html",
+        "snippet": "Highway experts say a cat chase on a busy Houston-area tollway should serve as a warning about what not to do when animals get loose in traffic....",
+        "lead_paragraph": "Highway experts say a cat chase on a busy Houston-area tollway should serve as a warning about what not to do when animals get loose in traffic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Video of Woman Chasing Cat on Texas Tollway Prompts Warning",
+          "print_headline": "Video of Woman Chasing Cat on Texas Tollway Prompts Warning"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T22:09:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0c1e495d0e021d7982e18",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,807 @@
+{
+  "response": {
+    "meta": {
+      "hits": 957,
+      "time": 30,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/07/sports/olympics/ap-oly-ath-us-track-trials.html",
+        "snippet": "LaShawn Merritt considers his 200-meter races to be more of a lark than anything else....",
+        "lead_paragraph": "LaShawn Merritt considers his 200-meter races to be more of a lark than anything else.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Double the Fun? Merritt Moves On in Quest for Olympic Double",
+          "print_headline": "Double the Fun? Merritt Moves On in Quest for Olympic Double"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-07T21:51:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577f07e338f0d8658862b024",
+        "word_count": "836",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/07/us/ap-10-things-to-know-friday.html",
+        "snippet": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Friday:...",
+        "lead_paragraph": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Friday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "10 Things to Know for Friday",
+          "print_headline": "10 Things to Know for Friday"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-07T21:05:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577f046238f0d8658862b020",
+        "word_count": "355",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/10/arts/television/julie-klausner-difficult-people-season-two.html",
+        "snippet": "Ms. Klausner, who had pursued several outlets for her comedy writing, has gained traction with \u201cDifficult People,\u201d starting its second season on Hulu....",
+        "lead_paragraph": "Ms. Klausner, who had pursued several outlets for her comedy writing, has gained traction with \u201cDifficult People,\u201d starting its second season on Hulu.",
+        "abstract": "Comedian Julie Klausner, creator and co-star of Hulu series Difficult People, is profiled ahead of debut of her show's second season.",
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/10/arts/10KLAUSNER1/10KLAUSNER1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/10/arts/10KLAUSNER1/10KLAUSNER1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/10/arts/10KLAUSNER1/10KLAUSNER1-articleLarge.jpg",
+            "height": 510,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/10/arts/10KLAUSNER1/10KLAUSNER1-articleLarge.jpg",
+              "xlargeheight": "510"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/10/arts/10KLAUSNER1/10KLAUSNER1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/10/arts/10KLAUSNER1/10KLAUSNER1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Julie Klausner\u2019s Comic Success With \u2018Difficult People\u2019",
+          "print_headline": "Comic Success, or What the Cat Heard"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Difficult People (TV Program)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Web-Original Programming"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Hulu.com"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Klausner, Julie"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Eichner, Billy"
+          }
+        ],
+        "pub_date": "2016-07-07T21:35:40+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dave",
+              "rank": 1,
+              "lastname": "ITZKOFF"
+            }
+          ],
+          "original": "By DAVE ITZKOFF"
+        },
+        "type_of_material": "News",
+        "_id": "577ecb2f38f0d8658862af96",
+        "word_count": "1252",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/07/us/ap-us-sheriffs-transplant.html",
+        "snippet": "Eric Baade knew he wanted to one day become a kidney donor....",
+        "lead_paragraph": "Eric Baade knew he wanted to one day become a kidney donor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Folsom Police Officer Donates Kidney to Sheriff's Deputy",
+          "print_headline": "Folsom Police Officer Donates Kidney to Sheriff's Deputy"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-07T20:47:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577f024b38f0d8658862b01d",
+        "word_count": "428",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/08/arts/design/trekkies-set-phasers-to-fun-for-a-trip-to-starfleet-academy.html",
+        "snippet": "\u201cStar Trek: The Starfleet Academy Experience,\u201d at the Intrepid Sea, Air &amp; Space Museum, lets you be an academy cadet in the 26th century....",
+        "lead_paragraph": "\u201cStar Trek: The Starfleet Academy Experience,\u201d at the Intrepid Sea, Air &amp; Space Museum, lets you be an academy cadet in the 26th century.",
+        "abstract": "Intrepid Sea, Air & Space Museum will host interactive exhibition Star Trek: The Starfleet Academy Experience as part of publicity campaign for movie Star Trek Beyond and new Star Trek television series.",
+        "print_page": "20",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/08/arts/08INTREPID1/08INTREPID1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/08/arts/08INTREPID1/08INTREPID1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/08/arts/08INTREPID1/08INTREPID1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/08/arts/08INTREPID1/08INTREPID1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/08/arts/08INTREPID1/08INTREPID1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/08/arts/08INTREPID1/08INTREPID1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trekkies, Set Phasers to Fun for a Trip to Starfleet Academy",
+          "print_headline": "Set Phasers on Fun, Starfleet Cadets"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Intrepid Sea-Air-Space Museum"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Star Trek: The Starfleet Academy Experience (Exhibit)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Star Trek Beyond (Movie)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Star Trek (TV Program)"
+          }
+        ],
+        "pub_date": "2016-07-07T21:22:28+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andy",
+              "rank": 1,
+              "lastname": "WEBSTER"
+            }
+          ],
+          "original": "By ANDY WEBSTER"
+        },
+        "type_of_material": "News",
+        "_id": "577ec81638f0d8658862af88",
+        "word_count": "980",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004518800/protests-break-out-after-shootings.html",
+        "snippet": "After the fatal shooting of a black man by a police officer in Minnesota, protesters gathered on the streets of New York City. That death came in the same week as a similar shooting in Baton Rouge, La....",
+        "lead_paragraph": "After the fatal shooting of a black man by a police officer in Minnesota, protesters gathered on the streets of New York City. That death came in the same week as a similar shooting in Baton Rouge, La.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/07/multimedia/08shootings-protests/08shootings-protests-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/07/multimedia/08shootings-protests/08shootings-protests-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/07/multimedia/08shootings-protests/08shootings-protests-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/07/multimedia/08shootings-protests/08shootings-protests-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/07/multimedia/08shootings-protests/08shootings-protests-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/07/multimedia/08shootings-protests/08shootings-protests-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Protests Break Out After Shootings"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Minnesota"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          }
+        ],
+        "pub_date": "2016-07-07T21:02:17Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Video",
+        "_id": "577efbba38f0d8658862b015",
+        "word_count": "38",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/08/sports/football/paul-hornung-sues-the-helmet-maker-riddell-over-concussions.html",
+        "snippet": "Hornung claims Riddell should have warned players that its helmets, while helping to prevent skull fractures, provided no protection against brain trauma....",
+        "lead_paragraph": "Hornung claims Riddell should have warned players that its helmets, while helping to prevent skull fractures, provided no protection against brain trauma.",
+        "abstract": "Green Bay Packers Hall of Fame running back Paul Hornung sues sports helmet manufacturer Riddell for knowing dangers of brain trauma, including concussions, but neglecting to warn players; deliberately files case separately from class-action suit by former players against NFL.",
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/08/sports/08HORNUNG/08HORNUNG-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/08/sports/08HORNUNG/08HORNUNG-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/08/sports/08HORNUNG/08HORNUNG-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/08/sports/08HORNUNG/08HORNUNG-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/08/sports/08HORNUNG/08HORNUNG-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/08/sports/08HORNUNG/08HORNUNG-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Paul Hornung Sues the Helmet Maker Riddell Over Concussions",
+          "print_headline": "Hall of Famer Hornung Sues Helmet Maker"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Helmets"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Protective Clothing and Gear"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Riddell"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hornung, Paul"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Concussions"
+          }
+        ],
+        "pub_date": "2016-07-07T21:01:04+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ken",
+              "rank": 1,
+              "lastname": "BELSON"
+            }
+          ],
+          "original": "By KEN BELSON"
+        },
+        "type_of_material": "News",
+        "_id": "577ec31238f0d8658862af6a",
+        "word_count": "439",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/08/us/politics/pennsylvania-campaign-voices.html",
+        "snippet": "While a parade of Republicans said this week they could not vote for Donald J. Trump, many also said the same about Hillary Clinton after the F.B.I.\u2019s rebuke....",
+        "lead_paragraph": "While a parade of Republicans said this week they could not vote for Donald J. Trump, many also said the same about Hillary Clinton after the F.B.I.\u2019s rebuke.",
+        "abstract": "White-collar Republicans in Pennsylvania say they cannot vote for Donald Trump in presidential election, offering hope that Hillary Clinton may gain their support despite FBI's damning evidence over Clinton's handling of classified emails; demographic may prove more crucial to outcome in swing state than blue-collar workers.",
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/08/us/08VOICESweb1/08VOICESweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/08/us/08VOICESweb1/08VOICESweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/08/us/08VOICESweb1/08VOICESweb1-articleLarge.jpg",
+            "height": 402,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/08/us/08VOICESweb1/08VOICESweb1-articleLarge.jpg",
+              "xlargeheight": "402"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/08/us/08VOICESweb1/08VOICESweb1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/08/us/08VOICESweb1/08VOICESweb1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Email Issue Only Hardens Political Views in Philadelphia Suburbs",
+          "print_headline": "Email Issue Isn\u2019t Swaying White-Collar Republicans to Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Comey, James B"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Philadelphia (Pa)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Pennsylvania"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "E-Mail"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+          }
+        ],
+        "pub_date": "2016-07-07T21:00:48+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Trip",
+              "rank": 1,
+              "lastname": "GABRIEL"
+            }
+          ],
+          "original": "By TRIP GABRIEL"
+        },
+        "type_of_material": "News",
+        "_id": "577ec30338f0d8658862af69",
+        "word_count": "1142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/08/world/europe/two-convicted-of-conspiring-to-leak-vatican-secrets-in-vatileaks-2.html",
+        "snippet": "A Vatican court found two former members of a papal oversight commission guilty, but said it could not try two journalists....",
+        "lead_paragraph": "A Vatican court found two former members of a papal oversight commission guilty, but said it could not try two journalists.",
+        "abstract": "Vatican court finds Francesca Immacolata Chaouqui and Msgr Lucio Angel Vallejo Balda, former members of papal oversight commission, guilty of conspiring to leak confidential information and documents to press; declines to rule on charges against Gianluigi Nuzzi and Emiliano Fittipaldi, journalists implicated in episode who wrote separate books about Vatican mismanagement and corruption, asserting Vatican law guarantees freedom of press.",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/08/world/08vatican1/08vatican1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/08/world/08vatican1/08vatican1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/08/world/08vatican1/08vatican1-articleLarge.jpg",
+            "height": 409,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/08/world/08vatican1/08vatican1-articleLarge.jpg",
+              "xlargeheight": "409"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/08/world/08vatican1/08vatican1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/08/world/08vatican1/08vatican1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Two Convicted of Conspiring to Leak Vatican Secrets in \u2018Vatileaks 2\u2019",
+          "print_headline": "Vatican Court Finds 2 Guilty in Leak Case"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Roman Catholic Church"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Chaouqui, Francesca"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Vallejo Balda, Lucio Angel"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Fittipaldi, Emiliano"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Nuzzi, Gianluigi"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Francis"
+          }
+        ],
+        "pub_date": "2016-07-07T20:54:28+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elisabetta",
+              "rank": 1,
+              "lastname": "POVOLEDO"
+            }
+          ],
+          "original": "By ELISABETTA POVOLEDO"
+        },
+        "type_of_material": "News",
+        "_id": "577ec18738f0d8658862af61",
+        "word_count": "708",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/07/sports/autoracing/07reuters-motor-indycar-haas.html",
+        "snippet": "Successful auto racing team owner Carl Haas, a former business partner with the late Hollywood actor Paul Newman, has died at the age of 86, his official website (www.haasauto.com) reported on Thursday....",
+        "lead_paragraph": "Successful auto racing team owner Carl Haas, a former business partner with the late Hollywood actor Paul Newman, has died at the age of 86, his official website (www.haasauto.com) reported on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Motor Racing: Iconic Team Owner Carl Haas Dies at 86",
+          "print_headline": "Motor Racing: Iconic Team Owner Carl Haas Dies at 86"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-07T20:50:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577ef91e38f0d8658862b010",
+        "word_count": "231",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,453 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 62,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/business/dealbook/andrew-caspersen-wall-st-4-years-in-prison-fraud.html",
+        "snippet": "Andrew Caspersen, a Wall Street executive from a well-off family, received a far shorter sentence than prosecutors sought after a doctor testified he had a gambling addiction....",
+        "lead_paragraph": "Andrew Caspersen, a Wall Street executive from a well-off family, received a far shorter sentence than prosecutors sought after a doctor testified he had a gambling addiction.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/business/05DB-WALL/05DB-WALL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/business/05DB-WALL/05DB-WALL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/business/05DB-WALL/05DB-WALL-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/business/05DB-WALL/05DB-WALL-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/business/05DB-WALL/05DB-WALL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/business/05DB-WALL/05DB-WALL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Wall St. Scion Gets 4 Years in Prison for Fraud",
+          "print_headline": "Wall St. Scion Gets 4 Years in Prison for Ponzi-Like Fraud"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Caspersen, Andrew"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rakoff, Jed S"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Ponzi and Pyramid Schemes"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "PJT Partners Inc"
+          }
+        ],
+        "pub_date": "2016-11-04T22:23:53Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 1,
+              "lastname": "GOLDSTEIN"
+            }
+          ],
+          "original": "By MATTHEW GOLDSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "581d0a7f95d0e01ffc1e1985",
+        "word_count": "539",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/sports/football/ap-fbn-nfl-fines.html",
+        "snippet": "Green Bay linebacker Datone Jones was fined $36,464 by the NFL on Friday for his roughing-the-passer penalty against Atlanta last week....",
+        "lead_paragraph": "Green Bay linebacker Datone Jones was fined $36,464 by the NFL on Friday for his roughing-the-passer penalty against Atlanta last week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Packers' Datone Jones Fined $36K for Roughing Falcons' Ryan",
+          "print_headline": "Packers' Datone Jones Fined $36K for Roughing Falcons' Ryan"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:19:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d097495d0e01ffc1e1983",
+        "word_count": "276",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-unruly-passenger-arrest.html",
+        "snippet": "Authorities say a plane traveling from Mexico to Germany was diverted to Florida after a passenger attacked several people and threatened others....",
+        "lead_paragraph": "Authorities say a plane traveling from Mexico to Germany was diverted to Florida after a passenger attacked several people and threatened others.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Officials: Violent Passenger Causes Flight to Be Diverted",
+          "print_headline": "Officials: Violent Passenger Causes Flight to Be Diverted"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:19:22Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d097495d0e01ffc1e1984",
+        "word_count": "140",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-barricade-police-shooting.html",
+        "snippet": "Audio and video recorded during a 6-hour standoff between an armed young mother and Baltimore County police illustrate how the tense situation careened toward a tragic end....",
+        "lead_paragraph": "Audio and video recorded during a 6-hour standoff between an armed young mother and Baltimore County police illustrate how the tense situation careened toward a tragic end.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Audio, Video Detail Tragic Standoff Between Mom, Police",
+          "print_headline": "Audio, Video Detail Tragic Standoff Between Mom, Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:19:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d096e95d0e01ffc1e1982",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/us/politics/04reuters-usa-election-foundation.html",
+        "snippet": "The Clinton Foundation has confirmed it accepted a $1 million gift from Qatar while Hillary Clinton was U.S. secretary of state without informing the State Department, even though she had promised to let the agency review new or significantly incr...",
+        "lead_paragraph": "The Clinton Foundation has confirmed it accepted a $1 million gift from Qatar while Hillary Clinton was U.S. secretary of state without informing the State Department, even though she had promised to let the agency review new or significantly increased support from foreign governments.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton's Charity Confirms Qatar's $1 Million Gift While She Was at State Dept",
+          "print_headline": "Clinton's Charity Confirms Qatar's $1 Million Gift While She Was at State Dept"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:18:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d094295d0e01ffc1e1981",
+        "word_count": "790",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/04/sports/06runningviews.html",
+        "snippet": "We asked to see photos of your marathon training, and you delivered. Here's what #MyRunLooksLike....",
+        "lead_paragraph": "We asked to see photos of your marathon training, and you delivered. Here's what #MyRunLooksLike.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/sports/05marathon-sub/05marathon-sub-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/sports/05marathon-sub/05marathon-sub-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/sports/05marathon-sub/05marathon-sub-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/sports/05marathon-sub/05marathon-sub-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/sports/05marathon-sub/05marathon-sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/sports/05marathon-sub/05marathon-sub-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "#MyRunLooksLike: The Road to the Marathon Start Line"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York City Marathon"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Running"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Marathon Running"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Photography"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Instagram Inc"
+          }
+        ],
+        "pub_date": "2016-11-04T22:16:39Z",
+        "document_type": "multimedia",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Talya",
+              "rank": 1,
+              "lastname": "MINSBERG"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kerri",
+              "rank": 2,
+              "lastname": "MacDONALD"
+            }
+          ],
+          "original": "By TALYA MINSBERG and KERRI MacDONALD"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "581d08ca95d0e01ffc1e1980",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/sports/football/ap-fbn-paul-newberry-youth-football.html",
+        "snippet": "Kevin Turner started playing football when he was 5. If his father had it to do over again, he might've insisted that his son wait a few years before taking up the game he loved so much, the game that that would eventually turn his brain to mush a...",
+        "lead_paragraph": "Kevin Turner started playing football when he was 5. If his father had it to do over again, he might've insisted that his son wait a few years before taking up the game he loved so much, the game that that would eventually turn his brain to mush and snuff out his life far too soon.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: Youth Football a Defining Issue With No Easy Answers",
+          "print_headline": "Column: Youth Football a Defining Issue With No Easy Answers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:16:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d08ae95d0e01ffc1e197f",
+        "word_count": "962",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/politics/ap-us-campaign-2016-disputing-the-results.html",
+        "snippet": "Donald Trump has notoriously refused to say he would accept a loss to Hillary Clinton in the Nov. 8 election, raising the prospect of a prolonged legal fight that could roil the nation. Legal battles over voting results are rarely successful but t...",
+        "lead_paragraph": "Donald Trump has notoriously refused to say he would accept a loss to Hillary Clinton in the Nov. 8 election, raising the prospect of a prolonged legal fight that could roil the nation. Legal battles over voting results are rarely successful but they do happen &#8212; most famously in 2000, when a 537-vote margin separated Democrat Al Gore and Republican George W. Bush in the must-win state of Florida. In that case, it took a Supreme Court ruling along party lines to resolve the dispute and make Bush president.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Closer the Race, the More Likely a Legal Challenge",
+          "print_headline": "The Closer the Race, the More Likely a Legal Challenge"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:13:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d081195d0e01ffc1e197e",
+        "word_count": "980",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/politics/ap-us-supreme-court-scalia.html",
+        "snippet": "The late Justice Antonin Scalia was a towering legal figure and a powerful writer &#8212; but he was also technologically challenged....",
+        "lead_paragraph": "The late Justice Antonin Scalia was a towering legal figure and a powerful writer &#8212; but he was also technologically challenged.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "SUPREME COURT NOTEBOOK: Scalia Lauded at High-Court Ceremony",
+          "print_headline": "SUPREME COURT NOTEBOOK: Scalia Lauded at High-Court Ceremony"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:10:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d076595d0e01ffc1e197d",
+        "word_count": "640",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/sports/football/ap-fbn-jets-disrespected-revis.html",
+        "snippet": "Darrelle Revis feels downright disrespected....",
+        "lead_paragraph": "Darrelle Revis feels downright disrespected.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Interview: Revis Says 'People Don't Respect Me Enough'",
+          "print_headline": "AP Interview: Revis Says 'People Don't Respect Me Enough'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:07:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d06a495d0e01ffc1e197c",
+        "word_count": "1066",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

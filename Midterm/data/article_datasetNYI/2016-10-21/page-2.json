@@ -1,0 +1,422 @@
+{
+  "response": {
+    "meta": {
+      "hits": 871,
+      "time": 44,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/sports/autoracing/21reuters-motor-f1-usa-ferrari.html",
+        "snippet": "Ferrari boss Maurizio Arrivabene offered a weary smile on Friday when asked whether there was a 'climate of fear' at his Formula One team....",
+        "lead_paragraph": "Ferrari boss Maurizio Arrivabene offered a weary smile on Friday when asked whether there was a 'climate of fear' at his Formula One team.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Motor Racing: Ferrari Climate of Fear? Old Story, Says Arrivabene",
+          "print_headline": "Motor Racing: Ferrari Climate of Fear? Old Story, Says Arrivabene"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:51:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9bf995d0e022439c495e",
+        "word_count": "358",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/22/world/africa/cameroon-train-derailment.html",
+        "snippet": "Hundreds of people were injured when the packed passenger train traveling between Cameroon\u2019s two largest cities derailed and overturned....",
+        "lead_paragraph": "Hundreds of people were injured when the packed passenger train traveling between Cameroon\u2019s two largest cities derailed and overturned.",
+        "abstract": "Crowded passenger train derails in Cameroon, killing at least 55 people and injuring 575.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/22/world/CAMEROON/CAMEROON-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/22/world/CAMEROON/CAMEROON-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/22/world/CAMEROON/CAMEROON-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/22/world/CAMEROON/CAMEROON-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/22/world/CAMEROON/CAMEROON-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/22/world/CAMEROON/CAMEROON-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Train Derails in Cameroon, Leaving Dozens Dead",
+          "print_headline": "Crowded Train Derails in Cameroon, Leaving Dozens Dead"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Cameroon"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Railroad Accidents and Safety"
+          }
+        ],
+        "pub_date": "2016-10-21T22:49:46+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9b9095d0e022439c495d",
+        "word_count": "309",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/sports/baseball/ap-bbn-nlcs-dodgers-cubs.html",
+        "snippet": "All that's left for the Chicago Cubs to do is make history....",
+        "lead_paragraph": "All that's left for the Chicago Cubs to do is make history.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kershaw Stands in the Way of Cubs' Chance to Make History",
+          "print_headline": "Kershaw Stands in the Way of Cubs' Chance to Make History"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:49:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9b6d95d0e022439c495b",
+        "word_count": "782",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-police-shooting-north-charleston-the-latest.html",
+        "snippet": "The Latest on the trial of a South Carolina police officer charged with murder in a traffic stop shooting (all times local):...",
+        "lead_paragraph": "The Latest on the trial of a South Carolina police officer charged with murder in a traffic stop shooting (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Judge Rules Against Defense in Slager Hearing",
+          "print_headline": "The Latest: Judge Rules Against Defense in Slager Hearing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:49:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9b7495d0e022439c495c",
+        "word_count": "437",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/22/us/pennsylvania-universities-faculty-strike.html",
+        "snippet": "A tentative agreement between the faculty union and the state includes raises and measures to save on health care costs....",
+        "lead_paragraph": "A tentative agreement between the faculty union and the state includes raises and measures to save on health care costs.",
+        "abstract": "Assn of Pennsylvania State College and University Faculties officials announce end of three-day strike by thousands of faculty members after reaching tentative agreement with state regarding salary raises and plans to save on health care costs.",
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/22/us/22xp-strike/22xp-strike-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/22/us/22xp-strike/22xp-strike-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/22/us/22xp-strike/22xp-strike-articleLarge.jpg",
+            "height": 372,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/22/us/22xp-strike/22xp-strike-articleLarge.jpg",
+              "xlargeheight": "372"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/22/us/22xp-strike/22xp-strike-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/22/us/22xp-strike/22xp-strike-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Faculty Members at State Universities in Pennsylvania End 3-Day Strike",
+          "print_headline": "Faculty Members in Pennsylvania End 3-Day Strike"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Organized Labor"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Strikes"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Pennsylvania"
+          }
+        ],
+        "pub_date": "2016-10-21T22:44:34+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1,
+              "lastname": "MELE"
+            }
+          ],
+          "original": "By CHRISTOPHER MELE"
+        },
+        "type_of_material": "News",
+        "_id": "580a9a5c95d0e022439c495a",
+        "word_count": "310",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-fbn-concussion-conference.html",
+        "snippet": "Former NFL Alumni Association President George Martin says concussions are a scourge in contact sports with long-term consequences still widely underestimated....",
+        "lead_paragraph": "Former NFL Alumni Association President George Martin says concussions are a scourge in contact sports with long-term consequences still widely underestimated.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Player Says Concussions Are Still Widely Underestimated",
+          "print_headline": "Ex-Player Says Concussions Are Still Widely Underestimated"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:43:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9a1795d0e022439c4959",
+        "word_count": "119",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/sports/baseball/ap-bbo-world-series-indians-pitching-.html",
+        "snippet": "After weeks of being broken and bloodied, the Indians' pitching staff may have reinforcements in the World Series....",
+        "lead_paragraph": "After weeks of being broken and bloodied, the Indians' pitching staff may have reinforcements in the World Series.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Indians Could Have Starter Salazar Back for World Series",
+          "print_headline": "Indians Could Have Starter Salazar Back for World Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:43:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9a0095d0e022439c4958",
+        "word_count": "509",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-killings-by-police-minneapolis-the-latest.html",
+        "snippet": "The Latest on an internal investigation by Minneapolis police into the November 2015 fatal shooting of a black man by two white officers on the city's north side (all times local):...",
+        "lead_paragraph": "The Latest on an internal investigation by Minneapolis police into the November 2015 fatal shooting of a black man by two white officers on the city's north side (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: No Sanctions for Minneapolis Cops in Man's Death",
+          "print_headline": "The Latest: No Sanctions for Minneapolis Cops in Man's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:42:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a99f995d0e022439c4957",
+        "word_count": "309",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/us/21reuters-usa-election-poll.html",
+        "snippet": "Donald Trump gained on Hillary Clinton among American voters this week, cutting her lead nearly in half despite a string of women accusing him of unwanted sexual advances and the furor over his disputed claims that the election process is rigged, ...",
+        "lead_paragraph": "Donald Trump gained on Hillary Clinton among American voters this week, cutting her lead nearly in half despite a string of women accusing him of unwanted sexual advances and the furor over his disputed claims that the election process is rigged, according to a Reuters/Ipsos poll released on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Gains on Clinton Despite Furor Over Women, Election Comments",
+          "print_headline": "Trump Gains on Clinton Despite Furor Over Women, Election Comments"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:42:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a99de95d0e022439c4956",
+        "word_count": "527",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/us/21reuters-minnesota-police.html",
+        "snippet": "Two Minnesota police officers involved in the shooting death of a 24-year-old black man will not face charges after an internal investigation determined they did not violate police policy and were justified in the use of deadly force, the Minneapo...",
+        "lead_paragraph": "Two Minnesota police officers involved in the shooting death of a 24-year-old black man will not face charges after an internal investigation determined they did not violate police policy and were justified in the use of deadly force, the Minneapolis Police Department(MPD) said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Cleared in Shooting Death of Minneapolis Black Man",
+          "print_headline": "Police Cleared in Shooting Death of Minneapolis Black Man"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:36:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a987895d0e022439c4955",
+        "word_count": "389",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

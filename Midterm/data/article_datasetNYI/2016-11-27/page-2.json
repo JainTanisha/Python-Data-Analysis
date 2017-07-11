@@ -1,0 +1,542 @@
+{
+  "response": {
+    "meta": {
+      "hits": 370,
+      "time": 47,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/sports/ncaabasketball/ap-bkw-t25-high-point-west-virginia.html",
+        "snippet": "Tynice Martin scored 21 points, Lanay Montgomery had 15 points and 14 rebounds, and No. 19 West Virginia beat High Point 82-59 on Sunday....",
+        "lead_paragraph": "Tynice Martin scored 21 points, Lanay Montgomery had 15 points and 14 rebounds, and No. 19 West Virginia beat High Point 82-59 on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 19 West Virginia Women Beat High Point 82-59",
+          "print_headline": "No. 19 West Virginia Women Beat High Point 82-59"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:00:43+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b65a295d0e03926072b82",
+        "word_count": "154",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/crosswords/childrens-game.html",
+        "snippet": "Kristian House starts our solving week on the run....",
+        "lead_paragraph": "Kristian House starts our solving week on the run.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/crosswords/28wordplay-knit/28wordplay-knit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/crosswords/28wordplay-knit/28wordplay-knit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/crosswords/28wordplay-knit/28wordplay-knit-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/crosswords/28wordplay-knit/28wordplay-knit-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/crosswords/28wordplay-knit/28wordplay-knit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/crosswords/28wordplay-knit/28wordplay-knit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Children\u2019s Game",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Games"
+          }
+        ],
+        "pub_date": "2016-11-27T23:00:04+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "News",
+        "_id": "583b657f95d0e03926072b81",
+        "word_count": "419",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/sports/soccer/27reuters-soccer-spain-fcb-pique.html",
+        "snippet": "Gerard Pique gave a scathing assessment of Barcelona's display after the champions were held to a 1-1 draw by Real Sociedad on Sunday and cast doubt on his team's ability to retain the La Liga title unless their performances improve....",
+        "lead_paragraph": "Gerard Pique gave a scathing assessment of Barcelona's display after the champions were held to a 1-1 draw by Real Sociedad on Sunday and cast doubt on his team's ability to retain the La Liga title unless their performances improve.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pique Fiercely Critical of Barca After Draw at Real Sociedad",
+          "print_headline": "Pique Fiercely Critical of Barca After Draw at Real Sociedad"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:57:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b64e095d0e03926072b80",
+        "word_count": "418",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/us/ap-us-new-orleans-shooting-the-latest.html",
+        "snippet": "The Latest on a mass shooting in the New Orleans French Quarter (all times local):...",
+        "lead_paragraph": "The Latest on a mass shooting in the New Orleans French Quarter (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Police Identify Man Dead in New Orleans Shooting",
+          "print_headline": "The Latest: Police Identify Man Dead in New Orleans Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:54:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b643d95d0e03926072b7f",
+        "word_count": "221",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/us/ap-us-thanksgiving-travel-the-latest.html",
+        "snippet": "The Latest on Thanksgiving holiday travel across the country:...",
+        "lead_paragraph": "The Latest on Thanksgiving holiday travel across the country:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Air Travel Normal as Holiday Weekend Winds Down",
+          "print_headline": "The Latest: Air Travel Normal as Holiday Weekend Winds Down"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:54:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b643c95d0e03926072b7e",
+        "word_count": "272",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/world/middleeast/27reuters-yemen-security-saleh.html",
+        "snippet": "Yemen's powerful ex-president Ali Abdullah Saleh, a key ally of the country's dominant Houthi movement, has asked the United Nations Security Council to allow him to travel to Cuba to pay respects to former president Fidel Castro, according to a s...",
+        "lead_paragraph": "Yemen's powerful ex-president Ali Abdullah Saleh, a key ally of the country's dominant Houthi movement, has asked the United Nations Security Council to allow him to travel to Cuba to pay respects to former president Fidel Castro, according to a statement by his party.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Yemen's Saleh Asks UN to Allow Him to Travel to Cuba-Statement",
+          "print_headline": "Yemen's Saleh Asks UN to Allow Him to Travel to Cuba-Statement"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:48:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b62c495d0e03926072b7d",
+        "word_count": "375",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/business/27reuters-baker-hughes-barrons.html",
+        "snippet": "Shares of oilfield services company Baker Hughes Inc could rise significantly if it completes its merger with General Electric Co's oil and gas division, according to a report in Barron's....",
+        "lead_paragraph": "Shares of oilfield services company Baker Hughes Inc could rise significantly if it completes its merger with General Electric Co's oil and gas division, according to a report in Barron's.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Baker Hughes Shares Set to Rise on GE Deal: Barron's",
+          "print_headline": "Baker Hughes Shares Set to Rise on GE Deal: Barron's"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:45:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b621395d0e03926072b7c",
+        "word_count": "122",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/world/middleeast/27reuters-mideast-australia-recruiter.html",
+        "snippet": "Australia is awaiting Turkey's response to a request to extradite a citizen believed to be a top recruiter for Islamic State who has been arrested in Turkey, the Australian government said on Monday....",
+        "lead_paragraph": "Australia is awaiting Turkey's response to a request to extradite a citizen believed to be a top recruiter for Islamic State who has been arrested in Turkey, the Australian government said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Australia Awaits Turkey's Response on Extradition of IS Recruiter",
+          "print_headline": "Australia Awaits Turkey's Response on Extradition of IS Recruiter"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:42:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b615c95d0e03926072b7b",
+        "word_count": "220",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/arts/design/whitney-biennial-to-miami-artists-its-not-us-its-you.html",
+        "snippet": "For the fourth Biennial in a row, no Miami artist was chosen; a Biennial adviser said the determining factor was art that addressed social upheavals....",
+        "lead_paragraph": "For the fourth Biennial in a row, no Miami artist was chosen; a Biennial adviser said the determining factor was art that addressed social upheavals.",
+        "abstract": "Whitney Museum of American Art chooses no Miami artists for fourth consecutive Biennial; Miami-based adviser to show suggests lack of sociopolitical commentary in city's art scene might explain omission.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/arts/28BACKLASH/28BACKLASH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/arts/28BACKLASH/28BACKLASH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/arts/28BACKLASH/28BACKLASH-articleLarge.jpg",
+            "height": 800,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/arts/28BACKLASH/28BACKLASH-articleLarge.jpg",
+              "xlargeheight": "800"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/arts/28BACKLASH/28BACKLASH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/arts/28BACKLASH/28BACKLASH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Whitney Biennial to Miami Artists: It\u2019s Not Us, It\u2019s You",
+          "print_headline": "Miami Artists Feel the Cold From Biennial"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Whitney Museum of American Art"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art Basel Miami Beach"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rothkopf, Scott"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lew, Christopher Y"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Miami (Fla)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Guerrier, Adler"
+          }
+        ],
+        "pub_date": "2016-11-27T22:40:20+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Brett",
+              "rank": 1,
+              "lastname": "SOKOL"
+            }
+          ],
+          "original": "By BRETT SOKOL"
+        },
+        "type_of_material": "News",
+        "_id": "583b60d995d0e03926072b7a",
+        "word_count": "705",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/us/politics/steve-bannon-white-house.html",
+        "snippet": "Mr. Bannon courted politicians who share his dark, populist worldview of a ruling class preying on working Americans and \u201cthe Judeo-Christian West\u201d in a \u201cwar against Islamic fascism.\u201d...",
+        "lead_paragraph": "Mr. Bannon courted politicians who share his dark, populist worldview of a ruling class preying on working Americans and \u201cthe Judeo-Christian West\u201d in a \u201cwar against Islamic fascism.\u201d",
+        "abstract": "Profile of Stephen Bannon, controversial figure who Donald Trump has named as senior counselor and chief White House strategist; Bannon has found in Trump vessel for his worldview and populist goals for America, as well as parallel to strong admiration Bannon held for Pres Ronald Reagan in 1980s. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/us/28BANNON-1/25BANNON-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/us/28BANNON-1/25BANNON-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/us/28BANNON-1/25BANNON-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/us/28BANNON-1/25BANNON-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/us/28BANNON-1/25BANNON-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/us/28BANNON-1/25BANNON-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Combative, Populist Steve Bannon Found His Man in Donald Trump",
+          "print_headline": "In Trump, Populist Provocateur Found the Man for His Mission"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bannon, Stephen K"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Breitbart News Network LLC"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Goldman Sachs Group Inc"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Breitbart, Andrew"
+          }
+        ],
+        "pub_date": "2016-11-27T22:38:32+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Sharon LaFraniere, Jo Becker and Jacqueline Williams contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Scott",
+              "rank": 1,
+              "lastname": "SHANE"
+            }
+          ],
+          "original": "By SCOTT SHANE"
+        },
+        "type_of_material": "News",
+        "_id": "583b607095d0e03926072b79",
+        "word_count": "4920",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

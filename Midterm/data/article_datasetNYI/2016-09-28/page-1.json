@@ -1,0 +1,444 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1011,
+      "time": 45,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004677024/russia-linked-to-malaysian-jet-crash.html",
+        "snippet": "Prosecutors investigating Malaysia Airlines Flight 17\u2019s crash in Ukraine found evidence that was not previously made public. The Times Moscow correspondent Andrew E. Kramer talks about the inquiry and what it means....",
+        "lead_paragraph": "Prosecutors investigating Malaysia Airlines Flight 17\u2019s crash in Ukraine found evidence that was not previously made public. The Times Moscow correspondent Andrew E. Kramer talks about the inquiry and what it means.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/29/world/29Malaysiaair-web/29Malaysiaair-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/29/world/29Malaysiaair-web/29Malaysiaair-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/29/world/29Malaysiaair-web/29Malaysiaair-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/29/world/29Malaysiaair-web/29Malaysiaair-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/29/world/29Malaysiaair-web/29Malaysiaair-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/29/world/29Malaysiaair-web/29Malaysiaair-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Russia Linked to Malaysian Jet Crash"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Aviation Accidents, Safety and Disasters"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Malaysia Airlines Flight 17"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ukraine"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-09-28T23:55:36+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Natalia",
+              "middlename": "V.",
+              "lastname": "OSIPOVA",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "firstname": "Andrew",
+              "middlename": "E.",
+              "lastname": "KRAMER",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By NATALIA V. OSIPOVA and ANDREW E. KRAMER"
+        },
+        "type_of_material": "Video",
+        "_id": "57ec587f95d0e021d7988f74",
+        "word_count": "32",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/sports/soccer/28reuters-soccer-forum.html",
+        "snippet": "Chinese investors will continue to buy heavily into European clubs and the country's own clubs will step up their pursuit of big name players to compete in their Super League, two leading figures in Chinese soccer have said....",
+        "lead_paragraph": "Chinese investors will continue to buy heavily into European clubs and the country's own clubs will step up their pursuit of big name players to compete in their Super League, two leading figures in Chinese soccer have said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "China's Expansion Into Europe, at Home Set to Continue",
+          "print_headline": "China's Expansion Into Europe, at Home Set to Continue"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:52:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec584195d0e021d7988f73",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/sports/olympics/ap-oly-1968-protesters.html",
+        "snippet": "Tommie Smith and John Carlos were proud to raise their gloved fists in a symbolic protest at the Olympics, and now they're proud that Colin Kaepernick and other athletes are staging national anthem protests to raise awareness about racial inequali...",
+        "lead_paragraph": "Tommie Smith and John Carlos were proud to raise their gloved fists in a symbolic protest at the Olympics, and now they're proud that Colin Kaepernick and other athletes are staging national anthem protests to raise awareness about racial inequality and police brutality.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Raised-Fist Protesters Smith, Carlos Support Kaepernick",
+          "print_headline": "Raised-Fist Protesters Smith, Carlos Support Kaepernick"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:44:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec573695d0e021d7988f72",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/02/fashion/brian-anderson-skateboarding-gay-coming-out-vice-sports.html",
+        "snippet": "Mr. Anderson, 40, becomes the most prominent professional athlete to come out as gay in a sport once considered tinged with homophobia....",
+        "lead_paragraph": "Mr. Anderson, 40, becomes the most prominent professional athlete to come out as gay in a sport once considered tinged with homophobia.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/02/fashion/02ANDERSON3-WEB/02ANDERSON3-WEB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/02/fashion/02ANDERSON3-WEB/02ANDERSON3-WEB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/02/fashion/02ANDERSON3-WEB/02ANDERSON3-WEB-articleLarge.jpg",
+            "height": 899,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/02/fashion/02ANDERSON3-WEB/02ANDERSON3-WEB-articleLarge.jpg",
+              "xlargeheight": "899"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/02/fashion/02ANDERSON3-WEB/02ANDERSON3-WEB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/02/fashion/02ANDERSON3-WEB/02ANDERSON3-WEB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brian Anderson, Skateboarding Star, Comes Out as Gay",
+          "print_headline": "A Skater\u2019s Most Forceful Move Yet"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Homosexuality and Bisexuality"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Skateboarding"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Anderson, Brian (1976- )"
+          }
+        ],
+        "pub_date": "2016-09-28T23:44:08+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Conor",
+              "rank": 1,
+              "lastname": "DOUGHERTY"
+            }
+          ],
+          "original": "By CONOR DOUGHERTY"
+        },
+        "type_of_material": "News",
+        "_id": "57ec55cd95d0e021d7988f71",
+        "word_count": "1159",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-starbucks-slaying-vegas.html",
+        "snippet": "The man killed in a weekend shooting at a Starbucks coffee shop in Las Vegas was a naturalized U.S. citizen from the country of Georgia, where he served in the military and learned not to back away from conflict, a lifelong friend said Wednesday....",
+        "lead_paragraph": "The man killed in a weekend shooting at a Starbucks coffee shop in Las Vegas was a naturalized U.S. citizen from the country of Georgia, where he served in the military and learned not to back away from conflict, a lifelong friend said Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Friend: Starbucks Shooting Victim Became US Citizen in 2004",
+          "print_headline": "Friend: Starbucks Shooting Victim Became US Citizen in 2004"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:34:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec54ef95d0e021d7988f6f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-maine-146-mph.html",
+        "snippet": "Maine State Police say they've charged an 18-year-old Manchester man with driving a Dodge Neon at 146 mph on Interstate 95, more than twice the 70 mph speed limit....",
+        "lead_paragraph": "Maine State Police say they've charged an 18-year-old Manchester man with driving a Dodge Neon at 146 mph on Interstate 95, more than twice the 70 mph speed limit.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Say Maine Man Drove 146 on I-95",
+          "print_headline": "Police Say Maine Man Drove 146 on I-95"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:27:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec537695d0e021d7988f6d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-standoff-police-shoot-man.html",
+        "snippet": "Police have identified the officer who shot a suicidal man wielding a replica pellet gun in Maryland....",
+        "lead_paragraph": "Police have identified the officer who shot a suicidal man wielding a replica pellet gun in Maryland.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Identify Maryland Officer Who Shot Suicidal Man",
+          "print_headline": "Police Identify Maryland Officer Who Shot Suicidal Man"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:07:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec537695d0e021d7988f6e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-zika-related-death-new-case.html",
+        "snippet": "A Utah man who mysteriously contracted Zika from his infected father may have got it by touching his dad's tears or sweat with his bare hands, according to new research unveiled Wednesday that found the unusual transmission method was likely cause...",
+        "lead_paragraph": "A Utah man who mysteriously contracted Zika from his infected father may have got it by touching his dad's tears or sweat with his bare hands, according to new research unveiled Wednesday that found the unusual transmission method was likely caused by his dying father having 100,000 times the normal level of the virus.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Utah Man May Have Contracted Zika From Dying Father's Tears",
+          "print_headline": "Utah Man May Have Contracted Zika From Dying Father's Tears"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:27:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec52fe95d0e021d7988f6c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-taylor-shellfish-racial-harassment.html",
+        "snippet": "One of the largest producers of shellfish in the country is being sued over claims it permitted ongoing racial harassment and retaliatory discipline against a black maintenance mechanic....",
+        "lead_paragraph": "One of the largest producers of shellfish in the country is being sued over claims it permitted ongoing racial harassment and retaliatory discipline against a black maintenance mechanic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Major National Seafood Company Sued for Racial Harassment",
+          "print_headline": "Major National Seafood Company Sued for Racial Harassment"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T22:57:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec52c395d0e021d7988f6a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/world/asia/28reuters-health-superbugs-india-insight.html",
+        "snippet": "Centuries ago, Indian princes would bathe in the cool Kazhipally lake in Medak. Now, even the poorest villagers here in India's baking south point to the barren banks and frothy water and say they avoid going anywhere near it....",
+        "lead_paragraph": "Centuries ago, Indian princes would bathe in the cool Kazhipally lake in Medak. Now, even the poorest villagers here in India's baking south point to the barren banks and frothy water and say they avoid going anywhere near it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Cost of Cheap Drugs? Toxic Indian Lake Is 'Superbug Hotspot'",
+          "print_headline": "The Cost of Cheap Drugs? Toxic Indian Lake Is 'Superbug Hotspot'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:22:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec513f95d0e021d7988f69",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

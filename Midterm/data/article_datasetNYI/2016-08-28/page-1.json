@@ -1,0 +1,418 @@
+{
+  "response": {
+    "meta": {
+      "hits": 473,
+      "time": 58,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/28/arts/28reuters-mexico-juangabriel.html",
+        "snippet": "Mexican singer Juan Gabriel, a musical icon across Latin America for more than 40 years, died on Sunday of a heart attack at age 66, broadcaster Televisa reported....",
+        "lead_paragraph": "Mexican singer Juan Gabriel, a musical icon across Latin America for more than 40 years, died on Sunday of a heart attack at age 66, broadcaster Televisa reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexican Singer Juan Gabriel Dies of Heart Attack Aged 66",
+          "print_headline": "Mexican Singer Juan Gabriel Dies of Heart Attack Aged 66"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:32:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c374d395d0e021d798315a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/ap-car-nascar-michigan-buescher.html",
+        "snippet": "Chris Buescher remained in position to reach the Chase for the Sprint Cup....",
+        "lead_paragraph": "Chris Buescher remained in position to reach the Chase for the Sprint Cup.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Buescher Still Holding On to 30th Place After Poor Showing",
+          "print_headline": "Buescher Still Holding On to 30th Place After Poor Showing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:28:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c3744895d0e021d7983159",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/28/fashion/mtv-vma-red-carpet-fashion-arrivals.html",
+        "snippet": "Updating: Beyonc\u00e9; Nicki Minaj; Kim Kardashian West; and Kanye West and more fashion from one of the music industry\u2019s biggest award shows....",
+        "lead_paragraph": "Updating: Beyonc\u00e9; Nicki Minaj; Kim Kardashian West; and Kanye West and more fashion from one of the music industry\u2019s biggest award shows.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/28/fashion/28VMA-COMBO3/28VMA-COMBO3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/28/fashion/28VMA-COMBO3/28VMA-COMBO3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/28/fashion/28VMA-COMBO3/28VMA-COMBO3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/28/fashion/28VMA-COMBO3/28VMA-COMBO3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/28/fashion/28VMA-COMBO3/28VMA-COMBO3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/28/fashion/28VMA-COMBO3/28VMA-COMBO3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "MTV V.M.A. Red Carpet Fashion Arrivals"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c3741795d0e021d7983158",
+        "word_count": "22",
+        "slideshow_credits": "From left: Larry Busacca/Getty Images For MTV. Jamie Mccarthy/Getty Images. Jamie Mccarthy/Getty Images"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/29/business/media/plane-rides-and-presidential-transparency.html",
+        "snippet": "Hillary Clinton and Donald J. Trump have not allowed the press corps to travel with them on their campaign airplanes, suspending a tradition that had lasted more than 50 years....",
+        "lead_paragraph": "Hillary Clinton and Donald J. Trump have not allowed the press corps to travel with them on their campaign airplanes, suspending a tradition that had lasted more than 50 years.",
+        "abstract": "Jim Rutenberg Mediator column criticizes Democratic presidential nominee Hillary Clinton for lack of transparency, noting her actions put her political imperatives ahead of public's right to know. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/27/business/29RUTENBERG/29RUTENBERG-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/27/business/29RUTENBERG/29RUTENBERG-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/27/business/29RUTENBERG/29RUTENBERG-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/27/business/29RUTENBERG/29RUTENBERG-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/27/business/29RUTENBERG/29RUTENBERG-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/27/business/29RUTENBERG/29RUTENBERG-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Plane Rides and Presidential Transparency",
+          "content_kicker": "Mediator",
+          "kicker": "Mediator",
+          "print_headline": "Plane Rides and Presidential Transparency"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Airlines and Airplanes"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Air Force One (Jet)"
+          }
+        ],
+        "pub_date": "2016-08-28T23:26:28+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jim",
+              "rank": 1,
+              "lastname": "RUTENBERG"
+            }
+          ],
+          "original": "By JIM RUTENBERG"
+        },
+        "type_of_material": "News",
+        "_id": "57c3732a95d0e021d7983157",
+        "word_count": "1343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/golf/ap-glf-ryder-cup.html",
+        "snippet": "Rickie Fowler lost the lead, the tournament and a guaranteed spot on the Ryder Cup team....",
+        "lead_paragraph": "Rickie Fowler lost the lead, the tournament and a guaranteed spot on the Ryder Cup team.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Fowler Plays His Way Off US Ryder Cup Team",
+          "print_headline": "Fowler Plays His Way Off US Ryder Cup Team"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:20:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c3721a95d0e021d7983155",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/28/world/europe/28reuters-mideast-crisis-syria-homs.html",
+        "snippet": "Jets believed to be Syrian planes hit the besieged Al-Waer neighbourhood in the city of Homs on Sunday, a day after the evacuation of residents and fighters from rebel-held Daraya on the outskirts of the capital, residents and a monitor said....",
+        "lead_paragraph": "Jets believed to be Syrian planes hit the besieged Al-Waer neighbourhood in the city of Homs on Sunday, a day after the evacuation of residents and fighters from rebel-held Daraya on the outskirts of the capital, residents and a monitor said.  ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jets Hit Rebel-Held Homs Area for First Time in Year-Residents and Monitor",
+          "print_headline": "Jets Hit Rebel-Held Homs Area for First Time in Year-Residents and Monitor"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:19:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c371fe95d0e021d7983154",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/28/business/28reuters-southkorea-housing-glut.html",
+        "snippet": "In Yongin, a satellite city south of Seoul, orange construction cranes are racing to build gleaming new high-rises, but realtor Kim Woong-jib says he is pointing would-be apartment buyers to older buildings....",
+        "lead_paragraph": "In Yongin, a satellite city south of Seoul, orange construction cranes are racing to build gleaming new high-rises, but realtor Kim Woong-jib says he is pointing would-be apartment buyers to older buildings.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "After Building Boom, South Korea Girds for Housing Glut",
+          "print_headline": "After Building Boom, South Korea Girds for Housing Glut"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:17:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c3714d95d0e021d7983153",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/soccer/bc-soc-mls-sounders-timbers.html",
+        "snippet": "Portland erased any lingering disappointment about last weekend's loss to Seattle by soundly beating the Sounders this weekend....",
+        "lead_paragraph": "Portland erased any lingering disappointment about last weekend's loss to Seattle by soundly beating the Sounders this weekend.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Timbers Defeat Rival Sounders 4-2",
+          "print_headline": "Timbers Defeat Rival Sounders 4-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:13:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c370a895d0e021d7983152",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Patrick Reed picked up two victories in one day. He won The Barclays to assure himself a clear shot at the $10 million bonus in the FedEx Cup, and he easily secured a spot on his second straight U.S. Ryder Cup team....",
+        "lead_paragraph": "Patrick Reed picked up two victories in one day. He won The Barclays to assure himself a clear shot at the $10 million bonus in the FedEx Cup, and he easily secured a spot on his second straight U.S. Ryder Cup team.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T23:06:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c36f4095d0e021d7983151",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/us/ap-us-shooting-off-duty-officer.html",
+        "snippet": "Authorities say an off-duty police officer shot and killed a man who tried to take a gun away from him in New Jersey's capital city....",
+        "lead_paragraph": "Authorities say an off-duty police officer shot and killed a man who tried to take a gun away from him in New Jersey's capital city.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Authorities: Off-Duty Cop Kills Man Who Tried to Take Gun",
+          "print_headline": "Authorities: Off-Duty Cop Kills Man Who Tried to Take Gun"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T22:59:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c36d2595d0e021d7983150",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

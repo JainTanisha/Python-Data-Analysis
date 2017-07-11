@@ -1,0 +1,1070 @@
+{
+  "response": {
+    "meta": {
+      "hits": 194,
+      "time": 67,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/arts/dance/kyle-abraham-untitled-america-trilogy-final-part.html",
+        "snippet": "The final installment will be presented in a three-part suite with the first two parts starting Dec. 7, during the Alvin Ailey troupe\u2019s new season....",
+        "lead_paragraph": "The final installment will be presented in a three-part suite with the first two parts starting Dec. 7, during the Alvin Ailey troupe\u2019s new season.",
+        "abstract": "Alvin Ailey American Dance Theater announces 2016 season, featuring premieres by Kyle Abraham and company member Hope Boykin.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04ABRAHAM/04ABRAHAM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04ABRAHAM/04ABRAHAM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04ABRAHAM/04ABRAHAM-articleLarge.jpg",
+            "height": 533,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04ABRAHAM/04ABRAHAM-articleLarge.jpg",
+              "xlargeheight": "533"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04ABRAHAM/04ABRAHAM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04ABRAHAM/04ABRAHAM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Kyle Abraham\u2019s \u2018Untitled America\u2019 Trilogy Reaches its Conclusion",
+          "print_headline": "Ailey Premieres"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Untitled America (Dance)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Abraham, Kyle (1977- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Raime (Music Group)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Boykin, Hope L"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ailey, Alvin"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ailey, Alvin, American Dance Theater"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joshua",
+              "rank": 1,
+              "lastname": "BARONE"
+            }
+          ],
+          "original": "By JOSHUA BARONE"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f76d95d0e021d797ea71",
+        "word_count": "231",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/nyregion/100000004567281/sinkhole-swallows-suv-in-albany-ny.html",
+        "snippet": "A 42-inch water main broke on Tuesday, creating a large sinkhole into which a vehicle fell. A nearby building was evacuated as a precaution....",
+        "lead_paragraph": "A 42-inch water main broke on Tuesday, creating a large sinkhole into which a vehicle fell. A nearby building was evacuated as a precaution.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/multimedia/03albany-sinkhole/03albany-sinkhole-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/multimedia/03albany-sinkhole/03albany-sinkhole-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/multimedia/03albany-sinkhole/03albany-sinkhole-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/multimedia/03albany-sinkhole/03albany-sinkhole-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/multimedia/03albany-sinkhole/03albany-sinkhole-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/multimedia/03albany-sinkhole/03albany-sinkhole-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sinkhole Swallows S.U.V. in Albany, N.Y."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Evacuations and Evacuees"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sinkholes"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Albany (NY)"
+          }
+        ],
+        "pub_date": "2016-08-03T20:10:46Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Wnyt",
+              "rank": 1
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 2
+            }
+          ],
+          "original": "By WNYT, VIA ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "57aa185195d0e021d797ef94",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/fashion/gillian-jacobs-modern-love-podcast.html",
+        "snippet": "The \u201cDon\u2019t Think Twice\u201d actress reads the most popular Modern Love column ever, in which Mandy Len Catron relied on a psychological experiment to fall in love with a stranger....",
+        "lead_paragraph": "The \u201cDon\u2019t Think Twice\u201d actress reads the most popular Modern Love column ever, in which Mandy Len Catron relied on a psychological experiment to fall in love with a stranger.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2015/01/11/fashion/11LOVE/11LOVE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2015/01/11/fashion/11LOVE/11LOVE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2015/01/11/fashion/11LOVE/11LOVE-articleLarge.jpg",
+            "height": 796,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/01/11/fashion/11LOVE/11LOVE-articleLarge.jpg",
+              "xlargeheight": "796"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2015/01/11/fashion/11LOVE/11LOVE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/01/11/fashion/11LOVE/11LOVE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Modern Love Podcast: Gillian Jacobs Reads \u2018To Fall in Love With Anyone, Do This\u2019",
+          "content_kicker": "Modern Love",
+          "kicker": "Modern Love"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Love (Emotion)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Jacobs, Gillian"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Psychology and Psychologists"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "THE NEW YORK TIMES"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fe3a95d0e021d797ebab",
+        "word_count": "168",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/insider/events/jake-silverstein-virtual-reality-at-the-new-york-times.html",
+        "snippet": "Join us on August 17 as Jake Silverstein discusses The Times\u2019s investment in virtual reality....",
+        "lead_paragraph": "Join us on August 17 as Jake Silverstein discusses The Times\u2019s investment in virtual reality.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/insider/03-Insider-VR-Illo/03-Insider-VR-Illo-thumbWide-v6.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/insider/03-Insider-VR-Illo/03-Insider-VR-Illo-thumbWide-v6.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/insider/03-Insider-VR-Illo/03-Insider-VR-Illo-articleLarge-v6.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/insider/03-Insider-VR-Illo/03-Insider-VR-Illo-articleLarge-v6.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/insider/03-Insider-VR-Illo/03-Insider-VR-Illo-thumbStandard-v6.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/insider/03-Insider-VR-Illo/03-Insider-VR-Illo-thumbStandard-v6.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Jake Silverstein: Virtual Reality at The New York Times"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Silverstein, Jake (1975- )"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Insider",
+        "section_name": "Times Insider",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Insider",
+              "rank": 1,
+              "lastname": "STAFF"
+            }
+          ],
+          "original": "By INSIDER STAFF"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f9d795d0e021d797eabb",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/arts/music/lori-mckenna-the-bird-the-rifle-review.html",
+        "snippet": "On her 10th studio album, the country singer-songwriter uses lean instrumentation to address faded illusions and roads not taken....",
+        "lead_paragraph": "On her 10th studio album, the country singer-songwriter uses lean instrumentation to address faded illusions and roads not taken.",
+        "abstract": "Jon Pareles reviews album The Bird & the Rifle by country singer Lori McKenna.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04MCKENNASUB/04MCKENNASUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04MCKENNASUB/04MCKENNASUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04MCKENNASUB/04MCKENNASUB-articleLarge.jpg",
+            "height": 402,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04MCKENNASUB/04MCKENNASUB-articleLarge.jpg",
+              "xlargeheight": "402"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04MCKENNASUB/04MCKENNASUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04MCKENNASUB/04MCKENNASUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Lori McKenna\u2019s Gentle Rue Shimmers on \u2018The Bird &amp; the Rifle\u2019",
+          "print_headline": "A Country Songbird Specializing in Gentle Rue and Roads Untaken"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Country Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McKenna, Lori (1968- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Bird & the Rifle (Album)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-08-03T19:23:30+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "PARELES"
+            }
+          ],
+          "original": "By JON PARELES"
+        },
+        "type_of_material": "Review",
+        "_id": "57a9f31895d0e021d797e9ae",
+        "word_count": "742",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/t-magazine/entertainment/ian-mellencamp-music-free-af-headsound.html",
+        "snippet": "Ian Mellencamp has appeared in campaigns for Calvin Klein and Tom Ford; now, he\u2019s following in his uncle John\u2019s footsteps and making rock music....",
+        "lead_paragraph": "Ian Mellencamp has appeared in campaigns for Calvin Klein and Tom Ford; now, he\u2019s following in his uncle John\u2019s footsteps and making rock music.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/t-magazine/04tmag-mellencamp01/04tmag-mellencamp01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/t-magazine/04tmag-mellencamp01/04tmag-mellencamp01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/t-magazine/04tmag-mellencamp01/04tmag-mellencamp01-articleLarge.jpg",
+            "height": 764,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/t-magazine/04tmag-mellencamp01/04tmag-mellencamp01-articleLarge.jpg",
+              "xlargeheight": "764"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/t-magazine/04tmag-mellencamp01/04tmag-mellencamp01-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/t-magazine/04tmag-mellencamp01/04tmag-mellencamp01-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Model-Turned-Musician Who Records on the Run"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Entertainment",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Todd",
+              "rank": 1,
+              "lastname": "PLUMMER"
+            }
+          ],
+          "original": "By TODD PLUMMER"
+        },
+        "type_of_material": "News",
+        "_id": "57c8910295d0e021d7983ea1",
+        "word_count": "441",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/business/media/fox-news-sexual-harassment-inquiry-is-said-to-look-at-what-others-knew.html",
+        "snippet": "Investigators are examining whether other executives failed to report improper behavior by Roger Ailes, the network\u2019s former chairman, people briefed on the inquiry said....",
+        "lead_paragraph": "Investigators are examining whether other executives failed to report improper behavior by Roger Ailes, the network\u2019s former chairman, people briefed on the inquiry said.",
+        "abstract": "Investigators overviewing sexual harassment accusations against former Fox News chairman Roger Ailes are also checking into whether other executives were aware of alleged inappropriate behavior by Ailes and did not act on it; almost 20 women have alleged improper behavior by him.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/business/04FOX/04FOX-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/business/04FOX/04FOX-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/business/04FOX/04FOX-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/business/04FOX/04FOX-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/business/04FOX/04FOX-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/business/04FOX/04FOX-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Fox News Sexual Harassment Inquiry Is Said to Look at What Others Knew",
+          "print_headline": "Fox News Harassment Inquiry Is Said to Look at What Others Knew"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ailes, Roger E"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sexual Harassment"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "21st Century Fox"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Fox News Channel"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          }
+        ],
+        "pub_date": "2016-08-03T18:50:23+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "contributor": "Brooks Barnes contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jim",
+              "rank": 1,
+              "lastname": "RUTENBERG"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 2,
+              "lastname": "PROTESS"
+            }
+          ],
+          "original": "By JIM RUTENBERG and BEN PROTESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f49095d0e021d797e9f8",
+        "word_count": "828",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/movies/kate-mckinnon-on-ghostbusters-snl-and-hillary-clinton.html",
+        "snippet": "Ms. McKinnon, who has delivered reliably eccentric impersonations of powerful women, talks about the differences between her characters and herself....",
+        "lead_paragraph": "Ms. McKinnon, who has delivered reliably eccentric impersonations of powerful women, talks about the differences between her characters and herself.",
+        "abstract": "Edited excerpts from conversation with Kate McKinnon, Emmy-nominated Saturday Night Live cast member who has received critical praise for her role in remake of movie Ghostbusters.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04MCKINNON/04MCKINNON-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04MCKINNON/04MCKINNON-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04MCKINNON/04MCKINNON-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04MCKINNON/04MCKINNON-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04MCKINNON/04MCKINNON-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04MCKINNON/04MCKINNON-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Kate McKinnon on \u2018Ghostbusters,\u2019 \u2018S.N.L.\u2019 and Hillary Clinton",
+          "content_kicker": "A Word With",
+          "kicker": "A Word With",
+          "print_headline": "She\u2019d Like to Try a Bit of Everything"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "McKinnon, Kate"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Ghostbusters (Movie)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Saturday Night Live (TV Program)"
+          }
+        ],
+        "pub_date": "2016-08-03T18:46:22+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dave",
+              "rank": 1,
+              "lastname": "ITZKOFF"
+            }
+          ],
+          "original": "By DAVE ITZKOFF"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fa7495d0e021d797eacf",
+        "word_count": "1417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/world/middleeast/400-million-cash-payment-to-iran-fuels-latest-campaign-dispute.html",
+        "snippet": "Donald Trump and other Republicans argued with the White House about what the payment was about: A cash ransom, failed foreign policy or opposition to a nuclear deal....",
+        "lead_paragraph": "Donald Trump and other Republicans argued with the White House about what the payment was about: A cash ransom, failed foreign policy or opposition to a nuclear deal.",
+        "abstract": "Donald Trump's presidential campaign seizes on $400 million cash payment made by United States to Iran in January as example of Obama administration's failed foreign policy; White House says payment was made to end longstanding financial dispute and was not ransom for four Americans held by Iran at time.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/world/04cash1/04cash1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/world/04cash1/04cash1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/world/04cash1/04cash1-articleLarge.jpg",
+            "height": 391,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/world/04cash1/04cash1-articleLarge.jpg",
+              "xlargeheight": "391"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/world/04cash1/04cash1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/world/04cash1/04cash1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "$400 Million Cash Payment to Iran Fuels Latest Campaign Dispute",
+          "print_headline": "$400 Million Sent to Iran Fuels a Campaign Clash"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nuclear Weapons"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Iran"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bribery and Kickbacks"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+          }
+        ],
+        "pub_date": "2016-08-03T18:39:04+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1
+            }
+          ],
+          "original": "By MICHAEL D. SHEAR"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fb3095d0e021d797eae3",
+        "word_count": "732",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/us/politics/us-seeks-to-protect-voting-system-against-cyberattacks.html",
+        "snippet": "The Obama administration may designate the electronic ballot-casting system for November\u2019s elections as \u201ccritical infrastructure\u201d like the power grid and financial system....",
+        "lead_paragraph": "The Obama administration may designate the electronic ballot-casting system for November\u2019s elections as \u201ccritical infrastructure\u201d like the power grid and financial system.",
+        "abstract": "Homeland Security Dept Sec Jeh Johnson says Obama administration is considering whether electronic ballot-casting system for 2016 presidential election should receive 'critical infrastructure' designation in wake of hacks that infiltrated Democratic campaign computer systems.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/us/04voting/04voting-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/us/04voting/04voting-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/us/04voting/04voting-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/us/04voting/04voting-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/us/04voting/04voting-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/us/04voting/04voting-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Seeks to Protect Voting System From Cyberattacks",
+          "print_headline": "U.S. Seeking Ways to Keep Hackers Out of Ballot Box"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computer Security"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Voting Machines"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Homeland Security Department"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Johnson, Jeh C"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voter Registration and Requirements"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic National Committee"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cyberattacks and Hackers"
+          }
+        ],
+        "pub_date": "2016-08-03T18:22:13+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Julie",
+              "middlename": "Hirschfeld",
+              "lastname": "DAVIS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JULIE HIRSCHFELD DAVIS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fe6495d0e021d797ebb2",
+        "word_count": "606",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

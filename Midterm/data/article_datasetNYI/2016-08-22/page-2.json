@@ -1,0 +1,435 @@
+{
+  "response": {
+    "meta": {
+      "hits": 619,
+      "time": 82,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-ca-yosemite-name-changes.html",
+        "snippet": "A trademark dispute over the names of historic hotels and other beloved landmarks at Yosemite National Park won't likely end without a courtroom fight, leaving temporary signs in place throughout the park for months to come, officials on both side...",
+        "lead_paragraph": "A trademark dispute over the names of historic hotels and other beloved landmarks at Yosemite National Park won't likely end without a courtroom fight, leaving temporary signs in place throughout the park for months to come, officials on both sides of the dispute said in newly obtained court documents.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Documents: Talks Fail to Resolve Dispute Over Yosemite Sites",
+          "print_headline": "Documents: Talks Fail to Resolve Dispute Over Yosemite Sites"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:30:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb7e8295d0e021d798208e",
+        "word_count": "374",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://well.blogs.nytimes.com/2016/08/22/beware-bagpipe-lung/",
+        "snippet": "Doctors have identified a newly recognized cause of a potentially fatal lung disease: playing a contaminated wind instrument....",
+        "lead_paragraph": null,
+        "abstract": "Doctors have identified a newly recognized cause of a potentially fatal lung disease: playing a contaminated wind instrument.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/20/health/well_body/well_body-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/20/health/well_body/well_body-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/20/health/well_body/well_body-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/20/health/well_body/well_body-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Beware of Bagpipes?",
+          "kicker": "Well",
+          "print_headline": "Body; Beware the Bagpipe Bug"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Bagpipes"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Infections"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Lungs"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Musical Instruments"
+          }
+        ],
+        "pub_date": "2016-08-22T22:30:27Z",
+        "document_type": "blogpost",
+        "news_desk": "Science",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "BAKALAR"
+            }
+          ],
+          "original": "By NICHOLAS BAKALAR"
+        },
+        "type_of_material": "Blog",
+        "_id": "57bb7d9495d0e021d798208d",
+        "word_count": "193",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-guns-on-campus-texas.html",
+        "snippet": "A federal judge has denied a last-minute attempt by professors to block a new Texas law that allows concealed handguns in college classrooms, buildings and dorms....",
+        "lead_paragraph": "A federal judge has denied a last-minute attempt by professors to block a new Texas law that allows concealed handguns in college classrooms, buildings and dorms.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Rejects Late Push to Block Guns in Texas Classrooms",
+          "print_headline": "Judge Rejects Late Push to Block Guns in Texas Classrooms"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:27:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb7d3495d0e021d798208c",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/22/arts/22reuters-argentina-tango-world-championship-qualifiers.html",
+        "snippet": "Salon tango dancers glided onto a dance floor in Buenos Aires on Monday in the hopes of qualifying for the World Tango Festival and Championship held every year in the Argentine capital....",
+        "lead_paragraph": "Salon tango dancers glided onto a dance floor in Buenos Aires on Monday in the hopes of qualifying for the World Tango Festival and Championship held every year in the Argentine capital.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Dancers Aim to Qualify for Argentina's World Tango Championship",
+          "print_headline": "Dancers Aim to Qualify for Argentina's World Tango Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:29:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb7d0d95d0e021d798208a",
+        "word_count": "328",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-alaska-airlines-anchorage-hangar.html",
+        "snippet": "Alaska Airlines formally broke ground Monday on construction of a $40 million aircraft maintenance hangar in Anchorage....",
+        "lead_paragraph": "Alaska Airlines formally broke ground Monday on construction of a $40 million aircraft maintenance hangar in Anchorage.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Alaska Airlines Breaks Ground on $40M Anchorage Hangar",
+          "print_headline": "Alaska Airlines Breaks Ground on $40M Anchorage Hangar"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:25:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb7c6a95d0e021d7982088",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-jimmy-carter-the-latest.html",
+        "snippet": "The Latest on comments made by former President Jimmy Carter at a Habitat for Humanity construction project in Memphis: (all times local):...",
+        "lead_paragraph": "The Latest on comments made by former President Jimmy Carter at a Habitat for Humanity construction project in Memphis: (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Carter: Presidential Choices 'Quite Unpopular'",
+          "print_headline": "The Latest: Carter: Presidential Choices 'Quite Unpopular'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:15:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb7a4d95d0e021d7982087",
+        "word_count": "310",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/22/us/22reuters-usa-lgbt-students.html",
+        "snippet": "When Ashley Nurkin's 7-year-old daughter begins second grade in Charlotte, North Carolina, next week, it will be her first time going to school as a girl....",
+        "lead_paragraph": "When Ashley Nurkin's 7-year-old daughter begins second grade in Charlotte, North Carolina, next week, it will be her first time going to school as a girl.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Texas Ruling Adds to Transgender Students' Back-To-School Anxiety",
+          "print_headline": "Texas Ruling Adds to Transgender Students' Back-To-School Anxiety"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:06:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb782595d0e021d7982086",
+        "word_count": "655",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://well.blogs.nytimes.com/2016/08/22/epipen-price-rise-sparks-concern-for-allergy-sufferers/",
+        "snippet": "A steep increase in the price of a lifesaving injection device for allergies has parents worried they won\u2019t be able to afford the drug for children heading back to school....",
+        "lead_paragraph": null,
+        "abstract": "A steep increase in the price of a lifesaving injection device for allergies has parents worried they won\u2019t be able to afford the drug for children heading back to school.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/23/science/epipen/epipen-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/23/science/epipen/epipen-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/23/science/epipen/epipen-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/23/science/epipen/epipen-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/23/science/epipen/epipen-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/23/science/epipen/epipen-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "EpiPen Price Rise Sparks Concern for Allergy Sufferers",
+          "kicker": "Well",
+          "print_headline": "A Surge in the Price of EpiPens Is a Worry to Severe Allergy Sufferers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Prices (Fares, Fees and Rates)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Epinephrine (Drug)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drugs (Pharmaceuticals)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Mylan Inc"
+          }
+        ],
+        "pub_date": "2016-08-22T22:05:06Z",
+        "document_type": "blogpost",
+        "news_desk": "Science",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tara",
+              "rank": 1,
+              "lastname": "PARKER-POPE"
+            },
+            {
+              "firstname": "Rachel",
+              "middlename": "Rabkin",
+              "lastname": "PEACHMAN",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By TARA PARKER-POPE and RACHEL RABKIN PEACHMAN"
+        },
+        "type_of_material": "Blog",
+        "_id": "57bb77ad95d0e021d7982085",
+        "word_count": "950",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/22/business/22reuters-target-cio.html",
+        "snippet": "U.S. retailer Target Corp will focus on technologies that enhance customers' store experience and on other digital efforts, Chief Information Officer Mike McNamara said....",
+        "lead_paragraph": "U.S. retailer Target Corp will focus on technologies that enhance customers' store experience and on other digital efforts, Chief Information Officer Mike McNamara said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Retailer Target to Focus on Digital Efforts, CIO Says",
+          "print_headline": "Retailer Target to Focus on Digital Efforts, CIO Says"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T22:04:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb776e95d0e021d7982084",
+        "word_count": "155",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-homeless-illnesses.html",
+        "snippet": "Paramedics responded Monday to another rash of illness among a group of people in the Skid Row area of Los Angeles, where police have attributed similar incidents to use of a synthetic form of marijuana known as Spice....",
+        "lead_paragraph": "Paramedics responded Monday to another rash of illness among a group of people in the Skid Row area of Los Angeles, where police have attributed similar incidents to use of a synthetic form of marijuana known as Spice.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "More Sicknesses Reported on Skid Row in Downtown Los Angeles",
+          "print_headline": "More Sicknesses Reported on Skid Row in Downtown Los Angeles"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T21:59:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb76e695d0e021d7982083",
+        "word_count": "202",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

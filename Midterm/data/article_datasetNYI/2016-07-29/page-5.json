@@ -1,0 +1,599 @@
+{
+  "response": {
+    "meta": {
+      "hits": 961,
+      "time": 94,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004559938/fact-check-hillary-clinton-democrat-convention.html",
+        "snippet": "The New York Times checks assertions by Hillary Clinton at the Democratic National Convention....",
+        "lead_paragraph": "The New York Times checks assertions by Hillary Clinton at the Democratic National Convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/us/elections/29factcheck/29factcheck-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/us/elections/29factcheck/29factcheck-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/us/elections/29factcheck/29factcheck-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/us/elections/29factcheck/29factcheck-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/us/elections/29factcheck/29factcheck-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/us/elections/29factcheck/29factcheck-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Fact Check: Hillary Clinton at the D.N.C."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          }
+        ],
+        "pub_date": "2016-07-29T20:33:40Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dave",
+              "rank": 1,
+              "lastname": "HORN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 2,
+              "lastname": "LINDSAY"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Lucas",
+              "rank": 3,
+              "lastname": "WALDRON"
+            }
+          ],
+          "original": "By DAVE HORN, ROBIN LINDSAY and LUCAS WALDRON"
+        },
+        "type_of_material": "Video",
+        "_id": "579bf60938f0d83c0fcf78aa",
+        "word_count": "14",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/nyregion/brooklyn-hospitals-sale-backed-by-de-blasio-and-cuomo-is-drawing-federal-scrutiny.html",
+        "snippet": "Subpoenas have been received by the State University of New York, which owned Long Island College Hospital, and by a union that supported Mayor Bill de Blasio and Gov. Andrew M. Cuomo....",
+        "lead_paragraph": "Subpoenas have been received by the State University of New York, which owned Long Island College Hospital, and by a union that supported Mayor Bill de Blasio and Gov. Andrew M. Cuomo.",
+        "abstract": "State University of New York and health care workers union 1199 SEIU receive subpoenas from federal prosecutors concerning 2015 sale of Long Island College Hospital in Cobble Hill, Brooklyn; prosecutors seek information about possible pay-to-play politics between SUNY, which owned LICH, and top officials in New York City Mayor Bill de Blasio's administration; inquiry expands investigation into de Blasio's fund-raising for Campaign for One New York.",
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/nyregion/30INQUIRY1/30INQUIRY1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/nyregion/30INQUIRY1/30INQUIRY1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/nyregion/30INQUIRY1/30INQUIRY1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/nyregion/30INQUIRY1/30INQUIRY1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/nyregion/30INQUIRY1/30INQUIRY1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/nyregion/30INQUIRY1/30INQUIRY1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brooklyn Hospital\u2019s Sale, Backed by de Blasio and Cuomo, Is Drawing Federal Scrutiny",
+          "print_headline": "Hospital\u2019s Sale, Backed by de Blasio and Cuomo, Draws Federal Scrutiny"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Long Island College Hospital"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cobble Hill (Brooklyn, NY)"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cuomo, Andrew M"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shutdowns (Institutional)"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brooklyn (NYC)"
+          },
+          {
+            "rank": "15",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "1199 SEIU"
+          },
+          {
+            "rank": "16",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Fortis Property Group LLC"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "State University of New York"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Campaign for One New York"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Campaign Finance"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Service Employees International Union"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York State"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          }
+        ],
+        "pub_date": "2016-07-29T20:30:12+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "firstname": "J.",
+              "middlename": "David",
+              "lastname": "GOODMAN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Susanne",
+              "rank": 2,
+              "lastname": "CRAIG"
+            }
+          ],
+          "original": "By J. DAVID GOODMAN and SUSANNE CRAIG"
+        },
+        "type_of_material": "News",
+        "_id": "579bbcd838f0d83c0fcf7814",
+        "word_count": "1301",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/golf/ap-glf-pga-lefty-and-rory.html",
+        "snippet": "Phil Mickelson walked off the first green with a disgusted look on his face, as if he'd thrown away any shot at making the cut in the PGA Championship....",
+        "lead_paragraph": "Phil Mickelson walked off the first green with a disgusted look on his face, as if he'd thrown away any shot at making the cut in the PGA Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mickelson Rallies to Makes Cut, McIlroy Bogeys 18 to Miss",
+          "print_headline": "Mickelson Rallies to Makes Cut, McIlroy Bogeys 18 to Miss"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:17:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bf28f38f0d83c0fcf78a6",
+        "word_count": "682",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-us-wal-mart-death.html",
+        "snippet": "Authorities say three Florida Wal-Mart employees have been charged in the death of a suspected shoplifter....",
+        "lead_paragraph": "Authorities say three Florida Wal-Mart employees have been charged in the death of a suspected shoplifter.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "3 Wal-Mart Employees Charged in Suspected Shoplifter's Death",
+          "print_headline": "3 Wal-Mart Employees Charged in Suspected Shoplifter's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:17:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bf26e38f0d83c0fcf78a5",
+        "word_count": "117",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-us-baby-smothered.html",
+        "snippet": "Florida authorities say they charged a 12-year-old boy for smothering a 4-month-old baby after the boy told a school resource officer that he had killed his nephew....",
+        "lead_paragraph": "Florida authorities say they charged a 12-year-old boy for smothering a 4-month-old baby after the boy told a school resource officer that he had killed his nephew.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Boy Told Officer He Smothered Infant",
+          "print_headline": "Police: Boy Told Officer He Smothered Infant"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T19:50:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bf1c138f0d83c0fcf78a3",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-us-car-into-house.html",
+        "snippet": "A woman suspected of crashing a car into a Los Angeles home, killing one person and injuring eight others, has surrendered to police....",
+        "lead_paragraph": "A woman suspected of crashing a car into a Los Angeles home, killing one person and injuring eight others, has surrendered to police.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Driver Accused of Crashing Into Los Angeles Home Surrenders",
+          "print_headline": "Driver Accused of Crashing Into Los Angeles Home Surrenders"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T19:44:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bf1b938f0d83c0fcf78a2",
+        "word_count": "102",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://krugman.blogs.nytimes.com/2016/07/29/friday-night-music-suzanne-vega-left-of-center/",
+        "snippet": "Not quite what we saw in Philly, but maybe some relationship....",
+        "lead_paragraph": null,
+        "abstract": "Not quite what we saw in Philly, but maybe some relationship.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Friday Night Music: Suzanne Vega, Left of Center",
+          "kicker": "Paul Krugman"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:11:58Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Paul",
+              "rank": 1,
+              "lastname": "KRUGMAN"
+            }
+          ],
+          "original": "By PAUL KRUGMAN"
+        },
+        "type_of_material": "Blog",
+        "_id": "579bf0f038f0d83c0fcf78a1",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/business/29reuters-insurance-motor-survey.html",
+        "snippet": "British car insurance premiums rose less than expected in the three months to end-June compared with the previous quarter, as competition pressures kept growth in check, the AA said on Saturday....",
+        "lead_paragraph": "British car insurance premiums rose less than expected in the three months to end-June compared with the previous quarter, as competition pressures kept growth in check, the AA said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Competition Slows Rate of Rise for UK Car Insurance Premiums-Survey",
+          "print_headline": "Competition Slows Rate of Rise for UK Car Insurance Premiums-Survey"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:05:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579bef8b38f0d83c0fcf789f",
+        "word_count": "144",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/arts/television/review-a-shark-storm-in-the-desert-and-thats-just-for-starters.html",
+        "snippet": "The fourth \u201cSharknado\u201d movie, on Syfy, is a cameo-choked mess....",
+        "lead_paragraph": "The fourth \u201cSharknado\u201d movie, on Syfy, is a cameo-choked mess.",
+        "abstract": "Neil Genzlinger reviews SyFy television movie Sharknado: The 4th Awakens.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/arts/30SHARKNADO1/30SHARKNADO1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/arts/30SHARKNADO1/30SHARKNADO1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/arts/30SHARKNADO1/30SHARKNADO1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/arts/30SHARKNADO1/30SHARKNADO1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/arts/30SHARKNADO1/30SHARKNADO1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/arts/30SHARKNADO1/30SHARKNADO1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: A Shark Storm in the Desert. And That\u2019s Just for Starters.",
+          "print_headline": "Shark Storms Everywhere,  Las Vegas to Niagara Falls"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Syfy Channel"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Sharknado: The 4th Awakens (TV Program)"
+          }
+        ],
+        "pub_date": "2016-07-29T20:06:05+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "GENZLINGER"
+            }
+          ],
+          "original": "By NEIL GENZLINGER"
+        },
+        "type_of_material": "Review",
+        "_id": "579bb73038f0d83c0fcf7805",
+        "word_count": "411",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/olympics/ap-oly-box-the-russell-dynasty.html",
+        "snippet": "They are four fighting brothers, each proudly bearing a version of their father's name. They strategize and train and compete together out of their Maryland gym, relentlessly applying teamwork to a profoundly individual sport....",
+        "lead_paragraph": "They are four fighting brothers, each proudly bearing a version of their father's name. They strategize and train and compete together out of their Maryland gym, relentlessly applying teamwork to a profoundly individual sport.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Family Looms Large in US Boxer Gary Russell's Olympic Quest",
+          "print_headline": "Family Looms Large in US Boxer Gary Russell's Olympic Quest"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:00:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bef1638f0d83c0fcf789e",
+        "word_count": "803",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

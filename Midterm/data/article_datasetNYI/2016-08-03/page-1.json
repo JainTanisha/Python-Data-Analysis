@@ -1,0 +1,1041 @@
+{
+  "response": {
+    "meta": {
+      "hits": 194,
+      "time": 48,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/nytnow/us-presidential-race-bitcoin-moon-express-your-wednesday-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/nytnow/03eveningss-slide-KD72/03eveningss-slide-KD72-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/nytnow/03eveningss-slide-KD72/03eveningss-slide-KD72-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/nytnow/03eveningss-slide-KD72/03eveningss-slide-KD72-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/nytnow/03eveningss-slide-KD72/03eveningss-slide-KD72-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/nytnow/03eveningss-slide-KD72/03eveningss-slide-KD72-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/nytnow/03eveningss-slide-KD72/03eveningss-slide-KD72-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Presidential Race, Bitcoin, Moon Express: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57c8910595d0e021d7983ea2",
+        "word_count": "794",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/sports/olympics/baseball-softball-2020-tokyo-new-sports.html",
+        "snippet": "The International Olympic Committee also approved four others sports \u2014 karate, skateboarding, sports climbing and surfing \u2014 for the Tokyo Games....",
+        "lead_paragraph": "The International Olympic Committee also approved four others sports \u2014 karate, skateboarding, sports climbing and surfing \u2014 for the Tokyo Games.",
+        "abstract": "International Olympic Committee formally approves baseball, softball, karate, skateboarding, sport climbing and surfing for 2020 Olympics.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/sports/04NEWSPORTS/04NEWSPORTS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/sports/04NEWSPORTS/04NEWSPORTS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/sports/04NEWSPORTS/04NEWSPORTS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/sports/04NEWSPORTS/04NEWSPORTS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/sports/04NEWSPORTS/04NEWSPORTS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/sports/04NEWSPORTS/04NEWSPORTS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Baseball and Softball Returning to Olympics in 2020",
+          "print_headline": "Olympics; Baseball Returning at 2020 Games"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2020)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Tokyo (Japan)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Softball"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Surfing"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Skateboarding"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Karate"
+          }
+        ],
+        "pub_date": "2016-08-03T22:01:16+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "contributor": "Rebecca Ruiz contributed reporting from Rio de Janeiro and Talya Minsberg from New York.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Victor",
+              "rank": 1,
+              "lastname": "MATHER"
+            }
+          ],
+          "original": "By VICTOR MATHER"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f7b395d0e021d797ea7b",
+        "word_count": "518",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004567577/ill-child-becomes-marine-before-dying.html",
+        "snippet": "A boy diagnosed with a terminal illness at the age of 4, became the 96th recipient of the honor....",
+        "lead_paragraph": "A boy diagnosed with a terminal illness at the age of 4, became the 96th recipient of the honor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/us/02xp-boy/02xp-boy-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/us/02xp-boy/02xp-boy-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/us/02xp-boy/02xp-boy-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/us/02xp-boy/02xp-boy-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/us/02xp-boy/02xp-boy-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/us/02xp-boy/02xp-boy-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ill Child Becomes Marine Before Dying"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United States Marine Corps"
+          }
+        ],
+        "pub_date": "2016-08-03T21:47:05+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "Upadhye"
+            }
+          ],
+          "original": "By Neeti Upadhye"
+        },
+        "type_of_material": "Video",
+        "_id": "5888fdd795d0e0392607cc24",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004558386/trailer-richard-linklater-dream-is-destiny.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/28/movies/video-richard-linklater-dream-is-destiny/video-richard-linklater-dream-is-destiny-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/28/movies/video-richard-linklater-dream-is-destiny/video-richard-linklater-dream-is-destiny-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/28/movies/video-richard-linklater-dream-is-destiny/video-richard-linklater-dream-is-destiny-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/28/movies/video-richard-linklater-dream-is-destiny/video-richard-linklater-dream-is-destiny-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/28/movies/video-richard-linklater-dream-is-destiny/video-richard-linklater-dream-is-destiny-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/28/movies/video-richard-linklater-dream-is-destiny/video-richard-linklater-dream-is-destiny-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Richard Linklater: Dream Is Destiny'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-03T21:45:57+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sundance",
+              "rank": 1,
+              "lastname": "SELECTS"
+            }
+          ],
+          "original": "By SUNDANCE SELECTS"
+        },
+        "type_of_material": "Video",
+        "_id": "5888cbc295d0e0392607cb6f",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/t-magazine/fashion/bartleby-objects-bags-mary-l-chan.html",
+        "snippet": "Mary L Chan of Bartleby Objects has no interest in making a plain black purse....",
+        "lead_paragraph": "Mary L Chan of Bartleby Objects has no interest in making a plain black purse.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/t-magazine/03tmag-bartleby1/03tmag-bartleby1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/t-magazine/03tmag-bartleby1/03tmag-bartleby1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/t-magazine/03tmag-bartleby1/03tmag-bartleby1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/t-magazine/03tmag-bartleby1/03tmag-bartleby1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/t-magazine/03tmag-bartleby1/03tmag-bartleby1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/t-magazine/03tmag-bartleby1/03tmag-bartleby1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Minimal, Smartly Finished Leather Bags \u2014 From a Home Goods Designer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Handbags and Purses"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Leather and Leather Goods"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brooklyn Navy Yard (Brooklyn, NY)"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Hilary",
+              "rank": 1,
+              "lastname": "MOSS"
+            }
+          ],
+          "original": "By HILARY MOSS"
+        },
+        "type_of_material": "News",
+        "_id": "57c890fe95d0e021d7983ea0",
+        "word_count": "379",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/movies/joe-dante-gremlins-director-reflects-on-his-biggest-hits.html",
+        "snippet": "A BAMcin\u00e9matek retrospective of Mr. Dante\u2019s films will pair classics such as \u201cGremlins\u201d and \u201cThe \u2018Burbs\u201d with gems from the past, like \u201cDial M for Murder.\u201d...",
+        "lead_paragraph": "A BAMcin\u00e9matek retrospective of Mr. Dante\u2019s films will pair classics such as \u201cGremlins\u201d and \u201cThe \u2018Burbs\u201d with gems from the past, like \u201cDial M for Murder.\u201d",
+        "abstract": "Edited excerpts from conversation with filmmaker Joe Dante, whose work is being celebrated in retrospective at BAMcinematek.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04JOEDANTE1/04JOEDANTE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04JOEDANTE1/04JOEDANTE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04JOEDANTE1/04JOEDANTE1-articleLarge.jpg",
+            "height": 374,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04JOEDANTE1/04JOEDANTE1-articleLarge.jpg",
+              "xlargeheight": "374"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04JOEDANTE1/04JOEDANTE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04JOEDANTE1/04JOEDANTE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Joe Dante: \u2018Gremlins\u2019 Director Reflects on His Biggest Hits",
+          "content_kicker": "A Word With",
+          "kicker": "A Word With",
+          "print_headline": "Honoring the Director Who Brought Gremlins to Life"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Dante, Joe"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Gremlins (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Gremlins 2: The New Batch (Movie)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Innerspace (Movie)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The 'Burbs (Movie)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Explorers (Movie)"
+          }
+        ],
+        "pub_date": "2016-08-03T21:26:31+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Glenn",
+              "rank": 1,
+              "lastname": "KENNY"
+            }
+          ],
+          "original": "By GLENN KENNY"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f36095d0e021d797e9b9",
+        "word_count": "939",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004567020/trump-clinton-and-deep-divisions-in-both-parties.html",
+        "snippet": "In an election year upended by outsiders, we\u2019ve brought in an outsider to help make sense of it. Declan Walsh, a foreign correspondent, tells us what he saw at the conventions before he heads out on the campaign trail....",
+        "lead_paragraph": "In an election year upended by outsiders, we\u2019ve brought in an outsider to help make sense of it. Declan Walsh, a foreign correspondent, tells us what he saw at the conventions before he heads out on the campaign trail.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/us/elections/declan-conventions/declan-conventions-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/us/elections/declan-conventions/declan-conventions-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/us/elections/declan-conventions/declan-conventions-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/us/elections/declan-conventions/declan-conventions-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/us/elections/declan-conventions/declan-conventions-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/us/elections/declan-conventions/declan-conventions-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What I Learned at the Conventions"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          }
+        ],
+        "pub_date": "2016-08-03T21:19:50+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Declan",
+              "rank": 1,
+              "lastname": "WALSH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deborah",
+              "rank": 2,
+              "lastname": "ACOSTA"
+            }
+          ],
+          "original": "By DECLAN WALSH and DEBORAH ACOSTA"
+        },
+        "type_of_material": "Video",
+        "_id": "57a9fb5895d0e021d797eae9",
+        "word_count": "39",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/theater/for-the-humans-home-is-where-the-set-moves.html",
+        "snippet": "When it reopens in the 1,031-seat Gerald Schoenfeld Theater on Tuesday, the Tony-winning play will have resided in three Midtown theaters since October....",
+        "lead_paragraph": "When it reopens in the 1,031-seat Gerald Schoenfeld Theater on Tuesday, the Tony-winning play will have resided in three Midtown theaters since October.",
+        "abstract": "Tony-award winning play The Humans moves to Gerald Schoenfeld Theater mid-run in order to accommodate planned renovations occurring at Helen Hayes Theater.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/arts/03MOVE/03MOVE-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/arts/03MOVE/03MOVE-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/arts/03MOVE/03MOVE-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/arts/03MOVE/03MOVE-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/arts/03MOVE/03MOVE-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/arts/03MOVE/03MOVE-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For \u2018The Humans,\u2019 Home Is Where the Set Moves",
+          "print_headline": "\u2018The Humans\u2019 Goes on Tour (in Midtown)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Humans (Play)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Hayes, Helen, Theater"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pels, Laura, Theater"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Schoenfeld, Gerald, Theater"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Karam, Stephen"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Zinn, David"
+          }
+        ],
+        "pub_date": "2016-08-03T21:13:41+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "PAULSON"
+            }
+          ],
+          "original": "By MICHAEL PAULSON"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fa9695d0e021d797ead9",
+        "word_count": "451",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/sports/olympics/where-shooting-badminton-and-shot-put-stars-make-the-headlines.html",
+        "snippet": "While Americans are watching basketball and track, fans around the world find their heroes in lesser-known sports....",
+        "lead_paragraph": "While Americans are watching basketball and track, fans around the world find their heroes in lesser-known sports.",
+        "abstract": "Olympic athletes from outside United States whose native countries will be closely following them at 2016 contest are surveyed.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/sports/olympics/unknowns/unknowns-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/sports/olympics/unknowns/unknowns-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/sports/olympics/unknowns/unknowns-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/sports/olympics/unknowns/unknowns-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/sports/olympics/unknowns/unknowns-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/sports/olympics/unknowns/unknowns-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "They\u2019re Handsome, Talented and Famous Olympians. You Probably Don\u2019t Know Them.",
+          "print_headline": "They\u2019ve Got Followings"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pettersen, Suzann"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Williams, Sonny Bill (1985- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sun Yang"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Nibali, Vincenzo"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pellegrini, Federica (1988- )"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Yoshida, Saori (1982- )"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Icho, Kaori (1984- )"
+          }
+        ],
+        "pub_date": "2016-08-03T21:13:26+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Victor",
+              "rank": 1,
+              "lastname": "MATHER"
+            }
+          ],
+          "original": "By VICTOR MATHER"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f3e195d0e021d797e9dd",
+        "word_count": "909",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/arts/dance/review-michelle-dorrance-vail-international-dance-festival.html",
+        "snippet": "Michelle Dorrance\u2019s company performed an excerpt from \u201cSOUNDspace\u201d as part of its take on jazz tap, a dance tradition....",
+        "lead_paragraph": "Michelle Dorrance\u2019s company performed an excerpt from \u201cSOUNDspace\u201d as part of its take on jazz tap, a dance tradition.",
+        "abstract": "Brian Seibert reviews debut performance by Dorrance Dance at Vail International Dance Festival.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04DORRANCE1/04DORRANCE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04DORRANCE1/04DORRANCE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04DORRANCE1/04DORRANCE1-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04DORRANCE1/04DORRANCE1-articleLarge.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04DORRANCE1/04DORRANCE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04DORRANCE1/04DORRANCE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Hot Feet and Cool Bodies at Vail",
+          "print_headline": "Hot Feet Sharing Space With Cool Upper Bodies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Dorrance, Michelle, Dance"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Vail International Dance Festival"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dorrance, Michelle"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Vail (Colo)"
+          }
+        ],
+        "pub_date": "2016-08-03T21:10:06+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Brian",
+              "rank": 1,
+              "lastname": "SEIBERT"
+            }
+          ],
+          "original": "By BRIAN SEIBERT"
+        },
+        "type_of_material": "Review",
+        "_id": "57a9ff2595d0e021d797ebe7",
+        "word_count": "521",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

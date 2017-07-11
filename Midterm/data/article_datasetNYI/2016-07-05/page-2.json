@@ -1,0 +1,662 @@
+{
+  "response": {
+    "meta": {
+      "hits": 897,
+      "time": 50,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/sports/rugby/05reuters-rugby-union-newzealand-hansen.html",
+        "snippet": "All Blacks coach Steve Hansen will make a decision on his future with the side before this year's Rugby Championship begins in August....",
+        "lead_paragraph": "All Blacks coach Steve Hansen will make a decision on his future with the side before this year's Rugby Championship begins in August.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Hansen to Make Decision on Future Before Rugby Championship",
+          "print_headline": "Hansen to Make Decision on Future Before Rugby Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T22:32:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c6dff38f0d849682ddc03",
+        "word_count": "382",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/business/05reuters-china-res-beer-equity.html",
+        "snippet": "China Resources Beer (Holdings) Co Ltd said on Wednesday it plans to raise HK$9.51 billion ($1.2 billion) via a rights issue to fund the purchase of SABMiller's stake in their joint venture as well as expansion plans....",
+        "lead_paragraph": "China Resources Beer (Holdings) Co Ltd said on Wednesday it plans to raise HK$9.51 billion ($1.2 billion) via a rights issue to fund the purchase of SABMiller's stake in their joint venture as well as expansion plans. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Resources Beer Plans $1.2 Billion Rights Issue to Fund Stake Purchase",
+          "print_headline": "China Resources Beer Plans $1.2 Billion Rights Issue to Fund Stake Purchase"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T22:31:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c6dfd38f0d849682ddc02",
+        "word_count": "107",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004512297/obama-mocks-donald-trumps-twitter-use.html",
+        "snippet": "President Obama discussed the difficulty of his job at a rally in Charlotte, N.C. \u201cEverybody can tweet,\u201d he said. \u201cBut nobody actually knows what it takes to do the job until you\u2019ve sat behind the desk.\u201d...",
+        "lead_paragraph": "President Obama discussed the difficulty of his job at a rally in Charlotte, N.C. \u201cEverybody can tweet,\u201d he said. \u201cBut nobody actually knows what it takes to do the job until you\u2019ve sat behind the desk.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/06/us/06MOMENTS-still4/06MOMENTS-still4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/06/us/06MOMENTS-still4/06MOMENTS-still4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/06/us/06MOMENTS-still4/06MOMENTS-still4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/06/us/06MOMENTS-still4/06MOMENTS-still4-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/06/us/06MOMENTS-still4/06MOMENTS-still4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/06/us/06MOMENTS-still4/06MOMENTS-still4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Obama Mocks Donald Trump\u2019s Twitter Use"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Twitter (TWTR/NYSE)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidents and Presidency (US)"
+          }
+        ],
+        "pub_date": "2016-07-05T22:28:47Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "577c6d0b38f0d849682ddbfe",
+        "word_count": "36",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004512238/obama-charms-north-carolina.html",
+        "snippet": "After being introduced by Hillary Clinton at a campaign event in Charlotte, N.C., President Obama bantered easily with the crowd about the state\u2019s people and food....",
+        "lead_paragraph": "After being introduced by Hillary Clinton at a campaign event in Charlotte, N.C., President Obama bantered easily with the crowd about the state\u2019s people and food.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/05/multimedia/06moments-02/06moments-02-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/05/multimedia/06moments-02/06moments-02-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/05/multimedia/06moments-02/06moments-02-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/05/multimedia/06moments-02/06moments-02-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/05/multimedia/06moments-02/06moments-02-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/05/multimedia/06moments-02/06moments-02-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Obama Charms North Carolina"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "North Carolina"
+          }
+        ],
+        "pub_date": "2016-07-05T22:28:47Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "577c6d0b38f0d849682ddbff",
+        "word_count": "26",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004512318/obama-fake-cries-over-malias-age.html",
+        "snippet": "The president pretended to wipe away tears after Hillary Clinton noted that his daughter Malia had turned 18....",
+        "lead_paragraph": "The president pretended to wipe away tears after Hillary Clinton noted that his daughter Malia had turned 18.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/05/multimedia/06moments-01/06moments-01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/05/multimedia/06moments-01/06moments-01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/05/multimedia/06moments-01/06moments-01-articleLarge.jpg",
+            "height": 377,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/05/multimedia/06moments-01/06moments-01-articleLarge.jpg",
+              "xlargeheight": "377"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/05/multimedia/06moments-01/06moments-01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/05/multimedia/06moments-01/06moments-01-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Obama Fake Cries Over Malia\u2019s Age"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-07-05T22:28:47Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "577c6d0b38f0d849682ddc00",
+        "word_count": "18",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/06/us/politics/clinton-campaign-trump.html",
+        "snippet": "The F.B.I. director all but indicted Hillary Clinton\u2019s judgment and competence on Tuesday in terms that would be devastating in a normal election year....",
+        "lead_paragraph": "The F.B.I. director all but indicted Hillary Clinton\u2019s judgment and competence on Tuesday in terms that would be devastating in a normal election year.",
+        "abstract": "New Analysis; FBI director James B Comey's explanation of decision not to indict Hillary Clinton for mishandling classified email includes severe criticism of her judgement; attack on her credibility undermines her own questioning of rival Donald J Trump's competence; Trump's unconventional campaign has chosen not to use Comey's comments in campaign ads.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/06/us/06CAMPAIGNweb1/06CAMPAIGNweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/06/us/06CAMPAIGNweb1/06CAMPAIGNweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/06/us/06CAMPAIGNweb1/06CAMPAIGNweb1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/06/us/06CAMPAIGNweb1/06CAMPAIGNweb1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/06/us/06CAMPAIGNweb1/06CAMPAIGNweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/06/us/06CAMPAIGNweb1/06CAMPAIGNweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "F.B.I.\u2019s Critique of Hillary Clinton Is a Ready-Made Attack Ad",
+          "content_kicker": "News Analysis",
+          "kicker": "News Analysis",
+          "print_headline": "An Attack Ad, Ready-Made"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Comey, James B"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "E-Mail"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Political Advertising"
+          }
+        ],
+        "pub_date": "2016-07-05T22:27:42+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Patrick",
+              "rank": 1,
+              "lastname": "HEALY"
+            }
+          ],
+          "original": "By PATRICK HEALY"
+        },
+        "type_of_material": "News Analysis",
+        "_id": "577c346238f0d849682ddba7",
+        "word_count": "1255",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/sports/golf/05reuters-olympics-rio-golf-de-jonge.html",
+        "snippet": "Brendon de Jonge has become the latest golfer to opt out of the Rio Olympics but unlike other players who have cited fears over the Zika virus, the Zimbabwean has withdrawn to focus on keeping his PGA Tour card....",
+        "lead_paragraph": "Brendon de Jonge has become the latest golfer to opt out of the Rio Olympics but unlike other players who have cited fears over the Zika virus, the Zimbabwean has withdrawn to focus on keeping his PGA Tour card.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "De Jonge Puts PGA Tour Card Before Olympics",
+          "print_headline": "De Jonge Puts PGA Tour Card Before Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T22:24:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c6c9b38f0d849682ddbfd",
+        "word_count": "253",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/us/05reuters-tennessee-lawsuit.html",
+        "snippet": "The University of Tennessee has settled for $2.48 million a lawsuit involving eight women who argued the school allowed a hostile sexual culture to fester, which led to sexual assaults by student-athletes....",
+        "lead_paragraph": "The University of Tennessee has settled for $2.48 million a lawsuit involving eight women who argued the school allowed a hostile sexual culture to fester, which led to sexual assaults by student-athletes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "University of Tennessee Settles Sex Assault Suit for Almost $2.5 Million",
+          "print_headline": "University of Tennessee Settles Sex Assault Suit for Almost $2.5 Million"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T22:22:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c6be138f0d849682ddbfc",
+        "word_count": "369",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/us/politics/05reuters-usa-election-clinton-legal.html",
+        "snippet": "In declining to seek prosecution of Hillary Clinton, FBI Director James Comey said the former Secretary of State's handling of classified emails was \"extremely careless\" - conduct, legal experts said, that falls short of \"gross negligence,\" a stan...",
+        "lead_paragraph": "In declining to seek prosecution of Hillary Clinton, FBI Director James Comey said the former Secretary of State's handling of classified emails was \"extremely careless\" - conduct, legal experts said, that falls short of \"gross negligence,\" a standard for criminal charges under the Espionage Act.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Lawyers: Legal Precedent Clears Clinton in Email Investigation",
+          "print_headline": "Lawyers: Legal Precedent Clears Clinton in Email Investigation"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T22:20:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c6b3738f0d849682ddbfa",
+        "word_count": "827",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/06/technology/twitter-brings-aboard-facebook-veteran.html",
+        "snippet": "As Twitter continues to reshape its board, Bret Taylor was appointed for his experience in consumer technologies and his prominent role with Facebook....",
+        "lead_paragraph": "As Twitter continues to reshape its board, Bret Taylor was appointed for his experience in consumer technologies and his prominent role with Facebook.",
+        "abstract": "Twitter appoints former Facebook senior executive Bret Taylor to its board.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/06/business/06TWITTER/06TWITTER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/06/business/06TWITTER/06TWITTER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/06/business/06TWITTER/06TWITTER-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/06/business/06TWITTER/06TWITTER-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/06/business/06TWITTER/06TWITTER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/06/business/06TWITTER/06TWITTER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Twitter Brings Aboard Facebook Veteran Bret Taylor",
+          "print_headline": "Facebook Veteran Appointed  to Twitter\u2019s Rejiggered Board"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Taylor, Bret"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Twitter"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Boards of Directors"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dorsey, Jack"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          }
+        ],
+        "pub_date": "2016-07-05T22:14:40+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "ISAAC"
+            }
+          ],
+          "original": "By MIKE ISAAC"
+        },
+        "type_of_material": "News",
+        "_id": "577c315438f0d849682ddb9e",
+        "word_count": "366",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

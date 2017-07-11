@@ -1,0 +1,710 @@
+{
+  "response": {
+    "meta": {
+      "hits": 938,
+      "time": 42,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/movies/cat-people-and-a-gallery-of-horror-predators.html",
+        "snippet": "\u201cCat People,\u201d produced by Val Lewton and directed by Jacques Tourneur, used a feline predator as a metaphor for a stifled libido....",
+        "lead_paragraph": "\u201cCat People,\u201d produced by Val Lewton and directed by Jacques Tourneur, used a feline predator as a metaphor for a stifled libido.",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/arts/30HOBERMANSUB1/30HOBERMANSUB1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/arts/30HOBERMANSUB1/30HOBERMANSUB1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/arts/30HOBERMANSUB1/30HOBERMANSUB1-articleLarge.jpg",
+            "height": 758,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/arts/30HOBERMANSUB1/30HOBERMANSUB1-articleLarge.jpg",
+              "xlargeheight": "758"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/arts/30HOBERMANSUB1/30HOBERMANSUB1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/arts/30HOBERMANSUB1/30HOBERMANSUB1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Cat People\u2019 and a Gallery of Horror Predators",
+          "content_kicker": "On DVD",
+          "print_headline": "Cat Scratch Fever"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Karloff, Boris"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lorre, Peter"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Mask of Fu Manchu (Movie)"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brabin, Charles (1882-1957)"
+          },
+          {
+            "rank": "15",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Return of Doctor X (Movie)"
+          },
+          {
+            "rank": "16",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sherman, Vincent"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Cat People (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Tourneur, Jacques"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Mad Love (Movie)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Freund, Karl"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Doctor X (Movie)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Curtiz, Michael"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Devil-Doll (Movie)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Mark of the Vampire (Movie)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Browning, Tod"
+          }
+        ],
+        "pub_date": "2016-10-27T22:39:45+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "J.",
+              "rank": 1,
+              "lastname": "HOBERMAN"
+            }
+          ],
+          "original": "By J. HOBERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "5812823895d0e022439c5a5f",
+        "word_count": "1202",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/arts/ap-bkn-76ers-anthem-flap.html",
+        "snippet": "The Philadelphia 76ers held a team meeting Thursday and may take action in the wake of the organization's decision to cancel the national anthem performance by a singer wearing a \"We Matter\" jersey....",
+        "lead_paragraph": "The Philadelphia 76ers held a team meeting Thursday and may take action in the wake of the organization's decision to cancel the national anthem performance by a singer wearing a \"We Matter\" jersey.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "76ers Players May Respond in Wake of National Anthem Flap",
+          "print_headline": "76ers Players May Respond in Wake of National Anthem Flap"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:36:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5812819895d0e022439c5a5e",
+        "word_count": "614",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-cb-guantanamo-release-rejected.html",
+        "snippet": "A board deciding whether to continue holding men at Guantanamo Bay has rejected the release of a Palestinian who was the first high-profile CIA prisoner after the Sept. 11 terrorist attack....",
+        "lead_paragraph": "A board deciding whether to continue holding men at Guantanamo Bay has rejected the release of a Palestinian who was the first high-profile CIA prisoner after the Sept. 11 terrorist attack.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Guantanamo Board Rejects Release of Palestinian Held by CIA",
+          "print_headline": "Guantanamo Board Rejects Release of Palestinian Held by CIA"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:34:13Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581280f295d0e022439c5a5d",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/world/europe/27reuters-usa-montenegro-extradition.html",
+        "snippet": "U.S. prosecutors on Thursday said two men from Syria and Turkey have been extradited to face criminal charges that they tried to sell military-grade weapons to purported Mexican drug traffickers to help them ship cocaine to the United States....",
+        "lead_paragraph": "U.S. prosecutors on Thursday said two men from Syria and Turkey have been extradited to face criminal charges that they tried to sell military-grade weapons to purported Mexican drug traffickers to help them ship cocaine to the United States.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkish, Syrian Men Extradited to U.S. to Face Drug Charges",
+          "print_headline": "Turkish, Syrian Men Extradited to U.S. to Face Drug Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:33:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581280d895d0e022439c5a5c",
+        "word_count": "244",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004734550/clinton-and-michelle-obama-campaign-together.html",
+        "snippet": "For the first time, the current and former first ladies took the campaign stage together, in Winston-Salem, N.C....",
+        "lead_paragraph": "For the first time, the current and former first ladies took the campaign stage together, in Winston-Salem, N.C.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/us/28clintonmichelle/28clintonmichelle-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/us/28clintonmichelle/28clintonmichelle-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/us/28clintonmichelle/28clintonmichelle-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/us/28clintonmichelle/28clintonmichelle-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/us/28clintonmichelle/28clintonmichelle-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/us/28clintonmichelle/28clintonmichelle-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Clinton and Michelle Obama Campaign Together"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "First Ladies (US)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Michelle"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-10-27T22:33:34+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "581280c395d0e022439c5a5b",
+        "word_count": "18",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/us/27reuters-louisiana-police.html",
+        "snippet": "The family of Victor White III, a black man who died while in custody of sheriff's deputies in 2014, is calling on the U.S. Justice Department to reopen its investigation after new allegations of widespread abuse by the Louisiana sheriff's office ...",
+        "lead_paragraph": "The family of Victor White III, a black man who died while in custody of sheriff's deputies in 2014, is calling on the U.S. Justice Department to reopen its investigation after new allegations of widespread abuse by the Louisiana sheriff's office involved in the incident. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Family Urges U.S. to Reopen Case of Louisiana Detainee's Death",
+          "print_headline": "Family Urges U.S. to Reopen Case of Louisiana Detainee's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:30:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5812801995d0e022439c5a5a",
+        "word_count": "500",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/arts/music/jazz-listings-for-oct-28-nov-3.html",
+        "snippet": "A selected guide to jazz performances in New York City....",
+        "lead_paragraph": "A selected guide to jazz performances in New York City.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/arts/28LISTINGSJAZZ/28LISTINGSJAZZ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/arts/28LISTINGSJAZZ/28LISTINGSJAZZ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/arts/28LISTINGSJAZZ/28LISTINGSJAZZ-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/arts/28LISTINGSJAZZ/28LISTINGSJAZZ-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/arts/28LISTINGSJAZZ/28LISTINGSJAZZ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/arts/28LISTINGSJAZZ/28LISTINGSJAZZ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Jazz Listings for Oct. 28-Nov. 3",
+          "print_headline": "The Listings: Jazz"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jazz"
+          }
+        ],
+        "pub_date": "2016-10-27T22:24:27+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "58127ea495d0e022439c5a59",
+        "word_count": "1487",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/books/review-another-day-in-the-death-of-america-on-guns-killing-children.html",
+        "snippet": "Gary Younge examines the lives of 10 young Americans, ages 9 to 19, whose lives were snuffed out by firearms over 24 hours in 2013....",
+        "lead_paragraph": "Gary Younge examines the lives of 10 young Americans, ages 9 to 19, whose lives were snuffed out by firearms over 24 hours in 2013.",
+        "abstract": "Jennifer Senior reviews book Another Day in the Death of America: A Chronicle of 10 Short Lives by Gary Younge. ",
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/arts/28BOOK/28BOOK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/arts/28BOOK/28BOOK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/arts/28BOOK/28BOOK-articleLarge-v2.jpg",
+            "height": 893,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/arts/28BOOK/28BOOK-articleLarge-v2.jpg",
+              "xlargeheight": "893"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/arts/28BOOK/28BOOK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/arts/28BOOK/28BOOK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Another Day in the Death of America,\u2019 on Guns Killing Children",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "Children Shot. What Else Is New?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Another Day in the Death of America: A Chronicle of 10 Short Lives (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gun Control"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Younge, Gary (1969- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Children and Childhood"
+          }
+        ],
+        "pub_date": "2016-10-27T22:24:17+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 1,
+              "lastname": "SENIOR"
+            }
+          ],
+          "original": "By JENNIFER SENIOR"
+        },
+        "type_of_material": "Review",
+        "_id": "58127e9d95d0e022439c5a58",
+        "word_count": "1077",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/arts/design/gallery-owner-accuses-alec-baldwin-of-dodging-tax-in-disputed-art-purchase.html",
+        "snippet": "The art world feud between the actor and the gallery owner Mary Boone has taken a new turn....",
+        "lead_paragraph": "The art world feud between the actor and the gallery owner Mary Boone has taken a new turn.",
+        "abstract": "Gallery owner Mary Boone files motion in New York State Supreme Court accusing actor Alec Baldwin of committing fraud by failing to pay sales tax after purchasing Ross Bleckner painting Sea and Mirror in 2010; motion comes after Baldwin accused Boone of defrauding him by giving him wrong painting.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/arts/28BALDWIN/28BALDWIN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/arts/28BALDWIN/28BALDWIN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/arts/28BALDWIN/28BALDWIN-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/arts/28BALDWIN/28BALDWIN-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/arts/28BALDWIN/28BALDWIN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/arts/28BALDWIN/28BALDWIN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gallery Owner Accuses Alec Baldwin of Dodging Tax in Disputed Art Purchase",
+          "print_headline": "Lawsuit Accuses Baldwin of Dodging Sales Tax"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Baldwin, Alec"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Boone, Mary (1951- )"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Tax Evasion"
+          }
+        ],
+        "pub_date": "2016-10-27T22:21:50+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Graham",
+              "rank": 1,
+              "lastname": "BOWLEY"
+            }
+          ],
+          "original": "By GRAHAM BOWLEY"
+        },
+        "type_of_material": "News",
+        "_id": "58127e0695d0e022439c5a57",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/sports/golf/ap-glf-pga-tour-champions.html",
+        "snippet": "Bernhard Langer has a left knee injury that could force him to withdraw from the PowerShares QQQ Championship, the inaugural Charles Schwab Cup Playoffs event....",
+        "lead_paragraph": "Bernhard Langer has a left knee injury that could force him to withdraw from the PowerShares QQQ Championship, the inaugural Charles Schwab Cup Playoffs event.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Langer Has Knee Injury, Could Withdraw From Playoff Opener",
+          "print_headline": "Langer Has Knee Injury, Could Withdraw From Playoff Opener"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:20:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58127dc395d0e022439c5a56",
+        "word_count": "533",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

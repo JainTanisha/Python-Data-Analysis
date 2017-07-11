@@ -1,0 +1,355 @@
+{
+  "response": {
+    "meta": {
+      "hits": 546,
+      "time": 37,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/14/universal/ko/china-korea-thaad-korean.html",
+        "snippet": "\ud55c\uad6d\uacfc \ubbf8\uad6d \uc815\ubd80\uac00 \ubbf8\uad6d\uc758 \uace0\uace0\ub3c4 \ubbf8\uc0ac\uc77c \ubc29\uc5b4 \uccb4\uacc4 \uc0ac\ub4dc(THAAD)\ub97c \ud55c\uad6d\uc5d0 \ubc30\uce58\ud558\uae30\ub85c \ud569\uc758\ud55c \ub4a4 \uc911\uad6d\uc5d0\uc11c \uce58\ub7ec\uc9c8 \uc608\uc815\uc774\ub358 \ud55c\ub958 \uc2a4\ud0c0\ub4e4\uc758 \ud589\uc0ac \uba87\uba87\uc774 \ub3cc\uc5f0 \ucde8\uc18c\ub418\uc5c8\ub2e4....",
+        "lead_paragraph": "\ud55c\uad6d\uacfc \ubbf8\uad6d \uc815\ubd80\uac00 \ubbf8\uad6d\uc758 \uace0\uace0\ub3c4 \ubbf8\uc0ac\uc77c \ubc29\uc5b4 \uccb4\uacc4 \uc0ac\ub4dc(THAAD)\ub97c \ud55c\uad6d\uc5d0 \ubc30\uce58\ud558\uae30\ub85c \ud569\uc758\ud55c \ub4a4 \uc911\uad6d\uc5d0\uc11c \uce58\ub7ec\uc9c8 \uc608\uc815\uc774\ub358 \ud55c\ub958 \uc2a4\ud0c0\ub4e4\uc758 \ud589\uc0ac \uba87\uba87\uc774 \ub3cc\uc5f0 \ucde8\uc18c\ub418\uc5c8\ub2e4.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/08/universal/ko/CHINAKOREA1-korean/CHINAKOREA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/08/universal/ko/CHINAKOREA1-korean/CHINAKOREA1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/08/universal/ko/CHINAKOREA1-korean/CHINAKOREA1-articleLarge.jpg",
+            "height": 362,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/08/universal/ko/CHINAKOREA1-korean/CHINAKOREA1-articleLarge.jpg",
+              "xlargeheight": "362"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/08/universal/ko/CHINAKOREA2-korean/CHINAKOREA2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/08/universal/ko/CHINAKOREA2-korean/CHINAKOREA2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\uc0ac\ub4dc, \ud55c\ub958\uc5d0 \ucc2c\ubb3c \ub07c\uc5b9\ub098?",
+          "print_headline": "After Missile Defense Deal, Some Doors Shut on South Korean Stars"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Universal",
+        "section_name": "Universal",
+        "subsection_name": "Korean",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Amy",
+              "rank": 1,
+              "lastname": "QIN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Choe",
+              "rank": 2,
+              "lastname": "SANG-HUN"
+            }
+          ],
+          "original": "By AMY QIN and CHOE SANG-HUN"
+        },
+        "type_of_material": "News",
+        "_id": "57b0f0f495d0e021d7980a94",
+        "word_count": "787",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/14/sports/baseball/ap-bbn-reds.html",
+        "snippet": "Joey Votto continues to quietly put up eye-popping numbers....",
+        "lead_paragraph": "Joey Votto continues to quietly put up eye-popping numbers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Votto Homers Again, Doubles as Reds Fall to Brewers, 7-3",
+          "print_headline": "Votto Homers Again, Doubles as Reds Fall to Brewers, 7-3"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:25:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0f06b95d0e021d7980a93",
+        "word_count": "529",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/14/sports/golf/14reuters-golf-pga.html",
+        "snippet": "As Justin Rose was basking in the glory of becoming the first Olympic champion in 112 years, Ryan Moore collected $864,000 more than the Briton for winning the John Deere Classic on the PGA Tour on Sunday....",
+        "lead_paragraph": "As Justin Rose was basking in the glory of becoming the first Olympic champion in 112 years, Ryan Moore collected $864,000 more than the Briton for winning the John Deere Classic on the PGA Tour on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf: Moore Shines in Illinois Win as Rose Blooms in Rio",
+          "print_headline": "Golf: Moore Shines in Illinois Win as Rose Blooms in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:23:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0efac95d0e021d7980a92",
+        "word_count": "343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/14/sports/soccer/14reuters-soccer-spain-sev-fcb.html",
+        "snippet": "Barcelona took a big step towards lifting the Spanish Super Cup after second-half strikes from Luis Suarez and Munir El Haddadi sealed a 2-0 win at Sevilla in the first leg on Sunday....",
+        "lead_paragraph": "Barcelona took a big step towards lifting the Spanish Super Cup after second-half strikes from Luis Suarez and Munir El Haddadi sealed a 2-0 win at Sevilla in the first leg on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Suarez, Munir Strikes Give Barca Super Cup Advantage",
+          "print_headline": "Suarez, Munir Strikes Give Barca Super Cup Advantage"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:22:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0efa695d0e021d7980a90",
+        "word_count": "516",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/14/sports/soccer/bc-soc-mls-orlando-city-fire.html",
+        "snippet": "Razvan Cocis scored off a set piece late in the second half to give the Chicago Fire a 2-2 draw with Orlando City on Sunday....",
+        "lead_paragraph": "Razvan Cocis scored off a set piece late in the second half to give the Chicago Fire a 2-2 draw with Orlando City on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Late Cocis Goal Gives Chicago Fire 2-2 Tie With Orlando City",
+          "print_headline": "Late Cocis Goal Gives Chicago Fire 2-2 Tie With Orlando City"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:21:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0efac95d0e021d7980a91",
+        "word_count": "194",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/14/sports/golf/ap-glf-john-deere-classic.html",
+        "snippet": "For all the late pars and the closing run of 46 holes without a bogey, Ryan Moore thought the key to his victory Sunday in the John Deere Classic was a 24-foot birdie putt on the fourth hole....",
+        "lead_paragraph": "For all the late pars and the closing run of 46 holes without a bogey, Ryan Moore thought the key to his victory Sunday in the John Deere Classic was a 24-foot birdie putt on the fourth hole.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ryan Moore Wins John Deere Classic for 5th PGA Tour Title",
+          "print_headline": "Ryan Moore Wins John Deere Classic for 5th PGA Tour Title"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:11:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0edab95d0e021d7980a8f",
+        "word_count": "568",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/14/sports/golf/14reuters-olympics-rio-golf-kuchar.html",
+        "snippet": "Golf's bronze medalist Matt Kuchar almost didn't make the Olympics....",
+        "lead_paragraph": "Golf's bronze medalist Matt Kuchar almost didn't make the Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf: For Once, Kuchar Proud to Finish Third",
+          "print_headline": "Golf: For Once, Kuchar Proud to Finish Third"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:10:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0ecd495d0e021d7980a8e",
+        "word_count": "258",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/14/sports/olympics/14reuters-olympics-rio-gymnastics-whitlock.html",
+        "snippet": "Most athletes would be floored by the realization they had just won a historic double Olympic gold medal, but Britain's Max Whitlock says he was just doing his job and is keen to get back in the gym....",
+        "lead_paragraph": "Most athletes would be floored by the realization they had just won a historic double Olympic gold medal, but Britain's Max Whitlock says he was just doing his job and is keen to get back in the gym.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gymnastics: Just Doing His Job, Whitlock Calm After Double Gold",
+          "print_headline": "Gymnastics: Just Doing His Job, Whitlock Calm After Double Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:07:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0ec2f95d0e021d7980a8d",
+        "word_count": "397",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/14/arts/14reuters-usa-boxoffice.html",
+        "snippet": "\"Suicide Squad\" topped foreign box office charts for a second consecutive week. The super villain adventure picked up $58.7 million from 15,600 screens across 62 territories, pushing its global gross to $465.4 million....",
+        "lead_paragraph": "\"Suicide Squad\" topped foreign box office charts for a second consecutive week. The super villain adventure picked up $58.7 million from 15,600 screens across 62 territories, pushing its global gross to $465.4 million. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Box Office: 'Suicide Squad' Tops Foreign Box Office With $58.7 Million",
+          "print_headline": "Box Office: 'Suicide Squad' Tops Foreign Box Office With $58.7 Million"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:07:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0ec2495d0e021d7980a8c",
+        "word_count": "306",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/14/sports/tennis/ap-ten-cincinnati.html",
+        "snippet": "Defending champion Serena Williams initially opted to skip Cincinnati, figuring she'd be just finishing up in Rio de Janeiro. An early upset changed her plans and got her back in the Western &amp; Southern Open with more than just another trophy a...",
+        "lead_paragraph": "Defending champion Serena Williams initially opted to skip Cincinnati, figuring she'd be just finishing up in Rio de Janeiro. An early upset changed her plans and got her back in the Western &amp; Southern Open with more than just another trophy at stake.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Serena Williams Tries to Hold Onto No. 1 in Cincinnati",
+          "print_headline": "Serena Williams Tries to Hold Onto No. 1 in Cincinnati"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-14T22:03:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b0eba095d0e021d7980a8b",
+        "word_count": "557",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

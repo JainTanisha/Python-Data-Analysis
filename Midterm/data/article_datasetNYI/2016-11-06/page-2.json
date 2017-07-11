@@ -1,0 +1,684 @@
+{
+  "response": {
+    "meta": {
+      "hits": 390,
+      "time": 33,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/06/world/africa/06reuters-morocco-protests.html",
+        "snippet": "Around 2,000 protesters took to the streets of Morocco's capital Rabat on Sunday, in the latest in a week of rallies over a fish vendor crushed to death in a garbage compactor after a confrontation with police....",
+        "lead_paragraph": "Around 2,000 protesters took to the streets of Morocco's capital Rabat on Sunday, in the latest in a week of rallies over a fish vendor crushed to death in a garbage compactor after a confrontation with police.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Moroccans Protest in Capital Over Fishmonger's Death",
+          "print_headline": "Moroccans Protest in Capital Over Fishmonger's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T22:57:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f84c95d0e0204d55f043",
+        "word_count": "358",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/06/world/africa/ap-af-mali-violence.html",
+        "snippet": "Authorities say Islamic militants have launched attacks on both a U.N. peacekeeping convoy and a Malian military camp in the country's north, killing at least three people....",
+        "lead_paragraph": "Authorities say Islamic militants have launched attacks on both a U.N. peacekeeping convoy and a Malian military camp in the country's north, killing at least three people.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Peacekeeper Killed, 7 Wounded in North Mali Convoy Attack",
+          "print_headline": "UN Peacekeeper Killed, 7 Wounded in North Mali Convoy Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T22:57:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f8bb95d0e0204d55f04a",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/sports/100000004751911/shadow-runners-in-the-nyc-marathon.html",
+        "snippet": "Join runners on the Verrazano-Narrows Bridge, near the start of the 40th New York City Marathon, which travels through all five boroughs of the city....",
+        "lead_paragraph": "Join runners on the Verrazano-Narrows Bridge, near the start of the 40th New York City Marathon, which travels through all five boroughs of the city.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/nyregion/360-nycmarathon/360-nycmarathon-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/nyregion/360-nycmarathon/360-nycmarathon-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/nyregion/360-nycmarathon/360-nycmarathon-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/nyregion/360-nycmarathon/360-nycmarathon-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/nyregion/360-nycmarathon/360-nycmarathon-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/nyregion/360-nycmarathon/360-nycmarathon-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Shadow Runners in the N.Y.C. Marathon"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York City Marathon"
+          }
+        ],
+        "pub_date": "2016-11-06T22:53:49+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Benjamin",
+              "rank": 1,
+              "lastname": "NORMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Niko",
+              "rank": 2,
+              "lastname": "KOPPEL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kaitlyn",
+              "rank": 3,
+              "lastname": "MULLIN"
+            }
+          ],
+          "original": "By BENJAMIN NORMAN, NIKO KOPPEL and KAITLYN MULLIN"
+        },
+        "type_of_material": "Video",
+        "_id": "5820f77b95d0e0204d55f03b",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/06/business/06reuters-mexico-peso.html",
+        "snippet": "Mexico's peso jumped on Sunday after the FBI announced it stood by a previous decision to not charge Democratic candidate Hillary Clinton over emails related to her private server, a decision that comes just two days before the election....",
+        "lead_paragraph": "Mexico's peso jumped on Sunday after the FBI announced it stood by a previous decision to not charge Democratic candidate Hillary Clinton over emails related to her private server, a decision that comes just two days before the election. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Peso Jumps After FBI Clears Clinton Over Emails Ahead of Election",
+          "print_headline": "Mexico Peso Jumps After FBI Clears Clinton Over Emails Ahead of Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T22:51:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f76995d0e0204d55f039",
+        "word_count": "389",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/arts/music/review-an-aida-at-the-met-that-may-not-be-zeffirellis-but-its-big.html",
+        "snippet": "Marco Armiliato conducted this production, which starred Liudmyla Monastyrska in the title role and managed to make the stage seem crowded....",
+        "lead_paragraph": "Marco Armiliato conducted this production, which starred Liudmyla Monastyrska in the title role and managed to make the stage seem crowded.",
+        "abstract": "James R Oestreich reviews Metropolitan Opera revival of Sonja Frisell's 1988 production of Aida, starring soprano Liudmyla Monastyrska.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/arts/07AIDA-SUB/07AIDA-SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/arts/07AIDA-SUB/07AIDA-SUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/arts/07AIDA-SUB/07AIDA-1478461137083-articleLarge.jpg",
+            "height": 685,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/arts/07AIDA-SUB/07AIDA-1478461137083-articleLarge.jpg",
+              "xlargeheight": "685"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/arts/07AIDA-SUB/07AIDA-SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/arts/07AIDA-SUB/07AIDA-SUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: An \u2018Aida\u2019 at the Met That May Not Be Zeffirelli\u2019s, but It\u2019s Big",
+          "print_headline": "An Operatic Love Big Enough for a Vast Hall"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Aida (Opera)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Frisell, Sonja"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Metropolitan Opera"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Armiliato, Marco"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Monastyrska, Liudmyla"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-06T22:47:20Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "firstname": "James",
+              "middlename": "R.",
+              "lastname": "OESTREICH",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JAMES R. OESTREICH"
+        },
+        "type_of_material": "Review",
+        "_id": "5820f8a995d0e0204d55f047",
+        "word_count": "418",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/06/sports/soccer/bc-soc-mls-galaxy-rapids.html",
+        "snippet": "Tim Howard made two saves in the penalty shootout and the Colorado Rapids beat the Los Angeles Galaxy 3-1 on penalties Sunday to advance to the Western Conference championship....",
+        "lead_paragraph": "Tim Howard made two saves in the penalty shootout and the Colorado Rapids beat the Los Angeles Galaxy 3-1 on penalties Sunday to advance to the Western Conference championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Howard Makes 2 Saves in Penalty Shootout, Rapids Advance",
+          "print_headline": "Howard Makes 2 Saves in Penalty Shootout, Rapids Advance"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T22:43:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f85595d0e0204d55f044",
+        "word_count": "176",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/arts/music/review-for-this-young-chorus-its-never-too-early-for-six-world-premieres.html",
+        "snippet": "The Young People\u2019s Chorus of New York performed recently commissioned works on Friday at National Sawdust in Brooklyn....",
+        "lead_paragraph": "The Young People\u2019s Chorus of New York performed recently commissioned works on Friday at National Sawdust in Brooklyn.",
+        "abstract": "Anthony Tommasini reviews performance by Young People's Chorus of New York City, which included six world premieres as part of next installment of Transient Glory program, at National Sawdust.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/arts/07YPC1/07YPC1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/arts/07YPC1/07YPC1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/arts/07YPC1/07YPC1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/arts/07YPC1/07YPC1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/arts/07YPC1/07YPC1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/arts/07YPC1/07YPC1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: For This Young Chorus, It\u2019s Never Too Early for Six World Premieres",
+          "print_headline": "Young, Yes, But Ready for Six World Premieres"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Young People's Chorus of New York City"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Sawdust (Brooklyn, NY, Performance Space)"
+          }
+        ],
+        "pub_date": "2016-11-06T22:41:56Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anthony",
+              "rank": 1,
+              "lastname": "TOMMASINI"
+            }
+          ],
+          "original": "By ANTHONY TOMMASINI"
+        },
+        "type_of_material": "Review",
+        "_id": "5820f7ef95d0e0204d55f03f",
+        "word_count": "460",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/06/sports/soccer/06reuters-soccer-spain.html",
+        "snippet": "A mesmeric Lionel Messi helped Barcelona to come from behind and beat Sevilla 2-1 in a thrilling encounter on Sunday as the champions kept the pressure on La Liga leaders Real Madrid, who saw off Leganes 3-0 thanks to a double from Gareth Bale....",
+        "lead_paragraph": "A mesmeric Lionel Messi helped Barcelona to come from behind and beat Sevilla 2-1 in a thrilling encounter on Sunday as the champions kept the pressure on La Liga leaders Real Madrid, who saw off Leganes 3-0 thanks to a double from Gareth Bale.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Messi Inspires Barca Comeback, Bale Keeps Real Top",
+          "print_headline": "Messi Inspires Barca Comeback, Bale Keeps Real Top"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T22:33:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f6d495d0e0204d55f02d",
+        "word_count": "608",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/sports/basketball/utah-jazz-defeat-knicks.html",
+        "snippet": "The Knicks continued to score at a sufficient pace, but Utah shot 50 percent from the field and took 35 free throws in rallying from a double-digit deficit....",
+        "lead_paragraph": "The Knicks continued to score at a sufficient pace, but Utah shot 50 percent from the field and took 35 free throws in rallying from a double-digit deficit.",
+        "abstract": "Utah Jazz beat New York Knicks, 114-109.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/sports/07KNICKS/07KNICKS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/sports/07KNICKS/07KNICKS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/sports/07KNICKS/07KNICKS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/sports/07KNICKS/07KNICKS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/sports/07KNICKS/07KNICKS-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/sports/07KNICKS/07KNICKS-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Defensive Lapses Cost Knicks Against the Jazz",
+          "content_kicker": "Jazz 114, Knicks 109",
+          "kicker": "Jazz 114, Knicks 109",
+          "print_headline": "Knicks\u2019 Offense Hums Again, but Defense Remains Stuck in the Mud"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Knicks"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Utah Jazz"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Anthony, Carmelo"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Porzingis, Kristaps (1995- )"
+          }
+        ],
+        "pub_date": "2016-11-06T22:27:00Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "VORKUNOV"
+            }
+          ],
+          "original": "By MIKE VORKUNOV"
+        },
+        "type_of_material": "News",
+        "_id": "5820f6b695d0e0204d55f02a",
+        "word_count": "700",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/books/review-labryinths-emma-and-carl-jungs-complex-marriage.html",
+        "snippet": "Catrine Clay\u2019s book explores Carl Jung\u2019s tortured soul, his wife\u2019s challenging discoveries and their role in the early years of psychoanalysis....",
+        "lead_paragraph": "Catrine Clay\u2019s book explores Carl Jung\u2019s tortured soul, his wife\u2019s challenging discoveries and their role in the early years of psychoanalysis.",
+        "abstract": "Jennifer Senior reviews book Labyrinths: Emma Jung, Her Marriage to Carl, and the Early Years of Psychoanalysis by Catrine Clay.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/arts/07BOOKCLAY2-SUB/07BOOKCLAY2-SUB-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/arts/07BOOKCLAY2-SUB/07BOOKCLAY2-SUB-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/arts/07BOOKCLAY2-SUB/07BOOKCLAY2-SUB-articleLarge-v3.jpg",
+            "height": 928,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/arts/07BOOKCLAY2-SUB/07BOOKCLAY2-SUB-articleLarge-v3.jpg",
+              "xlargeheight": "928"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/arts/07BOOKCLAY2-SUB/07BOOKCLAY2-SUB-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/arts/07BOOKCLAY2-SUB/07BOOKCLAY2-SUB-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Labyrinths,\u2019 Emma and Carl Jung\u2019s Complex Marriage",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "Emma Jung\u2019s Marriage to a Tortured Genius"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Jung, Carl Gustav"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Freud, Sigmund"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Psychology and Psychologists"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clay, Catrine"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Jung, Emma (1882-1955)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Labyrinths: Emma Jung, Her Marriage to Carl, and the Early Years of Psychoanalysis (Book)"
+          }
+        ],
+        "pub_date": "2016-11-06T22:22:59Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 1,
+              "lastname": "SENIOR"
+            }
+          ],
+          "original": "By JENNIFER SENIOR"
+        },
+        "type_of_material": "Review",
+        "_id": "5820f73f95d0e0204d55f038",
+        "word_count": "1139",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

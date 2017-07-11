@@ -1,0 +1,378 @@
+{
+  "response": {
+    "meta": {
+      "hits": 694,
+      "time": 69,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/world/americas/15reuters-venezuela-politics.html",
+        "snippet": "- Venezuelan President Nicolas Maduro's approval rating fell to a nine-month low of 21.2 percent in July amid calls from government critics for a recall referendum next year, according to a local pollster Datanalisis....",
+        "lead_paragraph": "- Venezuelan President Nicolas Maduro's approval rating fell to a nine-month low of 21.2 percent in July amid calls from government critics for a recall referendum next year, according to a local pollster Datanalisis.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuelan President's Approval Rating Falls to Nine-Month Low",
+          "print_headline": "Venezuelan President's Approval Rating Falls to Nine-Month Low"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T23:08:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b24bbb95d0e021d7980d91",
+        "word_count": "291",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/16/science/for-olympic-diving-green-water-is-gone-if-not-the-mystery.html",
+        "snippet": "The hue in the pool was almost certainly caused by algae; metals, probably copper; or both. But how that much entered hasn\u2019t really been answered....",
+        "lead_paragraph": "The hue in the pool was almost certainly caused by algae; metals, probably copper; or both. But how that much entered hasn\u2019t really been answered.",
+        "abstract": "Olympic officials drain and refill diving competition pool, restoring typical blue color, and offer series of guesses as to why water might have unexpectedly turned green.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/16/science/16OBS-GREENSUB/16OBS-GREENSUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/16/science/16OBS-GREENSUB/16OBS-GREENSUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/16/science/16OBS-GREENSUB/16OBS-GREENSUB-articleLarge.jpg",
+            "height": 967,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/16/science/16OBS-GREENSUB/16OBS-GREENSUB-articleLarge.jpg",
+              "xlargeheight": "967"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/16/science/16OBS-GREENSUB/16OBS-GREENSUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/16/science/16OBS-GREENSUB/16OBS-GREENSUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For Olympic Diving, Green Water Is Gone, if Not the Mystery",
+          "print_headline": "Rio Olympics: Green Water Gone, but Mystery Remains"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Swimming Pools"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Water Pollution"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Diving (Sports Event)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Swimming"
+          }
+        ],
+        "pub_date": "2016-08-15T23:08:56+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kenneth",
+              "rank": 1,
+              "lastname": "CHANG"
+            }
+          ],
+          "original": "By KENNETH CHANG"
+        },
+        "type_of_material": "News",
+        "_id": "57b24b9395d0e021d7980d90",
+        "word_count": "158",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/us/ap-us-voter-id-north-carolina.html",
+        "snippet": "North Carolina officials asked the U.S. Supreme Court on Monday to keep a voter identification requirement and 10 days of early voting for the November election, even after a lower appeals court ruled these changes illegally restricted voting by b...",
+        "lead_paragraph": "North Carolina officials asked the U.S. Supreme Court on Monday to keep a voter identification requirement and 10 days of early voting for the November election, even after a lower appeals court ruled these changes illegally restricted voting by blacks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "North Carolina Asks Supreme Court to Keep Voter ID for Now",
+          "print_headline": "North Carolina Asks Supreme Court to Keep Voter ID for Now"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:33:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b24a5b95d0e021d7980d8f",
+        "word_count": "597",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/sports/olympics/15reuters-olympics-rio-badminton-m-doubles-britain.html",
+        "snippet": "Olympic badminton has yielded little over the last decade for the nation that invented the sport but rank outsiders Chris Langridge and Marcus Ellis may be set to end Britain's drought at the Rio Games....",
+        "lead_paragraph": "Olympic badminton has yielded little over the last decade for the nation that invented the sport but rank outsiders Chris Langridge and Marcus Ellis may be set to end Britain's drought at the Rio Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Badminton-Langridge and Ellis Fill British Hearts With Pride",
+          "print_headline": "Badminton-Langridge and Ellis Fill British Hearts With Pride"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T23:02:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b24a4795d0e021d7980d8e",
+        "word_count": "435",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/sports/olympics/15reuters-olympics-rio-boxing-m-heavy.html",
+        "snippet": "Russia's Evgeny Tishchenko won the Olympic heavyweight boxing gold medal to a chorus of boos from the crowd on Monday after beating Kazakhstan's Vasily Levit on a unanimous points decision....",
+        "lead_paragraph": "Russia's Evgeny Tishchenko won the Olympic heavyweight boxing gold medal to a chorus of boos from the crowd on Monday after beating Kazakhstan's Vasily Levit on a unanimous points decision.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Boxing-Russia's Tishchenko Wins Heavyweight Gold to Boos",
+          "print_headline": "Boxing-Russia's Tishchenko Wins Heavyweight Gold to Boos"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:53:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2482e95d0e021d7980d8c",
+        "word_count": "457",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/world/middleeast/15reuters-usa-guantanamo.html",
+        "snippet": "U.S. officials said on Monday 15 inmates from the Guantanamo prison were transferred to the United Arab Emirates, the single largest transfer of Guantanamo detainees during President Barack Obama's administration....",
+        "lead_paragraph": "U.S. officials said on Monday 15 inmates from the Guantanamo prison were transferred to the United Arab Emirates, the single largest transfer of Guantanamo detainees during President Barack Obama's administration.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pentagon Announces Single Largest Transfer of Guantanamo Inmates",
+          "print_headline": "Pentagon Announces Single Largest Transfer of Guantanamo Inmates"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:50:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2477895d0e021d7980d8b",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/sports/soccer/15reuters-soccer-england-che-whu-conte.html",
+        "snippet": "There was no pre-match fanfare to present Antonio Conte to the Stamford Bridge crowd before his debut as Chelsea manager, but Monday's 2-1 Premier League win over West Ham United sent a clear message that the team are already marching to his order...",
+        "lead_paragraph": "There was no pre-match fanfare to present Antonio Conte to the Stamford Bridge crowd before his debut as Chelsea manager, but Monday's 2-1 Premier League win over West Ham United sent a clear message that the team are already marching to his orders.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "My Philosophy Already Working at Chelsea, Says Conte",
+          "print_headline": "My Philosophy Already Working at Chelsea, Says Conte"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:42:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2461995d0e021d7980d8a",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/sports/olympics/ap-oly-ath-changing-countries.html",
+        "snippet": "The IAAF is exploring tightening the rules that allow athletes to switch the country they represent in track and field....",
+        "lead_paragraph": "The IAAF is exploring tightening the rules that allow athletes to switch the country they represent in track and field.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "IAAF Explores Tightening Rules on Athletes Changing Nations",
+          "print_headline": "IAAF Explores Tightening Rules on Athletes Changing Nations"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:39:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2458795d0e021d7980d89",
+        "word_count": "739",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/world/asia/15reuters-new-york-shooting-suspect.html",
+        "snippet": "A suspect being questioned in the killing of a Muslim imam and his associate in New York City over the weekend was arrested on Monday on charges related to a hit-and-run traffic accident on the day of the murders, police officials said....",
+        "lead_paragraph": "A suspect being questioned in the killing of a Muslim imam and his associate in New York City over the weekend was arrested on Monday on charges related to a hit-and-run traffic accident on the day of the murders, police officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Suspect Questioned in New York Slaying of Muslim Imam",
+          "print_headline": "Suspect Questioned in New York Slaying of Muslim Imam"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:33:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b243f495d0e021d7980d88",
+        "word_count": "112",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/sports/olympics/ap-oly-armchair-olympics.html",
+        "snippet": "Michael Phelps and Katie Ledecky made it look easy. But not every Olympic favorite wins, and sometimes the difference is as small as an opponent's lunge, or a slip that causes you to grab the balance beam....",
+        "lead_paragraph": "Michael Phelps and Katie Ledecky made it look easy. But not every Olympic favorite wins, and sometimes the difference is as small as an opponent's lunge, or a slip that causes you to grab the balance beam.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sometimes It's Harder Work When Things Don't Go Right",
+          "print_headline": "Sometimes It's Harder Work When Things Don't Go Right"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:29:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2437d95d0e021d7980d87",
+        "word_count": "584",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

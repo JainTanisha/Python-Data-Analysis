@@ -1,0 +1,469 @@
+{
+  "response": {
+    "meta": {
+      "hits": 967,
+      "time": 71,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/30/us/30reuters-california-shooting.html",
+        "snippet": "A black man who died after a physical struggle with police in a southern California home made an emergency call to Pasadena police because he needed help and suffered from bipolar disorder, his partner told a Los Angeles TV station on Friday....",
+        "lead_paragraph": "A black man who died after a physical struggle with police in a southern California home made an emergency call to Pasadena police because he needed help and suffered from bipolar disorder, his partner told a Los Angeles TV station on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Black Man Dies in Struggle With California Police After Calling for Help: Media",
+          "print_headline": "Black Man Dies in Struggle With California Police After Calling for Help: Media"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T23:05:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeeffe95d0e021d798975f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/01/health/zika-children-illness.html",
+        "snippet": "A study by the Centers for Disease Control and Prevention involving teenagers and toddlers was a rare bright spot in the epidemic....",
+        "lead_paragraph": "A study by the Centers for Disease Control and Prevention involving teenagers and toddlers was a rare bright spot in the epidemic.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/01/science/01ZIKA-1475255667063/01ZIKA-1475255667063-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/01/science/01ZIKA-1475255667063/01ZIKA-1475255667063-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/01/science/01ZIKA-1475255667063/01ZIKA-1475255667063-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/01/science/01ZIKA-1475255667063/01ZIKA-1475255667063-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/01/science/01ZIKA-1475255667063/01ZIKA-1475255667063-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/01/science/01ZIKA-1475255667063/01ZIKA-1475255667063-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Children Who Get Zika After Birth Tend Not to Fall Seriously Ill, Study Finds",
+          "print_headline": "Effects Tend to Be Mild for Children Who Get Zika"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Zika Virus"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Centers for Disease Control and Prevention"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sex"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Abstinence (Sexual)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Children and Childhood"
+          }
+        ],
+        "pub_date": "2016-09-30T22:59:49+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Catherine",
+              "middlename": "Saint",
+              "lastname": "LOUIS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "qualifier": "Jr",
+              "firstname": "Donald",
+              "middlename": "G.",
+              "lastname": "McNEIL",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By CATHERINE SAINT LOUIS and DONALD G. McNEIL Jr"
+        },
+        "type_of_material": "News",
+        "_id": "57eeee6f95d0e021d798975e",
+        "word_count": "738",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/30/arts/ap-lt-mexico-director-killed.html",
+        "snippet": "The murder of film director Leon Serment and his producer wife's subsequent death are believed to have been contract killings arranged by their son for the equivalent of about $5,200 per victim, Mexico City's top prosecutor said Friday....",
+        "lead_paragraph": "The murder of film director Leon Serment and his producer wife's subsequent death are believed to have been contract killings arranged by their son for the equivalent of about $5,200 per victim, Mexico City's top prosecutor said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Prosecutors Eye Son in Killing of Film Director, Wife",
+          "print_headline": "Mexico Prosecutors Eye Son in Killing of Film Director, Wife"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:51:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeed8395d0e021d798975d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/30/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sanders and Giuliani Among Guests on Sunday's News Shows",
+          "print_headline": "Sanders and Giuliani Among Guests on Sunday's News Shows"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:44:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeec1295d0e021d798975c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/30/business/30reuters-volkswagen-emissions.html",
+        "snippet": "Volkswagen AG confirmed late Friday it will make $1.21 billion in payments to 652 U.S. brand dealers as part of its $16.5 billion diesel emissions settlement to date....",
+        "lead_paragraph": "Volkswagen AG confirmed late Friday it will make $1.21 billion in payments to 652 U.S. brand dealers as part of its $16.5 billion diesel emissions settlement to date.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Volkswagen Will Pay $1.21 Billion to Settle U.S. Dealer Claims",
+          "print_headline": "Volkswagen Will Pay $1.21 Billion to Settle U.S. Dealer Claims"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:47:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeebc795d0e021d798975a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/30/sports/basketball/ap-bkn-76ers-simmons-broken-foot.html",
+        "snippet": "Ben Simmons has a broken bone in his right foot and its unknown how long the No. 1 overall pick will be sidelined for the Philadelphia 76ers....",
+        "lead_paragraph": "Ben Simmons has a broken bone in his right foot and its unknown how long the No. 1 overall pick will be sidelined for the Philadelphia 76ers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "76ers' Ben Simmons Breaks Bone in Right Foot",
+          "print_headline": "76ers' Ben Simmons Breaks Bone in Right Foot"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:43:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeeb3595d0e021d7989759",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/30/sports/soccer/30reuters-soccer-england-redknapp.html",
+        "snippet": "Former Premier League manager Harry Redknapp said his players bet on the result of one of their matches, according to the newspaper investigation that has seen England coach Sam Allardyce lose his job....",
+        "lead_paragraph": "Former Premier League manager Harry Redknapp said his players bet on the result of one of their matches, according to the newspaper investigation that has seen England coach Sam Allardyce lose his job.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Manager Redknapp Says Players Bet on Result of Match",
+          "print_headline": "Ex-Manager Redknapp Says Players Bet on Result of Match"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:43:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeeb1295d0e021d7989758",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/30/us/ap-us-michigan-police-fatal-shooting.html",
+        "snippet": "An armed man who called himself a \"sovereign citizen\" was fatally shot Friday by Michigan State Police after racing away from a traffic stop and leading troopers on a chase in suburban Detroit, authorities said....",
+        "lead_paragraph": "An armed man who called himself a \"sovereign citizen\" was fatally shot Friday by Michigan State Police after racing away from a traffic stop and leading troopers on a chase in suburban Detroit, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "State Police: Armed Man Killed After Detroit-Area Chase",
+          "print_headline": "State Police: Armed Man Killed After Detroit-Area Chase"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:32:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeea8795d0e021d7989756",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/30/us/ap-us-stripper-segregation.html",
+        "snippet": "Clothed in the power of the law, the federal government is again suing a Mississippi strip club, saying black strippers should be treated equally when they take it all off....",
+        "lead_paragraph": "Clothed in the power of the law, the federal government is again suing a Mississippi strip club, saying black strippers should be treated equally when they take it all off.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Stripper Segregation: Feds Say Club Mistreats Black Dancers",
+          "print_headline": "Stripper Segregation: Feds Say Club Mistreats Black Dancers"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-30T22:28:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eeea8795d0e021d7989757",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/01/arts/design/metropolitan-museum-of-art-picasso-the-actor-lawsuit.html",
+        "snippet": "Lawyers for the estate of Paul Leffmann say persecution by the Nazis led him to sell a painting....",
+        "lead_paragraph": "Lawyers for the estate of Paul Leffmann say persecution by the Nazis led him to sell a painting.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/01/arts/01PICASSO/01PICASSO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/01/arts/01PICASSO/01PICASSO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/01/arts/01PICASSO/01PICASSO-articleLarge.jpg",
+            "height": 1041,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/01/arts/01PICASSO/01PICASSO-articleLarge.jpg",
+              "xlargeheight": "1041"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/01/arts/01PICASSO/01PICASSO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/01/arts/01PICASSO/01PICASSO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Met Picasso Belonged to Family That Fled Nazis, Suit Says",
+          "print_headline": "Suit Says Met Picasso Was Sold Under Duress"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Wills and Estates"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Holocaust and the Nazi Era"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Metropolitan Museum of Art"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Picasso, Pablo"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          }
+        ],
+        "pub_date": "2016-09-30T22:42:54+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Graham",
+              "rank": 1,
+              "lastname": "BOWLEY"
+            }
+          ],
+          "original": "By GRAHAM BOWLEY"
+        },
+        "type_of_material": "News",
+        "_id": "57eeea7595d0e021d7989755",
+        "word_count": "584",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

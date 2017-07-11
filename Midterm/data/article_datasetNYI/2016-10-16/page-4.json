@@ -1,0 +1,777 @@
+{
+  "response": {
+    "meta": {
+      "hits": 445,
+      "time": 50,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/crosswords/no-chance-of-working.html",
+        "snippet": "Damon Gulczynski offers us a tricky theme for a Monday....",
+        "lead_paragraph": "Damon Gulczynski offers us a tricky theme for a Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/crosswords/17wordplay-art-deco/17wordplay-art-deco-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/crosswords/17wordplay-art-deco/17wordplay-art-deco-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/crosswords/17wordplay-art-deco/17wordplay-art-deco-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/crosswords/17wordplay-art-deco/17wordplay-art-deco-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/crosswords/17wordplay-art-deco/17wordplay-art-deco-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/crosswords/17wordplay-art-deco/17wordplay-art-deco-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "No Chance of Working",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-10-16T22:00:04+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "News",
+        "_id": "5803f86995d0e022439c37fc",
+        "word_count": "494",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/arts/music/st-paul-chamber-orchestra-review.html",
+        "snippet": "The St. Paul Chamber Orchestra\u2019s concert at the 92nd Street Y was a reminder that in certain quarters, participatory democracy is alive and well....",
+        "lead_paragraph": "The St. Paul Chamber Orchestra\u2019s concert at the 92nd Street Y was a reminder that in certain quarters, participatory democracy is alive and well.",
+        "abstract": "Corinna da Fonseca-Wollheim reviews performance by St Paul Chamber Orchestra, featuring New York premiere of George Tsontakis piece, at 92nd Street Y. ",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/17STPAUL/17STPAUL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/17STPAUL/17STPAUL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/17STPAUL/17STPAUL-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/17STPAUL/17STPAUL-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/17STPAUL/17STPAUL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/17STPAUL/17STPAUL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: The Joys of a Conductorless Chamber Performance",
+          "print_headline": "Conductorless, Yet Basking  in the Warmth of Solidarity"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "St Paul Chamber Orchestra"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ninety-Second Street Y"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Tsontakis, George"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-10-16T21:59:09+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By CORINNA da FONSECA-WOLLHEIM"
+        },
+        "type_of_material": "Review",
+        "_id": "5803f83295d0e022439c37fb",
+        "word_count": "467",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/arts/design/maya-lin-unveils-redesign-of-smith-college-library.html",
+        "snippet": "The renovation will retain the original building of the Neilson Library from 1909 while removing bulky additions that Ms. Lin said created a \u201ctelescoping\u201d effect....",
+        "lead_paragraph": "The renovation will retain the original building of the Neilson Library from 1909 while removing bulky additions that Ms. Lin said created a \u201ctelescoping\u201d effect.",
+        "abstract": "Maya Lin unveils redesign of Smith College library, which is expected to be completed in fall 2020. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/arts/15SMITH/15SMITH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/arts/15SMITH/15SMITH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/arts/15SMITH/15SMITH-articleLarge.jpg",
+            "height": 245,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/arts/15SMITH/15SMITH-articleLarge.jpg",
+              "xlargeheight": "245"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/arts/15SMITH/15SMITH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/arts/15SMITH/15SMITH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Maya Lin Unveils Redesign of Smith College Library",
+          "print_headline": "Maya Lin Unveils Redesign of Smith College Library"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lin, Maya"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Smith College"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Restoration and Renovation"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Libraries and Librarians"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Architecture"
+          }
+        ],
+        "pub_date": "2016-10-16T21:58:56+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joshua",
+              "rank": 1,
+              "lastname": "BARONE"
+            }
+          ],
+          "original": "By JOSHUA BARONE"
+        },
+        "type_of_material": "News",
+        "_id": "5803f82995d0e022439c37fa",
+        "word_count": "276",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/arts/dance/vortex-temporum-a-sensual-blend-of-music-and-dance.html",
+        "snippet": "A dance critic and a music critic discuss the interplay between Anna Teresa De Keersmaeker\u2019s choreographic work and G\u00e9rard Grisey\u2019s score of the same name....",
+        "lead_paragraph": "A dance critic and a music critic discuss the interplay between Anna Teresa De Keersmaeker\u2019s choreographic work and G\u00e9rard Grisey\u2019s score of the same name.",
+        "abstract": "Excerpts from conversation with Belgian choreographer Anne Teresa De Keersmaeker, who discusses her piece Vortex Temporum, which had its United States premiere at Brooklyn Academy of Music.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/17KEERSMAEKER/17KEERSMAEKER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/17KEERSMAEKER/17KEERSMAEKER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/17KEERSMAEKER/17KEERSMAEKER-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/17KEERSMAEKER/17KEERSMAEKER-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/17KEERSMAEKER/17KEERSMAEKER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/17KEERSMAEKER/17KEERSMAEKER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Vortex Temporum,\u2019 a Sensual Blend of Music and Dance",
+          "print_headline": "A Sensual Fusion of Music and Dance"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "de Keersmaeker, Anne Teresa"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Brooklyn Academy of Music"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Rosas (Dance Co)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Grisey, Gerard"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Vortex Temporum (Dance)"
+          }
+        ],
+        "pub_date": "2016-10-16T21:56:22+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Siobhan",
+              "rank": 2,
+              "lastname": "BURKE"
+            }
+          ],
+          "original": "By CORINNA da FONSECA-WOLLHEIM and SIOBHAN BURKE"
+        },
+        "type_of_material": "Review",
+        "_id": "5803f78a95d0e022439c37f9",
+        "word_count": "794",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/us/ap-us-obit-bruce-marshall.html",
+        "snippet": "The former longtime head coach of the Connecticut Huskies ice hockey team, who transitioned them to Division I status, has died. Bruce Marshall was 54....",
+        "lead_paragraph": "The former longtime head coach of the Connecticut Huskies ice hockey team, who transitioned them to Division I status, has died. Bruce Marshall was 54.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Winningest UConn Hockey Coach, Bruce Marshall, Dies at 54",
+          "print_headline": "Winningest UConn Hockey Coach, Bruce Marshall, Dies at 54"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:51:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f73395d0e022439c37f7",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/soccer/bc-soc-mls-revolution-fire.html",
+        "snippet": "David Accam scored in the 80th minute and the Chicago Fire eliminated the New England Revolution from playoff contention with a 2-1 victory Sunday....",
+        "lead_paragraph": "David Accam scored in the 80th minute and the Chicago Fire eliminated the New England Revolution from playoff contention with a 2-1 victory Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Accam, Fire Eliminate Revolution From Playoff Contention",
+          "print_headline": "Accam, Fire Eliminate Revolution From Playoff Contention"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:51:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f73395d0e022439c37f8",
+        "word_count": "176",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/16/business/16reuters-smithfield-north-carolina.html",
+        "snippet": "Smithfield Foods Inc expects to resume full production on Monday at its North Carolina meat operations, including the world's largest pork plant, more than a week Hurricane Matthew struck the U.S. Southeast and triggered widespread flooding in the...",
+        "lead_paragraph": "Smithfield Foods Inc expects to resume full production on Monday at its North Carolina meat operations, including the world's largest pork plant, more than a week Hurricane Matthew struck the U.S. Southeast and triggered widespread flooding in the state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Smithfield Sees North Carolina Meat Operations Back to Normal on Monday",
+          "print_headline": "Smithfield Sees North Carolina Meat Operations Back to Normal on Monday"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:51:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f71b95d0e022439c37f6",
+        "word_count": "284",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/books/truevine-review.html",
+        "snippet": "Ms. Macy\u2019s second book explores the true story of George and Willie Muse, black men in the Jim Crow South who were paraded in circuses....",
+        "lead_paragraph": "Ms. Macy\u2019s second book explores the true story of George and Willie Muse, black men in the Jim Crow South who were paraded in circuses.",
+        "abstract": "Janet Maslin reviews book Truevine: Two Brothers, a Kidnapping, and a Mother's Quest: A True Story of the Jim Crow South by Beth Macy.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/17BOOKMACY/17BOOKMACY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/17BOOKMACY/17BOOKMACY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/17BOOKMACY/17BOOKMACY-articleLarge.jpg",
+            "height": 857,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/17BOOKMACY/17BOOKMACY-articleLarge.jpg",
+              "xlargeheight": "857"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/17BOOKMACY/17BOOKMACY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/17BOOKMACY/17BOOKMACY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: An Account of Black Albino Brothers in Beth Macy\u2019s \u2018Truevine\u2019",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "Consigning  Sons to a Life in Freak Shows"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Truevine (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Macy, Beth"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Muse, Willie (1892-2001)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Muse, George (1893-1971)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Circuses"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Albinism"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-10-16T21:53:42+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Janet",
+              "rank": 1,
+              "lastname": "MASLIN"
+            }
+          ],
+          "original": "By JANET MASLIN"
+        },
+        "type_of_material": "Review",
+        "_id": "5803f6eb95d0e022439c37f5",
+        "word_count": "968",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/football/ap-fbn-nfl-capsules.html",
+        "snippet": "Drew Brees passed for 465 yards and four touchdowns, Wil Lutz kicked a 52-yard field goal with 11 seconds left, and the New Orleans Saints pulled out a 41-38 victory over the Carolina Panthers on Sunday....",
+        "lead_paragraph": "Drew Brees passed for 465 yards and four touchdowns, Wil Lutz kicked a 52-yard field goal with 11 seconds left, and the New Orleans Saints pulled out a 41-38 victory over the Carolina Panthers on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NFL Capsules",
+          "print_headline": "NFL Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:41:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f67a95d0e022439c37f4",
+        "word_count": "1956",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/arts/design/righting-wrongs-and-generating-attention-for-art-of-the-african-diaspora.html",
+        "snippet": "Pamela J. Joyner is on a mission to bring more attention to artists who have been overlooked and to help develop the careers of others....",
+        "lead_paragraph": "Pamela J. Joyner is on a mission to bring more attention to artists who have been overlooked and to help develop the careers of others.",
+        "abstract": "Pamela J Joyner, avid art collector and enthusiast of artists of African descent, releases book featuring works from her personal art collection titled Four Generations: The Joyner/Giuffrida Collection of Abstract Art.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/17JOYNER1/17JOYNER1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/17JOYNER1/17JOYNER1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/17JOYNER1/17JOYNER1-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/17JOYNER1/17JOYNER1-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/17JOYNER1/17JOYNER1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/17JOYNER1/17JOYNER1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Righting Wrongs and Generating Attention for Art of the African Diaspora",
+          "print_headline": "Reframing Art With African Roots"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Joyner, Pamela J"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Four Generations: The Joyner/Giuffrida Collection of Abstract Art (Book)"
+          }
+        ],
+        "pub_date": "2016-10-16T21:48:14+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ted",
+              "rank": 1,
+              "lastname": "LOOS"
+            }
+          ],
+          "original": "By TED LOOS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f5a595d0e022439c37f3",
+        "word_count": "1218",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

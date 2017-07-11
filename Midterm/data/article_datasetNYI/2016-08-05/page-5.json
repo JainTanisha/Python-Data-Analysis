@@ -1,0 +1,453 @@
+{
+  "response": {
+    "meta": {
+      "hits": 840,
+      "time": 55,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/05/books/review/harry-potter-and-the-cursed-child-jk-rowling-jack-thorne-john-tiffany.html",
+        "snippet": "True to the expansive spirit of the fantasy series\u2019s multifaceted universe, \u201cHarry Potter and the Cursed Child\u201d is a collaboration among J.K. Rowling, the playwright Jack Thorne and the director John Tiffany....",
+        "lead_paragraph": "True to the expansive spirit of the fantasy series\u2019s multifaceted universe, \u201cHarry Potter and the Cursed Child\u201d is a collaboration among J.K. Rowling, the playwright Jack Thorne and the director John Tiffany.",
+        "abstract": "Kelly Link reviews script of Jack Thorne play Harry Potter and the Cursed Child: Parts 1 and 2, which has been released as book. ",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/04/books/review/04LINK/04LINK-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/04/books/review/04LINK/04LINK-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/04/books/review/04LINK/04LINK-articleLarge-v2.jpg",
+            "height": 342,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/04/books/review/04LINK/04LINK-articleLarge-v2.jpg",
+              "xlargeheight": "342"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/04/books/review/04LINK/04LINK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/04/books/review/04LINK/04LINK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In the Latest Turn for Harry Potter and Company, Letting All the \u2018What Ifs\u2019 Out to Play",
+          "content_kicker": "Fiction",
+          "kicker": "Fiction",
+          "print_headline": "Letting All the \u2018What Ifs\u2019 Out to Play"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rowling, J K"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Thorne, Jack (1978- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Tiffany, John (1971- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Harry Potter and the Cursed Child (Play)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          }
+        ],
+        "pub_date": "2016-08-05T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "BookReview",
+        "section_name": "Books",
+        "subsection_name": "Book Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kelly",
+              "rank": 1,
+              "lastname": "LINK"
+            }
+          ],
+          "original": "By KELLY LINK"
+        },
+        "type_of_material": "Review",
+        "_id": "57aa191295d0e021d797efb4",
+        "word_count": "1513",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/05/business/05reuters-nintendo-pokemon.html",
+        "snippet": "The creator of mobile gaming phenomenon Pokemon Go is exploring more sponsorships by companies that want to attract character-hunting players to their businesses, the chief executive of developer Niantic Labs said on Tuesday....",
+        "lead_paragraph": "The creator of mobile gaming phenomenon Pokemon Go is exploring more sponsorships by companies that want to attract character-hunting players to their businesses, the chief executive of developer Niantic Labs said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pokemon Go Creator Wants More Tie Ups Like McDonald's Japan",
+          "print_headline": "Pokemon Go Creator Wants More Tie Ups Like McDonald's Japan"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:59:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa1ab095d0e021d797efe2",
+        "word_count": "409",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/africa/100000004572220/opposition-gains-steam-in-south-africa.html",
+        "snippet": "The African National Congress had its worst election since apartheid, losing major black-majority cities like Nelson Mandela Bay to the Democratic Alliance....",
+        "lead_paragraph": "The African National Congress had its worst election since apartheid, losing major black-majority cities like Nelson Mandela Bay to the Democratic Alliance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/06/nytnow/06SAFrica-web1/06SAFrica-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/06/nytnow/06SAFrica-web1/06SAFrica-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/06/nytnow/06SAFrica-web1/06SAFrica-web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/06/nytnow/06SAFrica-web1/06SAFrica-web1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/06/nytnow/06SAFrica-web1/06SAFrica-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/06/nytnow/06SAFrica-web1/06SAFrica-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Opposition Gains Steam in South Africa"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "African National Congress"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Alliance (South Africa)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "South Africa"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Zuma, Jacob G"
+          }
+        ],
+        "pub_date": "2016-08-05T21:57:49Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Africa",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57aa18d695d0e021d797efae",
+        "word_count": "22",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/05/sports/soccer/05reuters-soccer-england-sun-djilobodji.html",
+        "snippet": "David Moyes made his first signing as Sunderland manager on Friday with the transfer of Senegal defender Papy Djilobodji from Chelsea, the Premier League club announced....",
+        "lead_paragraph": "David Moyes made his first signing as Sunderland manager on Friday with the transfer of Senegal defender Papy Djilobodji from Chelsea, the Premier League club announced.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Moyes Makes First Sunderland Signing With Djilobodji",
+          "print_headline": "Moyes Makes First Sunderland Signing With Djilobodji"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:55:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa19cf95d0e021d797efcb",
+        "word_count": "141",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/05/us/05reuters-california-sheriff.html",
+        "snippet": "Former Los Angeles County Sheriff Lee Baca, who earlier this week withdrew his guilty plea to a charge of lying to federal investigators in a corruption probe, was indicted on Friday on three new criminal counts, prosecutors said....",
+        "lead_paragraph": "Former Los Angeles County Sheriff Lee Baca, who earlier this week withdrew his guilty plea to a charge of lying to federal investigators in a corruption probe, was indicted on Friday on three new criminal counts, prosecutors said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Former L.A. County Sheriff Indicted on New Federal Charges",
+          "print_headline": "Former L.A. County Sheriff Indicted on New Federal Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:54:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa19a495d0e021d797efc6",
+        "word_count": "415",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Democratic Running Mate Tim Kaine Set for Sunday Show",
+          "print_headline": "Democratic Running Mate Tim Kaine Set for Sunday Show"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:51:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa18ce95d0e021d797efac",
+        "word_count": "79",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/us/ap-us-people-renee-zellweger.html",
+        "snippet": "Renee Zellweger criticizes the media for legitimizing tabloid gossip about her looks in a blistering essay published in the Huffington Post on Friday....",
+        "lead_paragraph": "Renee Zellweger criticizes the media for legitimizing tabloid gossip about her looks in a blistering essay published in the Huffington Post on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Zellweger Responds to Media Gossip About Her Looks in Essay",
+          "print_headline": "Zellweger Responds to Media Gossip About Her Looks in Essay"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:48:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa19cd95d0e021d797efca",
+        "word_count": "134",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/world/middleeast/ap-un-united-nations-yemen.html",
+        "snippet": "All sides in Yemen's 17-month old civil war have committed violations of international humanitarian law, according to a new United Nations report that will be used to determine if further sanctions should be applied in the conflict....",
+        "lead_paragraph": "All sides in Yemen's 17-month old civil war have committed violations of international humanitarian law, according to a new United Nations report that will be used to determine if further sanctions should be applied in the conflict.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Report: All Sides Violate Humanitarian Law in Yemen",
+          "print_headline": "UN Report: All Sides Violate Humanitarian Law in Yemen"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:48:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa19d295d0e021d797efcc",
+        "word_count": "302",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/us/ap-us-hermit-arrest.html",
+        "snippet": "Maine's highest court has ruled that a man who lived as a hermit in the woods for nearly three decades won't have to pay restitution to state police....",
+        "lead_paragraph": "Maine's highest court has ruled that a man who lived as a hermit in the woods for nearly three decades won't have to pay restitution to state police.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Court: Former Maine Hermit Doesn't Owe State Police Money",
+          "print_headline": "Court: Former Maine Hermit Doesn't Owe State Police Money"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:49:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa18b595d0e021d797efaa",
+        "word_count": "140",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/05/sports/olympics/05reuters-olympics-rio-athletics-jamaica-morgan.html",
+        "snippet": "Jamaican discus thrower Jason Morgan has lost his appeal over being excluded from their Olympics team despite having reached the qualifying standard, the top sport court ruled on Friday....",
+        "lead_paragraph": "Jamaican discus thrower Jason Morgan has lost his appeal over being excluded from their Olympics team despite having reached the qualifying standard, the top sport court ruled on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jamaican Discus Thrower Morgan Loses Appeal to Compete in Rio",
+          "print_headline": "Jamaican Discus Thrower Morgan Loses Appeal to Compete in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T21:51:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa194a95d0e021d797efbb",
+        "word_count": "182",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,734 @@
+{
+  "response": {
+    "meta": {
+      "hits": 618,
+      "time": 82,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/fashion/erykah-badu-braids-night-out.html",
+        "snippet": "The host of the Soul Train Awards settles in for six hours of conversation, music and hair rejuvenation....",
+        "lead_paragraph": "The host of the Soul Train Awards settles in for six hours of conversation, music and hair rejuvenation.",
+        "abstract": null,
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/27/fashion/27NIGHTOUT1/27NIGHTOUT1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/27/fashion/27NIGHTOUT1/27NIGHTOUT1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/27/fashion/27NIGHTOUT1/27NIGHTOUT1-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/27/fashion/27NIGHTOUT1/27NIGHTOUT1-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/27/fashion/27NIGHTOUT1/27NIGHTOUT1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/27/fashion/27NIGHTOUT1/27NIGHTOUT1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Erykah Badu\u2019s Beautiful Braids Take Time",
+          "content_kicker": "Night Out",
+          "kicker": "Night Out",
+          "print_headline": "Her Braids Take Time and Music"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hair"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rap and Hip-Hop"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Badu, Erykah"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Benjamin, Andre (Andre 3000)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harvey, Steve"
+          }
+        ],
+        "pub_date": "2016-11-25T21:32:07+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joanna",
+              "rank": 1,
+              "lastname": "NIKAS"
+            }
+          ],
+          "original": "By JOANNA NIKAS"
+        },
+        "type_of_material": "News",
+        "_id": "5838ade095d0e0392607286a",
+        "word_count": "828",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/us/parasites-deer-florida-keys.html",
+        "snippet": "The New World screwworm fly, a pest that officials thought was eradicated decades ago, is killing off Key deer and threatening Florida\u2019s livestock industry....",
+        "lead_paragraph": "The New World screwworm fly, a pest that officials thought was eradicated decades ago, is killing off Key deer and threatening Florida\u2019s livestock industry.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/26/us/00PARASITE/00PARASITE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/26/us/00PARASITE/00PARASITE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/26/us/00PARASITE/00PARASITE-articleLarge.jpg",
+            "height": 431,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/26/us/00PARASITE/00PARASITE-articleLarge.jpg",
+              "xlargeheight": "431"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/26/us/00PARASITE/00PARASITE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/26/us/00PARASITE/00PARASITE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Long-Gone Parasite Returns to Florida, Leaving a Trail of Dead Deer",
+          "print_headline": "A Parasite in Florida Targets Endangered Deer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parasites"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida Keys"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deer"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Livestock Diseases"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Agriculture and Farming"
+          }
+        ],
+        "pub_date": "2016-11-25T21:28:15+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Frances",
+              "rank": 1,
+              "lastname": "ROBLES"
+            }
+          ],
+          "original": "By FRANCES ROBLES"
+        },
+        "type_of_material": "News",
+        "_id": "5838acf995d0e03926072869",
+        "word_count": "1109",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/business/dealbook/johnson-johnson-actelion.html",
+        "snippet": "But the market capitalization of Actelion, a Swiss drug maker, is high, so Johnson & Johnson would have to cut costs to make a deal work....",
+        "lead_paragraph": "But the market capitalization of Actelion, a Swiss drug maker, is high, so Johnson & Johnson would have to cut costs to make a deal work.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnson & Johnson Has Its Eye on Actelion",
+          "content_kicker": "Breakingviews",
+          "kicker": "Breakingviews"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Actelion Pharmaceuticals Ltd"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Johnson & Johnson"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Drugs (Pharmaceuticals)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          }
+        ],
+        "pub_date": "2016-11-25T21:22:24+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "UNMACK"
+            }
+          ],
+          "original": "By NEIL UNMACK"
+        },
+        "type_of_material": "News",
+        "_id": "5838acd295d0e03926072868",
+        "word_count": "425",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/25/world/middleeast/ap-ml-iraq-swelling-cemetery.html",
+        "snippet": "Wailing and pounding their chests in grief, a dozen women clad in mourning black gathered around a tomb in the massive cemetery in Iraq's holy Shiite city of Najaf. A short distance away, a grief-stricken man cried silently inside his car, parked ...",
+        "lead_paragraph": "Wailing and pounding their chests in grief, a dozen women clad in mourning black gathered around a tomb in the massive cemetery in Iraq's holy Shiite city of Najaf. A short distance away, a grief-stricken man cried silently inside his car, parked next to a friend's tomb.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Iraq's Najaf Cemetery Swells as Fight Against IS Escalates",
+          "print_headline": "Iraq's Najaf Cemetery Swells as Fight Against IS Escalates"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T21:15:59+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5838aa1795d0e03926072866",
+        "word_count": "700",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/25/sports/hockey/ap-hkn-rangers-flyers.html",
+        "snippet": "Matt Puempel scored in his first game with the Rangers, and Henrik Lundqvist made 40 saves to help New York defeat the Philadelphia Flyers 3-2 on Friday....",
+        "lead_paragraph": "Matt Puempel scored in his first game with the Rangers, and Henrik Lundqvist made 40 saves to help New York defeat the Philadelphia Flyers 3-2 on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Puempel, Lundqvist Lead Rangers Past Flyers",
+          "print_headline": "Puempel, Lundqvist Lead Rangers Past Flyers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T21:10:02+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5838a8b295d0e03926072865",
+        "word_count": "586",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/business/dealbook/china-hongkong-shenzhen-connect.html",
+        "snippet": "Global investors will be able to tap China\u2019s tech-heavy Shenzhen market, but many investors worry about last year\u2019s crash and government interference....",
+        "lead_paragraph": "Global investors will be able to tap China\u2019s tech-heavy Shenzhen market, but many investors worry about last year\u2019s crash and government interference.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/26/business/26CHINASTOCKS/26CHINASTOCKS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/26/business/26CHINASTOCKS/26CHINASTOCKS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/26/business/26CHINASTOCKS/26CHINASTOCKS-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/26/business/26CHINASTOCKS/26CHINASTOCKS-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/26/business/26CHINASTOCKS/26CHINASTOCKS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/26/business/26CHINASTOCKS/26CHINASTOCKS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Shenzhen Connect Offers Chinese Stocks. Will the World Buy?",
+          "print_headline": "In China, Door Opens a Bit Wider to Investors"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Foreign Investments"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Stocks and Bonds"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Shenzhen (China)"
+          }
+        ],
+        "pub_date": "2016-11-25T21:06:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "contributor": "Cao Li contributed research from Beijing.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "GOUGH"
+            }
+          ],
+          "original": "By NEIL GOUGH"
+        },
+        "type_of_material": "News",
+        "_id": "5838a7f495d0e03926072864",
+        "word_count": "922",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/world/canada/canada-today-algae-blooms-fighter-jets-and-fund-raising-trouble.html",
+        "snippet": "He toughened guidelines on donations, but Justin Trudeau still finds himself drawn into a debate about Liberal Party gatherings with donors....",
+        "lead_paragraph": "He toughened guidelines on donations, but Justin Trudeau still finds himself drawn into a debate about Liberal Party gatherings with donors.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/26/world/26CANADATODAY/26CANADATODAY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/26/world/26CANADATODAY/26CANADATODAY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/26/world/26CANADATODAY/26CANADATODAY-articleLarge.jpg",
+            "height": 427,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/26/world/26CANADATODAY/26CANADATODAY-articleLarge.jpg",
+              "xlargeheight": "427"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/26/world/26CANADATODAY/26CANADATODAY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/26/world/26CANADATODAY/26CANADATODAY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Canada Today: Algae Blooms, Fighter Jets and Fund-Raising Trouble"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Canada"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trudeau, Justin"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Campaign Finance"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Ethics and Official Misconduct"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Liberal Party (Canada)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Algae"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Military Aircraft"
+          }
+        ],
+        "pub_date": "2016-11-25T21:03:27+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Canada",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ian",
+              "rank": 1,
+              "lastname": "AUSTEN"
+            }
+          ],
+          "original": "By IAN AUSTEN"
+        },
+        "type_of_material": "News",
+        "_id": "5838a73195d0e03926072863",
+        "word_count": "702",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/25/us/ap-us-oil-terminal-grays-harbor.html",
+        "snippet": "As the small city of Hoquiam considers a key permit for a proposed terminal that would move millions of barrels of crude oil through Grays Harbor, opponents are raising concerns about the potential for oil spills and impacts on tribal fishing righ...",
+        "lead_paragraph": "As the small city of Hoquiam considers a key permit for a proposed terminal that would move millions of barrels of crude oil through Grays Harbor, opponents are raising concerns about the potential for oil spills and impacts on tribal fishing rights.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "City Eyes Key Permit for Oil Terminal on Washington Coast",
+          "print_headline": "City Eyes Key Permit for Oil Terminal on Washington Coast"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T21:00:58+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5838a69395d0e03926072862",
+        "word_count": "752",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/fashion/holiday-coffee-table-books.html",
+        "snippet": "Need an escape from the pall of politics? Sink into glossy pages that chronicle movie stars on holiday, kitties in windows or just great clothes....",
+        "lead_paragraph": "Need an escape from the pall of politics? Sink into glossy pages that chronicle movie stars on holiday, kitties in windows or just great clothes.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/27/fashion/27BOOKS-COMBO/27BOOKS-COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Holiday Books About Pearls, Parties and Peace",
+          "content_kicker": "Books of Style",
+          "kicker": "Books of Style",
+          "print_headline": "The Coffee Table Never Purred So Loudly"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bardot, Brigitte"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kahlo, Frida"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Elizabeth I, Queen of Great Britain"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          }
+        ],
+        "pub_date": "2016-11-25T20:58:15+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeremy",
+              "rank": 1,
+              "lastname": "ALLEN"
+            }
+          ],
+          "original": "By JEREMY ALLEN"
+        },
+        "type_of_material": "News",
+        "_id": "5838a5ef95d0e03926072861",
+        "word_count": "1082",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/25/sports/football/ap-fbn-on-football-division-races.html",
+        "snippet": "Separation in the AFC, a jumble in the NFC....",
+        "lead_paragraph": "Separation in the AFC, a jumble in the NFC.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Separation in the AFC, a Jumble in the NFC",
+          "print_headline": "Separation in the AFC, a Jumble in the NFC"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T20:57:55+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5838a5df95d0e03926072860",
+        "word_count": "955",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

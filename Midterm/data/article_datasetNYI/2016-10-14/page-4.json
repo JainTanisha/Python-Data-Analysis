@@ -1,0 +1,437 @@
+{
+  "response": {
+    "meta": {
+      "hits": 973,
+      "time": 45,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/ap-ath-texas-track-coach-investigation.html",
+        "snippet": "For the second time in four years, a top University of Texas track coach is being investigated by school officials for alleged misconduct....",
+        "lead_paragraph": "For the second time in four years, a top University of Texas track coach is being investigated by school officials for alleged misconduct.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "APNewsBreak: Texas Track Coach Sategna Under Conduct Probe",
+          "print_headline": "APNewsBreak: Texas Track Coach Sategna Under Conduct Probe"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:07:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580157da95d0e022439c34da",
+        "word_count": "445",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/sports/baseball/ap-bbo-all-hands-on-deck.html",
+        "snippet": "Clayton Kershaw entered Dodgers lore Thursday night, right alongside the last ace to lead the franchise to a World Series title....",
+        "lead_paragraph": "Clayton Kershaw entered Dodgers lore Thursday night, right alongside the last ace to lead the franchise to a World Series title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kershaw's Relief Appearance Brings Back Fond LA Memories",
+          "print_headline": "Kershaw's Relief Appearance Brings Back Fond LA Memories"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:06:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580157bd95d0e022439c34d9",
+        "word_count": "750",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/15/theater/review-stuffed-details-fights-women-wage-with-their-weight.html",
+        "snippet": "The play, written by and starring Lisa Lampanelli, is a patchwork of standup comedy and monologues that are only loosely sewn together....",
+        "lead_paragraph": "The play, written by and starring Lisa Lampanelli, is a patchwork of standup comedy and monologues that are only loosely sewn together.",
+        "abstract": "Laura Collins-Hughes reviews Women's Project Theater production Stuffed, written by and starring Lisa Lampanelli with staging by Jackson Gay, at McGinn/Cazale Theater. ",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/arts/15STUFFED/15STUFFED-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/arts/15STUFFED/15STUFFED-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/arts/15STUFFED/15STUFFED-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/arts/15STUFFED/15STUFFED-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/arts/15STUFFED/15STUFFED-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/arts/15STUFFED/15STUFFED-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Stuffed\u2019 Details Fights Women Wage With Their Weight",
+          "print_headline": "The War on Weight Never Ends"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lampanelli, Lisa"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Stuffed (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "McGinn/Cazale Theater"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Women's Project"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gay, Jackson"
+          }
+        ],
+        "pub_date": "2016-10-14T22:08:23+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laura",
+              "rank": 1,
+              "lastname": "COLLINS-HUGHES"
+            }
+          ],
+          "original": "By LAURA COLLINS-HUGHES"
+        },
+        "type_of_material": "Review",
+        "_id": "5801576395d0e022439c34d8",
+        "word_count": "559",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/us/14reuters-finland-northernlights.html",
+        "snippet": "Early autumn is a good time to enjoy the Northern Lights....",
+        "lead_paragraph": "Early autumn is a good time to enjoy the Northern Lights.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Northern Lights an Autumn Treat Over Finland",
+          "print_headline": "Northern Lights an Autumn Treat Over Finland"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:04:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580156ee95d0e022439c34d7",
+        "word_count": "121",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/world/middleeast/14reuters-mideast-crisis-syria-talks.html",
+        "snippet": "U.S. Secretary of State John Kerry and Russian Foreign Minister Sergei Lavrov will return to Syria talks on Saturday, three weeks after the failure of their painstakingly drafted ceasefire that many saw as the last hope for peace this year....",
+        "lead_paragraph": "U.S. Secretary of State John Kerry and Russian Foreign Minister Sergei Lavrov will return to Syria talks on Saturday, three weeks after the failure of their painstakingly drafted ceasefire that many saw as the last hope for peace this year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Broadens Syria Talks After Failure of Truce Deal With Russia",
+          "print_headline": "U.S. Broadens Syria Talks After Failure of Truce Deal With Russia"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:03:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580156ec95d0e022439c34d6",
+        "word_count": "487",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/14/briefing/clinton-trump-cuba.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/14/nytnow/14eveningss-slide-0YRH/14eveningss-slide-0YRH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/14/nytnow/14eveningss-slide-0YRH/14eveningss-slide-0YRH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/14/nytnow/14eveningss-slide-0YRH/14eveningss-slide-0YRH-articleLarge.jpg",
+            "height": 340,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/14/nytnow/14eveningss-slide-0YRH/14eveningss-slide-0YRH-articleLarge.jpg",
+              "xlargeheight": "340"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/14/nytnow/14eveningss-slide-0YRH/14eveningss-slide-0YRH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/14/nytnow/14eveningss-slide-0YRH/14eveningss-slide-0YRH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Clinton, Trump, Cuba: Your Friday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "5801561d95d0e022439c34d5",
+        "word_count": "654",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/roomfordebate/2016/10/14/whats-behind-the-spreading-creepy-clown-hysteria",
+        "snippet": "Many of the recent menacing clown sightings are hoaxes, but they appear to be inspiring copy-cat pranks and occasional acts of violence....",
+        "lead_paragraph": "",
+        "abstract": "Many of the recent menacing clown sightings are hoaxes, but they appear to be inspiring copy-cat pranks and occasional acts of violence.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "What's Behind the Spreading Creepy Clown Hysteria?",
+          "kicker": "Room For Debate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "pub_date": "2016-10-14T16:35:22+0000",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Opinion",
+        "subsection_name": "Room For Debate",
+        "byline": null,
+        "type_of_material": "Blog",
+        "_id": "58010c4d95d0e022439c33cb",
+        "word_count": "1502",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/sports/football/ap-fbn-pouncey-pouncey.html",
+        "snippet": "Mike Pouncey beat Maurkice Pouncey into the world by a full 60 seconds in the summer of 1989, his first victory in a sibling rivalry that will reach a unique milestone on Sunday when the Miami Dolphins host the Pittsburgh Steelers....",
+        "lead_paragraph": "Mike Pouncey beat Maurkice Pouncey into the world by a full 60 seconds in the summer of 1989, his first victory in a sibling rivalry that will reach a unique milestone on Sunday when the Miami Dolphins host the Pittsburgh Steelers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Brotherly Love; Pounceys Ready for Unique Chapter in Rivalry",
+          "print_headline": "Brotherly Love; Pounceys Ready for Unique Chapter in Rivalry"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:56:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580155b195d0e022439c34d4",
+        "word_count": "887",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/us/14reuters-crime-manson.html",
+        "snippet": "A follower of 1960s cult leader Charles Manson, who masterminded one of the most notorious mass murders of the 20th century, was denied parole from a California prison, officials said on Friday....",
+        "lead_paragraph": "A follower of 1960s cult leader Charles Manson, who masterminded one of the most notorious mass murders of the 20th century, was denied parole from a California prison, officials said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Manson Follower Denied Parole From California Prison",
+          "print_headline": "Manson Follower Denied Parole From California Prison"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:54:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580154cf95d0e022439c34d3",
+        "word_count": "211",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:52:20Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801543595d0e022439c34d2",
+        "word_count": "1307",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

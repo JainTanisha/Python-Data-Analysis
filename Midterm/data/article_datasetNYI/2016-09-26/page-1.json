@@ -1,0 +1,532 @@
+{
+  "response": {
+    "meta": {
+      "hits": 766,
+      "time": 25,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/world/europe/26reuters-eu-defence.html",
+        "snippet": "France and Germany will make the case for the European Union's most ambitious defence plan in almost two decades on Tuesday, aiming to persuade sceptical easterners and avoid a showdown with Britain over its military future outside the bloc....",
+        "lead_paragraph": "France and Germany will make the case for the European Union's most ambitious defence plan in almost two decades on Tuesday, aiming to persuade sceptical easterners and avoid a showdown with Britain over its military future outside the bloc.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "France, Germany to Put EU Defence Plan to Sceptical Partners",
+          "print_headline": "France, Germany to Put EU Defence Plan to Sceptical Partners"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:40:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9b27295d0e021d79887d1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/world/middleeast/26reuters-mideast-crisis-syria-usa.html",
+        "snippet": "The collapse of the latest Syria ceasefire has heightened the possibility that Gulf states might arm Syrian rebels with shoulder-fired missiles to defend themselves against Syrian and Russian warplanes, U.S. officials said on Monday....",
+        "lead_paragraph": "The collapse of the latest Syria ceasefire has heightened the possibility that Gulf states might arm Syrian rebels with shoulder-fired missiles to defend themselves against Syrian and Russian warplanes, U.S. officials said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gulf May Arm Rebels Now Syria Truce Is Dead: U.S. Officials",
+          "print_headline": "Gulf May Arm Rebels Now Syria Truce Is Dead: U.S. Officials"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:39:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9b27295d0e021d79887d0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/27/sports/football/shane-vereen-new-york-giants-triceps-injury.html",
+        "snippet": "Coach Ben McAdoo said he wasn\u2019t sure when the injury occurred but said Vereen may have been playing with it \u201cfor a significant amount of time.\u201d...",
+        "lead_paragraph": "Coach Ben McAdoo said he wasn\u2019t sure when the injury occurred but said Vereen may have been playing with it \u201cfor a significant amount of time.\u201d",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/27/business/27GIANTS/27GIANTS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/27/business/27GIANTS/27GIANTS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/27/business/27GIANTS/27GIANTS-articleLarge.jpg",
+            "height": 391,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/27/business/27GIANTS/27GIANTS-articleLarge.jpg",
+              "xlargeheight": "391"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/27/business/27GIANTS/27GIANTS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/27/business/27GIANTS/27GIANTS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Giants\u2019 Shane Vereen May Miss Rest of Season With a Torn Triceps",
+          "print_headline": "Giants Lose Vereen to a Triceps Injury"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sports Injuries"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Giants"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Vereen, Shane"
+          }
+        ],
+        "pub_date": "2016-09-26T23:39:24+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zach",
+              "rank": 1,
+              "lastname": "SCHONBRUN"
+            }
+          ],
+          "original": "By ZACH SCHONBRUN"
+        },
+        "type_of_material": "News",
+        "_id": "57e9b1b195d0e021d79887cf",
+        "word_count": "389",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/27/world/americas/colombia-farc-peace-agreement.html",
+        "snippet": "The ceremony brought an end to a war that has killed as many as 220,000 people and displaced more than five million....",
+        "lead_paragraph": "The ceremony brought an end to a war that has killed as many as 220,000 people and displaced more than five million.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/27/world/SUB-27COLOMBIA-1/SUB-27COLOMBIA-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/27/world/SUB-27COLOMBIA-1/SUB-27COLOMBIA-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/27/world/SUB-27COLOMBIA-1/SUB-27COLOMBIA-1-articleLarge.jpg",
+            "height": 377,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/27/world/SUB-27COLOMBIA-1/SUB-27COLOMBIA-1-articleLarge.jpg",
+              "xlargeheight": "377"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/27/world/SUB-27COLOMBIA-1/SUB-27COLOMBIA-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/27/world/SUB-27COLOMBIA-1/SUB-27COLOMBIA-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Colombia Signs Peace Agreement With FARC After 5 Decades of War",
+          "print_headline": "After 5 Decades of War, Colombia Signs Peace Agreement With Rebels"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Revolutionary Armed Forces of Colombia"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Santos, Juan Manuel"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Colombia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Londono, Rodrigo"
+          }
+        ],
+        "pub_date": "2016-09-26T23:39:13+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "contributor": "Annie Correal contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "CASEY"
+            }
+          ],
+          "original": "By NICHOLAS CASEY"
+        },
+        "type_of_material": "News",
+        "_id": "57e9c84d95d0e021d79887f7",
+        "word_count": "917",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/world/americas/ap-cb-puerto-rico-drug-arrests.html",
+        "snippet": "Authorities in Puerto Rico say 72 people have been indicted on charges of operating a multimillion-dollar drug-trafficking ring....",
+        "lead_paragraph": "Authorities in Puerto Rico say 72 people have been indicted on charges of operating a multimillion-dollar drug-trafficking ring.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "72 Accused of Running Drug-Trafficking Ring in Puerto Rico",
+          "print_headline": "72 Accused of Running Drug-Trafficking Ring in Puerto Rico"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:20:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9afb995d0e021d79887cc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/sports/golf/ap-glf-palmer-personal-touch.html",
+        "snippet": "William McGirt took his wife and infant son to Arnold Palmer's office at Bay Hill, wanting nothing more than a photo....",
+        "lead_paragraph": "William McGirt took his wife and infant son to Arnold Palmer's office at Bay Hill, wanting nothing more than a photo.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Arnold Palmer, the King With a Personal Touch",
+          "print_headline": "Arnold Palmer, the King With a Personal Touch"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:28:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9afb395d0e021d79887cb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/sports/soccer/26reuters-soccer-england-allardyce.html",
+        "snippet": "England soccer team manager Sam Allardyce has been caught up in a newspaper sting in which he is alleged to have met a bogus consortium of Far East businessmen seeking advice on the Premier League&#8217;s billion pound transfer market....",
+        "lead_paragraph": "England soccer team manager Sam Allardyce has been caught up in a newspaper sting in which he is alleged to have met a bogus consortium of Far East businessmen seeking advice on the Premier League&#8217;s billion pound transfer market.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "England Manager Allardyce Caught in Newspaper Sting",
+          "print_headline": "England Manager Allardyce Caught in Newspaper Sting"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:24:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9aef395d0e021d79887ca",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/us/ap-us-people-liev-schreiber-naomi-watts.html",
+        "snippet": "Liev Schreiber and Naomi Watts are separating after 11 years together....",
+        "lead_paragraph": "Liev Schreiber and Naomi Watts are separating after 11 years together.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Liev Schreiber, Naomi Watts Separating After 11 Years",
+          "print_headline": "Liev Schreiber, Naomi Watts Separating After 11 Years"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:18:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9adb695d0e021d79887c8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://dotearth.blogs.nytimes.com/2016/09/26/no-debate-trump-picks-a-perfect-transition-man-for-the-e-p-a/",
+        "snippet": "A longtime defender of fossil fuels and critic of regulations limiting greenhouse gases appears to be Trump\u2019s pick to handle the transition at the Environmental Protection Agency should he prevail....",
+        "lead_paragraph": null,
+        "abstract": "A longtime defender of fossil fuels and critic of regulations limiting greenhouse gases appears to be Trump\u2019s pick to handle the transition at the Environmental Protection Agency should he prevail.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/blogs/dotebell/dotebell-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/blogs/dotebell/dotebell-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/blogs/dotebell/dotebell-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/blogs/dotebell/dotebell-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "No Debate: Trump Picks a Perfect Transition Man for the E.P.A.",
+          "kicker": "Dot Earth"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Bush, George W"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Competitive Enterprise Institute"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Environmental Protection Agency"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Global Warming"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Greenhouse Gas Emissions"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Regulation and Deregulation of Industry"
+          }
+        ],
+        "pub_date": "2016-09-26T23:11:44Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Andrew",
+              "middlename": "C.",
+              "lastname": "REVKIN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANDREW C. REVKIN"
+        },
+        "type_of_material": "Blog",
+        "_id": "57e9ac1c95d0e021d79887c5",
+        "word_count": "916",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/sports/golf/26reuters-golf-ryder-usa.html",
+        "snippet": "One way or another, Bubba Watson always wanted to be a part of the United States Ryder Cup team this week and his pleas to be an assistant captain finally met with success on Monday....",
+        "lead_paragraph": "One way or another, Bubba Watson always wanted to be a part of the United States Ryder Cup team this week and his pleas to be an assistant captain finally met with success on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pleading Bubba Named a Vice Captain for U.S. Ryder Cup Team",
+          "print_headline": "Pleading Bubba Named a Vice Captain for U.S. Ryder Cup Team"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T23:14:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9ac1d95d0e021d79887c6",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,511 @@
+{
+  "response": {
+    "meta": {
+      "hits": 914,
+      "time": 56,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-chicago-police-special-prosecutor.html",
+        "snippet": "A special prosecutor says a grand jury has been impaneled to hear evidence into a possible cover-up by Chicago police officers in the fatal shooting of Laquan McDonald....",
+        "lead_paragraph": "A special prosecutor says a grand jury has been impaneled to hear evidence into a possible cover-up by Chicago police officers in the fatal shooting of Laquan McDonald.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Grand Jury Will Look Into Possible Cover-Up in McDonald Case",
+          "print_headline": "Grand Jury Will Look Into Possible Cover-Up in McDonald Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:49:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce26595d0e0204d560dec",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/fashion/coach-moncler-canada-goose-new-york-shopping.html",
+        "snippet": "Holiday pop-ups galore and sample sales at Rick Owens and Charlotte Olympia....",
+        "lead_paragraph": "Holiday pop-ups galore and sample sales at Rick Owens and Charlotte Olympia.",
+        "abstract": null,
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/fashion/17SCOUT1/17SCOUT1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/fashion/17SCOUT1/17SCOUT1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/fashion/17SCOUT1/17SCOUT1-articleLarge-v2.jpg",
+            "height": 672,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/fashion/17SCOUT1/17SCOUT1-articleLarge-v2.jpg",
+              "xlargeheight": "672"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/fashion/17SCOUT1/17SCOUT1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/fashion/17SCOUT1/17SCOUT1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Openings All Over Town: Coach, Moncler, Canada Goose and More",
+          "content_kicker": "Scouting Report",
+          "kicker": "Scouting Report"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Canada Goose Inc"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Moncler (Fashion Label)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Coach Inc"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Manhattan (NYC)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Owens, Rick"
+          }
+        ],
+        "pub_date": "2016-11-16T22:46:39Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Alison",
+              "middlename": "S.",
+              "lastname": "COHN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ALISON S. COHN"
+        },
+        "type_of_material": "News",
+        "_id": "582ce1d595d0e0204d560deb",
+        "word_count": "415",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/us/politics/alex-jones-trump-call.html",
+        "snippet": "Mr. Jones, who has a radio program and has claimed that the Sandy Hook school shooting was a hoax, said Mr. Trump had thanked him for \u201cfighting so hard for Americans.\u201d...",
+        "lead_paragraph": "Mr. Jones, who has a radio program and has claimed that the Sandy Hook school shooting was a hoax, said Mr. Trump had thanked him for \u201cfighting so hard for Americans.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/us/17jones1/17jones-1479329216836-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/us/17jones1/17jones-1479329216836-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/us/17jones1/17jones-1479329216836-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/us/17jones1/17jones-1479329216836-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/us/17jones1/17jones-1479329216836-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/us/17jones1/17jones-1479329216836-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Alex Jones, Host and Conspiracy Theorist, Says Donald Trump Called to Thank Him"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Jones, Alex (1974- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          }
+        ],
+        "pub_date": "2016-11-16T22:44:35Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Maggie",
+              "rank": 1,
+              "lastname": "HABERMAN"
+            }
+          ],
+          "original": "By MAGGIE HABERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "582ce15895d0e0204d560dea",
+        "word_count": "578",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-massachusetts-runner-slain.html",
+        "snippet": "Police investigating the death of a New York City woman killed while out running near her mother's Massachusetts home are looking for an SUV seen near where her body was found....",
+        "lead_paragraph": "Police investigating the death of a New York City woman killed while out running near her mother's Massachusetts home are looking for an SUV seen near where her body was found.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Seek Tips on Dark-Colored SUV Seen Where Woman Killed",
+          "print_headline": "Police Seek Tips on Dark-Colored SUV Seen Where Woman Killed"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:43:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce11295d0e0204d560de9",
+        "word_count": "137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-white-house-bomb-threat.html",
+        "snippet": "A South Carolina man has been jailed after allegedly calling police to say there was a bomb in the White House....",
+        "lead_paragraph": "A South Carolina man has been jailed after allegedly calling police to say there was a bomb in the White House.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: S. Carolina Man Jailed; Claimed Bomb in White House",
+          "print_headline": "Police: S. Carolina Man Jailed; Claimed Bomb in White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:43:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce10d95d0e0204d560de8",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-old-bomb-unearthed.html",
+        "snippet": "Boom &#8212; with an explosion heard several miles away and felt for several city blocks, an Air Force explosives team detonated a World War II-era bomb unearthed at a construction site Wednesday near the Florida State University campus....",
+        "lead_paragraph": "Boom &#8212; with an explosion heard several miles away and felt for several city blocks, an Air Force explosives team detonated a World War II-era bomb unearthed at a construction site Wednesday near the Florida State University campus.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bombs Away! WW II-Era Munition Found, Detonated in Florida",
+          "print_headline": "Bombs Away! WW II-Era Munition Found, Detonated in Florida"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:43:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce10195d0e0204d560de7",
+        "word_count": "444",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-yale-doctor-killed.html",
+        "snippet": "A doctor charged with murder in the killing of a Yale University physician is asking the U.S. Supreme Court to hear his appeal of a court ruling that said he could be forcibly medicated so he could stand trial....",
+        "lead_paragraph": "A doctor charged with murder in the killing of a Yale University physician is asking the U.S. Supreme Court to hear his appeal of a court ruling that said he could be forcibly medicated so he could stand trial.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Doctor Accused of Murder Asks Supreme Court to Hear Appeal",
+          "print_headline": "Doctor Accused of Murder Asks Supreme Court to Hear Appeal"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:43:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce10095d0e0204d560de6",
+        "word_count": "136",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/politics/ap-us-trump-giuliani.html",
+        "snippet": "Rudy Giuliani, President-elect Donald Trump's top candidate for top diplomat, has advised foreign political figures and worked for lobbying and security firms whose clients have had complicated relationships with the U.S. government....",
+        "lead_paragraph": "Rudy Giuliani, President-elect Donald Trump's top candidate for top diplomat, has advised foreign political figures and worked for lobbying and security firms whose clients have had complicated relationships with the U.S. government.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Giuliani's Foreign Work Complicates Candidacy for Top Post",
+          "print_headline": "Giuliani's Foreign Work Complicates Candidacy for Top Post"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:40:26Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce06095d0e0204d560de5",
+        "word_count": "1005",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/sports/football/ap-fbn-browns-congress.html",
+        "snippet": "The photo of Martin Luther King Jr. put things in perspective for Browns wide receiver Andrew Hawkins....",
+        "lead_paragraph": "The photo of Martin Luther King Jr. put things in perspective for Browns wide receiver Andrew Hawkins.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Browns Among NFL Group to Visit Washington Seeking Change",
+          "print_headline": "Browns Among NFL Group to Visit Washington Seeking Change"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:40:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce04f95d0e0204d560de4",
+        "word_count": "851",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/briefing/trump-syria-schumer.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/briefing/16eveningss-slide-5RS5/16eveningss-slide-5RS5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/briefing/16eveningss-slide-5RS5/16eveningss-slide-5RS5-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/briefing/16eveningss-slide-5RS5/16eveningss-slide-5RS5-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/briefing/16eveningss-slide-5RS5/16eveningss-slide-5RS5-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/briefing/16eveningss-slide-5RS5/16eveningss-slide-5RS5-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/briefing/16eveningss-slide-5RS5/16eveningss-slide-5RS5-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump, Syria, Schumer: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:39:05Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "582ce00f95d0e0204d560de3",
+        "word_count": "866",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

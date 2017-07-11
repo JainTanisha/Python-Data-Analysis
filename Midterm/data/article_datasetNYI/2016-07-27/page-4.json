@@ -1,0 +1,465 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 51,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/golf/27reuters-olympics-rio-golf-women.html",
+        "snippet": "Red-hot New Zealander Lydia Ko is a force whenever she tees it up in a tournament but the world number one is far from a shoo-in for gold in women's golf in Rio where, unlike on the men's side, the top players will be competing....",
+        "lead_paragraph": "Red-hot New Zealander Lydia Ko is a force whenever she tees it up in a tournament but the world number one is far from a shoo-in for gold in women's golf in Rio where, unlike on the men's side, the top players will be competing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Kiwi Ko the Woman to Beat at Rio Games",
+          "print_headline": "Kiwi Ko the Woman to Beat at Rio Games"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:19:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57995e1c38f0d87cf647e30d",
+        "word_count": "511",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/27/business/media/netflix-music-show-pitches.html",
+        "snippet": "If you had access to the songs of some of the best-known musicians, what kind of TV show would you create? Tell us in 100 words or less....",
+        "lead_paragraph": "If you had access to the songs of some of the best-known musicians, what kind of TV show would you create? Tell us in 100 words or less.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/28/business/28WAKELY-2/28WAKELY-2-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/28/business/28WAKELY-2/28WAKELY-2-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/28/business/28WAKELY-2/28WAKELY-2-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/28/business/28WAKELY-2/28WAKELY-2-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/28/business/28WAKELY-2/28WAKELY-2-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/28/business/28WAKELY-2/28WAKELY-2-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "You Can Use Any Song You Want. Create a TV Show."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Beatles, The"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dylan, Bob"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Netflix Inc"
+          }
+        ],
+        "pub_date": "2016-07-27T21:19:43Z",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / Media",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "5799256f38f0d87cf647e271",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/olympics/ap-oly-bkl-france-us.html",
+        "snippet": "Elena Delle Donne had dreamed of playing basketball in the Olympics since she was little....",
+        "lead_paragraph": "Elena Delle Donne had dreamed of playing basketball in the Olympics since she was little.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Charles and Moore Help US Women's Hoops Beat France 84-62",
+          "print_headline": "Charles and Moore Help US Women's Hoops Beat France 84-62"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:15:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57995d8238f0d87cf647e30c",
+        "word_count": "629",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/olympics/27reuters-olympics-rio-pentathlon.html",
+        "snippet": "Lithuania's Laura Asadauskaite will be favourite to defend her Olympic title when modern pentathlon enjoys a rare share of the global sporting spotlight on the final weekend of the Rio Games....",
+        "lead_paragraph": "Lithuania's Laura Asadauskaite will be favourite to defend her Olympic title when modern pentathlon enjoys a rare share of the global sporting spotlight on the final weekend of the Rio Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Unsung Heroes of Modern Pentathlon Return to Take Limelight",
+          "print_headline": "Unsung Heroes of Modern Pentathlon Return to Take Limelight"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:17:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57995d7638f0d87cf647e30b",
+        "word_count": "491",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/olympics/27reuters-olympics-rio-synchronised.html",
+        "snippet": "Two namesake coaches who have propelled Russian synchronised swimming to one medal after another hope to blow rivals out of the water once again at the Rio Olympic Games....",
+        "lead_paragraph": "Two namesake coaches who have propelled Russian synchronised swimming to one medal after another hope to blow rivals out of the water once again at the Rio Olympic Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Namesake Russia Coaches Groom Synchro Stars for More Gold",
+          "print_headline": "Namesake Russia Coaches Groom Synchro Stars for More Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:15:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57995d7038f0d87cf647e30a",
+        "word_count": "583",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/politics/ap-us-campaign-2016-trump-super-pac.html",
+        "snippet": "Florida Gov. Rick Scott is going to become national chairman of a super PAC that is backing Republican presidential nominee Donald Trump....",
+        "lead_paragraph": "Florida Gov. Rick Scott is going to become national chairman of a super PAC that is backing Republican presidential nominee Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Florida Gov. Rick Scott to Chair Trump Super PAC",
+          "print_headline": "Florida Gov. Rick Scott to Chair Trump Super PAC"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:58:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57995cc638f0d87cf647e308",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-army-secretary-fanning.html",
+        "snippet": "Army Secretary Eric Fanning says the Army is paying more attention to behavioral health and making sure anyone who's injured while defending the nation gets the treatment they need....",
+        "lead_paragraph": "Army Secretary Eric Fanning says the Army is paying more attention to behavioral health and making sure anyone who's injured while defending the nation gets the treatment they need.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Army Secretary Touts Importance of Mental Health",
+          "print_headline": "Army Secretary Touts Importance of Mental Health"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:13:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57995cbd38f0d87cf647e307",
+        "word_count": "510",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/rugby/27reuters-olympics-rio-rugby.html",
+        "snippet": "The United States have famously been Olympic rugby champions since winning gold in the 15-man game in 1924 but one of a string southern hemisphere sides look set to strike that anomaly from the record books when Sevens makes its debut in Rio....",
+        "lead_paragraph": "The United States have famously been Olympic rugby champions since winning gold in the 15-man game in 1924 but one of a string southern hemisphere sides look set to strike that anomaly from the record books when Sevens makes its debut in Rio.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "High Octane Sevens Brings Rugby Back to the Games",
+          "print_headline": "High Octane Sevens Brings Rugby Back to the Games"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:13:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57995cb438f0d87cf647e306",
+        "word_count": "434",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/cycling/27reuters-olympics-rio-cycling-track.html",
+        "snippet": "Big guns Bradley Wiggins and Mark Cavendish will bolster the British team for next month's Olympic track cycling program but the powerhouse nation will have its work cut out repeating the supremacy of four years ago in London....",
+        "lead_paragraph": "Big guns Bradley Wiggins and Mark Cavendish will bolster the British team for next month's Olympic track cycling program but the powerhouse nation will have its work cut out repeating the supremacy of four years ago in London.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Wiggo, Cav Back but British Supremacy Faces Test",
+          "print_headline": "Wiggo, Cav Back but British Supremacy Faces Test"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:09:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57995c0238f0d87cf647e304",
+        "word_count": "604",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/28/world/europe/pope-francis-poland-world-youth-day.html",
+        "snippet": "As he began his first official visit to Poland, Pope Francis he challenged Central and Eastern Europe to soften their resistance to migrants seeking refuge....",
+        "lead_paragraph": "As he began his first official visit to Poland, Pope Francis he challenged Central and Eastern Europe to soften their resistance to migrants seeking refuge.",
+        "abstract": "Pope Francis begins his first official visit to Poland to celebrate World Youth Day; warns that world is at war and calls on European governments to end their resistance to welcoming refugees; reacts with horror to murder of Roman Catholic priest Rev Jacques Hamel in France, but insists such conflicts around globe are not beginning of religious war.",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/28/world/europe/28pope-web/28pope-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/28/world/europe/28pope-web/28pope-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/28/world/europe/28pope-web/28pope-web-articleLarge.jpg",
+            "height": 356,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/28/world/europe/28pope-web/28pope-web-articleLarge.jpg",
+              "xlargeheight": "356"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/28/world/europe/28pope-web/28pope-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/28/world/europe/28pope-web/28pope-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pope Francis Says World Is at War, but It\u2019s Not a Religious Conflict",
+          "print_headline": "Pope Sees a \u2018War,\u2019 but Not One of Religion"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Francis"
+          },
+          {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Europe"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Poland"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hamel, Jacques (1930-2016)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Roman Catholic Church"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Middle East and Africa Migrant Crisis"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "France"
+          }
+        ],
+        "pub_date": "2016-07-27T20:57:14+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joanna",
+              "rank": 1,
+              "lastname": "BERENDT"
+            }
+          ],
+          "original": "By JOANNA BERENDT"
+        },
+        "type_of_material": "News",
+        "_id": "5799202d38f0d87cf647e25d",
+        "word_count": "467",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

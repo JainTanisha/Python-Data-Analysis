@@ -1,0 +1,335 @@
+{
+  "response": {
+    "meta": {
+      "hits": 824,
+      "time": 37,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/business/17reuters-agriculture-m-a-grassley.html",
+        "snippet": "Two major mergers in agricultural technology and seeds could hurt competition in the industry and make it harder for smaller companies to compete, Senator Charles Grassley, chairman of the Senate Judiciary Committee, wrote in a letter on Wednesday...",
+        "lead_paragraph": "Two major mergers in agricultural technology and seeds could hurt competition in the industry and make it harder for smaller companies to compete, Senator Charles Grassley, chairman of the Senate Judiciary Committee, wrote in a letter on Wednesday sent to antitrust enforcers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Senator Expresses Concern About Ag Tech Mergers",
+          "print_headline": "U.S. Senator Expresses Concern About Ag Tech Mergers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:04:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4dfee95d0e021d79813c9",
+        "word_count": "321",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/17/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/17/nytnow/17eveningss-slide-74DF/17eveningss-slide-74DF-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/17/nytnow/17eveningss-slide-74DF/17eveningss-slide-74DF-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/17/nytnow/17eveningss-slide-74DF/17eveningss-slide-74DF-articleLarge.jpg",
+            "height": 403,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/17/nytnow/17eveningss-slide-74DF/17eveningss-slide-74DF-articleLarge.jpg",
+              "xlargeheight": "403"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/17/nytnow/17eveningss-slide-74DF/17eveningss-slide-74DF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/17/nytnow/17eveningss-slide-74DF/17eveningss-slide-74DF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57b4df9c95d0e021d79813c8",
+        "word_count": "12",
+        "slideshow_credits": "Joe Raedle/Getty Images"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-campaign-2016-trump-security-briefing.html",
+        "snippet": "In a story Aug. 18 about Donald Trump's first national security briefing as a presidential candidate, The Associated Press reported erroneously the title of Michael Flynn. He is retired Lt. Gen. Michael Flynn, not Lt. Gen. Michael Flynn....",
+        "lead_paragraph": "In a story Aug. 18 about Donald Trump's first national security briefing as a presidential candidate, The Associated Press reported erroneously the title of Michael Flynn. He is retired Lt. Gen. Michael Flynn, not Lt. Gen. Michael Flynn.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Campaign 2016-Trump-Security Briefing Story",
+          "print_headline": "Correction: Campaign 2016-Trump-Security Briefing Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:01:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4df7595d0e021d79813c7",
+        "word_count": "460",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-cold-case-slaying.html",
+        "snippet": "Prosecutors say a Michigan man accused of strangling an ex-girlfriend to death in Tennessee 16 years ago has been indicted on a first-degree murder charge....",
+        "lead_paragraph": "Prosecutors say a Michigan man accused of strangling an ex-girlfriend to death in Tennessee 16 years ago has been indicted on a first-degree murder charge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Michigan Man Faces Murder Charge in Tennessee Cold Case",
+          "print_headline": "Michigan Man Faces Murder Charge in Tennessee Cold Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:31:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4df5395d0e021d79813c6",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-judge-alleged-misconduct.html",
+        "snippet": "A Cook County judge won't be allowed to hear cases amid allegations she let a law clerk put on a robe and preside over at least two cases....",
+        "lead_paragraph": "A Cook County judge won't be allowed to hear cases amid allegations she let a law clerk put on a robe and preside over at least two cases.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cook County Judge Accused of Letting Law Clerk Hear Cases",
+          "print_headline": "Cook County Judge Accused of Letting Law Clerk Hear Cases"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:23:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4df4f95d0e021d79813c5",
+        "word_count": "143",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/sports/golf/17reuters-golf-pga-mexico.html",
+        "snippet": "Club de Golf Chapultepec will host next year's World Golf Championships-Mexico Championship, the PGA Tour announced on Wednesday....",
+        "lead_paragraph": "Club de Golf Chapultepec will host next year's World Golf Championships-Mexico Championship, the PGA Tour announced on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Club De Golf Chapultepec in Mexico City to Host WGC Event",
+          "print_headline": "Club De Golf Chapultepec in Mexico City to Host WGC Event"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:02:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4df3e95d0e021d79813c4",
+        "word_count": "112",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/world/europe/ap-eu-nsa-surveillance.html",
+        "snippet": "The leak of what purports to be a National Security Agency hacking tool kit has set the information security world atwitter &#8212; and sent major companies rushing to update their defenses....",
+        "lead_paragraph": "The leak of what purports to be a National Security Agency hacking tool kit has set the information security world atwitter &#8212; and sent major companies rushing to update their defenses.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "'Auction' of NSA Tools Sends Security Companies Scrambling",
+          "print_headline": "'Auction' of NSA Tools Sends Security Companies Scrambling"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:59:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4ded495d0e021d79813c3",
+        "word_count": "776",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/sports/olympics/ap-oly-armchair-olympics.html",
+        "snippet": "In Rio and any other Olympics, broadcasters are frequently criticized for a concentration on a home nation's athletes that causes it to miss interesting stories involving others. Some of it is fair, much of it isn't....",
+        "lead_paragraph": "In Rio and any other Olympics, broadcasters are frequently criticized for a concentration on a home nation's athletes that causes it to miss interesting stories involving others. Some of it is fair, much of it isn't.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Looking Beyond the Home Team in Olympic Basketball Coverage",
+          "print_headline": "Looking Beyond the Home Team in Olympic Basketball Coverage"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:26:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4dec895d0e021d79813c2",
+        "word_count": "696",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/sports/olympics/ap-oly-glf-womens-golf.html",
+        "snippet": "Inbee Park could tell right away Wednesday that this was not an ordinary golf tournament....",
+        "lead_paragraph": "Inbee Park could tell right away Wednesday that this was not an ordinary golf tournament.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Inbee Park a Shot Back as Women's Golf Returns to Olympics",
+          "print_headline": "Inbee Park a Shot Back as Women's Golf Returns to Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:38:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4dec795d0e021d79813c1",
+        "word_count": "768",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-california-wildfires-vignettes.html",
+        "snippet": "What began as a small brush fire along a freeway in drought-stricken Southern California morphed into a massive blaze fueled by gusty winds and dry vegetation. Swift-moving flames gutted a historic Route 66 diner, burned homes to their foundations...",
+        "lead_paragraph": "What began as a small brush fire along a freeway in drought-stricken Southern California morphed into a massive blaze fueled by gusty winds and dry vegetation. Swift-moving flames gutted a historic Route 66 diner, burned homes to their foundations and forced tens of thousands of people to flee the Cajon Pass, a mountain pass between the San Bernardino Mountains and the San Gabriel Mountains.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Furious California Wildfire Leaves Trail of Destruction",
+          "print_headline": "Furious California Wildfire Leaves Trail of Destruction"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:07:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4dea695d0e021d79813c0",
+        "word_count": "719",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

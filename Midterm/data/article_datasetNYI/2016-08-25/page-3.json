@@ -1,0 +1,681 @@
+{
+  "response": {
+    "meta": {
+      "hits": 871,
+      "time": 37,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/movies/mia-madre-review.html",
+        "snippet": "Nanni Moretti\u2019s film, starring Margherita Buy as a movie director and John Turturro as an American star, makes a case for blurriness in art and life....",
+        "lead_paragraph": "Nanni Moretti\u2019s film, starring Margherita Buy as a movie director and John Turturro as an American star, makes a case for blurriness in art and life.",
+        "abstract": "Manohla Dargis reviews movie Mia Madre, directed by Nanni Moretti and starring Margherita Buy and John Turturro.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26MIAMADRE/26MIAMADRE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26MIAMADRE/26MIAMADRE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26MIAMADRE/26MIAMADRE-articleLarge.jpg",
+            "height": 316,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26MIAMADRE/26MIAMADRE-articleLarge.jpg",
+              "xlargeheight": "316"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26MIAMADRE/26MIAMADRE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26MIAMADRE/26MIAMADRE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Mia Madre\u2019 Review: Mom\u2019s in the Hospital. The Riot Scene Needs Retakes.",
+          "print_headline": "Mom Is Sick. The Riot Scene Needs Retakes. It\u2019s All a Blur."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Moretti, Nanni"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Mia Madre (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Turturro, John"
+          }
+        ],
+        "pub_date": "2016-08-25T22:47:26+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Manohla",
+              "rank": 1,
+              "lastname": "DARGIS"
+            }
+          ],
+          "original": "By MANOHLA DARGIS"
+        },
+        "type_of_material": "Review",
+        "_id": "57bf758595d0e021d7982adb",
+        "word_count": "787",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/us/ap-us-new-orleans-jail-reforms.html",
+        "snippet": "A former Maryland corrections official was tapped Thursday to run the violence-plagued New Orleans jail....",
+        "lead_paragraph": "A former Maryland corrections official was tapped Thursday to run the violence-plagued New Orleans jail.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Maryland Official Tapped to Run New Orleans' Violent Jail",
+          "print_headline": "Ex-Maryland Official Tapped to Run New Orleans' Violent Jail"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:36:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf754395d0e021d7982ada",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/us/ap-us-dead-boy-in-closet.html",
+        "snippet": "A Los Angeles woman has been charged with murder in the death of her severely malnourished 11-year-old son whose body was found in a closet....",
+        "lead_paragraph": "A Los Angeles woman has been charged with murder in the death of her severely malnourished 11-year-old son whose body was found in a closet.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "LA Mom Charged in Death of Malnourished Son Found in Closet",
+          "print_headline": "LA Mom Charged in Death of Malnourished Son Found in Closet"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:23:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf753795d0e021d7982ad9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/25/us/25reuters-canada-toronto-crossbow.html",
+        "snippet": "Three people were killed in an attack involving a crossbow in Toronto's East End on Thursday and a man was taken into custody, a police spokesman said....",
+        "lead_paragraph": "Three people were killed in an attack involving a crossbow in Toronto's East End on Thursday and a man was taken into custody, a police spokesman said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Three Die in Crossbow Attack in Toronto, Man in Custody: Police",
+          "print_headline": "Three Die in Crossbow Attack in Toronto, Man in Custody: Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:37:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf73ad95d0e021d7982ad7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/arts/design/the-guggenheim-is-going-global-kind-of.html",
+        "snippet": "\u201cBut a Storm Is Blowing From Paradise,\u201d at the Guggenheim Museum, focuses on contemporary art from the Middle East and North Africa....",
+        "lead_paragraph": "\u201cBut a Storm Is Blowing From Paradise,\u201d at the Guggenheim Museum, focuses on contemporary art from the Middle East and North Africa.",
+        "abstract": "Holland Cotter reviews exhibit But a Storm Is Blowing From Paradise: Contemporary Art of the Middle East and North Africa at Guggenheim Museum.",
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26PARADISE1/26PARADISE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26PARADISE1/26PARADISE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26PARADISE1/26PARADISE1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26PARADISE1/26PARADISE1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26PARADISE1/26PARADISE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26PARADISE1/26PARADISE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Guggenheim Is Going Global. Kind Of.",
+          "content_kicker": "Art Review",
+          "kicker": "Art Review",
+          "print_headline": "The Guggenheim Is Going Global. Kind Of."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Guggenheim, Solomon R, Museum"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "UBS Group A.G."
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "But a Storm Is Blowing From Paradise: Contemporary Art of the Middle East and North Africa (Exhibit)"
+          }
+        ],
+        "pub_date": "2016-08-25T22:39:24+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Holland",
+              "rank": 1,
+              "lastname": "COTTER"
+            }
+          ],
+          "original": "By HOLLAND COTTER"
+        },
+        "type_of_material": "Review",
+        "_id": "57bf73a495d0e021d7982ad6",
+        "word_count": "1266",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/movies/fatima-review.html",
+        "snippet": "This film by Philippe Faucon, based on two books by Fatima Elayoubi, depicts tensions between a North African immigrant in Lyon and her teenage daughter....",
+        "lead_paragraph": "This film by Philippe Faucon, based on two books by Fatima Elayoubi, depicts tensions between a North African immigrant in Lyon and her teenage daughter.",
+        "abstract": "Stephen Holden reviews movie Fatima, directed by Philippe Faucon and starring Soria Zeroual.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26FATIMA1/26FATIMA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26FATIMA1/26FATIMA1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26FATIMA1/26FATIMA1-articleLarge.jpg",
+            "height": 317,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26FATIMA1/26FATIMA1-articleLarge.jpg",
+              "xlargeheight": "317"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26FATIMA1/26FATIMA1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26FATIMA1/26FATIMA1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018Fatima,\u2019 a Muslim Mother Working in France Hits Her Limit",
+          "print_headline": "A Muslim Mother Working in France Hits Her Limit"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Faucon, Philippe (1958- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Fatima (Movie)"
+          }
+        ],
+        "pub_date": "2016-08-25T22:38:52+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 1,
+              "lastname": "HOLDEN"
+            }
+          ],
+          "original": "By STEPHEN HOLDEN"
+        },
+        "type_of_material": "Review",
+        "_id": "57bf738295d0e021d7982ad4",
+        "word_count": "508",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/arts/design/george-washington-really-slept-here-so-did-his-slave.html",
+        "snippet": "As the 240th anniversary of the Battle of Brooklyn approaches, museums are mounting exhibitions with Revolutionary War themes....",
+        "lead_paragraph": "As the 240th anniversary of the Battle of Brooklyn approaches, museums are mounting exhibitions with Revolutionary War themes.",
+        "abstract": "Eve M Kahn Antiques column highlights exhibitions that explore aspects of American Revolutionary War, including roles played by African-Americans; upcoming shows are at Old Stone House and New-York Historical Society in New York, as well as American Revolution Museum at Yorktown in Virginia and Museum of the American Revolution in Philadelphia.",
+        "print_page": "24",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26ANTIQUES1/26ANTIQUES1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26ANTIQUES1/26ANTIQUES1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26ANTIQUES1/26ANTIQUES1-articleLarge.jpg",
+            "height": 771,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26ANTIQUES1/26ANTIQUES1-articleLarge.jpg",
+              "xlargeheight": "771"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26ANTIQUES1/26ANTIQUES1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26ANTIQUES1/26ANTIQUES1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "George Washington Really Slept Here. So Did His Slave.",
+          "content_kicker": "Antiques",
+          "kicker": "Antiques",
+          "print_headline": "A Revolution\u2019s Remnants: Washington Slept Here (So Did His Slave)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Antiques"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Revolutionary War, American (1775-83)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Brooklyn Historical Society"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New-York Historical Society"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Washington, George (1732-99)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Museum of the American Revolution"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "American Revolution Museum (Yorktown, VA)"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Old Stone House (Brooklyn, NY)"
+          }
+        ],
+        "pub_date": "2016-08-25T22:35:15+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eve",
+              "rank": 1
+            }
+          ],
+          "original": "By EVE M. KAHN"
+        },
+        "type_of_material": "News",
+        "_id": "57bf72ae95d0e021d7982ad2",
+        "word_count": "863",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/health/ap-us-med-what-kids-vape.html",
+        "snippet": "Health officials warn that electronic cigarettes and other vaping devices are poisoning kids with nicotine. But new research suggests that most teens aren't vaping nicotine at all but using sweet and fruity flavors like strawberry, chocolate cake ...",
+        "lead_paragraph": "Health officials warn that electronic cigarettes and other vaping devices are poisoning kids with nicotine. But new research suggests that most teens aren't vaping nicotine at all but using sweet and fruity flavors like strawberry, chocolate cake and bubble gum.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Study Finds Most Teens Vaping Fruity Flavors, Not Nicotine",
+          "print_headline": "Study Finds Most Teens Vaping Fruity Flavors, Not Nicotine"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:30:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf729295d0e021d7982ad1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/movies/blood-father-review-mel-gibson.html",
+        "snippet": "The movie, directed by Jean-Fran\u00e7ois Richet, finds the grizzled loner of a hero fighting to protect his daughter....",
+        "lead_paragraph": "The movie, directed by Jean-Fran\u00e7ois Richet, finds the grizzled loner of a hero fighting to protect his daughter.",
+        "abstract": "Manohla Dargis reviews movie Blood Father, directed by Jean-Francois Richet and starring Mel Gibson and Erin Moriarty.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26BLOODFATHER/26BLOODFATHER-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26BLOODFATHER/26BLOODFATHER-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26BLOODFATHER/26BLOODFATHER-articleLarge.jpg",
+            "height": 299,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26BLOODFATHER/26BLOODFATHER-articleLarge.jpg",
+              "xlargeheight": "299"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26BLOODFATHER/26BLOODFATHER-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26BLOODFATHER/26BLOODFATHER-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018Blood Father,\u2019 Mel Gibson Plays With Pulp Fiction",
+          "print_headline": "Just Like the Old West, If the Cowboys Had Tattoos and Trailers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gibson, Mel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Macy, William H"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Blood Father (Movie)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Richet, Jean-Francois (1966- )"
+          }
+        ],
+        "pub_date": "2016-08-25T22:33:55+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Manohla",
+              "rank": 1,
+              "lastname": "DARGIS"
+            }
+          ],
+          "original": "By MANOHLA DARGIS"
+        },
+        "type_of_material": "Review",
+        "_id": "57bf725f95d0e021d7982ad0",
+        "word_count": "480",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/sports/golf/ap-glf-barclays-stenson.html",
+        "snippet": "British Open champion Henrik Stenson has withdrawn from The Barclays with pain his right knee....",
+        "lead_paragraph": "British Open champion Henrik Stenson has withdrawn from The Barclays with pain his right knee.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Stenson Withdraws With Pain in His Knee",
+          "print_headline": "Stenson Withdraws With Pain in His Knee"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:26:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf71e795d0e021d7982acf",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

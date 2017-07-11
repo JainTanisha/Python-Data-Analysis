@@ -1,0 +1,565 @@
+{
+  "response": {
+    "meta": {
+      "hits": 914,
+      "time": 90,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/16/sports/soccer/16reuters-soccer-england-bbc-survey.html",
+        "snippet": "The cost of watching Premier League football has fallen according to a BBC survey, which found that more than two thirds of ticket prices have been either cut or frozen this season....",
+        "lead_paragraph": "The cost of watching Premier League football has fallen according to a BBC survey, which found that more than two thirds of ticket prices have been either cut or frozen this season. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Price of Watching Premier League Falling-BBC Study",
+          "print_headline": "Price of Watching Premier League Falling-BBC Study"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:12:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce7e495d0e0204d560df8",
+        "word_count": "288",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/politics/ap-us-smart-gun-technology.html",
+        "snippet": "The Obama administration is announcing baseline specifications for smart-gun technology....",
+        "lead_paragraph": "The Obama administration is announcing baseline specifications for smart-gun technology.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Obama Administration Gives Specifications for Smart Gun Tech",
+          "print_headline": "Obama Administration Gives Specifications for Smart Gun Tech"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:10:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce77395d0e0204d560df7",
+        "word_count": "122",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/opinion/what-trump-can-do-to-eliminate-his-conflicts-of-interest.html",
+        "snippet": "Unless Mr. Trump divests his businesses, there will be no way to know if his actions in office are for the public good or for his own financial gain....",
+        "lead_paragraph": "Unless Mr. Trump divests his businesses, there will be no way to know if his actions in office are for the public good or for his own financial gain.",
+        "abstract": "Editorial argues Pres-elect Donald J Trump's plan to give control of his business empire to his children presents intractable conflict of interest; notes divesting himself of his assets, as most presidents have done, is highly improbable; calls on Congress, press and public to be vigilant in identifying possible violations during Trump's presidency, and to protect integrity of American government.",
+        "print_page": "30",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/opinion/17thu1/17thu1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/opinion/17thu1/17thu1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/opinion/17thu1/17thu1-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/opinion/17thu1/17thu1-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/opinion/17thu1/17thu1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/opinion/17thu1/17thu1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump\u2019s Tangled Web",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial",
+          "print_headline": "Mr. Trump\u2019s Tangled Web"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Conflicts of Interest"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump Organization"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          }
+        ],
+        "pub_date": "2016-11-16T23:09:26+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "582ce72f95d0e0204d560df6",
+        "word_count": "908",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/sports/basketball/ap-bkn-troubled-timberwolves.html",
+        "snippet": "With a roster full of some of the best young talent in the league and a new, playoff-tested coach to lead them, the Minnesota Timberwolves entered this season as a trendy pick to finally end a 12-year postseason drought....",
+        "lead_paragraph": "With a roster full of some of the best young talent in the league and a new, playoff-tested coach to lead them, the Minnesota Timberwolves entered this season as a trendy pick to finally end a 12-year postseason drought.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Slow Start for Wolves Has Tempered the Optimism in Minnesota",
+          "print_headline": "Slow Start for Wolves Has Tempered the Optimism in Minnesota"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:07:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce70d95d0e0204d560df5",
+        "word_count": "644",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/upshot/first-comes-the-emergency-then-comes-the-surprise-out-of-network-bill.html",
+        "snippet": "Patients who go to hospitals covered by their medical plans often receive a bill from a doctor who was not in the insurer\u2019s network, a study finds....",
+        "lead_paragraph": "Patients who go to hospitals covered by their medical plans often receive a bill from a doctor who was not in the insurer\u2019s network, a study finds.",
+        "abstract": "The Upshot; study in New England Journal of Medicine reveals one in five emergency room patients receive large bills due to having been treated by doctor outside insurance network; average such bill costs over $900, but may cost as much as $19,000; consumer advocates have called for legislation to address situation.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/upshot/17UP-ER/17UP-ER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/upshot/17UP-ER/17UP-ER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/upshot/17UP-ER/17UP-ER-articleLarge.jpg",
+            "height": 395,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/upshot/17UP-ER/17UP-ER-articleLarge.jpg",
+              "xlargeheight": "395"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/upshot/17UP-ER/17UP-ER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/upshot/17UP-ER/17UP-ER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Surprise! Insurance Paid the E.R. but Not the Doctor",
+          "content_kicker": "Public Health",
+          "kicker": "The Upshot",
+          "print_headline": "First Came the Emergency. Then Came the Surprise."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Emergency Medical Treatment"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hospitals"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Doctors"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New England Journal of Medicine"
+          }
+        ],
+        "pub_date": "2016-11-16T23:02:30+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margot",
+              "rank": 1,
+              "lastname": "SANGER-KATZ"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Reed",
+              "rank": 2,
+              "lastname": "ABELSON"
+            }
+          ],
+          "original": "By MARGOT SANGER-KATZ and REED ABELSON"
+        },
+        "type_of_material": "News",
+        "_id": "582ce58e95d0e0204d560df4",
+        "word_count": "1188",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-hunting-citation-penn-state-ex-coach.html",
+        "snippet": "A former Penn State football assistant coach who just won a multimillion-dollar verdict over his treatment after fellow assistant coach Jerry Sandusky was arrested in a child molestation case has pleaded guilty to a hunting violation....",
+        "lead_paragraph": "A former Penn State football assistant coach who just won a multimillion-dollar verdict over his treatment after fellow assistant coach Jerry Sandusky was arrested in a child molestation case has pleaded guilty to a hunting violation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Former Penn State Coach McQueary Cited for Hunting Violation",
+          "print_headline": "Former Penn State Coach McQueary Cited for Hunting Violation"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:55:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce3e695d0e0204d560df1",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/world/middleeast/jordan-us-soldiers-killed.html",
+        "snippet": "American authorities said they have not ruled out terrorism as a motive for the killing of three American soldiers at an air base in Jordan this month....",
+        "lead_paragraph": "American authorities said they have not ruled out terrorism as a motive for the killing of three American soldiers at an air base in Jordan this month.",
+        "abstract": "Officials at United States Embassy in Jordan say investigation is under way regarding killing of three American soldiers at air base, event being treated as possible terrorist attack; officials deny any suggestions that soldiers had done something to provoke shooting.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/world/17jordan/17jordan-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/world/17jordan/17jordan-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/world/17jordan/17jordan-articleLarge.jpg",
+            "height": 406,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/world/17jordan/17jordan-articleLarge.jpg",
+              "xlargeheight": "406"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/world/17jordan/17jordan-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/world/17jordan/17jordan-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Investigates Deaths of 3 Soldiers in Jordan as Possible Terrorism",
+          "print_headline": "U.S. Sees Possible Terrorism in Jordan Killings"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Jordan"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Military Bases and Installations"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lewellen, Matthew C (1989-2016)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Moriarty, James F (1989-2016)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McEnroe, Kevin J (1986-2016)"
+          }
+        ],
+        "pub_date": "2016-11-16T22:54:57+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Peter Baker reported from Jerusalem, and Mark Mazzetti and Eric Schmitt from Washington. Adam Goldman contributed reporting from Washington.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Peter",
+              "rank": 1,
+              "lastname": "BAKER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mark",
+              "rank": 2,
+              "lastname": "MAZZETTI"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 3,
+              "lastname": "SCHMITT"
+            }
+          ],
+          "original": "By PETER BAKER, MARK MAZZETTI and ERIC SCHMITT"
+        },
+        "type_of_material": "News",
+        "_id": "582ce3c695d0e0204d560df0",
+        "word_count": "874",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/16/business/16reuters-amgen-study.html",
+        "snippet": "Amgen Inc said on Wednesday its migraine treatment met the main goal of reducing monthly migraine days in patients with episodic migraine in a second late-stage study....",
+        "lead_paragraph": "Amgen Inc said on Wednesday its migraine treatment met the main goal of reducing monthly migraine days in patients with episodic migraine in a second late-stage study. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Amgen's Migraine Drug Succeeds in Late-Stage Trial",
+          "print_headline": "Amgen's Migraine Drug Succeeds in Late-Stage Trial"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:54:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce3b395d0e0204d560def",
+        "word_count": "167",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/sports/football/ap-fbn-cowboys-prescotts-team.html",
+        "snippet": "Dak Prescott's interaction with his new backup wasn't much different after Tony Romo's heartfelt speech that conceded the Cowboys' starting job to the rookie quarterback....",
+        "lead_paragraph": "Dak Prescott's interaction with his new backup wasn't much different after Tony Romo's heartfelt speech that conceded the Cowboys' starting job to the rookie quarterback.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Dak Prescott: Status Quo for Cowboys After Romo's Concession",
+          "print_headline": "Dak Prescott: Status Quo for Cowboys After Romo's Concession"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:49:12Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce26d95d0e0204d560dee",
+        "word_count": "678",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-nightclub-shooting-florida-records.html",
+        "snippet": "Patrons trapped in an Orlando nightclub as a gunman carried out the worst mass shooting in modern U.S. history begged 911 operators to send help in audio recordings released Wednesday....",
+        "lead_paragraph": "Patrons trapped in an Orlando nightclub as a gunman carried out the worst mass shooting in modern U.S. history begged 911 operators to send help in audio recordings released Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "911 Calls Capture Pulse Patrons Desperately Waiting for Help",
+          "print_headline": "911 Calls Capture Pulse Patrons Desperately Waiting for Help"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:49:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce26795d0e0204d560ded",
+        "word_count": "509",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

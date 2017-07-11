@@ -1,0 +1,740 @@
+{
+  "response": {
+    "meta": {
+      "hits": 370,
+      "time": 64,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/world/europe/27reuters-france-election-fillon-software.html",
+        "snippet": "Former prime minister Francois Fillon pledged to unite his camp behind a project to carry out deep reforms in France in a victory speech after winning the conservative ticket for next year's presidential election....",
+        "lead_paragraph": "Former prime minister Francois Fillon pledged to unite his camp behind a project to carry out deep reforms in France in a victory speech after winning the conservative ticket for next year's presidential election.   ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fillon Promises 'Software Change' for France in Primaries' Victory Speech",
+          "print_headline": "Fillon Promises 'Software Change' for France in Primaries' Victory Speech"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:36:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b5ff595d0e03926072b78",
+        "word_count": "87",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/arts/dance/review-pick-a-nutcracker-one-from-balanchine-the-other-reimagined.html",
+        "snippet": "The Cincinnati Ballet performed this holiday staple at the Kennedy Center while New York City Ballet opened its seasonal tradition with \u201cGeorge Balanchine\u2019s \u2018The Nutcracker.\u2019\u201d...",
+        "lead_paragraph": "The Cincinnati Ballet performed this holiday staple at the Kennedy Center while New York City Ballet opened its seasonal tradition with \u201cGeorge Balanchine\u2019s \u2018The Nutcracker.\u2019\u201d",
+        "abstract": "Alastair Macaulay reviews performances of George Balanchine\u2019s The Nutcracker by New York City Ballet at David H Koch Theater and and by Cincinnati Ballet at Kennedy Center in Washington, DC.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/arts/28NUTCRACKER/28NUTCRACKER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/arts/28NUTCRACKER/28NUTCRACKER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/arts/28NUTCRACKER/28NUTCRACKER-articleLarge.jpg",
+            "height": 396,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/arts/28NUTCRACKER/28NUTCRACKER-articleLarge.jpg",
+              "xlargeheight": "396"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/arts/28NUTCRACKER/28NUTCRACKER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/arts/28NUTCRACKER/28NUTCRACKER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Pick a \u2018Nutcracker,\u2019 One From Balanchine, the Other Reimagined",
+          "print_headline": "Visions and Revisions of Sugarplums"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Nutcracker (Ballet)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Kennedy, John F, Center for the Performing Arts"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Cincinnati Ballet"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York City Ballet"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Koch, David H, Theater"
+          }
+        ],
+        "pub_date": "2016-11-27T22:35:12+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alastair",
+              "rank": 1,
+              "lastname": "MACAULAY"
+            }
+          ],
+          "original": "By ALASTAIR MACAULAY"
+        },
+        "type_of_material": "Review",
+        "_id": "583b5faa95d0e03926072b77",
+        "word_count": "966",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/arts/music/punk-bonfire-joe-corre-sex-pistols.html",
+        "snippet": "Joe Corr\u00e9, son of the Sex Pistols\u2019 former manager, set fire to music memorabilia to protest Punk London, an event he considers too mainstream....",
+        "lead_paragraph": "Joe Corr\u00e9, son of the Sex Pistols\u2019 former manager, set fire to music memorabilia to protest Punk London, an event he considers too mainstream.",
+        "abstract": "Joseph Corre, whose father Malcom McLaren managed seminal punk band Sex Pistols, burns his personal collection of punk memorabilia on boat on Thames River to protest citywide festival Punk London, which he says is betrayal of genre's countercultural values.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/arts/28PUNKBONFIRE/28PUNKBONFIRE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/arts/28PUNKBONFIRE/28PUNKBONFIRE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/arts/28PUNKBONFIRE/28PUNKBONFIRE-articleLarge.jpg",
+            "height": 347,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/arts/28PUNKBONFIRE/28PUNKBONFIRE-articleLarge.jpg",
+              "xlargeheight": "347"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/arts/28PUNKBONFIRE/28PUNKBONFIRE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/arts/28PUNKBONFIRE/28PUNKBONFIRE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "To Save Punk\u2019s Soul, a Bonfire of Some of Its Vanities on the Thames",
+          "print_headline": "To Save Punk\u2019s Soul, a Bonfire of Some of Its Vanities"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Corre, Joseph (1967- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "River Thames (England)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "London (England)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Memorabilia and Souvenirs"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Sex Pistols (Music Group)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          }
+        ],
+        "pub_date": "2016-11-27T22:28:48+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1
+            }
+          ],
+          "original": "By CHRISTOPHER D. SHEA"
+        },
+        "type_of_material": "News",
+        "_id": "583b5e2595d0e03926072b76",
+        "word_count": "851",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/sports/ncaafootball/texas-charlie-strong-coach-tom-herman-houston.html",
+        "snippet": "The sport\u2019s playing field has been leveled by the amount of money more and more universities are willing to spend. So choosing a competent leader has become critical....",
+        "lead_paragraph": "The sport\u2019s playing field has been leveled by the amount of money more and more universities are willing to spend. So choosing a competent leader has become critical.",
+        "abstract": "Marc Tracy On College Football column underscores degree to which coach is responsible for success of college football team; takes note of significant changes in coaching staffs of college teams.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/sports/28TRACYweb/28TRACYweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/sports/28TRACYweb/28TRACYweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/sports/28TRACYweb/28TRACYweb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/sports/28TRACYweb/28TRACYweb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/sports/28TRACYweb/28TRACYweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/sports/28TRACYweb/28TRACYweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In College Football, Getting the Right Coach Is the Top Priority",
+          "content_kicker": "On College Football",
+          "kicker": "On College Football",
+          "print_headline": "With the Playing Field Leveled, Getting the Right Coach Is Key"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Coaches and Managers"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football (College)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "University of Alabama"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "University of Texas"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "University of Houston"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Strong, Charlie"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Saban, Nick"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Herman, Tom (1975- )"
+          }
+        ],
+        "pub_date": "2016-11-27T22:25:16+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Marc",
+              "rank": 1,
+              "lastname": "TRACY"
+            }
+          ],
+          "original": "By MARC TRACY"
+        },
+        "type_of_material": "News",
+        "_id": "583b5d5495d0e03926072b75",
+        "word_count": "1081",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/us/politics/27reuters-usa-trump-votes.html",
+        "snippet": "U.S. President-elect Donald Trump said in a tweet on Sunday that he won the popular vote in the Nov. 8 election \"if you deduct the millions of people who voted illegally\", though he provided no evidence of widespread voter fraud....",
+        "lead_paragraph": "U.S. President-elect Donald Trump said in a tweet on Sunday that he won the popular vote in the Nov. 8 election \"if you deduct the millions of people who voted illegally\", though he provided no evidence of widespread voter fraud. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump, Without Evidence, Says Illegal Voting Cost Him U.S. Popular Vote",
+          "print_headline": "Trump, Without Evidence, Says Illegal Voting Cost Him U.S. Popular Vote"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:21:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b5c7195d0e03926072b74",
+        "word_count": "599",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/us/ap-us-pipeline-protest.html",
+        "snippet": "The U.S. Army Corps of Engineers says it has \"no plans for forcible removal\" of protesters who have been camping in North Dakota to protest the Dakota Access oil pipeline....",
+        "lead_paragraph": "The U.S. Army Corps of Engineers says it has \"no plans for forcible removal\" of protesters who have been camping in North Dakota to protest the Dakota Access oil pipeline.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Corps Won't Forcibly Remove Protesters From Federal Land",
+          "print_headline": "Corps Won't Forcibly Remove Protesters From Federal Land"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:15:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b5b1695d0e03926072b73",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/books/review-by-women-possessed-a-remix-of-a-flawed-eugene-oneill.html",
+        "snippet": "This book by Arthur and Barbara Gelb expresses a professional admiration for Mr. O\u2019Neill but goes into great detail about the unflattering parts of his life....",
+        "lead_paragraph": "This book by Arthur and Barbara Gelb expresses a professional admiration for Mr. O\u2019Neill but goes into great detail about the unflattering parts of his life.",
+        "abstract": "Laura Collins-Hughes reviews book By Women Possessed: A Life of Eugene O'Neill, third biography of playwright by Arthur and Barbara Gelb. ",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/arts/28BOOKGELB3/28BOOKGELB3-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/arts/28BOOKGELB3/28BOOKGELB3-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/arts/28BOOKGELB3/28BOOKGELB3-articleLarge.jpg",
+            "height": 508,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/arts/28BOOKGELB3/28BOOKGELB3-articleLarge.jpg",
+              "xlargeheight": "508"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/arts/28BOOKGELB3/28BOOKGELB3-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/arts/28BOOKGELB3/28BOOKGELB3-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018By Women Possessed,\u2019 a Remix of a Flawed Eugene O\u2019Neill",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": " Playwright\u2019s Flaws Take Center Stage, Wrapping up a Biographical Trilogy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "By Women Possessed: A Life of Eugene O'Neill (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "O'Neill, Eugene"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gelb, Arthur"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gelb, Barbara"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Writing and Writers"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          }
+        ],
+        "pub_date": "2016-11-27T22:14:51+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laura",
+              "rank": 1,
+              "lastname": "COLLINS-HUGHES"
+            }
+          ],
+          "original": "By LAURA COLLINS-HUGHES"
+        },
+        "type_of_material": "Review",
+        "_id": "583b5ae295d0e03926072b72",
+        "word_count": "1160",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/us/ap-fbc-t25-clemson-racial-slur.html",
+        "snippet": "Clemson coach Dabo Swinney said Sunday he spoke with his players about South Carolina linebacker Bryson Allen-Williams' contention a Tigers offensive lineman used a racial slur during warmups before Saturday night's 56-7 victory....",
+        "lead_paragraph": "Clemson coach Dabo Swinney said Sunday he spoke with his players about South Carolina linebacker Bryson Allen-Williams' contention a Tigers offensive lineman used a racial slur during warmups before Saturday night's 56-7 victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clemson's Swinney Says His Players Deny Using Racial Slur",
+          "print_headline": "Clemson's Swinney Says His Players Deny Using Racial Slur"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T22:10:13+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b59cd95d0e03926072b71",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/business/treasury-auctions-set-for-this-week.html",
+        "snippet": "The following tax-exempt, fixed-income issues are scheduled for pricing this week....",
+        "lead_paragraph": "The following tax-exempt, fixed-income issues are scheduled for pricing this week.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Treasury Auctions Set for the Week of Nov. 28",
+          "print_headline": "U.S. Treasury Auctions to Be Held the Week of Nov. 28"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Municipal Bonds"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Government Bonds"
+          }
+        ],
+        "pub_date": "2016-11-27T22:07:18+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "583b591895d0e03926072b70",
+        "word_count": "680",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/nyregion/as-she-fights-cancer-a-woman-strives-for-normalcy.html",
+        "snippet": "Patricia Lewis, 68, is focused on enjoying her grandchildren after losing her health and career to breast cancer....",
+        "lead_paragraph": "Patricia Lewis, 68, is focused on enjoying her grandchildren after losing her health and career to breast cancer.",
+        "abstract": "Community Health Advocates, program run by Community Service Society of New York, one of eight agencies supported by New York Times Neediest Cases Fund, helps Patricia Lewis pay for medical expenses and groceries while she fights breast cancer.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/nyregion/00NEEDIESTLEWIS3/00NEEDIESTLEWIS3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/nyregion/00NEEDIESTLEWIS3/00NEEDIESTLEWIS3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/nyregion/00NEEDIESTLEWIS3/00NEEDIESTLEWIS3-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/nyregion/00NEEDIESTLEWIS3/00NEEDIESTLEWIS3-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/nyregion/00NEEDIESTLEWIS3/00NEEDIESTLEWIS3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/nyregion/00NEEDIESTLEWIS3/00NEEDIESTLEWIS3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As She Fights Cancer, a Woman Strives for Normalcy",
+          "content_kicker": "The Neediest Cases",
+          "kicker": "The Neediest Cases",
+          "print_headline": "Striving for Normalcy While Fighting Cancer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Times Neediest Cases Fund"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Community Service Society of New York"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Harlem (Manhattan, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cancer"
+          }
+        ],
+        "pub_date": "2016-11-27T22:00:45+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "John",
+              "rank": 1,
+              "lastname": "OTIS"
+            }
+          ],
+          "original": "By JOHN OTIS"
+        },
+        "type_of_material": "News",
+        "_id": "583b579695d0e03926072b6f",
+        "word_count": "807",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

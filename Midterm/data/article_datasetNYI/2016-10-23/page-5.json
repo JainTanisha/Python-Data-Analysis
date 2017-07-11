@@ -1,0 +1,830 @@
+{
+  "response": {
+    "meta": {
+      "hits": 391,
+      "time": 56,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/movies/tyler-perrys-madea-scares-off-jack-reacher-at-domestic-box-office.html",
+        "snippet": "\u201cTyler Perry\u2019s Boo! A Madea Halloween\u201d hit No. 1 across North America over the weekend....",
+        "lead_paragraph": "\u201cTyler Perry\u2019s Boo! A Madea Halloween\u201d hit No. 1 across North America over the weekend.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/arts/24BOX/24BOX-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/arts/24BOX/24BOX-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/arts/24BOX/24BOX-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/arts/24BOX/24BOX-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/arts/24BOX/24BOX-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/arts/24BOX/24BOX-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tyler Perry\u2019s \u2018Madea\u2019 Scares Off \u2018Jack Reacher\u2019 at Domestic Box Office",
+          "print_headline": "Tyler Perry Hits No. 1 at Weekend Box Office"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cruise, Tom"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Perry, Tyler"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "American Pastoral (Movie)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Jack Reacher: Never Go Back (Movie)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Moonlight (Movie)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Madea (Movie)"
+          }
+        ],
+        "pub_date": "2016-10-23T21:53:30+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Brooks",
+              "rank": 1,
+              "lastname": "BARNES"
+            }
+          ],
+          "original": "By BROOKS BARNES"
+        },
+        "type_of_material": "News",
+        "_id": "580d316095d0e022439c4c43",
+        "word_count": "680",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/ap-car-nascar-talladega.html",
+        "snippet": "When an engine failure knocked title favorite Martin Truex Jr. from NASCAR's playoffs, the rest of the top contenders got a little bit of breathing room....",
+        "lead_paragraph": "When an engine failure knocked title favorite Martin Truex Jr. from NASCAR's playoffs, the rest of the top contenders got a little bit of breathing room.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Logano Wins Talladega to Advance in NASCAR's Playoffs",
+          "print_headline": "Logano Wins Talladega to Advance in NASCAR's Playoffs"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T21:48:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d305195d0e022439c4c42",
+        "word_count": "1115",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/us/ap-us-church-stabbing.html",
+        "snippet": "A 65-year-old South Carolina man is charged with stabbing the person sitting in front of him in church....",
+        "lead_paragraph": "A 65-year-old South Carolina man is charged with stabbing the person sitting in front of him in church.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Charged With Stabbing Person During Church Service",
+          "print_headline": "Man Charged With Stabbing Person During Church Service"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T21:45:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d2f9595d0e022439c4c41",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/us/ap-us-killing-by-police-tulsa.html",
+        "snippet": "Tulsa police have released the names of a man who was fatally shot and the officers who opened fire....",
+        "lead_paragraph": "Tulsa police have released the names of a man who was fatally shot and the officers who opened fire.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Names Released of Man, Tulsa Officers in Fatal Shooting",
+          "print_headline": "Names Released of Man, Tulsa Officers in Fatal Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T21:45:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d2f8f95d0e022439c4c40",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/business/media/chase-card-millennials-for-travel-and-dining.html",
+        "snippet": "An ad campaign for the Sapphire Reserve credit card features the late-night host James Corden talking to innovators in dining, transportation and lodging....",
+        "lead_paragraph": "An ad campaign for the Sapphire Reserve credit card features the late-night host James Corden talking to innovators in dining, transportation and lodging.",
+        "abstract": "Advertising column; JPMorgan Chase is set to launch Reserve What's Next, ad campaign for Chase Sapphire Reserve credit card; marketing experts say documentary-style video spots featuring The Late Late Show host James Corden should successfully target millennials and other travelers looking to book their next experience.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/business/24Adco/24Adco-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/business/24Adco/24Adco-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/business/24Adco/24Adco-articleLarge.jpg",
+            "height": 335,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/business/24Adco/24Adco-articleLarge.jpg",
+              "xlargeheight": "335"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/business/24Adco/24Adco-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/business/24Adco/24Adco-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Chase Courts Instagram Set, Whetting Appetites for Travel and Dining",
+          "content_kicker": "Advertising",
+          "kicker": "Advertising",
+          "print_headline": "Chase Whets Appetites for Travel"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Advertising and Marketing"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Credit Cards"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Corden, James (1978- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "JPMorgan Chase & Company"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Millennial Generation"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Refslund, Mads"
+          }
+        ],
+        "pub_date": "2016-10-23T21:45:34+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Jane",
+              "middlename": "L.",
+              "lastname": "LEVERE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JANE L. LEVERE"
+        },
+        "type_of_material": "News",
+        "_id": "580d2f8595d0e022439c4c3f",
+        "word_count": "865",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/theater/lawsuit-filed-over-golden-girls-puppet-parody.html",
+        "snippet": "A playwright claims that the current Off Broadway show was stolen when a creative partnership turned sour....",
+        "lead_paragraph": "A playwright claims that the current Off Broadway show was stolen when a creative partnership turned sour.",
+        "abstract": "Playwright Thomas Duncan-Watt and producers of play Thank You for Being a Friend file suit against co-author Jonathan Rockefeller, claiming his new Off-Broadway production That Golden Girls Show! A Puppet Parody is nearly identical to previous show.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/arts/24GOLDEN/24GOLDEN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/arts/24GOLDEN/24GOLDEN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/arts/24GOLDEN/24GOLDEN-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/arts/24GOLDEN/24GOLDEN-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/arts/24GOLDEN/24GOLDEN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/arts/24GOLDEN/24GOLDEN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Lawsuit Filed Over \u2018Golden Girls\u2019 Puppet Parody",
+          "print_headline": "Lawsuit Over \u2018Golden Girls\u2019 Parody"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "That Golden Girls Show! A Puppet Parody (Play)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Duncan-Watt, Thomas"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rockefeller, Jonathan W"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Copyrights and Copyright Violations"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Thank You for Being a Friend (Play)"
+          }
+        ],
+        "pub_date": "2016-10-23T21:37:27+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joshua",
+              "rank": 1,
+              "lastname": "BARONE"
+            },
+            {
+              "firstname": "Andrew",
+              "middlename": "R.",
+              "lastname": "CHOW",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JOSHUA BARONE and ANDREW R. CHOW"
+        },
+        "type_of_material": "News",
+        "_id": "580d2d9e95d0e022439c4c3e",
+        "word_count": "660",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/arts/design/mark-leckey-no-longer-arts-wunderkind-is-now-its-wizard.html",
+        "snippet": "A onetime warrior has settled down in his life, but not in his new show at MoMA PS1....",
+        "lead_paragraph": "A onetime warrior has settled down in his life, but not in his new show at MoMA PS1.",
+        "abstract": "MoMA PS1 exhibition Mark Leckey: Containers and Their Drivers surveys decades-long career of Turner Prize-winning artist whose work has evolved and matured over years.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/arts/24LECKEY/24LECKEY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/arts/24LECKEY/24LECKEY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/arts/24LECKEY/24LECKEY-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/arts/24LECKEY/24LECKEY-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/arts/24LECKEY/24LECKEY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/arts/24LECKEY/24LECKEY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mark Leckey, No Longer Art\u2019s Wunderkind, Is Now Its Wizard",
+          "print_headline": "Once a Wunderkind, Now a Wizard  "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "MoMA PS1"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Leckey, Mark (1964- )"
+          }
+        ],
+        "pub_date": "2016-10-23T21:36:50+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 1,
+              "lastname": "POGREBIN"
+            }
+          ],
+          "original": "By ROBIN POGREBIN"
+        },
+        "type_of_material": "News",
+        "_id": "580d2d7995d0e022439c4c3d",
+        "word_count": "1270",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/us/ap-us-missing-teen-storm-drain-the-latest.html",
+        "snippet": "The Latest on a missing teen who police believe fell into a storm drain (all times local):...",
+        "lead_paragraph": "The Latest on a missing teen who police believe fell into a storm drain (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Police Think Body Found in River Is Missing Teen",
+          "print_headline": "The Latest: Police Think Body Found in River Is Missing Teen"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T21:36:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d2d6d95d0e022439c4c3c",
+        "word_count": "282",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/books/how-marguerite-lehand-shaped-the-franklin-d-roosevelt-white-house.html",
+        "snippet": "LeHand, known as Missy, wielded far more influence than her title of secretary to the president conveyed....",
+        "lead_paragraph": "LeHand, known as Missy, wielded far more influence than her title of secretary to the president conveyed.",
+        "abstract": "Author Kathryn Smith describes enormous influence wielded by Marguerite LeHand as personal secretary to Pres Franklin D Roosevelt in book The Gatekeeper: Missy LeHand, FDR, and the Untold Story of the Partnership That Defined a Presidency.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/arts/24LEHANDJP1/24LEHANDJP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/arts/24LEHANDJP1/24LEHANDJP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/arts/24LEHANDJP1/24LEHANDJP1-articleLarge.jpg",
+            "height": 779,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/arts/24LEHANDJP1/24LEHANDJP1-articleLarge.jpg",
+              "xlargeheight": "779"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/arts/24LEHANDJP1/24LEHANDJP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/arts/24LEHANDJP1/24LEHANDJP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How Marguerite LeHand Shaped the Franklin D. Roosevelt White House",
+          "print_headline": "Powerful Woman  Helped Shape New Deal Era"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "LeHand, Marguerite (1898-1944)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Gatekeeper: Missy LeHand, FDR, and the Untold Story of the Partnership That Defined a Presidency (Book)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Roosevelt, Franklin Delano"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New Deal (1930's)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Letters"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "World War II (1939-45)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Smith, Kathryn (Author)"
+          }
+        ],
+        "pub_date": "2016-10-23T21:36:28+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "ROBERTS"
+            }
+          ],
+          "original": "By SAM ROBERTS"
+        },
+        "type_of_material": "News",
+        "_id": "580d2d6195d0e022439c4c3b",
+        "word_count": "908",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/arts/dance/review-at-ballet-theater-a-tribute-to-an-overlooked-female-composer.html",
+        "snippet": "Jessica Lang, making her first ballet for American Ballet Theater, has done so to excerpts from \u201cDas Jahr\u201d (\u201cThe Year\u201d), by Fanny Mendelssohn Hensel....",
+        "lead_paragraph": "Jessica Lang, making her first ballet for American Ballet Theater, has done so to excerpts from \u201cDas Jahr\u201d (\u201cThe Year\u201d), by Fanny Mendelssohn Hensel.",
+        "abstract": "Alastair Macaulay reviews premiere of Jessica Lang ballet Her Notes, performed by American Ballet Theater at David H Koch Theater.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/arts/24LANGJP/24LANGJP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/arts/24LANGJP/24LANGJP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/arts/24LANGJP/24LANGJP-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/arts/24LANGJP/24LANGJP-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/arts/24LANGJP/24LANGJP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/arts/24LANGJP/24LANGJP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: At Ballet Theater, a Tribute to an Overlooked Female Composer",
+          "print_headline": "A Choreographer\u2019s Tribute to an Overlooked Female Composer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Her Notes (Ballet)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lang, Jessica"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "American Ballet Theater"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cirio, Jeffrey"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Copeland, Misty"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gomes, Marcelo"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hensel, Fanny Mendelssohn"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mendelssohn, Felix"
+          }
+        ],
+        "pub_date": "2016-10-23T21:33:27+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alastair",
+              "rank": 1,
+              "lastname": "MACAULAY"
+            }
+          ],
+          "original": "By ALASTAIR MACAULAY"
+        },
+        "type_of_material": "Review",
+        "_id": "580d2caa95d0e022439c4c3a",
+        "word_count": "606",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,398 @@
+{
+  "response": {
+    "meta": {
+      "hits": 683,
+      "time": 29,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/world/ap-cn-canada-crossbow-dead.html",
+        "snippet": "Detectives investigating a triple homicide in which two men died of crossbow bolt and arrow injuries and one woman was strangled are trying to determine what motivated the attack at a Toronto home....",
+        "lead_paragraph": "Detectives investigating a triple homicide in which two men died of crossbow bolt and arrow injuries and one woman was strangled are trying to determine what motivated the attack at a Toronto home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Canada Victims Died of Bolt, Arrow Wounds and Strangulation",
+          "print_headline": "Canada Victims Died of Bolt, Arrow Wounds and Strangulation"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:41:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c704a595d0e021d7983413",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/business/29reuters-refinery-operation-shell.html",
+        "snippet": "Shell restarted a fluid catalytic cracking unit (FCCU) at its Puget Sound, Washington refinery on Aug. 23, according to a regulatory filing published on Monday....",
+        "lead_paragraph": "Shell restarted a fluid catalytic cracking unit (FCCU) at its Puget Sound, Washington refinery on Aug. 23, according to a regulatory filing published on Monday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Shell Restarts Gasoline-Producing Unit at Puget Sound Refinery",
+          "print_headline": "Shell Restarts Gasoline-Producing Unit at Puget Sound Refinery"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:41:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c705c595d0e021d798342d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/30/us/free-care-victims-orlando-nightclub-attack.html",
+        "snippet": "Two hospitals that treated more than 50 people who were wounded in June at Pulse could end up donating more than $5.5 million in aid....",
+        "lead_paragraph": "Two hospitals that treated more than 50 people who were wounded in June at Pulse could end up donating more than $5.5 million in aid.",
+        "abstract": "Florida Hospital and Orlando Regional Medical Center in Orlando, Fla, say they will not bill patients who were injured in June 12 gay nightclub shooting; donated aid could surpass $5.5 million.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Free Care a \u2018Blessing\u2019 for Victims of Orlando Nightclub Attack",
+          "print_headline": "Free Care \u2018A Blessing\u2019 for Victims in Orlando"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Orlando, Fla, Shooting (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Emergency Medical Treatment"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pulse (Orlando, Fla, Nightclub)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mateen, Omar (1986-2016)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Orlando (Fla)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Philanthropy"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hospitals"
+          }
+        ],
+        "pub_date": "2016-08-29T22:39:43+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 1,
+              "lastname": "BLINDER"
+            }
+          ],
+          "original": "By ALAN BLINDER"
+        },
+        "type_of_material": "News",
+        "_id": "57c704c095d0e021d7983416",
+        "word_count": "693",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-police-shot-baton-rouge.html",
+        "snippet": "A former Marine who ambushed and killed three Baton Rouge law enforcement officers last month never saw combat in Iraq, but told doctors he suffered from post-traumatic stress disorder because a buddy showed him videos of maimed and decapitated bo...",
+        "lead_paragraph": "A former Marine who ambushed and killed three Baton Rouge law enforcement officers last month never saw combat in Iraq, but told doctors he suffered from post-traumatic stress disorder because a buddy showed him videos of maimed and decapitated bodies, according to newly released Veterans Health Administration medical records.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "VA: Ex-Marine Who Killed 3 in Baton Rouge Did Not Have PTSD",
+          "print_headline": "VA: Ex-Marine Who Killed 3 in Baton Rouge Did Not Have PTSD"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:33:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c704ea95d0e021d7983418",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/us/politics/29reuters-california-farmworkers-overtime.html",
+        "snippet": "California would become the first U.S. state to require farmers to pay overtime to field workers and fruit pickers under a bill approved by the legislature on Monday and sent to Democratic Governor Jerry Brown for his approval....",
+        "lead_paragraph": "California would become the first U.S. state to require farmers to pay overtime to field workers and fruit pickers under a bill approved by the legislature on Monday and sent to Democratic Governor Jerry Brown for his approval.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Lawmakers Send Governor Bill Authorizing Farmworker Overtime",
+          "print_headline": "California Lawmakers Send Governor Bill Authorizing Farmworker Overtime"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:34:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c704a495d0e021d7983412",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/30/universal/ko/obamas-american-idea-korean.html",
+        "snippet": "\uc0ac\uc2e4 \ud2b8\ub7fc\ud504\uac00 \uc8fc\uc7a5\ud558\ub294 \uac83\ucc98\ub7fc \ubbf8\uad6d\uc744 \uacfc\uac70\uc758 \uc5b4\ub290 \uc2dc\uc808\ub85c \ub418\ub3cc\ub824\ub193\ub294 \uac74 \ubd88\uac00\ub2a5\ud558\ub2e4. \uc65c\ub0d0\uba74 \ub2e4\ucc44\ub85c\uc6b4 \ubbf8\uad6d\uc758 \ud604\uc7ac\ub294 \uc9c0\uae08\ub3c4 \ub04a\uc784\uc5c6\uc774 \ub9cc\ub4e4\uc5b4\uc9c0\uace0 \uc788\uae30 \ub54c\ubb38\uc774\ub2e4....",
+        "lead_paragraph": "\uc0ac\uc2e4 \ud2b8\ub7fc\ud504\uac00 \uc8fc\uc7a5\ud558\ub294 \uac83\ucc98\ub7fc \ubbf8\uad6d\uc744 \uacfc\uac70\uc758 \uc5b4\ub290 \uc2dc\uc808\ub85c \ub418\ub3cc\ub824\ub193\ub294 \uac74 \ubd88\uac00\ub2a5\ud558\ub2e4. \uc65c\ub0d0\uba74 \ub2e4\ucc44\ub85c\uc6b4 \ubbf8\uad6d\uc758 \ud604\uc7ac\ub294 \uc9c0\uae08\ub3c4 \ub04a\uc784\uc5c6\uc774 \ub9cc\ub4e4\uc5b4\uc9c0\uace0 \uc788\uae30 \ub54c\ubb38\uc774\ub2e4.",
+        "abstract": null,
+        "print_page": "23",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/opinion/01cohenWeb-korean/01cohenWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/opinion/01cohenWeb-korean/01cohenWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/opinion/01cohenWeb-korean/01cohenWeb-articleLarge.jpg",
+            "height": 644,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/opinion/01cohenWeb-korean/01cohenWeb-articleLarge.jpg",
+              "xlargeheight": "644"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/opinion/01cohenWeb-korean/01cohenWeb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/opinion/01cohenWeb-korean/01cohenWeb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\uc624\ubc14\ub9c8\uc5d0\uac8c \ubbf8\uad6d\uc774\ub780?",
+          "content_kicker": "\uae30\uba85 \uce7c\ub7fc",
+          "print_headline": "Obama\u2019s American Idea"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:30:19+0000",
+        "document_type": "article",
+        "news_desk": "Universal",
+        "section_name": "Universal",
+        "subsection_name": "Korean",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Roger",
+              "rank": 1,
+              "lastname": "COHEN"
+            }
+          ],
+          "original": "By ROGER COHEN"
+        },
+        "type_of_material": "News",
+        "_id": "57c7044495d0e021d7983406",
+        "word_count": "905",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-clowns-in-woods.html",
+        "snippet": "A neighborhood in South Carolina is reporting that people dressed as clowns have been seen trying to lure children into the woods....",
+        "lead_paragraph": "A neighborhood in South Carolina is reporting that people dressed as clowns have been seen trying to lure children into the woods.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: Clown Spotted Trying to Lure Kids Into Woods",
+          "print_headline": "Report: Clown Spotted Trying to Lure Kids Into Woods"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:23:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c704b595d0e021d7983415",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/arts/29reuters-new-york-lennon-parole.html",
+        "snippet": "The man who shot and killed John Lennon in New York City nearly 36 years ago has again failed to persuade a state parole board to release him from prison on parole, officials said on Monday....",
+        "lead_paragraph": "The man who shot and killed John Lennon in New York City nearly 36 years ago has again failed to persuade a state parole board to release him from prison on parole, officials said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "John Lennon's Killer Denied Parole for Ninth Time",
+          "print_headline": "John Lennon's Killer Denied Parole for Ninth Time"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:25:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c704a895d0e021d7983414",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/sports/tennis/29reuters-tennis-open-nadal.html",
+        "snippet": "Rafa Nadal was worn out from his Rio Olympics exertions after emerging from an injury absence to win doubles gold, but the Spaniard perked back up with his trip to New York for the U.S. Open....",
+        "lead_paragraph": "Rafa Nadal was worn out from his Rio Olympics exertions after emerging from an injury absence to win doubles gold, but the Spaniard perked back up with his trip to New York for the U.S. Open.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Energized Nadal Completes Straight-Sets Win in Opener",
+          "print_headline": "Energized Nadal Completes Straight-Sets Win in Opener"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:24:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7045495d0e021d7983408",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/politics/ap-us-senate-2016-indiana.html",
+        "snippet": "The Republican candidate for U.S. Senate in Indiana declined Monday to say whether he's comfortable with Donald Trump serving as commander in chief and possessing the nation's nuclear launch codes....",
+        "lead_paragraph": "The Republican candidate for U.S. Senate in Indiana declined Monday to say whether he's comfortable with Donald Trump serving as commander in chief and possessing the nation's nuclear launch codes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Senate Hopeful Won't Say if OK With Trump Having Nuke Codes",
+          "print_headline": "Senate Hopeful Won't Say if OK With Trump Having Nuke Codes"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:16:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7047095d0e021d798340b",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

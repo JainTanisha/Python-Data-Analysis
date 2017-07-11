@@ -1,0 +1,367 @@
+{
+  "response": {
+    "meta": {
+      "hits": 515,
+      "time": 119,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/football/ap-fbn-rams-healthy-gurley.html",
+        "snippet": "Todd Gurley watched most of his first NFL training camp from the sidelines. He would do a few individual drills on his healing knee while his Rams teammates worked together....",
+        "lead_paragraph": "Todd Gurley watched most of his first NFL training camp from the sidelines. He would do a few individual drills on his healing knee while his Rams teammates worked together.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rams' Gurley Is Healthy, Hungry Heading Into 2nd NFL Camp",
+          "print_headline": "Rams' Gurley Is Healthy, Hungry Heading Into 2nd NFL Camp"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T22:30:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579eb50538f0d8533c25081f",
+        "word_count": "721",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/sports/golf/31reuters-golf-pga-walker-championship.html",
+        "snippet": "Jimmy Walker said winning the PGA Championship on Sunday for his first career major was a matter of trust, both in himself and in his game....",
+        "lead_paragraph": "Jimmy Walker said winning the PGA Championship on Sunday for his first career major was a matter of trust, both in himself and in his game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trusting Walker Finds Way to First Major Triumph",
+          "print_headline": "Trusting Walker Finds Way to First Major Triumph"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T22:28:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eb45138f0d8533c25081e",
+        "word_count": "581",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/01/us/politics/obama-to-leave-the-white-house-a-nerdier-place-than-he-found-it.html",
+        "snippet": "From firing marshmallow cannons to speaking of \u201cgel electrophoresis,\u201d President Obama has embraced science and championed it as a national priority....",
+        "lead_paragraph": "From firing marshmallow cannons to speaking of \u201cgel electrophoresis,\u201d President Obama has embraced science and championed it as a national priority.",
+        "abstract": "White House Letter; Pres Obama's emphasis on importance of science has been hallmark of his presidency, best exemplified by yearly sciene fairs that are hosted at White House; Obama's presidential science advisory committee has been most active in history.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/us/01whletter1/01whletter1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/us/01whletter1/01whletter1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/us/01whletter1/01whletter1-articleLarge.jpg",
+            "height": 396,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/us/01whletter1/01whletter1-articleLarge.jpg",
+              "xlargeheight": "396"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/us/01whletter1/01whletter1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/us/01whletter1/01whletter1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Obama to Leave the White House a Nerdier Place Than He Found It",
+          "content_kicker": "White House Letter",
+          "print_headline": "Obama to Leave the White House Nerdier Than He Found It"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Science and Technology"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          }
+        ],
+        "pub_date": "2016-07-31T22:23:49+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gardiner",
+              "rank": 1,
+              "lastname": "HARRIS"
+            }
+          ],
+          "original": "By GARDINER HARRIS"
+        },
+        "type_of_material": "News",
+        "_id": "579e7a7838f0d8533c2507ce",
+        "word_count": "1015",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/business/31reuters-japan-economy-pmi.html",
+        "snippet": "- Japanese manufacturing activity shrank in July at a slower pace than the previous month but new export orders contracted the fastest in more than 3-1/2 years, a private survey showed on Monday, in an indication that recent yen gains are hurting ...",
+        "lead_paragraph": "- Japanese manufacturing activity shrank in July at a slower pace than the previous month but new export orders contracted the fastest in more than 3-1/2 years, a private survey showed on Monday, in an indication that recent yen gains are hurting exporters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan July Factory Activity Shrinks for Fifth Month but at Slower Pace, Export Orders Slump: PMI",
+          "print_headline": "Japan July Factory Activity Shrinks for Fifth Month but at Slower Pace, Export Orders Slump: PMI"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T22:13:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eb0d838f0d8533c25081d",
+        "word_count": "156",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/sports/golf/31reuters-golf-pga-grace.html",
+        "snippet": "The pressure of contending in majors certainly agrees with South African Branden Grace, even if he has yet to close the deal....",
+        "lead_paragraph": "The pressure of contending in majors certainly agrees with South African Branden Grace, even if he has yet to close the deal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Grace Continues to Flourish at the Majors",
+          "print_headline": "Grace Continues to Flourish at the Majors"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T22:02:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eadfb38f0d8533c25081c",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/golf/ap-glf-pga-notebook.html",
+        "snippet": "Jimmy Walker was running out of time to make the Ryder Cup team for the second time in a row....",
+        "lead_paragraph": "Jimmy Walker was running out of time to make the Ryder Cup team for the second time in a row.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Big Ryder Cup Jumps for Walker, Koepka",
+          "print_headline": "Big Ryder Cup Jumps for Walker, Koepka"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:57:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ead4f38f0d8533c25081b",
+        "word_count": "1150",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/soccer/bc-soc-mls-crew-toronto-fc.html",
+        "snippet": "Tsubasa Endoh and Sebastian Giovinco score in the first half and Jozy Altidore added a late goal in Toronto FC's 3-0 victory over the Columbus Crew on Sunday night....",
+        "lead_paragraph": "Tsubasa Endoh and Sebastian Giovinco score in the first half and Jozy Altidore added a late goal in Toronto FC's 3-0 victory over the Columbus Crew on Sunday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Endoh, Giovinco Score in First Half, Toronto Beats Crew 3-0",
+          "print_headline": "Endoh, Giovinco Score in First Half, Toronto Beats Crew 3-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:55:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579eac9b38f0d8533c250815",
+        "word_count": "197",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/sports/golf/31reuters-golf-pga-day.html",
+        "snippet": "Jason Day had another near miss at a major championship, but not before he gave a major scare to eventual winner Jimmy Walker on the 72nd hole of the Australian's defense of the PGA Championship....",
+        "lead_paragraph": "Jason Day had another near miss at a major championship, but not before he gave a major scare to eventual winner Jimmy Walker on the 72nd hole of the Australian's defense of the PGA Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Day Happy With Performance After Another Close Call",
+          "print_headline": "Day Happy With Performance After Another Close Call"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:54:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eac9138f0d8533c250814",
+        "word_count": "533",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/business/31reuters-china-economy-pmi-caixin.html",
+        "snippet": "China's manufacturing activity expanded for the first time in 17 months in July as output and new orders increased, a private business survey showed on Monday....",
+        "lead_paragraph": "China's manufacturing activity expanded for the first time in 17 months in July as output and new orders increased, a private business survey showed on Monday.  ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China July Factory Activity Grows for First Time in 17 Months-Caixin PMI",
+          "print_headline": "China July Factory Activity Grows for First Time in 17 Months-Caixin PMI"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:50:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eab3038f0d8533c250813",
+        "word_count": "331",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/business/31reuters-china-economy-pmi.html",
+        "snippet": "Activity in China's manufacturing sector unexpectedly shrank in July, an official survey showed on Monday, with small and medium-sized firms leading the fall and reinforcing fears that the economy may once again be losing momentum....",
+        "lead_paragraph": "Activity in China's manufacturing sector unexpectedly shrank in July, an official survey showed on Monday, with small and medium-sized firms leading the fall and reinforcing fears that the economy may once again be losing momentum.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Factory Activity Unexpectedly Dips in July: Official PMI",
+          "print_headline": "China Factory Activity Unexpectedly Dips in July: Official PMI"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:47:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eaa7538f0d8533c250811",
+        "word_count": "496",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

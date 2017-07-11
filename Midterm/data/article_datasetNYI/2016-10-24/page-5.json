@@ -1,0 +1,506 @@
+{
+  "response": {
+    "meta": {
+      "hits": 782,
+      "time": 42,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/briefing/clinton-warren-cubs.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/nytnow/24BRIEFING-EVENING-slide-JKN9/24BRIEFING-EVENING-slide-JKN9-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/nytnow/24BRIEFING-EVENING-slide-JKN9/24BRIEFING-EVENING-slide-JKN9-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/nytnow/24BRIEFING-EVENING-slide-JKN9/24BRIEFING-EVENING-slide-JKN9-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/nytnow/24BRIEFING-EVENING-slide-JKN9/24BRIEFING-EVENING-slide-JKN9-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/nytnow/24BRIEFING-EVENING-slide-JKN9/24BRIEFING-EVENING-slide-JKN9-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/nytnow/24BRIEFING-EVENING-slide-JKN9/24BRIEFING-EVENING-slide-JKN9-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Clinton, Warren, Cubs: Your Monday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:03:24+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 2,
+              "lastname": "SCULL"
+            }
+          ],
+          "original": "By KAREN ZRAICK and DAVID SCULL"
+        },
+        "type_of_material": "briefing",
+        "_id": "580e853195d0e022439c4f54",
+        "word_count": "811",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-noose-mississippi-the-latest.html",
+        "snippet": "The Latest on the NAACP saying a noose was placed around a black student's neck in Mississippi (all times local):...",
+        "lead_paragraph": "The Latest on the NAACP saying a noose was placed around a black student's neck in Mississippi (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Official: Inquiry Supports Noose Assault Claim",
+          "print_headline": "The Latest: Official: Inquiry Supports Noose Assault Claim"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:01:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e84ba95d0e022439c4f52",
+        "word_count": "475",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-church-stabbing.html",
+        "snippet": "Authorities say a man stabbed his cousin during a church service in South Carolina because he thought the victim had put a curse on him....",
+        "lead_paragraph": "Authorities say a man stabbed his cousin during a church service in South Carolina because he thought the victim had put a curse on him.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Man Stabbed Cousin in S. Carolina Church Over Curse",
+          "print_headline": "Police: Man Stabbed Cousin in S. Carolina Church Over Curse"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:01:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e84bd95d0e022439c4f53",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/25/sports/football/new-york-jets-quarterback-geno-smith-ryan-fitzpatrick.html",
+        "snippet": "Smith, who had replaced Fitzpatrick as the Jets starter last week, sustained a torn anterior cruciate ligament against the Ravens....",
+        "lead_paragraph": "Smith, who had replaced Fitzpatrick as the Jets starter last week, sustained a torn anterior cruciate ligament against the Ravens.",
+        "abstract": "New York Jets quarterback Geno Smith suffers likely season-ending knee injury, forcing team to revert to Ryan Fitzpatrick, who had been benched in favor of Smith just week earlier. ",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/sports/25JETSweb/25JETSweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/sports/25JETSweb/25JETSweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/25/sports/25JETSweb/25JETSweb-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/25/sports/25JETSweb/25JETSweb-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/sports/25JETSweb/25JETSweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/sports/25JETSweb/25JETSweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Geno Smith Has Torn Knee Ligament; Jets Turn to Ryan Fitzpatrick Again",
+          "print_headline": "Smith\u2019s Torn Ligament Forces Jets to Turn to Spurned Passer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Jets"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Smith, Geno"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Fitzpatrick, Ryan"
+          }
+        ],
+        "pub_date": "2016-10-24T21:57:29+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zach",
+              "rank": 1,
+              "lastname": "SCHONBRUN"
+            }
+          ],
+          "original": "By ZACH SCHONBRUN"
+        },
+        "type_of_material": "News",
+        "_id": "580e83de95d0e022439c4f50",
+        "word_count": "709",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/24/sports/olympics/24reuters-usa-lgbt-hockey.html",
+        "snippet": "When ice hockey player Harrison Browne asked his professional league to change his name in his official player profile, to Harrison from Hailey, he did not suspect what a big moment it was....",
+        "lead_paragraph": "When ice hockey player Harrison Browne asked his professional league to change his name in his official player profile, to Harrison from Hailey, he did not suspect what a big moment it was.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Transgender Hockey Player Takes Aim at Being Role Model",
+          "print_headline": "U.S. Transgender Hockey Player Takes Aim at Being Role Model"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T21:57:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580e83de95d0e022439c4f51",
+        "word_count": "482",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/25/us/politics/donald-trump-campaign.html",
+        "snippet": "Mr. Trump disparaged an actress named Jessica Drake, who over the weekend said that in 2006 he had groped and kissed her without her permission....",
+        "lead_paragraph": "Mr. Trump disparaged an actress named Jessica Drake, who over the weekend said that in 2006 he had groped and kissed her without her permission.",
+        "abstract": "Donald Trump dismisses accusations by pornographic film actress Jessica Drake that he inappropriately groped and kissed her in 2006 and also offered her $10,000 to go to his hotel room.",
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/us/25fd-trump/25fd-trump-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/us/25fd-trump/25fd-trump-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/25/us/25fd-trump/25fd-trump-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/25/us/25fd-trump/25fd-trump-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/us/25fd-trump/25fd-trump-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/us/25fd-trump/25fd-trump-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump Dismisses Latest Accuser: \u2018Oh, I\u2019m Sure She\u2019s Never Been Grabbed Before\u2019",
+          "print_headline": "Another Accuser Comes Forward, to Be Dismissed by Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Drake, Jessica (1974- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sex Crimes"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sexual Harassment"
+          }
+        ],
+        "pub_date": "2016-10-24T21:57:04+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Nick Corasaniti reported from St. Augustine, and Alan Rappeport from Washington.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nick",
+              "rank": 1,
+              "lastname": "CORASANITI"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 2,
+              "lastname": "RAPPEPORT"
+            }
+          ],
+          "original": "By NICK CORASANITI and ALAN RAPPEPORT"
+        },
+        "type_of_material": "News",
+        "_id": "580e83b995d0e022439c4f4f",
+        "word_count": "988",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-att-time-warner-precedent.html",
+        "snippet": "AT&amp;T is following in the footsteps of its rival Comcast in snapping up its own entertainment conglomerate &#8212; in this case, Time Warner. But what's happened in the aftermath of Comcast's 2011 purchase of NBCUniversal may cast a shadow over...",
+        "lead_paragraph": "AT&amp;T is following in the footsteps of its rival Comcast in snapping up its own entertainment conglomerate &#8212; in this case, Time Warner. But what's happened in the aftermath of Comcast's 2011 purchase of NBCUniversal may cast a shadow over AT&amp;T's deal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "What's Next for AT&T Megadeal? A Look Back at Comcast-NBC",
+          "print_headline": "What's Next for AT&T Megadeal? A Look Back at Comcast-NBC"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T21:55:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e835e95d0e022439c4f4e",
+        "word_count": "833",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/24/sports/baseball/24reuters-baseball-worldseries-kipnis.html",
+        "snippet": "Cleveland Indians second baseman Jason Kipnis is dealing with a sprained left ankle as he prepares for Tuesday's Game One of the World Series against the Chicago Cubs....",
+        "lead_paragraph": "Cleveland Indians second baseman Jason Kipnis is dealing with a sprained left ankle as he prepares for Tuesday's Game One of the World Series against the Chicago Cubs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Freak Accident Has Kipnis Hobbling Into World Series",
+          "print_headline": "Freak Accident Has Kipnis Hobbling Into World Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T21:54:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580e831995d0e022439c4f4d",
+        "word_count": "328",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-scaffolding-collapse-mural.html",
+        "snippet": "Authorities say a mural painter fell four stories to his death at a high-rise condominium under construction in South Florida....",
+        "lead_paragraph": "Authorities say a mural painter fell four stories to his death at a high-rise condominium under construction in South Florida.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mural Painter Dies Following Scaffolding Collapse in Florida",
+          "print_headline": "Mural Painter Dies Following Scaffolding Collapse in Florida"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T21:52:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e829c95d0e022439c4f4c",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/business/ap-us-gov-finances.html",
+        "snippet": "Figures on government spending and debt in millions of dollars. The government's fiscal year runs Oct. 1 through Sept. 30....",
+        "lead_paragraph": "Figures on government spending and debt in millions of dollars. The government's fiscal year runs Oct. 1 through Sept. 30.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Figures on Government Spending and Debt",
+          "print_headline": "Figures on Government Spending and Debt"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T21:51:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e827a95d0e022439c4f4b",
+        "word_count": "92",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,832 @@
+{
+  "response": {
+    "meta": {
+      "hits": 419,
+      "time": 35,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/theater/the-color-purple-is-to-close-in-january.html",
+        "snippet": "The well-received musical revival will shut its doors after a year of performances, with a national tour beginning next year....",
+        "lead_paragraph": "The well-received musical revival will shut its doors after a year of performances, with a national tour beginning next year.",
+        "abstract": "Broadway revival of The Color Purple will close after year-long run, having recouped its original investment; national tour is slated for 2017. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31PURPLE-ITEM/31PURPLE-ITEM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31PURPLE-ITEM/31PURPLE-ITEM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31PURPLE-ITEM/31PURPLE-ITEM-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31PURPLE-ITEM/31PURPLE-ITEM-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31PURPLE-ITEM/31PURPLE-ITEM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31PURPLE-ITEM/31PURPLE-ITEM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018The Color Purple\u2019 Is to Close in January",
+          "print_headline": "\u2018The Color Purple\u2019 Will Close in January"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brooks, Danielle"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Doyle, John"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Erivo, Cynthia"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Holliday, Jennifer"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Color Purple (Play)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          }
+        ],
+        "pub_date": "2016-10-30T22:01:14+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Andrew",
+              "middlename": "R.",
+              "lastname": "CHOW",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANDREW R. CHOW"
+        },
+        "type_of_material": "News",
+        "_id": "58166dae95d0e022439c614f",
+        "word_count": "179",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/us/vietnam-war-legacy.html",
+        "snippet": "Decades after the end of conflicts like the Vietnam War, civilians are regularly killed and maimed by left-behind ordnance like land mines and cluster bombs....",
+        "lead_paragraph": "Decades after the end of conflicts like the Vietnam War, civilians are regularly killed and maimed by left-behind ordnance like land mines and cluster bombs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "A Lingering, Deadly Legacy of Wars: Unexploded Bombs",
+          "content_kicker": "Retro Report"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mines, Explosive"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cluster Munitions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Vietnam"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Diana, Princess of Wales"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          }
+        ],
+        "pub_date": "2016-10-30T22:00:10+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Clyde",
+              "rank": 1,
+              "lastname": "HABERMAN"
+            }
+          ],
+          "original": "By CLYDE HABERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "58166d7295d0e022439c614e",
+        "word_count": "1135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/crosswords/often-worn-backward.html",
+        "snippet": "Peter A. Collins hears something we can\u2019t hear....",
+        "lead_paragraph": "Peter A. Collins hears something we can\u2019t hear.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/crosswords/31wordplay-asiago/31wordplay-asiago-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/crosswords/31wordplay-asiago/31wordplay-asiago-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/crosswords/31wordplay-asiago/31wordplay-asiago-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/crosswords/31wordplay-asiago/31wordplay-asiago-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/crosswords/31wordplay-asiago/31wordplay-asiago-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/crosswords/31wordplay-asiago/31wordplay-asiago-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Often Worn Backward",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-10-30T22:00:05+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "58166d6b95d0e022439c614d",
+        "word_count": "520",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/football/ap-fbn-cardinals-panthers-newton.html",
+        "snippet": "Cam Newton has had it with NFL officials....",
+        "lead_paragraph": "Cam Newton has had it with NFL officials.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Panthers QB Newton: I Don't Feel Protected by NFL Officials",
+          "print_headline": "Panthers QB Newton: I Don't Feel Protected by NFL Officials"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:54:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58166c2b95d0e022439c614c",
+        "word_count": "610",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/arts/design/philip-guston-and-his-barbed-pen-nixon-years.html",
+        "snippet": "Guston and his friend Philip Roth made Richard M. Nixon the object of satire. Scores of Guston\u2019s Nixon drawings will be featured in a show at Hauser & Wirth....",
+        "lead_paragraph": "Guston and his friend Philip Roth made Richard M. Nixon the object of satire. Scores of Guston\u2019s Nixon drawings will be featured in a show at Hauser & Wirth.",
+        "abstract": "Exhibition Philip Guston: Laughter in the Dark, Drawings From 1971 & 1975 at Hauser & Wirth gallery features satirical works made during presidency of Richard Nixon that are particularly timely ahead of presidential election. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31NIXON1/31NIXON1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31NIXON1/31NIXON1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31NIXON1/31NIXON1-articleLarge.jpg",
+            "height": 440,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31NIXON1/31NIXON1-articleLarge.jpg",
+              "xlargeheight": "440"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31NIXON1/31NIXON1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31NIXON1/31NIXON1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Philip Guston and His Barbed-Pen Nixon Years",
+          "print_headline": "Guston\u2019s Barbed-Pen Nixon Years"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Hauser & Wirth"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Guston, Philip"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Roth, Philip"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Nixon, Richard Milhous"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Philip Guston: Laughter in the Dark, Drawings From 1971 & 1975 (Exhibit)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mayer, Musa"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Radic, Sally"
+          }
+        ],
+        "pub_date": "2016-10-30T21:53:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Charles",
+              "rank": 1,
+              "lastname": "McGRATH"
+            }
+          ],
+          "original": "By CHARLES McGRATH"
+        },
+        "type_of_material": "News",
+        "_id": "58166bc195d0e022439c614b",
+        "word_count": "1035",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/us/politics/justice-department-warrant-clinton-abedin-fbi.html",
+        "snippet": "Investigators hope to review as many of Huma Abedin\u2019s emails as possible before Election Day, though it remained unclear whether they could finish their work by then....",
+        "lead_paragraph": "Investigators hope to review as many of Huma Abedin\u2019s emails as possible before Election Day, though it remained unclear whether they could finish their work by then.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/us/31QandA-web/31QandA-web-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/us/31QandA-web/31QandA-web-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/us/31QandA-web/31QandA-web-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/us/31QandA-web/31QandA-web-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/us/31QandA-web/31QandA-web-thumbStandard-v4.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/us/31QandA-web/31QandA-web-thumbStandard-v4.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Justice Department Obtains Warrant to Review Clinton Aide\u2019s Emails",
+          "print_headline": "Agents Cleared to Scrutinize Email Cache"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "E-Mail"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Abedin, Huma"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+          }
+        ],
+        "pub_date": "2016-10-30T21:46:44+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "William K. Rashbaum contributed reporting from New York.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matt",
+              "rank": 1,
+              "lastname": "APUZZO"
+            },
+            {
+              "firstname": "Michael",
+              "middlename": "S.",
+              "lastname": "SCHMIDT",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 3,
+              "lastname": "GOLDMAN"
+            }
+          ],
+          "original": "By MATT APUZZO, MICHAEL S. SCHMIDT and ADAM GOLDMAN"
+        },
+        "type_of_material": "News",
+        "_id": "58166a4c95d0e022439c614a",
+        "word_count": "1245",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/arts/music/opera-fans-last-wish-led-to-terror-scare-at-the-met.html",
+        "snippet": "Roger Kaiser, who inadvertently caused alarm at the Metropolitan Opera, was sprinkling the remains of a friend at opera houses, the police said....",
+        "lead_paragraph": "Roger Kaiser, who inadvertently caused alarm at the Metropolitan Opera, was sprinkling the remains of a friend at opera houses, the police said.",
+        "abstract": "Man seen sprinkling white powder into Metropolitan Opera orchestra pit is identified as Roger Kaiser, Dallas opera fan fulfilling friend's final wish to have his ashes dispersed in opera houses around country; is not charged with crime for action that caused terrorism scare and cancellation of two Met performances.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31MET/31MET-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31MET/31MET-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31MET/31MET-articleLarge.jpg",
+            "height": 607,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31MET/31MET-articleLarge.jpg",
+              "xlargeheight": "607"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31MET/31MET-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31MET/31MET-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Opera Fan\u2019s Last Wish Led to Terror Scare at the Met",
+          "print_headline": "Fan\u2019s Last Wish Led to Scare at Met Opera"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Metropolitan Opera"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Manhattan (NYC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kaiser, Roger (1964- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cremation"
+          }
+        ],
+        "pub_date": "2016-10-30T21:46:21+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Al",
+              "rank": 2,
+              "lastname": "BAKER"
+            }
+          ],
+          "original": "By MICHAEL COOPER and AL BAKER"
+        },
+        "type_of_material": "News",
+        "_id": "58166a3a95d0e022439c6149",
+        "word_count": "815",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/golf/ap-glf-sanderson-farms.html",
+        "snippet": "Cody Gribble and his caddie talked a ton during the final nine holes of his impressive run to a Sanderson Farms Championship victory. Very little was about golf....",
+        "lead_paragraph": "Cody Gribble and his caddie talked a ton during the final nine holes of his impressive run to a Sanderson Farms Championship victory. Very little was about golf.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cody Gribble Wins Sanderson Farms for 1st PGA Tour Title",
+          "print_headline": "Cody Gribble Wins Sanderson Farms for 1st PGA Tour Title"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:45:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58166a0e95d0e022439c6147",
+        "word_count": "521",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/world/middleeast/ap-ml-algeria-islamic-state.html",
+        "snippet": "The Islamic State group has claimed responsibility for the killing of an Algerian police officer while he was reportedly dining in a restaurant....",
+        "lead_paragraph": "The Islamic State group has claimed responsibility for the killing of an Algerian police officer while he was reportedly dining in a restaurant.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "IS Claims Killing of Algerian Police Officer",
+          "print_headline": "IS Claims Killing of Algerian Police Officer"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:45:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58166a0f95d0e022439c6148",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/upshot/a-little-noticed-fact-about-trade-its-no-longer-rising.html",
+        "snippet": "There are signs that the slowdown is becoming structural. Developed nations appear to be backing away from globalization....",
+        "lead_paragraph": "There are signs that the slowdown is becoming structural. Developed nations appear to be backing away from globalization.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/upshot/27UP-Trade/27UP-Trade-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/upshot/27UP-Trade/27UP-Trade-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/upshot/27UP-Trade/27UP-Trade-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/upshot/27UP-Trade/27UP-Trade-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/upshot/27UP-Trade/27UP-Trade-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/upshot/27UP-Trade/27UP-Trade-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Little-Noticed Fact About Trade: It\u2019s No Longer Rising",
+          "content_kicker": "Economic Trends",
+          "kicker": "The Upshot",
+          "print_headline": "Little-Noticed Trade Fact: It\u2019s No Longer Rising"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Trade and World Market"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Trans-Pacific Partnership"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Factories and Manufacturing"
+          }
+        ],
+        "pub_date": "2016-10-30T21:45:08+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Binyamin",
+              "rank": 1,
+              "lastname": "APPELBAUM"
+            }
+          ],
+          "original": "By BINYAMIN APPELBAUM"
+        },
+        "type_of_material": "News",
+        "_id": "581669ec95d0e022439c6146",
+        "word_count": "1044",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

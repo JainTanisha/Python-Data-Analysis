@@ -1,0 +1,349 @@
+{
+  "response": {
+    "meta": {
+      "hits": 962,
+      "time": 23,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/13/sports/soccer/13reuters-soccer-england-newcastle.html",
+        "snippet": "Newcastle United thrashed Queens Park Rangers 6-0 away to move into second place in the Championship (second tier) on Tuesday with former Liverpool midfielder Jonjo Shelvey scoring twice....",
+        "lead_paragraph": "Newcastle United thrashed Queens Park Rangers 6-0 away to move into second place in the Championship (second tier) on Tuesday with former Liverpool midfielder Jonjo Shelvey scoring twice.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Newcastle Romp Past QPR and Move Up to Second",
+          "print_headline": "Newcastle Romp Past QPR and Move Up to Second"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:32:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87ec395d0e021d79860d9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/13/fashion/runway-womens/coach-spring-2017.html",
+        "snippet": "Stuart Vevers shows his spring 2017 women\u2019s collection....",
+        "lead_paragraph": "Stuart Vevers shows his spring 2017 women\u2019s collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/13/fashion/runway-womens/coach-spring-2017-rtw-slide-6NH4/coach-spring-2017-rtw-slide-6NH4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/13/fashion/runway-womens/coach-spring-2017-rtw-slide-6NH4/coach-spring-2017-rtw-slide-6NH4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/13/fashion/runway-womens/coach-spring-2017-rtw-slide-6NH4/coach-spring-2017-rtw-slide-6NH4-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/13/fashion/runway-womens/coach-spring-2017-rtw-slide-6NH4/coach-spring-2017-rtw-slide-6NH4-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/13/fashion/runway-womens/coach-spring-2017-rtw-slide-6NH4/coach-spring-2017-rtw-slide-6NH4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/13/fashion/runway-womens/coach-spring-2017-rtw-slide-6NH4/coach-spring-2017-rtw-slide-6NH4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Coach: Spring 2017",
+          "kicker": "Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Coach Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          }
+        ],
+        "pub_date": "2016-09-13T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Women's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Women's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57d87e4b95d0e021d79860d8",
+        "word_count": "8",
+        "slideshow_credits": "Guillaume Roujas/Nowfashion"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/world/ap-un-united-nations-general-assembly-president.html",
+        "snippet": "Fiji's U.N. Ambassador Peter Thomson is the new president of the General Assembly....",
+        "lead_paragraph": "Fiji's U.N. Ambassador Peter Thomson is the new president of the General Assembly.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Peter Thomson Assumes Presidency of UN General Assembly",
+          "print_headline": "Peter Thomson Assumes Presidency of UN General Assembly"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:26:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87e3e95d0e021d79860d7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/13/us/politics/13reuters-california-tampon.html",
+        "snippet": "California Governor Jerry Brown on Tuesday vetoed a bill to end state sales taxes on feminine hygiene products, angering women and advocates who call the taxes unjust....",
+        "lead_paragraph": "California Governor Jerry Brown on Tuesday vetoed a bill to end state sales taxes on feminine hygiene products, angering women and advocates who call the taxes unjust.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Governor Vetoes Bill to Repeal Tampon Tax",
+          "print_headline": "California Governor Vetoes Bill to Repeal Tampon Tax"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:21:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87ca595d0e021d79860d6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-nv-vegas-china-flights.html",
+        "snippet": "A Chinese airline says it will start in December the first non-stop flight service between Las Vegas and mainland China....",
+        "lead_paragraph": "A Chinese airline says it will start in December the first non-stop flight service between Las Vegas and mainland China.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "China's Hainan Airlines Flying to Vegas Starting in December",
+          "print_headline": "China's Hainan Airlines Flying to Vegas Starting in December"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T21:08:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87c3c95d0e021d79860d5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/13/technology/13reuters-facebook-socialmedia-news.html",
+        "snippet": "Facebook Inc and Twitter Inc have joined a network of over 30 news and technology companies to tackle fake news and improve the quality of information on social media, the group said on Tuesday....",
+        "lead_paragraph": "Facebook Inc and Twitter Inc have joined a network of over 30 news and technology companies to tackle fake news and improve the quality of information on social media, the group said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Facebook, Twitter Join Network to Tackle Fake News",
+          "print_headline": "Facebook, Twitter Join Network to Tackle Fake News"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:18:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87b4095d0e021d79860d4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-provisional-ballots-ohio-.html",
+        "snippet": "A federal appeals court blocked rules requiring precise completion of thousands of absentee ballots in swing state Ohio, but upheld other challenged election-law changes in a Tuesday ruling as legal and not unduly burdensome....",
+        "lead_paragraph": "A federal appeals court blocked rules requiring precise completion of thousands of absentee ballots in swing state Ohio, but upheld other challenged election-law changes in a Tuesday ruling as legal and not unduly burdensome.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Appeals Court: Only 1 Ohio Ballot Rule a Burden on Voters",
+          "print_headline": "Appeals Court: Only 1 Ohio Ballot Rule a Burden on Voters"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:13:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87aa295d0e021d79860d3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-faculty-lockout.html",
+        "snippet": "Students at the New York City campus of Long Island University say they have begun the school year with classes being taught by replacement teachers of questionable quality after the administration locked out their regular professors as part of a ...",
+        "lead_paragraph": "Students at the New York City campus of Long Island University say they have begun the school year with classes being taught by replacement teachers of questionable quality after the administration locked out their regular professors as part of a bitter labor dispute.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Professors Locked Out of Classrooms Over Labor Dispute",
+          "print_headline": "Professors Locked Out of Classrooms Over Labor Dispute"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:13:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87a9c95d0e021d79860d2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/13/business/13reuters-usa-banks-wells-fargo.html",
+        "snippet": "Wells Fargo &amp; Co scrapped its product sales goals for retail bankers on Tuesday and may take further disciplinary action against its employees in the wake of a fake account scandal that has already led to $190 million in fines and the firing o...",
+        "lead_paragraph": "Wells Fargo &amp; Co scrapped its product sales goals for retail bankers on Tuesday and may take further disciplinary action against its employees in the wake of a fake account scandal that has already led to $190 million in fines and the firing of 5,300 employees.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Wells Fargo Seeks to Shore Up Reputation in Wake of Scandal",
+          "print_headline": "Wells Fargo Seeks to Shore Up Reputation in Wake of Scandal"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:14:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87a8c95d0e021d79860d1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-toddler-life-support.html",
+        "snippet": "The family of a 2-year-old Virginia girl is asking the state's Supreme Court to block a hospital from performing a brain death test on the toddler who choked on a piece of popcorn....",
+        "lead_paragraph": "The family of a 2-year-old Virginia girl is asking the state's Supreme Court to block a hospital from performing a brain death test on the toddler who choked on a piece of popcorn.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Virginia Family Appeals Decision on Toddler Brain Death Test",
+          "print_headline": "Virginia Family Appeals Decision on Toddler Brain Death Test"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:07:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d8793795d0e021d79860d0",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

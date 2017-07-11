@@ -1,0 +1,578 @@
+{
+  "response": {
+    "meta": {
+      "hits": 973,
+      "time": 49,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/us/politics/14reuters-usa-election-clinton.html",
+        "snippet": "Hacked emails published by Wikileaks this week appear to show Qatar pledging to donate $1 million to Hillary Clinton's family's charitable foundation, despite her promise to curb new donations by foreign governments while U.S. secretary of state....",
+        "lead_paragraph": "Hacked emails published by Wikileaks this week appear to show Qatar pledging to donate $1 million to Hillary Clinton's family's charitable foundation, despite her promise to curb new donations by foreign governments while U.S. secretary of state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Hacked Emails Raise Possibility of Clinton Foundation Ethics Breach",
+          "print_headline": "Hacked Emails Raise Possibility of Clinton Foundation Ethics Breach"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:00:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801644795d0e022439c34ef",
+        "word_count": "662",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/sports/baseball/ap-bbn-jim-litke-contreras.html",
+        "snippet": "A single sheet of paper sat on Willson Contreras' chair in front of his locker when the Chicago Cubs rookie showed up for practice on Friday. It was a form letter asking players to list the names of people picking up the four tickets set aside for...",
+        "lead_paragraph": "A single sheet of paper sat on Willson Contreras' chair in front of his locker when the Chicago Cubs rookie showed up for practice on Friday. It was a form letter asking players to list the names of people picking up the four tickets set aside for family members ahead of the NL Championship Series opener.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: Kid Does It All, Even With One Eye on Back Home",
+          "print_headline": "Column: Kid Does It All, Even With One Eye on Back Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:55:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801630995d0e022439c34ee",
+        "word_count": "775",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/15/business/media/fm-stations-that-dont-reach-far-but-reach-deep.html",
+        "snippet": "With broadcast ranges as little as five miles, Low Power FM stations are finding loyal niche audiences not afraid to touch that dial....",
+        "lead_paragraph": "With broadcast ranges as little as five miles, Low Power FM stations are finding loyal niche audiences not afraid to touch that dial.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/business/15Radio1/15Radio1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/business/15Radio1/15Radio1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/business/15Radio1/15Radio1-articleLarge.jpg",
+            "height": 409,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/business/15Radio1/15Radio1-articleLarge.jpg",
+              "xlargeheight": "409"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/business/15Radio1/15Radio1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/business/15Radio1/15Radio1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "FM Stations That Don\u2019t Reach Far, but Reach Deep",
+          "print_headline": "Short Range, Deep Reach"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Radio"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Federal Communications Commission"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nonprofit Organizations"
+          }
+        ],
+        "pub_date": "2016-10-14T22:57:41+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Brett",
+              "rank": 1,
+              "lastname": "SOKOL"
+            }
+          ],
+          "original": "By BRETT SOKOL"
+        },
+        "type_of_material": "News",
+        "_id": "580162f895d0e022439c34ed",
+        "word_count": "1147",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/business/14reuters-usa-economy-budget.html",
+        "snippet": "The U.S. budget deficit widened to $587 billion for the fiscal year 2016 on slower-than-expected revenues and higher spending for programs including Social Security and Medicare, the Treasury Department said on Friday....",
+        "lead_paragraph": "The U.S. budget deficit widened to $587 billion for the fiscal year 2016 on slower-than-expected revenues and higher spending for programs including Social Security and Medicare, the Treasury Department said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Fiscal Year Budget Deficit Widens to $587 Billion",
+          "print_headline": "U.S. Fiscal Year Budget Deficit Widens to $587 Billion"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:55:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580162e495d0e022439c34ec",
+        "word_count": "302",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/business/14reuters-usa-budget-whitehouse.html",
+        "snippet": "The U.S. budget deficit for fiscal year 2016 totaled $587 billion, $28 billion less than previously expected, the White House Office of Management and Budget said on Friday....",
+        "lead_paragraph": "The U.S. budget deficit for fiscal year 2016 totaled $587 billion, $28 billion less than previously expected, the White House Office of Management and Budget said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Budget Deficit Hits $587 Billion in 2016, Less Than Forecast: White House",
+          "print_headline": "U.S. Budget Deficit Hits $587 Billion in 2016, Less Than Forecast: White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:55:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580162de95d0e022439c34eb",
+        "word_count": "56",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/business/mutfund/how-three-strong-performing-funds-pick-stocks.html",
+        "snippet": "Big, Small, American, Chinese: Different stocks produced outstanding results for investors and the funds that hold them....",
+        "lead_paragraph": "Big, Small, American, Chinese: Different stocks produced outstanding results for investors and the funds that hold them.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/business/16TOPP1/16TOPP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/business/16TOPP1/16TOPP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/business/16TOPP1/16TOPP1-articleLarge.jpg",
+            "height": 454,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/business/16TOPP1/16TOPP1-articleLarge.jpg",
+              "xlargeheight": "454"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/business/16TOPP1/16TOPP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/business/16TOPP1/16TOPP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How Three Strong-Performing Funds Pick Stocks",
+          "print_headline": "How Three Strong-Performing Funds Select Stocks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mutual Funds"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Hood River Capital Management LLC"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Fidelity Investments"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Matthews International Capital Management"
+          }
+        ],
+        "pub_date": "2016-10-14T22:53:56+0000",
+        "document_type": "article",
+        "news_desk": "SundayBusiness",
+        "section_name": "Business Day",
+        "subsection_name": "Mutual Funds",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tim",
+              "rank": 1,
+              "lastname": "GRAY"
+            }
+          ],
+          "original": "By TIM GRAY"
+        },
+        "type_of_material": "News",
+        "_id": "5801620995d0e022439c34ea",
+        "word_count": "929",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/politics/ap-us-campaign-2016-clinton.html",
+        "snippet": "With Donald Trump on the defensive, Hillary Clinton says she is taking \"no satisfaction\" in his actions and promising to repair the damage and project a message of unity during the campaign's final weeks....",
+        "lead_paragraph": "With Donald Trump on the defensive, Hillary Clinton says she is taking \"no satisfaction\" in his actions and promising to repair the damage and project a message of unity during the campaign's final weeks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Says She Takes 'No Satisfaction' in Trump's Actions",
+          "print_headline": "Clinton Says She Takes 'No Satisfaction' in Trump's Actions"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:49:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580161dd95d0e022439c34e9",
+        "word_count": "605",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/15/nyregion/de-blasios-police-reform-pledges-may-burden-his-re-election-bid.html",
+        "snippet": "Bill de Blasio, caught between his soaring rhetoric as a candidate and the realities of being New York City\u2019s mayor, is disappointing many who supported him....",
+        "lead_paragraph": "Bill de Blasio, caught between his soaring rhetoric as a candidate and the realities of being New York City\u2019s mayor, is disappointing many who supported him.",
+        "abstract": "New York City Mayor Bill de Blasio's vows to reform Police Dept may become burden to him as he approaches re-election battle in 2017; dissent is growing among black voters who put him in office, disappointed that he has not announced any new police reform initiatives; his re-election campaign asserts crime is down, with big drop in low-level arrests and police stops.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/nyregion/15BDBPOLICE1/15BDBPOLICE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/nyregion/15BDBPOLICE1/15BDBPOLICE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/nyregion/15BDBPOLICE1/15BDBPOLICE1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/nyregion/15BDBPOLICE1/15BDBPOLICE1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/nyregion/15BDBPOLICE1/15BDBPOLICE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/nyregion/15BDBPOLICE1/15BDBPOLICE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "De Blasio\u2019s Police Reform Pledges May Burden His Re-election Bid",
+          "print_headline": "Policing Vows Could Burden  De Blasio in \u201917"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elections, Mayors"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Police Department (NYC)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Crime and Criminals"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          }
+        ],
+        "pub_date": "2016-10-14T22:48:45+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "William Neuman contributed reporting.",
+          "person": [
+            {
+              "firstname": "J.",
+              "middlename": "David",
+              "lastname": "GOODMAN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By J. DAVID GOODMAN"
+        },
+        "type_of_material": "News",
+        "_id": "580160d695d0e022439c34e7",
+        "word_count": "1328",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/business/mutfund/higher-prices-dim-the-appeal-of-dividend-paying-stocks.html",
+        "snippet": "As dividend-paying stocks have become more expensive, investors have been forced to seek other options....",
+        "lead_paragraph": "As dividend-paying stocks have become more expensive, investors have been forced to seek other options.",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/business/16FUND/16FUND-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/business/16FUND/16FUND-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/business/16FUND/16FUND-articleLarge.jpg",
+            "height": 445,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/business/16FUND/16FUND-articleLarge.jpg",
+              "xlargeheight": "445"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/business/16FUND/16FUND-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/business/16FUND/16FUND-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Higher Prices Dim the Appeal of Dividend-Paying Stocks",
+          "content_kicker": "Fundamentally",
+          "kicker": "Fundamentally",
+          "print_headline": "Higher Prices Dim the Appeal of Dividend-Paying Stocks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Stocks and Bonds"
+          }
+        ],
+        "pub_date": "2016-10-14T22:44:50+0000",
+        "document_type": "article",
+        "news_desk": "SundayBusiness",
+        "section_name": "Business Day",
+        "subsection_name": "Mutual Funds",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Paul",
+              "middlename": "J.",
+              "lastname": "LIM",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By PAUL J. LIM"
+        },
+        "type_of_material": "News",
+        "_id": "58015fe895d0e022439c34e6",
+        "word_count": "1030",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/ap-us-high-school-strip-search.html",
+        "snippet": "The ACLU is looking into complaints from north Louisiana parents who say their teenage children were held after school and strip-searched when a student reported the loss of $42....",
+        "lead_paragraph": "The ACLU is looking into complaints from north Louisiana parents who say their teenage children were held after school and strip-searched when a student reported the loss of $42.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "North Louisiana Parents Angry About Strip Search of Students",
+          "print_headline": "North Louisiana Parents Angry About Strip Search of Students"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T22:41:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58015f8c95d0e022439c34e5",
+        "word_count": "313",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

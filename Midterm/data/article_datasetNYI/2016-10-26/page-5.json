@@ -1,0 +1,644 @@
+{
+  "response": {
+    "meta": {
+      "hits": 968,
+      "time": 83,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/arts/music/tove-lo-lady-wood-review.html",
+        "snippet": "Ms. Lo\u2019s new album, her second, finds her back with Max Martin, with songs that seem much the same as those on her debut, but far more coolly produced....",
+        "lead_paragraph": "Ms. Lo\u2019s new album, her second, finds her back with Max Martin, with songs that seem much the same as those on her debut, but far more coolly produced.",
+        "abstract": "Jon Pareles reviews album Lady Wood by singer-songwriter Tove Lo. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/arts/27ALBUMOFWEEK1/27ALBUMOFWEEK1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/arts/27ALBUMOFWEEK1/27ALBUMOFWEEK1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/arts/27ALBUMOFWEEK1/27ALBUMOFWEEK1-articleLarge.jpg",
+            "height": 445,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/arts/27ALBUMOFWEEK1/27ALBUMOFWEEK1-articleLarge.jpg",
+              "xlargeheight": "445"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/arts/27ALBUMOFWEEK1/27ALBUMOFWEEK1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/arts/27ALBUMOFWEEK1/27ALBUMOFWEEK1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tove Lo\u2019s \u2018Lady Wood\u2019: More Professional Than Passionate",
+          "content_kicker": "Album Review",
+          "kicker": "Album Review",
+          "print_headline": "Singing of Passion, but Turning Down the Heat"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Tove Lo (1987- )"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Martin, Max (1971- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Lady Wood (Album)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-10-26T22:20:03+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "PARELES"
+            }
+          ],
+          "original": "By JON PARELES"
+        },
+        "type_of_material": "Review",
+        "_id": "58112c1995d0e022439c56aa",
+        "word_count": "598",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-presidential-documents-auction-the-latest.html",
+        "snippet": "The Latest on a New York City auction featuring important presidential documents (all times local):...",
+        "lead_paragraph": "The Latest on a New York City auction featuring important presidential documents (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: 9/11 Clipping Signed by Presidents Nets $11,000",
+          "print_headline": "The Latest: 9/11 Clipping Signed by Presidents Nets $11,000"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:19:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58112c0095d0e022439c56a9",
+        "word_count": "282",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-villanova-student-bathroom-video.html",
+        "snippet": "Authorities say a Villanova University student used a cellphone camera to secretly video in public restrooms and a classroom on the school's Main Line Philadelphia campus....",
+        "lead_paragraph": "Authorities say a Villanova University student used a cellphone camera to secretly video in public restrooms and a classroom on the school's Main Line Philadelphia campus.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "D.A.: Villanova Student Secretly Filmed in Campus Bathrooms",
+          "print_headline": "D.A.: Villanova Student Secretly Filmed in Campus Bathrooms"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:19:26Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58112bf995d0e022439c56a8",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/arts/design/between-tijuana-and-san-diego-an-art-ethos-thrives.html",
+        "snippet": "This cross-border megalopolis is a hotbed for binational artists and works that explore the nature of boundaries and identity....",
+        "lead_paragraph": "This cross-border megalopolis is a hotbed for binational artists and works that explore the nature of boundaries and identity.",
+        "abstract": null,
+        "print_page": "38",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/arts/30BORDER1/30BORDER1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/arts/30BORDER1/30BORDER1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/arts/30BORDER1/30BORDER1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/arts/30BORDER1/30BORDER1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/arts/30BORDER1/30BORDER1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/arts/30BORDER1/30BORDER1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "No Walls Here: Between Tijuana and San Diego, an Art Ethos Thrives",
+          "print_headline": "The Walls Come Tumbling"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ramirez, Marcos (ERRE) (1961- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Taylor, David J (1965- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Museum of Contemporary Art San Diego"
+          }
+        ],
+        "pub_date": "2016-10-26T22:18:10+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Patricia",
+              "middlename": "Leigh",
+              "lastname": "BROWN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By PATRICIA LEIGH BROWN"
+        },
+        "type_of_material": "News",
+        "_id": "58112bae95d0e022439c56a7",
+        "word_count": "1177",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/world/africa/ap-af-nigeria-boko-haram.html",
+        "snippet": "Military officials say a truck carrying refugees to a newly liberated town exploded a land-mine in northeast Nigeria and wounded several people....",
+        "lead_paragraph": "Military officials say a truck carrying refugees to a newly liberated town exploded a land-mine in northeast Nigeria and wounded several people.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Truck of Refugees Hits Boko Haram Mine in Northeast Nigeria",
+          "print_headline": "Truck of Refugees Hits Boko Haram Mine in Northeast Nigeria"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:16:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58112b5795d0e022439c56a6",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/fashion/up-next-patrick-belaga-cellist-model.html",
+        "snippet": "The 25-year-old is a classically trained experimental cellist. He is also signed with Wilhelmina modeling agency....",
+        "lead_paragraph": "The 25-year-old is a classically trained experimental cellist. He is also signed with Wilhelmina modeling agency.",
+        "abstract": "Patrick Belaga, improvisational cellist who moonlighting as bartender while working on first solo album, discusses his latest projects and future plans.",
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/fashion/27UPNEXT/27UPNEXT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/fashion/27UPNEXT/27UPNEXT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/fashion/27UPNEXT/27UPNEXT-articleLarge.jpg",
+            "height": 744,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/fashion/27UPNEXT/27UPNEXT-articleLarge.jpg",
+              "xlargeheight": "744"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/fashion/27UPNEXT/27UPNEXT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/fashion/27UPNEXT/27UPNEXT-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Patrick Belaga Is a Cellist Who Moonlights as a Model",
+          "content_kicker": "Up Next",
+          "kicker": "Up Next",
+          "print_headline": "He Absolutely Refuses to Be Boxed In by the Cello"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Models (Professional)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Belaga, Patrick (1991- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-10-26T22:16:17+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alex",
+              "rank": 1,
+              "lastname": "HAWGOOD"
+            }
+          ],
+          "original": "By ALEX HAWGOOD"
+        },
+        "type_of_material": "News",
+        "_id": "58112b3795d0e022439c56a5",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/ap-us-sandusky-attorney-investigation.html",
+        "snippet": "An attorney who helped represent former Penn State assistant football coach Jerry Sandusky at his child sex abuse trial has been sentenced to 20 months in prison on federal tax evasion charges....",
+        "lead_paragraph": "An attorney who helped represent former Penn State assistant football coach Jerry Sandusky at his child sex abuse trial has been sentenced to 20 months in prison on federal tax evasion charges.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Sandusky Attorney to Serve 20 Months in Tax Evasion Case",
+          "print_headline": "Ex-Sandusky Attorney to Serve 20 Months in Tax Evasion Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:11:23Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58112a1395d0e022439c56a3",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/opinion/what-trump-tapes-reveal-fear-and-contempt.html",
+        "snippet": "Readers offer some compassion: \u201cHe is a lost little boy trying to get the attention and the acceptance he craves through any means.\u201d...",
+        "lead_paragraph": "Readers offer some compassion: \u201cHe is a lost little boy trying to get the attention and the acceptance he craves through any means.\u201d",
+        "abstract": null,
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/opinion/27LtrumpWeb/27LtrumpWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/opinion/27LtrumpWeb/27LtrumpWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/opinion/27LtrumpWeb/27LtrumpWeb-articleLarge.jpg",
+            "height": 387,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/opinion/27LtrumpWeb/27LtrumpWeb-articleLarge.jpg",
+              "xlargeheight": "387"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/opinion/27LtrumpWeb/27LtrumpWeb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/opinion/27LtrumpWeb/27LtrumpWeb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What Trump Tapes Reveal: Fear and Contempt",
+          "content_kicker": "Letters",
+          "kicker": "Letters",
+          "print_headline": "What Trump Tapes Reveal: Fear and Contempt"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-10-26T22:09:49+0000",
+        "document_type": "article",
+        "news_desk": "Letters",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Letter",
+        "_id": "581129b995d0e022439c56a2",
+        "word_count": "364",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/world/europe/26reuters-mideast-crisis-syria-un.html",
+        "snippet": "United Nations aid chief Stephen O'Brien told the Security Council on Wednesday that the \"buck stops with you\" when it comes to ending the nearly six year war in Syria and he is \"incandescent with rage\" that no action is being taken to do so....",
+        "lead_paragraph": "United Nations aid chief Stephen O'Brien told the Security Council on Wednesday that the \"buck stops with you\" when it comes to ending the nearly six year war in Syria and he is \"incandescent with rage\" that no action is being taken to do so.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.N. Aid Chief to Security Council on Syria: 'Buck Stops With You'",
+          "print_headline": "U.N. Aid Chief to Security Council on Syria: 'Buck Stops With You'"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T22:09:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581129a295d0e022439c56a1",
+        "word_count": "535",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/10/26/fashion/fall-trend-looking-slightly-off-gucci-effect.html",
+        "snippet": "Fashion\u2019s newest muse: your kooky art teacher. Think clashing patterns, exotic influences (a cheongsam!) sculptural earrings and oversize eyeglasses....",
+        "lead_paragraph": "Fashion\u2019s newest muse: your kooky art teacher. Think clashing patterns, exotic influences (a cheongsam!) sculptural earrings and oversize eyeglasses.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/fashion/27BROWSE-JACKET/27BROWSE-JACKET-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/fashion/27BROWSE-JACKET/27BROWSE-JACKET-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/fashion/27BROWSE-JACKET/27BROWSE-JACKET-articleLarge.jpg",
+            "height": 384,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/fashion/27BROWSE-JACKET/27BROWSE-JACKET-articleLarge.jpg",
+              "xlargeheight": "384"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/fashion/27BROWSE-JACKET/27BROWSE-JACKET-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/fashion/27BROWSE-JACKET/27BROWSE-JACKET-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What\u2019s In for Fall? Looking Slightly Off",
+          "kicker": "Browsing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Michele, Alessandro"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Creatures of Comfort"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Gucci"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Marni Group"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Marimekko"
+          }
+        ],
+        "pub_date": "2016-10-26T22:07:37+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Hayley",
+              "rank": 1,
+              "lastname": "PHELAN"
+            }
+          ],
+          "original": "By HAYLEY PHELAN"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5811292c95d0e022439c56a0",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

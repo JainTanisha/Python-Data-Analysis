@@ -1,0 +1,374 @@
+{
+  "response": {
+    "meta": {
+      "hits": 427,
+      "time": 34,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/ap-oky-fhk-field-hockey.html",
+        "snippet": "A three-minute momentum shift triggered one of the biggest Olympic wins in United States women's field hockey....",
+        "lead_paragraph": "A three-minute momentum shift triggered one of the biggest Olympic wins in United States women's field hockey.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "United States Beats No. 2 Argentina in Women's Field Hockey",
+          "print_headline": "United States Beats No. 2 Argentina in Women's Field Hockey"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:54:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa271c95d0e021d797f18c",
+        "word_count": "580",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/olympics/ap-oly-jud-judo-surprises.html",
+        "snippet": "It was a day of surprises on the first day of the judo competition at the Rio Games....",
+        "lead_paragraph": "It was a day of surprises on the first day of the judo competition at the Rio Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "On 1st Day of Judo at Rio Games, Argentina and Russia Win",
+          "print_headline": "On 1st Day of Judo at Rio Games, Argentina and Russia Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:52:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa268295d0e021d797f178",
+        "word_count": "548",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/06/us/06reuters-south-carolina-infection.html",
+        "snippet": "An 11-year-old South Carolina girl has died after she became infected by a brain-eating amoeba in a river where she had gone swimming, an undertaker said on Saturday....",
+        "lead_paragraph": "An 11-year-old South Carolina girl has died after she became infected by a brain-eating amoeba in a river where she had gone swimming, an undertaker said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "South Carolina Girl Dies From Brain-Eating Amoeba",
+          "print_headline": "South Carolina Girl Dies From Brain-Eating Amoeba"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:52:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa272695d0e021d797f18d",
+        "word_count": "216",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/sports/baseball/brewers-like-yankees-trade-with-eye-on-future.html",
+        "snippet": "Milwaukee, a fourth-place team, dealt Jeremy Jeffress, Will Smith and Jonathan Lucroy to restock their farm system....",
+        "lead_paragraph": "Milwaukee, a fourth-place team, dealt Jeremy Jeffress, Will Smith and Jonathan Lucroy to restock their farm system.",
+        "abstract": "Tyler Kepner Extra Bases column looks at strategy employed by Milwaukee Brewers, whose trades are building foundation for dominant team.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/sports/07BASES1/07BASES1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/sports/07BASES1/07BASES1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/sports/07BASES1/07BASES1-articleLarge.jpg",
+            "height": 422,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/sports/07BASES1/07BASES1-articleLarge.jpg",
+              "xlargeheight": "422"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/sports/07BASES1/07BASES1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/sports/07BASES1/07BASES1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brewers, Like Yankees, Trade With Eye on Future",
+          "content_kicker": "Extra Bases",
+          "kicker": "Extra Bases",
+          "print_headline": "Like Yankees, Brewers Trade With Eye on Future"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Trades (Sports)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Yankees"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Milwaukee Brewers"
+          }
+        ],
+        "pub_date": "2016-08-06T21:51:02+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tyler",
+              "rank": 1,
+              "lastname": "KEPNER"
+            }
+          ],
+          "original": "By TYLER KEPNER"
+        },
+        "type_of_material": "News",
+        "_id": "57aa270095d0e021d797f18a",
+        "word_count": "1365",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/us/ap-us-ancient-fire-pit-testing-range-.html",
+        "snippet": "An ancient tribal fire pit with tools, a spear tip and tobacco seeds that archaeologists say dates back 12,300 years was recently discovered on a military testing range in northern Utah....",
+        "lead_paragraph": "An ancient tribal fire pit with tools, a spear tip and tobacco seeds that archaeologists say dates back 12,300 years was recently discovered on a military testing range in northern Utah.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "12,300-Year-Old Fire Pit Found in Northern Utah",
+          "print_headline": "12,300-Year-Old Fire Pit Found in Northern Utah"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:42:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa25e695d0e021d797f160",
+        "word_count": "371",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/olympics/ap-oly-rowers-in-the-water.html",
+        "snippet": "There's a contradictory mission for rowers competing in this year's Summer Olympics. Get into your boat, work your hardest &#8212; but try to avoid the water....",
+        "lead_paragraph": "There's a contradictory mission for rowers competing in this year's Summer Olympics. Get into your boat, work your hardest &#8212; but try to avoid the water.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "In Rio's Olympic Water, It's All About Avoiding the Splash",
+          "print_headline": "In Rio's Olympic Water, It's All About Avoiding the Splash"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:35:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa261495d0e021d797f169",
+        "word_count": "753",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/olympics/ap-oly-wpo-water-polo.html",
+        "snippet": "Hungary is the home of 15 Olympic men's water polo medals, more than any other country. It owned the pool in Sydney, Athens and Beijing, winning three consecutive gold medals....",
+        "lead_paragraph": "Hungary is the home of 15 Olympic men's water polo medals, more than any other country. It owned the pool in Sydney, Athens and Beijing, winning three consecutive gold medals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Not Just Serbia in Men's Water Polo Tournament",
+          "print_headline": "Not Just Serbia in Men's Water Polo Tournament"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:32:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa263995d0e021d797f16e",
+        "word_count": "636",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/golf/ap-glf-us-womens-amateur.html",
+        "snippet": "South Korea's Eun Jeong Seong and Italy's Virginia Elena Carta set up the first all-international U.S. Women's Amateur final in 106 years Saturday &#8212; and guaranteed a rare season sweep....",
+        "lead_paragraph": "South Korea's Eun Jeong Seong and Italy's Virginia Elena Carta set up the first all-international U.S. Women's Amateur final in 106 years Saturday &#8212; and guaranteed a rare season sweep.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Seong, Carta Advance to US Women's Amateur Final",
+          "print_headline": "Seong, Carta Advance to US Women's Amateur Final"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:30:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa26de95d0e021d797f183",
+        "word_count": "175",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/06/sports/basketball/06reuters-olympics-rio-basketball-bogut.html",
+        "snippet": "Andrew Bogut's complaints over his Rio accommodation have received more attention than his troublesome knee but both seemed fine on Saturday as Australia opened the Rio Games men's basketball tournament with an 87-66 win over France....",
+        "lead_paragraph": "Andrew Bogut's complaints over his Rio accommodation have received more attention than his troublesome knee but both seemed fine on Saturday as Australia opened the Rio Games men's basketball tournament with an 87-66 win over France.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Basketball: Jovial Bogut Shines as Australia Beat France",
+          "print_headline": "Basketball: Jovial Bogut Shines as Australia Beat France"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:25:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa26ef95d0e021d797f186",
+        "word_count": "406",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/06/sports/olympics/06reuters-olympics-rio-swimming-w-100mfreerelay-ledecky.html",
+        "snippet": "Freestyle phenomenon Katie Ledecky made an impressive Rio debut  with the fastest leg for the U.S. women in their 4x100 relay heat on Saturday....",
+        "lead_paragraph": "Freestyle phenomenon Katie Ledecky made an impressive Rio debut  with the fastest leg for the U.S. women in their 4x100 relay heat on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Swimming: Ledecky Makes Rio Debut in Relay",
+          "print_headline": "Swimming: Ledecky Makes Rio Debut in Relay"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:24:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa26e295d0e021d797f185",
+        "word_count": "301",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

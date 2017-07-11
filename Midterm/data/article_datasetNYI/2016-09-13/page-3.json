@@ -1,0 +1,390 @@
+{
+  "response": {
+    "meta": {
+      "hits": 962,
+      "time": 106,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/world/americas/ap-lt-honduras-violence.html",
+        "snippet": "Honduras' judiciary says a small-town mayor has made an initial appearance before a judge in San Pedro Sula on murder and illicit association charges....",
+        "lead_paragraph": "Honduras' judiciary says a small-town mayor has made an initial appearance before a judge in San Pedro Sula on murder and illicit association charges.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Honduran Mayor Accused of Murders, Ties to Criminal Groups",
+          "print_headline": "Honduran Mayor Accused of Murders, Ties to Criminal Groups"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:41:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d881c695d0e021d79860e3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/13/fashion/off-the-runway-day-6.html",
+        "snippet": "Scenes from New York Fashion Week on Tuesday....",
+        "lead_paragraph": "Scenes from New York Fashion Week on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Off the Runway: Day 6"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Alice + Olivia (Fashion Label)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Vera Wang Bridal House Ltd"
+          }
+        ],
+        "pub_date": "2016-09-13T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "THE NEW YORK TIMES"
+        },
+        "type_of_material": "News",
+        "_id": "57d8815795d0e021d79860e2",
+        "word_count": "15",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-old-killings-arrests-the-latest.html",
+        "snippet": "The Latest on the arrests of two men in the slayings of two California girls in 1973 (all times local):...",
+        "lead_paragraph": "The Latest on the arrests of two men in the slayings of two California girls in 1973 (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: DNA Spurs Arrests California Slayings From 1973",
+          "print_headline": "The Latest: DNA Spurs Arrests California Slayings From 1973"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:36:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d8804795d0e021d79860e1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/13/fashion/off-the-runway-day-6-new-york-fashion-week.html",
+        "snippet": "Scenes from New York Fashion Week on Tuesday....",
+        "lead_paragraph": "Scenes from New York Fashion Week on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/13/fashion/20160913OFFTHERUNWAY-slide-7REZ/20160913OFFTHERUNWAY-slide-7REZ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/13/fashion/20160913OFFTHERUNWAY-slide-7REZ/20160913OFFTHERUNWAY-slide-7REZ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/13/fashion/20160913OFFTHERUNWAY-slide-7REZ/20160913OFFTHERUNWAY-slide-7REZ-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/13/fashion/20160913OFFTHERUNWAY-slide-7REZ/20160913OFFTHERUNWAY-slide-7REZ-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/13/fashion/20160913OFFTHERUNWAY-slide-7REZ/20160913OFFTHERUNWAY-slide-7REZ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/13/fashion/20160913OFFTHERUNWAY-slide-7REZ/20160913OFFTHERUNWAY-slide-7REZ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Off the Runway: Day 6"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Alice + Olivia (Fashion Label)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Vera Wang Bridal House Ltd"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Burch, Tory"
+          }
+        ],
+        "pub_date": "2016-09-13T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57d8802995d0e021d79860e0",
+        "word_count": "8",
+        "slideshow_credits": "Ben Sklar for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-kraftwerk-concert-solange.html",
+        "snippet": "A family outing tied to giving her 11-year-old son and his friend a history lesson on hip-hop turned into a disappointing experience for singer Solange Knowles when she says a group of white women demanded she sit during a concert and then threw a...",
+        "lead_paragraph": "A family outing tied to giving her 11-year-old son and his friend a history lesson on hip-hop turned into a disappointing experience for singer Solange Knowles when she says a group of white women demanded she sit during a concert and then threw a lime at her.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Solange Knowles Describes Negative Experience at Concert",
+          "print_headline": "Solange Knowles Describes Negative Experience at Concert"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:33:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87fbb95d0e021d79860df",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-oklahoma-executions.html",
+        "snippet": "Oklahoma, a state with one of the busiest death chambers in the country over the last three decades, will have at least a two-year delay in lethal injections after the governing board of its prison system declined to consider new execution procedu...",
+        "lead_paragraph": "Oklahoma, a state with one of the busiest death chambers in the country over the last three decades, will have at least a two-year delay in lethal injections after the governing board of its prison system declined to consider new execution procedures on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Oklahoma Still Mulling Execution Protocols, Ensuring Delays",
+          "print_headline": "Oklahoma Still Mulling Execution Protocols, Ensuring Delays"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:29:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87fab95d0e021d79860de",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-barricade-police-shooting.html",
+        "snippet": "Attorneys representing the family of a woman fatally shot by police following a standoff she posted on social media filed a wrongful death suit Tuesday....",
+        "lead_paragraph": "Attorneys representing the family of a woman fatally shot by police following a standoff she posted on social media filed a wrongful death suit Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Family of Woman Killed by Police in Maryland Files Lawsuit",
+          "print_headline": "Family of Woman Killed by Police in Maryland Files Lawsuit"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:27:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87fa595d0e021d79860dc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-hawaii-home-prices.html",
+        "snippet": "A new report shows Hawaii has the nation's highest average home prices as the cost of housing in the state has soared over the last year....",
+        "lead_paragraph": "A new report shows Hawaii has the nation's highest average home prices as the cost of housing in the state has soared over the last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: Hawaii Average Home Prices Highest in Nation",
+          "print_headline": "Report: Hawaii Average Home Prices Highest in Nation"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T16:09:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87fa595d0e021d79860dd",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/world/middleeast/ap-un-united-nations-secretary-general-interview-abridged.html",
+        "snippet": "U.N. Secretary-General Ban Ki-moon says he's disappointed by many world leaders who care more about retaining power than improving the lives of their people &#8212; and can't understand why Syria is being held hostage to \"the destiny\" of one man, ...",
+        "lead_paragraph": "U.N. Secretary-General Ban Ki-moon says he's disappointed by many world leaders who care more about retaining power than improving the lives of their people &#8212; and can't understand why Syria is being held hostage to \"the destiny\" of one man, President Bashar Assad.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "After a Decade, UN Chief Disappointed in Many World Leaders",
+          "print_headline": "After a Decade, UN Chief Disappointed in Many World Leaders"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:23:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87f9995d0e021d79860db",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/13/us/ap-us-officers-struck.html",
+        "snippet": "A driver plowed into two police officers outside a Phoenix gas station on Tuesday and proceeded to scuffle with a third policeman who managed to get out of the way in what the police chief denounced as a \"violent, intentional act.\"...",
+        "lead_paragraph": "A driver plowed into two police officers outside a Phoenix gas station on Tuesday and proceeded to scuffle with a third policeman who managed to get out of the way in what the police chief denounced as a \"violent, intentional act.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Arizona Driver Hits Officers, Faces Attempted Murder Charges",
+          "print_headline": "Arizona Driver Hits Officers, Faces Attempted Murder Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-13T22:20:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d87f9095d0e021d79860da",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

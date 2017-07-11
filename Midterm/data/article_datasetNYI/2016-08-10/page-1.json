@@ -1,0 +1,432 @@
+{
+  "response": {
+    "meta": {
+      "hits": 859,
+      "time": 53,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/10/world/americas/10reuters-canada-security.html",
+        "snippet": "Canadian police said on Wednesday they had identified an individual after they received \"credible information of a potential terrorist threat\" carried out by a lone suspect....",
+        "lead_paragraph": "Canadian police said on Wednesday they had identified an individual after they received \"credible information of a potential terrorist threat\" carried out by a lone suspect.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Canada Police Identify Lone Suspect in 'Credible' Threat",
+          "print_headline": "Canada Police Identify Lone Suspect in 'Credible' Threat"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:45:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57abcf0095d0e021d798004e",
+        "word_count": "319",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/10/sports/soccer/10reuters-soccer-australia-cahill.html",
+        "snippet": "Australia's record goal scorer Tim Cahill has signed for Melbourne City FC, a move that will see him play in the country's domestic A-League competition for the first time....",
+        "lead_paragraph": "Australia's record goal scorer Tim Cahill has signed for Melbourne City FC, a move that will see him play in the country's domestic A-League competition for the first time.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Australia's Record Goal Scorer Tim Cahill Joins Melbourne City",
+          "print_headline": "Australia's Record Goal Scorer Tim Cahill Joins Melbourne City"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:44:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57abcef795d0e021d798004d",
+        "word_count": "181",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/sports/olympics/100000004585036/why-are-olympians-cupping.html",
+        "snippet": "The ancient healing method of cupping is being used by several Olympians in Rio de Janeiro. The technique is intended to stimulate blood flow....",
+        "lead_paragraph": "The ancient healing method of cupping is being used by several Olympians in Rio de Janeiro. The technique is intended to stimulate blood flow.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/10/multimedia/11cupping/11cupping-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/10/multimedia/11cupping/11cupping-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/10/multimedia/11cupping/11cupping-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/10/multimedia/11cupping/11cupping-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/10/multimedia/11cupping/11cupping-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/10/multimedia/11cupping/11cupping-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Why Are Olympians Cupping?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Phelps, Michael"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Medicine and Health"
+          }
+        ],
+        "pub_date": "2016-08-10T23:43:32+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "Upadhye"
+            }
+          ],
+          "original": "By Neeti Upadhye"
+        },
+        "type_of_material": "Video",
+        "_id": "57abcf2495d0e021d7980052",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/10/sports/olympics/ap-oly-ath-track-coe.html",
+        "snippet": "It seems everywhere you turn in track and field right now there's bad news....",
+        "lead_paragraph": "It seems everywhere you turn in track and field right now there's bad news.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Coe Not Sure if Fans Will Pack Stadium for Olympic Track",
+          "print_headline": "Coe Not Sure if Fans Will Pack Stadium for Olympic Track"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:41:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57abceeb95d0e021d798004c",
+        "word_count": "593",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/elections/100000004585032/trump-calls-press-part-of-rigged-system.html",
+        "snippet": "Donald J. Trump also contended that newly released emails show Hillary Clinton engaging in illegal \u201cpay-to-play\u201d behavior....",
+        "lead_paragraph": "Donald J. Trump also contended that newly released emails show Hillary Clinton engaging in illegal \u201cpay-to-play\u201d behavior.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/10/multimedia/11campaign-trump/11campaign-trump-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/10/multimedia/11campaign-trump/11campaign-trump-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/10/multimedia/11campaign-trump/11campaign-trump-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/10/multimedia/11campaign-trump/11campaign-trump-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/10/multimedia/11campaign-trump/11campaign-trump-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/10/multimedia/11campaign-trump/11campaign-trump-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Calls Press Part of \u2018Rigged System\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Corruption (Institutional)"
+          }
+        ],
+        "pub_date": "2016-08-10T23:40:13Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "57abce4295d0e021d7980036",
+        "word_count": "17",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/10/sports/olympics/ap-oly-ath-coes-year-in-charge.html",
+        "snippet": "Entrusted with cleaning up a sport mired in sleaze and doping deceptions has proved far trickier for Sebastian Coe than the pursuit of gold on the track....",
+        "lead_paragraph": "Entrusted with cleaning up a sport mired in sleaze and doping deceptions has proved far trickier for Sebastian Coe than the pursuit of gold on the track.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Troubled Year in Power for Coe Confronting Critics, Russia",
+          "print_headline": "Troubled Year in Power for Coe Confronting Critics, Russia"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:34:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57abce3b95d0e021d7980034",
+        "word_count": "680",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/10/sports/olympics/ap-oly-bvl-sewing-for-gold.html",
+        "snippet": "The collaboration between April Ross and Kerri Walsh Jennings goes beyond the Copacabana beach volleyball venue, beyond the California beaches where they trained for the Olympics and beyond the far-flung airports and hotel rooms they visited to qu...",
+        "lead_paragraph": "The collaboration between April Ross and Kerri Walsh Jennings goes beyond the Copacabana beach volleyball venue, beyond the California beaches where they trained for the Olympics and beyond the far-flung airports and hotel rooms they visited to qualify for the Rio de Janeiro Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sponsors, Athletes Work Together on Beach Bikini Design",
+          "print_headline": "Sponsors, Athletes Work Together on Beach Bikini Design"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:32:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57abcf0195d0e021d798004f",
+        "word_count": "694",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/10/business/10reuters-samsung-elec-m-a-dacor.html",
+        "snippet": "South Korean tech giant Samsung Electronics Co Ltd said on Thursday it will acquire U.S.-based luxury appliances maker Dacor Inc, seeking to boost high-end product sales....",
+        "lead_paragraph": "South Korean tech giant Samsung Electronics Co Ltd said on Thursday it will acquire U.S.-based luxury appliances maker Dacor Inc, seeking to boost high-end product sales. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Samsung Electronics to Acquire U.S. Appliances Maker Dacor",
+          "print_headline": "Samsung Electronics Says to Acquire U.S. Appliances Maker Dacor"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:38:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57abce9a95d0e021d7980046",
+        "word_count": "112",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/10/sports/olympics/10reuters-olympics-rio-swimming-china-australia.html",
+        "snippet": "Thousands of vitriolic comments left on Australian swimmer Mack Horton's Instagram account have been deleted by the Australian Olympic Committee (AOC)....",
+        "lead_paragraph": "Thousands of vitriolic comments left on Australian swimmer Mack Horton's Instagram account have been deleted by the Australian Olympic Committee (AOC).",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Australia Deletes Thousands of Comments on Horton's Instagram",
+          "print_headline": "Australia Deletes Thousands of Comments on Horton's Instagram"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:35:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57abce2e95d0e021d7980032",
+        "word_count": "349",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/10/arts/ap-us-tv-macgyver.html",
+        "snippet": "One of the hallmarks of the 1980s series \"MacGyver,\" starring Richard Dean Anderson, is he avoided guns and relied on his wits to disarm or keep the bad guys at bay....",
+        "lead_paragraph": "One of the hallmarks of the 1980s series \"MacGyver,\" starring Richard Dean Anderson, is he avoided guns and relied on his wits to disarm or keep the bad guys at bay.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "2016 MacGyver Still Prefers Building Weapons to Using Guns",
+          "print_headline": "2016 MacGyver Still Prefers Building Weapons to Using Guns"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-10T23:31:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57abce7995d0e021d7980042",
+        "word_count": "151",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

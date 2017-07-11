@@ -1,0 +1,450 @@
+{
+  "response": {
+    "meta": {
+      "hits": 486,
+      "time": 51,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/09/sports/olympics/09reuters-athletics-olympics-usa.html",
+        "snippet": "Justin Gatlin won a 200 meters showdown with LaShawn Merritt and 41-year-old Bernard Lagat made his fifth Olympic team by winning the 5,000m at the U.S. athletics trials on Saturday....",
+        "lead_paragraph": "Justin Gatlin won a 200 meters showdown with LaShawn Merritt and 41-year-old Bernard Lagat made his fifth Olympic team by winning the 5,000m at the U.S. athletics trials on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Gatlin Wins 200 Meters Showdown With Merritt",
+          "print_headline": "Gatlin Wins 200 Meters Showdown With Merritt"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:48:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b83a38f0d876825ded90",
+        "word_count": "324",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/10/world/asia/china-ned-ngo-peter-dahlin.html",
+        "snippet": "The group that Peter Dahlin, a Swede, helped found is the type of organization that President Xi Jinping has said is undermining the Communist Party....",
+        "lead_paragraph": "The group that Peter Dahlin, a Swede, helped found is the type of organization that President Xi Jinping has said is undermining the Communist Party.",
+        "abstract": "Swedish citizen Peter Dahlin recounts being jailed and interrogated for 23 days by China's Ministry of State Security, spy and counterespionage agency; Dahlin and his Chinese Urgent Action Working Group are one of many foreign nonprofit organizations being targeted by Pres Xi Jinping for undermining Communist party rule; Dahlin--who maintains his group was working to develop independent judiciary--was accused of funding criminal activities harmful to national security and deported from China in January.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/10/world/10chinango1/10chinango1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/10/world/10chinango1/10chinango1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/10/world/10chinango1/10chinango1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/10/world/10chinango1/10chinango1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/10/world/10chinango1/10chinango1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/10/world/10chinango1/10chinango1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Inside China\u2019s Secret 23-Day Detention of a Foreign Nonprofit Chief",
+          "print_headline": "Inside China\u2019s Secret 23-Day Detention of a Foreign Nonprofit Chief"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Political Prisoners"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Dahlin, Peter"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Ministry of State Security of the People's Republic of China"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Endowment for Democracy"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          }
+        ],
+        "pub_date": "2016-07-09T22:48:35+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "contributor": "<em>Jonah Kessel contributed reporting.</em>",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Edward",
+              "rank": 1,
+              "lastname": "WONG"
+            }
+          ],
+          "original": "By EDWARD WONG"
+        },
+        "type_of_material": "News",
+        "_id": "57817f4438f0d876825ded5e",
+        "word_count": "1508",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/09/sports/ap-car-arca-iowa.html",
+        "snippet": "Chase Briscoe won the ARCA series race Saturday at Iowa Speedway for his second victory in a row....",
+        "lead_paragraph": "Chase Briscoe won the ARCA series race Saturday at Iowa Speedway for his second victory in a row.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Briscoe Wins ARCA Race in Iowa",
+          "print_headline": "Briscoe Wins ARCA Race in Iowa"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:43:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b6d138f0d876825ded8f",
+        "word_count": "94",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/09/sports/baseball/ap-bbn-nationals-mets.html",
+        "snippet": "Daniel Murphy is torching major league pitching and no one is burned more than his former New York Mets teammates....",
+        "lead_paragraph": "Daniel Murphy is torching major league pitching and no one is burned more than his former New York Mets teammates.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Murphy Wrecks Mets Again, Leads Scherzer, Nats to 6-1 Win",
+          "print_headline": "Murphy Wrecks Mets Again, Leads Scherzer, Nats to 6-1 Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:42:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b6d038f0d876825ded8e",
+        "word_count": "863",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/09/sports/olympics/ap-oly-ath-russian-doping.html",
+        "snippet": "The IAAF said Sunday that U.S.-based Russian long jumper Daria Klishina meets the \"exceptional eligibility criteria\" to take part in international competition as a neutral athlete, clearing the way for her to possibly compete at the Rio de Janeiro...",
+        "lead_paragraph": "The IAAF said Sunday that U.S.-based Russian long jumper Daria Klishina meets the \"exceptional eligibility criteria\" to take part in international competition as a neutral athlete, clearing the way for her to possibly compete at the Rio de Janeiro Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "IAAF Says Klishina Can Compete as Neutral Athlete",
+          "print_headline": "IAAF Says Klishina Can Compete as Neutral Athlete"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:32:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b40d38f0d876825ded8d",
+        "word_count": "468",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/09/sports/ap-car-nascar-kentucky-speedway-fire.html",
+        "snippet": "Firefighters have extinguished a fire that broke out in the parking lot behind the grandstand at Kentucky Speedway and sent thick, black smoke billowing into the sky....",
+        "lead_paragraph": "Firefighters have extinguished a fire that broke out in the parking lot behind the grandstand at Kentucky Speedway and sent thick, black smoke billowing into the sky.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Fire Breaks Out in Parking Lot at Kentucky NASCAR Race",
+          "print_headline": "Fire Breaks Out in Parking Lot at Kentucky NASCAR Race"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:29:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b35e38f0d876825ded8c",
+        "word_count": "121",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/09/world/asia/09reuters-japan-election-seats-factbox.html",
+        "snippet": "Japanese Prime Minister Shinzo Abe's Liberal Democratic Party (LDP), along with its junior coalition partner, the Komeito party, aim to win a combined majority of the 121 seats up for grabs in an upper house election on Sunday....",
+        "lead_paragraph": "Japanese Prime Minister Shinzo Abe's Liberal Democratic Party (LDP), along with its junior coalition partner, the Komeito party, aim to win a combined majority of the 121 seats up for grabs in an upper house election on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Factbox-Key Numbers to Watch in Japan July 10 Upper House Election",
+          "print_headline": "Factbox-Key Numbers to Watch in Japan July 10 Upper House Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:27:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b34f38f0d876825ded8b",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/09/arts/television/outlander-season-2-finale-recap.html",
+        "snippet": "Would you accept Claire\u2019s explanation about time travel and 18th-century Highlander love interests?...",
+        "lead_paragraph": "Would you accept Claire\u2019s explanation about time travel and 18th-century Highlander love interests?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/09/watching/09outlander/09outlander-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/09/watching/09outlander/09outlander-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/09/watching/09outlander/09outlander-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/09/watching/09outlander/09outlander-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/09/watching/09outlander/09outlander-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/09/watching/09outlander/09outlander-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Outlander\u2019 Season 2 Finale: I Believe You",
+          "content_kicker": "Outlander",
+          "kicker": "Outlander"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Outlander (TV Program)"
+          }
+        ],
+        "pub_date": "2016-07-09T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Angelica",
+              "middlename": "Jade",
+              "lastname": "BASTI\u00c9N",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANGELICA JADE BASTI\u00c9N"
+        },
+        "type_of_material": "Review",
+        "_id": "5781b32f38f0d876825ded8a",
+        "word_count": "1013",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/09/world/asia/09reuters-japan-election.html",
+        "snippet": "Prime Minister Shinzo Abe's ruling coalition looks to be headed for a comfortable victory in an election on Sunday for parliament's upper house, despite doubts about his economic policies and his goal of revising the pacifist constitution....",
+        "lead_paragraph": "Prime Minister Shinzo Abe's ruling coalition looks to be headed for a comfortable victory in an election on Sunday for parliament's upper house, despite doubts about his economic policies and his goal of revising the pacifist constitution.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan's Ruling Bloc Heads for Hefty Win in Vote, but Just How Big?",
+          "print_headline": "Japan's Ruling Bloc Heads for Hefty Win in Vote, but Just How Big?"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:20:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b13238f0d876825ded89",
+        "word_count": "630",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/09/world/asia/09reuters-japan-election-seats.html",
+        "snippet": "Japanese Prime Minister Shinzo Abe's Liberal Democratic Party (LDP), along with its junior coalition partner, the Komeito party, aim to win a combined majority of the 121 seats up for grabs in an upper house election on Sunday....",
+        "lead_paragraph": "Japanese Prime Minister Shinzo Abe's Liberal Democratic Party (LDP), along with its junior coalition partner, the Komeito party, aim to win a combined majority of the 121 seats up for grabs in an upper house election on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Key Numbers to Watch in Japan July 10 Upper House Election",
+          "print_headline": "Key Numbers to Watch in Japan July 10 Upper House Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-09T22:18:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5781b13138f0d876825ded88",
+        "word_count": "417",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

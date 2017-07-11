@@ -1,0 +1,366 @@
+{
+  "response": {
+    "meta": {
+      "hits": 979,
+      "time": 36,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/world/asia/ap-as-obama-congress.html",
+        "snippet": "President Barack Obama has invited the four congressional leaders to meet with him next week, the White House said Friday....",
+        "lead_paragraph": "President Barack Obama has invited the four congressional leaders to meet with him next week, the White House said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Obama Invites Congressional Leaders to White House",
+          "print_headline": "Obama Invites Congressional Leaders to White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:22:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1f40495d0e021d79852f3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/upshot/new-hampshire-election-forecast.html",
+        "snippet": "Forecast for New Hampshire's 4 electoral votes in the presidential election and for its Senate seat....",
+        "lead_paragraph": "Forecast for New Hampshire's 4 electoral votes in the <a href='#president'>presidential election</a> and for its <a href='#senate'>Senate</a> seat.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/08/upshot/state-forecast-promo/state-forecast-promo-thumbWide-v2.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/08/upshot/state-forecast-promo/state-forecast-promo-thumbWide-v2.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/08/upshot/state-forecast-promo/state-forecast-promo-articleLarge-v2.png",
+            "height": 435,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/08/upshot/state-forecast-promo/state-forecast-promo-articleLarge-v2.png",
+              "xlargeheight": "435"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/08/upshot/state-forecast-promo/state-forecast-promo-thumbStandard-v2.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/08/upshot/state-forecast-promo/state-forecast-promo-thumbStandard-v2.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "New Hampshire - 2016 Election Forecast"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New Hampshire"
+          }
+        ],
+        "pub_date": "2016-09-08T23:22:21+0000",
+        "document_type": "multimedia",
+        "news_desk": "The Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gregor",
+              "rank": 1,
+              "lastname": "AISCH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Josh",
+              "rank": 2,
+              "lastname": "KATZ"
+            }
+          ],
+          "original": "By GREGOR AISCH and JOSH KATZ"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57d1f2b195d0e021d79852f1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/world/asia/ap-as-australia-opera-house.html",
+        "snippet": "An 18-year-old man arrested outside the Sydney Opera House has been charged by counterterrorism investigators with threatening to destroy property, police said on Friday....",
+        "lead_paragraph": "An 18-year-old man arrested outside the Sydney Opera House has been charged by counterterrorism investigators with threatening to destroy property, police said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Charged at Sydney Opera House With Threatening Property",
+          "print_headline": "Man Charged at Sydney Opera House With Threatening Property"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:18:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1f28f95d0e021d79852f0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/us/ap-us-coral-bleaching-the-latest.html",
+        "snippet": "The Latest on the state of Hawaii's plan to address coral bleaching (all times local):...",
+        "lead_paragraph": "The Latest on the state of Hawaii's plan to address coral bleaching (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Fishermen Aim to Work With Hawaii on Coral Plan",
+          "print_headline": "The Latest: Fishermen Aim to Work With Hawaii on Coral Plan"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:13:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1f13d95d0e021d79852ee",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/us/ap-us-police-chief-death-the-latest.html",
+        "snippet": "The Latest on shooting death of Mississippi police chief (all times local):...",
+        "lead_paragraph": "The Latest on shooting death of Mississippi police chief (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Mayor: Chief Suspended Just Prior to Shooting",
+          "print_headline": "The Latest: Mayor: Chief Suspended Just Prior to Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:11:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1f13595d0e021d79852ed",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/us/ap-us-mississippi-police-shooting.html",
+        "snippet": "A lawyer said Thursday that a former Mississippi police officer who is white has been indicted in the October 2015 shooting death of a black man....",
+        "lead_paragraph": "A lawyer said Thursday that a former Mississippi police officer who is white has been indicted in the October 2015 shooting death of a black man.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lawyer: Former Mississippi Officer Indicted in 2015 Shooting",
+          "print_headline": "Lawyer: Former Mississippi Officer Indicted in 2015 Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:11:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1f13595d0e021d79852ec",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/sports/tennis/08reuters-tennis-fame.html",
+        "snippet": "Former world number one players Kim Clijsters and Andy Roddick headlined the list of nominees up for induction into the International Tennis Hall of Fame....",
+        "lead_paragraph": "Former world number one players Kim Clijsters and Andy Roddick headlined the list of nominees up for induction into the International Tennis Hall of Fame.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Clijsters, Roddick Headline Hall of Fame Nominations",
+          "print_headline": "Clijsters, Roddick Headline Hall of Fame Nominations"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:14:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1f11a95d0e021d79852eb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/business/08reuters-britain-eu-investment.html",
+        "snippet": "British firms are likely to cut investment during the rest of this year and in 2017 due to the Brexit vote, and the government must show quickly how it will move forward with leaving the European Union, a professional body for accountants said....",
+        "lead_paragraph": "British firms are likely to cut investment during the rest of this year and in 2017 due to the Brexit vote, and the government must show quickly how it will move forward with leaving the European Union, a professional body for accountants said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Firms to Lower Investment After Brexit-Accountancy Body",
+          "print_headline": "UK Firms to Lower Investment After Brexit-Accountancy Body"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:04:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1eeff95d0e021d79852ea",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/sports/tennis/ap-ten-usta-miami-open.html",
+        "snippet": "A U.S. Tennis Association official says it is \"within the realm of possibility\" that the joint ATP-WTA tournament in Key Biscayne could move at some point in the future to the new USTA National Campus in Florida....",
+        "lead_paragraph": "A U.S. Tennis Association official says it is \"within the realm of possibility\" that the joint ATP-WTA tournament in Key Biscayne could move at some point in the future to the new USTA National Campus in Florida.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "USTA: Miami Open Move to Orlando Campus Possible in Future",
+          "print_headline": "USTA: Miami Open Move to Orlando Campus Possible in Future"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:00:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ee9995d0e021d79852e9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/sports/football/ap-fbn-jets-catapano-sept-11.html",
+        "snippet": "Mike Catapano was sitting in his sixth-grade music class when panic suddenly filled the room....",
+        "lead_paragraph": "Mike Catapano was sitting in his sixth-grade music class when panic suddenly filled the room.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jets' Catapano, a New Yorker, Vividly Recalls 9/11 Attacks",
+          "print_headline": "Jets' Catapano, a New Yorker, Vividly Recalls 9/11 Attacks"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:01:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ee8195d0e021d79852e8",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

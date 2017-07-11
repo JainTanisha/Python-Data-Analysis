@@ -1,0 +1,438 @@
+{
+  "response": {
+    "meta": {
+      "hits": 856,
+      "time": 52,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004609741/trump-calls-china-currency-manipulator.html",
+        "snippet": "Donald J. Trump accused China of devaluing its currency to take advantage of the United States, saying its conduct breaks the World Trade Organization\u2019s rules....",
+        "lead_paragraph": "Donald J. Trump accused China of devaluing its currency to take advantage of the United States, saying its conduct breaks the World Trade Organization\u2019s rules.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/25/us/25TRUMPtampastill/25TRUMPtampastill-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/25/us/25TRUMPtampastill/25TRUMPtampastill-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/25/us/25TRUMPtampastill/25TRUMPtampastill-articleLarge.jpg",
+            "height": 408,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/25/us/25TRUMPtampastill/25TRUMPtampastill-articleLarge.jpg",
+              "xlargeheight": "408"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/25/us/25TRUMPtampastill/25TRUMPtampastill-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/25/us/25TRUMPtampastill/25TRUMPtampastill-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Calls China \u2018Currency Manipulator\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Trade and World Market"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "World Trade Organization"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Currency"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          }
+        ],
+        "pub_date": "2016-08-24T22:54:53Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57be400495d0e021d7982773",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/ap-us-sheriff-sex-assault-the-latest.html",
+        "snippet": "The Latest on a rural Colorado sheriff accused of sexually assaulting a developmentally delayed inmate (all times local):...",
+        "lead_paragraph": "The Latest on a rural Colorado sheriff accused of sexually assaulting a developmentally delayed inmate (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Colorado Sheriff Accused of Inmate Sex Assault",
+          "print_headline": "The Latest: Colorado Sheriff Accused of Inmate Sex Assault"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:52:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be401895d0e021d7982774",
+        "word_count": "288",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/sports/golf/ap-glf-lpga-tour.html",
+        "snippet": "Brooke Henderson is the face of Canadian golf. Lydia Ko is a big hit, too &#8212; and every bit as comfortable....",
+        "lead_paragraph": "Brooke Henderson is the face of Canadian golf. Lydia Ko is a big hit, too &#8212; and every bit as comfortable.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ko, Henderson Set for Canadian Pacific Women's Open",
+          "print_headline": "Ko, Henderson Set for Canadian Pacific Women's Open"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:49:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be412795d0e021d7982785",
+        "word_count": "706",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/ap-us-simone-biles-texas.html",
+        "snippet": "Fans waved American flags and cheered as Olympic gold medalist Simone Biles arrived home in Texas following the games in Rio de Janeiro....",
+        "lead_paragraph": "Fans waved American flags and cheered as Olympic gold medalist Simone Biles arrived home in Texas following the games in Rio de Janeiro.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Olympic Gold Medalist Simone Biles Welcomed Home to Texas",
+          "print_headline": "Olympic Gold Medalist Simone Biles Welcomed Home to Texas"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:31:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be407795d0e021d798277b",
+        "word_count": "126",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/24/fashion/The-Great-Fashion-Mash-Ups-of-2016.html",
+        "snippet": "We\u2019re living in a post-normcore world. Here\u2019s what it looks like....",
+        "lead_paragraph": "We\u2019re living in a post-normcore world. Here\u2019s what it looks like.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/25/fashion/25BROWSE-maincombo/25BROWSE-maincombo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/25/fashion/25BROWSE-maincombo/25BROWSE-maincombo-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/25/fashion/25BROWSE-maincombo/25BROWSE-maincombo-articleLarge.jpg",
+            "height": 181,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/25/fashion/25BROWSE-maincombo/25BROWSE-maincombo-articleLarge.jpg",
+              "xlargeheight": "181"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/25/fashion/25BROWSE-maincombo/25BROWSE-maincombo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/25/fashion/25BROWSE-maincombo/25BROWSE-maincombo-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Great Fashion Mash-Ups of 2016",
+          "kicker": "Browsing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          }
+        ],
+        "pub_date": "2016-08-24T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 1
+            }
+          ],
+          "original": "By ERICA M. BLUMENTHAL"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57be406795d0e021d7982777",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/politics/ap-us-campaign-2016-bill-clinton.html",
+        "snippet": "Former President Bill Clinton said Wednesday that he's proud of people who have donated to the Clinton Foundation and the work the organization has done, as he waded into a dispute that Republicans are hoping will damage his wife's presidential ca...",
+        "lead_paragraph": "Former President Bill Clinton said Wednesday that he's proud of people who have donated to the Clinton Foundation and the work the organization has done, as he waded into a dispute that Republicans are hoping will damage his wife's presidential campaign.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bill Clinton Defends Embattled Family Foundation",
+          "print_headline": "Bill Clinton Defends Embattled Family Foundation"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:41:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be3fb595d0e021d798276d",
+        "word_count": "424",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/sports/baseball/ap-bbn-mets-cespedes-contract.html",
+        "snippet": "Yoenis Cespedes says he has no plans to exercise an opt-out clause in his contract with the New York Mets....",
+        "lead_paragraph": "Yoenis Cespedes says he has no plans to exercise an opt-out clause in his contract with the New York Mets.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cespedes to Honor Deal With Mets Despite Opt-Out Clause",
+          "print_headline": "Cespedes to Honor Deal With Mets Despite Opt-Out Clause"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:39:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be404795d0e021d7982776",
+        "word_count": "155",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/health/ap-eu-med-syria-health.html",
+        "snippet": "The ongoing violence in Syria has taken years off of people's life expectancy, according to a new analysis published in the journal Lancet on Wednesday....",
+        "lead_paragraph": "The ongoing violence in Syria has taken years off of people's life expectancy, according to a new analysis published in the journal Lancet on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Violence Has Taken Years Off of Life Expectancy in Syria",
+          "print_headline": "Violence Has Taken Years Off of Life Expectancy in Syria"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:31:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be3f3e95d0e021d798276b",
+        "word_count": "242",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/ap-us-girl-with-uzi-lawsuit.html",
+        "snippet": "The family of an Arizona shooting range instructor who was accidentally killed by a 9-year-old girl with an Uzi has sued the business, alleging it should not have allowed a child to use the high-powered weapon....",
+        "lead_paragraph": "The family of an Arizona shooting range instructor who was accidentally killed by a 9-year-old girl with an Uzi has sued the business, alleging it should not have allowed a child to use the high-powered weapon.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Family of Gun Instructor Killed by Girl With Uzi Sues Range",
+          "print_headline": "Family of Gun Instructor Killed by Girl With Uzi Sues Range"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:23:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be3fd595d0e021d7982771",
+        "word_count": "350",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/24/world/europe/24reuters-california-climate-law.html",
+        "snippet": "California lawmakers voted to extend the state's climate change fighting efforts out to 2030 on Wednesday, giving a new lease on life to the most ambitious greenhouse gas reduction program in the country....",
+        "lead_paragraph": "California lawmakers voted to extend the state's climate change fighting efforts out to 2030 on Wednesday, giving a new lease on life to the most ambitious greenhouse gas reduction program in the country.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Legislature Passes Climate Change Bills",
+          "print_headline": "California Legislature Passes Climate Change Bills"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T22:32:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57be3fd395d0e021d7982770",
+        "word_count": "403",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

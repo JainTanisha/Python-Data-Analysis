@@ -1,0 +1,562 @@
+{
+  "response": {
+    "meta": {
+      "hits": 622,
+      "time": 42,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/us/ap-us-christmas-lights-shooting.html",
+        "snippet": "Police in Philadelphia say three men hanging Christmas lights were shot after getting into an argument with a passing motorist....",
+        "lead_paragraph": "Police in Philadelphia say three men hanging Christmas lights were shot after getting into an argument with a passing motorist.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "3 Shot While Hanging Christmas Lights Amid Fight With Driver",
+          "print_headline": "3 Shot While Hanging Christmas Lights Amid Fight With Driver"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:09:33+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5837652895d0e03926072612",
+        "word_count": "99",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/arts/music/al-caiola-guitarist-who-played-hit-tv-themes-dies-at-96.html",
+        "snippet": "He played with Buddy Holly, Frank Sinatra and others and reached the top of the charts with themes from \u201cThe Magnificent Seven\u201d and \u201cBonanza.\u201d...",
+        "lead_paragraph": "He played with Buddy Holly, Frank Sinatra and others and reached the top of the charts with themes from \u201cThe Magnificent Seven\u201d and \u201cBonanza.\u201d",
+        "abstract": null,
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/24/arts/24caiola-obit-1/24caiola-obit-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/24/arts/24caiola-obit-1/24caiola-obit-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/24/arts/24caiola-obit-1/24caiola-obit-1-articleLarge.jpg",
+            "height": 719,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/24/arts/24caiola-obit-1/24caiola-obit-1-articleLarge.jpg",
+              "xlargeheight": "719"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/24/arts/24caiola-obit-1/24caiola-obit-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/24/arts/24caiola-obit-1/24caiola-obit-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Al Caiola, Guitarist With Top 40 Instrumental Hits, Dies at 96",
+          "print_headline": "Al Caiola, 96, Guitarist With Range"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Caiola, Al (1920-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-24T22:06:02+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "ROBERTS"
+            }
+          ],
+          "original": "By SAM ROBERTS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5837645295d0e03926072611",
+        "word_count": "528",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/arts/music/holiday-music-albums.html",
+        "snippet": "Loretta Lynn, Pentatonix and others have released recordings. Some are debuts, some are the second time around....",
+        "lead_paragraph": "Loretta Lynn, Pentatonix and others have released recordings. Some are debuts, some are the second time around.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25HOLIDAY1/25HOLIDAY1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25HOLIDAY1/25HOLIDAY1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25HOLIDAY1/25HOLIDAY1-articleLarge.jpg",
+            "height": 420,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25HOLIDAY1/25HOLIDAY1-articleLarge.jpg",
+              "xlargeheight": "420"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25HOLIDAY1/25HOLIDAY1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25HOLIDAY1/25HOLIDAY1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Are You Listenin\u2019? New Holiday Albums From Sarah McLachlan and Others",
+          "print_headline": "Are You Listenin\u2019?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Christmas"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Compact Discs"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-24T22:04:15+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nate",
+              "rank": 1,
+              "lastname": "CHINEN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 2,
+              "lastname": "PARELES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 3,
+              "lastname": "CARAMANICA"
+            }
+          ],
+          "original": "By NATE CHINEN, JON PARELES and JON CARAMANICA"
+        },
+        "type_of_material": "News",
+        "_id": "583763e495d0e03926072610",
+        "word_count": "1444",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/sports/ncaabasketball/ap-bkc-t25-iowa-st-indiana-st.html",
+        "snippet": "No. 21 Iowa State kept firing away until some of its shots finally began to drop....",
+        "lead_paragraph": "No. 21 Iowa State kept firing away until some of its shots finally began to drop.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Morris Scores 20, No. 21 Iowa State Tops Indiana State 73-71",
+          "print_headline": "Morris Scores 20, No. 21 Iowa State Tops Indiana State 73-71"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:03:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583763c895d0e0392607260f",
+        "word_count": "625",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/world/middleeast/ap-ml-egypt-sinai-attacl.html",
+        "snippet": "Egypt's military spokesman says Islamic militants have exploded a suicide car bomb at a checkpoint in northern Sinai and clashed with troops, leaving eight dead....",
+        "lead_paragraph": "Egypt's military spokesman says Islamic militants have exploded a suicide car bomb at a checkpoint in northern Sinai and clashed with troops, leaving eight dead.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "8 Soldiers Killed in Suicide Car Bombing in Egypt's Sinai",
+          "print_headline": "8 Soldiers Killed in Suicide Car Bombing in Egypt's Sinai"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:00:38+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5837631695d0e0392607260e",
+        "word_count": "123",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/sports/ncaabasketball/ap-bkc-t25-louisville-wichita-state.html",
+        "snippet": "Louisville added a late-night wrinkle to its defense, ran out to a big lead and hung on to earn a trip to the Battle 4 Atlantis championship game....",
+        "lead_paragraph": "Louisville added a late-night wrinkle to its defense, ran out to a big lead and hung on to earn a trip to the Battle 4 Atlantis championship game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 10 Louisville Beats Wichita State 62-52 in Bahamas",
+          "print_headline": "No. 10 Louisville Beats Wichita State 62-52 in Bahamas"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T21:57:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5837625c95d0e0392607260d",
+        "word_count": "697",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/arts/music/pop-music-gifts-all-bundled-up.html",
+        "snippet": "Special sets include David Bowie, the Grateful Dead, Lou Reed, Fleetwood Mac, hip-hop, bebop, Miles Davis \u2014 even archival gospel....",
+        "lead_paragraph": "Special sets include David Bowie, the Grateful Dead, Lou Reed, Fleetwood Mac, hip-hop, bebop, Miles Davis \u2014 even archival gospel.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25GIFTPOP1/25GIFTPOP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25GIFTPOP1/25GIFTPOP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25GIFTPOP1/25GIFTPOP1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25GIFTPOP1/25GIFTPOP1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25GIFTPOP1/25GIFTPOP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25GIFTPOP1/25GIFTPOP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pop Music Gifts, All Bundled Up",
+          "print_headline": "From \u2018The Last Waltz\u2019 to the Evolution of Rap, CDs That Bookend Pop Music\u2019s Past and Future"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rap and Hip-Hop"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blues Music"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jazz"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Christmas"
+          }
+        ],
+        "pub_date": "2016-11-24T21:56:09+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "PARELES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 2,
+              "lastname": "CARAMANICA"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nate",
+              "rank": 3,
+              "lastname": "CHINEN"
+            }
+          ],
+          "original": "By JON PARELES, JON CARAMANICA and NATE CHINEN"
+        },
+        "type_of_material": "News",
+        "_id": "583761fe95d0e0392607260c",
+        "word_count": "2662",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/us/ap-us-oil-pipeline-protest-the-latest.html",
+        "snippet": "The Latest on protests taking place Thanksgiving Day against the Dakota Access pipeline(all times local):...",
+        "lead_paragraph": "The Latest on protests taking place Thanksgiving Day against the Dakota Access pipeline(all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Anti-Pipeline Rally Draws Hundreds in Oregon",
+          "print_headline": "The Latest: Anti-Pipeline Rally Draws Hundreds in Oregon"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T21:42:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58375ece95d0e0392607260a",
+        "word_count": "414",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/sports/olympics/24reuters-olympics-losangeles-trump.html",
+        "snippet": "U.S. Republican President-elect Donald Trump told the Los Angeles' mayor he would support the city's 2024 Olympics bid when the two spoke this week, NBC reported on Thursday, citing the mayor's spokeswoman....",
+        "lead_paragraph": "U.S. Republican President-elect Donald Trump told the Los Angeles' mayor he would support the city's 2024 Olympics bid when the two spoke this week, NBC reported on Thursday, citing the mayor's spokeswoman.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Mayor Says Trump Backs Los Angeles' 2024 Olympic Bid: NBC",
+          "print_headline": "Mayor Says Trump Backs Los Angeles' 2024 Olympic Bid: NBC"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T21:42:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58375ed195d0e0392607260b",
+        "word_count": "311",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/sports/soccer/24reuters-soccer-england-sou-eve-past-games.html",
+        "snippet": "Here are five standout clashes between Southampton and Everton:...",
+        "lead_paragraph": "Here are five standout clashes between Southampton and Everton:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Memorable Matches Between Southampton and Everton",
+          "print_headline": "Memorable Matches Between Southampton and Everton"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T21:42:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58375eca95d0e03926072609",
+        "word_count": "619",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

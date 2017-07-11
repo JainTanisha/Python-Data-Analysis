@@ -1,0 +1,449 @@
+{
+  "response": {
+    "meta": {
+      "hits": 425,
+      "time": 36,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/28/sports/baseball/gary-sanchez-homers-again-as-yankees-gain-in-wild-card-race.html",
+        "snippet": "Sanchez, a rookie catcher, has had one of the best months in baseball history, homering for the 11th time since being called up at the beginning of August....",
+        "lead_paragraph": "Sanchez, a rookie catcher, has had one of the best months in baseball history, homering for the 11th time since being called up at the beginning of August.",
+        "abstract": "New York Yankees beat Baltimore Orioles, 13-5.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/28/sports/28yankees-web1/28yankees-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/28/sports/28yankees-web1/28yankees-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/28/sports/28yankees-web1/28yankees-web1-articleLarge.jpg",
+            "height": 483,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/28/sports/28yankees-web1/28yankees-web1-articleLarge.jpg",
+              "xlargeheight": "483"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/28/sports/28yankees-web1/28yankees-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/28/sports/28yankees-web1/28yankees-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gary Sanchez Homers Again as Yankees Gain in Wild-Card Race",
+          "content_kicker": "Yankees 13, Orioles 5",
+          "kicker": "Yankees 13, Orioles 5",
+          "print_headline": "Sanchez Adds to Streak,  Buoying Yankees\u2019 Hopes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Yankees"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Baltimore Orioles"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanchez, Gary (1992- )"
+          }
+        ],
+        "pub_date": "2016-08-27T21:18:08+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "VORKUNOV"
+            }
+          ],
+          "original": "By MIKE VORKUNOV"
+        },
+        "type_of_material": "News",
+        "_id": "57c2039595d0e021d7982fca",
+        "word_count": "920",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/27/sports/tennis/ap-ten-raonic-mcenroe.html",
+        "snippet": "John McEnroe says he won't work with Milos Raonic during the U.S. Open \"for Milos' sake, for ESPN and my sake.\"...",
+        "lead_paragraph": "John McEnroe says he won't work with Milos Raonic during the U.S. Open \"for Milos' sake, for ESPN and my sake.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "McEnroe Says He Won't Work With Raonic During US Open",
+          "print_headline": "McEnroe Says He Won't Work With Raonic During US Open"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T21:13:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c2031d95d0e021d7982fc8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/27/sports/ap-car-nascar-michigan.html",
+        "snippet": "With time running out on his bid to make the Chase for the Sprint Cup, Greg Biffle is back at the site of his most recent victory....",
+        "lead_paragraph": "With time running out on his bid to make the Chase for the Sprint Cup, Greg Biffle is back at the site of his most recent victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Time Running Low for Winless Drivers as Chase Draws Near",
+          "print_headline": "Time Running Low for Winless Drivers as Chase Draws Near"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T21:12:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c2031e95d0e021d7982fc9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/27/sports/tennis/ap-ten-winston-salem.html",
+        "snippet": "Spain's Pablo Carreno Busta won his first ATP World Tour title Saturday, beating countryman Roberto Bautista Agut in 6-7 (8), 7-6 (7), 6-4 in the Winston-Salem Open....",
+        "lead_paragraph": "Spain's Pablo Carreno Busta won his first ATP World Tour title Saturday, beating countryman Roberto Bautista Agut in 6-7 (8), 7-6 (7), 6-4 in the Winston-Salem Open.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Busta Beats Agut in Winston-Salem Open for First Tour Title",
+          "print_headline": "Busta Beats Agut in Winston-Salem Open for First Tour Title"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T21:06:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c201a395d0e021d7982fc7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/27/us/ap-us-amoeba-related-death.html",
+        "snippet": "State and local elected officials have expressed concerns that the U.S. National Whitewater Center has reopened its channels less than two months after a rafter died from a brain-eating amoeba and with no new regulations in place....",
+        "lead_paragraph": "State and local elected officials have expressed concerns that the U.S. National Whitewater Center has reopened its channels less than two months after a rafter died from a brain-eating amoeba and with no new regulations in place.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Officials Concerned Over Whitewater Center Reopening",
+          "print_headline": "Officials Concerned Over Whitewater Center Reopening"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T21:00:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c2002c95d0e021d7982fc5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/27/world/americas/27reuters-paraguay-attacks.html",
+        "snippet": "An ambush in the north of Paraguay killed eight soldiers,  authorities said on Saturday, adding that the attack bore the hallmarks of the guerrilla group known as the Paraguayan People's Army....",
+        "lead_paragraph": "An ambush in the north of Paraguay killed eight soldiers,  authorities said on Saturday, adding that the attack bore the hallmarks of the guerrilla group known as the Paraguayan People's Army.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Paraguay Says Eight Troops Killed in Ambush",
+          "print_headline": "Paraguay Says Eight Troops Killed in Ambush"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T20:59:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c1ff7a95d0e021d7982fc4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/27/us/27reuters-usa-election-trump.html",
+        "snippet": "U.S. Republican presidential candidate Donald Trump offered fresh details of how he would tackle illegal immigration on Saturday, saying he would crack down on those who overstay their visas as he sought to quiet criticism from conservatives....",
+        "lead_paragraph": "U.S. Republican presidential candidate Donald Trump offered fresh details of how he would tackle illegal immigration on Saturday, saying he would crack down on those who overstay their visas as he sought to quiet criticism from conservatives.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Vows Crackdown on Immigrants Who Overstay Visas if Elected",
+          "print_headline": "Trump Vows Crackdown on Immigrants Who Overstay Visas if Elected"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T20:58:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c1ff7395d0e021d7982fc3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/28/sports/ncaafootball/no-longer-a-coach-steve-spurrier-assumes-new-roles.html",
+        "snippet": "Spurrier left his job as coach of South Carolina because of the stress level. He now is a consultant for Florida and he has written a memoir....",
+        "lead_paragraph": "Spurrier left his job as coach of South Carolina because of the stress level. He now is a consultant for Florida and he has written a memoir.",
+        "abstract": "Interview with acclaimed football coach Steve Spurrier discusses his long career in college and NFL, his mid-season resignation as South Carolina's coach in 2015 and his new memoir Head Ball Coach.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/28/sports/28SPURRIER/28SPURRIER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/28/sports/28SPURRIER/28SPURRIER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/28/sports/28SPURRIER/28SPURRIER-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/28/sports/28SPURRIER/28SPURRIER-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/28/sports/28SPURRIER/28SPURRIER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/28/sports/28SPURRIER/28SPURRIER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "No Longer a Coach, Steve Spurrier Assumes New Roles",
+          "print_headline": "No Longer a Coach, Spurrier Assumes New Roles"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Spurrier, Steve"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football (College)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coaches and Managers"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "University of South Carolina"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-08-27T20:54:55+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Marc",
+              "rank": 1,
+              "lastname": "TRACY"
+            }
+          ],
+          "original": "By MARC TRACY"
+        },
+        "type_of_material": "Question",
+        "_id": "57c1fe2a95d0e021d7982fc2",
+        "word_count": "812",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/27/us/ap-us-rare-blue-whales-spotted.html",
+        "snippet": "A rare sighting of two blue whales has been made in New England....",
+        "lead_paragraph": "A rare sighting of two blue whales has been made in New England.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Rare Blue Whales Spotted Off New Hampshire Coast",
+          "print_headline": "2 Rare Blue Whales Spotted Off New Hampshire Coast"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T20:50:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c1fe1095d0e021d7982fc1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/27/sports/autoracing/27reuters-motor-f1-belgium-renault.html",
+        "snippet": "Renault are eying their second points-scoring finish of the campaign at the Belgian Formula One Grand Prix after the team claimed their best result of the year in qualifying on Saturday....",
+        "lead_paragraph": "Renault are eying their second points-scoring finish of the campaign at the Belgian Formula One Grand Prix after the team claimed their best result of the year in qualifying on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Best Qualifying Session of Year Gives Renault Hope",
+          "print_headline": "Best Qualifying Session of Year Gives Renault Hope"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-27T20:52:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c1fe0c95d0e021d7982fc0",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

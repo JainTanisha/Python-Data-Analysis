@@ -1,0 +1,381 @@
+{
+  "response": {
+    "meta": {
+      "hits": 973,
+      "time": 57,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-rr-donnelley-m-a-xerox.html",
+        "snippet": "Xerox Corp privately rejected a bid to merge its document business with financial printing firm RR Donnelley &amp; Sons Co, the Wall Street Journal reported Thursday....",
+        "lead_paragraph": "Xerox Corp privately rejected a bid to merge its document business with financial printing firm RR Donnelley &amp; Sons Co, the Wall Street Journal reported Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Xerox Rejects RR Donnelley Merger Proposal: WSJ",
+          "print_headline": "Xerox Rejects RR Donnelley Merger Proposal: WSJ"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:41:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57884d9d38f0d81aa65f6ee4",
+        "word_count": "148",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/07/14/fashion/runway-mens/john-varvatos-spring-2017.html",
+        "snippet": "The label\u2019s spring 2017 men\u2019s collection....",
+        "lead_paragraph": "The label\u2019s spring 2017 men\u2019s collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/14/fashion/runway-mens/Varvatos-spring-2017-mens-slide-JZCD/Varvatos-spring-2017-mens-slide-JZCD-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/14/fashion/runway-mens/Varvatos-spring-2017-mens-slide-JZCD/Varvatos-spring-2017-mens-slide-JZCD-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/14/fashion/runway-mens/Varvatos-spring-2017-mens-slide-JZCD/Varvatos-spring-2017-mens-slide-JZCD-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/14/fashion/runway-mens/Varvatos-spring-2017-mens-slide-JZCD/Varvatos-spring-2017-mens-slide-JZCD-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/14/fashion/runway-mens/Varvatos-spring-2017-mens-slide-JZCD/Varvatos-spring-2017-mens-slide-JZCD-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/14/fashion/runway-mens/Varvatos-spring-2017-mens-slide-JZCD/Varvatos-spring-2017-mens-slide-JZCD-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "John Varvatos: Spring 2017",
+          "kicker": "Men's Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Men's Fashion Week"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Varvatos, John"
+          }
+        ],
+        "pub_date": "2016-07-14T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Men's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Men's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57884bed38f0d81aa65f6ee2",
+        "word_count": "6",
+        "slideshow_credits": "Nowfashion.com"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-china-economy-output-steel.html",
+        "snippet": "China's crude steel output rose 1.7 percent to 69.47 million tonnes in June from a year ago, data from the National Bureau of Statistics showed on Friday....",
+        "lead_paragraph": "China's crude steel output rose 1.7 percent to 69.47 million tonnes in June from a year ago, data from the National Bureau of Statistics showed on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China's June Crude Steel Output Rises 1.7 Percent on Year, First-Half Output Down 1.1 Percent: Stats Bureau",
+          "print_headline": "China's June Crude Steel Output Rises 1.7 Percent on Year, First-Half Output Down 1.1 Percent: Stats Bureau"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:20:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57884acb38f0d81aa65f6ee1",
+        "word_count": "60",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-byd-samsung-elec-equity.html",
+        "snippet": "Samsung Electronics Co Ltd said on Friday it was in talks to acquire a stake in Chinese automaker BYD, a move it said would help the South Korean electronics giant boost its chip business for electric cars....",
+        "lead_paragraph": "Samsung Electronics Co Ltd said on Friday it was in talks to acquire a stake in Chinese automaker BYD, a move it said would help the South Korean electronics giant boost its chip business for electric cars.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Samsung Electronics Seeks Stake in China Automaker BYD, Electric Car Chips Boost",
+          "print_headline": "Samsung Electronics Seeks Stake in China Automaker BYD, Electric Car Chips Boost"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:23:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5788496938f0d81aa65f6ee0",
+        "word_count": "331",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-china-economy-investment.html",
+        "snippet": "China's fixed-asset investment growth eased to 9 percent year-on-year in the January-June period, missing market expectations....",
+        "lead_paragraph": "China's fixed-asset investment growth eased to 9 percent year-on-year in the January-June period, missing market expectations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China June Investment Growth Cools to 9 Percent Year-On-Year, Missing Forecasts",
+          "print_headline": "China June Investment Growth Cools to 9 Percent Year-On-Year, Missing Forecasts"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:20:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578848b338f0d81aa65f6edf",
+        "word_count": "156",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/world/europe/14reuters-france-crash-hollande.html",
+        "snippet": "French President Francois Hollande said Thursday's lethal attack on the southern city of Nice was clearly a 'terrorist' assault and that the state of emergency imposed since a previous attack on Paris last November would be extended for another th...",
+        "lead_paragraph": "French President Francois Hollande said Thursday's lethal attack on the southern city of Nice was clearly a 'terrorist' assault and that the state of emergency imposed since a previous attack on Paris last November would be extended for another three months.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "France's Hollande Says Nice Attack Undeniably of 'Terrorist Nature'",
+          "print_headline": "France's Hollande Says Nice Attack Undeniably of 'Terrorist Nature'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:16:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578847fe38f0d81aa65f6ede",
+        "word_count": "148",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-china-economy-lending.html",
+        "snippet": "Chinese banks extended 1.38 trillion yuan (153.90 billion pounds) in net new yuan loans in June, exceeding analyst expectations, coming in higher than the previous month's lending of 985.5 billion yuan....",
+        "lead_paragraph": "Chinese banks extended 1.38 trillion yuan (153.90 billion pounds) in net new yuan loans in June, exceeding analyst expectations, coming in higher than the previous month's lending of 985.5 billion yuan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China June New Yuan Loans Rise to 1.38 Trillion Yuan, Beating Forecasts",
+          "print_headline": "China June New Yuan Loans Rise to 1.38 Trillion Yuan, Beating Forecasts"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:17:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578847fc38f0d81aa65f6edd",
+        "word_count": "103",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/14/nyregion/document-lawyer-letter-ccny.html",
+        "snippet": "A lawyer for the 21st Century Foundation sent a letter to City College officials saying that in light of a federal subpoena the foundation had received....",
+        "lead_paragraph": "A lawyer for the 21st Century Foundation sent a letter to City College officials saying that in light of a federal subpoena the foundation had received.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/14/nyregion/image-lawyer-letter-ccny/image-lawyer-letter-ccny-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/14/nyregion/image-lawyer-letter-ccny/image-lawyer-letter-ccny-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/14/nyregion/image-lawyer-letter-ccny/image-lawyer-letter-ccny-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/14/nyregion/image-lawyer-letter-ccny/image-lawyer-letter-ccny-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/14/nyregion/image-lawyer-letter-ccny/image-lawyer-letter-ccny-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/14/nyregion/image-lawyer-letter-ccny/image-lawyer-letter-ccny-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Letter Sent to City College Officials"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "5788475338f0d81aa65f6edb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-china-economy-property.html",
+        "snippet": "Investment growth in China's real estate in the first half of 2016 contracted for the second month, raising expectations that more stimulus would be rolled out in the remaining of this year to help grow sales - especially in smaller cities where t...",
+        "lead_paragraph": "Investment growth in China's real estate in the first half of 2016 contracted for the second month, raising expectations that more stimulus would be rolled out in the remaining of this year to help grow sales - especially in smaller cities where the housing inventory level is high.  ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China First-Half Property Investment Growth Slows for Second Month",
+          "print_headline": "China First-Half Property Investment Growth Slows for Second Month"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:12:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5788474b38f0d81aa65f6eda",
+        "word_count": "467",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/14/sports/ncaabasketball/ap-bkw-pat-summitt-public-service.html",
+        "snippet": "Pat Summitt was remembered as a loving mother, a loyal friend and a tireless fighter as well as a champion coach Thursday in a public ceremony honoring the person who built the Tennessee women's basketball dynasty....",
+        "lead_paragraph": "Pat Summitt was remembered as a loving mother, a loyal friend and a tireless fighter as well as a champion coach Thursday in a public ceremony honoring the person who built the Tennessee women's basketball dynasty.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pat Summitt Remembered for Achievements on, Off Court",
+          "print_headline": "Pat Summitt Remembered for Achievements on, Off Court"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T22:09:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5788469938f0d81aa65f6ed8",
+        "word_count": "883",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

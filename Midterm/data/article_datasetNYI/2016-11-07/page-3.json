@@ -1,0 +1,590 @@
+{
+  "response": {
+    "meta": {
+      "hits": 816,
+      "time": 58,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/07/t-magazine/design/elemental-living-homes-nature.html",
+        "snippet": "A new book features a collection of homes from around the world \u2014 from the Slovenian Alps to Montauk \u2014 all built with nature in mind....",
+        "lead_paragraph": "A new book features a collection of homes from around the world \u2014 from the Slovenian Alps to Montauk \u2014 all built with nature in mind.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/t-magazine/design/07tmag-elemental-design-slide-QGR0/07tmag-elemental-design-slide-QGR0-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/t-magazine/design/07tmag-elemental-design-slide-QGR0/07tmag-elemental-design-slide-QGR0-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/t-magazine/design/07tmag-elemental-design-slide-QGR0/07tmag-elemental-design-slide-QGR0-articleLarge.jpg",
+            "height": 847,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/t-magazine/design/07tmag-elemental-design-slide-QGR0/07tmag-elemental-design-slide-QGR0-articleLarge.jpg",
+              "xlargeheight": "847"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/t-magazine/design/07tmag-elemental-design-slide-QGR0/07tmag-elemental-design-slide-QGR0-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/t-magazine/design/07tmag-elemental-design-slide-QGR0/07tmag-elemental-design-slide-QGR0-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Contemporary Homes in Stunning Natural Surroundings"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Architecture"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Phaidon Press"
+          }
+        ],
+        "pub_date": "2016-11-07T23:02:36Z",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine / Design & Interiors",
+        "section_name": "T Magazine",
+        "subsection_name": "Design & Interiors",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "TODD"
+            }
+          ],
+          "original": "By SAM TODD"
+        },
+        "type_of_material": "Slideshow",
+        "_id": "58210a1d95d0e0204d55f365",
+        "word_count": "26",
+        "slideshow_credits": "Javier Callejas"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/briefing/clinton-trump-reno.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/briefing/07eveningss-slide-0B75/07eveningss-slide-0B75-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/briefing/07eveningss-slide-0B75/07eveningss-slide-0B75-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/briefing/07eveningss-slide-0B75/07eveningss-slide-0B75-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/briefing/07eveningss-slide-0B75/07eveningss-slide-0B75-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/briefing/07eveningss-slide-0B75/07eveningss-slide-0B75-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/briefing/07eveningss-slide-0B75/07eveningss-slide-0B75-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Clinton, Trump, Reno: Your Monday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T23:01:54Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "58210a1795d0e0204d55f364",
+        "word_count": "683",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/08/world/asia/philippines-kidnapped-german-sailors.html",
+        "snippet": "The German couple, who were held by Somali pirates in 2008, were said to have been abducted by Abu Sayyaf, an insurgent group....",
+        "lead_paragraph": "The German couple, who were held by Somali pirates in 2008, were said to have been abducted by Abu Sayyaf, an insurgent group.",
+        "abstract": "Jurgen Kantner and Sabine Merz, German sailing couple who were once held for ransom by Somali pirates in 2008, are reportedly attacked while cruising in area controlled by insurgent group Abu Sayyaf in Philippines; Merz is thought to have been killed and Kantner abducted by militants.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/world/08sailors/08sailors-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/world/08sailors/08sailors-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/world/08sailors/08sailors-articleLarge.jpg",
+            "height": 651,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/world/08sailors/08sailors-articleLarge.jpg",
+              "xlargeheight": "651"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/world/08sailors/08sailors-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/world/08sailors/08sailors-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sailing Couple Seized by Somali Pirates in 2008 Are Apparently Abducted Off Philippines",
+          "print_headline": "A 2nd Abduction Is Reported for German Sailing Couple"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sailboats and Sailing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Piracy at Sea"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Far East, South and Southeast Asia and Pacific Areas"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Philippines"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Germany"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kantner, Jurgen"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Merz, Sabine"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Abu Sayyaf"
+          }
+        ],
+        "pub_date": "2016-11-07T23:00:13+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alison",
+              "rank": 1,
+              "lastname": "SMALE"
+            }
+          ],
+          "original": "By ALISON SMALE"
+        },
+        "type_of_material": "News",
+        "_id": "58210a0995d0e0204d55f363",
+        "word_count": "516",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/sports/hockey/ap-hkn-sid-vs-the-kid.html",
+        "snippet": "The comparisons are inevitable. Connor McDavid understands it. So does Sidney Crosby....",
+        "lead_paragraph": "The comparisons are inevitable. Connor McDavid understands it. So does Sidney Crosby.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Sid vs. The Kid; Crosby, McDavid Meet for 1st Time Tuesday",
+          "print_headline": "Sid vs. The Kid; Crosby, McDavid Meet for 1st Time Tuesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:55:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109fb95d0e0204d55f362",
+        "word_count": "695",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/sports/baseball/ap-bbo-gm-meetings.html",
+        "snippet": "With baseball's collective bargaining agreement set to expire Dec. 1, trade talk and free-agent signings could go slowly this offseason....",
+        "lead_paragraph": "With baseball's collective bargaining agreement set to expire Dec. 1, trade talk and free-agent signings could go slowly this offseason.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Trades, Signings Could Be Slowed by Lack of Labor Contract",
+          "print_headline": "Trades, Signings Could Be Slowed by Lack of Labor Contract"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:48:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109eb95d0e0204d55f361",
+        "word_count": "805",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/07/business/07reuters-southkorea-politics.html",
+        "snippet": "South Korean President Park Geun-hye said on Tuesday she will withdraw her nominee for prime minister if parliament recommends a candidate and is willing to let the new premier control the cabinet, seeking to defuse a crisis rocking her presidency...",
+        "lead_paragraph": "South Korean President Park Geun-hye said on Tuesday she will withdraw her nominee for prime minister if parliament recommends a candidate and is willing to let the new premier control the cabinet, seeking to defuse a crisis rocking her presidency.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Korea's Park Indicates Willing to Relinquish Some Power Amid Crisis",
+          "print_headline": "South Korea's Park Indicates Willing to Relinquish Some Power Amid Crisis"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:48:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582109eb95d0e0204d55f360",
+        "word_count": "625",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/sports/football/ap-fbn-packers-midseason.html",
+        "snippet": "Mike Daniels' angry voice could be heard from a far-off corner of the Packers locker room in the bitter minutes following a disheartening loss to Indianapolis....",
+        "lead_paragraph": "Mike Daniels' angry voice could be heard from a far-off corner of the Packers locker room in the bitter minutes following a disheartening loss to Indianapolis.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "In Unusual Spot at 4-4, Packers Face Pivotal Road Stretch",
+          "print_headline": "In Unusual Spot at 4-4, Packers Face Pivotal Road Stretch"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:42:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109e395d0e0204d55f35f",
+        "word_count": "722",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/08/arts/design/how-the-artist-adrian-ghenie-became-an-auction-star.html",
+        "snippet": "Bidding wars have broken out over the work of this Romanian painter, who has benefited from demand, limited output and a pool of eager buyers....",
+        "lead_paragraph": "Bidding wars have broken out over the work of this Romanian painter, who has benefited from demand, limited output and a pool of eager buyers.",
+        "abstract": "Romanian artist Adrian Ghenie's paintings are in high demand, selling for millions of dollars at auction despite declining market for young artists; success is attributed to confluence of factors including his limited output and wealthy pool of buyers who often double or triple their investment by quickly reselling works.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/arts/08ADRIAN/08ADRIAN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/arts/08ADRIAN/08ADRIAN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/arts/08ADRIAN/08ADRIAN-articleLarge.jpg",
+            "height": 598,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/arts/08ADRIAN/08ADRIAN-articleLarge.jpg",
+              "xlargeheight": "598"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/arts/08ADRIAN/08ADRIAN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/arts/08ADRIAN/08ADRIAN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How the Artist Adrian Ghenie Became an Auction Star",
+          "print_headline": "An Auction Star Is Born. Here\u2019s How."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ghenie, Adrian (1977- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Romania"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pace Gallery"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Auctions"
+          }
+        ],
+        "pub_date": "2016-11-07T22:40:48Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 1,
+              "lastname": "POGREBIN"
+            }
+          ],
+          "original": "By ROBIN POGREBIN"
+        },
+        "type_of_material": "News",
+        "_id": "582109dc95d0e0204d55f35e",
+        "word_count": "1262",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/sports/ap-box-balderas-ringstar.html",
+        "snippet": "U.S. Olympic boxer Carlos Balderas has signed with Ringstar Sports, the new promotional venture of veteran boxing executive Richard Schaefer....",
+        "lead_paragraph": "U.S. Olympic boxer Carlos Balderas has signed with Ringstar Sports, the new promotional venture of veteran boxing executive Richard Schaefer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Olympic Boxer Carlos Balderas Turns Pro With Schaefer",
+          "print_headline": "US Olympic Boxer Carlos Balderas Turns Pro With Schaefer"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:40:23Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109dc95d0e0204d55f35d",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:39:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109d895d0e0204d55f35c",
+        "word_count": "1155",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

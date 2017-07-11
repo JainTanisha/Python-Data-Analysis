@@ -1,0 +1,440 @@
+{
+  "response": {
+    "meta": {
+      "hits": 441,
+      "time": 99,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/01/us/ap-us-michigan-police-fatal-shooting.html",
+        "snippet": "Michigan State Police say a man killed by troopers after a high-speed chase was 37 years old and lived in suburban Detroit....",
+        "lead_paragraph": "Michigan State Police say a man killed by troopers after a high-speed chase was 37 years old and lived in suburban Detroit.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Killed by State Police Was 37-Year-Old Detroit-Area Man",
+          "print_headline": "Man Killed by State Police Was 37-Year-Old Detroit-Area Man"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T21:13:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f0278395d0e021d798990b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/01/us/ap-us-california-wildfires.html",
+        "snippet": "A wildfire burning in northern California's Santa Cruz Mountains has destroyed a dozen homes and 16 other structures....",
+        "lead_paragraph": "A wildfire burning in northern California's Santa Cruz Mountains has destroyed a dozen homes and 16 other structures.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Northern California Wildfire Destroys More Homes",
+          "print_headline": "Northern California Wildfire Destroys More Homes"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T21:11:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f026d395d0e021d798990a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/02/us/a-rabbis-enduring-sermon-on-living-your-last-five-minutes.html",
+        "snippet": "\u201cCan you imagine knowing that in a few moments death was imminent?\u201d a rabbi said, speaking of the crew of the Challenger shuttle. Three years later, he lived his words....",
+        "lead_paragraph": "\u201cCan you imagine knowing that in a few moments death was imminent?\u201d a rabbi said, speaking of the crew of the Challenger shuttle. Three years later, he lived his words.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/02/us/02religion3/02religion3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/02/us/02religion3/02religion3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/02/us/02religion3/02religion3-articleLarge.jpg",
+            "height": 841,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/02/us/02religion3/02religion3-articleLarge.jpg",
+              "xlargeheight": "841"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/02/us/02religion3/02religion3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/02/us/02religion3/02religion3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Rabbi\u2019s Enduring Sermon on Living Your Last Five Minutes",
+          "content_kicker": "On Religion",
+          "kicker": "On Religion",
+          "print_headline": "The Enduring Lessons of \u2018Five Minutes to Live\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Jews and Judaism"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rosh Hashana"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Yom Kippur"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Death and Dying"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Berger, Kenneth R (1947-89)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Aviation Accidents, Safety and Disasters"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Challenger (Space Shuttle)"
+          }
+        ],
+        "pub_date": "2016-10-01T21:12:35+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "firstname": "Samuel",
+              "middlename": "G.",
+              "lastname": "FREEDMAN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By SAMUEL G. FREEDMAN"
+        },
+        "type_of_material": "News",
+        "_id": "57f026c995d0e021d7989909",
+        "word_count": "1087",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/01/sports/ap-car-nascar-xfinity-postponed.html",
+        "snippet": "Rain washed out the NASCAR Xfinity Series race and there will be a Dover doubleheader Sunday....",
+        "lead_paragraph": "Rain washed out the NASCAR Xfinity Series race and there will be a Dover doubleheader Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Dover Doubleheader: Rain Pushes Xfinity Race to Sunday",
+          "print_headline": "Dover Doubleheader: Rain Pushes Xfinity Race to Sunday"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T20:54:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f0236395d0e021d7989907",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/01/world/middleeast/01reuters-egypt-insurgency.html",
+        "snippet": "Gunmen killed five policemen in the restive northern Sinai on Saturday, the Egyptian interior ministry said on facebook....",
+        "lead_paragraph": "Gunmen killed five policemen in the restive northern Sinai on Saturday, the Egyptian interior ministry said on facebook. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Six Policemen Killed in Sinai",
+          "print_headline": "Six Policemen Killed in Sinai"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T20:55:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f0233f95d0e021d7989906",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/01/us/ap-us-teen-students-gun-possession.html",
+        "snippet": "Four teenage boys are facing weapons charges after two handguns and a stun gun were allegedly brought to Cranston High School West....",
+        "lead_paragraph": "Four teenage boys are facing weapons charges after two handguns and a stun gun were allegedly brought to Cranston High School West.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "4 Teens Face Weapons Charges for Bringing Guns to School",
+          "print_headline": "4 Teens Face Weapons Charges for Bringing Guns to School"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T20:52:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f022a495d0e021d7989905",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/01/us/ap-us-school-shooting-the-latest.html",
+        "snippet": "The Latest on the death of a 6-year-old boy who died after being wounded in a school shooting (all times local):...",
+        "lead_paragraph": "The Latest on the death of a 6-year-old boy who died after being wounded in a school shooting (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Parents of Boy Shot at School Remember Their Son",
+          "print_headline": "The Latest: Parents of Boy Shot at School Remember Their Son"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T20:46:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f0213a95d0e021d7989902",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/01/world/europe/01reuters-spain-blast.html",
+        "snippet": "At least 77 people have been injured, five of them seriously, after a gas cylinder exploded on Saturday in a restaurant in the Spanish town of Velez-Malaga on the southern coast, a spokesman for the Andalucia region's emergency unit said....",
+        "lead_paragraph": "At least 77 people have been injured, five of them seriously, after a gas cylinder exploded on Saturday in a restaurant in the Spanish town of Velez-Malaga on the southern coast, a spokesman for the Andalucia region's emergency unit said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "At Least 77 Hurt After Gas Cylinder Explodes in Southern Spain",
+          "print_headline": "At Least 77 Hurt After Gas Cylinder Explodes in Southern Spain"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T20:44:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f0207e95d0e021d7989901",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/01/us/01reuters-south-carolina-shooting.html",
+        "snippet": "A 6-year-old South Carolina boy wounded in a schoolyard shooting  died on Saturday, a coroner said, a day after a teenage suspect was charged with murdering his own father and wounding the boy, a teacher and another student....",
+        "lead_paragraph": "A 6-year-old South Carolina boy wounded in a schoolyard shooting  died on Saturday, a coroner said, a day after a teenage suspect was charged with murdering his own father and wounding the boy, a teacher and another student.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Six-Year-Old Boy Shot at South Carolina School Dies From Wound",
+          "print_headline": "Six-Year-Old Boy Shot at South Carolina School Dies From Wound"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-01T20:44:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f0207195d0e021d7989900",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/10/01/fashion/runway-womens/nina-ricci-spring-2017.html",
+        "snippet": "The label\u2019s spring 2017 rtw collection....",
+        "lead_paragraph": "The label\u2019s spring 2017 rtw collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/01/fashion/runway-womens/ninaricci-spring-2017-rtw-slide-PC7Q/ninaricci-spring-2017-rtw-slide-PC7Q-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/01/fashion/runway-womens/ninaricci-spring-2017-rtw-slide-PC7Q/ninaricci-spring-2017-rtw-slide-PC7Q-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/01/fashion/runway-womens/ninaricci-spring-2017-rtw-slide-PC7Q/ninaricci-spring-2017-rtw-slide-PC7Q-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/01/fashion/runway-womens/ninaricci-spring-2017-rtw-slide-PC7Q/ninaricci-spring-2017-rtw-slide-PC7Q-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/01/fashion/runway-womens/ninaricci-spring-2017-rtw-slide-PC7Q/ninaricci-spring-2017-rtw-slide-PC7Q-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/01/fashion/runway-womens/ninaricci-spring-2017-rtw-slide-PC7Q/ninaricci-spring-2017-rtw-slide-PC7Q-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Nina Ricci: Spring 2017",
+          "kicker": "Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Nina Ricci (Fashion Label)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Paris Fashion Week"
+          }
+        ],
+        "pub_date": "2016-10-01T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Women's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Women's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57f01d9795d0e021d79898fd",
+        "word_count": "6",
+        "slideshow_credits": "Guillaume Roujas/Nowfashion"
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

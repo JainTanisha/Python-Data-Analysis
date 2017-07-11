@@ -1,0 +1,430 @@
+{
+  "response": {
+    "meta": {
+      "hits": 792,
+      "time": 93,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/business/12reuters-weight-watchers-ceo.html",
+        "snippet": "Weight Watchers International Inc said its chief executive, James Chambers, will step down at the end of September after three years on the job, and board member Oprah Winfrey will help the diet company look for his successor....",
+        "lead_paragraph": "Weight Watchers International Inc said its chief executive, James Chambers, will step down at the end of September after three years on the job, and board member Oprah Winfrey will help the diet company look for his successor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Oprah to Help Weight Watchers Find New Leader After CEO Resigns",
+          "print_headline": "Oprah to Help Weight Watchers Find New Leader After CEO Resigns"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:36:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d72df895d0e021d7985d1f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/us/12reuters-chicago-police.html",
+        "snippet": "A grand jury will hear evidence of whether Chicago police officers lied to justify the 2014 shooting death of a black teenager by a white officer, local media reported on Monday....",
+        "lead_paragraph": "A grand jury will hear evidence of whether Chicago police officers lied to justify the 2014 shooting death of a black teenager by a white officer, local media reported on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Grand Jury to Probe Possible Police Cover-Up in Chicago Teen's Death",
+          "print_headline": "Grand Jury to Probe Possible Police Cover-Up in Chicago Teen's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:30:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d72d4495d0e021d7985d1e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/12/fashion/runway-womens/oscar-de-la-renta-spring-2017.html",
+        "snippet": "After Peter Copping\u2019s departure from the label, the latest collection was designed by a studio team prior to Laura Kim and Fernando Garcia\u2019s debut....",
+        "lead_paragraph": "After Peter Copping\u2019s departure from the label, the latest collection was designed by a studio team prior to Laura Kim and Fernando Garcia\u2019s debut.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/12/fashion/runway-womens/odlrenta-spring-2017-rt-slide-G9J0/odlrenta-spring-2017-rt-slide-G9J0-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/12/fashion/runway-womens/odlrenta-spring-2017-rt-slide-G9J0/odlrenta-spring-2017-rt-slide-G9J0-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/12/fashion/runway-womens/odlrenta-spring-2017-rt-slide-G9J0/odlrenta-spring-2017-rt-slide-G9J0-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/12/fashion/runway-womens/odlrenta-spring-2017-rt-slide-G9J0/odlrenta-spring-2017-rt-slide-G9J0-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/12/fashion/runway-womens/odlrenta-spring-2017-rt-slide-G9J0/odlrenta-spring-2017-rt-slide-G9J0-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/12/fashion/runway-womens/odlrenta-spring-2017-rt-slide-G9J0/odlrenta-spring-2017-rt-slide-G9J0-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Oscar de la Renta: Spring 2017",
+          "kicker": "Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Oscar de la Renta LLC"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          }
+        ],
+        "pub_date": "2016-09-12T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Women's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Women's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57d72ca195d0e021d7985d1b",
+        "word_count": "24",
+        "slideshow_credits": "Guillaume Roujas/Nowfashion"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-college-football-punch-the-latest.html",
+        "snippet": "The Latest on a Southern California football player arrested for punching referee (all times local):...",
+        "lead_paragraph": "The Latest on a Southern California football player arrested for punching referee (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Suspended Player Says Punishment Is Too Harsh",
+          "print_headline": "The Latest: Suspended Player Says Punishment Is Too Harsh"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:24:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d72c4395d0e021d7985d1a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004642097/david-cameron-a-look-back.html",
+        "snippet": "In 2010, David Cameron became prime minister of Britain, leading a coalition government with the Liberal Democrats. In 2015, he won a majority in Parliament after promising to hold an in-out referendum on the European Union. That's when things wen...",
+        "lead_paragraph": "In 2010, David Cameron became prime minister of Britain, leading a coalition government with the Liberal Democrats. In 2015, he won a majority in Parliament after promising to hold an in-out referendum on the European Union. That's when things went wrong.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/13/world/13cameron-vid/13cameron-vid-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/13/world/13cameron-vid/13cameron-vid-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/13/world/13cameron-vid/13cameron-vid-articleLarge.jpg",
+            "height": 408,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/13/world/13cameron-vid/13cameron-vid-articleLarge.jpg",
+              "xlargeheight": "408"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/13/world/13cameron-vid/13cameron-vid-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/13/world/13cameron-vid/13cameron-vid-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "David Cameron: A Look Back"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cameron, David"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Legislatures and Parliaments"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "European Union"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Great Britain Withdrawal from EU (Brexit)"
+          }
+        ],
+        "pub_date": "2016-09-12T22:28:56+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Turner",
+              "rank": 1,
+              "lastname": "COWLES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 2,
+              "lastname": "CASTLE"
+            }
+          ],
+          "original": "By TURNER COWLES and STEPHEN CASTLE"
+        },
+        "type_of_material": "Video",
+        "_id": "57d72c2d95d0e021d7985d19",
+        "word_count": "41",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-restraining-pregnant-inmates.html",
+        "snippet": "In a story Sept. 12 about a court ruling on restraining a pregnant jail inmate, The Associated Press reported erroneously that the inmate's attorney, Joy Bertrand, didn't return to a phone call seeking comment. The AP unintentionally left a messag...",
+        "lead_paragraph": "In a story Sept. 12 about a court ruling on restraining a pregnant jail inmate, The Associated Press reported erroneously that the inmate's attorney, Joy Bertrand, didn't return to a phone call seeking comment. The AP unintentionally left a message for her at the wrong number. Bertrand said the restraints had a psychological effect on her client.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Restraining Pregnant Inmates Story",
+          "print_headline": "Correction: Restraining Pregnant Inmates Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:22:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d72b5a95d0e021d7985d17",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/arts/12reuters-filmfestival-tiff-thepromise.html",
+        "snippet": "A new film that addresses the massacre of Armenians by Ottoman forces during World War One is meant to spur discussion about a historical tragedy that still has the power to stir political tensions, its director says....",
+        "lead_paragraph": "A new film that addresses the massacre of Armenians by Ottoman forces during World War One is meant to spur discussion about a historical tragedy that still has the power to stir political tensions, its director says.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "'Hotel Rwanda' Director Revisits Historic Tragedy in 'The Promise'",
+          "print_headline": "'Hotel Rwanda' Director Revisits Historic Tragedy in 'The Promise'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:23:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d72b2695d0e021d7985d16",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/politics/ap-us-united-states-italy.html",
+        "snippet": "Italian Primary Minister Matteo Renzi will pay an official visit to the White House next month and be feted at a state dinner....",
+        "lead_paragraph": "Italian Primary Minister Matteo Renzi will pay an official visit to the White House next month and be feted at a state dinner.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "White House to Hold Official Visit, State Dinner for Italy",
+          "print_headline": "White House to Hold Official Visit, State Dinner for Italy"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:19:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d72ab195d0e021d7985d15",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-oakland-police-sexual-misconduct.html",
+        "snippet": "The teenager at the center of a California police sex scandal is now facing a reduced assault charge in Florida, where she has been jailed since her arrest late last month....",
+        "lead_paragraph": "The teenager at the center of a California police sex scandal is now facing a reduced assault charge in Florida, where she has been jailed since her arrest late last month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Teen at Center of Police Sex Scandal Faces Reduced Charge",
+          "print_headline": "Teen at Center of Police Sex Scandal Faces Reduced Charge"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:16:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d729ea95d0e021d7985d13",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-police-shoot-boy-gazebo.html",
+        "snippet": "A gazebo where a 12-year-old black boy with a pellet gun was fatally shot by a white Cleveland police officer is expected to be dismantled beginning this week and shipped to a Chicago museum for display....",
+        "lead_paragraph": "A gazebo where a 12-year-old black boy with a pellet gun was fatally shot by a white Cleveland police officer is expected to be dismantled beginning this week and shipped to a Chicago museum for display.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Dismantling of Gazebo Where Tamir Rice Was Shot Set to Begin",
+          "print_headline": "Dismantling of Gazebo Where Tamir Rice Was Shot Set to Begin"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:15:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d729ea95d0e021d7985d12",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

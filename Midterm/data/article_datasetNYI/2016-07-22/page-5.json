@@ -1,0 +1,565 @@
+{
+  "response": {
+    "meta": {
+      "hits": 963,
+      "time": 37,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/22/world/europe/22reuters-europe-attacks-germany-chief.html",
+        "snippet": "The likely sole gunman in a deadly shooting in Munich was an 18-year-old German-Iranian who had both German and Iranian citizenship, Munich Police Chief Hubertus Andrae told reporters on Saturday....",
+        "lead_paragraph": "The likely sole gunman in a deadly shooting in Munich was an 18-year-old German-Iranian who had both German and Iranian citizenship, Munich Police Chief Hubertus Andrae told reporters on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Likely Sole Gunman in Munich Attack Was German-Iranian: Police Chief",
+          "print_headline": "Likely Sole Gunman in Munich Attack Was German-Iranian: Police Chief"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T21:01:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5792c26338f0d81cba9251d2",
+        "word_count": "97",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/arts/television/looking-the-movie-review.html",
+        "snippet": "The film, on HBO, is a delayed finale for a show that ran two seasons....",
+        "lead_paragraph": "The film, on HBO, is a delayed finale for a show that ran two seasons.",
+        "abstract": "Mike Hale reviews HBO television movie Looking: The Movie, starring Jonathan Groff.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/23/arts/23LOOKING/23LOOKING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/23/arts/23LOOKING/23LOOKING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/23/arts/23LOOKING/23LOOKING-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/23/arts/23LOOKING/23LOOKING-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/23/arts/23LOOKING/23LOOKING-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/23/arts/23LOOKING/23LOOKING-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Looking: The Movie\u2019 Finds Change (and Angst) Are Constant",
+          "print_headline": "Change Is Constant, as Is Angst"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Looking (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Looking (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Home Box Office"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Groff, Jonathan"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Haigh, Andrew"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lannan, Michael"
+          }
+        ],
+        "pub_date": "2016-07-22T21:00:31+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "HALE"
+            }
+          ],
+          "original": "By MIKE HALE"
+        },
+        "type_of_material": "Review",
+        "_id": "5792897a38f0d81cba925156",
+        "word_count": "567",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/world/middleeast/iran-boeing-airbus-sanctons.html",
+        "snippet": "Fresh complications for an intended purchase that was seen as one of the most prominent commercial outcomes of a year-old nuclear accord....",
+        "lead_paragraph": "Fresh complications for an intended purchase that was seen as one of the most prominent commercial outcomes of a year-old nuclear accord.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/23/world/23IRAN-web2/23IRAN-web2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/23/world/23IRAN-web2/23IRAN-web2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/23/world/23IRAN-web2/23IRAN-web2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/23/world/23IRAN-web2/23IRAN-web2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/23/world/23IRAN-web2/23IRAN-web2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/23/world/23IRAN-web2/23IRAN-web2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Delays Threaten to Unravel Iranian Plans to Buy 200 Jetliners",
+          "print_headline": "Delays Threaten to Unravel Iranian Plans to Buy 200 Jetliners"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Airlines and Airplanes"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nuclear Weapons"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Embargoes and Sanctions"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Airbus Industrie"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Boeing Company"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Iran Air"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rouhani, Hassan"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Iran"
+          }
+        ],
+        "pub_date": "2016-07-22T20:59:53+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Nicola Clark contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rick",
+              "rank": 1,
+              "lastname": "GLADSTONE"
+            }
+          ],
+          "original": "By RICK GLADSTONE"
+        },
+        "type_of_material": "News",
+        "_id": "5792894a38f0d81cba925154",
+        "word_count": "910",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/us/ap-us-sewage-spill.html",
+        "snippet": "Long Beach authorities say it's safe to go back in the water....",
+        "lead_paragraph": "Long Beach authorities say it's safe to go back in the water.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Long Beach, California, Shores Reopened After Sewage Spill",
+          "print_headline": "Long Beach, California, Shores Reopened After Sewage Spill"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T20:55:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792c10538f0d81cba9251d1",
+        "word_count": "111",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/us/ap-us-comic-con-south-park.html",
+        "snippet": "\"South Park\" co-creators Trey Parker and Matt Stone have been getting the same question over and over on the eve of the premiere of the show's 20th season: When are they going to do a Pokemon Go episode?...",
+        "lead_paragraph": "\"South Park\" co-creators Trey Parker and Matt Stone have been getting the same question over and over on the eve of the premiere of the show's 20th season: When are they going to do a Pokemon Go episode?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "'South Park' Creators Predicted Pokemon Go in 1999 Episode",
+          "print_headline": "'South Park' Creators Predicted Pokemon Go in 1999 Episode"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T20:49:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792bfb038f0d81cba9251cf",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/us/politics/ap-us-campaign-2016-kaine-profile.html",
+        "snippet": "Tim Kaine has an Election Day tradition when his name is on the ballot. The avid outdoorsman votes early, then goes hiking in the woods with friends and family for a few hours of calm away from the nervous last-minute energy of political campaigns...",
+        "lead_paragraph": "Tim Kaine has an Election Day tradition when his name is on the ballot. The avid outdoorsman votes early, then goes hiking in the woods with friends and family for a few hours of calm away from the nervous last-minute energy of political campaigns.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Self-Assured, Kaine Brings a Steady Hand to Clinton Ticket",
+          "print_headline": "Self-Assured, Kaine Brings a Steady Hand to Clinton Ticket"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T20:45:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792bfaf38f0d81cba9251ce",
+        "word_count": "730",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/22/sports/golf/22reuters-golf-pga.html",
+        "snippet": "U.S. Open champion Dustin Johnson sleep-walked through his first four holes before snapping to attention to fashion a one-under-par 71 and remain tied for the lead after the second round at the RBC Canadian Open on Friday....",
+        "lead_paragraph": "U.S. Open champion Dustin Johnson sleep-walked through his first four holes before snapping to attention to fashion a one-under-par 71 and remain tied for the lead after the second round at the RBC Canadian Open on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnson Answers Wake-Up Call to Share Canadian Open Lead",
+          "print_headline": "Johnson Answers Wake-Up Call to Share Canadian Open Lead"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T20:49:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5792bf9738f0d81cba9251cd",
+        "word_count": "385",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/sports/tennis/ap-ten-washington-women.html",
+        "snippet": "A day before the Citi Open started, 2011 U.S. Open champion Sam Stosur spent an hour hitting on court with 173rd-ranked Jessica Pegula....",
+        "lead_paragraph": "A day before the Citi Open started, 2011 U.S. Open champion Sam Stosur spent an hour hitting on court with 173rd-ranked Jessica Pegula.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Sam Stosur Upset by Pegula, Whose Parents Own Bills, Sabres",
+          "print_headline": "Sam Stosur Upset by Pegula, Whose Parents Own Bills, Sabres"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T20:28:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792baf538f0d81cba9251ca",
+        "word_count": "264",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/world/asia/ap-as-australia-balloon.html",
+        "snippet": "A 65-year-old Russian adventurer reached the Australian coast on Saturday and was within a few hours of setting a new record for flying solo nonstop around the world, an official said....",
+        "lead_paragraph": "A 65-year-old Russian adventurer reached the Australian coast on Saturday and was within a few hours of setting a new record for flying solo nonstop around the world, an official said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Russian Balloonist Circling Globe Crosses Australian Coast",
+          "print_headline": "Russian Balloonist Circling Globe Crosses Australian Coast"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T20:29:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792bae838f0d81cba9251c9",
+        "word_count": "323",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/business/dealbook/payday-loan-limits-may-cut-abuse-but-leave-some-borrowers-looking.html",
+        "snippet": "Lenders and some consumer advocates ask what borrowers will do if stricter regulations remove their main source of short-term financial aid....",
+        "lead_paragraph": "Lenders and some consumer advocates ask what borrowers will do if stricter regulations remove their main source of short-term financial aid.",
+        "abstract": "Some advocates and economists worry about customers who would be cut off from abusive payday loans as Consumer Financial Protection Bureau prepares to adopt strict new national rules to rein in payday lending; assert that if short-term loans disappear, low-income consumers are likely shift to other expensive forms of credit, or pay late fees on overdue bills.\n\n",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/23/business/23DB-PAYDAY-1/23DB-PAYDAY-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/23/business/23DB-PAYDAY-1/23DB-PAYDAY-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/23/business/23DB-PAYDAY-1/23DB-PAYDAY-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/23/business/23DB-PAYDAY-1/23DB-PAYDAY-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/23/business/23DB-PAYDAY-1/23DB-PAYDAY-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/23/business/23DB-PAYDAY-1/23DB-PAYDAY-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Payday Loan Limits May Cut Abuse but Leave Some Borrowers Looking",
+          "print_headline": "To Curb Abuse, Loan Rules May Cut a Lifeline"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Credit and Debt"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Consumer Protection"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Consumer Financial Protection Bureau"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Advance America"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Payday Loans"
+          }
+        ],
+        "pub_date": "2016-07-22T20:31:13+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stacy",
+              "rank": 1,
+              "lastname": "COWLEY"
+            }
+          ],
+          "original": "By STACY COWLEY"
+        },
+        "type_of_material": "News",
+        "_id": "5792829438f0d81cba925140",
+        "word_count": "1668",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

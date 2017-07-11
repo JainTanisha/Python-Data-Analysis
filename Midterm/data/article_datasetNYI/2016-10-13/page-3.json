@@ -1,0 +1,429 @@
+{
+  "response": {
+    "meta": {
+      "hits": 898,
+      "time": 39,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/10/13/blogs/awarding-a-photographers-stubbornness.html",
+        "snippet": "Justyna Mielnikiewicz, who taught herself photography by studying the legendary photo essays of W. Eugene Smith, has won the Smith Fund\u2019s 2016 grant in humanistic photography....",
+        "lead_paragraph": "Justyna Mielnikiewicz, who taught herself photography by studying the legendary photo essays of W. Eugene Smith, has won the Smith Fund\u2019s 2016 grant in humanistic photography.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/13/blogs/13-lens-smith-slide-J8KN/13-lens-smith-slide-J8KN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/13/blogs/13-lens-smith-slide-J8KN/13-lens-smith-slide-J8KN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/13/blogs/13-lens-smith-slide-J8KN/13-lens-smith-slide-J8KN-articleLarge.jpg",
+            "height": 484,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/13/blogs/13-lens-smith-slide-J8KN/13-lens-smith-slide-J8KN-articleLarge.jpg",
+              "xlargeheight": "484"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/13/blogs/13-lens-smith-slide-J8KN/13-lens-smith-slide-J8KN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/13/blogs/13-lens-smith-slide-J8KN/13-lens-smith-slide-J8KN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Awarding a Photographer\u2019s \u2018Stubbornness\u2019"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:00:43+0000",
+        "document_type": "multimedia",
+        "news_desk": "Blogs",
+        "section_name": "Blogs",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5800122795d0e022439c3146",
+        "word_count": "26",
+        "slideshow_credits": "Justyna Mielnikiewicz"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/sports/olympics/ap-oly-wada-russian-fallout-.html",
+        "snippet": "After Russia's widespread violations at the 2014 Sochi Olympics, new World Anti-Doping Agency director general Olivier Niggli says an expanding investigations staff will be on the lookout for state-sponsored cheating in other nations....",
+        "lead_paragraph": "After Russia's widespread violations at the 2014 Sochi Olympics, new World Anti-Doping Agency director general Olivier Niggli says an expanding investigations staff will be on the lookout for state-sponsored cheating in other nations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Interview: WADA Anticipating More State-Sponsored Doping",
+          "print_headline": "AP Interview: WADA Anticipating More State-Sponsored Doping"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:53:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580010e095d0e022439c3144",
+        "word_count": "641",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/business/13reuters-mideast-crisis-syria-assad.html",
+        "snippet": "Taking the city of Aleppo from rebel forces will be a springboard for Syria's army to push the \"terrorists\" back to Turkey, Syrian President Bashar al-Assad told a Russian newspaper on Friday....",
+        "lead_paragraph": "Taking the city of Aleppo from rebel forces will be a springboard for Syria's army to push the \"terrorists\" back to Turkey, Syrian President Bashar al-Assad told a Russian newspaper on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Syria's Assad: Taking Aleppo Will Push 'Terrorists' Back to Turkey-Newspaper",
+          "print_headline": "Syria's Assad: Taking Aleppo Will Push 'Terrorists' Back to Turkey-Newspaper"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:52:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580010b295d0e022439c3143",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/world/americas/ap-lt-brazil-petrobras-probe.html",
+        "snippet": "Former Brazilian President Luiz Inacio Lula da Silva will face corruption charges in connection with an alleged scheme involving the construction giant Odebrecht....",
+        "lead_paragraph": "Former Brazilian President Luiz Inacio Lula da Silva will face corruption charges in connection with an alleged scheme involving the construction giant Odebrecht.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Silva to Stand 3rd Trial in Corruption Probe",
+          "print_headline": "Brazil's Silva to Stand 3rd Trial in Corruption Probe"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:48:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5800102795d0e022439c3142",
+        "word_count": "134",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/us/ap-us-christie-traffic-jams.html",
+        "snippet": "The prosecution rested its case Thursday against two former allies of Republican Gov. Chris Christie charged in the George Washington Bridge lane-closing trial....",
+        "lead_paragraph": "The prosecution rested its case Thursday against two former allies of Republican Gov. Chris Christie charged in the George Washington Bridge lane-closing trial.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Prosecution Rests in Case Against GOP Gov. Christie's Allies",
+          "print_headline": "Prosecution Rests in Case Against GOP Gov. Christie's Allies"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:48:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5800102195d0e022439c3141",
+        "word_count": "395",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/movies/carrie-is-back-like-a-bloody-hand-from-the-grave.html",
+        "snippet": "Brian De Palma\u2019s \u201cCarrie\u201d (1976) is out on Blu-ray. It may not seem as scary today, but it did help the careers of Mr. De Palma and Stephen King....",
+        "lead_paragraph": "Brian De Palma\u2019s \u201cCarrie\u201d (1976) is out on Blu-ray. It may not seem as scary today, but it did help the careers of Mr. De Palma and Stephen King.",
+        "abstract": null,
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/arts/1016CARRIE1/1016CARRIE1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/arts/1016CARRIE1/1016CARRIE1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/arts/1016CARRIE1/1016CARRIE1-articleLarge-v2.jpg",
+            "height": 329,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/arts/1016CARRIE1/1016CARRIE1-articleLarge-v2.jpg",
+              "xlargeheight": "329"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/arts/1016CARRIE1/1016CARRIE1-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/arts/1016CARRIE1/1016CARRIE1-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Carrie\u2019 Is Back. Like a Bloody Hand From the Grave.",
+          "print_headline": "Back, Like a Bloody Hand From the Grave"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "King, Stephen"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Carrie (Book)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Carrie (Movie)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cohen, Lawrence D"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "de Palma, Brian"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Spacek, Sissy"
+          }
+        ],
+        "pub_date": "2016-10-13T22:45:13+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gilbert",
+              "rank": 1,
+              "lastname": "CRUZ"
+            }
+          ],
+          "original": "By GILBERT CRUZ"
+        },
+        "type_of_material": "News",
+        "_id": "58000e7f95d0e022439c313e",
+        "word_count": "961",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/business/13reuters-airlines-fares.html",
+        "snippet": "An escalating fare war over the Atlantic is forcing big airlines to consider chopping prices, redesigning cabins and adding restrictions to win back budget-conscious vacationers drawn to upstart, low-fare rivals....",
+        "lead_paragraph": "An escalating fare war over the Atlantic is forcing big airlines to consider chopping prices, redesigning cabins and adding restrictions to win back budget-conscious vacationers drawn to upstart, low-fare rivals.  ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Top Airlines Look to No-Frills Fares to Win Back Travelers to Europe",
+          "print_headline": "Top Airlines Look to No-Frills Fares to Win Back Travelers to Europe"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:38:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58000d2e95d0e022439c313d",
+        "word_count": "607",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/us/ap-us-lehigh-valley-zoo-penguins.html",
+        "snippet": "A Pennsylvania zoo has introduced a couple of 3-week-old African penguin chicks that are the first ever born there....",
+        "lead_paragraph": "A Pennsylvania zoo has introduced a couple of 3-week-old African penguin chicks that are the first ever born there.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pennsylvania Zoo Introduces New Additions to Penguin Colony",
+          "print_headline": "Pennsylvania Zoo Introduces New Additions to Penguin Colony"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:32:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58000c9995d0e022439c313c",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/us/ap-us-chinese-student-slain.html",
+        "snippet": "An 18-year-old woman was convicted Thursday in the beating death of a Chinese graduate student at the University of Southern California as he walked home after a late-night study session....",
+        "lead_paragraph": "An 18-year-old woman was convicted Thursday in the beating death of a Chinese graduate student at the University of Southern California as he walked home after a late-night study session.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Teen Convicted in Beating Death of USC Student From China",
+          "print_headline": "Teen Convicted in Beating Death of USC Student From China"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:34:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58000c8a95d0e022439c313b",
+        "word_count": "322",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/business/13reuters-anglo-asset-sales.html",
+        "snippet": "Anglo American is expected to finalise a $1 billion-plus sale of its Australian coal assets to a group headed by private equity group Apollo Global Management in the coming weeks, three sources with knowledge of the deal said.    \"Anglo American a...",
+        "lead_paragraph": "Anglo American is expected to finalise a $1 billion-plus sale of its Australian coal assets to a group headed by private equity group Apollo Global Management in the coming weeks, three sources with knowledge of the deal said.    \"Anglo American and Apollo entered into a two-week exclusivity period due to expire next week,\" said one of the sources in continuous contact with advisers to the deal. \"We think it is going to go to Apollo next week.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Anglo Close to Selling Australian Coal Assets to Apollo Consortium-Sources",
+          "print_headline": "Anglo Close to Selling Australian Coal Assets to Apollo Consortium-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:33:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58000c7495d0e022439c313a",
+        "word_count": "434",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

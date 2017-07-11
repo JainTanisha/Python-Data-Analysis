@@ -1,0 +1,548 @@
+{
+  "response": {
+    "meta": {
+      "hits": 964,
+      "time": 57,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/us/ap-us-navy-blue-angels-crash.html",
+        "snippet": "A member of the Blue Angels flight demonstration team killed during practice in Tennessee lost control of his fighter jet because it was traveling too fast and then failed to recover because it was too low for the maneuver he was performing, a Nav...",
+        "lead_paragraph": "A member of the Blue Angels flight demonstration team killed during practice in Tennessee lost control of his fighter jet because it was traveling too fast and then failed to recover because it was too low for the maneuver he was performing, a Navy investigation shows.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Navy: Pilot Error Primary Cause of Fatal Blue Angels Crash",
+          "print_headline": "Navy: Pilot Error Primary Cause of Fatal Blue Angels Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:14:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1db595d0e021d798685a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/15/world/europe/15reuters-france-politics-sarkozy-climatechange.html",
+        "snippet": "World population growth is a bigger problem than climate change, French presidential candidate Nicolas Sarkozy said on Thursday, pouring more fuel on a fire he ignited this week when he appeared to downplay man-made climate change....",
+        "lead_paragraph": "World population growth is a bigger problem than climate change, French presidential candidate Nicolas Sarkozy said on Thursday, pouring more fuel on a fire he ignited this week when he appeared to downplay man-made climate change.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "France's Sarkozy Says Population Bigger Threat Than Climate Change",
+          "print_headline": "France's Sarkozy Says Population Bigger Threat Than Climate Change"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:14:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1d8895d0e021d7986859",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/15/t-magazine/fashion/marc-jacobs-beauty-dreadlocks-new-york-fashion-week.html",
+        "snippet": "The hairstylist Guido Palau shares the process behind the colorful, vertiginous style, inspired by the director Lana Wachowski....",
+        "lead_paragraph": "The hairstylist Guido Palau shares the process behind the colorful, vertiginous style, inspired by the director Lana Wachowski.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-bbr-01/15tmag-bbr-01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/15/t-magazine/fashion/15tmag-bbr-01/15tmag-bbr-01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-bbr-01/15tmag-bbr-01-articleLarge.jpg",
+            "height": 899,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/15/t-magazine/fashion/15tmag-bbr-01/15tmag-bbr-01-articleLarge.jpg",
+              "xlargeheight": "899"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-bbr-01/15tmag-bbr-01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/15/t-magazine/fashion/15tmag-bbr-01/15tmag-bbr-01-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Dye Artist Behind the Cyberpunk Dreadlocks at Marc Jacobs",
+          "content_kicker": "Backstage Beauty Report"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hair"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nineteen Hundred Eighties"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Marc Jacobs International LLC"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Wachowski, Lana"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          }
+        ],
+        "pub_date": "2016-09-15T22:14:10+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kari",
+              "rank": 1,
+              "lastname": "MOLVAR"
+            }
+          ],
+          "original": "By KARI MOLVAR"
+        },
+        "type_of_material": "News",
+        "_id": "57db1d3f95d0e021d7986858",
+        "word_count": "487",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/15/fashion/top-parties-of-new-york-fashion-week.html",
+        "snippet": "A look back at the week\u2019s biggest events....",
+        "lead_paragraph": "A look back at the week\u2019s biggest events.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/15/fashion/15BEST-OF-SCENE-slide-JEOG/15BEST-OF-SCENE-slide-JEOG-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/15/fashion/15BEST-OF-SCENE-slide-JEOG/15BEST-OF-SCENE-slide-JEOG-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/15/fashion/15BEST-OF-SCENE-slide-JEOG/15BEST-OF-SCENE-slide-JEOG-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/15/fashion/15BEST-OF-SCENE-slide-JEOG/15BEST-OF-SCENE-slide-JEOG-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/15/fashion/15BEST-OF-SCENE-slide-JEOG/15BEST-OF-SCENE-slide-JEOG-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/15/fashion/15BEST-OF-SCENE-slide-JEOG/15BEST-OF-SCENE-slide-JEOG-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Top Parties of New York Fashion Week"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          }
+        ],
+        "pub_date": "2016-09-15T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57db1d3a95d0e021d7986857",
+        "word_count": "8",
+        "slideshow_credits": "Deidre Schoo for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/business/ap-fbn-jets-bills-streaming.html",
+        "snippet": "The Buffalo Bills and New York Jets will make some history when they kick off on Thursday night....",
+        "lead_paragraph": "The Buffalo Bills and New York Jets will make some history when they kick off on Thursday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "How To: Stream the Jets-Bills Thursday Night Game",
+          "print_headline": "How To: Stream the Jets-Bills Thursday Night Game"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:08:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1c4f95d0e021d7986854",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/us/ap-us-snake-bite-capitol.html",
+        "snippet": "West Virginia officials say a copperhead snake bit a worker at the state Capitol complex....",
+        "lead_paragraph": "West Virginia officials say a copperhead snake bit a worker at the state Capitol complex.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Copperhead Snake Bit Worker on West Virginia Capitol Campus",
+          "print_headline": "Copperhead Snake Bit Worker on West Virginia Capitol Campus"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:08:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1c4695d0e021d7986853",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/us/ap-us-jail-shooting.html",
+        "snippet": "A former convict charged with the attempted murder of two jail officers in California has pleaded not guilty....",
+        "lead_paragraph": "A former convict charged with the attempted murder of two jail officers in California has pleaded not guilty.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Convict Pleads Not Guilty in Shooting of 2 Officers",
+          "print_headline": "Ex-Convict Pleads Not Guilty in Shooting of 2 Officers"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:05:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1b9495d0e021d7986851",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/15/fashion/the-best-of-off-the-runway-new-york-fashion.html",
+        "snippet": "Some favorite moments from New York Fashion Week....",
+        "lead_paragraph": "Some favorite moments from New York Fashion Week.",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "The Best of Off the Runway",
+          "print_headline": "Where the Day Takes You"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "THE NEW YORK TIMES"
+        },
+        "type_of_material": "News",
+        "_id": "57db1a9495d0e021d7986850",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004650241/anatomy-of-a-scene-blair-witch.html",
+        "snippet": "The director Adam Wingard narrates the opening sequence from \u201cBlair Witch.\u201d...",
+        "lead_paragraph": "The director Adam Wingard narrates the opening sequence from \u201cBlair Witch.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/15/multimedia/blair-witch-anatomy/blair-witch-anatomy-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/15/multimedia/blair-witch-anatomy/blair-witch-anatomy-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/15/multimedia/blair-witch-anatomy/blair-witch-anatomy-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/15/multimedia/blair-witch-anatomy/blair-witch-anatomy-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/15/multimedia/blair-witch-anatomy/blair-witch-anatomy-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/15/multimedia/blair-witch-anatomy/blair-witch-anatomy-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Anatomy of a Scene | \u2018Blair Witch\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Blair Witch (Movie)"
+          }
+        ],
+        "pub_date": "2016-09-15T22:00:16+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mekado",
+              "rank": 1,
+              "lastname": "MURPHY"
+            }
+          ],
+          "original": "By MEKADO MURPHY"
+        },
+        "type_of_material": "Video",
+        "_id": "57db1a5a95d0e021d798684e",
+        "word_count": "11",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/15/t-magazine/fashion/lived-in-eyeliner-beauty-new-york-fashion-week.html",
+        "snippet": "At the New York Fashion Week shows, makeup artists are smudging and greasing up lids for a morning-after, slept-in look....",
+        "lead_paragraph": "At the New York Fashion Week shows, makeup artists are smudging and greasing up lids for a morning-after, slept-in look.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-trend-02/15tmag-trend-02-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/15/t-magazine/fashion/15tmag-trend-02/15tmag-trend-02-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-trend-02/15tmag-trend-02-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/15/t-magazine/fashion/15tmag-trend-02/15tmag-trend-02-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-trend-02/15tmag-trend-02-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/15/t-magazine/fashion/15tmag-trend-02/15tmag-trend-02-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Three\u2019s a Trend: Lived-in Eyeliner",
+          "content_kicker": "Three's a Trend"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "3.1 Phillip Lim (Manhattan, NY, Retailer)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Altuzarra, Joseph"
+          }
+        ],
+        "pub_date": "2016-09-15T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Caitlin",
+              "rank": 1,
+              "lastname": "KELLY"
+            }
+          ],
+          "original": "By CAITLIN KELLY"
+        },
+        "type_of_material": "News",
+        "_id": "57db1a5295d0e021d798684d",
+        "word_count": "134",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

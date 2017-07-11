@@ -1,0 +1,378 @@
+{
+  "response": {
+    "meta": {
+      "hits": 979,
+      "time": 43,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/business/08reuters-eu-usa-ttip-merkel.html",
+        "snippet": "German Chancellor Angela Merkel said the European Union should keep negotiating with the United States on a new free trade deal known as the Transatlantic Trade and Investment Partnership (TTIP)....",
+        "lead_paragraph": "German Chancellor Angela Merkel said the European Union should keep negotiating with the United States on a new free trade deal known as the Transatlantic Trade and Investment Partnership (TTIP).",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Germany's Merkel Says EU Should Keep Negotiating With U.S. on Free Trade Deal",
+          "print_headline": "Germany's Merkel Says EU Should Keep Negotiating With U.S. on Free Trade Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T23:02:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ee4a95d0e021d79852e6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/us/ap-us-planned-parenthood-utah.html",
+        "snippet": "A judge is ordering the state of Utah not to stop funding its Planned Parenthood branch over advocacy for legal abortion or unproven allegations against the national organization....",
+        "lead_paragraph": "A judge is ordering the state of Utah not to stop funding its Planned Parenthood branch over advocacy for legal abortion or unproven allegations against the national organization.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Orders State Not to Block Planned Parenthood Funding",
+          "print_headline": "Judge Orders State Not to Block Planned Parenthood Funding"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:58:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1edaf95d0e021d79852e5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/business/08reuters-centurylink-m-a-datacenters-exclusive.html",
+        "snippet": "Four private equity firms have formed a consortium to bid on a data centre business that CenturyLink Inc, a U.S. provider of phone and internet services, is hoping to divest for more than $2.5 billion (1.88 billion pounds), people familiar with th...",
+        "lead_paragraph": "Four private equity firms have formed a consortium to bid on a data centre business that CenturyLink Inc, a U.S. provider of phone and internet services, is hoping to divest for more than $2.5 billion (1.88 billion pounds), people familiar with the matter said this week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive: Private Equity Consortium Vies for CenturyLink Data Centres-Sources",
+          "print_headline": "Exclusive: Private Equity Consortium Vies for CenturyLink Data Centres-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:57:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ed9795d0e021d79852e4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/09/arts/new-york-city-to-help-fund-internships-at-cultural-organizations.html",
+        "snippet": "The Department of Cultural Affairs has launched an initiative to place CUNY students at paid internships at Carnegie Hall and other institutions....",
+        "lead_paragraph": "The Department of Cultural Affairs has launched an initiative to place CUNY students at paid internships at Carnegie Hall and other institutions.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "New York City to Help Fund Internships at Cultural Organizations",
+          "print_headline": "Effort for More Diversity at Cultural Institutions"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Culture (Arts)"
+          },
+          {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "City University of New York"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Internships"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Carnegie Hall"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "MoMA PS1"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Rockefeller Foundation"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Finkelpearl, Tom"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Milliken, James B"
+          }
+        ],
+        "pub_date": "2016-09-08T23:00:04+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Andrew",
+              "middlename": "R.",
+              "lastname": "CHOW",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANDREW R. CHOW"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ed8895d0e021d79852e3",
+        "word_count": "262",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/sports/tennis/ap-ten-us-open-the-latest.html",
+        "snippet": "The Latest on the U.S. Open (all times local):...",
+        "lead_paragraph": "The Latest on the U.S. Open (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Kerber Beats Wozniacki to Reach US Open Final",
+          "print_headline": "The Latest: Kerber Beats Wozniacki to Reach US Open Final"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:54:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ed1095d0e021d79852e1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/08/us/ap-us-kansas-shooting-business.html",
+        "snippet": "A woman accused of giving her former boyfriend guns that he used to kill three people and wound 14 others before he was shot to death at a Kansas lawn equipment factory has pleaded guilty to a reduced charge....",
+        "lead_paragraph": "A woman accused of giving her former boyfriend guns that he used to kill three people and wound 14 others before he was shot to death at a Kansas lawn equipment factory has pleaded guilty to a reduced charge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Woman Pleads to Reduced Weapons Charge in Factory Shooting",
+          "print_headline": "Woman Pleads to Reduced Weapons Charge in Factory Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:40:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ecfb95d0e021d79852e0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/us/08reuters-south-carolina-marine-suicide.html",
+        "snippet": "A Marine Corps investigation into the suicide of a recruit in South Carolina has uncovered abuse by drill instructors, in a case that could result in military prosecution or discipline of 20 training personnel, officials said on Thursday....",
+        "lead_paragraph": "A Marine Corps investigation into the suicide of a recruit in South Carolina has uncovered abuse by drill instructors, in a case that could result in military prosecution or discipline of 20 training personnel, officials said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Marine Trainers May Be Prosecuted After Suicide of Muslim Recruit",
+          "print_headline": "U.S. Marine Trainers May Be Prosecuted After Suicide of Muslim Recruit"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:55:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1eceb95d0e021d79852dd",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/world/americas/08reuters-venezuela-usa-drugs.html",
+        "snippet": "A U.S. Drug Enforcement Administration agent testified on Thursday that a probe of two nephews of Venezuela's first lady began after a drug trafficker cooperating with authorities told him of a meeting arranged by her brother, a top police officia...",
+        "lead_paragraph": "A U.S. Drug Enforcement Administration agent testified on Thursday that a probe of two nephews of Venezuela's first lady began after a drug trafficker cooperating with authorities told him of a meeting arranged by her brother, a top police official.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Links Venezuelan Official Related to Maduro to Drug Probe",
+          "print_headline": "U.S. Links Venezuelan Official Related to Maduro to Drug Probe"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:54:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ecef95d0e021d79852de",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/arts/08reuters-theatre-schoolofrock.html",
+        "snippet": "Prolific British Andrew Lloyd Webber is bringing the Broadway stage adaptation of the Jack Black comedy \"School of Rock\" to London's famed West End, hoping to show people the power of music in children's' lives....",
+        "lead_paragraph": "Prolific British Andrew Lloyd Webber is bringing the Broadway stage adaptation of the Jack Black comedy \"School of Rock\" to London's famed West End, hoping to show people the power of music in children's' lives. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Andrew Lloyd Webber Brings 'School of Rock' to West End Stage",
+          "print_headline": "Andrew Lloyd Webber Brings 'School of Rock' to West End Stage"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:54:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ecf195d0e021d79852df",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/08/us/08reuters-ohio-zoo.html",
+        "snippet": "Cincinnati police found nothing on Thursday after receiving a phone threat of a suspicious device at a zoo where a gorilla was shot earlier this year to protect a child who had fallen into its enclosure....",
+        "lead_paragraph": "Cincinnati police found nothing on Thursday after receiving a phone threat of a suspicious device at a zoo where a gorilla was shot earlier this year to protect a child who had fallen into its enclosure.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cincinnati Zoo, Site of Gorilla Slaying, Evacuated Over Suspicious Device",
+          "print_headline": "Cincinnati Zoo, Site of Gorilla Slaying, Evacuated Over Suspicious Device"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-08T22:51:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d1ec2995d0e021d79852db",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

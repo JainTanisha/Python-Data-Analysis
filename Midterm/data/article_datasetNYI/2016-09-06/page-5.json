@@ -1,0 +1,446 @@
+{
+  "response": {
+    "meta": {
+      "hits": 757,
+      "time": 37,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/09/06/t-magazine/fashion/rose-pink-makeup-perfume-dior-bulgari.html",
+        "snippet": "This season, makeup and personal fragrance evoke the soft pink hue of one of fashion\u2019s favorite flowers....",
+        "lead_paragraph": "This season, makeup and personal fragrance evoke the soft pink hue of one of fashion\u2019s favorite flowers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/06/t-magazine/dusty-rose-slide-RAHU/dusty-rose-slide-RAHU-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/06/t-magazine/dusty-rose-slide-RAHU/dusty-rose-slide-RAHU-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/06/t-magazine/dusty-rose-slide-RAHU/dusty-rose-slide-RAHU-articleLarge.jpg",
+            "height": 599,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/06/t-magazine/dusty-rose-slide-RAHU/dusty-rose-slide-RAHU-articleLarge.jpg",
+              "xlargeheight": "599"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/06/t-magazine/dusty-rose-slide-RAHU/dusty-rose-slide-RAHU-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/06/t-magazine/dusty-rose-slide-RAHU/dusty-rose-slide-RAHU-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Fall Beauty\u2019s Rosy Outlook",
+          "content_kicker": "On Beauty"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cosmetics and Toiletries"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Perfumes and Fragrances"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bulgari SpA"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Christian Dior SA"
+          }
+        ],
+        "pub_date": "2016-09-06T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Caitlin",
+              "rank": 1,
+              "lastname": "KELLY"
+            }
+          ],
+          "original": "By CAITLIN KELLY"
+        },
+        "type_of_material": "News",
+        "_id": "57cf37e895d0e021d7984b29",
+        "word_count": "205",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/us/ap-us-midwest-earthquake-well-shutdowns.html",
+        "snippet": "Federal regulators have shut down 17 wastewater disposal wells in the Osage Nation of northeastern Oklahoma following a weekend earthquake that matched the state's strongest on record, state officials confirmed Tuesday....",
+        "lead_paragraph": "Federal regulators have shut down 17 wastewater disposal wells in the Osage Nation of northeastern Oklahoma following a weekend earthquake that matched the state's strongest on record, state officials confirmed Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "EPA Shuts Down 17 Wells in Osage Nation After Oklahoma Quake",
+          "print_headline": "EPA Shuts Down 17 Wells in Osage Nation After Oklahoma Quake"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:37:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf37b795d0e021d7984b28",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/us/ap-us-ex-stanford-swimmer-rape-the-latest.html",
+        "snippet": "The Latest on former Stanford University swimmer Brock Turner, whose six-month sentence for sexually assaulting an unconscious woman sparked a national outcry (all times local):...",
+        "lead_paragraph": "The Latest on former Stanford University swimmer Brock Turner, whose six-month sentence for sexually assaulting an unconscious woman sparked a national outcry (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Complaint Says Pictures Taken of Turner's Home",
+          "print_headline": "The Latest: Complaint Says Pictures Taken of Turner's Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:34:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf370d95d0e021d7984b27",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/us/ap-us-school-threatened.html",
+        "snippet": "Authorities say the person who made online threats to kill Jewish and Muslim students at a South Carolina high school lives outside the United States....",
+        "lead_paragraph": "Authorities say the person who made online threats to kill Jewish and Muslim students at a South Carolina high school lives outside the United States.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Deputies: Online Threats to High School Not Credible",
+          "print_headline": "Deputies: Online Threats to High School Not Credible"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:33:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf370c95d0e021d7984b26",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/06/business/06reuters-chipotle-ackman.html",
+        "snippet": "Activist investor William Ackman's hedge fund took a 9.9 percent stake in fast-casual Mexican food chain Chipotle Mexican Grill Inc, buying in after the once high-flying company was battered by food-safety issues....",
+        "lead_paragraph": "Activist investor William Ackman's hedge fund took a 9.9 percent stake in fast-casual Mexican food chain Chipotle Mexican Grill Inc, buying in after the once high-flying company was battered by food-safety issues.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ackman Buys Into Chipotle, to Talk to Management; Shares Jump",
+          "print_headline": "Ackman Buys Into Chipotle, to Talk to Management; Shares Jump"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:33:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf36e995d0e021d7984b25",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:31:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf364695d0e021d7984b24",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/06/world/middleeast/06reuters-brazil-arms-forjas-taurus-prosecutors.html",
+        "snippet": "Brazilian prosecutors said on Tuesday they had charged Forjas Taurus SA, Latin America's largest gun maker, in May for dealing with a known Yemeni arms trafficker in violation of international sanctions, prompting the company's shares to plunge....",
+        "lead_paragraph": "Brazilian prosecutors said on Tuesday they had charged Forjas Taurus SA, Latin America's largest gun maker, in May for dealing with a known Yemeni arms trafficker in violation of international sanctions, prompting the company's shares to plunge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Taurus Accused in Yemen Arms Deal, Shares Dive",
+          "print_headline": "Brazil's Taurus Accused in Yemen Arms Deal, Shares Dive"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:28:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf357f95d0e021d7984b22",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/06/business/06reuters-brazil-corruption.html",
+        "snippet": "The government of Brazil's new President Michel Temer scrambled on Tuesday to distance itself from a multibillion-dollar corruption scandal that broke less than a week after he took office, involving fraud in the country's largest pension funds....",
+        "lead_paragraph": "The government of Brazil's new President Michel Temer scrambled on Tuesday to distance itself from a multibillion-dollar corruption scandal that broke less than a week after he took office, involving fraud in the country's largest pension funds.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's New Government Buffeted by Pension Fund Scandal",
+          "print_headline": "Brazil's New Government Buffeted by Pension Fund Scandal"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:28:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf357f95d0e021d7984b21",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/09/06/t-magazine/london-design-biennale-must-see-preview.html",
+        "snippet": "The inaugural event's theme, Utopia By Design, celebrates the 500th anniversary of the publication of Thomas More\u2019s novel \"Utopia.\"...",
+        "lead_paragraph": "The inaugural event's theme, Utopia By Design, celebrates the 500th anniversary of the publication of Thomas More\u2019s novel \"Utopia.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/06/t-magazine/london-design-slide-MV7Z/london-design-slide-MV7Z-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/06/t-magazine/london-design-slide-MV7Z/london-design-slide-MV7Z-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/06/t-magazine/london-design-slide-MV7Z/london-design-slide-MV7Z-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/06/t-magazine/london-design-slide-MV7Z/london-design-slide-MV7Z-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/06/t-magazine/london-design-slide-MV7Z/london-design-slide-MV7Z-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/06/t-magazine/london-design-slide-MV7Z/london-design-slide-MV7Z-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Projects Not to Miss at the London Design Biennale"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sculpture"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Design"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "London (England)"
+          }
+        ],
+        "pub_date": "2016-09-06T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Samantha",
+              "rank": 1,
+              "lastname": "TSE"
+            }
+          ],
+          "original": "By SAMANTHA TSE"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57cf339795d0e021d7984b1f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/us/ap-us-gap-distribution-center-fire.html",
+        "snippet": "Authorities say a massive fire that ripped through a Gap Inc. distribution center in New York was intentionally set....",
+        "lead_paragraph": "Authorities say a massive fire that ripped through a Gap Inc. distribution center in New York was intentionally set.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Say Fire at Gap Inc. Distribution Center Was Set",
+          "print_headline": "Police Say Fire at Gap Inc. Distribution Center Was Set"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:18:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf337795d0e021d7984b1e",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

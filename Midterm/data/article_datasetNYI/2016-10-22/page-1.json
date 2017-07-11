@@ -1,0 +1,525 @@
+{
+  "response": {
+    "meta": {
+      "hits": 378,
+      "time": 59,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/hockey/ap-hkn-heritage-classic-alumni-game.html",
+        "snippet": "The Finnish Flash was back at in front of his loving Winnipeg Jets fans....",
+        "lead_paragraph": "The Finnish Flash was back at in front of his loving Winnipeg Jets fans.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Selanne, Jets Top Oilers 6-5 in Heritage Classic Alumni Game",
+          "print_headline": "Selanne, Jets Top Oilers 6-5 in Heritage Classic Alumni Game"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T22:57:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580beef995d0e022439c4ae4",
+        "word_count": "441",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/arts/television/kevin-meaney-dead.html",
+        "snippet": "Mr. Meaney, who impersonated famous singers from the charity hit song \u201cWe Are the World,\u201d also appeared regularly on television shows, including \u201cSaturday Night Live\u201d and \u201c30 Rock.\u201d...",
+        "lead_paragraph": "Mr. Meaney, who impersonated famous singers from the charity hit song \u201cWe Are the World,\u201d also appeared regularly on television shows, including \u201cSaturday Night Live\u201d and \u201c30 Rock.\u201d",
+        "abstract": "Kevin Meaney, veteran stand-up comedian whose material often centered around his childhood, dies at age 60; frequently appeared on late-night talk shows and starred on short-lived television sitcom Uncle Buck.",
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/obituaries/23Meaney-2/23Meaney-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/obituaries/23Meaney-2/23Meaney-2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/obituaries/23Meaney-2/23Meaney-2-articleLarge.jpg",
+            "height": 952,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/obituaries/23Meaney-2/23Meaney-2-articleLarge.jpg",
+              "xlargeheight": "952"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/obituaries/23Meaney-2/23Meaney-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/obituaries/23Meaney-2/23Meaney-2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Kevin Meaney, Veteran Stand-Up Comedian, Dies at 60",
+          "print_headline": "Kevin Meaney, Stand-Up Comedian, Is Dead at 60"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Meaney, Kevin (1956-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Uncle Buck (TV Program)"
+          }
+        ],
+        "pub_date": "2016-10-22T22:48:05+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eli",
+              "rank": 1,
+              "lastname": "ROSENBERG"
+            }
+          ],
+          "original": "By ELI ROSENBERG"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "580becaa95d0e022439c4ae3",
+        "word_count": "867",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/ncaafootball/ap-fbc-t25-north-carolina-virginia.html",
+        "snippet": "The last time Mitch Trubisky threw a pass in Virginia's Scott Stadium, two years ago, it was his only play of the game and he hit T.J. Thorpe with less than a minute to play to give North Carolina a victory....",
+        "lead_paragraph": "The last time Mitch Trubisky threw a pass in Virginia's Scott Stadium, two years ago, it was his only play of the game and he hit T.J. Thorpe with less than a minute to play to give North Carolina a victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Trubisky Leads No. 22 North Carolina Past Virginia 35-14",
+          "print_headline": "Trubisky Leads No. 22 North Carolina Past Virginia 35-14"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T22:40:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580beae795d0e022439c4ae2",
+        "word_count": "728",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/world/americas/ap-cb-haiti-prison-escape.html",
+        "snippet": "More than 100 mostly barefoot inmates overpowered guards on Saturday and escaped from a lockup in central Haiti, officials said....",
+        "lead_paragraph": "More than 100 mostly barefoot inmates overpowered guards on Saturday and escaped from a lockup in central Haiti, officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Officials: 100 Mostly Barefoot Inmates Escape Haiti Lockup",
+          "print_headline": "Officials: 100 Mostly Barefoot Inmates Escape Haiti Lockup"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T22:27:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580be7e095d0e022439c4ae1",
+        "word_count": "170",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/sports/autoracing/22reuters-motor-f1-usa-renault.html",
+        "snippet": "Renault have allowed an option on Danish Formula One driver Kevin Magnussen to lapse as media speculation swirls around who could get the second seat at the team next year alongside Nico Hulkenberg....",
+        "lead_paragraph": "Renault have allowed an option on Danish Formula One driver Kevin Magnussen to lapse as media speculation swirls around who could get the second seat at the team next year alongside Nico Hulkenberg.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Magnussen and Palmer Await Renault Fate",
+          "print_headline": "Magnussen and Palmer Await Renault Fate"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T22:27:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580be7d695d0e022439c4ae0",
+        "word_count": "409",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/arts/22reuters-nobel-prize-literature-dylan.html",
+        "snippet": "The committee that awarded the Nobel Prize in Literature to Bob Dylan said on Saturday it was up to the American singer-songwriter whether to attend the prize-giving ceremony later this year or not....",
+        "lead_paragraph": "The committee that awarded the Nobel Prize in Literature to Bob Dylan said on Saturday it was up to the American singer-songwriter whether to attend the prize-giving ceremony later this year or not.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Swedish Academy Says Up to Dylan if He Wants to Come to Receive Nobel Prize",
+          "print_headline": "Swedish Academy Says Up to Dylan if He Wants to Come to Receive Nobel Prize"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T22:24:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580be72a95d0e022439c4adf",
+        "word_count": "353",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/log-cabin-republicans-donald-trump.html",
+        "snippet": "The Log Cabin Republicans said its members were torn between the favorable words Mr. Trump has spoken about their concerns and the anti-gay-rights policies he has embraced....",
+        "lead_paragraph": "The Log Cabin Republicans said its members were torn between the favorable words Mr. Trump has spoken about their concerns and the anti-gay-rights policies he has embraced.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/us/22logcabin/22logcabin-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/us/22logcabin/22logcabin-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/us/22logcabin/22logcabin-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/us/22logcabin/22logcabin-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/us/22logcabin/22logcabin-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/us/22logcabin/22logcabin-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gay Republican Group Declines to Endorse Donald Trump",
+          "print_headline": "Gay Republican Group Declines to Endorse Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Homosexuality and Bisexuality"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Endorsements"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Log Cabin Republicans"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-10-22T22:18:11+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Jeremy",
+              "middlename": "W.",
+              "lastname": "PETERS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JEREMY W. PETERS"
+        },
+        "type_of_material": "News",
+        "_id": "580be5a995d0e022439c4ade",
+        "word_count": "315",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/ap-car-nascar-talladega-.html",
+        "snippet": "Martin Truex Jr. showed up at Talladega Superspeedway determined to be at the front of the field and in control of his chances in NASCAR's playoffs....",
+        "lead_paragraph": "Martin Truex Jr. showed up at Talladega Superspeedway determined to be at the front of the field and in control of his chances in NASCAR's playoffs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Truex Wins Pole After Bolt From Confiscated at Talladega",
+          "print_headline": "Truex Wins Pole After Bolt From Confiscated at Talladega"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T22:15:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580be51095d0e022439c4add",
+        "word_count": "886",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/crosswords/over-under.html",
+        "snippet": "Ellen Leuschner and Jeff Chen want to know if you\u2019re a betting person....",
+        "lead_paragraph": "Ellen Leuschner and Jeff Chen want to know if you\u2019re a betting person.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/crosswords/23wordplay-olive/23wordplay-olive-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/crosswords/23wordplay-olive/23wordplay-olive-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/crosswords/23wordplay-olive/23wordplay-olive-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/crosswords/23wordplay-olive/23wordplay-olive-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/crosswords/23wordplay-olive/23wordplay-olive-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/crosswords/23wordplay-olive/23wordplay-olive-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Over/Under",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-10-22T22:00:24+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "News",
+        "_id": "580be18395d0e022439c4adb",
+        "word_count": "1083",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/us/ap-us-arkansas-judge-indictment.html",
+        "snippet": "Federal prosecutors oppose the release of a former Arkansas judge until his trial on charges of giving lighter sentences to defendants in exchange for nude photos and sexual acts....",
+        "lead_paragraph": "Federal prosecutors oppose the release of a former Arkansas judge until his trial on charges of giving lighter sentences to defendants in exchange for nude photos and sexual acts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Prosecutors Oppose Release of Indicted Arkansas Ex-Judge",
+          "print_headline": "Prosecutors Oppose Release of Indicted Arkansas Ex-Judge"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:57:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580be0df95d0e022439c4ada",
+        "word_count": "137",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

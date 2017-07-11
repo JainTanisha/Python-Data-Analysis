@@ -1,0 +1,727 @@
+{
+  "response": {
+    "meta": {
+      "hits": 865,
+      "time": 49,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/20/fashion/michael-kors-anna-wintour-gods-love-we-deliver-gala.html",
+        "snippet": "The event raised $2 million to help provide meals to vulnerable New Yorkers living with HIV and other illnesses....",
+        "lead_paragraph": "The event raised $2 million to help provide meals to vulnerable New Yorkers living with HIV and other illnesses.",
+        "abstract": "Scores of luminaries turn out for God\u2019s Love We Deliver's annual fall gala at Spring Studios.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Michael Kors, Anna Wintour, Kate Hudson and Blaine Trump at God\u2019s Love We Deliver Gala",
+          "content_kicker": "Party Coverage: Scene City",
+          "kicker": "Party Coverage: Scene City",
+          "print_headline": "God\u2019s Love They Deliver (With Zingers)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "God's Love We Deliver"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kors, Michael"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Wintour, Anna"
+          }
+        ],
+        "pub_date": "2016-10-18T22:03:08+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jacob",
+              "rank": 1,
+              "lastname": "BERNSTEIN"
+            }
+          ],
+          "original": "By JACOB BERNSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "58069c2495d0e022439c3e9d",
+        "word_count": "494",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/18/us/politics/ap-us-humor-prize-bill-murray.html",
+        "snippet": "Emma Stone and Jane Curtin are late additions to the lineup of performers who'll celebrate Bill Murray when he receives the nation's top prize for humor....",
+        "lead_paragraph": "Emma Stone and Jane Curtin are late additions to the lineup of performers who'll celebrate Bill Murray when he receives the nation's top prize for humor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Emma Stone, Jane Curtin Join Bill Murray Tribute in DC",
+          "print_headline": "Emma Stone, Jane Curtin Join Bill Murray Tribute in DC"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:01:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58069bb495d0e022439c3e9c",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/18/business/18reuters-bhp-billiton-output.html",
+        "snippet": "BHP Billiton, the world's biggest diversified miner, said on Wednesday it was finally detecting indications of a commodity market turnaround, giving its most upbeat assessment in about five years....",
+        "lead_paragraph": "BHP Billiton, the world's biggest diversified miner, said on Wednesday it was finally detecting indications of a commodity market turnaround, giving its most upbeat assessment in about five years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "BHP Says Sees Early Signs of Commodity Recovery",
+          "print_headline": "BHP Says Sees Early Signs of Commodity Recovery"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:00:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58069b8495d0e022439c3e9b",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/19/business/yes-ford-is-building-plants-in-mexico-no-its-not-cutting-us-jobs.html",
+        "snippet": "The American appetite for trucks and S.U.V.s is a reason to keep 3,700 jobs at a Michigan plant. But Ford can\u2019t afford to build small cars there....",
+        "lead_paragraph": "The American appetite for trucks and S.U.V.s is a reason to keep 3,700 jobs at a Michigan plant. But Ford can\u2019t afford to build small cars there.",
+        "abstract": "Ford Motor Co plans to move production of its Focus compact car from Wayne, Mich, to plant in Mexico, and to convert Wayne site to truck and SUV factory; move reflects market shifts and will not result in reduction of American jobs, but has nonetheless been criticized by some.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/18/business/19FORDPLANT-web/19FORDPLANT-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/18/business/19FORDPLANT-web/19FORDPLANT-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/18/business/19FORDPLANT-web/19FORDPLANT-web-articleLarge.jpg",
+            "height": 425,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/18/business/19FORDPLANT-web/19FORDPLANT-web-articleLarge.jpg",
+              "xlargeheight": "425"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/18/business/19FORDPLANT-web/19FORDPLANT-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/18/business/19FORDPLANT-web/19FORDPLANT-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ford Plants Go to Mexico, but U.S. Jobs Stay Around",
+          "print_headline": "Yes, Ford Is Building in Mexico. No, It\u2019s Not Cutting U.S. Jobs."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ford Motor Co"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Factories and Manufacturing"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Mexico"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Labor and Jobs"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Trade and World Market"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Small Cars (Compact, Subcompact and Microcars)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Automobile Workers"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sports Utility Vehicles and Light Trucks"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Michigan"
+          }
+        ],
+        "pub_date": "2016-10-18T21:59:10+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Neal E. Boudette contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Bill",
+              "rank": 1,
+              "lastname": "VLASIC"
+            }
+          ],
+          "original": "By BILL VLASIC"
+        },
+        "type_of_material": "News",
+        "_id": "58069b3495d0e022439c3e9a",
+        "word_count": "1313",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/19/theater/inner-voices-review-the-pen.html",
+        "snippet": "The highlight of \u201cInner Voices,\u201d a program of three musical monologues presented by Premieres at TBG Theater, is \u201cThe Pen,\u201d sung by Nancy Anderson....",
+        "lead_paragraph": "The highlight of \u201cInner Voices,\u201d a program of three musical monologues presented by Premieres at TBG Theater, is \u201cThe Pen,\u201d sung by Nancy Anderson.",
+        "abstract": "Laura Collins-Hughes reviews Inner Voices, program of musical monologues written by Dan Collins and Julianne Wick Davis, at TBG Theater.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/19/arts/19INNERVOICES1/19INNERVOICES1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/19/arts/19INNERVOICES1/19INNERVOICES1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/19/arts/19INNERVOICES1/19INNERVOICES1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/19/arts/19INNERVOICES1/19INNERVOICES1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/19/arts/19INNERVOICES1/19INNERVOICES1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/19/arts/19INNERVOICES1/19INNERVOICES1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: A Portrait of Living With Mental Illness in \u2018The Pen\u2019",
+          "print_headline": "How Did That Pen Get in Her Purse? (And Other Musical Explorations)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ali, Saheem"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Pen (Play)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Booty Call (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Just One 'Q' (Play)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Anderson, Nancy (Actor)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Collins, Dan (Librettist)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Wick Davis, Julianne"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Fitzhugh, Ellen"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Shen, Ted"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Thurber, Michael"
+          }
+        ],
+        "pub_date": "2016-10-18T21:58:51+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laura",
+              "rank": 1,
+              "lastname": "COLLINS-HUGHES"
+            }
+          ],
+          "original": "By LAURA COLLINS-HUGHES"
+        },
+        "type_of_material": "Review",
+        "_id": "58069b1e95d0e022439c3e99",
+        "word_count": "567",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/10/20/fashion/michael-kors-anna-wintour-kate-hudson-and-blaine-trump-at-gods-love-we-deliver-gala.html",
+        "snippet": "The event raised $2 million to help provide meals to vulnerable New Yorkers living with H.I.V. and other illnesses....",
+        "lead_paragraph": "The event raised $2 million to help provide meals to vulnerable New Yorkers living with H.I.V. and other illnesses.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/20/fashion/20161020SCENE-slide-14L3/20161020SCENE-slide-14L3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/20/fashion/20161020SCENE-slide-14L3/20161020SCENE-slide-14L3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/20/fashion/20161020SCENE-slide-14L3/20161020SCENE-slide-14L3-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/20/fashion/20161020SCENE-slide-14L3/20161020SCENE-slide-14L3-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/20/fashion/20161020SCENE-slide-14L3/20161020SCENE-slide-14L3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/20/fashion/20161020SCENE-slide-14L3/20161020SCENE-slide-14L3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Michael Kors, Anna Wintour, Kate Hudson and Blaine Trump at God\u2019s Love We Deliver Gala",
+          "kicker": "Party Coverage: Scene City"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Wintour, Anna"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "God's Love We Deliver"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Baldwin, Alec"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hudson, Kate (1979- )"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gurung, Prabal"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Samuelsson, Marcus"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Meyer, Danny"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kors, Michael"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Teigen, Chrissy"
+          }
+        ],
+        "pub_date": "2016-10-18T21:54:30+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jacob",
+              "rank": 1,
+              "lastname": "BERNSTEIN"
+            }
+          ],
+          "original": "By JACOB BERNSTEIN"
+        },
+        "type_of_material": "Slideshow",
+        "_id": "58069a1f95d0e022439c3e98",
+        "word_count": "19",
+        "slideshow_credits": "Nina Westervelt for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/19/us/politics/70-nobel-laureates-endorse-hillary-clinton.html",
+        "snippet": "In a letter, the experts in science, medicine and economics argued for \u201ca president who will support and advance policies that will enable science and technology to flourish.\u201d...",
+        "lead_paragraph": "In a letter, the experts in science, medicine and economics argued for \u201ca president who will support and advance policies that will enable science and technology to flourish.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/19/us/19fd-nobels/19fd-nobels-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/19/us/19fd-nobels/19fd-nobels-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/19/us/19fd-nobels/19fd-nobels-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/19/us/19fd-nobels/19fd-nobels-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/19/us/19fd-nobels/19fd-nobels-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/19/us/19fd-nobels/19fd-nobels-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "70 Nobel Laureates Endorse Hillary Clinton"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-10-18T21:54:05+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 1,
+              "lastname": "RAPPEPORT"
+            }
+          ],
+          "original": "By ALAN RAPPEPORT"
+        },
+        "type_of_material": "News",
+        "_id": "58069a0695d0e022439c3e97",
+        "word_count": "294",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/18/us/ap-us-newspaper-office-dunkin-donuts.html",
+        "snippet": "A New Jersey newspaper's headquarters may soon become a doughnut factory....",
+        "lead_paragraph": "A New Jersey newspaper's headquarters may soon become a doughnut factory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Newspaper Office Being Sold, Set to Become Doughnut Factory",
+          "print_headline": "Newspaper Office Being Sold, Set to Become Doughnut Factory"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T21:52:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580699aa95d0e022439c3e96",
+        "word_count": "138",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/18/world/africa/ap-un-united-nations-western-sahara.html",
+        "snippet": "The U.N. peacekeeping chief said Tuesday he is heading to the disputed Western Sahara later this week to visit U.N. troops for the first time since Morocco expelled more than 70 U.N. civilian staffers in March to protest comments by Secretary-Gene...",
+        "lead_paragraph": "The U.N. peacekeeping chief said Tuesday he is heading to the disputed Western Sahara later this week to visit U.N. troops for the first time since Morocco expelled more than 70 U.N. civilian staffers in March to protest comments by Secretary-General Ban Ki-moon.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Peacekeeping Chief to Visit Disputed Western Sahara",
+          "print_headline": "UN Peacekeeping Chief to Visit Disputed Western Sahara"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T21:52:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5806999395d0e022439c3e95",
+        "word_count": "419",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/18/us/18reuters-oregon-militia.html",
+        "snippet": "The six men and a woman charged with conspiracy in seizing a U.S. wildlife center in Oregon were staging a legitimate protest manipulated by the government through informants who infiltrated the group, a defense lawyer argued at their trial on Tue...",
+        "lead_paragraph": "The six men and a woman charged with conspiracy in seizing a U.S. wildlife center in Oregon were staging a legitimate protest manipulated by the government through informants who infiltrated the group, a defense lawyer argued at their trial on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Oregon Militants Cast by Defense as Victims of Corrupt Government",
+          "print_headline": "Oregon Militants Cast by Defense as Victims of Corrupt Government"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T21:51:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5806996695d0e022439c3e94",
+        "word_count": "413",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

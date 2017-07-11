@@ -1,0 +1,410 @@
+{
+  "response": {
+    "meta": {
+      "hits": 802,
+      "time": 64,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/16/us/ap-us-schilling-warren.html",
+        "snippet": "Former Red Sox pitcher Curt Schilling is considering running against Sen. Elizabeth Warren in 2018....",
+        "lead_paragraph": "Former Red Sox pitcher Curt Schilling is considering running against Sen. Elizabeth Warren in 2018.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Red Sox Pitcher Schilling Weighs Run Against Sen. Warren",
+          "print_headline": "Ex-Red Sox Pitcher Schilling Weighs Run Against Sen. Warren"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T22:03:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38eaf95d0e021d79810a2",
+        "word_count": "249",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/16/sports/olympics/rio-us-womens-water-polo.html",
+        "snippet": "The United States women\u2019s water polo team has dominated in the Rio Olympics. We asked Natalie Benson, a two-time Olympian, to tell us how players get an advantage....",
+        "lead_paragraph": "The United States women\u2019s water polo team has dominated in the Rio Olympics. We asked Natalie Benson, a two-time Olympian, to tell us how players get an advantage.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/16/sports/olympics/rio-us-womens-water-polo-1471383721691/rio-us-womens-water-polo-1471383721691-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/16/sports/olympics/rio-us-womens-water-polo-1471383721691/rio-us-womens-water-polo-1471383721691-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/16/sports/olympics/rio-us-womens-water-polo-1471383721691/rio-us-womens-water-polo-1471383721691-articleLarge-v2.gif",
+            "height": 903,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/16/sports/olympics/rio-us-womens-water-polo-1471383721691/rio-us-womens-water-polo-1471383721691-articleLarge-v2.gif",
+              "xlargeheight": "903"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/16/sports/olympics/rio-us-womens-water-polo-1471383721691/rio-us-womens-water-polo-1471383721691-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/16/sports/olympics/rio-us-womens-water-polo-1471383721691/rio-us-womens-water-polo-1471383721691-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In Water Polo, the Real Action Is Under the Water"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Water Polo"
+          }
+        ],
+        "pub_date": "2016-08-16T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tim",
+              "rank": 1,
+              "lastname": "WALLACE"
+            }
+          ],
+          "original": "By TIM WALLACE"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57b38e7a95d0e021d79810a0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/16/us/ap-fbn-saints-west-virginia.html",
+        "snippet": "When the New Orleans Saints conclude practice Wednesday at the $30 million training center built for them at the luxury Greenbrier Resort, the three fields there are expected to be used by disaster-affected youth football teams whose regular field...",
+        "lead_paragraph": "When the New Orleans Saints conclude practice Wednesday at the $30 million training center built for them at the luxury Greenbrier Resort, the three fields there are expected to be used by disaster-affected youth football teams whose regular fields were contaminated by flooding of historic proportions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Saints' Future at Greenbrier Uncertain as 3-Year Deal Ends",
+          "print_headline": "Saints' Future at Greenbrier Uncertain as 3-Year Deal Ends"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T22:05:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38e8595d0e021d79810a1",
+        "word_count": "833",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/16/sports/olympics/ap-oly-bko-us-argentina-again.html",
+        "snippet": "In the last three Olympics it was a semifinal matchup, the penultimate step on the winner's climb to the gold-medal podium....",
+        "lead_paragraph": "In the last three Olympics it was a semifinal matchup, the penultimate step on the winner's climb to the gold-medal podium.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "US-Argentina Again in Men's Basketball, Only Now in Quarters",
+          "print_headline": "US-Argentina Again in Men's Basketball, Only Now in Quarters"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T21:55:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38df795d0e021d798109e",
+        "word_count": "766",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/16/nytnow/louisiana-simone-biles-us-presidential-race-your-tuesday-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/16/nytnow/16nytnow-gawker2/16nytnow-gawker2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/16/nytnow/16nytnow-gawker2/16nytnow-gawker2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/16/nytnow/16nytnow-gawker2/16nytnow-gawker2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/16/nytnow/16nytnow-gawker2/16nytnow-gawker2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/16/nytnow/16nytnow-gawker2/16nytnow-gawker2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/16/nytnow/16nytnow-gawker2/16nytnow-gawker2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Louisiana, Simone Biles, U.S. Presidential Race: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57b38d4695d0e021d798109d",
+        "word_count": "823",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/16/us/ap-us-hepatitis-a-hawaii.html",
+        "snippet": "Hawaii authorities are urging diners to be aware of the risks of eating raw and undercooked food after they traced a hepatitis A outbreak to frozen scallops served raw at a sushi restaurant chain....",
+        "lead_paragraph": "Hawaii authorities are urging diners to be aware of the risks of eating raw and undercooked food after they traced a hepatitis A outbreak to frozen scallops served raw at a sushi restaurant chain.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Hawaii Authorities Urge Awareness of Raw Food Risk",
+          "print_headline": "Hawaii Authorities Urge Awareness of Raw Food Risk"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T21:56:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38d4695d0e021d798109c",
+        "word_count": "572",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/16/us/16reuters-lumber-liquidate-settlement.html",
+        "snippet": "Lumber Liquidators Holdings Inc said a California court ruled in its favor against claims that it did not warn consumers about cancer-causing formaldehyde in some of its flooring products....",
+        "lead_paragraph": "Lumber Liquidators Holdings Inc said a California court ruled in its favor against claims that it did not warn consumers about cancer-causing formaldehyde in some of its flooring products.  ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lumber Liquidators Wins Ruling on Cancer Warnings, Shares Jump",
+          "print_headline": "Lumber Liquidators Wins Ruling on Cancer Warnings, Shares Jump"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T21:59:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38d1f95d0e021d798109b",
+        "word_count": "224",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/16/sports/olympics/16reuters-olympics-rio-agymnastics-m-horizontal-leyva.html",
+        "snippet": "American Danell Leyva, originally a substitute for the men's gymnastic team, was jubilant after winning two silver medals on Tuesday, including in one event where he had suffered a crash landing last week....",
+        "lead_paragraph": "American Danell Leyva, originally a substitute for the men's gymnastic team, was jubilant after winning two silver medals on Tuesday, including in one event where he had suffered a crash landing last week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gymnastics: Leyva Claims 'Redemption' With Two Silvers",
+          "print_headline": "Gymnastics: Leyva Claims 'Redemption' With Two Silvers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T21:59:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38d1995d0e021d798109a",
+        "word_count": "308",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/16/sports/olympics/ap-oly-ath-racing-to-rio.html",
+        "snippet": "Kenyan sprinter Carvin Nkanata's biggest race this week was the 12-hour dash from Florida to the Olympic Stadium in Rio de Janeiro to make the starting blocks for the 200-meter heats....",
+        "lead_paragraph": "Kenyan sprinter Carvin Nkanata's biggest race this week was the 12-hour dash from Florida to the Olympic Stadium in Rio de Janeiro to make the starting blocks for the 200-meter heats.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kenyan Sprinter in 12-Hour Race to Make Race in Rio",
+          "print_headline": "Kenyan Sprinter in 12-Hour Race to Make Race in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T21:43:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38ca295d0e021d7981099",
+        "word_count": "437",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/16/sports/olympics/ap-oly-swm-lochte-robbery.html",
+        "snippet": "Police investigating reports that American swimmer Ryan Lochte and three of his teammates were robbed at gunpoint in a taxi so far have found little evidence supporting the account, and say the swimmers were unable to provide key details in police...",
+        "lead_paragraph": "Police investigating reports that American swimmer Ryan Lochte and three of his teammates were robbed at gunpoint in a taxi so far have found little evidence supporting the account, and say the swimmers were unable to provide key details in police interviews.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rio Police: Scant Evidence So Far in Lochte Robbery Probe",
+          "print_headline": "Rio Police: Scant Evidence So Far in Lochte Robbery Probe"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-16T21:34:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b38ca295d0e021d7981098",
+        "word_count": "784",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,343 @@
+{
+  "response": {
+    "meta": {
+      "hits": 974,
+      "time": 50,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/sports/golf/17reuters-golf-pga.html",
+        "snippet": "Stewart Cink drew inspiration from his wife's cancer battle to fire a career-low eight-under-par 62 on Thursday on an ideal day for scoring in the first round of the RSM Classic in St. Simons, Georgia....",
+        "lead_paragraph": "Stewart Cink drew inspiration from his wife's cancer battle to fire a career-low eight-under-par 62 on Thursday on an ideal day for scoring in the first round of the RSM Classic in St. Simons, Georgia.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cink Lifted by Wife's Cancer Battle; Fires Career-Low 62",
+          "print_headline": "Cink Lifted by Wife's Cancer Battle; Fires Career-Low 62"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:12:36+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e396a95d0e03926071300",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-canada-trump-nafta-manufacturers.html",
+        "snippet": "Canadian manufacturers want their access to the U.S. market protected at all costs if Canada renegotiates the NAFTA trade deal with U.S. President-elect Donald Trump, even if that means losing the trilateral partnership with Mexico....",
+        "lead_paragraph": "Canadian manufacturers want their access to the U.S. market protected at all costs if Canada renegotiates the NAFTA trade deal with U.S. President-elect Donald Trump, even if that means losing the trilateral partnership with Mexico.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Canada Manufacturers Put U.S. Ahead of Mexico if Trump Ends NAFTA",
+          "print_headline": "Canada Manufacturers Put U.S. Ahead of Mexico if Trump Ends NAFTA"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:12:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e396a95d0e039260712ff",
+        "word_count": "424",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-autoshow-china-electric.html",
+        "snippet": "After paying out billions of dollars in subsidies to promote greener cars - and creating a gold-rush among unknown start-ups - China is tightening its grip on the world's biggest electric vehicle (EV) market to weed out weaker domestic firms....",
+        "lead_paragraph": "After paying out billions of dollars in subsidies to promote greener cars - and creating a gold-rush among unknown start-ups - China is tightening its grip on the world's biggest electric vehicle (EV) market to weed out weaker domestic firms.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "With Tougher Rules, China Wants Fewer, but Better, Electric Car Makers",
+          "print_headline": "With Tougher Rules, China Wants Fewer, but Better, Electric Car Makers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:12:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e396495d0e039260712fe",
+        "word_count": "963",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/movies/movie-listings-for-nov-18-24.html",
+        "snippet": "A guide to movies playing at theaters in the New York City area, as well as select festivals and film series....",
+        "lead_paragraph": "A guide to movies playing at theaters in the New York City area, as well as select festivals and film series.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/arts/18LISTINGSMOVIES/18LISTINGSMOVIES-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/arts/18LISTINGSMOVIES/18LISTINGSMOVIES-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/arts/18LISTINGSMOVIES/18LISTINGSMOVIES-articleLarge.jpg",
+            "height": 729,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/arts/18LISTINGSMOVIES/18LISTINGSMOVIES-articleLarge.jpg",
+              "xlargeheight": "729"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/arts/18LISTINGSMOVIES/18LISTINGSMOVIES-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/arts/18LISTINGSMOVIES/18LISTINGSMOVIES-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Movie Listings for Nov. 18-24",
+          "print_headline": "The Listings: Movies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-11-17T23:11:53+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "582e393e95d0e039260712fd",
+        "word_count": "2627",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/ap-car-nascar-homestead-media-day-.html",
+        "snippet": "As expected, NASCAR's four championship rivals were cordial, candid and comical....",
+        "lead_paragraph": "As expected, NASCAR's four championship rivals were cordial, candid and comical.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NASCAR Drivers Cozy Up in Very Cordial Championship Preview",
+          "print_headline": "NASCAR Drivers Cozy Up in Very Cordial Championship Preview"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:11:15+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e391995d0e039260712fc",
+        "word_count": "779",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-google-digital-death-sentence.html",
+        "snippet": "Some of Google's unwitting users are learning a harsh lesson: If you violate the company's policies, it can abruptly cut you off from your Gmail account, online photos and other vital digital services....",
+        "lead_paragraph": "Some of Google's unwitting users are learning a harsh lesson: If you violate the company's policies, it can abruptly cut you off from your Gmail account, online photos and other vital digital services.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Google Hits Pixel Resellers With 'Digital Death Sentence'",
+          "print_headline": "Google Hits Pixel Resellers With 'Digital Death Sentence'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:10:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e38f595d0e039260712fb",
+        "word_count": "704",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-usa-court-fees.html",
+        "snippet": "The U.S. Supreme Court on Thursday gave the green light to class action lawsuits by consumers accusing Visa Inc, Mastercard Inc and several U.S. banks of conspiring to inflate the prices of ATM access fees in violation of antitrust law....",
+        "lead_paragraph": "The U.S. Supreme Court on Thursday gave the green light to class action lawsuits by consumers accusing Visa Inc, Mastercard Inc and several U.S. banks of conspiring to inflate the prices of ATM access fees in violation of antitrust law.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Supreme Court Allows ATM Fees Lawsuits to Proceed",
+          "print_headline": "U.S. Supreme Court Allows ATM Fees Lawsuits to Proceed"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:09:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e38b095d0e039260712fa",
+        "word_count": "296",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-autoshow-china-outlook.html",
+        "snippet": "Car makers in China are fretting over whether a tax break that has propped up sales this year will be extended, with an end to the policy possibly leading to the first annual decline in sales on record for the world's largest auto market....",
+        "lead_paragraph": "Car makers in China are fretting over whether a tax break that has propped up sales this year will be extended, with an end to the policy possibly leading to the first annual decline in sales on record for the world's largest auto market.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Automakers in China on Tenterhooks Over Fate of Key Tax Break",
+          "print_headline": "Automakers in China on Tenterhooks Over Fate of Key Tax Break"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:06:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e380695d0e039260712f9",
+        "word_count": "491",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-ecb-banks-auditors.html",
+        "snippet": "The European Central Bank risks conflicts of interests over its bank supervision powers when it uses the same staff to perform monetary and supervisory functions, EU auditors said on Friday....",
+        "lead_paragraph": "The European Central Bank risks conflicts of interests over its bank supervision powers when it uses the same staff to perform monetary and supervisory functions, EU auditors said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "ECB Risks Conflicts of Interests Over Bank Supervision-Auditors",
+          "print_headline": "ECB Risks Conflicts of Interests Over Bank Supervision-Auditors"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:03:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e375695d0e039260712f8",
+        "word_count": "387",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/ncaabasketball/ap-bkc-t25-long-beach-st-louisville.html",
+        "snippet": "Louisville coach Rick Pitino's concerns about the early season schedule causing his 12th-ranked Cardinals problems might be merited at some point....",
+        "lead_paragraph": "Louisville coach Rick Pitino's concerns about the early season schedule causing his 12th-ranked Cardinals problems might be merited at some point.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 12 Louisville Runs Past Long Beach State 88-56",
+          "print_headline": "No. 12 Louisville Runs Past Long Beach State 88-56"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:01:37+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e36d695d0e039260712f7",
+        "word_count": "670",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

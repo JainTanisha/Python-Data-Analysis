@@ -1,0 +1,745 @@
+{
+  "response": {
+    "meta": {
+      "hits": 988,
+      "time": 56,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/sports/golf/01reuters-golf-pga.html",
+        "snippet": "World number one Jason Day birdied two of his last three holes, despite difficult conditions for scoring, to take a one-stroke lead after Friday's wind-swept second round of the WGC-Bridgestone Invitational in Akron, Ohio....",
+        "lead_paragraph": "World number one Jason Day birdied two of his last three holes, despite difficult conditions for scoring, to take a one-stroke lead after Friday's wind-swept second round of the WGC-Bridgestone Invitational in Akron, Ohio.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Day Moves One Ahead at Challenging Firestone",
+          "print_headline": "Day Moves One Ahead at Challenging Firestone"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:36:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57770d4638f0d81f396c04be",
+        "word_count": "405",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/arts/dance/review-jack-ferver-i-want-you-to-want-me-the-kitchen.html",
+        "snippet": "Jack Ferver\u2019s comedy \u201cI Want You to Want Me,\u201d which had its premiere at the Kitchen, follows a young dancer who moves to France....",
+        "lead_paragraph": "Jack Ferver\u2019s comedy \u201cI Want You to Want Me,\u201d which had its premiere at the Kitchen, follows a young dancer who moves to France.",
+        "abstract": "Brian Seibert reviews premiere of Jack Ferver ballet I Want You To Want Me, final installment of American Dance Institute\u2019s five-week season at The Kitchen.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/arts/02FERVER/02FERVER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/arts/02FERVER/02FERVER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/arts/02FERVER/02FERVER-articleLarge.jpg",
+            "height": 652,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/arts/02FERVER/02FERVER-articleLarge.jpg",
+              "xlargeheight": "652"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/arts/02FERVER/02FERVER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/arts/02FERVER/02FERVER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: An Innocent Abroad (Beware the Boss\u2019s Bite)",
+          "print_headline": "An Innocent Abroad (Careful, the Diva Boss Has a Bite)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ferver, Jack"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "American Dance Institute (ADI)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Kitchen, The (Manhattan, NY, Performance Space)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "I Want You to Want Me (Ballet)"
+          }
+        ],
+        "pub_date": "2016-07-01T20:33:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Brian",
+              "rank": 1,
+              "lastname": "SEIBERT"
+            }
+          ],
+          "original": "By BRIAN SEIBERT"
+        },
+        "type_of_material": "Review",
+        "_id": "5776d37e38f0d81f396c043d",
+        "word_count": "382",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/world/europe/battle-of-the-somme.html",
+        "snippet": "The nation turned away from discord over the vote to leave the European Union to mark the 100th anniversary of the bloody World War I battle....",
+        "lead_paragraph": "The nation turned away from discord over the vote to leave the European Union to mark the 100th anniversary of the bloody World War I battle.",
+        "abstract": "British Prime Min David Cameron joins French Pres Francois Hollande at Thiepval Memorial in northern France to pay respect to dead of Battle of Somme on its 100th anniversary; ceremony offers counterpoint to vote by Britain to exit European Union at time when concept of European union is strained.",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/world/02somme2-web/02somme2-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/world/02somme2-web/02somme2-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/world/02somme2-web/02somme2-web-articleLarge.jpg",
+            "height": 402,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/world/02somme2-web/02somme2-web-articleLarge.jpg",
+              "xlargeheight": "402"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/world/02somme2-web/02somme2-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/world/02somme2-web/02somme2-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Britons Put Rancor Aside to Commemorate the Battle of the Somme",
+          "print_headline": "Britons Set Aside Rancor to Honor Thousands Killed in Battle of the Somme"
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "World War I (1914-18)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Great Britain Withdrawal from EU (Brexit)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Cameron, David"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hollande, Francois"
+          }
+        ],
+        "pub_date": "2016-07-01T20:32:57+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Aurelien Breeden contributed reporting from Paris.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dan",
+              "rank": 1,
+              "lastname": "BILEFSKY"
+            }
+          ],
+          "original": "By DAN BILEFSKY"
+        },
+        "type_of_material": "News",
+        "_id": "5776d37c38f0d81f396c043c",
+        "word_count": "822",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/03/realestate/a-soho-condo-designed-by-renzo-piano.html",
+        "snippet": "Renzo Piano\u2019s first residential project in the city, 565 Broome SoHo, overlooks Holland Tunnel traffic, but residents also get Hudson River views....",
+        "lead_paragraph": "Renzo Piano\u2019s first residential project in the city, 565 Broome SoHo, overlooks Holland Tunnel traffic, but residents also get Hudson River views.",
+        "abstract": "Prizewinning architect Renzo Piano has designed his first residential project in New York City, near entrance to Holland Tunnel; 30-story, 115-unit building will offer lounge, fitness center, terrace and salt water pool as part of its amenities, and is expected to open in 2018.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/03/realestate/03BROOME/03BROOME-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/03/realestate/03BROOME/03BROOME-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/03/realestate/03BROOME/03BROOME-articleLarge.jpg",
+            "height": 949,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/03/realestate/03BROOME/03BROOME-articleLarge.jpg",
+              "xlargeheight": "949"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/03/realestate/03BROOME/03BROOME-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/03/realestate/03BROOME/03BROOME-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A SoHo Condo Designed by Renzo Piano",
+          "print_headline": "Rising Near the Tunnel"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Holland Tunnel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "SoHo (Manhattan, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Piano, Renzo"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Architecture"
+          }
+        ],
+        "pub_date": "2016-07-01T20:30:16+0000",
+        "document_type": "article",
+        "news_desk": "RealEstate",
+        "section_name": "Real Estate",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kaya",
+              "rank": 1,
+              "lastname": "LATERMAN"
+            }
+          ],
+          "original": "By KAYA LATERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "5776d2db38f0d81f396c0438",
+        "word_count": "633",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/olympics/ap-oly-box-awesomes-last-chance.html",
+        "snippet": "Cam F. Awesome's sleepwalking gets worse before a big fight....",
+        "lead_paragraph": "Cam F. Awesome's sleepwalking gets worse before a big fight.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Boxer Cam F Awesome Down to Last Shot at Olympic Dream",
+          "print_headline": "US Boxer Cam F Awesome Down to Last Shot at Olympic Dream"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:24:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57770a9a38f0d81f396c04b9",
+        "word_count": "789",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/03/opinion/sunday/there-are-conservative-professors-just-not-in-these-states.html",
+        "snippet": "New England colleges skew extremely liberal, Rocky Mountain ones less so....",
+        "lead_paragraph": "New England colleges skew extremely liberal, Rocky Mountain ones less so.",
+        "abstract": "Gray Matter column by Prof Samuel J Abrams describes his research into political leanings in ranks of academia; reports finding sharp shift to left in last 25 years and observes that college professors in New England are far more liberal than their counterparts across country.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/03/opinion/sunday/03gray/03gray-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/03/opinion/sunday/03gray/03gray-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/03/opinion/sunday/03gray/03gray-articleLarge.jpg",
+            "height": 350,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/03/opinion/sunday/03gray/03gray-articleLarge.jpg",
+              "xlargeheight": "350"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/03/opinion/sunday/03gray/03gray-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/03/opinion/sunday/03gray/03gray-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "There Are Conservative Professors. Just Not in These States.",
+          "content_kicker": "Gray Matter",
+          "kicker": "Gray Matter",
+          "print_headline": "The New England Effect"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sociology"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Sarah Lawrence College"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New England States (US)"
+          }
+        ],
+        "pub_date": "2016-07-01T20:27:49+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Samuel",
+              "middlename": "J.",
+              "lastname": "ABRAMS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By SAMUEL J. ABRAMS"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5776d24838f0d81f396c0437",
+        "word_count": "867",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/theater/review-in-the-animals-what-schoolteachers-learned-at-the-lounge-room.html",
+        "snippet": "This engaging one-act directed by Gretchen Van Lente follows five teachers through the dramas of an academic school year....",
+        "lead_paragraph": "This engaging one-act directed by Gretchen Van Lente follows five teachers through the dramas of an academic school year.",
+        "abstract": "Anita Gates reviews Amina Henry play The Animals, directed by Gretchen Van Lente and starring Leta Renee-Alan, at Jack performance space.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/arts/02ANIMALS/02ANIMALS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/arts/02ANIMALS/02ANIMALS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/arts/02ANIMALS/02ANIMALS-articleLarge.jpg",
+            "height": 448,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/arts/02ANIMALS/02ANIMALS-articleLarge.jpg",
+              "xlargeheight": "448"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/arts/02ANIMALS/02ANIMALS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/arts/02ANIMALS/02ANIMALS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018The Animals,\u2019 What Schoolteachers Learned at the Lounge Room",
+          "print_headline": " Easy to Be a Teacher (Until Stuff Happens)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Jack (Brooklyn, NY, Performance Space)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Henry, Amina"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Van Lente, Gretchen"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Animals (Play)"
+          }
+        ],
+        "pub_date": "2016-07-01T20:25:35+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anita",
+              "rank": 1,
+              "lastname": "GATES"
+            }
+          ],
+          "original": "By ANITA GATES"
+        },
+        "type_of_material": "Review",
+        "_id": "5776d1c038f0d81f396c0435",
+        "word_count": "346",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/03/sports/soccer/euro-iceland-france.html",
+        "snippet": "Iceland\u2019s startling, feel-good run at the European Championships continues on Sunday with a quarterfinal game against France....",
+        "lead_paragraph": "Iceland\u2019s startling, feel-good run at the European Championships continues on Sunday with a quarterfinal game against France.",
+        "abstract": "Iceland men's national soccer team's improbable run through European Championships, including stunning upset of England, is likely to climax with upcoming quarterfinal match against tournament's host France.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/03/sports/03EUROICELANDWEB6/03EUROICELANDWEB1-1467392458174-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/03/sports/03EUROICELANDWEB6/03EUROICELANDWEB1-1467392458174-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/03/sports/03EUROICELANDWEB6/03EUROICELANDWEB1-1467392458174-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/03/sports/03EUROICELANDWEB6/03EUROICELANDWEB1-1467392458174-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/03/sports/03EUROICELANDWEB6/03EUROICELANDWEB1-1467392458174-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/03/sports/03EUROICELANDWEB6/03EUROICELANDWEB1-1467392458174-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How Tiny, Quirky Iceland Won Over Soccer Fans Worldwide",
+          "print_headline": "Tiny. Quirky. Iceland  Enthralls a Continent."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Soccer"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "UEFA European Football Championship"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iceland"
+          }
+        ],
+        "pub_date": "2016-07-01T20:24:54+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "BORDEN"
+            }
+          ],
+          "original": "By SAM BORDEN"
+        },
+        "type_of_material": "News",
+        "_id": "5776d19838f0d81f396c0431",
+        "word_count": "1386",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/business/01reuters-sportsauthority-bankruptcy-stadium.html",
+        "snippet": "Tickets to watch U.S. professional football team the Denver Broncos, the winners of the 2016 Super Bowl, may be a hot commodity, but an auction for their stadium's naming rights ended this week without any bids being received....",
+        "lead_paragraph": "Tickets to watch U.S. professional football team the Denver Broncos, the winners of the 2016 Super Bowl, may be a hot commodity, but an auction for their stadium's naming rights ended this week without any bids being received.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Denver Broncos Stadium Naming Rights Fail to Attract Bidders",
+          "print_headline": "Denver Broncos Stadium Naming Rights Fail to Attract Bidders"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:23:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577709c438f0d81f396c04b7",
+        "word_count": "347",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/world/americas/01reuters-venezuela-energy.html",
+        "snippet": "Venezuela as of Monday will end an electricity rationing program launched in April in response to a severe drought that crimped the operations of the OPEC nation's hydroelectric generators, President Nicolas Maduro on Friday....",
+        "lead_paragraph": "Venezuela as of Monday will end an electricity rationing program launched in April in response to a severe drought that crimped the operations of the OPEC nation's hydroelectric generators, President Nicolas Maduro on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela's Maduro Ends Power Rationing as Drought Eases",
+          "print_headline": "Venezuela's Maduro Ends Power Rationing as Drought Eases"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:22:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577709c638f0d81f396c04b8",
+        "word_count": "196",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,603 @@
+{
+  "response": {
+    "meta": {
+      "hits": 914,
+      "time": 33,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/us/politics/obama-2016-presidential-medal-of-freedom.html",
+        "snippet": "The 21 recipients of the award, the nation\u2019s highest civilian honor, also include Frank Gehry, Vin Scully, Tom Hanks and Bill and Melinda Gates....",
+        "lead_paragraph": "The 21 recipients of the award, the nation\u2019s highest civilian honor, also include Frank Gehry, Vin Scully, Tom Hanks and Bill and Melinda Gates.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-articleLarge.jpg",
+            "height": 393,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-articleLarge.jpg",
+              "xlargeheight": "393"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/us/17xp-medal_web1/17xp-medal_web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ellen DeGeneres and Kareem Abdul-Jabbar Among 2016 Presidential Medal of Freedom Recipients"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Medal of Freedom"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "DeGeneres, Ellen"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scully, Vin"
+          }
+        ],
+        "pub_date": "2016-11-16T23:33:45Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Liam",
+              "rank": 1,
+              "lastname": "STACK"
+            }
+          ],
+          "original": "By LIAM STACK"
+        },
+        "type_of_material": "News",
+        "_id": "582cece295d0e0204d560e02",
+        "word_count": "302",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/sports/ncaafootball/ap-fbc-big-12-sorting-it-out.html",
+        "snippet": "While Oklahoma and West Virginia meet this weekend in a top-10 showdown with huge implications for the Big 12 title, there are plenty of teams farther down in the conference standings that can still end up eligible for a bowl game....",
+        "lead_paragraph": "While Oklahoma and West Virginia meet this weekend in a top-10 showdown with huge implications for the Big 12 title, there are plenty of teams farther down in the conference standings that can still end up eligible for a bowl game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Big 12 Has Plenty to Sort Out, Including Champion",
+          "print_headline": "Big 12 Has Plenty to Sort Out, Including Champion"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:31:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582cec6295d0e0204d560e01",
+        "word_count": "608",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/well/live/for-a-sprained-ankle-physical-therapy-no-better-than-self-care.html",
+        "snippet": "There were no significant differences between the physical therapy and the self-treatment groups at one, three or six months after an ankle injury....",
+        "lead_paragraph": "There were no significant differences between the physical therapy and the self-treatment groups at one, three or six months after an ankle injury.",
+        "abstract": "Brenda Brouwer study in journal BMJ Open concludes physical therapy for sprained ankle may be no more effective than self-treatment at home.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/13/well/well_pog_body/well_pog_body-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/13/well/well_pog_body/well_pog_body-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/13/well/well_pog_body/well_pog_body-articleLarge-v3.png",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/13/well/well_pog_body/well_pog_body-articleLarge-v3.png",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/13/well/well_pog_body/well_pog_body-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/13/well/well_pog_body/well_pog_body-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For a Sprained Ankle, Physical Therapy No Better Than Self Care",
+          "print_headline": "Body; Treating Ankle Sprains"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sprains and Strains"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Ankles (Body Part)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Physical Therapy"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sports Injuries"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Therapy and Rehabilitation"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "BMJ Open (Journal)"
+          }
+        ],
+        "pub_date": "2016-11-16T23:30:03+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Well",
+        "subsection_name": "Live",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "BAKALAR"
+            }
+          ],
+          "original": "By NICHOLAS BAKALAR"
+        },
+        "type_of_material": "News",
+        "_id": "582cebff95d0e0204d560e00",
+        "word_count": "207",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/technology/facebook-acts-to-restore-trust-after-overstating-video-views.html",
+        "snippet": "Facebook promises to increase use of outside measurement services for ads and to expand use of metrics services, among other measures....",
+        "lead_paragraph": "Facebook promises to increase use of outside measurement services for ads and to expand use of metrics services, among other measures.",
+        "abstract": null,
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/business/17FACEBOOK1/17FACEBOOK1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/business/17FACEBOOK1/17FACEBOOK1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/business/17FACEBOOK1/17FACEBOOK1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/business/17FACEBOOK1/17FACEBOOK1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/business/17FACEBOOK1/17FACEBOOK1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/business/17FACEBOOK1/17FACEBOOK1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Facebook Acts to Restore Trust After Overstating Video Views",
+          "print_headline": "Facebook Acts to Restore Trust After Overstating Video Views"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Online Advertising"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Ratings (Audience Measurement)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Video Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          }
+        ],
+        "pub_date": "2016-11-16T23:29:10Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Steve",
+              "rank": 1,
+              "lastname": "LOHR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sapna",
+              "rank": 2,
+              "lastname": "MAHESHWARI"
+            }
+          ],
+          "original": "By STEVE LOHR and SAPNA MAHESHWARI"
+        },
+        "type_of_material": "News",
+        "_id": "582cebc995d0e0204d560dff",
+        "word_count": "634",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-gift-guide-film.html",
+        "snippet": "Buying that perfect gift for a film buff can be a vexing task, so we went right to the heart of Hollywood to get tips on the creative ways in which some directors and stars might enchant a fellow movie lover this holiday season....",
+        "lead_paragraph": "Buying that perfect gift for a film buff can be a vexing task, so we went right to the heart of Hollywood to get tips on the creative ways in which some directors and stars might enchant a fellow movie lover this holiday season.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Directors, Stars Reveal What They'd Buy for a Film Buff",
+          "print_headline": "Directors, Stars Reveal What They'd Buy for a Film Buff"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:25:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ceaef95d0e0204d560dfe",
+        "word_count": "645",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/business/dealbook/former-lending-club-chief-is-creating-a-new-lending-site.html",
+        "snippet": "Renaud Laplanche has filed papers in several states to create Credify, a lending marketplace....",
+        "lead_paragraph": "Renaud Laplanche has filed papers in several states to create Credify, a lending marketplace.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/business/17DB-LENDING/17DB-LENDING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/business/17DB-LENDING/17DB-LENDING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/business/17DB-LENDING/17DB-LENDING-articleLarge.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/business/17DB-LENDING/17DB-LENDING-articleLarge.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/business/17DB-LENDING/17DB-LENDING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/business/17DB-LENDING/17DB-LENDING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Former Lending Club Chief Is Creating a New Lending Site",
+          "print_headline": "Ex-Lending Club Chief Is Starting New Site"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Credit and Debt"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Lending Club"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Laplanche, Renaud"
+          }
+        ],
+        "pub_date": "2016-11-16T23:25:08+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nathaniel",
+              "rank": 1,
+              "lastname": "POPPER"
+            }
+          ],
+          "original": "By NATHANIEL POPPER"
+        },
+        "type_of_material": "News",
+        "_id": "582cead995d0e0204d560dfd",
+        "word_count": "360",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/world/europe/ap-un-united-nations-france.html",
+        "snippet": "Secretary-General Ban Ki-moon will receive the Legion of Honor from French President Francois Hollande during his farewell visit to France this week....",
+        "lead_paragraph": "Secretary-General Ban Ki-moon will receive the Legion of Honor from French President Francois Hollande during his farewell visit to France this week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Chief to Receive Legion of Honor From French President",
+          "print_headline": "UN Chief to Receive Legion of Honor From French President"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:22:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582cea2895d0e0204d560dfc",
+        "word_count": "111",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/16/world/asia/16reuters-india-modi-corruption-politics.html",
+        "snippet": "Indian Prime Minister Narendra Modi's shock ban on high-value banknotes will hit the war chests of his rivals before a key state election next year, sparking accusations that his strike against \"black cash\" will unfairly boost his party's chances....",
+        "lead_paragraph": "Indian Prime Minister Narendra Modi's shock ban on high-value banknotes will hit the war chests of his rivals before a key state election next year, sparking accusations that his strike against \"black cash\" will unfairly boost his party's chances.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Modi's Cash Crackdown Hits Indian Rivals' Election Campaign Coffers",
+          "print_headline": "Modi's Cash Crackdown Hits Indian Rivals' Election Campaign Coffers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:21:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582cea0695d0e0204d560dfb",
+        "word_count": "941",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/16/world/asia/16reuters-people-melvinlaird.html",
+        "snippet": "Melvin Laird, who as defense secretary under President Richard Nixon from 1969 to 1973 helped extricate U.S. forces from the morass of the Vietnam War in a policy he dubbed \"Vietnamization,\" has died at age 94....",
+        "lead_paragraph": "Melvin Laird, who as defense secretary under President Richard Nixon from 1969 to 1973 helped extricate U.S. forces from the morass of the Vietnam War in a policy he dubbed \"Vietnamization,\" has died at age 94.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Pentagon Chief Laird Dies, Advocated 'Vietnamization' Policy",
+          "print_headline": "Ex-Pentagon Chief Laird Dies, Advocated 'Vietnamization' Policy"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:18:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce94a95d0e0204d560dfa",
+        "word_count": "809",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/world/americas/ap-lt-mexico-archaeology.html",
+        "snippet": "Archaeologists have discovered what may be the original structure built at the pyramid of Kukulkan at the Mayan ruins of Chichen Itza, experts said Wednesday....",
+        "lead_paragraph": "Archaeologists have discovered what may be the original structure built at the pyramid of Kukulkan at the Mayan ruins of Chichen Itza, experts said Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexican Experts Say Original Pyramid Found at Chichen Itza",
+          "print_headline": "Mexican Experts Say Original Pyramid Found at Chichen Itza"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T23:13:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582ce80f95d0e0204d560df9",
+        "word_count": "440",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

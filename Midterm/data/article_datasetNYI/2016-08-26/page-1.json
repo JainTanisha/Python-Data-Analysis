@@ -1,0 +1,460 @@
+{
+  "response": {
+    "meta": {
+      "hits": 784,
+      "time": 37,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/26/nyregion/celebrating-a-defeat.html",
+        "snippet": "An exhibition remembers the Battle of Brooklyn, a conflict of the Revolutionary War in which American forces suffered heavy losses \u2014 but saved their general from capture....",
+        "lead_paragraph": "An exhibition remembers the Battle of Brooklyn, a conflict of the Revolutionary War in which American forces suffered heavy losses \u2014 but saved their general from capture.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/nyregion/27BROOKLYNBATTLEss-slide-ZZC1/27BROOKLYNBATTLEss-slide-ZZC1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/nyregion/27BROOKLYNBATTLEss-slide-ZZC1/27BROOKLYNBATTLEss-slide-ZZC1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/nyregion/27BROOKLYNBATTLEss-slide-ZZC1/27BROOKLYNBATTLEss-slide-ZZC1-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/nyregion/27BROOKLYNBATTLEss-slide-ZZC1/27BROOKLYNBATTLEss-slide-ZZC1-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/nyregion/27BROOKLYNBATTLEss-slide-ZZC1/27BROOKLYNBATTLEss-slide-ZZC1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/nyregion/27BROOKLYNBATTLEss-slide-ZZC1/27BROOKLYNBATTLEss-slide-ZZC1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Celebrating a Defeat"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c0cfe495d0e021d7982e38",
+        "word_count": "27",
+        "slideshow_credits": "Alex Wroblewski/The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/sports/ap-car-nascar-michigan.html",
+        "snippet": "Alex Bowman should have plenty of fans this weekend at Michigan International Speedway in his return to NASCAR Sprint Cup racing....",
+        "lead_paragraph": "Alex Bowman should have plenty of fans this weekend at Michigan International Speedway in his return to NASCAR Sprint Cup racing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bowman Excited to Fill In for Earnhardt Again",
+          "print_headline": "Bowman Excited to Fill In for Earnhardt Again"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:20:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0cfdd95d0e021d7982e37",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/politics/ap-us-campaign-2016-clinton-foundation.html",
+        "snippet": "Seven months after a federal judge ordered the State Department to begin releasing monthly batches of the detailed daily schedules showing meetings by Hillary Clinton during her time as secretary of state, the government told The Associated Press ...",
+        "lead_paragraph": "Seven months after a federal judge ordered the State Department to begin releasing monthly batches of the detailed daily schedules showing meetings by Hillary Clinton during her time as secretary of state, the government told The Associated Press it won't finish the job before Election Day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "US: Clinton Calendars Won't Be Released Until After Election",
+          "print_headline": "US: Clinton Calendars Won't Be Released Until After Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:20:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0cfda95d0e021d7982e36",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-nevada-test-site-management-1st-ld.html",
+        "snippet": "A subsidiary of defense giant Lockheed Martin has been awarded a $5 billion contract to manage a vast federal Department of Energy reservation where the nation used to conduct nuclear testing north of Las Vegas....",
+        "lead_paragraph": "A subsidiary of defense giant Lockheed Martin has been awarded a $5 billion contract to manage a vast federal Department of Energy reservation where the nation used to conduct nuclear testing north of Las Vegas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lockheed Martin Unit to Manage Former Nevada Nuke Test Site",
+          "print_headline": "Lockheed Martin Unit to Manage Former Nevada Nuke Test Site"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:17:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0cf1a95d0e021d7982e35",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/27/business/dealbook/abbotts-no-good-very-bad-ma-week.html",
+        "snippet": "Abbott is acquiring Alere, which makes medical tests, and St. Jude Medical, which makes cardiovascular devices. The deals have been hampered by inquiries into sales practices and concerns over some devices being vulnerable to cyberattacks....",
+        "lead_paragraph": "Abbott is acquiring Alere, which makes medical tests, and St. Jude Medical, which makes cardiovascular devices. The deals have been hampered by inquiries into sales practices and concerns over some devices being vulnerable to cyberattacks.",
+        "abstract": "Abbott Laboratories sees red flags go up on Wall Street over its pending acquisitions of Alere medical testing firm for $5.8 billion and St Jude Medical for $25 billion; analysts concerned over plan to take on amount of debt needed to finance two such large deals simultaneously say vulnerabilities of each target company would have been uncovered by proper due diligence.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Abbott\u2019s No Good, Very Bad M&amp;A Week",
+          "print_headline": "2 Deals Turn Into 2 Headaches for Abbott Laboratories"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Abbott Laboratories"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Alere Inc"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Muddy Waters Research"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "St Jude Medical Inc"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "White, Miles D"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cyberattacks and Hackers"
+          }
+        ],
+        "pub_date": "2016-08-26T23:19:23+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslie",
+              "rank": 1,
+              "lastname": "PICKER"
+            }
+          ],
+          "original": "By LESLIE PICKER"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ce8395d0e021d7982e33",
+        "word_count": "700",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:15:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ce5895d0e021d7982e32",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/27/business/entrepreneur-immigration.html",
+        "snippet": "The proposal, which doesn\u2019t require congressional approval, would grant temporary entry for up to five years to people building start-ups in the U.S....",
+        "lead_paragraph": "The proposal, which doesn\u2019t require congressional approval, would grant temporary entry for up to five years to people building start-ups in the U.S.",
+        "abstract": "Homeland Security Dept proposes immigration rule granting temporary entry to foreign entrepreneurs for up to five years; tech industry applauds plan, as it will ease challenges facing many startup founders, especially those who came to United States as students and began creating new companies here; department expects regulation to take effect as soon as 2017.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/27/business/27VISA/27VISA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/27/business/27VISA/27VISA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/27/business/27VISA/27VISA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/27/business/27VISA/27VISA-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/27/business/27VISA/27VISA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/27/business/27VISA/27VISA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Proposes Immigration Rule Aimed at Entrepreneurs",
+          "print_headline": "U.S. Immigration Option Could Aid Entrepreneurs"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Entrepreneurship"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Homeland Security Department"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Foreign Workers"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Start-ups"
+          }
+        ],
+        "pub_date": "2016-08-26T23:17:43+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stacy",
+              "rank": 1,
+              "lastname": "COWLEY"
+            }
+          ],
+          "original": "By STACY COWLEY"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ce2195d0e021d7982e31",
+        "word_count": "700",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Patrick Reed's place in the Ryder Cup is looking better with each round at The Barclays, and so are his prospects of winning....",
+        "lead_paragraph": "Patrick Reed's place in the Ryder Cup is looking better with each round at The Barclays, and so are his prospects of winning.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:09:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0cd1995d0e021d7982e30",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/politics/ap-us-air-force-investigation.html",
+        "snippet": "The Air Force says a retired four-star general is under investigation for alleged sexual misconduct....",
+        "lead_paragraph": "The Air Force says a retired four-star general is under investigation for alleged sexual misconduct.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Air Force Says Retired 4-Star General Under Investigation",
+          "print_headline": "Air Force Says Retired 4-Star General Under Investigation"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:09:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0cd1495d0e021d7982e2f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-odd-missing-therapy-pig.html",
+        "snippet": "A missing potbellied pig that serves as a therapy animal has been returned to its Pennsylvania owners....",
+        "lead_paragraph": "A missing potbellied pig that serves as a therapy animal has been returned to its Pennsylvania owners.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Owner: Missing Potbellied Therapy Pig Is Found, Now Home",
+          "print_headline": "Owner: Missing Potbellied Therapy Pig Is Found, Now Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T23:10:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0cd0f95d0e021d7982e2e",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

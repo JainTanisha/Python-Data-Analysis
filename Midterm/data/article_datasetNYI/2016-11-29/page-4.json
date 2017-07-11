@@ -1,0 +1,669 @@
+{
+  "response": {
+    "meta": {
+      "hits": 892,
+      "time": 117,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794076/great-performers-royalty-hightower.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I349/11-portfolio-la-noir-slide-I349-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I349/11-portfolio-la-noir-slide-I349-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I349/11-portfolio-la-noir-slide-I349-articleLarge.jpg",
+            "height": 476,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I349/11-portfolio-la-noir-slide-I349-articleLarge.jpg",
+              "xlargeheight": "476"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I349/11-portfolio-la-noir-slide-I349-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I349/11-portfolio-la-noir-slide-I349-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Royalty Hightower"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:38:06+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Ami",
+              "middlename": "Canaan",
+              "lastname": "MANN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By AMI CANAAN MANN"
+        },
+        "type_of_material": "Video",
+        "_id": "5848dd5b95d0e03926074c50",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/29/sports/soccer/29reuters-soccer-england-cup.html",
+        "snippet": "Liverpool reached the League Cup semi-finals after 17-year-old Ben Woodburn enjoyed a night to remember by becoming the club's youngest ever goalscorer when he wrapped up a 2-0 victory over Leeds United on Tuesday....",
+        "lead_paragraph": "Liverpool reached the League Cup semi-finals after 17-year-old Ben Woodburn enjoyed a night to remember by becoming the club's youngest ever goalscorer when he wrapped up a 2-0 victory over Leeds United on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Record-Breaker Woodburn Helps Liverpool Reach League Cup Semis",
+          "print_headline": "Record-Breaker Woodburn Helps Liverpool Reach League Cup Semis"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:36:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583e02f495d0e039260731d7",
+        "word_count": "530",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794077/great-performers-ruth-negga.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer...",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-ECNN/11-portfolio-la-noir-slide-ECNN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-ECNN/11-portfolio-la-noir-slide-ECNN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-ECNN/11-portfolio-la-noir-slide-ECNN-articleLarge.jpg",
+            "height": 670,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-ECNN/11-portfolio-la-noir-slide-ECNN-articleLarge.jpg",
+              "xlargeheight": "670"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-ECNN/11-portfolio-la-noir-slide-ECNN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-ECNN/11-portfolio-la-noir-slide-ECNN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Ruth Negga"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:36:10+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gina",
+              "rank": 1,
+              "lastname": "PRINCE-BYTHEWOOD"
+            }
+          ],
+          "original": "By GINA PRINCE-BYTHEWOOD"
+        },
+        "type_of_material": "Video",
+        "_id": "5848de4b95d0e03926074c53",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/29/sports/ap-car-nascar-roush-fenway-2017.html",
+        "snippet": "Roush Fenway Racing will be a two-car Cup program next season and its third charter will be leased to JTG Daugherty Racing....",
+        "lead_paragraph": "Roush Fenway Racing will be a two-car Cup program next season and its third charter will be leased to JTG Daugherty Racing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jack Roush's Once-Elite NASCAR Program Will Scale to 2 Teams",
+          "print_headline": "Jack Roush's Once-Elite NASCAR Program Will Scale to 2 Teams"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:31:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583e01cc95d0e039260731d6",
+        "word_count": "113",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794081/great-performers-sasha-lane.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I88N/11-portfolio-la-noir-slide-I88N-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I88N/11-portfolio-la-noir-slide-I88N-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I88N/11-portfolio-la-noir-slide-I88N-articleLarge.jpg",
+            "height": 757,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I88N/11-portfolio-la-noir-slide-I88N-articleLarge.jpg",
+              "xlargeheight": "757"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I88N/11-portfolio-la-noir-slide-I88N-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-I88N/11-portfolio-la-noir-slide-I88N-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Sasha Lane"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lane, Sasha (1995- )"
+          }
+        ],
+        "pub_date": "2016-11-29T22:30:59+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gina",
+              "rank": 1,
+              "lastname": "PRINCE-BYTHEWOOD"
+            }
+          ],
+          "original": "By GINA PRINCE-BYTHEWOOD"
+        },
+        "type_of_material": "Video",
+        "_id": "5848e2b195d0e03926074c5b",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/29/business/economy/us-economy-grew-at-3-2-rate-in-3rd-quarter.html",
+        "snippet": "A previous estimate of gross domestic product had put the rate at 2.9 percent, but a revised report showed stronger consumer spending....",
+        "lead_paragraph": "A previous estimate of gross domestic product had put the rate at 2.9 percent, but a revised report showed stronger consumer spending.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Economy Grew at 3.2% Rate in 3rd Quarter",
+          "print_headline": "U.S. Economy Grew at 3.2%, Its Fastest Pace in 2 Years"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Economy"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Gross Domestic Product"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interest Rates"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Commerce Department"
+          }
+        ],
+        "pub_date": "2016-11-29T22:30:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Economy",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583e01a195d0e039260731d5",
+        "word_count": "572",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/29/arts/music/can-you-hear-agnes-martins-serenity-in-john-zorns-frenzied-music.html",
+        "snippet": "She made paintings of serene subtlety. He is known for his explosive music. Martin, the artist, inspired Mr. Zorn, the composer, and now their work will be paired....",
+        "lead_paragraph": "She made paintings of serene subtlety. He is known for his explosive music. Martin, the artist, inspired Mr. Zorn, the composer, and now their work will be paired.",
+        "abstract": "Guggenheim Museum presents exhibition featuring paintings by artist Agnes Martin accompanied by music inspired from her works by composer John Zorn. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/30/arts/30ZORN/30ZORN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/30/arts/30ZORN/30ZORN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/30/arts/30ZORN/30ZORN-articleLarge.jpg",
+            "height": 334,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/30/arts/30ZORN/30ZORN-articleLarge.jpg",
+              "xlargeheight": "334"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/30/arts/30ZORN/30ZORN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/30/arts/30ZORN/30ZORN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Can You Hear Agnes Martin\u2019s Serenity in John Zorn\u2019s Frenzied Music?",
+          "print_headline": "John Zorn\u2019s Music in the Key of Art"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Guggenheim, Solomon R, Museum"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Martin, Agnes"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Zorn, John"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Redbird (Musical Work)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:30:39+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zachary",
+              "rank": 1,
+              "lastname": "WOOLFE"
+            }
+          ],
+          "original": "By ZACHARY WOOLFE"
+        },
+        "type_of_material": "News",
+        "_id": "583e019395d0e039260731d4",
+        "word_count": "1013",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/29/arts/music/review-welcome-to-versailles-for-music-in-the-kings-apartments.html",
+        "snippet": "A lesson in culture at the court of Louis XIV was part of the program \u201cVersailles: Portrait of a Royal Domain,\u201d at the Morgan Library & Museum....",
+        "lead_paragraph": "A lesson in culture at the court of Louis XIV was part of the program \u201cVersailles: Portrait of a Royal Domain,\u201d at the Morgan Library & Museum.",
+        "abstract": "Corinna da Fonseca-Wollheim reviews Boston Early Music Festival presentation of Versailles: Portrait of a Royal Domain, featuring short opera scenes written for private entertainment of Louis XIV, at Morgan Library & Museum.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/30/arts/30BEMF/30BEMF-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/30/arts/30BEMF/30BEMF-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/30/arts/30BEMF/30BEMF-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/30/arts/30BEMF/30BEMF-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/30/arts/30BEMF/30BEMF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/30/arts/30BEMF/30BEMF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Welcome to \u2018Versailles\u2019 for Music in the King\u2019s Apartments",
+          "print_headline": "Louis XIV,  Your Host for Scenes of Opera"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Boston Early Music Festival"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Morgan Library & Museum"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Louis XIV, King of France"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Festivals"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          }
+        ],
+        "pub_date": "2016-11-29T22:30:27+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By CORINNA da FONSECA-WOLLHEIM"
+        },
+        "type_of_material": "Review",
+        "_id": "583e018a95d0e039260731d3",
+        "word_count": "448",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/29/us/ap-us-spurned-man-bomb-threats.html",
+        "snippet": "A Georgia man spurned by a co-worker has been sentenced to three and a half years in federal prison for making hoax bomb threats against an airport and schools in Florida while using the name of the co-worker's boyfriend....",
+        "lead_paragraph": "A Georgia man spurned by a co-worker has been sentenced to three and a half years in federal prison for making hoax bomb threats against an airport and schools in Florida while using the name of the co-worker's boyfriend.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Spurned Georgia Man Gets 3.5 Years for Florida Bomb Threats",
+          "print_headline": "Spurned Georgia Man Gets 3.5 Years for Florida Bomb Threats"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:28:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583e011595d0e039260731d1",
+        "word_count": "137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/29/us/ap-us-electric-car-factory-arizona.html",
+        "snippet": "Electric car maker Lucid Motors said Tuesday it will build a manufacturing plant in Arizona that will begin production in 2018 as it looks to compete in the fast-growing market for luxury electric vehicles....",
+        "lead_paragraph": "Electric car maker Lucid Motors said Tuesday it will build a manufacturing plant in Arizona that will begin production in 2018 as it looks to compete in the fast-growing market for luxury electric vehicles.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Electric Car Factory Planned in Arizona to Have 2000 Workers",
+          "print_headline": "Electric Car Factory Planned in Arizona to Have 2000 Workers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:28:25+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583e010f95d0e039260731d0",
+        "word_count": "544",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

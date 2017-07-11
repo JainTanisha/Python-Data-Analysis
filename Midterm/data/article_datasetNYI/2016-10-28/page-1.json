@@ -1,0 +1,450 @@
+{
+  "response": {
+    "meta": {
+      "hits": 922,
+      "time": 70,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/28/world/americas/ap-lt-mexico-violence.html",
+        "snippet": "Dozens of stores in the Mexican beach town of Zihuatanejo have closed temporarily or hung banners in their doorways to protest crime and violence in the once-idyllic resort....",
+        "lead_paragraph": "Dozens of stores in the Mexican beach town of Zihuatanejo have closed temporarily or hung banners in their doorways to protest crime and violence in the once-idyllic resort.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Stores in Mexico's Zihuatanejo Resort Close to Protest Crime",
+          "print_headline": "Stores in Mexico's Zihuatanejo Resort Close to Protest Crime"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:19:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5813dcf695d0e022439c5e28",
+        "word_count": "120",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/28/us/ap-us-voting-selfies-michigan.html",
+        "snippet": "An appeals court ruled Friday that Michigan can prohibit voters from taking selfies with their completed ballots in the Nov. 8 election....",
+        "lead_paragraph": "An appeals court ruled Friday that Michigan can prohibit voters from taking selfies with their completed ballots in the Nov. 8 election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Appeals Court: Michigan Can Enforce Ballot Selfie Ban",
+          "print_headline": "US Appeals Court: Michigan Can Enforce Ballot Selfie Ban"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:15:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5813dc3195d0e022439c5e27",
+        "word_count": "407",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/29/arts/music/bob-dylan-nobel-prize-comment.html",
+        "snippet": "Mr. Dylan told the British news organization The Telegraph that he would \u201cabsolutely\u201d attend the Nobel ceremony \u201cif it\u2019s at all possible.\u201d...",
+        "lead_paragraph": "Mr. Dylan told the British news organization The Telegraph that he would \u201cabsolutely\u201d attend the Nobel ceremony \u201cif it\u2019s at all possible.\u201d",
+        "abstract": "Bob Dylan acknowledges being awarded Nobel Prize in Literature for first time during interview with British newspaper The Telegraph; Dylan, who had remained silent on Swedish Academy's honor, implies he may attend ceremony in Sweden in December. ",
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/29/arts/28DYLAN/28DYLAN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/29/arts/28DYLAN/28DYLAN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/29/arts/28DYLAN/28DYLAN-articleLarge.jpg",
+            "height": 476,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/29/arts/28DYLAN/28DYLAN-articleLarge.jpg",
+              "xlargeheight": "476"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/29/arts/28DYLAN/28DYLAN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/29/arts/28DYLAN/28DYLAN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Bob Dylan Speaks, at Last, on His Nobel",
+          "print_headline": "Bob Dylan Responds, Elliptically, to His Nobel Prize After a Two-Week Silence"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Nobel Prizes"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Dylan, Bob"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-10-28T23:13:56+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "SISARIO"
+            }
+          ],
+          "original": "By BEN SISARIO"
+        },
+        "type_of_material": "News",
+        "_id": "5813dbbc95d0e022439c5e26",
+        "word_count": "452",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/28/world/americas/ap-lt-venezuela-birther-debate.html",
+        "snippet": "It's official: President Nicolas Maduro is Venezuelan....",
+        "lead_paragraph": "It's official: President Nicolas Maduro is Venezuelan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Top Court Ruling Attempts to Quiet Venezuela Birther Debate",
+          "print_headline": "Top Court Ruling Attempts to Quiet Venezuela Birther Debate"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:13:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5813db9495d0e022439c5e25",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/29/world/americas/venezuela-nicolas-maduro.html",
+        "snippet": "The president\u2019s ruling party and the opposition tried to spin the effectiveness of the 12-hour strike, which was weaker than Wednesday\u2019s mobilization....",
+        "lead_paragraph": "The president\u2019s ruling party and the opposition tried to spin the effectiveness of the 12-hour strike, which was weaker than Wednesday\u2019s mobilization.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/world/25venezuela/25venezuela-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/world/25venezuela/25venezuela-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/25/world/25venezuela/25venezuela-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/25/world/25venezuela/25venezuela-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/world/25venezuela/25venezuela-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/world/25venezuela/25venezuela-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Venezuela Slowed by Strike in Campaign to Oust President Nicol\u00e1s Maduro",
+          "print_headline": "Venezuela Is Slowed by General Strike, Latest Step in Campaign to Oust President"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Referendums"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Strikes"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Maduro, Nicolas"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Venezuela"
+          }
+        ],
+        "pub_date": "2016-10-28T23:13:06+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "contributor": "Ana Vanessa Herrero reported from Caracas, and Elisabeth Malkin from Mexico City.",
+          "person": [
+            {
+              "firstname": "Ana",
+              "middlename": "Vanessa",
+              "lastname": "HERRERO",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elisabeth",
+              "rank": 2,
+              "lastname": "MALKIN"
+            }
+          ],
+          "original": "By ANA VANESSA HERRERO and ELISABETH MALKIN"
+        },
+        "type_of_material": "News",
+        "_id": "5813db8a95d0e022439c5e24",
+        "word_count": "595",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/28/us/ap-us-child-abduction-minnesota.html",
+        "snippet": "A 25-year-old man now faces first-degree murder charges in the kidnapping and killing of a 5-year-old girl from central Minnesota....",
+        "lead_paragraph": "A 25-year-old man now faces first-degree murder charges in the kidnapping and killing of a 5-year-old girl from central Minnesota.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Minnesota Man Indicted in Kidnapping, Killing of Girl, 5",
+          "print_headline": "Minnesota Man Indicted in Kidnapping, Killing of Girl, 5"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:09:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5813dacf95d0e022439c5e23",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/28/us/ap-us-legion-of-christ-abuse.html",
+        "snippet": "A former top official for the scandal-plagued Legion of Christ sexually abused a teenage boy in the early 1990s, according to a lawsuit filed this week....",
+        "lead_paragraph": "A former top official for the scandal-plagued Legion of Christ sexually abused a teenage boy in the early 1990s, according to a lawsuit filed this week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Lawsuit Alleges Sex Abuse by Ex-No. 2 at Legion of Christ",
+          "print_headline": "Lawsuit Alleges Sex Abuse by Ex-No. 2 at Legion of Christ"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:09:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5813dac595d0e022439c5e21",
+        "word_count": "643",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/28/us/ap-us-madoff-fraud-california.html",
+        "snippet": "California will recover $15 million related to the massive Ponzi scheme engineered by Bernard Madoff as part of a larger agreement liquefying the $277 million estate of a Beverly Hills investment adviser, officials said Friday....",
+        "lead_paragraph": "California will recover $15 million related to the massive Ponzi scheme engineered by Bernard Madoff as part of a larger agreement liquefying the $277 million estate of a Beverly Hills investment adviser, officials said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "California Gets $15M in Bernard Madoff Fraud Recovery Effort",
+          "print_headline": "California Gets $15M in Bernard Madoff Fraud Recovery Effort"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:09:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5813dacf95d0e022439c5e22",
+        "word_count": "529",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/28/sports/baseball/28reuters-baseball-worldseries-fans.html",
+        "snippet": "The Chicago Cubs have a chance to end a 108-year championship drought this weekend as they play in Major League Baseball's World Series, leaving the baseball world grappling with how to handle the turnabout of the sport's \"Loveable Losers.\"...",
+        "lead_paragraph": "The Chicago Cubs have a chance to end a 108-year championship drought this weekend as they play in Major League Baseball's World Series, leaving the baseball world grappling with how to handle the turnabout of the sport's \"Loveable Losers.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Chicago Cubs Look to Shed 'Loveable Losers' Moniker at World Series",
+          "print_headline": "Chicago Cubs Look to Shed 'Loveable Losers' Moniker at World Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:06:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5813da0a95d0e022439c5e20",
+        "word_count": "719",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/28/world/europe/28reuters-spain-politics.html",
+        "snippet": "Spain's 10 months without a government should end on Saturday when parliament is set to grudgingly grant conservative Mariano Rajoy a second term as prime minister....",
+        "lead_paragraph": "Spain's 10 months without a government should end on Saturday when parliament is set to grudgingly grant conservative Mariano Rajoy a second term as prime minister.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rajoy Set to Win Vote to Be Spain's Leader, Ending Gridlock",
+          "print_headline": "Rajoy Set to Win Vote to Be Spain's Leader, Ending Gridlock"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-28T23:06:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5813da0395d0e022439c5e1f",
+        "word_count": "510",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

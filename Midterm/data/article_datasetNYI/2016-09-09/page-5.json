@@ -1,0 +1,528 @@
+{
+  "response": {
+    "meta": {
+      "hits": 933,
+      "time": 32,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/09/sports/ap-car-nascar-richmond-.html",
+        "snippet": "Chris Buescher's task, should he accomplish it Saturday night at Richmond International Raceway, is no small feat....",
+        "lead_paragraph": "Chris Buescher's task, should he accomplish it Saturday night at Richmond International Raceway, is no small feat.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Buescher on Verge of Claiming Improbable Berth in the Chase",
+          "print_headline": "Buescher on Verge of Claiming Improbable Berth in the Chase"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T22:12:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d334e495d0e021d7985662",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/10/arts/music/san-francisco-opera-dream-of-the-red-chamber.html",
+        "snippet": "A San Francisco Opera staging of the novel \u201cDream of the Red Chamber,\u201d beloved in the Chinese-speaking world, hopes to succeed where similar efforts have struggled....",
+        "lead_paragraph": "A San Francisco Opera staging of the novel \u201cDream of the Red Chamber,\u201d beloved in the Chinese-speaking world, hopes to succeed where similar efforts have struggled.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/10/arts/10DREAMCHAMBER/10DREAMCHAMBER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/10/arts/10DREAMCHAMBER/10DREAMCHAMBER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/10/arts/10DREAMCHAMBER/10DREAMCHAMBER-articleLarge.jpg",
+            "height": 390,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/10/arts/10DREAMCHAMBER/10DREAMCHAMBER-articleLarge.jpg",
+              "xlargeheight": "390"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/10/arts/10DREAMCHAMBER/10DREAMCHAMBER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/10/arts/10DREAMCHAMBER/10DREAMCHAMBER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "An American Opera Company Adapts China\u2019s \u2018War and Peace\u2019",
+          "print_headline": "A \u2018Dream\u2019 Opera Team\u2019s East-West Challenge"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "San Francisco Opera"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Dream of the Red Chamber (Opera)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sheng, Bright"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hwang, David Henry"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gockley, David"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Dream of the Red Chamber (Book)"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-09-09T22:12:59+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Amy",
+              "rank": 1,
+              "lastname": "QIN"
+            }
+          ],
+          "original": "By AMY QIN"
+        },
+        "type_of_material": "News",
+        "_id": "57d333f195d0e021d7985661",
+        "word_count": "1093",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/09/business/09reuters-cuba-usa-banking.html",
+        "snippet": "Multinational financial companies met on Friday with U.S. and Cuban officials to discuss making financial transactions between the two countries easier but reported no concrete signs of progress....",
+        "lead_paragraph": "Multinational financial companies met on Friday with U.S. and Cuban officials to discuss making financial transactions between the two countries easier but reported no concrete signs of progress.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Executives See Little Progress on Easing Cuba-U.S. Financial Services",
+          "print_headline": "Executives See Little Progress on Easing Cuba-U.S. Financial Services"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T22:11:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d333e095d0e021d7985660",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/09/world/middleeast/09reuters-mideast-crisis-syria-pizza.html",
+        "snippet": "Russian Foreign Minister Sergei Lavrov used pizza and vodka to have a dig at his U.S. counterpart Secretary of State John Kerry on Friday, as talks between the two veteran diplomats on Syria dragged on towards midnight in Geneva....",
+        "lead_paragraph": "Russian Foreign Minister Sergei Lavrov used pizza and vodka to have a dig at his U.S. counterpart Secretary of State John Kerry on Friday, as talks between the two veteran diplomats on Syria dragged on towards midnight in Geneva.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lavrov Turns Pizza Man to Show Up 'Slow' Kerry",
+          "print_headline": "Lavrov Turns Pizza Man to Show Up 'Slow' Kerry"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T22:09:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d333da95d0e021d798565f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/09/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Guest Lineups for the Sunday News Shows",
+          "print_headline": "Guest Lineups for the Sunday News Shows"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T22:05:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d3335a95d0e021d798565e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/09/briefing/us-presidential-race-north-dakota-nasa.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/09/nytnow/09eveningss-slide-EYCJ/09eveningss-slide-EYCJ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/09/nytnow/09eveningss-slide-EYCJ/09eveningss-slide-EYCJ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/09/nytnow/09eveningss-slide-EYCJ/09eveningss-slide-EYCJ-articleLarge.jpg",
+            "height": 389,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/09/nytnow/09eveningss-slide-EYCJ/09eveningss-slide-EYCJ-articleLarge.jpg",
+              "xlargeheight": "389"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/09/nytnow/09eveningss-slide-EYCJ/09eveningss-slide-EYCJ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/09/nytnow/09eveningss-slide-EYCJ/09eveningss-slide-EYCJ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Presidential Race, North Dakota, NASA: Your Friday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57d332b995d0e021d798565d",
+        "word_count": "882",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/09/us/ap-us-in-custody-death.html",
+        "snippet": "A judge has dismissed most of a federal civil rights lawsuit filed over the death of a handcuffed man who shot himself in the head while in a police car in Arkansas....",
+        "lead_paragraph": "A judge has dismissed most of a federal civil rights lawsuit filed over the death of a handcuffed man who shot himself in the head while in a police car in Arkansas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Dismisses Much of Lawsuit Over Suicide in Police Car",
+          "print_headline": "Judge Dismisses Much of Lawsuit Over Suicide in Police Car"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T21:59:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d3328e95d0e021d798565c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/09/world/asia/09reuters-northkorea-nuclear-usa-experts.html",
+        "snippet": "North Korea's fifth nuclear test, its fourth on U.S. President Barack Obama's watch, leaves Washington yet again hoping that Beijing will crack down on Pyongyang....",
+        "lead_paragraph": "North Korea's fifth nuclear test, its fourth on U.S. President Barack Obama's watch, leaves Washington yet again hoping that Beijing will crack down on Pyongyang.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "With Latest North Korea Test, U.S. Again Seeks Elusive Chinese Help",
+          "print_headline": "With Latest North Korea Test, U.S. Again Seeks Elusive Chinese Help"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T22:02:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d3327595d0e021d798565b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/10/arts/television/review-in-son-of-zorn-the-dads-dense-and-drawn-that-way.html",
+        "snippet": "The defining gag of this Fox comedy is that the divorced father, Zorn, is an animated He-Man-style warrior, while everyone else in the show is real....",
+        "lead_paragraph": "The defining gag of this Fox comedy is that the divorced father, Zorn, is an animated He-Man-style warrior, while everyone else in the show is real.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/10/arts/10ZORN/10ZORN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/10/arts/10ZORN/10ZORN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/10/arts/10ZORN/10ZORN-articleLarge.jpg",
+            "height": 375,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/10/arts/10ZORN/10ZORN-articleLarge.jpg",
+              "xlargeheight": "375"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/10/arts/10ZORN/10ZORN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/10/arts/10ZORN/10ZORN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018Son of Zorn,\u2019 the Dad\u2019s Dense, and Drawn That Way",
+          "print_headline": "He\u2019s Dense, and Drawn That Way"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Son of Zorn (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sudeikis, Jason"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Jorne, Eli (1979- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Agnew, Reed"
+          }
+        ],
+        "pub_date": "2016-09-09T22:06:33+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "HALE"
+            }
+          ],
+          "original": "By MIKE HALE"
+        },
+        "type_of_material": "Review",
+        "_id": "57d3327595d0e021d798565a",
+        "word_count": "525",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/09/us/ap-us-chelsea-manning-hunger-strike.html",
+        "snippet": "A transgender soldier imprisoned in Kansas for leaking classified information to the WikiLeaks website says she is on a hunger strike until her treatment improves....",
+        "lead_paragraph": "A transgender soldier imprisoned in Kansas for leaking classified information to the WikiLeaks website says she is on a hunger strike until her treatment improves.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Chelsea Manning Starts Hunger Strike to Protest Treatment",
+          "print_headline": "Chelsea Manning Starts Hunger Strike to Protest Treatment"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-09T21:58:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d331e495d0e021d7985659",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

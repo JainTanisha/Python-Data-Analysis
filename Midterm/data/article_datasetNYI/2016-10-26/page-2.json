@@ -1,0 +1,409 @@
+{
+  "response": {
+    "meta": {
+      "hits": 968,
+      "time": 59,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/politics/ap-us-united-states-afghanistan.html",
+        "snippet": "The Defense Department says airstrikes in Afghanistan targeted two al-Qaida leaders, including one described by a Pentagon official as the group's top leader in the northeastern part of the country....",
+        "lead_paragraph": "The Defense Department says airstrikes in Afghanistan targeted two al-Qaida leaders, including one described by a Pentagon official as the group's top leader in the northeastern part of the country.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pentagon Says US Airstrikes Target Al-Qaida in Afghanistan",
+          "print_headline": "Pentagon Says US Airstrikes Target Al-Qaida in Afghanistan"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:23:03Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58113ae295d0e022439c56ca",
+        "word_count": "99",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/us/politics/republicans-in-congress-fear-losses-and-then-the-hard-part.html",
+        "snippet": "If the most likely scenario holds, a diminished congressional G.O.P. caucus will be confronted with crucial and onerous decisions about its direction....",
+        "lead_paragraph": "If the most likely scenario holds, a diminished congressional G.O.P. caucus will be confronted with crucial and onerous decisions about its direction.",
+        "abstract": "Carl Hulse On Washington column notes Republicans are beginning to confront likelihood of Hillary Clinton presidential victory and Democratic Senate majority; GOP will face critical and unpleasant choices as it struggles to assemble bipartisan majorities that can carry out fundamental tasks of governing, which public has clamored for throughout 2016 election cycle.",
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/us/27hulse/27hulse-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/us/27hulse/27hulse-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/us/27hulse/27hulse-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/us/27hulse/27hulse-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/us/27hulse/27hulse-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/us/27hulse/27hulse-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Republicans in Congress Fear Losses, and Then the Hard Part",
+          "content_kicker": "On Washington",
+          "print_headline": "For G.O.P., Hard Part May Be After Election"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, House of Representatives"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, Senate"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ryan, Paul D Jr"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Schumer, Charles E"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-10-26T23:22:25+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Carl",
+              "rank": 1,
+              "lastname": "HULSE"
+            }
+          ],
+          "original": "By CARL HULSE"
+        },
+        "type_of_material": "News",
+        "_id": "58113ab995d0e022439c56c9",
+        "word_count": "927",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/sports/football/ap-fbn-rookie-showdown.html",
+        "snippet": "Because they were on opposing teams at the Senior Bowl, Carson Wentz and Dak Prescott didn't spend much time together talking about the future....",
+        "lead_paragraph": "Because they were on opposing teams at the Senior Bowl, Carson Wentz and Dak Prescott didn't spend much time together talking about the future.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Eagles' Wentz, Cowboys' Prescott Set for Rookie QB Showcase",
+          "print_headline": "Eagles' Wentz, Cowboys' Prescott Set for Rookie QB Showcase"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:22:13Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58113ab195d0e022439c56c8",
+        "word_count": "862",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/technology/26reuters-samsung-elec-smartphones.html",
+        "snippet": "Samsung Electronics Co Ltd said on Thursday it will implement a software update in South Korea to prevent Galaxy Note 7 smartphone batteries from charging beyond 60 percent, the latest safety step for the recalled, fire-prone phones....",
+        "lead_paragraph": "Samsung Electronics Co Ltd said on Thursday it will implement a software update in South Korea to prevent Galaxy Note 7 smartphone batteries from charging beyond 60 percent, the latest safety step for the recalled, fire-prone phones. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Samsung Electronics to Limit Galaxy Note 7 Battery Charge in South Korea",
+          "print_headline": "Samsung Electronics to Limit Galaxy Note 7 Battery Charge in South Korea"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:21:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58113a8c95d0e022439c56c7",
+        "word_count": "77",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/business/26reuters-britain-eu-economy-q3.html",
+        "snippet": "Britain escaped a severe economic slowdown in the three months after the Brexit referendum shock, official figures are expected to show on Thursday, further diminishing the chance of a fresh interest rate cut by the Bank of England next week....",
+        "lead_paragraph": "Britain escaped a severe economic slowdown in the three months after the Brexit referendum shock, official figures are expected to show on Thursday, further diminishing the chance of a fresh interest rate cut by the Bank of England next week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Economy Set to Sidestep Third Quarter Slump, but Tougher Times Lie Ahead",
+          "print_headline": "UK Economy Set to Sidestep Third Quarter Slump, but Tougher Times Lie Ahead"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:15:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5811391a95d0e022439c56c6",
+        "word_count": "397",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/business/26reuters-britain-budget-business.html",
+        "snippet": "Chancellor Philip Hammond should encourage businesses to invest and spend more on infrastructure when he delivers his first budget statement since Britain's vote to leave the European Union, an employers group said....",
+        "lead_paragraph": "Chancellor Philip Hammond should encourage businesses to invest and spend more on infrastructure when he delivers his first budget statement since Britain's vote to leave the European Union, an employers group said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Employers Urge Hammond to Boost Investment, Infrastructure",
+          "print_headline": "UK Employers Urge Hammond to Boost Investment, Infrastructure"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:15:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5811391995d0e022439c56c5",
+        "word_count": "282",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/business/26reuters-britain-autos-output.html",
+        "snippet": "British car production rose by an annual 0.9 percent in September with a rise in exports compensating for a fall in demand at home, an industry body said on Thursday....",
+        "lead_paragraph": "British car production rose by an annual 0.9 percent in September with a rise in exports compensating for a fall in demand at home, an industry body said on Thursday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Car Exports Offset Domestic Drop in September Output Rise",
+          "print_headline": "UK Car Exports Offset Domestic Drop in September Output Rise"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:12:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5811387795d0e022439c56c4",
+        "word_count": "317",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/world/americas/26reuters-brazil-politics.html",
+        "snippet": "The president of Brazil's Senate urged the Supreme Court on Wednesday to halt an investigation into the use of Senate police to protect senators from a corruption probe, stoking tensions between the judiciary and the legislative branch....",
+        "lead_paragraph": "The president of Brazil's Senate urged the Supreme Court on Wednesday to halt an investigation into the use of Senate police to protect senators from a corruption probe, stoking tensions between the judiciary and the legislative branch.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rift Between Brazil's Senate and Judiciary Could Derail Fiscal Reform",
+          "print_headline": "Rift Between Brazil's Senate and Judiciary Could Derail Fiscal Reform"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:12:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5811386a95d0e022439c56c3",
+        "word_count": "520",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/business/26reuters-britain-realestate.html",
+        "snippet": "Demand from British businesses for commercial property has partly recovered from its slump after June's vote to leave the European Union and foreign investors are looking to take advantage of the weak pound, industry data showed on Thursday....",
+        "lead_paragraph": "Demand from British businesses for commercial property has partly recovered from its slump after June's vote to leave the European Union and foreign investors are looking to take advantage of the weak pound, industry data showed on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Commercial Property Sees Partial Recovery After Brexit Slump-RICS",
+          "print_headline": "UK Commercial Property Sees Partial Recovery After Brexit Slump-RICS"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:09:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581137bd95d0e022439c56c2",
+        "word_count": "336",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/sports/ncaabasketball/ap-bkc-acc-media-day.html",
+        "snippet": "The Atlantic Coast Conference has shaken off a four-year Final Four drought with strong back-to-back postseason runs that have included winning one national title, playing for another and putting three teams in the national semifinals....",
+        "lead_paragraph": "The Atlantic Coast Conference has shaken off a four-year Final Four drought with strong back-to-back postseason runs that have included winning one national title, playing for another and putting three teams in the national semifinals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "ACC Looks to Keep Strong 2-Year NCAA Run Going in 2017",
+          "print_headline": "ACC Looks to Keep Strong 2-Year NCAA Run Going in 2017"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:08:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5811376095d0e022439c56c1",
+        "word_count": "769",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

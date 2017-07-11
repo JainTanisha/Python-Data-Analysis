@@ -1,0 +1,441 @@
+{
+  "response": {
+    "meta": {
+      "hits": 856,
+      "time": 42,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/08/us/chicago-police-guns-force.html",
+        "snippet": "The policy would limit officers\u2019 use of firearms and stun guns in an effort to address criticisms of the use of police force, especially against African-Americans....",
+        "lead_paragraph": "The policy would limit officers\u2019 use of firearms and stun guns in an effort to address criticisms of the use of police force, especially against African-Americans.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/08/us/08chicago/08chicago-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/08/us/08chicago/08chicago-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/08/us/08chicago/08chicago-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/08/us/08chicago/08chicago-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/08/us/08chicago/08chicago-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/08/us/08chicago/08chicago-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sweeping Limits on Police Use of Weapons Proposed in Chicago",
+          "print_headline": "Chicago Police, Under Federal Scrutiny, Propose Limits to Use of Force"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Chicago (Ill)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Police Department (Chicago, Ill)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Firearms"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Stun Guns"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          }
+        ],
+        "pub_date": "2016-10-07T23:35:16+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mitch",
+              "rank": 1,
+              "lastname": "SMITH"
+            }
+          ],
+          "original": "By MITCH SMITH"
+        },
+        "type_of_material": "News",
+        "_id": "57f8313b95d0e021d798ac2c",
+        "word_count": "774",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/theater/finn-wittrock-the-first-time-i-started-a-theater-company.html",
+        "snippet": "Lots of kids like to put on a show, but few try Shakespeare on a professional stage. To Mr. Wittrock, acting was an outlet for pure energy at a young age....",
+        "lead_paragraph": "Lots of kids like to put on a show, but few try Shakespeare on a professional stage. To Mr. Wittrock, acting was an outlet for pure energy at a young age.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/arts/16FIRSTTIME-WITTROCK/16FIRSTTIME-WITTROCK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/arts/16FIRSTTIME-WITTROCK/16FIRSTTIME-WITTROCK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/arts/16FIRSTTIME-WITTROCK/16FIRSTTIME-WITTROCK-articleLarge-v3.jpg",
+            "height": 300,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/arts/16FIRSTTIME-WITTROCK/16FIRSTTIME-WITTROCK-articleLarge-v3.jpg",
+              "xlargeheight": "300"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/arts/16FIRSTTIME-WITTROCK/16FIRSTTIME-WITTROCK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/arts/16FIRSTTIME-WITTROCK/16FIRSTTIME-WITTROCK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Finn Wittrock: The First Time I Started a Theater Company",
+          "print_headline": "\u2026 I Started a Theater Company"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Shakespeare & Co (Mass Theater Co)"
+          }
+        ],
+        "pub_date": "2016-10-07T23:24:58+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Finn",
+              "rank": 1,
+              "lastname": "WITTROCK"
+            }
+          ],
+          "original": "By FINN WITTROCK"
+        },
+        "type_of_material": "News",
+        "_id": "57f82eda95d0e021d798ac2b",
+        "word_count": "1006",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/sports/ap-car-nascar-daytona-hurricane-damage-.html",
+        "snippet": "Daytona International Speedway officials say the famed track has \"moderate damage\" from Hurricane Matthew....",
+        "lead_paragraph": "Daytona International Speedway officials say the famed track has \"moderate damage\" from Hurricane Matthew.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Famed Daytona Has 'Moderate Damage' From Hurricane Matthew",
+          "print_headline": "Famed Daytona Has 'Moderate Damage' From Hurricane Matthew"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T23:18:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f82e2c95d0e021d798ac2a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/business/07reuters-argentina-energy.html",
+        "snippet": "Argentina expects investment of $1.8 billion from 17 renewable energy projects awarded in an auction to generate 1,109 megawatts of power, the government said on Friday, as it tries to lessen dependence on imported power....",
+        "lead_paragraph": "Argentina expects investment of $1.8 billion from 17 renewable energy projects awarded in an auction to generate 1,109 megawatts of power, the government said on Friday, as it tries to lessen dependence on imported power. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Argentina Expects $1.8 Billion Investment From Renewable Energy Auction",
+          "print_headline": "Argentina Expects $1.8 Billion Investment From Renewable Energy Auction"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T23:13:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f82c9c95d0e021d798ac29",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/sports/ap-box-burns-relikh.html",
+        "snippet": "Ricky Burns earned a unanimous decision against the unbeaten Kiryl Relikh in his first defense of the WBA super-lightweight belt on Friday....",
+        "lead_paragraph": "Ricky Burns earned a unanimous decision against the unbeaten Kiryl Relikh in his first defense of the WBA super-lightweight belt on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Burns Retains WBA Super-Lightweight Belt With Points Win",
+          "print_headline": "Burns Retains WBA Super-Lightweight Belt With Points Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T23:09:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f82c1295d0e021d798ac28",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/world/africa/07reuters-france-africa-security.html",
+        "snippet": "France plans to invest 42 million euros ($47 million) to help countries of Africa's Sahel region prepare to face jihadist attacks similar to those that killed dozens in Paris in 2015, an interior ministry official said on Friday....",
+        "lead_paragraph": "France plans to invest 42 million euros ($47 million) to help countries of Africa's Sahel region prepare to face jihadist attacks similar to those that killed dozens in Paris in 2015, an interior ministry official said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "France to Invest $47 Million in Sahel Counter-Terror Training",
+          "print_headline": "France to Invest $47 Million in Sahel Counter-Terror Training"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T22:51:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f827bf95d0e021d798ac27",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/business/07reuters-usa-stocks-weekahead.html",
+        "snippet": "The roughly month-long corporate earnings announcement season that kicks off on Wall Street next week coincides with the final, most intense stretch of the U.S. presidential campaign....",
+        "lead_paragraph": "The roughly month-long corporate earnings announcement season that kicks off on Wall Street next week coincides with the final, most intense stretch of the U.S. presidential campaign.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Earnings Season Begins as White House Race Heats Up",
+          "print_headline": "Earnings Season Begins as White House Race Heats Up"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T22:51:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f827b395d0e021d798ac26",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/us/ap-us-voter-registration-fraud-qa.html",
+        "snippet": "Indiana State Police are investigating possible voter registration fraud in 56 of the state's 92 counties in a probe that began in August. The investigation is focusing on the efforts of a Washington, D.C.-based voter mobilization group, Patriot M...",
+        "lead_paragraph": "Indiana State Police are investigating possible voter registration fraud in 56 of the state's 92 counties in a probe that began in August. The investigation is focusing on the efforts of a Washington, D.C.-based voter mobilization group, Patriot Majority USA, which denies any wrongdoing and says it is being unfairly targeted for political reasons. The probe expanded Thursday to nearly two-thirds of the state's counties only days before Tuesday's deadline to register to vote in the state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Some Answers About Indiana's Voter Registration Probe",
+          "print_headline": "Some Answers About Indiana's Voter Registration Probe"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T22:13:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f825a895d0e021d798ac24",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/sports/ap-mma-ufc-204.html",
+        "snippet": "Shortly after Michael Bisping agreed to defend his unlikely middleweight title in a rematch with Dan Henderson, he sat down with his wife to watch the fighters' first bout seven years ago at UFC 100....",
+        "lead_paragraph": "Shortly after Michael Bisping agreed to defend his unlikely middleweight title in a rematch with Dan Henderson, he sat down with his wife to watch the fighters' first bout seven years ago at UFC 100.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bisping Craves Revenge in UFC 204 Title Defense vs Henderson",
+          "print_headline": "Bisping Craves Revenge in UFC 204 Title Defense vs Henderson"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T22:38:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8245495d0e021d798ac22",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/arts/ap-us-campaign-2016-trump.html",
+        "snippet": "Donald Trump blurted out lewd and sexually charged comments about women as he waited to make a cameo appearance on a soap opera in 2005, a revelation that led the Republican presidential nominee to issue a rare apology Friday, \"if anyone was offen...",
+        "lead_paragraph": "Donald Trump blurted out lewd and sexually charged comments about women as he waited to make a cameo appearance on a soap opera in 2005, a revelation that led the Republican presidential nominee to issue a rare apology Friday, \"if anyone was offended.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Caught on Video Making Lewd, Crude Remarks About Women",
+          "print_headline": "Trump Caught on Video Making Lewd, Crude Remarks About Women"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T22:38:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8245495d0e021d798ac23",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

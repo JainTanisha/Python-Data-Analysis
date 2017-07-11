@@ -1,0 +1,637 @@
+{
+  "response": {
+    "meta": {
+      "hits": 398,
+      "time": 49,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/arts/dance/laurent-hilaire-named-artistic-director-of-stanislavsky-ballet.html",
+        "snippet": "The former Paris Opera Ballet star dancer will assume that role at the Stanislavsky and Nemirovich-Danchenko Moscow Music Theater on Jan. 1....",
+        "lead_paragraph": "The former Paris Opera Ballet star dancer will assume that role at the Stanislavsky and Nemirovich-Danchenko Moscow Music Theater on Jan. 1.",
+        "abstract": "Former Paris Opera Ballet dancer Laurent Hilaire is named to succeed Igor Zelensky as artistic director of Stanislavsky and Nemirovich-Danchenko Moscow Music Theater.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Laurent Hilaire Named Artistic Director of Stanislavsky Ballet",
+          "print_headline": "New Artistic Director for Stanislavsky Ballet"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hilaire, Laurent (1962- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Stanislavsky Nemirovich-Danchenko Ballet"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          }
+        ],
+        "pub_date": "2016-11-20T22:30:04+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Roslyn",
+              "rank": 1,
+              "lastname": "SULCAS"
+            }
+          ],
+          "original": "By ROSLYN SULCAS"
+        },
+        "type_of_material": "News",
+        "_id": "583223f295d0e039260719cf",
+        "word_count": "152",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/world/europe/20reuters-france-election-juppe.html",
+        "snippet": "French presidential hopeful Alain Juppe cast himself as the best candidate to stop the far-right National Front party to win the presidential election in May after he qualified on Sunday for the second round of the conservatives' nomination contes...",
+        "lead_paragraph": "French presidential hopeful Alain Juppe cast himself as the best candidate to stop the far-right National Front party to win the presidential election in May after he qualified on Sunday for the second round of the conservatives' nomination contest.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "France's Juppe Says Best Conservative Candidate to Stop Far-Right",
+          "print_headline": "France's Juppe Says Best Conservative Candidate to Stop Far-Right"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T22:24:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583222af95d0e039260719ce",
+        "word_count": "104",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/arts/television/review-marathon-the-patriots-day-bombing-on-hbo.html",
+        "snippet": "An HBO film about the 2013 terror attack during the Boston race has its feel-good moments, but it\u2019s really about physical and emotional pain....",
+        "lead_paragraph": "An HBO film about the 2013 terror attack during the Boston race has its feel-good moments, but it\u2019s really about physical and emotional pain.",
+        "abstract": "Neil Genzlinger reviews HBO documentary Marathon: The Patriots Day Bombing, directed by Ricki Stern and Annie Sundberg. ",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/arts/21MARATHON/21MARATHON-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/arts/21MARATHON/21MARATHON-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/arts/21MARATHON/21MARATHON-articleLarge.jpg",
+            "height": 407,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/arts/21MARATHON/21MARATHON-articleLarge.jpg",
+              "xlargeheight": "407"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/arts/21MARATHON/21MARATHON-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/arts/21MARATHON/21MARATHON-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Marathon: The Patriots Day Bombing\u2019 Focuses on the Struggle to Recover",
+          "print_headline": "Struggling to Heal From Harm and Hate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Documentary Films and Programs"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Boston Marathon Bombings (2013)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Home Box Office"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sundberg, Annie"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stern, Ricki"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Marathon: The Patriots Day Bombing (Movie)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          }
+        ],
+        "pub_date": "2016-11-20T22:20:50+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "GENZLINGER"
+            }
+          ],
+          "original": "By NEIL GENZLINGER"
+        },
+        "type_of_material": "Review",
+        "_id": "583221cb95d0e039260719cd",
+        "word_count": "428",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/opinion/heng-on-democracy-in-hong-kong.html",
+        "snippet": "Beijing\u2019s unilateral move to block two politicians from taking their seats in the Legislature is seen as an attempt to silence democratic voices....",
+        "lead_paragraph": "Beijing\u2019s unilateral move to block two politicians from taking their seats in the Legislature is seen as an attempt to silence democratic voices.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/opinion/21Heng-inyt/21Heng-inyt-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/opinion/21Heng-inyt/21Heng-inyt-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/opinion/21Heng-inyt/21Heng-inyt-articleLarge.jpg",
+            "height": 433,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/opinion/21Heng-inyt/21Heng-inyt-articleLarge.jpg",
+              "xlargeheight": "433"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/opinion/21Heng-inyt/21Heng-inyt-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/opinion/21Heng-inyt/21Heng-inyt-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Heng on Democracy in Hong Kong",
+          "content_kicker": "Heng",
+          "kicker": "Heng"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          }
+        ],
+        "pub_date": "2016-11-20T22:19:42+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Op-Ed",
+        "_id": "5832218895d0e039260719cc",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/sports/ncaabasketball/ap-bkw-t25-miss-valley-st-baylor.html",
+        "snippet": "Baylor coach Kim Mulkey never paid attention to the scoreboard. That was never going to be a concern for her second-ranked team against an overmatched opponent....",
+        "lead_paragraph": "Baylor coach Kim Mulkey never paid attention to the scoreboard. That was never going to be a concern for her second-ranked team against an overmatched opponent.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 2 Baylor Women Bounce Back, Overwhelm Miss Valley 101-36",
+          "print_headline": "No. 2 Baylor Women Bounce Back, Overwhelm Miss Valley 101-36"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T22:18:56+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5832215995d0e039260719cb",
+        "word_count": "656",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/arts/television/review-search-party-alia-shawkat.html",
+        "snippet": "A cure for millennial malaise? Maybe, at least for the sleuths who pursue this mystery, and the humor it exudes....",
+        "lead_paragraph": "A cure for millennial malaise? Maybe, at least for the sleuths who pursue this mystery, and the humor it exudes.",
+        "abstract": "Mike Hale reviews mystery series Search Party, premiering on TBS.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/arts/21SEARCHPARTY/21SEARCHPARTY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/arts/21SEARCHPARTY/21SEARCHPARTY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/arts/21SEARCHPARTY/21SEARCHPARTY-articleLarge.jpg",
+            "height": 335,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/arts/21SEARCHPARTY/21SEARCHPARTY-articleLarge.jpg",
+              "xlargeheight": "335"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/arts/21SEARCHPARTY/21SEARCHPARTY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/arts/21SEARCHPARTY/21SEARCHPARTY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Search Party\u2019 Turns Up Clueless Sleuths of Brooklyn",
+          "print_headline": "Sleuths Without a Clue Bungling in Brooklyn"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Shawkat, Alia"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Showalter, Michael"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Early, John"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Search Party (TV Program)"
+          }
+        ],
+        "pub_date": "2016-11-20T22:16:09+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "HALE"
+            }
+          ],
+          "original": "By MIKE HALE"
+        },
+        "type_of_material": "Review",
+        "_id": "583220b295d0e039260719ca",
+        "word_count": "500",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/world/europe/ap-eu-france-election-candidates.html",
+        "snippet": "Francois Fillon and Alain Juppe came out on top of the first round of voting in France's first-ever conservative presidential primary Sunday, and now face a runoff election Nov. 27. Here's a look at who they are and what they promise for France:...",
+        "lead_paragraph": "Francois Fillon and Alain Juppe came out on top of the first round of voting in France's first-ever conservative presidential primary Sunday, and now face a runoff election Nov. 27. Here's a look at who they are and what they promise for France:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "A Look at the Candidates of France's Conservative Primary",
+          "print_headline": "A Look at the Candidates of France's Conservative Primary"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T22:12:50+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58321fe995d0e039260719c9",
+        "word_count": "195",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/sports/ncaabasketball/ap-bkw-t25-hampton-south-carolina.html",
+        "snippet": "Alaina Coates scored 28 points and had 16 rebounds to lead No. 4 South Carolina to a 92-38 win over Hampton on Sunday....",
+        "lead_paragraph": "Alaina Coates scored 28 points and had 16 rebounds to lead No. 4 South Carolina to a 92-38 win over Hampton on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Coates and Wilson Power No. 4 South Carolina to 92-38 Win",
+          "print_headline": "Coates and Wilson Power No. 4 South Carolina to 92-38 Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T22:06:58+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58321e8595d0e039260719c8",
+        "word_count": "339",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/world/europe/20reuters-france-election-poll.html",
+        "snippet": "France's Francois Fillon was seen winning next Sunday's second round of conservative primaries against Alain Juppe, in the first opinion poll published after the two men were seen this Sunday qualifying for the runoff....",
+        "lead_paragraph": "France's Francois Fillon was seen winning next Sunday's second round of conservative primaries against Alain Juppe, in the first opinion poll published after the two men were seen this Sunday qualifying for the runoff.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "France's Fillon Seen Winning French Primaries vs Juppe-Poll",
+          "print_headline": "France's Fillon Seen Winning French Primaries vs Juppe-Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T22:06:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58321e7095d0e039260719c7",
+        "word_count": "83",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/arts/music/review-brahms-at-the-boston-smphony-with-helene-grimaud.html",
+        "snippet": "If conductors can be divided into those who excel at Brahms\u2019s First and Third symphonies and those who do best with the Second and Fourth, Andris Nelsons is the former....",
+        "lead_paragraph": "If conductors can be divided into those who excel at Brahms\u2019s First and Third symphonies and those who do best with the Second and Fourth, Andris Nelsons is the former.",
+        "abstract": "David Allen reviews performances by Boston Symphony Orchestra, including Brahms symphonies and premieres by Eric Nathan and Timo Andres, at Symphony Hall in Boston. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/arts/21BSO/21BSO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/arts/21BSO/21BSO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/arts/21BSO/21BSO-articleLarge.jpg",
+            "height": 374,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/arts/21BSO/21BSO-articleLarge.jpg",
+              "xlargeheight": "374"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/arts/21BSO/21BSO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/arts/21BSO/21BSO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Brahms at the Boston Smphony, With H\u00e9l\u00e8ne Grimaud",
+          "print_headline": "A Symphonic Celebration of Brahms"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Boston Symphony Orchestra"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Grimaud, Helene"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brahms, Johannes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Nelsons, Andris"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Andres, Timo"
+          }
+        ],
+        "pub_date": "2016-11-20T22:05:59+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 1,
+              "lastname": "ALLEN"
+            }
+          ],
+          "original": "By DAVID ALLEN"
+        },
+        "type_of_material": "Review",
+        "_id": "58321e4a95d0e039260719c6",
+        "word_count": "679",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

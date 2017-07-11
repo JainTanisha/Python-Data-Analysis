@@ -1,0 +1,516 @@
+{
+  "response": {
+    "meta": {
+      "hits": 803,
+      "time": 71,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/opinion/shock-waves-a-week-after-the-vote.html",
+        "snippet": "Donald Trump make a controversial appointment; Hillary Clinton blames the F.B.I. director for her loss....",
+        "lead_paragraph": "Donald Trump make a controversial appointment; Hillary Clinton blames the F.B.I. director for her loss.",
+        "abstract": null,
+        "print_page": "30",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Shock Waves a Week After the Vote",
+          "content_kicker": "Letters",
+          "kicker": "Letters",
+          "print_headline": "Shock Waves a Week After the Vote"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-11-14T22:27:10Z",
+        "document_type": "article",
+        "news_desk": "Letters",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Letter",
+        "_id": "582a3a4295d0e0204d5606a2",
+        "word_count": "872",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/world/europe/putin-calls-trump.html",
+        "snippet": "The leaders discussed trade and combating terrorism, with the Russian president saying he hoped for \u201cnoninterference in the other\u2019s internal affairs.\u201d...",
+        "lead_paragraph": "The leaders discussed trade and combating terrorism, with the Russian president saying he hoped for \u201cnoninterference in the other\u2019s internal affairs.\u201d",
+        "abstract": "Pres-elect Donald J Trump and Russian Pres Vladimir V Putin discuss state of relations between both countries for first time, in telephone conversation that suggests both leaders are shifting towards 'mutually beneficial cooperation.'",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/15/world/15putin/15putin-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/15/world/15putin/15putin-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/15/world/15putin/15putin-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/15/world/15putin/15putin-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/15/world/15putin/15putin-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/15/world/15putin/15putin-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Putin and Trump Talk on Phone and Agree to Improve Ties, Kremlin Says",
+          "print_headline": "Trump Talks With Leaders of Russia and China for First Time"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-11-14T22:25:49Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "MacFARQUHAR"
+            }
+          ],
+          "original": "By NEIL MacFARQUHAR"
+        },
+        "type_of_material": "News",
+        "_id": "582a39f495d0e0204d5606a1",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/world/asia/how-india-plans-to-wipe-out-black-money.html",
+        "snippet": "Prime Minister Modi has banned 500- and 1,000-rupee bills, or about 86 percent of India\u2019s currency, in an effort to combat corruption and tax avoidance....",
+        "lead_paragraph": "Prime Minister Modi has banned 500- and 1,000-rupee bills, or about 86 percent of India\u2019s currency, in an effort to combat corruption and tax avoidance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "How Narendra Modi of India Plans to Wipe Out \u2018Black Money\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Indian Rupee (Currency)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Modi, Narendra"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "India"
+          }
+        ],
+        "pub_date": "2016-11-14T22:24:48+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Geeta",
+              "rank": 1,
+              "lastname": "ANAND"
+            }
+          ],
+          "original": "By GEETA ANAND"
+        },
+        "type_of_material": "News",
+        "_id": "582a39b895d0e0204d5606a0",
+        "word_count": "793",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/roomfordebate/2016/11/14/should-the-government-bring-back-trust-busting",
+        "snippet": "Is a concentration of wealth in monopolies a threat to democracy?...",
+        "lead_paragraph": "",
+        "abstract": "Is a concentration of wealth in monopolies a threat to democracy?",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Should the Government Bring Back Trust-Busting?",
+          "kicker": "Room For Debate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "pub_date": "2016-11-14T03:19:00Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Opinion",
+        "subsection_name": "Room For Debate",
+        "byline": null,
+        "type_of_material": "Blog",
+        "_id": "5829761395d0e0204d56046a",
+        "word_count": "1496",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/sports/football/ap-fbn-browns-no-progress-.html",
+        "snippet": "There's one loss Browns coach Hue Jackson doesn't have to fear this season: his job....",
+        "lead_paragraph": "There's one loss Browns coach Hue Jackson doesn't have to fear this season: his job.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Coach Hue Jackson's Job Safe With Browns Despite 0-10 Start",
+          "print_headline": "Coach Hue Jackson's Job Safe With Browns Despite 0-10 Start"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:22:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a393895d0e0204d56069f",
+        "word_count": "807",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/ap-us-fatal-bus-crash.html",
+        "snippet": "A South Carolina church that owned the bus involved in a collision that killed four people in September was ordered on Monday to stop for-hire operations, federal authorities said....",
+        "lead_paragraph": "A South Carolina church that owned the bus involved in a collision that killed four people in September was ordered on Monday to stop for-hire operations, federal authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Feds Shut Down For-Hire Church Bus Involved in Fatal Crash",
+          "print_headline": "Feds Shut Down For-Hire Church Bus Involved in Fatal Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:22:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a393195d0e0204d56069e",
+        "word_count": "245",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/us/politics/stephen-bannon-breitbart-words.html",
+        "snippet": "A look at the words of Stephen K. Bannon, the new chief White House strategist to President-elect Donald J. Trump....",
+        "lead_paragraph": "A look at the words of Stephen K. Bannon, the new chief White House strategist to President-elect Donald J. Trump.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/14/us/15xp-bannonquotes/15xp-bannonquotes-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/14/us/15xp-bannonquotes/15xp-bannonquotes-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/14/us/15xp-bannonquotes/15xp-bannonquotes-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/14/us/15xp-bannonquotes/15xp-bannonquotes-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/14/us/15xp-bannonquotes/15xp-bannonquotes-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/14/us/15xp-bannonquotes/15xp-bannonquotes-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Stephen Bannon and Breitbart News, in Their Words",
+          "print_headline": "Bannon and Breitbart News, Quoted"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fringe Groups and Movements"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Breitbart News Network LLC"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bannon, Stephen K"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Yiannopoulos, Milo"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stone, Roger J Jr"
+          }
+        ],
+        "pub_date": "2016-11-14T22:21:57Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Daniel",
+              "rank": 1,
+              "lastname": "VICTOR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Liam",
+              "rank": 2,
+              "lastname": "STACK"
+            }
+          ],
+          "original": "By DANIEL VICTOR and LIAM STACK"
+        },
+        "type_of_material": "News",
+        "_id": "582a390f95d0e0204d56069d",
+        "word_count": "1007",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/politics/ap-us-sec-chair-departure.html",
+        "snippet": "The head of the Securities and Exchange Commission, Mary Jo White, will leave office at the end of the Obama administration, the agency said Monday....",
+        "lead_paragraph": "The head of the Securities and Exchange Commission, Mary Jo White, will leave office at the end of the Obama administration, the agency said Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "SEC Chair White Leaving at End of Obama Administration",
+          "print_headline": "SEC Chair White Leaving at End of Obama Administration"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:21:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a390a95d0e0204d56069c",
+        "word_count": "694",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/sports/hockey/ap-hkn-nhl-2018-olympics.html",
+        "snippet": "NHL meetings are set for this week to discuss whether the league will participate in the 2018 Olympics in South Korea....",
+        "lead_paragraph": "NHL meetings are set for this week to discuss whether the league will participate in the 2018 Olympics in South Korea.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NHL Has New Meetings Set on 2018 Olympics",
+          "print_headline": "NHL Has New Meetings Set on 2018 Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:19:13Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a386c95d0e0204d56069b",
+        "word_count": "302",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/14/arts/14reuters-art-auction-kahlo.html",
+        "snippet": "A Frida Kahlo painting that has never been publicly exhibited and whose whereabouts had been a mystery will be auctioned next week at Sotheby's in New York, the auction house said on Monday....",
+        "lead_paragraph": "A Frida Kahlo painting that has never been publicly exhibited and whose whereabouts had been a mystery will be auctioned next week at Sotheby's in New York, the auction house said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Frida Kahlo Painting, Unseen for 60 Years, Surfaces for Sale",
+          "print_headline": "Frida Kahlo Painting, Unseen for 60 Years, Surfaces for Sale"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:18:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582a385495d0e0204d56069a",
+        "word_count": "366",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

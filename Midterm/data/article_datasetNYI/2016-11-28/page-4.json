@@ -1,0 +1,493 @@
+{
+  "response": {
+    "meta": {
+      "hits": 735,
+      "time": 58,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/sports/soccer/28reuters-soccer-italy.html",
+        "snippet": "Inter Milan scored three early goals before surviving a second-half fightback to beat 10-man Fiorentina 4-2 and give new coach Stefano Pioli his first win on Monday....",
+        "lead_paragraph": "Inter Milan scored three early goals before surviving a second-half fightback to beat 10-man Fiorentina 4-2 and give new coach Stefano Pioli his first win on Monday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Inter Survive Fiorentina Rally as Pioli Claims First Win",
+          "print_headline": "Inter Survive Fiorentina Rally as Pioli Claims First Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:36:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb17895d0e03926072e52",
+        "word_count": "403",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-hate-letters-mosques.html",
+        "snippet": "Law enforcement officials condemned a hate-filled letter Monday directed at several California mosques that warned Muslims to leave the country to avoid being exterminated....",
+        "lead_paragraph": "Law enforcement officials condemned a hate-filled letter Monday directed at several California mosques that warned Muslims to leave the country to avoid being exterminated.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Law Enforcement Condemns Letters Threatening Muslims",
+          "print_headline": "Law Enforcement Condemns Letters Threatening Muslims"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:35:33+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb13e95d0e03926072e50",
+        "word_count": "467",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/arts/design/sothebys-tries-to-block-suit-over-a-leonardo-sold-and-resold-at-a-big-markup.html",
+        "snippet": "The auction house has become entangled in a dispute between a Swiss art dealer and a billionaire Russian collector....",
+        "lead_paragraph": "The auction house has become entangled in a dispute between a Swiss art dealer and a billionaire Russian collector.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/arts/29SOTHEBYS/29SOTHEBYS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/arts/29SOTHEBYS/29SOTHEBYS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/arts/29SOTHEBYS/29SOTHEBYS-articleLarge.jpg",
+            "height": 871,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/arts/29SOTHEBYS/29SOTHEBYS-articleLarge.jpg",
+              "xlargeheight": "871"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/arts/29SOTHEBYS/29SOTHEBYS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/arts/29SOTHEBYS/29SOTHEBYS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sotheby\u2019s Tries to Block Suit Over a Leonardo Sold and Resold at a Big Markup",
+          "print_headline": "Bought and Flipped: The Deal of the Art "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Klimt, Gustav"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Auctions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appraisals and Valuation (Property)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Arts and Antiquities Looting"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Collectors and Collections"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Sotheby's"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rybolovlev, Dmitry Evgenevich"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bouvier, Yves"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "da Vinci, Leonardo"
+          }
+        ],
+        "pub_date": "2016-11-28T22:32:38+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Graham",
+              "rank": 1,
+              "lastname": "BOWLEY"
+            },
+            {
+              "firstname": "William",
+              "middlename": "K.",
+              "lastname": "RASHBAUM",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By GRAHAM BOWLEY and WILLIAM K. RASHBAUM"
+        },
+        "type_of_material": "News",
+        "_id": "583cb09095d0e03926072e4f",
+        "word_count": "1729",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-united-flight-aborted.html",
+        "snippet": "A United Airlines Boeing 747 has returned to San Francisco after one of its four engines failed shortly after takeoff....",
+        "lead_paragraph": "A United Airlines Boeing 747 has returned to San Francisco after one of its four engines failed shortly after takeoff.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "United Airlines 747 Returns to SF After Engine Failure",
+          "print_headline": "United Airlines 747 Returns to SF After Engine Failure"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:30:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb01c95d0e03926072e4e",
+        "word_count": "96",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-oil-pipeline-protest.html",
+        "snippet": "Government orders for protesters of the Dakota Access pipeline to leave federal land could have little immediate effect on the encampment where scores of people have been gathered for months to oppose the $3.8 billion project....",
+        "lead_paragraph": "Government orders for protesters of the Dakota Access pipeline to leave federal land could have little immediate effect on the encampment where scores of people have been gathered for months to oppose the $3.8 billion project.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Orders Could Have Little Effect on Pipeline Protest Camp",
+          "print_headline": "Orders Could Have Little Effect on Pipeline Protest Camp"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:27:53+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583caf7395d0e03926072e4d",
+        "word_count": "669",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-south-carolina-cold-case-killer.html",
+        "snippet": "A South Carolina man suspected of being a serial killer was formally charged with three additional counts of murder Monday for bodies found buried on his land....",
+        "lead_paragraph": "A South Carolina man suspected of being a serial killer was formally charged with three additional counts of murder Monday for bodies found buried on his land.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "3 Murder Warrants Issued for SC Man Sheriff Said Killed 7",
+          "print_headline": "3 Murder Warrants Issued for SC Man Sheriff Said Killed 7"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:27:50+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583caf6d95d0e03926072e4c",
+        "word_count": "250",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/world/americas/28reuters-brazil-politics.html",
+        "snippet": "Leftist opponents of Brazil's President Michel Temer sought on Monday to have him investigated and impeached for his alleged role in pressuring a former culture minister to approve a property development....",
+        "lead_paragraph": "Leftist opponents of Brazil's President Michel Temer sought on Monday to have him investigated and impeached for his alleged role in pressuring a former culture minister to approve a property development.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Leftist Opposition Seek Temer Probe, Impeachment",
+          "print_headline": "Brazil's Leftist Opposition Seek Temer Probe, Impeachment"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:27:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583caf5a95d0e03926072e4b",
+        "word_count": "445",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/sports/ncaafootball/ap-fbc-t25-oklahoma-heisman-contenders.html",
+        "snippet": "Oklahoma's Baker Mayfield and Dede Westbrook will have an ideal stage as they make their final impressions on Heisman Trophy voters....",
+        "lead_paragraph": "Oklahoma's Baker Mayfield and Dede Westbrook will have an ideal stage as they make their final impressions on Heisman Trophy voters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Oklahoma's Mayfield, Westbrook to Make Final Heisman Pushes",
+          "print_headline": "Oklahoma's Mayfield, Westbrook to Make Final Heisman Pushes"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:23:06+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cae5995d0e03926072e4a",
+        "word_count": "562",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/business/ap-us-treasury-bills.html",
+        "snippet": "Interest rates on short-term Treasury bills rose in Monday's auction to their highest levels in two weeks....",
+        "lead_paragraph": "Interest rates on short-term Treasury bills rose in Monday's auction to their highest levels in two weeks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rates Rise on US Treasury Bills to Highest in 2 Weeks",
+          "print_headline": "Rates Rise on US Treasury Bills to Highest in 2 Weeks"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:22:38+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cae3695d0e03926072e49",
+        "word_count": "179",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/arts/music/weeknd-starboy-mania-review.html",
+        "snippet": "In the last two years, this singer has tempered his subject matter only slightly, but his sonic approach drastically. He\u2019s looked to the Michael Jackson 1980s....",
+        "lead_paragraph": "In the last two years, this singer has tempered his subject matter only slightly, but his sonic approach drastically. He\u2019s looked to the Michael Jackson 1980s.",
+        "abstract": "Jon Caramanica reviews album Starboy by singer Abel Tesfaye, who performs as the Weeknd.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/arts/29WEEKND/29WEEKND-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/arts/29WEEKND/29WEEKND-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/arts/29WEEKND/29WEEKND-articleLarge.jpg",
+            "height": 686,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/arts/29WEEKND/29WEEKND-articleLarge.jpg",
+              "xlargeheight": "686"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/arts/29WEEKND/29WEEKND-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/arts/29WEEKND/29WEEKND-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Starboy\u2019 Places the Weeknd on the Sunny Side of Debauchery",
+          "content_kicker": "Album Review",
+          "kicker": "Album Review",
+          "print_headline": "In a Pop Embrace, Weapon of Choice Is Sweetness"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Tesfaye, Abel (Weeknd)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Starboy (Album)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-28T22:22:04+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "CARAMANICA"
+            }
+          ],
+          "original": "By JON CARAMANICA"
+        },
+        "type_of_material": "Review",
+        "_id": "583cae2195d0e03926072e48",
+        "word_count": "945",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

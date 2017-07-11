@@ -1,0 +1,496 @@
+{
+  "response": {
+    "meta": {
+      "hits": 913,
+      "time": 65,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/03/business/media/universals-deal-for-princes-song-rights-may-bring-a-wider-audience.html",
+        "snippet": "The first major deal for Prince\u2019s music has been reached, with star\u2019s songwriting rights going to the Universal Music Publishing Group for an undisclosed sum....",
+        "lead_paragraph": "The first major deal for Prince\u2019s music has been reached, with star\u2019s songwriting rights going to the Universal Music Publishing Group for an undisclosed sum.",
+        "abstract": null,
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/06/business/03PRINCE/03PRINCE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/06/business/03PRINCE/03PRINCE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/06/business/03PRINCE/03PRINCE-articleLarge.jpg",
+            "height": 454,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/06/business/03PRINCE/03PRINCE-articleLarge.jpg",
+              "xlargeheight": "454"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/06/business/03PRINCE/03PRINCE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/06/business/03PRINCE/03PRINCE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Universal\u2019s Deal for Prince\u2019s Song Rights May Bring a Wider Audience",
+          "print_headline": "Universal\u2019s Deal for Prince\u2019s Songwriting Rights May Bring a Wider Audience"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Prince (1958- )"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Wills and Estates"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Universal Music Group"
+          }
+        ],
+        "pub_date": "2016-11-02T23:38:46Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "SISARIO"
+            }
+          ],
+          "original": "By BEN SISARIO"
+        },
+        "type_of_material": "News",
+        "_id": "581b678c95d0e022439c6b9d",
+        "word_count": "591",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/03/world/asia/indonesia-boat-sinking.html",
+        "snippet": "The boat, carrying 98 Indonesian migrant workers and three crew members, hit a reef after being caught up in strong winds and big waves, and then sank....",
+        "lead_paragraph": "The boat, carrying 98 Indonesian migrant workers and three crew members, hit a reef after being caught up in strong winds and big waves, and then sank.",
+        "abstract": "Indonesia's disaster agency reports deaths of at least 18 people after speedboat carrying 101 people sinks off island of Batam; search is ongoing for 44 passengers still missing.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/world/03indonesia1/03indonesia1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/world/03indonesia1/03indonesia1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/03/world/03indonesia1/03indonesia1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/03/world/03indonesia1/03indonesia1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/world/03indonesia1/03indonesia1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/world/03indonesia1/03indonesia1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "At Least 18 Die and Scores Are Missing in Indonesia Boat Accident",
+          "print_headline": "Deadly Sea Disaster Off Indonesia"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Maritime Accidents and Safety"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Indonesia"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Malaysia"
+          }
+        ],
+        "pub_date": "2016-11-02T23:37:55Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b679f95d0e022439c6b9e",
+        "word_count": "253",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/03/arts/television/bill-cosby-trial-on-sexual-assault-charges-may-be-held-earlier-than-expected.html",
+        "snippet": "The judge in the case ruled on Wednesday that if pretrial hearings are completed on schedule in December, he hopes to start the trial earlier than June, as was expected....",
+        "lead_paragraph": "The judge in the case ruled on Wednesday that if pretrial hearings are completed on schedule in December, he hopes to start the trial earlier than June, as was expected.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/arts/03COSBY/03COSBY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/arts/03COSBY/03COSBY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/03/arts/03COSBY/03COSBY-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/03/arts/03COSBY/03COSBY-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/arts/03COSBY/03COSBY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/arts/03COSBY/03COSBY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Bill Cosby Trial on Sexual Assault Charges May Be Held Earlier Than Expected"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cosby, Bill"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Constand, Andrea"
+          }
+        ],
+        "pub_date": "2016-11-02T23:37:37Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "HURDLE"
+            }
+          ],
+          "original": "By JON HURDLE"
+        },
+        "type_of_material": "News",
+        "_id": "581b67c395d0e022439c6ba0",
+        "word_count": "823",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-officers-killed-iowa-profiles.html",
+        "snippet": "The two Iowa police officers who were shot and killed in separate ambush-style attacks Wednesday are being remembered as friendly public servants....",
+        "lead_paragraph": "The two Iowa police officers who were shot and killed in separate ambush-style attacks Wednesday are being remembered as friendly public servants.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Slain Iowa Officers Remembered as Friendly Public Servants",
+          "print_headline": "Slain Iowa Officers Remembered as Friendly Public Servants"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:34:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b676a95d0e022439c6b98",
+        "word_count": "626",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-campaign-2016-10-political-films.html",
+        "snippet": "There are some wonderful idealistic films about American politics, warm with optimism and belief in Washington's system....",
+        "lead_paragraph": "There are some wonderful idealistic films about American politics, warm with optimism and belief in Washington's system.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "10 Great Political Films for a Stranger-Than-Fiction Race",
+          "print_headline": "10 Great Political Films for a Stranger-Than-Fiction Race"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:28:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b673c95d0e022439c6b92",
+        "word_count": "863",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/business/02reuters-wells-fargo-accounts-sec.html",
+        "snippet": "The Securities and Exchange Commission (SEC) is probing whether Wells Fargo &amp; Co violated rules around investor disclosures and other matters relating to its recent sales tactics scandal, the Wall Street Journal reported on Wednesday....",
+        "lead_paragraph": "The Securities and Exchange Commission (SEC) is probing whether Wells Fargo &amp; Co violated rules around investor disclosures and other matters relating to its recent sales tactics scandal, the Wall Street Journal reported on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "SEC Probes Wells Fargo Over Sales-Practice Disclosures: WSJ",
+          "print_headline": "SEC Probes Wells Fargo Over Sales-Practice Disclosures: WSJ"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:21:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b676095d0e022439c6b96",
+        "word_count": "217",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-dmv-lawsuit-hp-enterprise.html",
+        "snippet": "A judge has ordered representatives from Hewlett Packard Enterprise and Rhode Island to appear in court for mediation over the unfinished project to build a new computer system for the state Division of Motor Vehicles....",
+        "lead_paragraph": "A judge has ordered representatives from Hewlett Packard Enterprise and Rhode Island to appear in court for mediation over the unfinished project to build a new computer system for the state Division of Motor Vehicles.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "HP Enterprise and Rhode Island Ordered to Meet for Mediation",
+          "print_headline": "HP Enterprise and Rhode Island Ordered to Meet for Mediation"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:15:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b670f95d0e022439c6b8b",
+        "word_count": "136",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/world/asia/02reuters-myanmar-rohingya-police.html",
+        "snippet": "Myanmar police will begin arming and training non-Muslim residents in the troubled north of Rakhine State, where officials say militants from the Rohingya Muslim group pose a growing security threat, police and civilian officials said....",
+        "lead_paragraph": "Myanmar police will begin arming and training non-Muslim residents in the troubled north of Rakhine State, where officials say militants from the Rohingya Muslim group pose a growing security threat, police and civilian officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Myanmar Police to Arm, Train Non-Muslims in Conflict-Torn Region",
+          "print_headline": "Myanmar Police to Arm, Train Non-Muslims in Conflict-Torn Region"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:12:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b661a95d0e022439c6b7d",
+        "word_count": "783",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/world/asia/02reuters-indonesia-protests.html",
+        "snippet": "Thousands of hardline Muslims are expected to take to the streets on Friday to protest against the governor of Jakarta, a Christian and the first ethnic Chinese in the job, over claims he insulted the Koran....",
+        "lead_paragraph": "Thousands of hardline Muslims are expected to take to the streets on Friday to protest against the governor of Jakarta, a Christian and the first ethnic Chinese in the job, over claims he insulted the Koran.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Indonesia Police Brace for Hardline Islamic Protest",
+          "print_headline": "Indonesia Police Brace for Hardline Islamic Protest"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:06:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b670f95d0e022439c6b8c",
+        "word_count": "632",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-autistic-boy-attacked.html",
+        "snippet": "A warrant has been issued for a man accused of knocking down an autistic New York boy during a cross-country meet....",
+        "lead_paragraph": "A warrant has been issued for a man accused of knocking down an autistic New York boy during a cross-country meet.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Plan Arrest in Attack on Autistic Teenage Runner",
+          "print_headline": "Police Plan Arrest in Attack on Autistic Teenage Runner"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T23:04:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b66a795d0e022439c6b87",
+        "word_count": "141",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

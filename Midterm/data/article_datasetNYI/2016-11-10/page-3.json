@@ -1,0 +1,451 @@
+{
+  "response": {
+    "meta": {
+      "hits": 878,
+      "time": 86,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/us/politics/10reuters-usa-election-bannon.html",
+        "snippet": "President-elect Donald Trump is strongly considering naming his campaign chief Steve Bannon to serve as White House chief of staff, CNN reported on Thursday, citing a source with knowledge of the situation....",
+        "lead_paragraph": "President-elect Donald Trump is strongly considering naming his campaign chief Steve Bannon to serve as White House chief of staff, CNN reported on Thursday, citing a source with knowledge of the situation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Strongly Considering Naming Campaign Chief Bannon as Chief of Staff: CNN",
+          "print_headline": "Trump Strongly Considering Naming Campaign Chief Bannon as Chief of Staff: CNN"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:09:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fe3b95d0e0204d55fd25",
+        "word_count": "38",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/world/asia/10reuters-afghanistan-blast-rescue.html",
+        "snippet": "An attack on the German consulate in the northern Afghan city of Mazar-i-Sharif on Thursday killed several civilians and wounded dozens of others but all the Germans at the compound have been rescued, the police chief of the local province said....",
+        "lead_paragraph": "An attack on the German consulate in the northern Afghan city of Mazar-i-Sharif on Thursday killed several civilians and wounded dozens of others but all the Germans at the compound have been rescued, the police chief of the local province said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Civilians Killed in Afghan Consulate Attack, Germans Rescued: Police",
+          "print_headline": "Civilians Killed in Afghan Consulate Attack, Germans Rescued: Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:09:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fe3095d0e0204d55fd24",
+        "word_count": "108",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/13/nyregion/honky-tonk-brunch-spot-for-brooklyns-hellbound.html",
+        "snippet": "Hank\u2019s in Boerum Hill, successor to the Doray Tavern, where Mohawk ironworkers once hung out, is a grimy but endearing contrast with its neighborhood....",
+        "lead_paragraph": "Hank\u2019s in Boerum Hill, successor to the Doray Tavern, where Mohawk ironworkers once hung out, is a grimy but endearing contrast with its neighborhood.",
+        "abstract": "Neighborhood Joint column on Hank's Saloon in Boerum Hill, Brooklyn; business was formerly Doray Tavern, bar dating back to 1930s that was hangout for neighborhood residents including Mohawk ironworkers who helped construct Empire State Building.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/13/nyregion/13JOINT1sub/13JOINT1sub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/13/nyregion/13JOINT1sub/13JOINT1sub-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/13/nyregion/13JOINT1sub/13JOINT1sub-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/13/nyregion/13JOINT1sub/13JOINT1sub-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/13/nyregion/13JOINT1sub/13JOINT1sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/13/nyregion/13JOINT1sub/13JOINT1sub-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Honky-Tonk Brunch Spot for Brooklyn\u2019s Hellbound",
+          "content_kicker": "Neighborhood Joint",
+          "kicker": "Neighborhood Joint",
+          "print_headline": "Honky Tonkers and Mohawk Ghosts"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Bars and Nightclubs"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brooklyn (NYC)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Boerum Hill (Brooklyn, NY)"
+          }
+        ],
+        "pub_date": "2016-11-10T23:09:17+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ryan",
+              "rank": 1,
+              "lastname": "BURLESON"
+            }
+          ],
+          "original": "By RYAN BURLESON"
+        },
+        "type_of_material": "News",
+        "_id": "5824fe2195d0e0204d55fd23",
+        "word_count": "567",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/business/10reuters-usa-election-tax-companies.html",
+        "snippet": "Donald Trump's White House victory moves Apple, Pfizer, Microsoft and other big U.S. corporations much closer than they have been in years to winning a big tax break on $2.6 trillion in foreign profits....",
+        "lead_paragraph": "Donald Trump's White House victory moves Apple, Pfizer, Microsoft and other big U.S. corporations much closer than they have been in years to winning a big tax break on $2.6 trillion in foreign profits.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Multinationals Eye Foreign Profits Tax Break With Trump Win",
+          "print_headline": "U.S. Multinationals Eye Foreign Profits Tax Break With Trump Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:06:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fd8495d0e0204d55fd22",
+        "word_count": "924",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/business/10reuters-usa-iran-charges.html",
+        "snippet": "Four Turkish and Iranian nationals from the same family have been indicted on charges they violated U.S. sanctions against Iran by conducting hundreds of millions of dollars of transactions for Iran's government and Iranian metals companies....",
+        "lead_paragraph": "Four Turkish and Iranian nationals from the same family have been indicted on charges they violated U.S. sanctions against Iran by conducting hundreds of millions of dollars of transactions for Iran's government and Iranian metals companies.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Charges Turkish, Iranian Nationals With Evading Iran Sanctions",
+          "print_headline": "U.S. Charges Turkish, Iranian Nationals With Evading Iran Sanctions"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:06:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fd7d95d0e0204d55fd21",
+        "word_count": "318",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/13/nyregion/a-boerum-hill-bar-where-the-old-days-live-on.html",
+        "snippet": "Everybody at Hank\u2019s Saloon in Brooklyn may not know your name, but Jeannie probably does....",
+        "lead_paragraph": "Everybody at Hank\u2019s Saloon in Brooklyn may not know your name, but Jeannie probably does.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/nyregion/13JOINTSS-1/13JOINTSS-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/nyregion/13JOINTSS-1/13JOINTSS-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/nyregion/13JOINTSS-1/13JOINTSS-1-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/nyregion/13JOINTSS-1/13JOINTSS-1-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/nyregion/13JOINTSS-1/13JOINTSS-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/nyregion/13JOINTSS-1/13JOINTSS-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Boerum Hill Bar Where the Old Days Live On"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:05:38Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5824fd4c95d0e0204d55fd20",
+        "word_count": "15",
+        "slideshow_credits": "Christopher Lee for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/us/politics/10reuters-usa-election-obama-foreignpolicy.html",
+        "snippet": "U.S. President Barack Obama's foreign policy legacy rests in part on a foundation of unilateral actions that his successor Donald Trump could reverse with the stroke of a pen....",
+        "lead_paragraph": "U.S. President Barack Obama's foreign policy legacy rests in part on a foundation of unilateral actions that his successor Donald Trump could reverse with the stroke of a pen.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Could Easily Erase Much of Obama's Foreign Policy Legacy",
+          "print_headline": "Trump Could Easily Erase Much of Obama's Foreign Policy Legacy"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:03:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fcc795d0e0204d55fd1f",
+        "word_count": "866",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/10/sports/golf/ap-glf-lpga-tour.html",
+        "snippet": "Carlota Ciganda birdied three of the last six holes Thursday for a 5-under 67 and a share of the lead with playing partner Sarah Jane Smith in the Citibanamex Lorena Ochoa Invitational....",
+        "lead_paragraph": "Carlota Ciganda birdied three of the last six holes Thursday for a 5-under 67 and a share of the lead with playing partner Sarah Jane Smith in the Citibanamex Lorena Ochoa Invitational.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ciganda, Smith Share Lorena Ochoa Invitational Lead",
+          "print_headline": "Ciganda, Smith Share Lorena Ochoa Invitational Lead"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:01:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fc4a95d0e0204d55fd1e",
+        "word_count": "405",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/briefing/donald-trump-marijuana-rolling-stones.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/briefing/10eveningss-slide-O5JZ/10eveningss-slide-O5JZ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/briefing/10eveningss-slide-O5JZ/10eveningss-slide-O5JZ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/briefing/10eveningss-slide-O5JZ/10eveningss-slide-O5JZ-articleLarge.jpg",
+            "height": 410,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/briefing/10eveningss-slide-O5JZ/10eveningss-slide-O5JZ-articleLarge.jpg",
+              "xlargeheight": "410"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/briefing/10eveningss-slide-O5JZ/10eveningss-slide-O5JZ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/briefing/10eveningss-slide-O5JZ/10eveningss-slide-O5JZ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Marijuana, Rolling Stones: Your Thursday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:01:09Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "5824fc3a95d0e0204d55fd1d",
+        "word_count": "896",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/10/business/ap-us-campaign-2016-polling-how-it-works.html",
+        "snippet": "Donald Trump's victory came as a surprise to many Americans, the nation's pollsters most of all....",
+        "lead_paragraph": "Donald Trump's victory came as a surprise to many Americans, the nation's pollsters most of all.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "What Went Wrong in This Year's Presidential Polls?",
+          "print_headline": "What Went Wrong in This Year's Presidential Polls?"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:01:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fc3595d0e0204d55fd1c",
+        "word_count": "940",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

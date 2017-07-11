@@ -1,0 +1,335 @@
+{
+  "response": {
+    "meta": {
+      "hits": 766,
+      "time": 53,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/07/25/t-magazine/fashion/ribeyrons-industrial-accessories-for-everyone.html",
+        "snippet": "The year-old accessories line is intentionally gender-neutral \u2014 and the designer says he\u2019d like both men and women to wear the pieces....",
+        "lead_paragraph": "The year-old accessories line is intentionally gender-neutral \u2014 and the designer says he\u2019d like both men and women to wear the pieces.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/25/t-magazine/fashion/Ribeyron-slide-IU1W/Ribeyron-slide-IU1W-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/25/t-magazine/fashion/Ribeyron-slide-IU1W/Ribeyron-slide-IU1W-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/25/t-magazine/fashion/Ribeyron-slide-IU1W/Ribeyron-slide-IU1W-articleLarge.jpg",
+            "height": 750,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/25/t-magazine/fashion/Ribeyron-slide-IU1W/Ribeyron-slide-IU1W-articleLarge.jpg",
+              "xlargeheight": "750"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/25/t-magazine/fashion/Ribeyron-slide-IU1W/Ribeyron-slide-IU1W-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/25/t-magazine/fashion/Ribeyron-slide-IU1W/Ribeyron-slide-IU1W-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ribeyron\u2019s Industrial Accessories \u2014 for Everyone"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:23:26+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine / Fashion & Beauty",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5796835138f0d84855eae7dc",
+        "word_count": "22",
+        "slideshow_credits": "Photograph by Thomas McCarty. Styled by Matthew Holmes"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/us/ap-mi-traverse-city-film-festival.html",
+        "snippet": "The annual Traverse City Film Festival is kicking off in northern Michigan....",
+        "lead_paragraph": "The annual Traverse City Film Festival is kicking off in northern Michigan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Traverse City Film Festival Kicks Off in Northern Michigan",
+          "print_headline": "Traverse City Film Festival Kicks Off in Northern Michigan"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:12:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b9c838f0d84855eae84f",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/us/ap-us-chicago-violence-mills-shot.html",
+        "snippet": "A former Chicago high school basketball standout who went on to play in college was shot to death Monday on the city's West Side, authorities said....",
+        "lead_paragraph": "A former Chicago high school basketball standout who went on to play in college was shot to death Monday on the city's West Side, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Former Chicago High School Basketball Standout Gunned Down",
+          "print_headline": "Former Chicago High School Basketball Standout Gunned Down"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:07:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b85e38f0d84855eae84d",
+        "word_count": "241",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/sports/olympics/25reuters-olympics-rio-diving.html",
+        "snippet": "China's Wu Minxia will make her bid to become the most decorated female Olympic diver at the Rio de Janeiro Games, fronting an attempt by her country to sweep all eight titles next month at the Maria Lenk Aquatics Centre....",
+        "lead_paragraph": "China's Wu Minxia will make her bid to become the most decorated female Olympic diver at the Rio de Janeiro Games, fronting an attempt by her country to sweep all eight titles next month at the Maria Lenk Aquatics Centre. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Wu Eyes Diving Record as China Targets Sweep",
+          "print_headline": "Wu Eyes Diving Record as China Targets Sweep"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:06:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b85138f0d84855eae84c",
+        "word_count": "369",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/world/americas/25reuters-thailand-landrights.html",
+        "snippet": "In Klong Sai Pattana, a rural community carved out of an illegal oil palm plantation by land rights campaigners, new arrivals are given a one-year trial run at being farmers....",
+        "lead_paragraph": "In Klong Sai Pattana, a rural community carved out of an illegal oil palm plantation by land rights campaigners, new arrivals are given a one-year trial run at being farmers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "After Violent Struggle for Land, Thai Campaigners Face Challenge to Community Farming",
+          "print_headline": "After Violent Struggle for Land, Thai Campaigners Face Challenge to Community Farming"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:06:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b84f38f0d84855eae84b",
+        "word_count": "755",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/world/asia/25reuters-indonesia-labour-women.html",
+        "snippet": "Rima Jayanti has not had formal training in detective work but with her sharp eye and gut instinct, her task is to spot Indonesian women at Jakarta's bustling airport in danger of being sent abroad to a life of domestic servitude....",
+        "lead_paragraph": "Rima Jayanti has not had formal training in detective work but with her sharp eye and gut instinct, her task is to spot Indonesian women at Jakarta's bustling airport in danger of being sent abroad to a life of domestic servitude.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Indonesian 'Maid Detectives' on Mission to Save Women From Trafficking",
+          "print_headline": "Indonesian 'Maid Detectives' on Mission to Save Women From Trafficking"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:03:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b79938f0d84855eae84a",
+        "word_count": "865",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/sports/olympics/ap-oly-bko-carmelos-conversation.html",
+        "snippet": "Carmelo Anthony spent the U.S. Olympic basketball team's precious day off running a two-hour town hall meeting at a South Los Angeles youth center because he can't sleep anymore....",
+        "lead_paragraph": "Carmelo Anthony spent the U.S. Olympic basketball team's precious day off running a two-hour town hall meeting at a South Los Angeles youth center because he can't sleep anymore.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Carmelo Anthony Gathers Athletes, Cops, Kids in Conversation",
+          "print_headline": "Carmelo Anthony Gathers Athletes, Cops, Kids in Conversation"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:00:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b6f938f0d84855eae847",
+        "word_count": "702",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/sports/olympics/25reuters-olympics-rio-swimming.html",
+        "snippet": "Greatness can be hard to define but two words suffice for  Olympic swimming - Michael Phelps....",
+        "lead_paragraph": "Greatness can be hard to define but two words suffice for  Olympic swimming - Michael Phelps.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Phelps Still the Big Fish in the Pool",
+          "print_headline": "Phelps Still the Big Fish in the Pool"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:02:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b6e738f0d84855eae846",
+        "word_count": "630",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/world/europe/25reuters-europe-migrants-children.html",
+        "snippet": "Children who flee poverty and war zones without their parents are falling prey to traffickers and smugglers once they arrive in Europe because of a disjointed response by governments, a group of British parliamentarians said on Tuesday....",
+        "lead_paragraph": "Children who flee poverty and war zones without their parents are falling prey to traffickers and smugglers once they arrive in Europe because of a disjointed response by governments, a group of British parliamentarians said on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Europe's 'Deplorable' Child Migrant Response Raises Trafficking Risk: Report",
+          "print_headline": "Europe's 'Deplorable' Child Migrant Response Raises Trafficking Risk: Report"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:00:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b6e538f0d84855eae845",
+        "word_count": "429",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/world/asia/ap-as-japan-knife-attack-the-latest.html",
+        "snippet": "The Latest on a knife attack at facility for the handicapped outside Tokyo (all times local):...",
+        "lead_paragraph": "The Latest on a knife attack at facility for the handicapped outside Tokyo (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Japan Calls Knife Attack 'Tragic and Shocking'",
+          "print_headline": "The Latest: Japan Calls Knife Attack 'Tragic and Shocking'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T20:54:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796b59238f0d84855eae844",
+        "word_count": "469",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

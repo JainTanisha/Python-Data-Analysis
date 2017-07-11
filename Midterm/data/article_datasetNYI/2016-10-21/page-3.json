@@ -1,0 +1,340 @@
+{
+  "response": {
+    "meta": {
+      "hits": 871,
+      "time": 57,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/22/world/americas/iguala-mexico-arrest-felipe-flores-velazquez.html",
+        "snippet": "The former chief, Felipe Flores Vel\u00e1zquez, was in charge of the police force in Iguala, where the students vanished in 2014....",
+        "lead_paragraph": "The former chief, Felipe Flores Vel\u00e1zquez, was in charge of the police force in Iguala, where the students vanished in 2014.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Arrests Ex-Chief of Police in City Where 43 Students Disappeared"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iguala (Mexico)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Flores Velazquez, Felipe"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fugitives"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico"
+          }
+        ],
+        "pub_date": "2016-10-21T22:34:24+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elisabeth",
+              "rank": 1,
+              "lastname": "MALKIN"
+            }
+          ],
+          "original": "By ELISABETH MALKIN"
+        },
+        "type_of_material": "News",
+        "_id": "580a97f795d0e022439c4954",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/sports/hockey/21reuters-nhl-flyers-weise.html",
+        "snippet": "Philadelphia Flyers forward Dale Weise received a three-game suspension from the NHL on Friday for his illegal check to the head of Anaheim Ducks defenseman Korbinian Holzer....",
+        "lead_paragraph": "Philadelphia Flyers forward Dale Weise received a three-game suspension from the NHL on Friday for his illegal check to the head of Anaheim Ducks defenseman Korbinian Holzer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Flyers' Weise Suspended Three Games for Holzer Hit",
+          "print_headline": "Flyers' Weise Suspended Three Games for Holzer Hit"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:33:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a97cf95d0e022439c4953",
+        "word_count": "171",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/world/europe/21reuters-mideast-crisis-usa.html",
+        "snippet": "There has been some progress in Geneva talks this week among the United States, Russia and other nations trying to achieve a ceasefire agreement in Aleppo, the U.S. State Department said on Friday....",
+        "lead_paragraph": "There has been some progress in Geneva talks this week among the United States, Russia and other nations trying to achieve a ceasefire agreement in Aleppo, the U.S. State Department said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Some Progress in Geneva Talks on Aleppo Ceasefire: U.S.",
+          "print_headline": "Some Progress in Geneva Talks on Aleppo Ceasefire: U.S."
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:33:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a97c995d0e022439c4952",
+        "word_count": "375",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/sports/basketball/ap-bkn-rockets-preview.html",
+        "snippet": "When the NBA season tips off, James Harden will be able to run Mike D'Antoni's famed seven seconds or less offense in games that count....",
+        "lead_paragraph": "When the NBA season tips off, James Harden will be able to run Mike D'Antoni's famed seven seconds or less offense in games that count.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Harden Ready to Help Rockets Bounce Back This Season",
+          "print_headline": "Harden Ready to Help Rockets Bounce Back This Season"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:31:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a973695d0e022439c4951",
+        "word_count": "757",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-animal-sanctuary-cruelty-charges.html",
+        "snippet": "Two women face felony charges after investigators say they found more than 400 animals in unsanitary conditions at a sanctuary they operated from their Nevada home, including a coyote \"running wild\" inside the house and an owl and fox locked in a ...",
+        "lead_paragraph": "Two women face felony charges after investigators say they found more than 400 animals in unsanitary conditions at a sanctuary they operated from their Nevada home, including a coyote \"running wild\" inside the house and an owl and fox locked in a bathroom.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "103 Animals Euthanized in Nevada Sanctuary Investigation",
+          "print_headline": "103 Animals Euthanized in Nevada Sanctuary Investigation"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:31:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a972f95d0e022439c4950",
+        "word_count": "357",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/business/21reuters-mmg-ltd-peru.html",
+        "snippet": "Supplies needed to keep operating one of the world's biggest copper mines, Las Bambas, are running out as access roads remain blocked by protesters in Peru, Chinese-owned miner MMG Ltd said on Friday....",
+        "lead_paragraph": "Supplies needed to keep operating one of the world's biggest copper mines, Las Bambas, are running out as access roads remain blocked by protesters in Peru, Chinese-owned miner MMG Ltd said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Peru Protests Risk Halting One of World's Biggest Copper Mines: MMG",
+          "print_headline": "Peru Protests Risk Halting One of World's Biggest Copper Mines: MMG"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:30:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a970b95d0e022439c494f",
+        "word_count": "340",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/sports/basketball/ap-bkn-timberwolves-preview.html",
+        "snippet": "There is a gaping hole in the northeast corner of Target Center, the result of a renovation that has started on the Minnesota Timberwolves' aging arena to update it as much as possible without completely tearing it down and starting from scratch....",
+        "lead_paragraph": "There is a gaping hole in the northeast corner of Target Center, the result of a renovation that has started on the Minnesota Timberwolves' aging arena to update it as much as possible without completely tearing it down and starting from scratch.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Young Wolves Look to Finally Break Through This Season.",
+          "print_headline": "Young Wolves Look to Finally Break Through This Season."
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:22:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a954695d0e022439c494e",
+        "word_count": "743",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/sports/autoracing/21reuters-motor-f1-usa-testing.html",
+        "snippet": "Formula One teams have agreed a compromise to switch next year's first in-season test from Barcelona to Bahrain following a failed attempt to move winter testing to the warmer climes of the Middle East....",
+        "lead_paragraph": "Formula One teams have agreed a compromise to switch next year's first in-season test from Barcelona to Bahrain following a failed attempt to move winter testing to the warmer climes of the Middle East.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Motor Racing: F1 Teams to Switch 2017 In-Season Test to Bahrain",
+          "print_headline": "Motor Racing: F1 Teams to Switch 2017 In-Season Test to Bahrain"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:21:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a94f395d0e022439c494d",
+        "word_count": "299",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/us/21reuters-pennsylvania-strike.html",
+        "snippet": "A union representing public college faculty in Pennsylvania ended a three-day strike on Friday after reaching a tentative deal with the state on pay, benefits and working conditions....",
+        "lead_paragraph": "A union representing public college faculty in Pennsylvania ended a three-day strike on Friday after reaching a tentative deal with the state on pay, benefits and working conditions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pennsylvania College Faculty Ends Strike After Tentative Deal",
+          "print_headline": "Pennsylvania College Faculty Ends Strike After Tentative Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:19:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a947f95d0e022439c494c",
+        "word_count": "293",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/world/europe/21reuters-france-s-p.html",
+        "snippet": "S&amp;P raised its outlook on France's \"AA\" long-term sovereign credit rating to \"stable\" from \"negative\", citing labour and tax reforms introduced in the last two years, in a boost to President Francois Hollande's Socialist government....",
+        "lead_paragraph": "S&amp;P raised its outlook on France's \"AA\" long-term sovereign credit rating to \"stable\" from \"negative\", citing labour and tax reforms introduced in the last two years, in a boost to President Francois Hollande's Socialist government.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "S&P Raises Rating Outlook on France in Boost to Hollande",
+          "print_headline": "S&P Raises Rating Outlook on France in Boost to Hollande"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:18:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a944095d0e022439c494b",
+        "word_count": "432",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

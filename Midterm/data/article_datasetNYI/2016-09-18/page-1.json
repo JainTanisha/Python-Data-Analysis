@@ -1,0 +1,343 @@
+{
+  "response": {
+    "meta": {
+      "hits": 620,
+      "time": 37,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/09/18/nyregion/metropolitan-diary-chauffeur-service-for-a-second-string-qb.html",
+        "snippet": "The starter goes down, and a backup is liberated from his usual long subway ride....",
+        "lead_paragraph": "The starter goes down, and a backup is liberated from his usual long subway ride.",
+        "abstract": null,
+        "print_page": "23",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Chauffeur Service for a Second-String QB",
+          "content_kicker": "Metropolitan Diary",
+          "kicker": "Metropolitan Diary"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Subways"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Grand Central Terminal (Manhattan, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Pelham Bay Park (Bronx, NY)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Sunnyside (Queens, NY)"
+          }
+        ],
+        "pub_date": "2016-09-18T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Thomas",
+              "middlename": "R.",
+              "lastname": "PRYOR",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By THOMAS R. PRYOR"
+        },
+        "type_of_material": "Brief",
+        "_id": "57df2a9295d0e021d7986fb1",
+        "word_count": "333",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-colts-broncos.html",
+        "snippet": "When the Denver Broncos settled for another field goal and were clinging to a six-point lead over the Indianapolis Colts with 1:51 remaining, one thought went through Von Miller's head....",
+        "lead_paragraph": "When the Denver Broncos settled for another field goal and were clinging to a six-point lead over the Indianapolis Colts with 1:51 remaining, one thought went through Von Miller's head.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Miller's Sack-Strip Leads Broncos Past Colts 34-20",
+          "print_headline": "Miller's Sack-Strip Leads Broncos Past Colts 34-20"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:55:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df2a0595d0e021d7986fb0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-jaguars-chargers.html",
+        "snippet": "Philip Rivers couldn't help but saying it in the locker room at halftime....",
+        "lead_paragraph": "Philip Rivers couldn't help but saying it in the locker room at halftime.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rivers Throws 4 TD Pass as Chargers Rout Jaguars 38-14",
+          "print_headline": "Rivers Throws 4 TD Pass as Chargers Rout Jaguars 38-14"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:51:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df297d95d0e021d7986faf",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/soccer/bc-soc-mls-red-bulls-toronto-fc.html",
+        "snippet": "Jozy Altidore scored his second goal of the game in the 86th minute and Toronto FC tied the New York Red Bulls 3-3 on Sunday to warp up a playoff spot....",
+        "lead_paragraph": "Jozy Altidore scored his second goal of the game in the 86th minute and Toronto FC tied the New York Red Bulls 3-3 on Sunday to warp up a playoff spot.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Toronto FC Ties Red Bulls 3-3 to Clinch MLS Playoff Spot",
+          "print_headline": "Toronto FC Ties Red Bulls 3-3 to Clinch MLS Playoff Spot"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:28:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df28a395d0e021d7986fad",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-falcons-raiders.html",
+        "snippet": "On a day dominated by the offenses, a fortunate bounce was the difference....",
+        "lead_paragraph": "On a day dominated by the offenses, a fortunate bounce was the difference.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Falcons Use Deflected TD Pass to Beat Raiders 35-28",
+          "print_headline": "Falcons Use Deflected TD Pass to Beat Raiders 35-28"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:48:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df28a495d0e021d7986fae",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/us/18reuters-usa-election-trump-egypt.html",
+        "snippet": "An adviser to U.S. Republican presidential nominee Donald Trump's campaign said on Sunday that Trump will meet with Egyptian President Abdel Fattah al-Sisi on Monday during the United Nations General Assembly, just as Hillary Clinton, the Democrat...",
+        "lead_paragraph": "An adviser to U.S. Republican presidential nominee Donald Trump's campaign said on Sunday that Trump will meet with Egyptian President Abdel Fattah al-Sisi on Monday during the United Nations General Assembly, just as Hillary Clinton, the Democratic presidential nominee, is also scheduled to do. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton, Trump to Both Meet With Egyptian President at U.N.",
+          "print_headline": "Clinton, Trump to Both Meet With Egyptian President at U.N."
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:48:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df289195d0e021d7986fac",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/business/18reuters-oil-opec-venezuela.html",
+        "snippet": "Venezuelan President Nicolas Maduro said on Sunday that OPEC and non-OPEC countries were close to reaching a deal to stabilise oil markets and that he aimed for a deal to be announced this month....",
+        "lead_paragraph": "Venezuelan President Nicolas Maduro said on Sunday that OPEC and non-OPEC countries were close to reaching a deal to stabilise oil markets and that he aimed for a deal to be announced this month. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela Says OPEC, Non-OPEC Oil Stabilizing Deal Close",
+          "print_headline": "Venezuela Says OPEC, Non-OPEC Oil Stabilizing Deal Close"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:46:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df27d695d0e021d7986fab",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-seahawks-rams.html",
+        "snippet": "The Rams were a certifiable hit in their return to Los Angeles for the first time in nearly 22 years. Now if they could just score a touchdown....",
+        "lead_paragraph": "The Rams were a certifiable hit in their return to Los Angeles for the first time in nearly 22 years. Now if they could just score a touchdown.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Touchdown-Less Rams Beat Seahawks 9-3 on Zuerlein's Leg",
+          "print_headline": "Touchdown-Less Rams Beat Seahawks 9-3 on Zuerlein's Leg"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:34:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df252295d0e021d7986fa8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-buccaneers-cardinals.html",
+        "snippet": "The Arizona Cardinals looked like the team they are supposed to be, often at the expense of Jameis Winston....",
+        "lead_paragraph": "The Arizona Cardinals looked like the team they are supposed to be, often at the expense of Jameis Winston.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Palmer Throws for 3 TDs, Winston Picked Off 4 Times in Rout",
+          "print_headline": "Palmer Throws for 3 TDs, Winston Picked Off 4 Times in Rout"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:30:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df247695d0e021d7986fa7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-texans-defense.html",
+        "snippet": "When J.J. Watt and the Houston Texans last faced the Kansas City Chiefs the defensive end was so badly hurt he only made it a little more than halfway through the demoralizing 30-0 wild-card playoff loss....",
+        "lead_paragraph": "When J.J. Watt and the Houston Texans last faced the Kansas City Chiefs the defensive end was so badly hurt he only made it a little more than halfway through the demoralizing 30-0 wild-card playoff loss.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Watt, Texans Defense Dominant as Texans Beat Chiefs 19-12",
+          "print_headline": "Watt, Texans Defense Dominant as Texans Beat Chiefs 19-12"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:18:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df219195d0e021d7986fa5",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

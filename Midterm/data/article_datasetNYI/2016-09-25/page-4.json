@@ -1,0 +1,516 @@
+{
+  "response": {
+    "meta": {
+      "hits": 549,
+      "time": 37,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/sports/baseball/ny-mets-philadelphia-phillies-robert-gsellman.html",
+        "snippet": "After the team\u2019s most lopsided win of the year, its tattered pitching staff enters the final week of the regular season with a playoff berth in the balance....",
+        "lead_paragraph": "After the team\u2019s most lopsided win of the year, its tattered pitching staff enters the final week of the regular season with a playoff berth in the balance.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/sports/26METSweb1/26METSweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/sports/26METSweb1/26METSweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/sports/26METSweb1/26METSweb1-articleLarge.jpg",
+            "height": 451,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/sports/26METSweb1/26METSweb1-articleLarge.jpg",
+              "xlargeheight": "451"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/sports/26METSweb1/26METSweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/sports/26METSweb1/26METSweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mets Crush the Phillies. Now the Hard Part.",
+          "content_kicker": "Mets 17, Phillies 0",
+          "kicker": "Mets 17, Phillies 0",
+          "print_headline": "Mets Bombard Phillies Before Starting Trip to End Season, or Extend It"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Mets"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Philadelphia Phillies"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gsellman, Robert (1993- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Granderson, Curtis"
+          }
+        ],
+        "pub_date": "2016-09-25T21:53:22+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "WAGNER"
+            }
+          ],
+          "original": "By JAMES WAGNER"
+        },
+        "type_of_material": "News",
+        "_id": "57e8475995d0e021d798847b",
+        "word_count": "900",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/us/25reuters-florida-diplomat-canada.html",
+        "snippet": "A Canadian diplomat&#8217;s teenage son has been deported from the United States following his involvement in a fatal drug-related shooting, effectively nullifying the house arrest and probation he had been sentenced to serve, a national news agen...",
+        "lead_paragraph": "A Canadian diplomat&#8217;s teenage son has been deported from the United States following his involvement in a fatal drug-related shooting, effectively nullifying the house arrest and probation he had been sentenced to serve, a national news agency reported on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Canadian Diplomat's Son in Deadly Florida Shooting Deported Home",
+          "print_headline": "Canadian Diplomat's Son in Deadly Florida Shooting Deported Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:50:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e846f295d0e021d798847a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/sports/football/ap-fbn-nfl-capsules.html",
+        "snippet": "Carson Wentz threw for 301 yards and two touchdowns, a fierce defense shut down Ben Roethlisberger and Antonio Brown and the Philadelphia Eagles beat the Pittsburgh Steelers 34-3 on Sunday to remain unbeaten....",
+        "lead_paragraph": "Carson Wentz threw for 301 yards and two touchdowns, a fierce defense shut down Ben Roethlisberger and Antonio Brown and the Philadelphia Eagles beat the Pittsburgh Steelers 34-3 on Sunday to remain unbeaten.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NFL Capsules",
+          "print_headline": "NFL Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:46:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8464695d0e021d7988479",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/sports/football/new-york-giants-washington-redskins.html",
+        "snippet": "Eli Manning threw two fourth-quarter interceptions, and the Giants\u2019 defense faltered, squandering a chance to bury their rivals deeper in the N.F.C. East standings....",
+        "lead_paragraph": "Eli Manning threw two fourth-quarter interceptions, and the Giants\u2019 defense faltered, squandering a chance to bury their rivals deeper in the N.F.C. East standings.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/sports/26GIANTSweb/26GIANTSweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/sports/26GIANTSweb/26GIANTSweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/sports/26GIANTSweb/26GIANTSweb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/sports/26GIANTSweb/26GIANTSweb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/sports/26GIANTSweb/26GIANTSweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/sports/26GIANTSweb/26GIANTSweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Desperate\u2019 Redskins Take Risks and Beat Giants",
+          "content_kicker": "Redskins 29, Giants 27",
+          "kicker": "Redskins 29, Giants 27",
+          "print_headline": "Giants Surrender Big Lead as Desperation Rules Day"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Giants"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Washington Redskins"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Manning, Eli"
+          }
+        ],
+        "pub_date": "2016-09-25T21:46:28+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zach",
+              "rank": 1,
+              "lastname": "SCHONBRUN"
+            }
+          ],
+          "original": "By ZACH SCHONBRUN"
+        },
+        "type_of_material": "News",
+        "_id": "57e845b895d0e021d7988478",
+        "word_count": "977",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/us/ap-us-vigilante-posts.html",
+        "snippet": "Shreveport police are investigating posts to a large neighborhood watch group suggesting recent car break-ins are reason to watch young, black men or teens, and even for so-called \"vigilante justice.\"...",
+        "lead_paragraph": "Shreveport police are investigating posts to a large neighborhood watch group suggesting recent car break-ins are reason to watch young, black men or teens, and even for so-called \"vigilante justice.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Neighborhood Watch Posts Call to Watch Young Blacks",
+          "print_headline": "Police: Neighborhood Watch Posts Call to Watch Young Blacks"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:42:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8458d95d0e021d7988477",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/us/ap-fbc-t25-lsu-miles-fired.html",
+        "snippet": "Les Miles has finally been done in by one of the frantic finishes that came to define the Mad Hatter's tenure at LSU....",
+        "lead_paragraph": "Les Miles has finally been done in by one of the frantic finishes that came to define the Mad Hatter's tenure at LSU.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "LSU Fires Miles, Cameron, Promotes Orgeron",
+          "print_headline": "LSU Fires Miles, Cameron, Promotes Orgeron"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:36:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8443595d0e021d7988476",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/opinion/pronoun-privilege.html",
+        "snippet": "At some colleges students introduce themselves by name, followed by a string of preferred pronouns. But the ritual is discomfiting....",
+        "lead_paragraph": "At some colleges students introduce themselves by name, followed by a string of preferred pronouns. But the ritual is discomfiting.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/opinion/26oncampus/26oncampus-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/opinion/26oncampus/26oncampus-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/opinion/26oncampus/26oncampus-articleLarge.jpg",
+            "height": 369,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/opinion/26oncampus/26oncampus-articleLarge.jpg",
+              "xlargeheight": "369"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/opinion/26oncampus/26oncampus-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/opinion/26oncampus/26oncampus-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pronoun Privilege",
+          "content_kicker": "On Campus",
+          "kicker": "On Campus",
+          "print_headline": "Hi, I\u2019m Lizzie; She, Her, Hers."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Transgender and Transsexuals"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Grammar"
+          }
+        ],
+        "pub_date": "2016-09-25T21:36:24+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elizabeth",
+              "rank": 1,
+              "lastname": "REIS"
+            }
+          ],
+          "original": "By ELIZABETH REIS"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "57e8435c95d0e021d7988475",
+        "word_count": "531",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/world/middleeast/ap-ml-israel-palestinians-settlement-soccer.html",
+        "snippet": "The Beitar Shabi Givat Zeev players huddled around for a training session, lobbing soccer balls as an autumn evening breeze swept through the surrounding rocky hills. It was a routine scene played out on soccer fields around the world, but if Pale...",
+        "lead_paragraph": "The Beitar Shabi Givat Zeev players huddled around for a training session, lobbing soccer balls as an autumn evening breeze swept through the surrounding rocky hills. It was a routine scene played out on soccer fields around the world, but if Palestinian authorities have their way, the team could soon find itself permanently sidelined.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jewish Settlement Soccer Clubs Bring Politics to the Pitch",
+          "print_headline": "Jewish Settlement Soccer Clubs Bring Politics to the Pitch"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:26:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8421a95d0e021d7988473",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/world/americas/25reuters-brazil-rio-murder.html",
+        "snippet": "A candidate for town council in upcoming municipal elections was shot to death in a Rio de Janeiro suburb on Sunday, the latest in a wave of killings of local politicians in the city's outskirts in recent months....",
+        "lead_paragraph": "A candidate for town council in upcoming municipal elections was shot to death in a Rio de Janeiro suburb on Sunday, the latest in a wave of killings of local politicians in the city's outskirts in recent months.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Local Candidate Killed in Rio Suburb, Highlighting Crime Woes",
+          "print_headline": "Local Candidate Killed in Rio Suburb, Highlighting Crime Woes"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:28:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8420395d0e021d7988471",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/business/25reuters-spain-economy-employment.html",
+        "snippet": "An EU court ruling defending the right of temporary workers in Spain to receive severance pay is fuelling calls from Spanish unions and politicians for one of Europe's most uneven labour markets to be fixed....",
+        "lead_paragraph": "An EU court ruling defending the right of temporary workers in Spain to receive severance pay is fuelling calls from Spanish unions and politicians for one of Europe's most uneven labour markets to be fixed. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "When Temporary Is Permanent-EU Court Verdict Fans Calls for Spanish Jobs Overhaul",
+          "print_headline": "When Temporary Is Permanent-EU Court Verdict Fans Calls for Spanish Jobs Overhaul"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:28:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8420495d0e021d7988472",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

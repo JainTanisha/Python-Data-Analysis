@@ -1,0 +1,390 @@
+{
+  "response": {
+    "meta": {
+      "hits": 782,
+      "time": 105,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/books/game-changers-women-who-reached-the-top-in-sports.html",
+        "snippet": "A new book, \u201cGame Changers: The Unsung Heroines of Sports History,\u201d looks at women who overcame tremendous obstacles....",
+        "lead_paragraph": "A new book, \u201cGame Changers: The Unsung Heroines of Sports History,\u201d looks at women who overcame tremendous obstacles.",
+        "abstract": null,
+        "print_page": "22",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/arts/30SPORTSWOMAN1/30SPORTSWOMAN1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/arts/30SPORTSWOMAN1/30SPORTSWOMAN1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/arts/30SPORTSWOMAN1/30SPORTSWOMAN1-articleLarge.jpg",
+            "height": 898,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/arts/30SPORTSWOMAN1/30SPORTSWOMAN1-articleLarge.jpg",
+              "xlargeheight": "898"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/arts/30SPORTSWOMAN1/30SPORTSWOMAN1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/arts/30SPORTSWOMAN1/30SPORTSWOMAN1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Too Good to Be Ignored: Women Who Reached the Top in Sports",
+          "print_headline": "Too Good to Be Ignored"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Game Changers: The Unsung Heroines of Sports History (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "De Mars, AnnMaria (1958- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Schiot, Molly (1980- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Athletics and Sports"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Title IX (Gender Discrimination Legislation)"
+          }
+        ],
+        "pub_date": "2016-10-24T22:28:40+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Melena",
+              "rank": 1,
+              "lastname": "RYZIK"
+            }
+          ],
+          "original": "By MELENA RYZIK"
+        },
+        "type_of_material": "News",
+        "_id": "580e8b1d95d0e022439c4f5e",
+        "word_count": "1518",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/politics/ap-us-obama-tech-team.html",
+        "snippet": "The Obama administration's \"18F\" program to create its own version of a high-tech startup for government digital projects has foundered since its launch in 2014, losing nearly $32 million as its staff spent most of its time on unbillable work, acc...",
+        "lead_paragraph": "The Obama administration's \"18F\" program to create its own version of a high-tech startup for government digital projects has foundered since its launch in 2014, losing nearly $32 million as its staff spent most of its time on unbillable work, according to a new inspector general report published Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Washington's Version of Silicon Valley Startup Founders",
+          "print_headline": "Washington's Version of Silicon Valley Startup Founders"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:22:08Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e899995d0e022439c4f5d",
+        "word_count": "644",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-ms-raytheon-meridian.html",
+        "snippet": "Raytheon Co . says that if it gets an Air Force contract to build 350 training jets, its assembly plant will be in Mississippi....",
+        "lead_paragraph": "Raytheon Co . says that if it gets an Air Force contract to build 350 training jets, its assembly plant will be in Mississippi.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "If Raytheon Gets Jet Contract, Assembly Plant in Meridian",
+          "print_headline": "If Raytheon Gets Jet Contract, Assembly Plant in Meridian"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:21:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e899195d0e022439c4f5c",
+        "word_count": "323",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-tree-man-arrested.html",
+        "snippet": "Police say they've arrested a man dressed as a tree for blocking traffic in Maine....",
+        "lead_paragraph": "Police say they've arrested a man dressed as a tree for blocking traffic in Maine.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Man Dressed as Tree Arrested for Blocking Traffic",
+          "print_headline": "Police: Man Dressed as Tree Arrested for Blocking Traffic"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:16:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e882d95d0e022439c4f5b",
+        "word_count": "89",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-1989-slaying-arrest.html",
+        "snippet": "A judge has thrown out a second-degree murder charge against a Minnesota man accused of killing a woman in 1987 when he was 16-years-old after finding problems with the suspect's confession....",
+        "lead_paragraph": "A judge has thrown out a second-degree murder charge against a Minnesota man accused of killing a woman in 1987 when he was 16-years-old after finding problems with the suspect's confession.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Throws Out Murder Charge in 1987 Minnesota Slaying",
+          "print_headline": "Judge Throws Out Murder Charge in 1987 Minnesota Slaying"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:15:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e882295d0e022439c4f5a",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-professor-death.html",
+        "snippet": "A University of Maine professor who plunged into a 100-foot crevasse in Antarctica while conducting research was remembered Monday as a gregarious climate scientist who lightened the mood of those around him....",
+        "lead_paragraph": "A University of Maine professor who plunged into a 100-foot crevasse in Antarctica while conducting research was remembered Monday as a gregarious climate scientist who lightened the mood of those around him.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Researcher Killed in Icy 100-Foot Plunge Was 'Smart,' 'Fun'",
+          "print_headline": "Researcher Killed in Icy 100-Foot Plunge Was 'Smart,' 'Fun'"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:13:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e879895d0e022439c4f59",
+        "word_count": "423",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/sports/ap-car-nascar-in-the-pits.html",
+        "snippet": "When Sweden beat the U.S. women's soccer team during the Olympics by using a conservative strategy, goalie Hope Solo was lambasted for calling the winners \"a bunch of cowards.\"...",
+        "lead_paragraph": "When Sweden beat the U.S. women's soccer team during the Olympics by using a conservative strategy, goalie Hope Solo was lambasted for calling the winners \"a bunch of cowards.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: JGR's Talladega Strategy Was Perfect for Playoffs",
+          "print_headline": "Column: JGR's Talladega Strategy Was Perfect for Playoffs"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:10:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e86db95d0e022439c4f58",
+        "word_count": "800",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-albuquerque-officer-shot.html",
+        "snippet": "Federal prosecutors played a minute-long video in court Monday from the lapel camera of a slain officer showing a struggle and shooting that followed his attempt to arrest a man during a nighttime traffic stop along Historic Route 66....",
+        "lead_paragraph": "Federal prosecutors played a minute-long video in court Monday from the lapel camera of a slain officer showing a struggle and shooting that followed his attempt to arrest a man during a nighttime traffic stop along Historic Route 66.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Video of New Mexico Officer Being Shot Is Shown in Court",
+          "print_headline": "Video of New Mexico Officer Being Shot Is Shown in Court"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:04:22Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e857095d0e022439c4f57",
+        "word_count": "453",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-atlantic-city-takeover.html",
+        "snippet": "Atlantic City plans to sell land, lay off 100 more workers, pay down most of its $500 million debt and slash other expenses during the next five years to fight off a threatened state takeover of its assets and decision-making power....",
+        "lead_paragraph": "Atlantic City plans to sell land, lay off 100 more workers, pay down most of its $500 million debt and slash other expenses during the next five years to fight off a threatened state takeover of its assets and decision-making power.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Atlantic City Belt-Tightening Plan Aims to Avoid Takeover",
+          "print_headline": "Atlantic City Belt-Tightening Plan Aims to Avoid Takeover"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:04:21Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e856a95d0e022439c4f56",
+        "word_count": "550",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/24/business/24reuters-swiss-banks-usa-mortgages.html",
+        "snippet": "Representatives of the U.S. Department of Justice have signaled recently that penalty imposition on Barclays Plc, Credit Suisse Group AG and Deutsche Bank AG may not conclude until closer to the arrival of the new U.S. administration in January, S...",
+        "lead_paragraph": "Representatives of the U.S. Department of Justice have signaled recently that penalty imposition on Barclays Plc, Credit Suisse Group AG and Deutsche Bank AG may not conclude until closer to the arrival of the new U.S. administration in January, Sky News reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. May Delay Fines on Major Banks for Mortgage Mis-Selling: Sky News",
+          "print_headline": "U.S. May Delay Fines on Major Banks for Mortgage Mis-Selling: Sky News"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T22:03:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580e853995d0e022439c4f55",
+        "word_count": "129",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

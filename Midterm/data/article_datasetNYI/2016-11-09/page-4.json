@@ -1,0 +1,524 @@
+{
+  "response": {
+    "meta": {
+      "hits": 886,
+      "time": 74,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/us/politics/09reuters-usa-election-trump-security.html",
+        "snippet": "Some Republican foreign policy veterans who came out against Donald Trump during the presidential campaign said on Wednesday they were sticking to their guns following his election victory, but a few others signaled that objections to serving in h...",
+        "lead_paragraph": "Some Republican foreign policy veterans who came out against Donald Trump during the presidential campaign said on Wednesday they were sticking to their guns following his election victory, but a few others signaled that objections to serving in his new administration were softening.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Republican Foreign Policy Veterans in Quandary Over Trump",
+          "print_headline": "Republican Foreign Policy Veterans in Quandary Over Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:51:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a87995d0e0204d55f9a9",
+        "word_count": "956",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004730383/trailer-come-and-find-me.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/movies/video-come-and-find-me/video-come-and-find-me-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/movies/video-come-and-find-me/video-come-and-find-me-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/25/movies/video-come-and-find-me/video-come-and-find-me-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/25/movies/video-come-and-find-me/video-come-and-find-me-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/movies/video-come-and-find-me/video-come-and-find-me-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/movies/video-come-and-find-me/video-come-and-find-me-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Come and Find Me'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:49:22Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Saban",
+              "rank": 1,
+              "lastname": "FILMS"
+            }
+          ],
+          "original": "By SABAN FILMS"
+        },
+        "type_of_material": "Video",
+        "_id": "5823a80495d0e0204d55f9a8",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004758275/trailer-aspergers-are-us.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/movies/video-aspergers-are-us/video-aspergers-are-us-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/movies/video-aspergers-are-us/video-aspergers-are-us-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/movies/video-aspergers-are-us/video-aspergers-are-us-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/movies/video-aspergers-are-us/video-aspergers-are-us-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/movies/video-aspergers-are-us/video-aspergers-are-us-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/movies/video-aspergers-are-us/video-aspergers-are-us-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Asperger's Are Us'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:45:11Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Duplass",
+              "middlename": "Brothers",
+              "lastname": "PRODUCTIONS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By DUPLASS BROTHERS PRODUCTIONS"
+        },
+        "type_of_material": "Video",
+        "_id": "5823a6fe95d0e0204d55f9a7",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/sports/ncaafootball/ap-fbc-t25-sec-graduate-transfers.html",
+        "snippet": "When both of Texas A&amp;M's top quarterbacks left the school within days of each other in December, the Aggies were left scrambling to find someone to run Kevin Sumlin's high-powered offense....",
+        "lead_paragraph": "When both of Texas A&amp;M's top quarterbacks left the school within days of each other in December, the Aggies were left scrambling to find someone to run Kevin Sumlin's high-powered offense.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Knight Atop Group of Graduate Transfers Making Impact in SEC",
+          "print_headline": "Knight Atop Group of Graduate Transfers Making Impact in SEC"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:43:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a69995d0e0204d55f9a6",
+        "word_count": "940",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/ap-us-meningitis-outbreak.html",
+        "snippet": "The majority owner of a Massachusetts pharmacy blamed for a deadly fungal meningitis outbreak has been sentenced to a year of probation and fined $4,500 for financial crimes....",
+        "lead_paragraph": "The majority owner of a Massachusetts pharmacy blamed for a deadly fungal meningitis outbreak has been sentenced to a year of probation and fined $4,500 for financial crimes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pharmacy Owner Gets Probation, Fine for Financial Crimes",
+          "print_headline": "Pharmacy Owner Gets Probation, Fine for Financial Crimes"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:41:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a61795d0e0204d55f9a5",
+        "word_count": "138",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:39:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a5cb95d0e0204d55f9a4",
+        "word_count": "1330",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/arts/music/emeli-sande-long-live-the-angels-review.html",
+        "snippet": "The second album by Ms. Sand\u00e9 cries from the heart, ponders spirituality, earns its big buildups and proves she is not a debutante anymore....",
+        "lead_paragraph": "The second album by Ms. Sand\u00e9 cries from the heart, ponders spirituality, earns its big buildups and proves she is not a debutante anymore.",
+        "abstract": "Jon Pareles reviews album Long Live the Angels by Scottish singer Emeli Sande.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/arts/10NEWMUSIC1/10NEWMUSIC1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/arts/10NEWMUSIC1/10NEWMUSIC1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/arts/10NEWMUSIC1/10NEWMUSIC1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/arts/10NEWMUSIC1/10NEWMUSIC1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/arts/10NEWMUSIC1/10NEWMUSIC1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/arts/10NEWMUSIC1/10NEWMUSIC1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Emeli Sand\u00e9\u2019s \u2018Long Live the Angels\u2019 Is Uncluttered and Strong",
+          "content_kicker": "Album Review",
+          "print_headline": "She\u2019s No Longer Just a Debutante"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sande, Emeli"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Long Live the Angels (Album)"
+          }
+        ],
+        "pub_date": "2016-11-09T22:39:49Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "PARELES"
+            }
+          ],
+          "original": "By JON PARELES"
+        },
+        "type_of_material": "Review",
+        "_id": "5823a5bf95d0e0204d55f9a3",
+        "word_count": "541",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/us/politics/09reuters-usa-election-polls.html",
+        "snippet": "Two days ago, pollsters and statisticians gave Hillary Clinton odds of between 75 and 99 percent of winning the U.S. presidential election. How did so many get it so wrong?...",
+        "lead_paragraph": "Two days ago, pollsters and statisticians gave Hillary Clinton odds of between 75 and 99 percent of winning the U.S. presidential election. How did so many get it so wrong?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Polls, Including Ours, Missed Trump's Victory",
+          "print_headline": "How the Polls, Including Ours, Missed Trump's Victory"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:39:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a5b495d0e0204d55f9a2",
+        "word_count": "1310",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/sports/soccer/09reuters-soccer-friendly-nld-bel.html",
+        "snippet": "Belgium's Yannick Carrasco grabbed a late equaliser to secure a 1-1 draw against the Netherlands in a friendly at the Amsterdam Arena on Wednesday....",
+        "lead_paragraph": "Belgium's Yannick Carrasco grabbed a late equaliser to secure a 1-1 draw against the Netherlands in a friendly at the Amsterdam Arena on Wednesday.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Netherlands, Belgium Draw in Battle of Lowlands",
+          "print_headline": "Netherlands, Belgium Draw in Battle of Lowlands"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:39:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a5a895d0e0204d55f9a1",
+        "word_count": "260",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/upshot/the-market-is-betting-trump-will-bring-higher-inflation-and-interest-rates.html",
+        "snippet": "Moves in the bond market suggest that investors see the economic ground shifting in the wake of Donald J. Trump\u2019s surprise victory....",
+        "lead_paragraph": "Moves in the bond market suggest that investors see the economic ground shifting in the wake of Donald J. Trump\u2019s surprise victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/upshot/10UP-bonds/10UP-bonds-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/upshot/10UP-bonds/10UP-bonds-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/upshot/10UP-bonds/10UP-bonds-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/upshot/10UP-bonds/10UP-bonds-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/upshot/10UP-bonds/10UP-bonds-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/upshot/10UP-bonds/10UP-bonds-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Market Is Betting Trump Will Bring Higher Inflation and Interest Rates",
+          "content_kicker": "Economic Trends",
+          "kicker": "The Upshot"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Inflation (Economics)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Economy"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Prices (Fares, Fees and Rates)"
+          }
+        ],
+        "pub_date": "2016-11-09T22:36:54Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "IRWIN"
+            }
+          ],
+          "original": "By NEIL IRWIN"
+        },
+        "type_of_material": "News",
+        "_id": "5823a50e95d0e0204d55f9a0",
+        "word_count": "841",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

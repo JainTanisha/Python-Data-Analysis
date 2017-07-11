@@ -1,0 +1,589 @@
+{
+  "response": {
+    "meta": {
+      "hits": 912,
+      "time": 135,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/world/americas/ap-cb-bahamas-us-travel-advisory.html",
+        "snippet": "The Bahamas on Friday issued a rare travel advisory for any of its citizens visiting the United States, recommending that young men in particular take care in cities affected by recent tensions over police shootings....",
+        "lead_paragraph": "The Bahamas on Friday issued a rare travel advisory for any of its citizens visiting the United States, recommending that young men in particular take care in cities affected by recent tensions over police shootings.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bahamas Issues Travel Advisory to the US Following Shootings",
+          "print_headline": "Bahamas Issues Travel Advisory to the US Following Shootings"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:52:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5780596538f0d8706f764229",
+        "word_count": "248",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/world/asia/ap-as-myanmar-suu-kyis-100-days-.html",
+        "snippet": "For nearly 30 years, Aung San Suu Kyi starred as arguably the world's most prominent and revered political prisoner, a courageous champion of human rights and democracy in her military-ruled nation....",
+        "lead_paragraph": "For nearly 30 years, Aung San Suu Kyi starred as arguably the world's most prominent and revered political prisoner, a courageous champion of human rights and democracy in her military-ruled nation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Myanmar's Aung San Suu Kyi: Falling Star or Beacon of Hope",
+          "print_headline": "Myanmar's Aung San Suu Kyi: Falling Star or Beacon of Hope"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:53:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5780595f38f0d8706f764228",
+        "word_count": "1583",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/us/ap-us-plane-crash-houston.html",
+        "snippet": "Four people have been killed after a small plane crashed shortly after takeoff from a private Houston airport....",
+        "lead_paragraph": "Four people have been killed after a small plane crashed shortly after takeoff from a private Houston airport.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "4 Killed in Houston Small Plane Crash",
+          "print_headline": "4 Killed in Houston Small Plane Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:21:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578057ff38f0d8706f764227",
+        "word_count": "63",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/09/us/suspect-in-dallas-attack-had-interest-in-black-power-groups.html",
+        "snippet": "Micah Johnson served in the Army and maintained a Facebook page that paid homage to black pride....",
+        "lead_paragraph": "Micah Johnson served in the Army and maintained a Facebook page that paid homage to black pride.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/09/us/09SUSPECT-web/09SUSPECT-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/09/us/09SUSPECT-web/09SUSPECT-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/09/us/09SUSPECT-web/09SUSPECT-web-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/09/us/09SUSPECT-web/09SUSPECT-web-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/09/us/09SUSPECT-web/09SUSPECT-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/09/us/09SUSPECT-web/09SUSPECT-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Suspect in Dallas Attack Had Interest in Black Power Groups",
+          "print_headline": "Ex-Soldier With a Troubled Past and an Interest in Black Power Groups"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dallas, Tex, Shooting of Police Officers (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Johnson, Micah X"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Dallas (Tex)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New Black Panther Party for Self-Defense"
+          }
+        ],
+        "pub_date": "2016-07-08T21:45:27+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Reporting was contributed by John Eligon, Richard Fausset, Dave Phillipps, Steve Eder and Michael S. Schmidt.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jonathan",
+              "rank": 1,
+              "lastname": "MAHLER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julie",
+              "rank": 2,
+              "lastname": "TURKEWITZ"
+            }
+          ],
+          "original": "By JONATHAN MAHLER and JULIE TURKEWITZ"
+        },
+        "type_of_material": "News",
+        "_id": "57801ef938f0d8706f7641c5",
+        "word_count": "992",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/09/us/michael-hubbard-former-alabama-speaker-sentenced-to-4-years-in-prison.html",
+        "snippet": "The Republican often described as the most powerful politician in the state, was convicted last month on 12 counts of corruption....",
+        "lead_paragraph": "The Republican often described as the most powerful politician in the state, was convicted last month on 12 counts of corruption.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/09/us/09alabama/09alabama-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/09/us/09alabama/09alabama-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/09/us/09alabama/09alabama-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/09/us/09alabama/09alabama-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/09/us/09alabama/09alabama-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/09/us/09alabama/09alabama-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Michael Hubbard, Former Alabama Speaker, Sentenced to 4 Years in Prison",
+          "print_headline": "Alabama Lawmaker Sentenced to Prison"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Ethics and Official Misconduct"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hubbard, Michael G"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Alabama"
+          }
+        ],
+        "pub_date": "2016-07-08T21:43:11+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Campbell",
+              "rank": 1,
+              "lastname": "ROBERTSON"
+            }
+          ],
+          "original": "By CAMPBELL ROBERTSON"
+        },
+        "type_of_material": "News",
+        "_id": "57801e7238f0d8706f7641c4",
+        "word_count": "528",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004521025/trump-addresses-shootings-on-facebook.html",
+        "snippet": "In a video on his Facebook page, Donald J. Trump laments this week\u2019s fatal shootings, of citizens and police officers, and vows to \u201cmake America safe again.\u201d...",
+        "lead_paragraph": "In a video on his Facebook page, Donald J. Trump laments this week\u2019s fatal shootings, of citizens and police officers, and vows to \u201cmake America safe again.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/08/multimedia/08dallas-trump/08dallas-trump-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/08/multimedia/08dallas-trump/08dallas-trump-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/08/multimedia/08dallas-trump/08dallas-trump-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/08/multimedia/08dallas-trump/08dallas-trump-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/08/multimedia/08dallas-trump/08dallas-trump-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/08/multimedia/08dallas-trump/08dallas-trump-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Addresses Shootings on Facebook"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-07-08T21:41:37Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5780567538f0d8706f764224",
+        "word_count": "27",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/sports/olympics/ap-oly-rio-olympics-the-latest.html",
+        "snippet": "The Latest on the run-up to the Summer Olympics (all times local to Rio de Janeiro):...",
+        "lead_paragraph": "The Latest on the run-up to the Summer Olympics (all times local to Rio de Janeiro):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Locklear Makes Compelling Argument on Bars",
+          "print_headline": "The Latest: Locklear Makes Compelling Argument on Bars"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:35:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578055e538f0d8706f764220",
+        "word_count": "908",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/us/ap-us-phoenix-unsolved-shootings.html",
+        "snippet": "Residents of Phoenix's west side are on edge as they wonder if a serial shooter is targeting their neighborhood....",
+        "lead_paragraph": "Residents of Phoenix's west side are on edge as they wonder if a serial shooter is targeting their neighborhood.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Say Series of Fatal Shootings in Phoenix Are Linked",
+          "print_headline": "Police Say Series of Fatal Shootings in Phoenix Are Linked"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:00:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578055e338f0d8706f76421f",
+        "word_count": "426",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/08/sports/baseball/ap-bbn-reds-marlins.html",
+        "snippet": "Jose Fernandez looked more like himself Friday night....",
+        "lead_paragraph": "Jose Fernandez looked more like himself Friday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Fernandez Pitches 7 Innings in 3-1 Win Over Reds",
+          "print_headline": "Fernandez Pitches 7 Innings in 3-1 Win Over Reds"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-08T21:33:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5780552838f0d8706f76421e",
+        "word_count": "862",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/09/us/politics/black-caucus-demands-congress-tighten-gun-laws-after-shootings.html",
+        "snippet": "Representative John Lewis, who led the House floor sit-in after the Orlando nightclub shootings, said Friday, \u201cThere\u2019s no room in our society for violence.\u201d...",
+        "lead_paragraph": "Representative John Lewis, who led the House floor sit-in after the Orlando nightclub shootings, said Friday, \u201cThere\u2019s no room in our society for violence.\u201d",
+        "abstract": null,
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Black Caucus Demands Congress Hold Gun Vote After Shootings",
+          "print_headline": "Black Caucus Members Demand Congress Act to Tighten Gun Laws"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gun Control"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Congressional Black Caucus"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lewis, John R"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dallas, Tex, Shooting of Police Officers (2016)"
+          }
+        ],
+        "pub_date": "2016-07-08T21:34:20+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 1
+            }
+          ],
+          "original": "By DAVID M. HERSZENHORN"
+        },
+        "type_of_material": "News",
+        "_id": "57801c5e38f0d8706f7641c0",
+        "word_count": "657",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

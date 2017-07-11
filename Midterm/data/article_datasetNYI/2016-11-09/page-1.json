@@ -1,0 +1,627 @@
+{
+  "response": {
+    "meta": {
+      "hits": 886,
+      "time": 50,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/sports/football/ap-fbn-cowboys-romo-ready.html",
+        "snippet": "Tony Romo stretched alongside Jason Witten early in practice for the Dallas Cowboys, just as they've done for most of the past 10 years....",
+        "lead_paragraph": "Tony Romo stretched alongside Jason Witten early in practice for the Dallas Cowboys, just as they've done for most of the past 10 years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cowboys' Romo Full Go at Practice, and Running Scout Team",
+          "print_headline": "Cowboys' Romo Full Go at Practice, and Running Scout Team"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:43:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823b4b095d0e0204d55f9c9",
+        "word_count": "720",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004732861/trailer-national-bird.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/movies/video-national-bird/video-national-bird-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/movies/video-national-bird/video-national-bird-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/movies/video-national-bird/video-national-bird-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/movies/video-national-bird/video-national-bird-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/movies/video-national-bird/video-national-bird-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/movies/video-national-bird/video-national-bird-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'National Bird'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:41:31Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Filmrise",
+              "rank": 1
+            }
+          ],
+          "original": "By FilmRISE"
+        },
+        "type_of_material": "Video",
+        "_id": "5823b45895d0e0204d55f9c7",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/world/americas/trump-victory-reaction-in-new-york.html",
+        "snippet": "Thousands of people, their faces illuminated by Times Square\u2019s advertisements, stood watching and waiting as Mr. Trump steamrollered over Hillary Clinton....",
+        "lead_paragraph": "Thousands of people, their faces illuminated by Times Square\u2019s advertisements, stood watching and waiting as Mr. Trump steamrollered over Hillary Clinton.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/world/10ABROAD-1/10ABROAD-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/world/10ABROAD-1/10ABROAD-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/world/10ABROAD-1/10ABROAD-1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/world/10ABROAD-1/10ABROAD-1-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/world/10ABROAD-1/10ABROAD-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/world/10ABROAD-1/10ABROAD-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In New York, Deep Confusion Stands in Contrast to Elation After Donald Trump\u2019s Win",
+          "content_kicker": "Abroad in America"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-11-09T23:40:37Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Declan",
+              "rank": 1,
+              "lastname": "WALSH"
+            }
+          ],
+          "original": "By DECLAN WALSH"
+        },
+        "type_of_material": "News",
+        "_id": "5823b3f895d0e0204d55f9c6",
+        "word_count": "1155",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/world/americas/ap-lt-honduras-re-election.html",
+        "snippet": "President Juan Orlando Hernandez announced Wednesday his intention to run for another term, a year after a controversial Supreme Court ruling voided a longtime constitutional ban on presidential re-election in Honduras....",
+        "lead_paragraph": "President Juan Orlando Hernandez announced Wednesday his intention to run for another term, a year after a controversial Supreme Court ruling voided a longtime constitutional ban on presidential re-election in Honduras.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Honduran President to Seek Re-election Despite Dispute",
+          "print_headline": "Honduran President to Seek Re-election Despite Dispute"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:39:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823b3d195d0e0204d55f9c5",
+        "word_count": "251",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/10/arts/arnold-mesches-artist-who-was-recorded-by-the-fbi-is-dead-at-93.html",
+        "snippet": "Mr. Mesches was a painter whose political activities were recorded by the F.B.I. for more than 25 years in a thick dossier that he later used for his series \u201cThe F.B.I. Files.\u201d...",
+        "lead_paragraph": "Mr. Mesches was a painter whose political activities were recorded by the F.B.I. for more than 25 years in a thick dossier that he later used for his series \u201cThe F.B.I. Files.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/arts/10Mesches-Obit-SS-slide-OI0N/10Mesches-Obit-SS-slide-OI0N-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/arts/10Mesches-Obit-SS-slide-OI0N/10Mesches-Obit-SS-slide-OI0N-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/arts/10Mesches-Obit-SS-slide-OI0N/10Mesches-Obit-SS-slide-OI0N-articleLarge.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/arts/10Mesches-Obit-SS-slide-OI0N/10Mesches-Obit-SS-slide-OI0N-articleLarge.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/arts/10Mesches-Obit-SS-slide-OI0N/10Mesches-Obit-SS-slide-OI0N-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/arts/10Mesches-Obit-SS-slide-OI0N/10Mesches-Obit-SS-slide-OI0N-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Arnold Mesches: 1923-2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mesches, Arnold"
+          }
+        ],
+        "pub_date": "2016-11-09T23:39:55Z",
+        "document_type": "multimedia",
+        "news_desk": "Arts",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5823b3d195d0e0204d55f9c4",
+        "word_count": "32",
+        "slideshow_credits": "Private Collection and David and Schweitzer Contemporary"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/nyregion/rezoning-plan-for-3-upper-west-side-schools-will-proceed-city-says.html",
+        "snippet": "New York City\u2019s Education Department said on Wednesday that the move to redraw zone lines for 11 schools would reduce overcrowding and increase racial and economic integration at three of them....",
+        "lead_paragraph": "New York City\u2019s Education Department said on Wednesday that the move to redraw zone lines for 11 schools would reduce overcrowding and increase racial and economic integration at three of them.",
+        "abstract": "New York City Education Dept announces it is moving forward with controversial plan to redraw Upper West Side elementary school zones.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/nyregion/10REZONE1/10REZONE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/nyregion/10REZONE1/10REZONE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/nyregion/10REZONE1/10REZONE1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/nyregion/10REZONE1/10REZONE1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/nyregion/10REZONE1/10REZONE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/nyregion/10REZONE1/10REZONE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Rezoning Plan to Remake 3 Upper West Side Schools Will Proceed, City Says",
+          "print_headline": "A Plan to Remake 3 Manhattan Schools Will Proceed"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Zoning"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Education Department (NYC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Public School 191 (Manhattan, NY)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Public School 199 (Manhattan, NY)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Public School 452 (Manhattan, NY)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Upper West Side (Manhattan, NY)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Harlem (Manhattan, NY)"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-11-09T23:32:56Z",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kate",
+              "rank": 1,
+              "lastname": "TAYLOR"
+            }
+          ],
+          "original": "By KATE TAYLOR"
+        },
+        "type_of_material": "News",
+        "_id": "5823b22e95d0e0204d55f9c3",
+        "word_count": "700",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/09/nyregion/school-rezoning-plan-manhattan.html",
+        "snippet": "The New York City Education Department released its plan to redraw school zones in Community School District 3 in Manhattan, which encompasses the Upper West Side and part of Harlem....",
+        "lead_paragraph": "The New York City Education Department released its plan to redraw school zones in Community School District 3 in Manhattan, which encompasses the Upper West Side and part of Harlem.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/nyregion/school-rezoning-plan-manhattan/school-rezoning-plan-manhattan-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/nyregion/school-rezoning-plan-manhattan/school-rezoning-plan-manhattan-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/nyregion/school-rezoning-plan-manhattan/school-rezoning-plan-manhattan-articleLarge.gif",
+            "height": 378,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/nyregion/school-rezoning-plan-manhattan/school-rezoning-plan-manhattan-articleLarge.gif",
+              "xlargeheight": "378"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/nyregion/school-rezoning-plan-manhattan/school-rezoning-plan-manhattan-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/nyregion/school-rezoning-plan-manhattan/school-rezoning-plan-manhattan-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Rezoning Plan for 11 Manhattan Schools"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Zoning"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Education Department (NYC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Upper West Side (Manhattan, NY)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Harlem (Manhattan, NY)"
+          }
+        ],
+        "pub_date": "2016-11-09T23:30:24Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "5823b19495d0e0204d55f9c2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/ap-us-veterans-personal-information.html",
+        "snippet": "The Department of Veterans Affairs has warned more than 2,100 veterans in Eastern Colorado and parts of Kansas that their personal information may have been compromised when an employee emailed documents to himself....",
+        "lead_paragraph": "The Department of Veterans Affairs has warned more than 2,100 veterans in Eastern Colorado and parts of Kansas that their personal information may have been compromised when an employee emailed documents to himself.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "VA: Employee Emailed Veterans' Personal Data to Himself",
+          "print_headline": "VA: Employee Emailed Veterans' Personal Data to Himself"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:27:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823b10b95d0e0204d55f9c1",
+        "word_count": "418",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/us/politics/09reuters-usa-election-republicans.html",
+        "snippet": "One immediate consequence of Donald Trump&#8217;s stunning victory in the U.S. presidential race is that the identity crisis that convulsed the Republican Party during his tumultuous candidacy has been resolved....",
+        "lead_paragraph": "One immediate consequence of Donald Trump&#8217;s stunning victory in the U.S. presidential race is that the identity crisis that convulsed the Republican Party during his tumultuous candidacy has been resolved.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fractured Republicans Come Together in Face of Trump Triumph",
+          "print_headline": "Fractured Republicans Come Together in Face of Trump Triumph"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:27:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823b0ec95d0e0204d55f9c0",
+        "word_count": "908",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/us/09reuters-usa-election-wages.html",
+        "snippet": "Voters in four states raised minimum wages on Tuesday even as Republicans who oppose such increases won nationally, indicating that workers may still be able to improve compensation at the expense of restaurants, retailers and other employers....",
+        "lead_paragraph": "Voters in four states raised minimum wages on Tuesday even as Republicans who oppose such increases won nationally, indicating that workers may still be able to improve compensation at the expense of restaurants, retailers and other employers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Minimum Wage Hikes in Four States Show Path for Labor Under Trump",
+          "print_headline": "Minimum Wage Hikes in Four States Show Path for Labor Under Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:24:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823b03495d0e0204d55f9bf",
+        "word_count": "682",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

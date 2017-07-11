@@ -1,0 +1,575 @@
+{
+  "response": {
+    "meta": {
+      "hits": 816,
+      "time": 63,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/08/theater/ultimate-beauty-bible-review.html",
+        "snippet": "The characters in Caroline V. McGraw\u2019s play run up against a problem that makeup can\u2019t fix....",
+        "lead_paragraph": "The characters in Caroline V. McGraw\u2019s play run up against a problem that makeup can\u2019t fix.",
+        "abstract": "Alexis Soloski reviews Page 73 production of Caroline V McGraw play Ultimate Beauty Bible, directed by Stephen Brackett and starring Eboni Booth and Alex Breaux, at New Ohio Theater. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/arts/08ULTIMATE/08ULTIMATE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/arts/08ULTIMATE/08ULTIMATE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/arts/08ULTIMATE/08ULTIMATE-articleLarge.jpg",
+            "height": 393,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/arts/08ULTIMATE/08ULTIMATE-articleLarge.jpg",
+              "xlargeheight": "393"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/arts/08ULTIMATE/08ULTIMATE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/arts/08ULTIMATE/08ULTIMATE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Makeup Tips Galore, but Not How to Handle Cancer, in \u2018Ultimate Beauty Bible\u2019",
+          "print_headline": "A Lipstick Can Change Your Life? Not This Time."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New Ohio Theater"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Ultimate Beauty Bible (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Page 73"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "McGraw, Caroline V"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brackett, Stephen"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Breaux, Alex"
+          }
+        ],
+        "pub_date": "2016-11-07T22:26:45Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexis",
+              "rank": 1,
+              "lastname": "SOLOSKI"
+            }
+          ],
+          "original": "By ALEXIS SOLOSKI"
+        },
+        "type_of_material": "Review",
+        "_id": "582109ce95d0e0204d55f35a",
+        "word_count": "478",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/us/ap-us-hospital-painkillers-stolen.html",
+        "snippet": "A surgery technician who jumped from hospital to hospital around the West after getting hooked on fentanyl while serving as a medic in Afghanistan was sentenced to 6 &#189; years in federal prison on Monday for stealing a syringe with the powerful...",
+        "lead_paragraph": "A surgery technician who jumped from hospital to hospital around the West after getting hooked on fentanyl while serving as a medic in Afghanistan was sentenced to 6 &#189; years in federal prison on Monday for stealing a syringe with the powerful painkiller from an operating room in suburban Denver.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Colorado Surgery Tech Gets 6 1/2 Years for Stealing Drug",
+          "print_headline": "Colorado Surgery Tech Gets 6 1/2 Years for Stealing Drug"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:25:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5821095a95d0e0204d55f341",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/us/ap-us-police-station-shooting-selma.html",
+        "snippet": "A man died Monday after attacking an officer and booking clerk at a police station in central Alabama, authorities said....",
+        "lead_paragraph": "A man died Monday after attacking an officer and booking clerk at a police station in central Alabama, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "DA: Man Dies in Attack on Officer, Clerk at Police Station",
+          "print_headline": "DA: Man Dies in Attack on Officer, Clerk at Police Station"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:24:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109c495d0e0204d55f358",
+        "word_count": "216",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/t-magazine/fashion/gray-matters-shoes-silvia-avanzi.html",
+        "snippet": "The designer Silvia Avanzi launched Gray Matters with the help of a company that counts Dior and Fendi as clients....",
+        "lead_paragraph": "The designer Silvia Avanzi launched Gray Matters with the help of a company that counts Dior and Fendi as clients.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/t-magazine/07tmag-graymatters1/07tmag-graymatters1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/t-magazine/07tmag-graymatters1/07tmag-graymatters1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/t-magazine/07tmag-graymatters1/07tmag-graymatters1-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/t-magazine/07tmag-graymatters1/07tmag-graymatters1-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/t-magazine/07tmag-graymatters1/07tmag-graymatters1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/t-magazine/07tmag-graymatters1/07tmag-graymatters1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brand to Know: Simple Architectural Heels, Made in Italy",
+          "content_kicker": "On the Verge"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shoes and Boots"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Italy"
+          }
+        ],
+        "pub_date": "2016-11-07T22:20:06Z",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Hilary",
+              "rank": 1,
+              "lastname": "MOSS"
+            }
+          ],
+          "original": "By HILARY MOSS"
+        },
+        "type_of_material": "News",
+        "_id": "5821098095d0e0204d55f348",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/07/t-magazine/a-look-at-gray-matterss-first-collections.html",
+        "snippet": "The independent designer Silvia Avanzi, whose shoes launched in stores last month, uses the same Italian factories as big fashion brands....",
+        "lead_paragraph": "The independent designer Silvia Avanzi, whose shoes launched in stores last month, uses the same Italian factories as big fashion brands.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/t-magazine/07tmag-graymatters-slide-V6TJ/07tmag-graymatters-slide-V6TJ-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/t-magazine/07tmag-graymatters-slide-V6TJ/07tmag-graymatters-slide-V6TJ-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/t-magazine/07tmag-graymatters-slide-V6TJ/07tmag-graymatters-slide-V6TJ-articleLarge.jpg",
+            "height": 711,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/t-magazine/07tmag-graymatters-slide-V6TJ/07tmag-graymatters-slide-V6TJ-articleLarge.jpg",
+              "xlargeheight": "711"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/t-magazine/07tmag-graymatters-slide-V6TJ/07tmag-graymatters-slide-V6TJ-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/t-magazine/07tmag-graymatters-slide-V6TJ/07tmag-graymatters-slide-V6TJ-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Look at Gray Matters\u2019s First Collections"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:20:03Z",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5821097f95d0e0204d55f347",
+        "word_count": "21",
+        "slideshow_credits": "Charlie Schuck"
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004754099/ukrainian-governor-resigns.html",
+        "snippet": "Mikheil Saakashvili, the former president of Georgia, resigned on Monday citing corruption in the Ukrainian government....",
+        "lead_paragraph": "Mikheil Saakashvili, the former president of Georgia, resigned on Monday citing corruption in the Ukrainian government.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/world/08Ukraine-web1/08Ukraine-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/world/08Ukraine-web1/08Ukraine-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/world/08Ukraine-web1/08Ukraine-web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/world/08Ukraine-web1/08Ukraine-web1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/world/08Ukraine-web1/08Ukraine-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/world/08Ukraine-web1/08Ukraine-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ukrainian Governor Resigns"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:18:16+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5821091595d0e0204d55f339",
+        "word_count": "16",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/us/ap-us-harvard-cross-country-spreadsheet.html",
+        "snippet": "Another men's sports team at Harvard University is facing scrutiny over lewd comments made about female athletes....",
+        "lead_paragraph": "Another men's sports team at Harvard University is facing scrutiny over lewd comments made about female athletes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Another Harvard Team Faces Criticism Over Sexual Comments",
+          "print_headline": "Another Harvard Team Faces Criticism Over Sexual Comments"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:16:20Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582109b495d0e0204d55f356",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/08/opinion/america-on-election-day-and-beyond.html",
+        "snippet": "Will the divisiveness of the campaign persist? Will supporters of the loser accept the winner\u2019s \u201cmandate\u201d?...",
+        "lead_paragraph": "Will the divisiveness of the campaign persist? Will supporters of the loser accept the winner\u2019s \u201cmandate\u201d?",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/opinion/08LpoliticsWeb/08LpoliticsWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/opinion/08LpoliticsWeb/08LpoliticsWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/opinion/08LpoliticsWeb/08LpoliticsWeb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/opinion/08LpoliticsWeb/08LpoliticsWeb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/opinion/08LpoliticsWeb/08LpoliticsWeb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/opinion/08LpoliticsWeb/08LpoliticsWeb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "America on Election Day, and Beyond",
+          "content_kicker": "Letters",
+          "kicker": "Letters",
+          "print_headline": "America on Election Day, and Beyond"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-07T22:15:41Z",
+        "document_type": "article",
+        "news_desk": "Letters",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Letter",
+        "_id": "5821090495d0e0204d55f336",
+        "word_count": "920",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/07/us/07reuters-california-airport-gunman.html",
+        "snippet": "The man who walked into a Los Angeles International Airport terminal and opened fire with an assault rifle in 2013, killing a security screener and wounding three other people, was sentenced on Monday to spend the rest of his life in prison....",
+        "lead_paragraph": "The man who walked into a Los Angeles International Airport terminal and opened fire with an assault rifle in 2013, killing a security screener and wounding three other people, was sentenced on Monday to spend the rest of his life in prison.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Gunman in Deadly L.A. Airport Attack Sentenced to Life in Prison",
+          "print_headline": "Gunman in Deadly L.A. Airport Attack Sentenced to Life in Prison"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:15:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5821091995d0e0204d55f33b",
+        "word_count": "481",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/07/us/ap-financial-markets-box.html",
+        "snippet": "Banks and health care companies led a broad market rally on Wall Street Monday, breaking a nine-day losing streak a day before the U.S. general election....",
+        "lead_paragraph": "Banks and health care companies led a broad market rally on Wall Street Monday, breaking a nine-day losing streak a day before the U.S. general election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Dow Jones Industrial Average Fared on Monday",
+          "print_headline": "How the Dow Jones Industrial Average Fared on Monday"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-07T22:12:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582108f895d0e0204d55f334",
+        "word_count": "134",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

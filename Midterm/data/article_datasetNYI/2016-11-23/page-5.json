@@ -1,0 +1,677 @@
+{
+  "response": {
+    "meta": {
+      "hits": 843,
+      "time": 35,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/science/100000004786297/your-dog-remembers.html",
+        "snippet": "Researchers are investigating whether dogs share a more complex kind of memory like humans and a few other animals....",
+        "lead_paragraph": "Researchers are investigating whether dogs share a more complex kind of memory like humans and a few other animals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/23/multimedia/st-dog-memory/st-dog-memory-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/23/multimedia/st-dog-memory/st-dog-memory-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/23/multimedia/st-dog-memory/st-dog-memory-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/23/multimedia/st-dog-memory/st-dog-memory-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/23/multimedia/st-dog-memory/st-dog-memory-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/23/multimedia/st-dog-memory/st-dog-memory-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Dog Remembers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Dogs"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gorman, James"
+          }
+        ],
+        "pub_date": "2016-11-23T22:27:37+0000",
+        "document_type": "multimedia",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "GORMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Samantha",
+              "rank": 2,
+              "lastname": "STARK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Shane",
+              "rank": 3,
+              "lastname": "O'NEILL"
+            }
+          ],
+          "original": "By JAMES GORMAN, SAMANTHA STARK and SHANE O'NEILL"
+        },
+        "type_of_material": "Video",
+        "_id": "583617dd95d0e03926072387",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/23/business/23reuters-air-transport-sr-strike.html",
+        "snippet": "Pilots at ABX Air, an express cargo airline that serves online retailer Amazon.com Inc and DHL Express, went on strike on Tuesday, a critical time for retailers with the holiday shopping season about to kick into high gear....",
+        "lead_paragraph": "Pilots at ABX Air, an express cargo airline that serves online retailer Amazon.com Inc and DHL Express, went on strike on Tuesday, a critical time for retailers with the holiday shopping season about to kick into high gear.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pilots Strike at Cargo Airline Serving Amazon, DHL as Holidays Near",
+          "print_headline": "Pilots Strike at Cargo Airline Serving Amazon, DHL as Holidays Near"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-23T22:27:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583617db95d0e03926072386",
+        "word_count": "534",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/23/arts/music/pittsburgh-symphony-orchestra-strike-is-resolved.html",
+        "snippet": "The strike was resolved after its musicians agreed to freeze their defined benefit pensions and management settled for an initial 7.5 percent wage cut....",
+        "lead_paragraph": "The strike was resolved after its musicians agreed to freeze their defined benefit pensions and management settled for an initial 7.5 percent wage cut.",
+        "abstract": null,
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/24/arts/24PITTSBURGH/24PITTSBURGH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/24/arts/24PITTSBURGH/24PITTSBURGH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/24/arts/24PITTSBURGH/24PITTSBURGH-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/24/arts/24PITTSBURGH/24PITTSBURGH-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/24/arts/24PITTSBURGH/24PITTSBURGH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/24/arts/24PITTSBURGH/24PITTSBURGH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pittsburgh Symphony Orchestra Strike Is Resolved",
+          "print_headline": "Pittsburgh Symphony Orchestra Resolves a 55-Day Strike"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pittsburgh Symphony Orchestra"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Honeck, Manfred"
+          }
+        ],
+        "pub_date": "2016-11-23T22:24:47+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By MICHAEL COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "5836173c95d0e03926072385",
+        "word_count": "377",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/23/books/review-if-venice-dies-salvatore-settis.html",
+        "snippet": "A book by Salvatore Settis, an art historian and chairman of the Louvre Museum\u2019s Scientific Council, sounds the alarm about Italy\u2019s fabled metropolis....",
+        "lead_paragraph": "A book by Salvatore Settis, an art historian and chairman of the Louvre Museum\u2019s Scientific Council, sounds the alarm about Italy\u2019s fabled metropolis.",
+        "abstract": null,
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/24/arts/24BOOKSETTIS1/24BOOKSETTIS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/24/arts/24BOOKSETTIS1/24BOOKSETTIS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/24/arts/24BOOKSETTIS1/24BOOKSETTIS1-articleLarge.jpg",
+            "height": 923,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/24/arts/24BOOKSETTIS1/24BOOKSETTIS1-articleLarge.jpg",
+              "xlargeheight": "923"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/24/arts/24BOOKSETTIS1/24BOOKSETTIS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/24/arts/24BOOKSETTIS1/24BOOKSETTIS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018If Venice Dies\u2019 Examines a City Sinking, and Not Only Into Water",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "Sounding Alarms About a Great City That\u2019s Sinking, and Not Only Into Water"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Venice (Italy)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "If Venice Dies (Book)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Settis, Salvatore (1941- )"
+          }
+        ],
+        "pub_date": "2016-11-23T22:22:36+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 1,
+              "lastname": "SENIOR"
+            }
+          ],
+          "original": "By JENNIFER SENIOR"
+        },
+        "type_of_material": "Review",
+        "_id": "583616b295d0e03926072384",
+        "word_count": "1005",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/23/world/americas/23reuters-opec-meeting-venezuela.html",
+        "snippet": "Venezuela's President Nicolas Maduro said on Wednesday an OPEC deal to cut output and hike oil prices was \"imminent,\" and dispatched his oil minister to Russia to help bring other producers on board....",
+        "lead_paragraph": "Venezuela's President Nicolas Maduro said on Wednesday an OPEC deal to cut output and hike oil prices was \"imminent,\" and dispatched his oil minister to Russia to help bring other producers on board. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela's Maduro Says OPEC Output Pact 'Imminent'",
+          "print_headline": "Venezuela's Maduro Says OPEC Output Pact 'Imminent'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-23T22:21:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5836167b95d0e03926072383",
+        "word_count": "338",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/23/business/23reuters-canada-boeing-quebec.html",
+        "snippet": "Aerospace companies in the Canadian province of Quebec will likely benefit from in-service support contracts linked to a federal government purchase of 18 Boeing Co Super Hornets, an industry group said on Wednesday....",
+        "lead_paragraph": "Aerospace companies in the Canadian province of Quebec will likely benefit from in-service support contracts linked to a federal government purchase of 18 Boeing Co Super Hornets, an industry group said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Quebec Aerospace Industry Expects Benefits From Boeing Jet Deal",
+          "print_headline": "Quebec Aerospace Industry Expects Benefits From Boeing Jet Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-23T22:21:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5836167195d0e03926072382",
+        "word_count": "390",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/23/fashion/fifth-avenue-holiday-shopping-donald-trump-tower-protesters.html",
+        "snippet": "Along Fifth Avenue, the luxury stores adjacent to Trump Tower adjust to the none-too-jolly presence of police barricades and bomb-sniffing dogs....",
+        "lead_paragraph": "Along Fifth Avenue, the luxury stores adjacent to Trump Tower adjust to the none-too-jolly presence of police barricades and bomb-sniffing dogs.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/24/fashion/24FIFTHJP1/24FIFTHJP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/24/fashion/24FIFTHJP1/24FIFTHJP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/24/fashion/24FIFTHJP1/24FIFTHJP1-articleLarge.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/24/fashion/24FIFTHJP1/24FIFTHJP1-articleLarge.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/24/fashion/24FIFTHJP1/24FIFTHJP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/24/fashion/24FIFTHJP1/24FIFTHJP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How Fifth Avenue Is Coping",
+          "print_headline": "How Fifth Avenue Is Learning to Cope"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Fifth Avenue (Manhattan, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Tiffany & Company"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Gucci"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Henri Bendel"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump Tower (Manhattan, NY)"
+          }
+        ],
+        "pub_date": "2016-11-23T22:19:53+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Valeriya Safronova contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 1,
+              "lastname": "SCHNEIER"
+            }
+          ],
+          "original": "By MATTHEW SCHNEIER"
+        },
+        "type_of_material": "News",
+        "_id": "5836160c95d0e03926072381",
+        "word_count": "1374",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/23/business/23reuters-lockheed-pentagon.html",
+        "snippet": "Lockheed Martin Corp unit Lockheed Martin Aeronautics Co is being awarded a $7.19 billion contract for 90 F-35 Lightning II jets, the Pentagon said on Wednesday....",
+        "lead_paragraph": "Lockheed Martin Corp unit Lockheed Martin Aeronautics Co is being awarded a $7.19 billion contract for 90 F-35 Lightning II jets, the Pentagon said on Wednesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Lockheed Martin Wins $7.19 Billion U.S. Contract for F-35 Jets: Pentagon",
+          "print_headline": "Lockheed Martin Wins $7.19 Billion U.S. Contract for F-35 Jets: Pentagon"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-23T22:18:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583615c095d0e03926072380",
+        "word_count": "51",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/23/business/economy/mortgage-rates-rise-catches-home-buyers-and-lenders-off-guard.html",
+        "snippet": "Since the election, rates have climbed roughly half a percentage point, adding hundreds, sometimes thousands, of dollars to a buyer\u2019s yearly payments....",
+        "lead_paragraph": "Since the election, rates have climbed roughly half a percentage point, adding hundreds, sometimes thousands, of dollars to a buyer\u2019s yearly payments.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/24/business/24MORTGAGE/24MORTGAGE-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/24/business/24MORTGAGE/24MORTGAGE-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/24/business/24MORTGAGE/24MORTGAGE-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/24/business/24MORTGAGE/24MORTGAGE-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/24/business/24MORTGAGE/24MORTGAGE-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/24/business/24MORTGAGE/24MORTGAGE-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mortgage Rates\u2019 Rise Catches Home Buyers \u2014 and Lenders \u2014 Off Guard",
+          "print_headline": "Mortgage Surprise"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mortgages"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interest Rates"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate Brokers"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Reserve System"
+          }
+        ],
+        "pub_date": "2016-11-23T22:16:44+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Economy",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Patricia",
+              "rank": 1,
+              "lastname": "COHEN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Conor",
+              "rank": 2,
+              "lastname": "DOUGHERTY"
+            }
+          ],
+          "original": "By PATRICIA COHEN and CONOR DOUGHERTY"
+        },
+        "type_of_material": "News",
+        "_id": "5836155295d0e0392607237f",
+        "word_count": "1207",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/23/arts/23reuters-film-rulesdontapply.html",
+        "snippet": "After a 15-year absence, Warren Beatty returns to the big screen in \"Rules Don't Apply,\" a personal project about the eccentric billionaire Howard Hughes....",
+        "lead_paragraph": "After a 15-year absence, Warren Beatty returns to the big screen in \"Rules Don't Apply,\" a personal project about the eccentric billionaire Howard Hughes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Warren Beatty Returns to Movies With 'Rules Don't Apply'",
+          "print_headline": "Warren Beatty Returns to Movies With 'Rules Don't Apply'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-23T22:15:32+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5836151195d0e0392607237e",
+        "word_count": "292",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

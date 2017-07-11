@@ -1,0 +1,459 @@
+{
+  "response": {
+    "meta": {
+      "hits": 446,
+      "time": 53,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/us/ap-fbc-baylor-rice-band-satire.html",
+        "snippet": "Rice officials say the university's Marching Owl Band may have gone too far in its satire of the sexual assault scandal at Baylor....",
+        "lead_paragraph": "Rice officials say the university's Marching Owl Band may have gone too far in its satire of the sexual assault scandal at Baylor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rice Says Its Band May Have Gone 'Too Far' in Baylor Satire",
+          "print_headline": "Rice Says Its Band May Have Gone 'Too Far' in Baylor Satire"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:45:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddba5f95d0e021d7986db7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/sports/ap-car-imsa-austin.html",
+        "snippet": "Brothers Ricky and Jordan Taylor raced to their third victory of the IMSA WeatherTech SportsCar Championship season Saturday at the Circuit of The Americas....",
+        "lead_paragraph": "Brothers Ricky and Jordan Taylor raced to their third victory of the IMSA WeatherTech SportsCar Championship season Saturday at the Circuit of The Americas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Taylor Brothers Win IMSA Race at Circuit of The Americas",
+          "print_headline": "Taylor Brothers Win IMSA Race at Circuit of The Americas"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:41:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb8e495d0e021d7986db6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/us/ap-us-police-shooting.html",
+        "snippet": "Kentucky State Police are investigating the shooting death of a knife-wielding man by two officers in Owensboro....",
+        "lead_paragraph": "Kentucky State Police are investigating the shooting death of a knife-wielding man by two officers in Owensboro.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Man With a Knife Fatally Shot by Owensboro Officers",
+          "print_headline": "Police: Man With a Knife Fatally Shot by Owensboro Officers"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:38:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb83395d0e021d7986db5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004654239/germans-and-austrians-protest-trade-talks.html",
+        "snippet": "Protesters gathered Saturday in several German cities to demonstrate against proposed trade agreements with the United States and Canada....",
+        "lead_paragraph": "Protesters gathered Saturday in several German cities to demonstrate against proposed trade agreements with the United States and Canada.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/18/world/18GERMANY/18GERMANY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/18/world/18GERMANY/18GERMANY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/18/world/18GERMANY/18GERMANY-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/18/world/18GERMANY/18GERMANY-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/18/world/18GERMANY/18GERMANY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/18/world/18GERMANY/18GERMANY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Germans and Austrians Protest Trade Talks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Austria"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Germany"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Canada"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Transatlantic Trade and Investment Partnership (TTIP)"
+          }
+        ],
+        "pub_date": "2016-09-17T21:36:10Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57ddb76b95d0e021d7986db4",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/us/politics/ap-us-campaign-2016-sanders.html",
+        "snippet": "In a pair of university stops in battleground Ohio on Saturday, Bernie Sanders used his enduring popularity with young voters to urge support for Democratic nominee Hillary Clinton. It's just that his crowds aren't what they used to be....",
+        "lead_paragraph": "In a pair of university stops in battleground Ohio on Saturday, Bernie Sanders used his enduring popularity with young voters to urge support for Democratic nominee Hillary Clinton. It's just that his crowds aren't what they used to be.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sanders Urges Turned-Off Voters to Turn Out for Clinton",
+          "print_headline": "Sanders Urges Turned-Off Voters to Turn Out for Clinton"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:25:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb55c95d0e021d7986db2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/17/world/middleeast/17reuters-mideast-crisis-syria-un.html",
+        "snippet": "The United States accused Russia of grandstanding on Saturday by calling a U.N. Security Council meeting over U.S.-led coalition air strikes in Syria, as Russia said the attacks killed dozens of Syrian soldiers and could endanger a truce deal betw...",
+        "lead_paragraph": "The United States accused Russia of grandstanding on Saturday by calling a U.N. Security Council meeting over U.S.-led coalition air strikes in Syria, as Russia said the attacks killed dozens of Syrian soldiers and could endanger a truce deal between Moscow and Washington. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Russia, U.S. Tensions Spill Over at U.N. Meeting on Syria",
+          "print_headline": "Russia, U.S. Tensions Spill Over at U.N. Meeting on Syria"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:25:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb54c95d0e021d7986db1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/us/ap-us-governor-burned-texas.html",
+        "snippet": "Texas Gov. Greg Abbott has spoken for the first time about how he incurred extensive severe burns on his lower legs and feet in July....",
+        "lead_paragraph": "Texas Gov. Greg Abbott has spoken for the first time about how he incurred extensive severe burns on his lower legs and feet in July.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Texas Governor Says Burns Were From Shower",
+          "print_headline": "Texas Governor Says Burns Were From Shower"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:20:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb3f195d0e021d7986daf",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/sports/baseball/ap-bba-yankees-red-sox.html",
+        "snippet": "With the potential tying run on third base, Mookie Betts wanted to get the ball in the air. It didn't matter given the good bounces the Boston Red Sox were getting....",
+        "lead_paragraph": "With the potential tying run on third base, Mookie Betts wanted to get the ball in the air. It didn't matter given the good bounces the Boston Red Sox were getting.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bogaerts, Betts Help Red Sox Rally Past Yankees 6-5",
+          "print_headline": "Bogaerts, Betts Help Red Sox Rally Past Yankees 6-5"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:17:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb33b95d0e021d7986dad",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/17/sports/cycling/17reuters-paralympics-death.html",
+        "snippet": "Iranian cyclist Sarafraz Bahman Golbarnezhad has died after crashing in the C4-5 event at the Rio de Janeiro Paralympics, the first such death at the Games since they began in 1960, the International Paralympic Committee (IPC) has said....",
+        "lead_paragraph": "Iranian cyclist Sarafraz Bahman Golbarnezhad has died after crashing in the C4-5 event at the Rio de Janeiro Paralympics, the first such death at the Games since they began in 1960, the International Paralympic Committee (IPC) has said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Iranian Cyclist Death Casts Pall Over Games",
+          "print_headline": "Iranian Cyclist Death Casts Pall Over Games"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T21:17:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb32f95d0e021d7986dac",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/18/sports/baseball/ny-yankees-boston-red-sox-starlin-castro.html",
+        "snippet": "A wild pitch sent the Yankees to their sixth defeat in seven games. Starlin Castro, their leading home run hitter, strained his hamstring, and Jacoby Ellsbury hurt his knee....",
+        "lead_paragraph": "A wild pitch sent the Yankees to their sixth defeat in seven games. Starlin Castro, their leading home run hitter, strained his hamstring, and Jacoby Ellsbury hurt his knee.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/18/sports/baseball/18yankeesweb1/18yankeesweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/18/sports/baseball/18yankeesweb1/18yankeesweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/18/sports/baseball/18yankeesweb1/18yankeesweb1-articleLarge.jpg",
+            "height": 580,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/18/sports/baseball/18yankeesweb1/18yankeesweb1-articleLarge.jpg",
+              "xlargeheight": "580"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/18/sports/baseball/18yankeesweb1/18yankeesweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/18/sports/baseball/18yankeesweb1/18yankeesweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Another Painful Loss for Yankees, With Castro and Ellsbury Injured",
+          "content_kicker": "Red Sox 6, Yankees 5",
+          "kicker": "Red Sox 6, Yankees 5",
+          "print_headline": "Wild Pitch and Injuries to 2 Veterans Send Yankees to Another Painful Loss"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Yankees"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Castro, Starlin"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Boston Red Sox"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sports Injuries"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ellsbury, Jacoby"
+          }
+        ],
+        "pub_date": "2016-09-17T21:17:37+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Billy",
+              "rank": 1,
+              "lastname": "WITZ"
+            }
+          ],
+          "original": "By BILLY WITZ"
+        },
+        "type_of_material": "News",
+        "_id": "57ddb2fb95d0e021d7986daa",
+        "word_count": "932",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,598 @@
+{
+  "response": {
+    "meta": {
+      "hits": 938,
+      "time": 61,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/10/30/magazine/yoko-tawada.html",
+        "snippet": "Through the stories of polar bears, dogs and other animals, the novelist makes us see \u201cthe other\u201d \u2014 including ourselves....",
+        "lead_paragraph": "Through the stories of polar bears, dogs and other animals, the novelist makes us see \u201cthe other\u201d \u2014 including ourselves.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/magazine/30tawada1/30mag-30tawada-t_CA0-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/magazine/30tawada1/30mag-30tawada-t_CA0-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/magazine/30tawada1/30tawada1-articleLarge-v2.jpg",
+            "height": 732,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/magazine/30tawada1/30tawada1-articleLarge-v2.jpg",
+              "xlargeheight": "732"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/magazine/30tawada1/30tawada1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/magazine/30tawada1/30tawada1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Profound Empathy of Yoko Tawada",
+          "kicker": "The Culture Issue"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Writing and Writers"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "German Language"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Polar Bears"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Empathy"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Galchen, Rivka"
+          }
+        ],
+        "pub_date": "2016-10-27T23:25:40+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rivka",
+              "rank": 1,
+              "lastname": "GALCHEN"
+            }
+          ],
+          "original": "By RIVKA GALCHEN"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "58128cf495d0e022439c5a7f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-us-landfill-infant-.html",
+        "snippet": "Wyoming law enforcement officials are planning to search a northern Colorado landfill for the body of a 13-month-old Cheyenne boy who's been missing since Saturday, authorities say....",
+        "lead_paragraph": "Wyoming law enforcement officials are planning to search a northern Colorado landfill for the body of a 13-month-old Cheyenne boy who's been missing since Saturday, authorities say.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Wyoming Authorities Plan to Search Landfill for Baby's Body",
+          "print_headline": "Wyoming Authorities Plan to Search Landfill for Baby's Body"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:25:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58128ce495d0e022439c5a7e",
+        "word_count": "249",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/business/27reuters-usa-fraud-caspersen.html",
+        "snippet": "U.S. prosecutors on Thursday said Andrew Caspersen, the scion of a wealthy Wall Street family, should spend as long as 15-2/3 years in prison after he pleaded guilty to defrauding friends, family and a charity out of more than $38 million....",
+        "lead_paragraph": "U.S. prosecutors on Thursday said Andrew Caspersen, the scion of a wealthy Wall Street family, should spend as long as 15-2/3 years in prison after he pleaded guilty to defrauding friends, family and a charity out of more than $38 million.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Eyes Long Prison Term for Wall Street Scion's Fraud",
+          "print_headline": "U.S. Eyes Long Prison Term for Wall Street Scion's Fraud"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:24:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58128cbf95d0e022439c5a7d",
+        "word_count": "332",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/us/amtrak-265-million-settlement-philadelphia-crash-that-killed-eight.html",
+        "snippet": "The settlement, outlined in a federal judge\u2019s order on Thursday, is one of the largest involving a rail crash, a plaintiffs\u2019 lawyer said....",
+        "lead_paragraph": "The settlement, outlined in a federal judge\u2019s order on Thursday, is one of the largest involving a rail crash, a plaintiffs\u2019 lawyer said.",
+        "abstract": "Amtrak agrees to pay up to $265 million to settle claims in connection with high-speed train derailment in Philadelphia in 2015 that killed eight and injured more than 200 people.",
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/us/28xp-amtrak1/28xp-amtrak1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/us/28xp-amtrak1/28xp-amtrak1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/us/28xp-amtrak1/28xp-amtrak1-articleLarge.jpg",
+            "height": 366,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/us/28xp-amtrak1/28xp-amtrak1-articleLarge.jpg",
+              "xlargeheight": "366"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/us/28xp-amtrak1/28xp-amtrak1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/us/28xp-amtrak1/28xp-amtrak1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Amtrak Agrees to $265 Million Settlement in Philadelphia Crash That Killed Eight",
+          "print_headline": "Amtrak Says It Will Pay $265 Million in Fatal Crash"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Railroad Accidents and Safety"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Amtrak"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Philadelphia (Pa)"
+          }
+        ],
+        "pub_date": "2016-10-27T23:24:03+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1,
+              "lastname": "MELE"
+            }
+          ],
+          "original": "By CHRISTOPHER MELE"
+        },
+        "type_of_material": "News",
+        "_id": "58128c9d95d0e022439c5a7c",
+        "word_count": "490",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/world/ap-un-united-nations-nuclear-prohibition.html",
+        "snippet": "United Nations member states voted overwhelmingly to approve a resolution calling for negotiations on a treaty that would outlaw nuclear weapons, despite strong opposition from nuclear-armed nations....",
+        "lead_paragraph": "United Nations member states voted overwhelmingly to approve a resolution calling for negotiations on a treaty that would outlaw nuclear weapons, despite strong opposition from nuclear-armed nations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "United Nations Committee Calls for Outlawing Nuclear Weapons",
+          "print_headline": "UN Committee Calls for Outlawing Nuclear Weapons"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Arms Control and Limitation and Disarmament"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nuclear Weapons"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "General Assembly (UN)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          }
+        ],
+        "pub_date": "2016-10-27T23:22:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58128c2495d0e022439c5a7b",
+        "word_count": "267",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/technology/amazon-earnings.html",
+        "snippet": "The company said to expect as much as $1.25 billion in operating income for the fourth quarter and as little as nothing, a remarkably wide range....",
+        "lead_paragraph": "The company said to expect as much as $1.25 billion in operating income for the fourth quarter and as little as nothing, a remarkably wide range.",
+        "abstract": "Amazon reports lower quarterly earnings than analysts had projected, sending stock down more than 5 percent. ",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Amazon Comes Up Short on Profits, Focusing on Warehouses and Movies",
+          "print_headline": "Amazon Projects $1.25 Billion Operating Income, or None"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cloud Computing"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Company Reports"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Amazon.com Inc"
+          }
+        ],
+        "pub_date": "2016-10-27T23:21:43+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nick",
+              "rank": 1,
+              "lastname": "WINGFIELD"
+            }
+          ],
+          "original": "By NICK WINGFIELD"
+        },
+        "type_of_material": "News",
+        "_id": "58128c1495d0e022439c5a7a",
+        "word_count": "569",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/sports/olympics/27reuters-olympics-hickey-ioc.html",
+        "snippet": "Brazilian prosecutors are analyzing a request by lawyers for the former head of the European Olympic Committee Patrick Hickey to return his passport, a move that could allow him to return home to Ireland, a court spokesman said on Thursday....",
+        "lead_paragraph": "Brazilian prosecutors are analyzing a request by lawyers for the former head of the European Olympic Committee Patrick Hickey to return his passport, a move that could allow him to return home to Ireland, a court spokesman said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-IOC Executive Hickey's Lawyers Request Return of Passport",
+          "print_headline": "Ex-IOC Executive Hickey's Lawyers Request Return of Passport"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:21:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58128c0595d0e022439c5a79",
+        "word_count": "176",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/world/asia/prince-mikasa-dies-japan.html",
+        "snippet": "Prince Mikasa, an Imperial Army veteran who became a pacifist, was the uncle of the current emperor and fifth in line to the throne....",
+        "lead_paragraph": "Prince Mikasa, an Imperial Army veteran who became a pacifist, was the uncle of the current emperor and fifth in line to the throne.",
+        "abstract": "Prince Mikasa, younger brother of Emperor Hirohito who defied convention by resigning from Japan's Imperial Army in 1953 to adopt pacifism, dies at age 100.",
+        "print_page": "24",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/world/30mikasa-obit/28mikasa-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/world/30mikasa-obit/28mikasa-obit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/world/30mikasa-obit/28mikasa-obit-articleLarge.jpg",
+            "height": 834,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/world/30mikasa-obit/28mikasa-obit-articleLarge.jpg",
+              "xlargeheight": "834"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/world/30mikasa-obit/28mikasa-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/world/30mikasa-obit/28mikasa-obit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Prince Mikasa, Brother of Emperor Hirohito of Japan, Dies at 100",
+          "print_headline": "Prince Mikasa of Japan, 100, Brother of Emperor Hirohito"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mikasa, Takahito (1915-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Japan"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Royal Families"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hirohito, Emperor of Japan"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          }
+        ],
+        "pub_date": "2016-10-27T23:20:28+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "58128bc995d0e022439c5a78",
+        "word_count": "354",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/politics/ap-us-campaign-2016-money.html",
+        "snippet": "Hillary Clinton entered the final phase of her presidential bid with a resounding campaign cash advantage over Donald Trump....",
+        "lead_paragraph": "Hillary Clinton entered the final phase of her presidential bid with a resounding campaign cash advantage over Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Runs Up Campaign Cash Advantage Over Trump",
+          "print_headline": "Clinton Runs Up Campaign Cash Advantage Over Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:16:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58128ae395d0e022439c5a75",
+        "word_count": "420",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/arts/spare-times-for-children-listings-for-oct-28-nov-3.html",
+        "snippet": "A select guide to cultural events for children, teenagers and families....",
+        "lead_paragraph": "A select guide to cultural events for children, teenagers and families.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Spare Times for Children Listings for Oct. 28-Nov. 3",
+          "print_headline": "The Listings: For Children"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Children and Childhood"
+          }
+        ],
+        "pub_date": "2016-10-27T23:16:17+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laurel",
+              "rank": 1,
+              "lastname": "GRAEBER"
+            }
+          ],
+          "original": "By LAUREL GRAEBER"
+        },
+        "type_of_material": "Schedule",
+        "_id": "58128ac495d0e022439c5a74",
+        "word_count": "2295",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

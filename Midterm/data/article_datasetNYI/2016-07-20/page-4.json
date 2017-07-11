@@ -1,0 +1,409 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1026,
+      "time": 54,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/21/us/a-smart-green-tech-hub-in-vermont-reimagines-the-status-quo.html",
+        "snippet": "Burlington is an outlier in the technology world. But it has a lower unemployment rate than Silicon Valley and is spawning a wave of innovators....",
+        "lead_paragraph": "Burlington is an outlier in the technology world. But it has a lower unemployment rate than Silicon Valley and is spawning a wave of innovators.",
+        "abstract": "Vermont Center for Emerging Technologies is transforming city of Burlington, Vt, into incubator for technology pioneers.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/21/us/21BURLING1/21BURLING1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/21/us/21BURLING1/21BURLING1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/21/us/21BURLING1/21BURLING1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/21/us/21BURLING1/21BURLING1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/21/us/21BURLING1/21BURLING1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/21/us/21BURLING1/21BURLING1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A \u2018Smart\u2019 Green Tech Hub in Vermont Reimagines the Status Quo",
+          "print_headline": "Building a Skills-Based Economy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Burlington (Vt)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Innovation"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Start-ups"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Labor and Jobs"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Energy Efficiency"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Science and Technology"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Education"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Entrepreneurship"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Vermont"
+          }
+        ],
+        "pub_date": "2016-07-20T21:57:56+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Constance",
+              "rank": 1,
+              "lastname": "GUSTKE"
+            }
+          ],
+          "original": "By CONSTANCE GUSTKE"
+        },
+        "type_of_material": "News",
+        "_id": "578ff3e638f0d85ae51149b5",
+        "word_count": "1236",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/20/sports/baseball/ap-bbn-marlins-phillies.html",
+        "snippet": "Jeremy Hellickson's trade value is on the rise....",
+        "lead_paragraph": "Jeremy Hellickson's trade value is on the rise.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hellickson, Goeddel Lead Phillies to 4-1 Win Over Marlins",
+          "print_headline": "Hellickson, Goeddel Lead Phillies to 4-1 Win Over Marlins"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:52:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57902b9338f0d85ae5114a40",
+        "word_count": "562",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/20/us/ap-us-starving-pit-bulls.html",
+        "snippet": "Dozens of dead or starving pit bulls have been found at an abandoned home east of Los Angeles....",
+        "lead_paragraph": "Dozens of dead or starving pit bulls have been found at an abandoned home east of Los Angeles.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Dozens of Dead, Starving Pit Bulls Found at California Home",
+          "print_headline": "Dozens of Dead, Starving Pit Bulls Found at California Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:49:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57902ab038f0d85ae5114a3e",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/us/20reuters-usa-election-trump-hamm.html",
+        "snippet": "Republican presidential candidate Donald Trump is considering nominating Oklahoma oil and gas mogul Harold Hamm as energy secretary if elected to the White House on Nov. 8, according to four sources close to Trump's campaign....",
+        "lead_paragraph": "Republican presidential candidate Donald Trump is considering nominating Oklahoma oil and gas mogul Harold Hamm as energy secretary if elected to the White House on Nov. 8, according to four sources close to Trump's campaign.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive: Trump Considering Fracking Mogul Harold Hamm as Energy Secretary-Sources",
+          "print_headline": "Exclusive: Trump Considering Fracking Mogul Harold Hamm as Energy Secretary-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:48:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57902aa938f0d85ae5114a3d",
+        "word_count": "612",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/us/politics/20reuters-usa-election-clinton-vp-factbox.html",
+        "snippet": "Democrat Hillary Clinton, who is running against Republican Donald Trump in the Nov. 8 presidential election, is expected to announce her running mate as early as Friday....",
+        "lead_paragraph": "Democrat Hillary Clinton, who is running against Republican Donald Trump in the Nov. 8 presidential election, is expected to announce her running mate as early as Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Factbox: Clinton to Name Running Mate as Early as Friday",
+          "print_headline": "Factbox: Clinton to Name Running Mate as Early as Friday"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:35:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5790272538f0d85ae5114a38",
+        "word_count": "601",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/world/asia/20reuters-usa-election-china.html",
+        "snippet": "China's Foreign Ministry on Thursday urged the U.S. Republican Party to stop making \"groundless accusations\" against China in its party platform, which says China practices cultural genocide in Tibet and has ludicrous claims in the South China Sea...",
+        "lead_paragraph": "China's Foreign Ministry on Thursday urged the U.S. Republican Party to stop making \"groundless accusations\" against China in its party platform, which says China practices cultural genocide in Tibet and has ludicrous claims in the South China Sea.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Upset by U.S. Republican Platform on South China Sea, Tibet",
+          "print_headline": "China Upset by U.S. Republican Platform on South China Sea, Tibet"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:27:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579025c338f0d85ae5114a37",
+        "word_count": "294",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/20/us/ap-us-tesla-future-plans.html",
+        "snippet": "Electric car maker Tesla Motors is working on multiple new vehicles, including heavy trucks and buses that could be unveiled as early as next year....",
+        "lead_paragraph": "Electric car maker Tesla Motors is working on multiple new vehicles, including heavy trucks and buses that could be unveiled as early as next year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tesla Plans Trucks, Small SUV as Part of Future Plans",
+          "print_headline": "Tesla Plans Trucks, Small SUV as Part of Future Plans"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:21:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5790245d38f0d85ae5114a36",
+        "word_count": "703",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/sports/olympics/20reuters-olympics-rio-athletics-eatons.html",
+        "snippet": "He wears the colors of the United States and she those of Canada, but Ashton Eaton and Brianne Theisen-Eaton will be on a joint mission at the Rio Olympics....",
+        "lead_paragraph": "He wears the colors of the United States and she those of Canada, but Ashton Eaton and Brianne Theisen-Eaton will be on a joint mission at the Rio Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Eatons on a Double Gold Mission Like No Other",
+          "print_headline": "Eatons on a Double Gold Mission Like No Other"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:20:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5790239d38f0d85ae5114a35",
+        "word_count": "514",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/sports/olympics/20reuters-olympics-rio-athletics-rudisha.html",
+        "snippet": "David Rudisha tore up the tactical script at the London Olympics to smash the world record in one of the greatest ever 800 meter runs and emerge as an athletics superstar to rival the sport's biggest names....",
+        "lead_paragraph": "David Rudisha tore up the tactical script at the London Olympics to smash the world record in one of the greatest ever 800 meter runs and emerge as an athletics superstar to rival the sport's biggest names.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rudisha Struggling for Form, Gunning for Greatness",
+          "print_headline": "Rudisha Struggling for Form, Gunning for Greatness"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:16:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579022eb38f0d85ae5114a32",
+        "word_count": "492",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/sports/olympics/20reuters-olympics-rio-athletics-felix.html",
+        "snippet": "Allyson Felix leaned for the finish line; Jenna Prandini lunged....",
+        "lead_paragraph": "Allyson Felix leaned for the finish line; Jenna Prandini lunged.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Felix Regroups for Rio After Lunge Ends Double Dream",
+          "print_headline": "Felix Regroups for Rio After Lunge Ends Double Dream"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:12:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5790223838f0d85ae5114a2f",
+        "word_count": "459",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

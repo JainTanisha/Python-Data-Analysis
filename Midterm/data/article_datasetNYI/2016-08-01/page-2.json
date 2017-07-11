@@ -1,0 +1,428 @@
+{
+  "response": {
+    "meta": {
+      "hits": 731,
+      "time": 45,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/01/arts/dance/arm-warmers-whiskers-and-warm-ups-a-ballerina-becomes-a-jellicle-cat.html",
+        "snippet": "A look behind the scenes during Georgina Pazcoguin\u2019s first opening night on Broadway....",
+        "lead_paragraph": "A look behind the scenes during Georgina Pazcoguin\u2019s first opening night on Broadway.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/arts/dance/03LASTNIGHT-slide-O7QG/03LASTNIGHT-slide-O7QG-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/arts/dance/03LASTNIGHT-slide-O7QG/03LASTNIGHT-slide-O7QG-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/arts/dance/03LASTNIGHT-slide-O7QG/03LASTNIGHT-slide-O7QG-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/arts/dance/03LASTNIGHT-slide-O7QG/03LASTNIGHT-slide-O7QG-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/arts/dance/03LASTNIGHT-slide-O7QG/03LASTNIGHT-slide-O7QG-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/arts/dance/03LASTNIGHT-slide-O7QG/03LASTNIGHT-slide-O7QG-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Arm Warmers, Whiskers and Warm-Ups: A Ballerina Becomes a Jellicle Cat"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Arts / Dance",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "579fce2c38f0d861602e1a8c",
+        "word_count": "13",
+        "slideshow_credits": "Krista Schlueter for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/business/01reuters-uberchina-m-a-didi-analysis.html",
+        "snippet": "China ride-hailing service Didi Chuxing's dominance of Uber Technologies Inc [UBER.UL] in the China market may provide a play book for other regional rivals to fend off the biggest U.S. ride-hailing company, especially in other Asian countries....",
+        "lead_paragraph": "China ride-hailing service Didi Chuxing's dominance of Uber Technologies Inc [UBER.UL] in the China market may provide a play book for other regional rivals to fend off the biggest U.S. ride-hailing company, especially in other Asian countries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Didi's Dominance of Uber in China Offers Roadmap for Ride-Hailing Rivals",
+          "print_headline": "Didi's Dominance of Uber in China Offers Roadmap for Ride-Hailing Rivals"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T22:17:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a002fe38f0d861602e1ae1",
+        "word_count": "815",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/sports/olympics/ap-oly-bko-nigeria-us.html",
+        "snippet": "There were no bumps on this road to Rio....",
+        "lead_paragraph": "There were no bumps on this road to Rio.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Olympic Men's Basketball Team Tops Nigeria in Last Tuneup",
+          "print_headline": "US Olympic Men's Basketball Team Tops Nigeria in Last Tuneup"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T22:06:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a000f938f0d861602e1adf",
+        "word_count": "617",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/business/01reuters-japan-economy-stimulus.html",
+        "snippet": "Japanese Prime Minister Shinzo Abe's cabinet is set to approve on Tuesday 13.5 trillion yen ($132.04 billion) in fiscal steps as part of efforts to revive the flagging economy with cash payouts to low-income earners and infrastructure spending....",
+        "lead_paragraph": "Japanese Prime Minister Shinzo Abe's cabinet is set to approve on Tuesday 13.5 trillion yen ($132.04 billion) in fiscal steps as part of efforts to revive the flagging economy with cash payouts to low-income earners and infrastructure spending.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan Abe's Cabinet to Approve $130 Billion in Fiscal Steps to Boost Growth",
+          "print_headline": "Japan Abe's Cabinet to Approve $130 Billion in Fiscal Steps to Boost Growth"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T22:06:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a000e238f0d861602e1ade",
+        "word_count": "440",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/sports/baseball/ap-bba-royals-rays.html",
+        "snippet": "Danny Duffy couldn't get the no-hitter, but he still came away with a team record....",
+        "lead_paragraph": "Danny Duffy couldn't get the no-hitter, but he still came away with a team record.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Duffy Has 16 Ks in 8 Innings, Royals Beat Rays 3-0",
+          "print_headline": "Duffy Has 16 Ks in 8 Innings, Royals Beat Rays 3-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:58:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ffee338f0d861602e1adb",
+        "word_count": "635",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/world/americas/01reuters-venezuela-animals.html",
+        "snippet": "Venezuela's government denied on Monday that zoo animals were dying of starvation amid a national food shortage, saying they were being lovingly treated \"like family.\"...",
+        "lead_paragraph": "Venezuela's government denied on Monday that zoo animals were dying of starvation amid a national food shortage, saying they were being lovingly treated \"like family.\"    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela Denies Zoo Animals Starving, Says One Happy Family",
+          "print_headline": "Venezuela Denies Zoo Animals Starving, Says One Happy Family"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:58:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ffec838f0d861602e1ada",
+        "word_count": "214",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/us/01reuters-usa-election-trump-fracking.html",
+        "snippet": "Governor of Colorado John Hickenlooper on Monday criticized Donald Trump's comments about fracking, saying the Republican presidential candidate does not completely understand the issue,  the Denver Post reported....",
+        "lead_paragraph": "Governor of Colorado John Hickenlooper on Monday criticized Donald Trump's comments about fracking, saying the Republican presidential candidate does not completely understand the issue,  the Denver Post reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Colorado Governor Says Trump Doesn't Understand Fracking Issue: Denver Post",
+          "print_headline": "Colorado Governor Says Trump Doesn't Understand Fracking Issue: Denver Post"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:53:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ffd5f38f0d861602e1ad8",
+        "word_count": "165",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/fashion/fitness-entrepreneurs-organic-dinner-club.html",
+        "snippet": "At the monthly meetings of their supper club, three entrepreneurs talk friendship, snail cream and why New Yorkers are in the best shape....",
+        "lead_paragraph": "At the monthly meetings of their supper club, three entrepreneurs talk friendship, snail cream and why New Yorkers are in the best shape.",
+        "abstract": "Vanessa Packer of fitness studio modelFIT, Alexandra Bonetti Perez of cardio-dance studio Bari and Sarah Larson-Levey of yoga chain Y7 meet for monthly supper club where they discuss health, beauty and nutrition.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/fashion/04SUPPERCLUB-WEB1SUB/04SUPPERCLUB-WEB1SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/fashion/04SUPPERCLUB-WEB1SUB/04SUPPERCLUB-WEB1SUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/fashion/04SUPPERCLUB-WEB1SUB/04SUPPERCLUB-WEB1SUB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/fashion/04SUPPERCLUB-WEB1SUB/04SUPPERCLUB-WEB1SUB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/fashion/04SUPPERCLUB-WEB1SUB/04SUPPERCLUB-WEB1SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/fashion/04SUPPERCLUB-WEB1SUB/04SUPPERCLUB-WEB1SUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Over (Organic) Dinner, These Fitness Studio Competitors Work It Out",
+          "print_headline": "Over (Organic) Dinner, Fitness Mavens Work It Out"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Exercise"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Diet and Nutrition"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bonetti Perez, Alexandra"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Packer, Vanessa"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Larson-Levey, Sarah"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Yoga"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Clubs"
+          }
+        ],
+        "pub_date": "2016-08-01T21:53:09+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Marisa",
+              "rank": 1,
+              "lastname": "MELTZER"
+            }
+          ],
+          "original": "By MARISA MELTZER"
+        },
+        "type_of_material": "News",
+        "_id": "579fc4c838f0d861602e1a7b",
+        "word_count": "813",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/business/01reuters-volkswagen-southkorea.html",
+        "snippet": "The government revoked certification for 83,000 Volkswagen, Audi and Bentley models, and fined Volkswagen $16 million in the emissions scandal....",
+        "lead_paragraph": "The government revoked certification for 83,000 Volkswagen, Audi and Bentley models, and fined Volkswagen $16 million in the emissions scandal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Korea Suspends Sales of 32 Volkswagen Group Models in Emissions Probe",
+          "print_headline": "South Korea Suspends Sales of 32 Volkswagen, Audi, Bentley Models in Emissions Probe"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:50:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ffca338f0d861602e1ad6",
+        "word_count": "226",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/world/americas/ap-soc-argentina-national-coach.html",
+        "snippet": "Edgardo Bauza, a former Argentine player who has been the coach of the Sao Paulo soccer club in Brazil, was named Tuesday to head Argentina's national team....",
+        "lead_paragraph": "Edgardo Bauza, a former Argentine player who has been the coach of the Sao Paulo soccer club in Brazil, was named Tuesday to head Argentina's national team.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bauza Is New Coach for Argentina's National Soccer Team",
+          "print_headline": "Bauza Is New Coach for Argentina's National Soccer Team"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:45:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ffc1338f0d861602e1ad5",
+        "word_count": "229",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

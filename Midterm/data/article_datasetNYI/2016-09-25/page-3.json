@@ -1,0 +1,563 @@
+{
+  "response": {
+    "meta": {
+      "hits": 549,
+      "time": 36,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/us/ap-bbo-baseball-deaths.html",
+        "snippet": "A look at some of the notable deaths of active Major League Baseball players in recent years:...",
+        "lead_paragraph": "A look at some of the notable deaths of active Major League Baseball players in recent years:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Some Notable Deaths of Active MLB Players",
+          "print_headline": "Some Notable Deaths of Active MLB Players"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T22:34:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8517895d0e021d798848b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/sports/ncaafootball/louisiana-state-fires-coach-les-miles.html",
+        "snippet": "He won a national title. He finished in the top 10 five times. He ate grass. He walks away a rich man four games into his 12th season....",
+        "lead_paragraph": "He won a national title. He finished in the top 10 five times. He ate grass. He walks away a rich man four games into his 12th season.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/sports/26LSUweb/26LSUweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/sports/26LSUweb/26LSUweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/sports/26LSUweb/26LSUweb-articleLarge.jpg",
+            "height": 421,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/sports/26LSUweb/26LSUweb-articleLarge.jpg",
+              "xlargeheight": "421"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/sports/26LSUweb/26LSUweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/sports/26LSUweb/26LSUweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "L.S.U. Fires Les Miles After Failure Most Programs Would Love to Experience",
+          "print_headline": "Blown Finish Spells the End for L.S.U.\u2019s Miles"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football (College)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Coaches and Managers"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Louisiana State University"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Miles, Les"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Saban, Nick"
+          }
+        ],
+        "pub_date": "2016-09-25T22:28:13+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Marc",
+              "rank": 1,
+              "lastname": "TRACY"
+            }
+          ],
+          "original": "By MARC TRACY"
+        },
+        "type_of_material": "News",
+        "_id": "57e84f8795d0e021d7988488",
+        "word_count": "761",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/sports/olympics/25reuters-olympics-usa-protests.html",
+        "snippet": "Tommie Smith and John Carlos, the two African-American athletes sent home from the 1968 Olympic Games for their raised-fist protest on the medal podium, will receive a long-awaited moment of redemption at a U.S. team event at the White House this ...",
+        "lead_paragraph": "Tommie Smith and John Carlos, the two African-American athletes sent home from the 1968 Olympic Games for their raised-fist protest on the medal podium, will receive a long-awaited moment of redemption at a U.S. team event at the White House this week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Raised-Fist Olympians Punished in 1968 Will Be Received at White House",
+          "print_headline": "Raised-Fist Olympians Punished in 1968 Will Be Received at White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T22:18:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e84d3e95d0e021d7988486",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/sports/golf/ap-glf-webcom-tour.html",
+        "snippet": "Grayson Murray won the Nationwide Children's Hospital Championship on Sunday and Cameron Smith and Kevin Tway wrapped up PGA Tour cards....",
+        "lead_paragraph": "Grayson Murray won the Nationwide Children's Hospital Championship on Sunday and Cameron Smith and Kevin Tway wrapped up PGA Tour cards.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Grayson Murray Wins Web.com Tour Event in Ohio",
+          "print_headline": "Grayson Murray Wins Web.com Tour Event in Ohio"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T22:09:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e84be795d0e021d7988485",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/business/25reuters-france-cdc-lemas.html",
+        "snippet": "French state-owned bank Caisse des Depots (CDC) is planning to sell shares worth hundreds of millions of euros in some of the country's largest companies, its Chief Executive Pierre-Rene Lemas said in an interview with the Financial Times....",
+        "lead_paragraph": "French state-owned bank Caisse des Depots (CDC) is planning to sell shares worth hundreds of millions of euros in some of the country's largest companies, its Chief Executive Pierre-Rene Lemas said in an interview with the Financial Times.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "France's CDC Planning Multiple Stake Sales-FT",
+          "print_headline": "France's CDC Planning Multiple Stake Sales-FT"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T22:09:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e84bd595d0e021d7988484",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/sports/baseball/jose-fernandez-boating-accident-miami-marlins.html",
+        "snippet": "Fernandez, who was once jailed in Cuba for trying to defect, had a zest that animated his team, the Marlins, and all of baseball. He died in a boat crash that was discovered early Sunday....",
+        "lead_paragraph": "Fernandez, who was once jailed in Cuba for trying to defect, had a zest that animated his team, the Marlins, and all of baseball. He died in a boat crash that was discovered early Sunday.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/sports/26KEPNERweb1/26KEPNERweb1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/sports/26KEPNERweb1/26KEPNERweb1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/sports/26KEPNERweb1/26KEPNERweb1-articleLarge.jpg",
+            "height": 384,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/sports/26KEPNERweb1/26KEPNERweb1-articleLarge.jpg",
+              "xlargeheight": "384"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/sports/26KEPNERweb1/26KEPNERweb1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/sports/26KEPNERweb1/26KEPNERweb1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "After His Despair, Jose Fernandez Forged an Ebullient Life",
+          "content_kicker": "On Baseball",
+          "kicker": "On Baseball",
+          "print_headline": "Rare Talent, With Passion to Match"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Fernandez, Jose (1992-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Miami Marlins"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Maritime Accidents and Safety"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          }
+        ],
+        "pub_date": "2016-09-25T22:11:04+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "contributor": "James Wagner contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tyler",
+              "rank": 1,
+              "lastname": "KEPNER"
+            }
+          ],
+          "original": "By TYLER KEPNER"
+        },
+        "type_of_material": "News",
+        "_id": "57e84b8395d0e021d7988483",
+        "word_count": "1191",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/business/25reuters-autos-connected.html",
+        "snippet": "German digital map maker HERE will introduce a new set of traffic services this week that allows drivers to see for themselves what live road conditions are like miles ahead using data from competing automakers, an industry first....",
+        "lead_paragraph": "German digital map maker HERE will introduce a new set of traffic services this week that allows drivers to see for themselves what live road conditions are like miles ahead using data from competing automakers, an industry first.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "HERE, Automakers Team Up to Share Data on Traffic Conditions",
+          "print_headline": "HERE, Automakers Team Up to Share Data on Traffic Conditions"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T22:07:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e84b2595d0e021d7988482",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/25/us/politics/ap-us-dc-hotels-capitol-mix-up.html",
+        "snippet": "The photo on several District of Columbia hotel websites was supposed to entice visitors with the beauty of the capitol building at sunset....",
+        "lead_paragraph": "The photo on several District of Columbia hotel websites was supposed to entice visitors with the beauty of the capitol building at sunset.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Capitol Mix-Up: DC Hotels Use Image of Wisconsin Statehouse",
+          "print_headline": "Capitol Mix-Up: DC Hotels Use Image of Wisconsin Statehouse"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T22:04:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e84a7495d0e021d7988480",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/sports/football/carolina-panthers-charlotte-shooting-keith-scott.html",
+        "snippet": "The fatal police shooting of Keith Lamont Scott in Charlotte, N.C., brought a different tenor to the Carolina Panthers\u2019 game....",
+        "lead_paragraph": "The fatal police shooting of Keith Lamont Scott in Charlotte, N.C., brought a different tenor to the Carolina Panthers\u2019 game.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/sports/26MACURweb1/26MACURweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/sports/26MACURweb1/26MACURweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/sports/26MACURweb1/26MACURweb1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/sports/26MACURweb1/26MACURweb1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/sports/26MACURweb1/26MACURweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/sports/26MACURweb1/26MACURweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Are You Ready for Some Football \u2026 and Riot Gear and Pepper Spray?",
+          "content_kicker": "Sports of The Times",
+          "kicker": "Sports of The Times",
+          "print_headline": " Before  a Kickoff,  Riot Officers  Suit Up"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Carolina Panthers"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Charlotte (NC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "National Anthems"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kaepernick, Colin"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scott, Keith Lamont (1973-2016)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Newton, Cameron J"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          }
+        ],
+        "pub_date": "2016-09-25T22:03:38+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Juliet",
+              "rank": 1,
+              "lastname": "MACUR"
+            }
+          ],
+          "original": "By JULIET MACUR"
+        },
+        "type_of_material": "News",
+        "_id": "57e849c295d0e021d798847f",
+        "word_count": "1093",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/25/sports/golf/25reuters-golf-pga-playoff.html",
+        "snippet": "Northern Irishman Rory McIlroy capped a stunning comeback with a birdie at the fourth playoff hole to win the season-ending Tour Championship on Sunday, along with FedExCup honors and the mind-boggling $10 million bonus....",
+        "lead_paragraph": "Northern Irishman Rory McIlroy capped a stunning comeback with a birdie at the fourth playoff hole to win the season-ending Tour Championship on Sunday, along with FedExCup honors and the mind-boggling $10 million bonus.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rory McIlroy Wins Tour Championship, $10 Million Bonus",
+          "print_headline": "Rory McIlroy Wins Tour Championship, $10 Million Bonus"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-25T21:55:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e8484f95d0e021d798847c",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

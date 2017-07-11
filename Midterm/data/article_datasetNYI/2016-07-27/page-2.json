@@ -1,0 +1,449 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 89,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/us/27reuters-usa-election-bloomberg.html",
+        "snippet": "New York media mogul Michael Bloomberg assailed fellow billionaire Donald Trump on Wednesday, calling his U.S. presidential race a \"con\" and ripping into his history of bankruptcies and lawsuits....",
+        "lead_paragraph": "New York media mogul Michael Bloomberg assailed fellow billionaire Donald Trump on Wednesday, calling his U.S. presidential race a \"con\" and ripping into his history of bankruptcies and lawsuits.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "In Clash of Billionaires, Bloomberg Calls Trump White House Race 'a Con'",
+          "print_headline": "In Clash of Billionaires, Bloomberg Calls Trump White House Race 'a Con'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:30:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57996f0238f0d87cf647e326",
+        "word_count": "430",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-fatal-plane-crash.html",
+        "snippet": "Authorities say a small private plane crashed at the airport in the Northern California town of Columbia, killing all four people on board....",
+        "lead_paragraph": "Authorities say a small private plane crashed at the airport in the Northern California town of Columbia, killing all four people on board.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "4 People Killed in California Small Plane Crash at Airport",
+          "print_headline": "4 People Killed in California Small Plane Crash at Airport"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:28:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57996e6338f0d87cf647e325",
+        "word_count": "110",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/world/asia/ap-as-china-passport-defaced.html",
+        "snippet": "China is asking Vietnam to investigate reports that a border agent at the Ho Chi Minh City airport defaced a Chinese passport after images in media reports show the words \"f--- you\" scribbled twice over maps of the contested South China Sea....",
+        "lead_paragraph": "China is asking Vietnam to investigate reports that a border agent at the Ho Chi Minh City airport defaced a Chinese passport after images in media reports show the words \"f--- you\" scribbled twice over maps of the contested South China Sea.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "China Asks Vietnam to Investigate Defaced Passport",
+          "print_headline": "China Asks Vietnam to Investigate Defaced Passport"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:26:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57996dac38f0d87cf647e324",
+        "word_count": "253",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/politics/ap-us-dem-2016-convention-biden.html",
+        "snippet": "Leveling a blistering attack on Donald Trump, Vice President Joe Biden put on his rhetorical hat as \"middle-class Joe\" Wednesday and told Democratic delegates and millions of television viewers that the billionaire businessman \"has no clue\" about ...",
+        "lead_paragraph": "Leveling a blistering attack on Donald Trump, Vice President Joe Biden put on his rhetorical hat as \"middle-class Joe\" Wednesday and told Democratic delegates and millions of television viewers that the billionaire businessman \"has no clue\" about the needs of working-class people or what makes the nation great.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Biden Says Trump Has 'No Clue' About Needs of Middle Class",
+          "print_headline": "Biden Says Trump Has 'No Clue' About Needs of Middle Class"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:19:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57996c5338f0d87cf647e321",
+        "word_count": "547",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking.html",
+        "snippet": "How U.S. intelligence officials have connected the Russian government to an attempt to disrupt the 2016 presidential election....",
+        "lead_paragraph": "How U.S. intelligence officials have connected the Russian government to an attempt to disrupt the 2016 presidential election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking-1469656463301/trail-of-dnc-emails-russia-hacking-1469656463301-thumbWide-v4.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking-1469656463301/trail-of-dnc-emails-russia-hacking-1469656463301-thumbWide-v4.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking-1469656463301/trail-of-dnc-emails-russia-hacking-1469656463301-articleLarge-v4.png",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking-1469656463301/trail-of-dnc-emails-russia-hacking-1469656463301-articleLarge-v4.png",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking-1469656463301/trail-of-dnc-emails-russia-hacking-1469656463301-thumbStandard-v6.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/27/us/politics/trail-of-dnc-emails-russia-hacking-1469656463301/trail-of-dnc-emails-russia-hacking-1469656463301-thumbStandard-v6.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Following the Links From Russian Hackers to the U.S. Election"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cyberwarfare and Defense"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic National Committee"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "WikiLeaks"
+          }
+        ],
+        "pub_date": "2016-07-27T22:15:32+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "5799328138f0d87cf647e2b1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/31/books/review/erik-axl-sund-crow-girl.html",
+        "snippet": "A detective seeks a therapist\u2019s help in stopping a killer\u2019s gruesome spree in Erik Axl Sund\u2019s \u201cThe Crow Girl.\u201d...",
+        "lead_paragraph": "A detective seeks a therapist\u2019s help in stopping a killer\u2019s gruesome spree in Erik Axl Sund\u2019s \u201cThe Crow Girl.\u201d",
+        "abstract": "Benjamin Percy reviews book The Crow Girl written by Erik Axl Sund.",
+        "print_page": "23",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/31/books/review/0731-BKS-Percy/0731-BKS-Percy-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/31/books/review/0731-BKS-Percy/0731-BKS-Percy-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/31/books/review/0731-BKS-Percy/0731-BKS-Percy-articleLarge-v2.jpg",
+            "height": 637,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/31/books/review/0731-BKS-Percy/0731-BKS-Percy-articleLarge-v2.jpg",
+              "xlargeheight": "637"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/31/books/review/0731-BKS-Percy/0731-BKS-Percy-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/31/books/review/0731-BKS-Percy/0731-BKS-Percy-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Serial Killer Stalks Stockholm in This Creepy Nordic Noir",
+          "content_kicker": "Fiction",
+          "kicker": "Fiction",
+          "print_headline": "Serial Swede"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sund, Erik Axl (Author)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Crow Girl (Book)"
+          }
+        ],
+        "pub_date": "2016-07-27T22:15:05Z",
+        "document_type": "article",
+        "news_desk": "BookReview",
+        "section_name": "Books",
+        "subsection_name": "Book Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Benjamin",
+              "rank": 1,
+              "lastname": "PERCY"
+            }
+          ],
+          "original": "By BENJAMIN PERCY"
+        },
+        "type_of_material": "Review",
+        "_id": "5799326c38f0d87cf647e2af",
+        "word_count": "1062",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-tv-gilmore-girls.html",
+        "snippet": "Melissa McCarthy answered the call for Netflix's \"Gilmore Girls\" sequel and made magic again with star Lauren Graham, the show's creator said....",
+        "lead_paragraph": "Melissa McCarthy answered the call for Netflix's \"Gilmore Girls\" sequel and made magic again with star Lauren Graham, the show's creator said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No Spoilers, but 'Gilmore Girls' Star Says Chemistry Is Back",
+          "print_headline": "No Spoilers, but 'Gilmore Girls' Star Says Chemistry Is Back"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:07:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5799698038f0d87cf647e31f",
+        "word_count": "197",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/baseball/ap-bbo-rockies-orioles.html",
+        "snippet": "In a duel between rookie right-handers, Jon Gray outpitched Dylan Bundy to provide the Colorado Rockies with a feel-good series win....",
+        "lead_paragraph": "In a duel between rookie right-handers, Jon Gray outpitched Dylan Bundy to provide the Colorado Rockies with a feel-good series win.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hundley, Dahl Homer as Rockies Beat Orioles 3-1 Behind Gray",
+          "print_headline": "Hundley, Dahl Homer as Rockies Beat Orioles 3-1 Behind Gray"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:04:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579968d938f0d87cf647e31e",
+        "word_count": "659",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/baseball/ap-bbo-mariners-pirates.html",
+        "snippet": "Gerrit Cole never obsessed about pitching a complete game, but was happy to get his first one....",
+        "lead_paragraph": "Gerrit Cole never obsessed about pitching a complete game, but was happy to get his first one.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cole Pitches 3-Hitter, Pirates Rout Mariners 10-1",
+          "print_headline": "Cole Pitches 3-Hitter, Pirates Rout Mariners 10-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:02:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579968d738f0d87cf647e31d",
+        "word_count": "864",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-sports-anchor-shot.html",
+        "snippet": "A jury on Wednesday convicted a house painter of premeditated attempted murder for the shooting of a San Diego TV sports anchor last year....",
+        "lead_paragraph": "A jury on Wednesday convicted a house painter of premeditated attempted murder for the shooting of a San Diego TV sports anchor last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Convicted of Attempted Murder of San Diego Sports Anchor",
+          "print_headline": "Man Convicted of Attempted Murder of San Diego Sports Anchor"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:03:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579968ba38f0d87cf647e31c",
+        "word_count": "198",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,588 @@
+{
+  "response": {
+    "meta": {
+      "hits": 878,
+      "time": 51,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/business/10reuters-investment-funds-thirdpoint.html",
+        "snippet": "Dan Loeb's Third Point hedge fund took a new share stake in Apple Inc, Visa Inc and Dell Technologies Inc during the third quarter, according to regulatory filings late on Thursday....",
+        "lead_paragraph": "Dan Loeb's Third Point hedge fund took a new share stake in Apple Inc, Visa Inc and Dell Technologies Inc during the third quarter, according to regulatory filings late on Thursday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Loeb's Third Point Takes Share Stake in Apple, Visa and Dell",
+          "print_headline": "Loeb's Third Point Takes Share Stake in Apple, Visa and Dell"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:00:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fc2395d0e0204d55fd1b",
+        "word_count": "196",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/10/world/americas/10reuters-chile-airplane.html",
+        "snippet": "A plane traveling between Santiago and the southern Chilean city of Punta Arenas had to return to the capital and make an emergency landing on Thursday afternoon after a bomb threat, authorities said....",
+        "lead_paragraph": "A plane traveling between Santiago and the southern Chilean city of Punta Arenas had to return to the capital and make an emergency landing on Thursday afternoon after a bomb threat, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Chilean Plane Makes Emergency Landing After Bomb Threat",
+          "print_headline": "Chilean Plane Makes Emergency Landing After Bomb Threat"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T23:00:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fc1c95d0e0204d55fd1a",
+        "word_count": "116",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/t-magazine/design/herve-van-der-straeten-furniture-design.html",
+        "snippet": "Herv\u00e9 Van der Straeten transforms heavy metals into works of surprising delicacy....",
+        "lead_paragraph": "Herv\u00e9 Van der Straeten transforms heavy metals into works of surprising delicacy.",
+        "abstract": null,
+        "print_page": "95",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/t-magazine/gold-furniture-slide-G33W/gold-furniture-slide-G33W-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/t-magazine/gold-furniture-slide-G33W/gold-furniture-slide-G33W-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/t-magazine/gold-furniture-slide-G33W/gold-furniture-slide-G33W-articleLarge.jpg",
+            "height": 436,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/t-magazine/gold-furniture-slide-G33W/gold-furniture-slide-G33W-articleLarge.jpg",
+              "xlargeheight": "436"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/t-magazine/gold-furniture-slide-G33W/gold-furniture-slide-G33W-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/t-magazine/gold-furniture-slide-G33W/gold-furniture-slide-G33W-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "One Designer\u2019s Unexpected, Powerfully Lyrical Furniture",
+          "content_kicker": "By Design",
+          "print_headline": "Gold Rush"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Furniture"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Design"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gold"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Metals and Minerals"
+          }
+        ],
+        "pub_date": "2016-11-10T22:59:50Z",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Design & Interiors",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dana",
+              "rank": 1,
+              "lastname": "THOMAS"
+            }
+          ],
+          "original": "By DANA THOMAS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fbf195d0e0204d55fd19",
+        "word_count": "624",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/10/t-magazine/high-class-geometry.html",
+        "snippet": "The elegant furniture of the French designer Herv\u00e9 Van der Straeten....",
+        "lead_paragraph": "The elegant furniture of the French designer Herv\u00e9 Van der Straeten.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/t-magazine/gold-furniture-slide-2HB3/gold-furniture-slide-2HB3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/t-magazine/gold-furniture-slide-2HB3/gold-furniture-slide-2HB3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/t-magazine/gold-furniture-slide-2HB3/gold-furniture-slide-2HB3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/t-magazine/gold-furniture-slide-2HB3/gold-furniture-slide-2HB3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/t-magazine/gold-furniture-slide-2HB3/gold-furniture-slide-2HB3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/t-magazine/gold-furniture-slide-2HB3/gold-furniture-slide-2HB3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "High Class Geometry"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gold"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Metals and Minerals"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Furniture"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Design"
+          }
+        ],
+        "pub_date": "2016-11-10T22:59:46Z",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5824fbf095d0e0204d55fd18",
+        "word_count": "11",
+        "slideshow_credits": "Left: Sabine Mirlesse. Right: courtesy of Herv\u00e9 Van der Straeten, photograph by Fran\u00e7ois Halard"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/10/sports/ap-mma-ufc-205.html",
+        "snippet": "Conor McGregor looked he may have strolled straight off a New York fashion show catwalk in his white Gucci mink coat as he raised a steel chair high over his head and took aim on Eddie Alvarez's skull....",
+        "lead_paragraph": "Conor McGregor looked he may have strolled straight off a New York fashion show catwalk in his white Gucci mink coat as he raised a steel chair high over his head and took aim on Eddie Alvarez's skull.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McGregor Raises a Chair to UFC's Turn in Its New York Debut",
+          "print_headline": "McGregor Raises a Chair to UFC's Turn in Its New York Debut"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T22:58:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fb9d95d0e0204d55fd17",
+        "word_count": "870",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/10/us/politics/ap-us-medicare-premiums.html",
+        "snippet": "Medicare has announced the \"Part B\" premium for 2017, and for most beneficiaries it's a modest increase....",
+        "lead_paragraph": "Medicare has announced the \"Part B\" premium for 2017, and for most beneficiaries it's a modest increase.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Medicare Premium to Rise Modestly for Most Beneficiaries",
+          "print_headline": "Medicare Premium to Rise Modestly for Most Beneficiaries"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T22:58:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fb8c95d0e0204d55fd16",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/11/us/charles-wolf-jr-died-pentagon-papers.html",
+        "snippet": "Mr. Wolf, who worked at the RAND Corporation, was the supervisor of Daniel Ellsberg and tried to oust him in 1969 before he leaked the secret documents....",
+        "lead_paragraph": "Mr. Wolf, who worked at the RAND Corporation, was the supervisor of Daniel Ellsberg and tried to oust him in 1969 before he leaked the secret documents.",
+        "abstract": "Charles Wolf Jr, prescient RAND economist who denounced coworker Daniel Ellsberg for releasing RAND reports publicly known as Pentagon Papers chronicling American participation in Vietnam War, dies at age 92.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-articleLarge.jpg",
+            "height": 599,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-articleLarge.jpg",
+              "xlargeheight": "599"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/us/10WOLF-OBIT-WEB/10WOLF-OBIT-WEB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Charles Wolf Jr., Who Clashed With Pentagon Papers Leaker, Dies at 92",
+          "print_headline": "Charles Wolf Jr. Dies at 92; Clashed With Papers\u2019 Leaker"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Wolf, Charles Jr (1924-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Rand Corp"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ellsberg, Daniel"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pentagon Papers"
+          }
+        ],
+        "pub_date": "2016-11-10T22:57:47+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "ROBERTS"
+            }
+          ],
+          "original": "By SAM ROBERTS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5824fb7295d0e0204d55fd15",
+        "word_count": "650",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/13/nyregion/spinning-goes-to-the-movies-at-imaxshift.html",
+        "snippet": "At a fitness studio in the Dumbo section of Brooklyn, cyclists work out in front of a huge movie screen....",
+        "lead_paragraph": "At a fitness studio in the Dumbo section of Brooklyn, cyclists work out in front of a huge movie screen.",
+        "abstract": "Fit City column; ImaxShift cycling studio in Dumbo, Brooklyn, offers fitness spinning classes with special IMAX-created sound and scenery that simulates biking through woods, streams or outer space.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/13/nyregion/13WIP1A/13WIP1-1478727567996-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/13/nyregion/13WIP1A/13WIP1-1478727567996-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/13/nyregion/13WIP1A/13WIP1-1478727567996-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/13/nyregion/13WIP1A/13WIP1-1478727567996-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/13/nyregion/13WIP1A/13WIP1-1478727567996-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/13/nyregion/13WIP1A/13WIP1-1478727567996-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Spinning Goes to the Movies at ImaxShift",
+          "content_kicker": "Fit City",
+          "kicker": "Fit City",
+          "print_headline": "Spinning Goes to the Movies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bicycles and Bicycling"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Imax (Movie Process)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Dumbo (Brooklyn, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Exercise"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-11-10T22:55:03+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alyson",
+              "rank": 1,
+              "lastname": "KRUEGER"
+            }
+          ],
+          "original": "By ALYSON KRUEGER"
+        },
+        "type_of_material": "News",
+        "_id": "5824face95d0e0204d55fd14",
+        "word_count": "868",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/10/us/ap-us-world-chess-lawsuit.html",
+        "snippet": "Websites showing moves almost as they occur at the World Chess Championship can continue to do so over the objections of the tournament organizers, a judge ruled Thursday, a day before the tournament is to begin....",
+        "lead_paragraph": "Websites showing moves almost as they occur at the World Chess Championship can continue to do so over the objections of the tournament organizers, a judge ruled Thursday, a day before the tournament is to begin.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Refuses to Block Chess Websites From Showing Moves",
+          "print_headline": "Judge Refuses to Block Chess Websites From Showing Moves"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T22:51:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fa1695d0e0204d55fd12",
+        "word_count": "385",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/10/us/ap-us-fire-department-arrests.html",
+        "snippet": "A volunteer firefighter accused of sexually assaulting a new recruit in a \"rite of initiation\" at a Texas firehouse has pleaded guilty to misdemeanor assault....",
+        "lead_paragraph": "A volunteer firefighter accused of sexually assaulting a new recruit in a \"rite of initiation\" at a Texas firehouse has pleaded guilty to misdemeanor assault.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Texas Firefighter Pleads Guilty to Assault in Hazing Case",
+          "print_headline": "Texas Firefighter Pleads Guilty to Assault in Hazing Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-10T22:51:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5824fa1c95d0e0204d55fd13",
+        "word_count": "109",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

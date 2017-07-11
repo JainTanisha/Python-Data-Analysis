@@ -1,0 +1,389 @@
+{
+  "response": {
+    "meta": {
+      "hits": 587,
+      "time": 74,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/02/sports/baseball/ap-bba-blue-jays-clinch.html",
+        "snippet": "The Toronto Blue Jays have clinched an AL wild-card spot....",
+        "lead_paragraph": "The Toronto Blue Jays have clinched an AL wild-card spot.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Blue Jays Clinch AL Wild-Card Spot",
+          "print_headline": "Blue Jays Clinch AL Wild-Card Spot"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T22:06:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f185b395d0e021d7989ac9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/02/business/02reuters-britain-sterling-eu.html",
+        "snippet": "Sterling &lt;GBP=D4&gt; traded half a U.S. cent lower in early Asia on Monday after British Prime Minister Theresa May said she would trigger the process for the UK to leave the European Union by the end of March....",
+        "lead_paragraph": "Sterling &lt;GBP=D4&gt; traded half a U.S. cent lower in early Asia on Monday after British Prime Minister Theresa May said she would trigger the process for the UK to leave the European Union by the end of March.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sterling Falls in Asia After PM Sets Brexit Deadline",
+          "print_headline": "Sterling Falls in Asia After PM Sets Brexit Deadline"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T22:05:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f184f095d0e021d7989ac8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004683057/unraveling-zero-tolerance.html",
+        "snippet": "Over the last 30 years, schools across the country have enacted tough disciplinary policies. Did they go too far?...",
+        "lead_paragraph": "Over the last 30 years, schools across the country have enacted tough disciplinary policies. Did they go too far?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/03/multimedia/03retro-zerotolerance/retro-zerotolerance-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/03/multimedia/03retro-zerotolerance/retro-zerotolerance-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/03/multimedia/03retro-zerotolerance/retro-zerotolerance-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/03/multimedia/03retro-zerotolerance/retro-zerotolerance-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/03/multimedia/03retro-zerotolerance/retro-zerotolerance-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/03/multimedia/03retro-zerotolerance/retro-zerotolerance-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Unraveling Zero Tolerance"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "School Discipline (Students)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gun Control"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Holder, Eric H Jr"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clark, Joe Louis (1938- )"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Eastside High School (Paterson, NJ)"
+          }
+        ],
+        "pub_date": "2016-10-02T22:03:29+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Retro",
+              "rank": 1,
+              "lastname": "REPORT"
+            }
+          ],
+          "original": "By RETRO REPORT"
+        },
+        "type_of_material": "Video",
+        "_id": "57f1844895d0e021d7989ac6",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/02/world/europe/02reuters-pope-gender.html",
+        "snippet": "Pope Francis said on Sunday that homosexuals and transsexuals should be treated with respect but that teaching gender theory is unacceptable \"indoctrination\" of young people....",
+        "lead_paragraph": "Pope Francis said on Sunday that homosexuals and transsexuals should be treated with respect but that teaching gender theory is unacceptable \"indoctrination\" of young people.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pope Says Respect Gays and Transsexuals, Questions Gender Theory",
+          "print_headline": "Pope Says Respect Gays and Transsexuals, Questions Gender Theory"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T22:01:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f1843a95d0e021d7989ac5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/02/sports/baseball/ap-bbn-mets-phillies.html",
+        "snippet": "Ryan Howard's farewell game with the Philadelphia Phillies was filled with standing ovations and ended with a win....",
+        "lead_paragraph": "Ryan Howard's farewell game with the Philadelphia Phillies was filled with standing ovations and ended with a win.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Phillies Beat Mets 5-2 in Ryan Howard's Farewell",
+          "print_headline": "Phillies Beat Mets 5-2 in Ryan Howard's Farewell"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T21:57:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f183ac95d0e021d7989ac4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/02/world/europe/ap-eu-rel-pope-us-election.html",
+        "snippet": "Pope Francis has some advice for American Catholics struggling to choose a president: Study the issues, pray, and then vote your conscience....",
+        "lead_paragraph": "Pope Francis has some advice for American Catholics struggling to choose a president: Study the issues, pray, and then vote your conscience.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pope to US Catholics: Study, Pray, Vote Your Conscience",
+          "print_headline": "Pope to US Catholics: Study, Pray, Vote Your Conscience"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T21:56:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f182fd95d0e021d7989ac2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/02/world/europe/ap-eu-rel-pope-travel.html",
+        "snippet": "Pope Francis will visit Portugal next year and is \"almost sure\" he'll go to India and Bangladesh. Still to be determined is where in Africa he'll visit and whether Colombia's peace accord is \"certain, certain, certain\" enough to enable a papal vis...",
+        "lead_paragraph": "Pope Francis will visit Portugal next year and is \"almost sure\" he'll go to India and Bangladesh. Still to be determined is where in Africa he'll visit and whether Colombia's peace accord is \"certain, certain, certain\" enough to enable a papal visit.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pope in 2017: Portugal, India, Bangladesh, Colombia, Africa",
+          "print_headline": "Pope in 2017: Portugal, India, Bangladesh, Colombia, Africa"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T21:56:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f182f695d0e021d7989ac1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/02/sports/baseball/ap-bba-orioles-yankees.html",
+        "snippet": "Buck Showalter was standing in his office at Yankee Stadium when Baltimore reliever Tommy Hunter popped in and grabbed the manager's arm, nudging him toward the thumping party in the clubhouse across the hall....",
+        "lead_paragraph": "Buck Showalter was standing in his office at Yankee Stadium when Baltimore reliever Tommy Hunter popped in and grabbed the manager's arm, nudging him toward the thumping party in the clubhouse across the hall.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Orioles Grab Playoff Spot; Wieters, Gausman Help Beat Yanks",
+          "print_headline": "Orioles Grab Playoff Spot; Wieters, Gausman Help Beat Yanks"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T21:51:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f1824095d0e021d7989ac0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/02/us/02reuters-usa-election-clinton.html",
+        "snippet": "Hillary Clinton told a majority-black church in North Carolina on Sunday that she knows her grandchildren are growing up in a different world than many black youth in the U.S. who are concerned about police shootings and gun violence in their comm...",
+        "lead_paragraph": "Hillary Clinton told a majority-black church in North Carolina on Sunday that she knows her grandchildren are growing up in a different world than many black youth in the U.S. who are concerned about police shootings and gun violence in their communities.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton: &#8216;My Worries Are Not the Same as Black Grandmothers&#8217;",
+          "print_headline": "Clinton: \u2018My Worries Are Not the Same as Black Grandmothers\u2019"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T21:49:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f1816d95d0e021d7989abe",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/02/sports/baseball/ap-bba-indians-royals.html",
+        "snippet": "Indians manager Terry Francona sat in the visiting clubhouse at Kauffman Stadium, moments after a 3-2 victory over the Kansas City Royals, and knew only that Boston awaited his club in the postseason....",
+        "lead_paragraph": "Indians manager Terry Francona sat in the visiting clubhouse at Kauffman Stadium, moments after a 3-2 victory over the Kansas City Royals, and knew only that Boston awaited his club in the postseason.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lindor Helps Indians Top Royals 3-2 in Regular-Season Finale",
+          "print_headline": "Lindor Helps Indians Top Royals 3-2 in Regular-Season Finale"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-02T21:47:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f180cf95d0e021d7989abd",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

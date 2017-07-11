@@ -1,0 +1,433 @@
+{
+  "response": {
+    "meta": {
+      "hits": 735,
+      "time": 66,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/business/28reuters-japan-economy-spending.html",
+        "snippet": "Japanese household spending fell 0.4 percent in October from a year earlier in price-adjusted real terms, government data showed on Tuesday....",
+        "lead_paragraph": "Japanese household spending fell 0.4 percent in October from a year earlier in price-adjusted real terms, government data showed on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan October Household Spending Falls 0.4 Percent vs Year Ago",
+          "print_headline": "Japan October Household Spending Falls 0.4 Percent vs Year Ago"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:48:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cc25a95d0e03926072e71",
+        "word_count": "44",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-mi-shuttered-kmarts.html",
+        "snippet": "Several Kmart stores in Michigan are preparing to close next month, following dozens of others that have shuttered in the state since the company filed for Chapter 11 bankruptcy protection nearly 15 years ago....",
+        "lead_paragraph": "Several Kmart stores in Michigan are preparing to close next month, following dozens of others that have shuttered in the state since the company filed for Chapter 11 bankruptcy protection nearly 15 years ago.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Several More Kmart Stores to Close in Michigan Next Month",
+          "print_headline": "Several More Kmart Stores to Close in Michigan Next Month"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:45:57+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cc1c095d0e03926072e6f",
+        "word_count": "256",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/world/americas/28reuters-peru-drugtrafficking.html",
+        "snippet": "Drug trafficking from Peruvian ports has risen in recent years as criminal networks groom dockworkers to smuggle packets of cocaine into shipping containers, the country's new anti-narcotics agency, Devida, said on Monday....",
+        "lead_paragraph": "Drug trafficking from Peruvian ports has risen in recent years as criminal networks groom dockworkers to smuggle packets of cocaine into shipping containers, the country's new anti-narcotics agency, Devida, said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Drug Smuggling at Ports in Peru Rises as Dockworkers Lured: Government",
+          "print_headline": "Drug Smuggling at Ports in Peru Rises as Dockworkers Lured: Government"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:45:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cc1a895d0e03926072e6e",
+        "word_count": "394",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/world/asia/28reuters-afghanistan-usa-helicopters.html",
+        "snippet": "The U.S. military wants to replace Afghanistan's well-worn fleet of Russian helicopters with American-made aircraft, according to a new budget proposal, a decision aimed at reducing the Afghan air force's decades-long reliance on Russian equipment...",
+        "lead_paragraph": "The U.S. military wants to replace Afghanistan's well-worn fleet of Russian helicopters with American-made aircraft, according to a new budget proposal, a decision aimed at reducing the Afghan air force's decades-long reliance on Russian equipment.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Under U.S. Plan, Afghans May Get Black Hawks to Replace Russian Aircraft",
+          "print_headline": "Under U.S. Plan, Afghans May Get Black Hawks to Replace Russian Aircraft"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:39:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cc04295d0e03926072e6d",
+        "word_count": "909",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/business/international/world-trade-organization-rules-against-boeing-tax-break-for-new-jet.html",
+        "snippet": "The W.T.O. ruling that a Washington State break for development of the 777X is a prohibited subsidy extends a trans-Atlantic spat involving Boeing and Airbus....",
+        "lead_paragraph": "The W.T.O. ruling that a Washington State break for development of the 777X is a prohibited subsidy extends a trans-Atlantic spat involving Boeing and Airbus.",
+        "abstract": "World Trade Organization rules tax break offered by Washington State for aerospace industry was prohibited subsidy that benefited Boeing, third time taxpayer support for Boeing or its European competitor Airbus was faulted by WTO; decision is latest in ongoing dispute between two jet manufacturers over unfair trade advantages.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/business/29BOEING/29BOEING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/business/29BOEING/29BOEING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/business/29BOEING/29BOEING-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/business/29BOEING/29BOEING-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/business/29BOEING/29BOEING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/business/29BOEING/29BOEING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "World Trade Organization Rules Against Boeing Tax Break for New Jet",
+          "print_headline": "Trade Group Rules Against  Boeing on Tax Break for Jet"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Airlines and Airplanes"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Tax Credits, Deductions and Exemptions"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Boeing Company"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "World Trade Organization"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Europe"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Airbus Industrie"
+          }
+        ],
+        "pub_date": "2016-11-28T23:37:49+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "International Business",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbfdc95d0e03926072e6c",
+        "word_count": "392",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-sinking-tower-seen-from-space.html",
+        "snippet": "Engineers in San Francisco have tunneled underground to try and understand the sinking of the 58-story Millennium Tower. Now comes an analysis from space....",
+        "lead_paragraph": "Engineers in San Francisco have tunneled underground to try and understand the sinking of the 58-story Millennium Tower. Now comes an analysis from space.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Leaning San Francisco Tower Seen Sinking From Space",
+          "print_headline": "Leaning San Francisco Tower Seen Sinking From Space"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:34:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbf0f95d0e03926072e6b",
+        "word_count": "618",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-oil-pipeline-protest-the-latest.html",
+        "snippet": "The Latest on the protest against the Dakota Access oil pipeline (all times local):...",
+        "lead_paragraph": "The Latest on the protest against the Dakota Access oil pipeline (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Crowd Fills Library for Public Forum on Pipeline",
+          "print_headline": "The Latest: Crowd Fills Library for Public Forum on Pipeline"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:30:54+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbe3395d0e03926072e69",
+        "word_count": "547",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/sports/football/ap-fbn-ravens-tucker.html",
+        "snippet": "The Baltimore Ravens' most potent offensive weapon is Justin Tucker, a can't-miss kicker who also happens to be a talented opera singer, skilled negotiator and the target of good-natured insults from his teammates....",
+        "lead_paragraph": "The Baltimore Ravens' most potent offensive weapon is Justin Tucker, a can't-miss kicker who also happens to be a talented opera singer, skilled negotiator and the target of good-natured insults from his teammates.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ravens Tucker Gets a Kick Out of Being Perfect",
+          "print_headline": "Ravens Tucker Gets a Kick Out of Being Perfect"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:30:54+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbe3895d0e03926072e6a",
+        "word_count": "806",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-albuquerque-crime-spree.html",
+        "snippet": "Federal authorities charged a man on Monday with using an explosive device to damage an Old Navy store in Albuquerque, where a string of overnight fires and vandalism during the busiest shopping weekend of the year damaged Starbucks shops, a Barne...",
+        "lead_paragraph": "Federal authorities charged a man on Monday with using an explosive device to damage an Old Navy store in Albuquerque, where a string of overnight fires and vandalism during the busiest shopping weekend of the year damaged Starbucks shops, a Barnes &amp; Noble, and other establishments in New Mexico's largest city.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Charged in Old Navy Explosion Amid String of Vandalism",
+          "print_headline": "Man Charged in Old Navy Explosion Amid String of Vandalism"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:30:48+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbe2d95d0e03926072e68",
+        "word_count": "585",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004791841/cubans-mourn-castro.html",
+        "snippet": "Cubans lined up to pay their respects to Fidel Castro during the country's period of mourning....",
+        "lead_paragraph": "Cubans lined up to pay their respects to Fidel Castro during the country's period of mourning.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/world/29cuba/29cuba-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/world/29cuba/29cuba-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/world/29cuba/29cuba-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/world/29cuba/29cuba-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/world/29cuba/29cuba-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/world/29cuba/29cuba-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Cubans Mourn Castro"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Castro, Fidel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cuba"
+          }
+        ],
+        "pub_date": "2016-11-28T23:29:55+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "UPADHYE"
+            }
+          ],
+          "original": "By NEETI UPADHYE"
+        },
+        "type_of_material": "Video",
+        "_id": "583cbdf995d0e03926072e67",
+        "word_count": "16",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

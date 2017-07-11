@@ -1,0 +1,458 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 38,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/27/letter-writing/",
+        "snippet": "In which Adam Perl confounds me....",
+        "lead_paragraph": null,
+        "abstract": "In which Adam Perl confounds me.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/27/crosswords/28wordplaybartender/28wordplaybartender-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/27/crosswords/28wordplaybartender/28wordplaybartender-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/27/crosswords/28wordplaybartender/28wordplaybartender-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/27/crosswords/28wordplaybartender/28wordplaybartender-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/27/crosswords/28wordplaybartender/28wordplaybartender-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/27/crosswords/28wordplaybartender/28wordplaybartender-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Letter Writing",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-27T22:00:27Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "579967bf38f0d87cf647e31b",
+        "word_count": "863",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/football/ap-fbn-jets-fitzpatrick-re-signs.html",
+        "snippet": "Fitz Magic has returned and &#8212; voila! &#8212; the New York Jets are heading into training camp with their starting quarterback under contract....",
+        "lead_paragraph": "Fitz Magic has returned and &#8212; voila! &#8212; the New York Jets are heading into training camp with their starting quarterback under contract.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Source: Jets, QB Ryan Fitzpatrick Agree to 1-Year Deal",
+          "print_headline": "AP Source: Jets, QB Ryan Fitzpatrick Agree to 1-Year Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:53:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579965e538f0d87cf647e318",
+        "word_count": "846",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/world/asia/27reuters-hongkong-northkorea-defector.html",
+        "snippet": "A North Korean defector has sought refuge at the South Korean consulate in Hong Kong, a local newspaper reported on Thursday, citing government sources in the city....",
+        "lead_paragraph": "A North Korean defector has sought refuge at the South Korean consulate in Hong Kong, a local newspaper reported on Thursday, citing government sources in the city.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "North Korean Defects to South in Hong Kong: Report",
+          "print_headline": "North Korean Defects to South in Hong Kong: Report"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:54:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579965da38f0d87cf647e317",
+        "word_count": "320",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-university-of-chicago-threat.html",
+        "snippet": "Federal authorities have decided not to prosecute a man whose online threats prompted the University of Chicago to close for a day last November....",
+        "lead_paragraph": "Federal authorities have decided not to prosecute a man whose online threats prompted the University of Chicago to close for a day last November.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Won't Be Prosecuted for Threat to University of Chicago",
+          "print_headline": "Man Won't Be Prosecuted for Threat to University of Chicago"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:49:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5799653b38f0d87cf647e315",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/28/business/media/beetles-do-beatles-music-coup-for-an-animated-netflix-show.html",
+        "snippet": "\u201cBeat Bugs\u201d a children\u2019s show, is one of several shows whose creator uses licensing deals to feature iconic song collections in unusually extensive ways....",
+        "lead_paragraph": "\u201cBeat Bugs\u201d a children\u2019s show, is one of several shows whose creator uses licensing deals to feature iconic song collections in unusually extensive ways.",
+        "abstract": "Netflix's animated children's series Beat Bugs is based on Beatles songs; show, created by Josh Wakely, along with two others in preparation, uses classic pop tunes as inspiration, raw material and organizing theme.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/28/business/28WAKELY-1/28WAKELY-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/28/business/28WAKELY-1/28WAKELY-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/28/business/28WAKELY-1/28WAKELY-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/28/business/28WAKELY-1/28WAKELY-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/28/business/28WAKELY-1/28WAKELY-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/28/business/28WAKELY-1/28WAKELY-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Beetles Do Beatles: Music Coup for an Animated Netflix Show",
+          "print_headline": "Classic Songs Wriggle to Life"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Wakely, Josh (1981- )"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Beat Bugs (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Netflix Inc"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Beatles, The"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "SONY/ATV Music Publishing"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dylan, Bob"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Web-Original Programming"
+          }
+        ],
+        "pub_date": "2016-07-27T21:45:15+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "SISARIO"
+            }
+          ],
+          "original": "By BEN SISARIO"
+        },
+        "type_of_material": "News",
+        "_id": "57992b7438f0d87cf647e284",
+        "word_count": "1063",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/olympics/27reuters-olympics-rio-athletics.html",
+        "snippet": "A year of unrelenting misery, of corruption, cover-ups, bans, appeals and doping, doping, doping, has ripped the heart and soul out of athletics, the sport that likes to think of itself as the heart and soul of the Olympics....",
+        "lead_paragraph": "A year of unrelenting misery, of corruption, cover-ups, bans, appeals and doping, doping, doping, has ripped the heart and soul out of athletics, the sport that likes to think of itself as the heart and soul of the Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Doping Tsunami Leaves Number One Sport on Brink",
+          "print_headline": "Doping Tsunami Leaves Number One Sport on Brink"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:36:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5799625438f0d87cf647e312",
+        "word_count": "781",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/world/americas/27reuters-guatemala-corruption.html",
+        "snippet": "A Guatemalan judge on Wednesday charged former President Otto Perez with money laundering and bribery in a massive corruption case in which 52 others were also accused, including former ministers, business people and lawyers....",
+        "lead_paragraph": "A Guatemalan judge on Wednesday charged former President Otto Perez with money laundering and bribery in a massive corruption case in which 52 others were also accused, including former ministers, business people and lawyers. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Guatemalan Judge Charges Former President in Bribery Case",
+          "print_headline": "Guatemalan Judge Charges Former President in Bribery Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:30:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579960ed38f0d87cf647e311",
+        "word_count": "151",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/olympics/27reuters-olympics-rio-shooting-rhode.html",
+        "snippet": "Shotgun shooter Kim Rhode will be looking to extend her record as the only U.S. athlete to win medals at five consecutive Olympic Games in an individual sport when she arrives at next month's Rio Summer Games....",
+        "lead_paragraph": "Shotgun shooter Kim Rhode will be looking to extend her record as the only U.S. athlete to win medals at five consecutive Olympic Games in an individual sport when she arrives at next month's Rio Summer Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rhode Guns for Medals-And Children's Books",
+          "print_headline": "Rhode Guns for Medals-And Children's Books"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:28:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5799604838f0d87cf647e310",
+        "word_count": "443",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/basketball/27reuters-olympics-rio-basketball.html",
+        "snippet": "Team USA will be without many star players in Rio due mainly to concerns over Zika and injuries, but such is the depth of the country's basketball talent that they are expected to cruise to a third consecutive gold medal....",
+        "lead_paragraph": "Team USA will be without many star players in Rio due mainly to concerns over Zika and injuries, but such is the depth of the country's basketball talent that they are expected to cruise to a third consecutive gold medal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Team USA Look to Sweep Golds in Rio",
+          "print_headline": "Team USA Look to Sweep Golds in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:27:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5799603938f0d87cf647e30f",
+        "word_count": "392",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/cycling/27reuters-olympics-rio-cycling-cavendish.html",
+        "snippet": "Mark Cavendish's past Olympic appearances have not exactly gone to plan but the Briton says he will arrive in Rio on a high as he bids to justify his return to the velodrome boards with a long-awaited first medal....",
+        "lead_paragraph": "Mark Cavendish's past Olympic appearances have not exactly gone to plan but the Briton says he will arrive in Rio on a high as he bids to justify his return to the velodrome boards with a long-awaited first medal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cavendish on a High as He Targets Omnium Gold",
+          "print_headline": "Cavendish on a High as He Targets Omnium Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T21:22:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57995ed538f0d87cf647e30e",
+        "word_count": "443",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

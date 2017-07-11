@@ -1,0 +1,354 @@
+{
+  "response": {
+    "meta": {
+      "hits": 931,
+      "time": 84,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/us/ap-us-hurricane-hunter-planes.html",
+        "snippet": "The National Oceanic and Atmospheric Administration says its famed Hurricane Hunter aircraft are moving from MacDill Air Force Base in Tampa to Lakeland Linder Regional Airport, about 30 miles east of its current location....",
+        "lead_paragraph": "The National Oceanic and Atmospheric Administration says its famed Hurricane Hunter aircraft are moving from MacDill Air Force Base in Tampa to Lakeland Linder Regional Airport, about 30 miles east of its current location.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NOAA: Hurricane Hunter Planes Move From Tampa to Lakeland",
+          "print_headline": "NOAA: Hurricane Hunter Planes Move From Tampa to Lakeland"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:51:39+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f580495d0e0392607356d",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/business/ap-us-gov-finances.html",
+        "snippet": "Figures on government spending and debt in millions of dollars. The government's fiscal year runs Oct. 1 through Sept. 30....",
+        "lead_paragraph": "Figures on government spending and debt in millions of dollars. The government's fiscal year runs Oct. 1 through Sept. 30.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Figures on Government Spending and Debt",
+          "print_headline": "Figures on Government Spending and Debt"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:51:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f57ff95d0e0392607356b",
+        "word_count": "108",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/sports/golf/ap-glf-pga-tour-champions-q-school.html",
+        "snippet": "Jim Carter birdied the final three holes for a 6-under 66 and the second-round lead Wednesday in the PGA Tour Champions' qualifying tournament....",
+        "lead_paragraph": "Jim Carter birdied the final three holes for a 6-under 66 and the second-round lead Wednesday in the PGA Tour Champions' qualifying tournament.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jim Carter Leads PGA Tour Champions' Q--School",
+          "print_headline": "Jim Carter Leads PGA Tour Champions' Q--School"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:48:19+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f573995d0e0392607356a",
+        "word_count": "101",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/30/briefing/opec-donald-trump-nancy-pelosi.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/30/briefing/30eveningss-slide-WAHQ/30eveningss-slide-WAHQ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/30/briefing/30eveningss-slide-WAHQ/30eveningss-slide-WAHQ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/30/briefing/30eveningss-slide-WAHQ/30eveningss-slide-WAHQ-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/30/briefing/30eveningss-slide-WAHQ/30eveningss-slide-WAHQ-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/30/briefing/30eveningss-slide-WAHQ/30eveningss-slide-WAHQ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/30/briefing/30eveningss-slide-WAHQ/30eveningss-slide-WAHQ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "OPEC, Donald Trump, Nancy Pelosi: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:47:31+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "583f570b95d0e03926073569",
+        "word_count": "806",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/us/ap-us-fidel-castro-florida.html",
+        "snippet": "Hundreds of Cuban exiles in Miami rallied Wednesday for freedom and democracy on the communist island following the death of revolutionary leader Fidel Castro....",
+        "lead_paragraph": "Hundreds of Cuban exiles in Miami rallied Wednesday for freedom and democracy on the communist island following the death of revolutionary leader Fidel Castro.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Miami Exiles Rally for Cuba Freedom After Castro Death",
+          "print_headline": "Miami Exiles Rally for Cuba Freedom After Castro Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:47:21+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f570295d0e03926073567",
+        "word_count": "551",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/us/ap-us-las-cruces-boyfriend-attacked.html",
+        "snippet": "A woman was arrested for allegedly using knives and a chain saw to stab and cut her boyfriend after restraining him inside his car, police said Wednesday....",
+        "lead_paragraph": "A woman was arrested for allegedly using knives and a chain saw to stab and cut her boyfriend after restraining him inside his car, police said Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "New Mexico Police: Woman Cut, Stabbed Her Boyfriend in Car",
+          "print_headline": "New Mexico Police: Woman Cut, Stabbed Her Boyfriend in Car"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:47:21+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f570395d0e03926073568",
+        "word_count": "204",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/30/business/30reuters-usa-trump-utc.html",
+        "snippet": "United Technologies Corp's Carrier unit said on Wednesday it got financial incentives from Indiana and a pledge from President-elect Donald Trump to improve the climate for business in the United States in exchange for keeping more than 1,000 jobs...",
+        "lead_paragraph": "United Technologies Corp's Carrier unit said on Wednesday it got financial incentives from Indiana and a pledge from President-elect Donald Trump to improve the climate for business in the United States in exchange for keeping more than 1,000 jobs in the state rather than moving them overseas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Carrier Gets State Incentives, Trump Pledge for Keeping U.S. Jobs",
+          "print_headline": "Carrier Gets State Incentives, Trump Pledge for Keeping U.S. Jobs"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:45:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583f569295d0e03926073566",
+        "word_count": "857",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/30/business/30reuters-britain-banknote.html",
+        "snippet": "The Bank of England said its supplier of currency, Innovia, is working toward removing the use of animal fat in the production of its new plastic five pound note after objection raised by thousands of vegetarians....",
+        "lead_paragraph": "The Bank of England said its supplier of currency, Innovia, is working toward removing the use of animal fat in the production of its new plastic five pound note after objection raised by thousands of vegetarians.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bank of England Asking Supplier of Currency to Find Animal Fat Alternative",
+          "print_headline": "Bank of England Asking Supplier of Currency to Find Animal Fat Alternative"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:42:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583f55dd95d0e03926073565",
+        "word_count": "172",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:39:54+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f554195d0e03926073564",
+        "word_count": "1167",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/30/sports/golf/ap-glf-lpga-tour-q-school.html",
+        "snippet": "University of South Carolina senior Katelyn Dambaugh and Thailand's Pannarat Thanapolboonyaras each shot 5-under 67 on Wednesday to share the first-round lead in the LPGA Qualifying Tournament....",
+        "lead_paragraph": "University of South Carolina senior Katelyn Dambaugh and Thailand's Pannarat Thanapolboonyaras each shot 5-under 67 on Wednesday to share the first-round lead in the LPGA Qualifying Tournament.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Dambaugh, Thanapolboonyaras Lead LPGA Tour Q-School",
+          "print_headline": "Dambaugh, Thanapolboonyaras Lead LPGA Tour Q-School"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-30T22:35:05+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583f541f95d0e03926073563",
+        "word_count": "275",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

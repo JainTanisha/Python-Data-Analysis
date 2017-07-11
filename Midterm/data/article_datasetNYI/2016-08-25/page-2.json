@@ -1,0 +1,685 @@
+{
+  "response": {
+    "meta": {
+      "hits": 871,
+      "time": 43,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/us/ap-us-killing-kidnapping-suspects.html",
+        "snippet": "A California couple wanted in connection with a woman's killing and the kidnapping of her three children in the Los Angeles area were arrested Thursday in Colorado....",
+        "lead_paragraph": "A California couple wanted in connection with a woman's killing and the kidnapping of her three children in the Los Angeles area were arrested Thursday in Colorado.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Couple Wanted in Woman's Killing, Kids' Kidnapping Arrested",
+          "print_headline": "Couple Wanted in Woman's Killing, Kids' Kidnapping Arrested"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T23:10:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf7b9b95d0e021d7982ae8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/25/business/25reuters-britain-eu-confidence.html",
+        "snippet": "British consumers have regained some of the confidence they lost after the Brexit vote in June, according to a survey published on Friday, the latest sign that households are largely taking the decision to leave the European Union in their stride....",
+        "lead_paragraph": "British consumers have regained some of the confidence they lost after the Brexit vote in June, according to a survey published on Friday, the latest sign that households are largely taking the decision to leave the European Union in their stride.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Consumers Recover Some Confidence After Brexit Vote Hit-Survey",
+          "print_headline": "UK Consumers Recover Some Confidence After Brexit Vote Hit-Survey"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T23:09:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf7ab695d0e021d7982ae6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004612036/pushback-on-the-burkini-ban.html",
+        "snippet": "A woman was told to leave a beach in Nice, France because her clothing was inappropriate. The incident has sparked protest against the country\u2019s \u201cburkini\u201d ban....",
+        "lead_paragraph": "A woman was told to leave a beach in Nice, France because her clothing was inappropriate. The incident has sparked protest against the country\u2019s \u201cburkini\u201d ban.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/25/world/25burkini-web/25burkini-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/25/world/25burkini-web/25burkini-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/25/world/25burkini-web/25burkini-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/25/world/25burkini-web/25burkini-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/25/world/25burkini-web/25burkini-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/25/world/25burkini-web/25burkini-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pushback on the \u2018Burkini\u2019 Ban"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Nice (France)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Law and Legislation"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslim Veiling"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bathing Suits and Swimwear"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+          }
+        ],
+        "pub_date": "2016-08-25T23:04:20+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "Upadhye"
+            }
+          ],
+          "original": "By Neeti Upadhye"
+        },
+        "type_of_material": "Video",
+        "_id": "57bf798e95d0e021d7982ae5",
+        "word_count": "26",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/arts/design/what-do-you-see-in-art-nearly-50-people-told-us.html",
+        "snippet": "We wanted to better understand the modern museumgoer. So we went to the Met Breuer exhibition \u201cUnfinished: Thoughts Left Visible\u201d and talked to visitors....",
+        "lead_paragraph": "We wanted to better understand the modern museumgoer. So we went to the Met Breuer exhibition \u201cUnfinished: Thoughts Left Visible\u201d and talked to visitors.",
+        "abstract": "Visitors share their reactions and insights to works in Met Breuer's inaugural exhibit Unfinished: Thoughts Left Visible.",
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26ARTGAZERcombovertical/26ARTGAZERcombovertical-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26ARTGAZERcombovertical/26ARTGAZERcombovertical-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26ARTGAZERcombovertical/26ARTGAZERcombovertical-articleLarge.jpg",
+            "height": 631,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26ARTGAZERcombovertical/26ARTGAZERcombovertical-articleLarge.jpg",
+              "xlargeheight": "631"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26ARTGAZERcombovertical/26ARTGAZERcombovertical-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26ARTGAZERcombovertical/26ARTGAZERcombovertical-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What Do You See in Art? Nearly 50 People Told Us",
+          "print_headline": "\u2018Who Has Time  for a Blank  Canvas?\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Met Breuer"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Unfinished: Thoughts Left Visible (Exhibit)"
+          }
+        ],
+        "pub_date": "2016-08-25T23:00:19+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alex",
+              "rank": 1,
+              "lastname": "VADUKUL"
+            }
+          ],
+          "original": "By ALEX VADUKUL"
+        },
+        "type_of_material": "News",
+        "_id": "57bf788c95d0e021d7982ae4",
+        "word_count": "1213",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/25/sports/cricket/25reuters-cricket-england-bangladesh.html",
+        "snippet": "England's five-week tour of Bangladesh will proceed as planned starting in late September, the England and Wales Cricket Board (ECB) announced on Thursday after conducting a risk assessment....",
+        "lead_paragraph": "England's five-week tour of Bangladesh will proceed as planned starting in late September, the England and Wales Cricket Board (ECB) announced on Thursday after conducting a risk assessment.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "England Tour of Bangladesh to Go Ahead After Risk Assessed",
+          "print_headline": "England Tour of Bangladesh to Go Ahead After Risk Assessed"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:52:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cricket",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf773295d0e021d7982ae1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004611944/this-weeks-movies-august-26-2016.html",
+        "snippet": "The New York Times film critics review \u201cSouthside With You,\u201d \u201cHands of Stone\u201d and \u201cMia Madre.\u201d...",
+        "lead_paragraph": "The New York Times film critics review \u201cSouthside With You,\u201d \u201cHands of Stone\u201d and \u201cMia Madre.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/25/multimedia/movies-08262016/movies-08262016-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/25/multimedia/movies-08262016/movies-08262016-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/25/multimedia/movies-08262016/movies-08262016-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/25/multimedia/movies-08262016/movies-08262016-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/25/multimedia/movies-08262016/movies-08262016-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/25/multimedia/movies-08262016/movies-08262016-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "This Week\u2019s Movies: August 26, 2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Mia Madre (Movie)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Southside With You (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-08-25T22:53:53+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ainara",
+              "rank": 1,
+              "lastname": "TIEFENTH\u00c4LER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 2,
+              "lastname": "LINDSAY"
+            }
+          ],
+          "original": "By AINARA TIEFENTH\u00c4LER and ROBIN LINDSAY"
+        },
+        "type_of_material": "Video",
+        "_id": "57bf775395d0e021d7982ae2",
+        "word_count": "16",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/movies/hands-of-stone-review.html",
+        "snippet": "Jonathan Jakubowicz\u2019s film has scattered pleasures, like Mr. De Niro\u2019s performance as Roberto Dur\u00e1n\u2019s trainer. But the boxing scenes do not come within swinging distance of \u201cRaging Bull.\u201d...",
+        "lead_paragraph": "Jonathan Jakubowicz\u2019s film has scattered pleasures, like Mr. De Niro\u2019s performance as Roberto Dur\u00e1n\u2019s trainer. But the boxing scenes do not come within swinging distance of \u201cRaging Bull.\u201d",
+        "abstract": "Glenn Kenny reviews movie Hands of Stone, written and directed by Jonathan Jakubowicz; Robert De Niro and Edgar Ramirez star.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26HANDS1/26HANDS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26HANDS1/26HANDS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26HANDS1/26HANDS1-articleLarge.jpg",
+            "height": 389,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26HANDS1/26HANDS1-articleLarge.jpg",
+              "xlargeheight": "389"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26HANDS1/26HANDS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26HANDS1/26HANDS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Hands of Stone\u2019 Returns Robert De Niro to the Ring but Pulls Its Punches",
+          "print_headline": "Dispensing With Rage in a Return to the Ring  "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Hands of Stone (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "De Niro, Robert"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ramirez, Edgar"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Jakubowicz, Jonathan"
+          }
+        ],
+        "pub_date": "2016-08-25T22:52:04+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Glenn",
+              "rank": 1,
+              "lastname": "KENNY"
+            }
+          ],
+          "original": "By GLENN KENNY"
+        },
+        "type_of_material": "Review",
+        "_id": "57bf769e95d0e021d7982adf",
+        "word_count": "464",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/sports/ap-car-nashville-superspeedway.html",
+        "snippet": "Dover Motorsports Inc. has a new buyer for the Nashville Superspeedway in a commercial real estate development company....",
+        "lead_paragraph": "Dover Motorsports Inc. has a new buyer for the Nashville Superspeedway in a commercial real estate development company.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Dover Agrees to Sell Nashville Track to Real Estate Company",
+          "print_headline": "Dover Agrees to Sell Nashville Track to Real Estate Company"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:47:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf762095d0e021d7982ade",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/25/us/ap-us-public-defender-protest.html",
+        "snippet": "A Missouri judge is blocking the state public defender director from appointing Gov. Jay Nixon to a case....",
+        "lead_paragraph": "A Missouri judge is blocking the state public defender director from appointing Gov. Jay Nixon to a case.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Missouri Judge Stops Appointment of Nixon as Public Defender",
+          "print_headline": "Missouri Judge Stops Appointment of Nixon as Public Defender"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-25T22:44:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bf760a95d0e021d7982add",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/arts/design/51-contemporary-artists-but-just-three-women.html",
+        "snippet": "A large exhibition at the Philadelphia Museum of Art showcases many famous artists from the last 50 years, but with a big lack of the XX chromosome....",
+        "lead_paragraph": "A large exhibition at the Philadelphia Museum of Art showcases many famous artists from the last 50 years, but with a big lack of the XX chromosome.",
+        "abstract": "Ken Johnson reviews art exhibit Embracing the Contemporary: The Keith L and Katherine Sachs Collection at Philadelphia Museum of Art in Pennsylvania.",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/arts/26SACHS1/26SACHS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/arts/26SACHS1/26SACHS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/arts/26SACHS1/26SACHS1-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/arts/26SACHS1/26SACHS1-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/arts/26SACHS1/26SACHS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/arts/26SACHS1/26SACHS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "51 Contemporary Artists, but Just Three Women",
+          "content_kicker": "Art Review",
+          "kicker": "Art Review",
+          "print_headline": "51 Contemporary Artists, but Just Three Women"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Philadelphia Museum of Art"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sachs, Katherine"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sachs, Keith L"
+          }
+        ],
+        "pub_date": "2016-08-25T22:47:32+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ken",
+              "rank": 1,
+              "lastname": "JOHNSON"
+            }
+          ],
+          "original": "By KEN JOHNSON"
+        },
+        "type_of_material": "Review",
+        "_id": "57bf758995d0e021d7982adc",
+        "word_count": "1034",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

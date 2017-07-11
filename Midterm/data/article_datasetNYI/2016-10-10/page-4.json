@@ -1,0 +1,417 @@
+{
+  "response": {
+    "meta": {
+      "hits": 744,
+      "time": 60,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/10/arts/10reuters-malawi-childmarriage-emma-watson.html",
+        "snippet": "British actress Emma Watson condemned child marriage during a visit to Malawi on Monday, calling on authorities across Africa to end the practice that can put young lives as risk as well as stopping girls get an education and a better future....",
+        "lead_paragraph": "British actress Emma Watson condemned child marriage during a visit to Malawi on Monday, calling on authorities across Africa to end the practice that can put young lives as risk as well as stopping girls get an education and a better future.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Actress Emma Watson Condemns Child Marriage During Malawi Trip",
+          "print_headline": "Actress Emma Watson Condemns Child Marriage During Malawi Trip"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T22:06:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc119f95d0e021d798b25e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/10/business/10reuters-usa-wef-technology-policy.html",
+        "snippet": "The World Economic Forum, the Swiss-based group that sponsors that annual Davos gathering of world leaders, is opening a San Francisco office to explore policy and regulatory questions surrounding new technologies such as artificial intelligence, ...",
+        "lead_paragraph": "The World Economic Forum, the Swiss-based group that sponsors that annual Davos gathering of world leaders, is opening a San Francisco office to explore policy and regulatory questions surrounding new technologies such as artificial intelligence, automated vehicles and blockchain.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "World Economic Forum Launches San Francisco Tech Policy Center",
+          "print_headline": "World Economic Forum Launches San Francisco Tech Policy Center"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T22:04:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc10ed95d0e021d798b25d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/10/sports/golf/10reuters-golf-woods-reaction.html",
+        "snippet": "Tiger Woods' decision to postpone his tournament golf comeback has raised more questions about his future with some former players wondering if he will ever successfully return to regular competition....",
+        "lead_paragraph": "Tiger Woods' decision to postpone his tournament golf comeback has raised more questions about his future with some former players wondering if he will ever successfully return to regular competition.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf: Woods May Never Make Successful Comeback: Say Ex-Players",
+          "print_headline": "Golf: Woods May Never Make Successful Comeback: Say Ex-Players"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T21:59:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc0f8b95d0e021d798b25c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/10/briefing/donald-trump-samsung-yemen.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/10/nytnow/10eveningss-slide-80AP/10eveningss-slide-80AP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/10/nytnow/10eveningss-slide-80AP/10eveningss-slide-80AP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/10/nytnow/10eveningss-slide-80AP/10eveningss-slide-80AP-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/10/nytnow/10eveningss-slide-80AP/10eveningss-slide-80AP-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/10/nytnow/10eveningss-slide-80AP/10eveningss-slide-80AP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/10/nytnow/10eveningss-slide-80AP/10eveningss-slide-80AP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Samsung, Yemen: Your Monday Evening Briefing",
+          "print_headline": "Your Monday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "57fc0f1095d0e021d798b25b",
+        "word_count": "844",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/10/us/ap-us-campaign-2016-trump-buffett-taxes.html",
+        "snippet": "Investor Warren Buffett says he's never used the kind of tax deduction that Republican presidential candidate Donald Trump did, and Buffett says he's paid taxes every year for 72 years....",
+        "lead_paragraph": "Investor Warren Buffett says he's never used the kind of tax deduction that Republican presidential candidate Donald Trump did, and Buffett says he's paid taxes every year for 72 years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Warren Buffett Responds to Donald Trump's Tax Comments",
+          "print_headline": "Warren Buffett Responds to Donald Trump's Tax Comments"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T21:18:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc0ef495d0e021d798b25a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/10/business/10reuters-microsoft-brazil-votorantim.html",
+        "snippet": "Microsoft Corp and Brazilian lender Banco Votorantim are investing together in financial technology startups, executives said in a Monday interview, as the U.S. tech company adds a new specialty to its venture capital portfolio in Brazil....",
+        "lead_paragraph": "Microsoft Corp and Brazilian lender Banco Votorantim are investing together in financial technology startups, executives said in a Monday interview, as the U.S. tech company adds a new specialty to its venture capital portfolio in Brazil.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Microsoft, Banco Votorantim Partner on Brazil Fintech Investments",
+          "print_headline": "Microsoft, Banco Votorantim Partner on Brazil Fintech Investments"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T21:53:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc0e2895d0e021d798b258",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/10/sports/soccer/10reuters-soccer-worldcup-gib-bel-record.html",
+        "snippet": "Belgium's Christian Benteke scored the fastest ever goal in a World Cup qualifier when he put them ahead after seven seconds in a 6-0 thrashing of Gibraltar on Monday....",
+        "lead_paragraph": "Belgium's Christian Benteke scored the fastest ever goal in a World Cup qualifier when he put them ahead after seven seconds in a 6-0 thrashing of Gibraltar on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Belgium's Benteke Grabs Fastest World Cup Qualifying Goal",
+          "print_headline": "Belgium's Benteke Grabs Fastest World Cup Qualifying Goal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T21:52:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc0e2895d0e021d798b257",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/10/sports/soccer/10reuters-soccer-worldcup-nld-fra.html",
+        "snippet": "France midfielder Paul Pogba, the world's most expensive player, scored with a swirling long-range shot after 30 minutes to secure a vital 1-0 win away to the Netherlands in World Cup qualifying on Monday....",
+        "lead_paragraph": "France midfielder Paul Pogba, the world's most expensive player, scored with a swirling long-range shot after 30 minutes to secure a vital 1-0 win away to the Netherlands in World Cup qualifying on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pogba's Swirling Shot Hands France Victory Over Dutch",
+          "print_headline": "Pogba's Swirling Shot Hands France Victory Over Dutch"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T21:51:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc0e2095d0e021d798b256",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/10/10/dining/how-to-sous-vide.html",
+        "snippet": "This method produces juicy, tender meat that you can quickly sear, saut\u00e9 or stir-fry for a weeknight meal....",
+        "lead_paragraph": "This method produces juicy, tender meat that you can quickly sear, saut\u00e9 or stir-fry for a weeknight meal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/12/dining/12SOUS-VIDE-2/12SOUS-VIDE-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/12/dining/12SOUS-VIDE-2/12SOUS-VIDE-2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/12/dining/12SOUS-VIDE-2/12SOUS-VIDE-2-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/12/dining/12SOUS-VIDE-2/12SOUS-VIDE-2-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/12/dining/12SOUS-VIDE-2/12SOUS-VIDE-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/12/dining/12SOUS-VIDE-2/12SOUS-VIDE-2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How to Cook a Roast Sous Vide"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Home Appliances"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Meat"
+          }
+        ],
+        "pub_date": "2016-10-10T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Brian",
+              "middlename": "X.",
+              "lastname": "CHEN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By BRIAN X. CHEN"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57fc0dda95d0e021d798b254",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/10/sports/golf/ap-glf-world-cup-leishman.html",
+        "snippet": "Australia's Adam Scott has chosen Mark Leishman as his playing partner at next month's World Cup of Golf at the Kingston Heath in Melbourne....",
+        "lead_paragraph": "Australia's Adam Scott has chosen Mark Leishman as his playing partner at next month's World Cup of Golf at the Kingston Heath in Melbourne.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Leishman to Team With Scott at World Cup of Golf",
+          "print_headline": "Leishman to Team With Scott at World Cup of Golf"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-10T21:49:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fc0dac95d0e021d798b253",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

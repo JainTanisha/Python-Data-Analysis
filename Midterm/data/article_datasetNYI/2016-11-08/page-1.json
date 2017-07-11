@@ -1,0 +1,486 @@
+{
+  "response": {
+    "meta": {
+      "hits": 732,
+      "time": 64,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/09/upshot/newly-insured-by-obamacare-yet-unlikely-to-vote.html",
+        "snippet": "Finally having health insurance probably will not turn longtime nonvoters into voters....",
+        "lead_paragraph": "Finally having health insurance probably will not turn longtime nonvoters into voters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/upshot/up-obamacare/up-obamacare-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/upshot/up-obamacare/up-obamacare-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/upshot/up-obamacare/up-obamacare-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/upshot/up-obamacare/up-obamacare-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Newly Insured by Obamacare, Yet Unlikely to Vote",
+          "content_kicker": "Public Health",
+          "kicker": "The Upshot"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+          }
+        ],
+        "pub_date": "2016-11-08T23:33:27Z",
+        "document_type": "article",
+        "news_desk": "Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margot",
+              "rank": 1,
+              "lastname": "SANGER-KATZ"
+            }
+          ],
+          "original": "By MARGOT SANGER-KATZ"
+        },
+        "type_of_material": "News",
+        "_id": "582260d695d0e0204d55f660",
+        "word_count": "295",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/09/nyregion/bill-de-blasio-senate.html",
+        "snippet": "The mayor has become a punching bag in State Senate races in suburban districts that hold a historical mistrust of New York City\u2019s more liberal policies....",
+        "lead_paragraph": "The mayor has become a punching bag in State Senate races in suburban districts that hold a historical mistrust of New York City\u2019s more liberal policies.",
+        "abstract": null,
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/nyregion/09BDBSENATE/09BDBSENATE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/nyregion/09BDBSENATE/09BDBSENATE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/nyregion/09BDBSENATE/09BDBSENATE-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/nyregion/09BDBSENATE/09BDBSENATE-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/nyregion/09BDBSENATE/09BDBSENATE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/nyregion/09BDBSENATE/09BDBSENATE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Seeking to Keep Control of New York Senate, G.O.P. Finds a Villain: Bill de Blasio",
+          "print_headline": "Seeking to Keep Control of New York Senate, Republicans Find a Villain: de Blasio"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, State Legislature"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Political Advertising"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York State"
+          }
+        ],
+        "pub_date": "2016-11-08T23:30:42Z",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jesse",
+              "rank": 1,
+              "lastname": "McKINLEY"
+            }
+          ],
+          "original": "By JESSE McKINLEY"
+        },
+        "type_of_material": "News",
+        "_id": "5822602b95d0e0204d55f65f",
+        "word_count": "718",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/politics/08reuters-usa-election-bush.html",
+        "snippet": "Former Republican President George W. Bush and his wife, Laura, did not cast a vote for U.S. president on Tuesday but did vote for Republicans in down-ballot races, a spokesman for Bush said....",
+        "lead_paragraph": "Former Republican President George W. Bush and his wife, Laura, did not cast a vote for U.S. president on Tuesday but did vote for Republicans in down-ballot races, a spokesman for Bush said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Former President George W. Bush Does Not Cast Vote for President",
+          "print_headline": "Former President George W. Bush Does Not Cast Vote for President"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:30:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5822601f95d0e0204d55f65e",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-us-tufts-transgender-sorority.html",
+        "snippet": "Half the members of a sorority at Tufts University in Massachusetts have quit in protest to their national organization's opposition to a transgender recruit....",
+        "lead_paragraph": "Half the members of a sorority at Tufts University in Massachusetts have quit in protest to their national organization's opposition to a transgender recruit.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Sorority Members Quit in Support of Transgender Recruit",
+          "print_headline": "Sorority Members Quit in Support of Transgender Recruit"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:24:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58225ebf95d0e0204d55f65d",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/politics/08reuters-usa-election-voters-poll.html",
+        "snippet": "Some 15 percent of Americans who cast a ballot on Tuesday said it was their first time voting in a presidential election, according to an early reading from the Reuters/Ipsos national Election Day poll, up from 9 percent of voters who said so in 2...",
+        "lead_paragraph": "Some 15 percent of Americans who cast a ballot on Tuesday said it was their first time voting in a presidential election, according to an early reading from the Reuters/Ipsos national Election Day poll, up from 9 percent of voters who said so in 2012.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "More First-Time Voters, Late-Deciders in U.S. Presidential Race: Reuters/Ipsos",
+          "print_headline": "More First-Time Voters, Late-Deciders in U.S. Presidential Race: Reuters/Ipsos"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:24:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58225eb595d0e0204d55f65c",
+        "word_count": "158",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/sports/ncaafootball/ap-fbc-t25-nebraska-armstrong.html",
+        "snippet": "Less than an hour after he was loaded into an ambulance after getting knocked unconscious against Ohio State, Nebraska quarterback Tommy Armstrong Jr. was back on the sideline with teammates....",
+        "lead_paragraph": "Less than an hour after he was loaded into an ambulance after getting knocked unconscious against Ohio State, Nebraska quarterback Tommy Armstrong Jr. was back on the sideline with teammates.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Armstrong Return to Sideline After KO 'Atypical,' Not Wrong",
+          "print_headline": "Armstrong Return to Sideline After KO 'Atypical,' Not Wrong"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:18:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58225d6595d0e0204d55f65b",
+        "word_count": "585",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004754247/clinton-women-first-female-president.html",
+        "snippet": "We asked women to share their experience of voting with a woman on the presidential ballot. Here\u2019s what they sent us....",
+        "lead_paragraph": "We asked women to share their experience of voting with a woman on the presidential ballot. Here\u2019s what they sent us.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/us/09women-votingALT/09women-votingALT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/us/09women-votingALT/09women-votingALT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/us/09women-votingALT/09women-votingALT-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/us/09women-votingALT/09women-votingALT-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/us/09women-votingALT/09women-votingALT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/us/09women-votingALT/09women-votingALT-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Historic and Emotional Vote for Women"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-11-08T23:18:07+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ainara",
+              "rank": 1,
+              "lastname": "TIEFENTH\u00c4LER"
+            }
+          ],
+          "original": "By AINARA TIEFENTH\u00c4LER"
+        },
+        "type_of_material": "Video",
+        "_id": "58225d3595d0e0204d55f65a",
+        "word_count": "21",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/politics/ap-us-2016-election-exit-poll.html",
+        "snippet": "Americans emphatically declared their anger at government Tuesday as they elected a political outsider who failed to generate much excitement but offered the prospect of change....",
+        "lead_paragraph": "Americans emphatically declared their anger at government Tuesday as they elected a political outsider who failed to generate much excitement but offered the prospect of change.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Americans Register Anger, Desire for Change With Their Votes",
+          "print_headline": "Americans Register Anger, Desire for Change With Their Votes"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:15:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58225ca595d0e0204d55f659",
+        "word_count": "1139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/business/ap-soc-nike-ronaldo.html",
+        "snippet": "Nike and Cristiano Ronaldo have extended their long-term sponsorship deal....",
+        "lead_paragraph": "Nike and Cristiano Ronaldo have extended their long-term sponsorship deal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ronaldo Signs Long-Term Deal With Nike",
+          "print_headline": "Ronaldo Signs Long-Term Deal With Nike"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:09:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58225b4b95d0e0204d55f658",
+        "word_count": "153",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/business/ap-us-nielsens-list.html",
+        "snippet": "Prime-time viewership numbers compiled by Nielsen for Oct. 31-Nov. 6. Listings include the week's ranking and viewership....",
+        "lead_paragraph": "Prime-time viewership numbers compiled by Nielsen for Oct. 31-Nov. 6. Listings include the week's ranking and viewership.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Nielsen's Top Programs for Oct. 31-Nov. 6",
+          "print_headline": "Nielsen's Top Programs for Oct. 31-Nov. 6"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:09:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58225b4195d0e0204d55f657",
+        "word_count": "201",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

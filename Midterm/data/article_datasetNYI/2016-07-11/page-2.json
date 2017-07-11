@@ -1,0 +1,432 @@
+{
+  "response": {
+    "meta": {
+      "hits": 810,
+      "time": 48,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/11/us/politics/ap-us-gop-2016-republican-platform.html",
+        "snippet": "Republican officials rejected an emotional plea Monday to back off the GOP's opposition to same-sex marriage, renewing the party's embrace of religious conservative values as delegates prepared to welcome Donald Trump to their national convention....",
+        "lead_paragraph": "Republican officials rejected an emotional plea Monday to back off the GOP's opposition to same-sex marriage, renewing the party's embrace of religious conservative values as delegates prepared to welcome Donald Trump to their national convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "GOP Rejects Call to Back Off Gay Marriage Opposition",
+          "print_headline": "GOP Rejects Call to Back Off Gay Marriage Opposition"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:56:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57844e9738f0d87821c9337d",
+        "word_count": "528",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/11/business/11reuters-china-economy-gdp.html",
+        "snippet": "China's economic growth likely cooled to a fresh seven-year low of 6.6 percent in the second quarter as the industrial sector loses steam and a boost from financial services fades, according to a Reuters poll of 61 economists....",
+        "lead_paragraph": "China's economic growth likely cooled to a fresh seven-year low of 6.6 percent in the second quarter as the industrial sector loses steam and a boost from financial services fades, according to a Reuters poll of 61 economists.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Second-Quarter Economic Growth Seen Cooling to 6.6 Percent, Weakest in Seven Years",
+          "print_headline": "China Second-Quarter Economic Growth Seen Cooling to 6.6 Percent, Weakest in Seven Years"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:52:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57844dda38f0d87821c9337c",
+        "word_count": "561",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004524691/sheriff-on-michigan-courthouse-shooting.html",
+        "snippet": "Paul Bailey, the sherriff of Berrien County, Mich., said that he had \u201clost some friends today\u201d after two bailiffs were killed by a prisoner who was attempting to escape....",
+        "lead_paragraph": "Paul Bailey, the sherriff of Berrien County, Mich., said that he had \u201clost some friends today\u201d after two bailiffs were killed by a prisoner who was attempting to escape.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/11/multimedia/12michigan-courthouse/12michigan-courthouse-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/11/multimedia/12michigan-courthouse/12michigan-courthouse-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/11/multimedia/12michigan-courthouse/12michigan-courthouse-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/11/multimedia/12michigan-courthouse/12michigan-courthouse-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/11/multimedia/12michigan-courthouse/12michigan-courthouse-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/11/multimedia/12michigan-courthouse/12michigan-courthouse-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sheriff on Michigan Courthouse Shooting"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Michigan"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          }
+        ],
+        "pub_date": "2016-07-11T21:46:51Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57844c3438f0d87821c9337a",
+        "word_count": "29",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/11/technology/11reuters-rr-donnelley-m-a-xerox.html",
+        "snippet": "Xerox Corp, which is on track to split into two companies by the end of the year, has been in talks to acquire financial printing firm RR Donnelley &amp; Sons Co, according to two people familiar with the matter....",
+        "lead_paragraph": "Xerox Corp, which is on track to split into two companies by the end of the year, has been in talks to acquire financial printing firm RR Donnelley &amp; Sons Co, according to two people familiar with the matter.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Xerox in Talks to Buy Financial Printer RR Donnelley: Sources",
+          "print_headline": "Xerox in Talks to Buy Financial Printer RR Donnelley: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:37:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57844a5d38f0d87821c93377",
+        "word_count": "240",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/11/business/11reuters-cuba-economy.html",
+        "snippet": "Cuba has opened a shop in Havana that could eventually operate as the Communist-ruled island's first wholesale store for the fledgling private sector, offering products in bulk at lower prices than in expensive retail outlets....",
+        "lead_paragraph": "Cuba has opened a shop in Havana that could eventually operate as the Communist-ruled island's first wholesale store for the fledgling private sector, offering products in bulk at lower prices than in expensive retail outlets. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cuba Opens What Could Be Private Sector's First Wholesale Store",
+          "print_headline": "Cuba Opens What Could Be Private Sector's First Wholesale Store"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:36:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57844a5e38f0d87821c93378",
+        "word_count": "402",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/11/business/11reuters-shire-fda.html",
+        "snippet": "The U.S. Food and Drug Administration on Monday approved Shire Plc's lifitegrast eye drops for treating signs and symptoms of dry eye disease, allowing the company to bring to market its most important pipeline medicine....",
+        "lead_paragraph": "The U.S. Food and Drug Administration on Monday approved Shire Plc's lifitegrast eye drops for treating signs and symptoms of dry eye disease, allowing the company to bring to market its most important pipeline medicine.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "FDA Approves Shire's Keenly-Watched Eye Drug",
+          "print_headline": "FDA Approves Shire's Keenly-Watched Eye Drug"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:36:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57844a5938f0d87821c93376",
+        "word_count": "184",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/12/nyregion/john-brademas-indiana-congressman-and-nyu-president-dies-at-89.html",
+        "snippet": "A gregarious leader with voluminous contacts, Mr. Brademas transformed the university from a commuter school into a premier residential research and teaching institutions....",
+        "lead_paragraph": "A gregarious leader with voluminous contacts, Mr. Brademas transformed the university from a commuter school into a premier residential research and teaching institutions.",
+        "abstract": "John Brademas, former Indiana congressman who was responsible for raising academic and artistic standards at New York University during tenure as university president, dies at age 89. ",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/12/nyregion/12brademas-obit-1/12brademas-obit-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/12/nyregion/12brademas-obit-1/12brademas-obit-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/12/nyregion/12brademas-obit-1/12brademas-obit-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/12/nyregion/12brademas-obit-1/12brademas-obit-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/12/nyregion/12brademas-obit-1/12brademas-obit-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/12/nyregion/12brademas-obit-1/12brademas-obit-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "John Brademas, Indiana Congressman and N.Y.U. President, Dies at 89",
+          "print_headline": "John Brademas, 89, Ex-Representative Who Elevated N.Y.U. as Its Leader, Dies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Brademas, John"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York University"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Indiana"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          }
+        ],
+        "pub_date": "2016-07-11T21:36:38+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robert",
+              "rank": 1
+            }
+          ],
+          "original": "By ROBERT D. McFADDEN"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5784116738f0d87821c932fb",
+        "word_count": "1254",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/11/business/11reuters-usa-fed-mester.html",
+        "snippet": "Maintaining stability in financial markets should not be an explicit goal for the Federal Reserve, which should use interest rates to head off a crisis only if more precise and better-suited tools fail, a top Fed official said on Tuesday....",
+        "lead_paragraph": "Maintaining stability in financial markets should not be an explicit goal for the Federal Reserve, which should use interest rates to head off a crisis only if more precise and better-suited tools fail, a top Fed official said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Financial Stability Should Not Become Fed's Third Mandate: Mester",
+          "print_headline": "Financial Stability Should Not Become Fed's Third Mandate: Mester"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:33:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578449a438f0d87821c93375",
+        "word_count": "265",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/11/us/ap-az-grand-canyon-death.html",
+        "snippet": "A Florida woman has died after falling from a trail at Grand Canyon National Park....",
+        "lead_paragraph": "A Florida woman has died after falling from a trail at Grand Canyon National Park.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Florida Woman Dies After Fall From Grand Canyon Trail",
+          "print_headline": "Florida Woman Dies After Fall From Grand Canyon Trail"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T16:24:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5784490138f0d87821c93374",
+        "word_count": "96",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/11/world/asia/ap-as-australia-balloon.html",
+        "snippet": "A 65-year-old Russian adventurer was drifting east across the Australian Outback in a balloon on Tuesday in a bid to set a record for flying solo around the world nonstop....",
+        "lead_paragraph": "A 65-year-old Russian adventurer was drifting east across the Australian Outback in a balloon on Tuesday in a bid to set a record for flying solo around the world nonstop.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Russian Launches Balloon in Australia in Record Attempt",
+          "print_headline": "Russian Launches Balloon in Australia in Record Attempt"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-11T21:30:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578448f238f0d87821c93373",
+        "word_count": "325",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

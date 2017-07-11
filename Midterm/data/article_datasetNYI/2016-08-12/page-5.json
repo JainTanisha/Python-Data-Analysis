@@ -1,0 +1,535 @@
+{
+  "response": {
+    "meta": {
+      "hits": 874,
+      "time": 47,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/us/ap-us-duffel-bag-body.html",
+        "snippet": "A toddler girl whose body was found inside a duffel bag carried by a California man attempting to enter Mexico drowned earlier this week at a home in the Los Angeles suburb of Whittier and also suffered from malnutrition and dehydration, a San Die...",
+        "lead_paragraph": "A toddler girl whose body was found inside a duffel bag carried by a California man attempting to enter Mexico drowned earlier this week at a home in the Los Angeles suburb of Whittier and also suffered from malnutrition and dehydration, a San Diego prosecutor said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Girl in Duffel Bag Carried by California Man Had Drowned",
+          "print_headline": "Girl in Duffel Bag Carried by California Man Had Drowned"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:12:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae4ab195d0e021d79806fc",
+        "word_count": "257",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/us/ap-us-girl-stabbed.html",
+        "snippet": "The ex-boyfriend of a 16-year-old girl who died in front of her mother last week has been charged as an adult with murder in her stabbing death....",
+        "lead_paragraph": "The ex-boyfriend of a 16-year-old girl who died in front of her mother last week has been charged as an adult with murder in her stabbing death.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "17-Year-Old Charged as Adult in Stabbing Death of Girl",
+          "print_headline": "17-Year-Old Charged as Adult in Stabbing Death of Girl"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:06:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae493995d0e021d79806fb",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004589012/hillary-clinton-releases-tax-returns.html",
+        "snippet": "The Times reporter Steve Eder discusses the tax returns released by the Democratic presidential nominee Hillary Clinton \u2014 and her running mate, Tim Kaine \u2014 and what it means for her Republican rival, Donald J. Trump....",
+        "lead_paragraph": "The Times reporter Steve Eder discusses the tax returns released by the Democratic presidential nominee Hillary Clinton \u2014 and her running mate, Tim Kaine \u2014 and what it means for her Republican rival, Donald J. Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/us/13clintontaxes/13clintontaxes-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/us/13clintontaxes/13clintontaxes-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/13/us/13clintontaxes/13taxes-articleLarge.jpg",
+            "height": 394,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/13/us/13clintontaxes/13taxes-articleLarge.jpg",
+              "xlargeheight": "394"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/us/13clintontaxes/13clintontaxes-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/us/13clintontaxes/13clintontaxes-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hillary Clinton Releases Tax Returns"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Taxation"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kaine, Timothy M"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Income Tax"
+          }
+        ],
+        "pub_date": "2016-08-12T22:09:06+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Steve",
+              "rank": 1,
+              "lastname": "EDER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Quynhanh",
+              "rank": 2,
+              "lastname": "DO"
+            }
+          ],
+          "original": "By STEVE EDER and QUYNHANH DO"
+        },
+        "type_of_material": "Video",
+        "_id": "57ae493495d0e021d79806fa",
+        "word_count": "36",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/12/sports/cycling/12reuters-olympics-rio-cycling-track-m-teampursuit.html",
+        "snippet": "Bradley Wiggins fired Britain to track cycling team pursuit gold in a titanic final battle with Australia at the Rio Games on Friday, etching his name into the record books as the most decorated British Olympian of all time....",
+        "lead_paragraph": "Bradley Wiggins fired Britain to track cycling team pursuit gold in a titanic final battle with Australia at the Rio Games on Friday, etching his name into the record books as the most decorated British Olympian of all time.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cycling-'Sir Wiggo' Leads Britain to Pursuit Gold",
+          "print_headline": "Cycling-'Sir Wiggo' Leads Britain to Pursuit Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:07:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae492195d0e021d79806f9",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/olympics/ap-oly-rgu-revealing-rugby.html",
+        "snippet": "It was fast, it was furious and the ultra-fit players were colliding at full pace. Rugby sevens certainly grabbed attention in its debut at the Olympic Games....",
+        "lead_paragraph": "It was fast, it was furious and the ultra-fit players were colliding at full pace. Rugby sevens certainly grabbed attention in its debut at the Olympic Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sevens and Olympics Collide, Rugby Makes an Impact From Rio",
+          "print_headline": "Sevens and Olympics Collide, Rugby Makes an Impact From Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T21:47:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae48a395d0e021d79806f8",
+        "word_count": "816",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/football/ap-fbn-rams-return.html",
+        "snippet": "Technically, the Los Angeles Rams' game Saturday with the Dallas Cowboys is just a preseason opener at a temporary home for a relocating team that hasn't made the playoffs in 11 years....",
+        "lead_paragraph": "Technically, the Los Angeles Rams' game Saturday with the Dallas Cowboys is just a preseason opener at a temporary home for a relocating team that hasn't made the playoffs in 11 years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rams Play Homecoming Game in Preseason Opener With Cowboys",
+          "print_headline": "Rams Play Homecoming Game in Preseason Opener With Cowboys"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:05:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae489395d0e021d79806f7",
+        "word_count": "662",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://takingnote.blogs.nytimes.com/2016/08/12/decoding-donald-trumps-sarcasm/",
+        "snippet": "If Donald Trump doesn\u2019t mean what he says, maybe the best way to learn what he means is to listen to his supporters....",
+        "lead_paragraph": null,
+        "abstract": "If Donald Trump doesn\u2019t mean what he says, maybe the best way to learn what he means is to listen to his supporters.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/12/opinion/12northWEB/12northWEB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/12/opinion/12northWEB/12northWEB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/12/opinion/12northWEB/12northWEB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/12/opinion/12northWEB/12northWEB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/12/opinion/12northWEB/12northWEB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/12/opinion/12northWEB/12northWEB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Decoding Donald Trump\u2019s \u2018Sarcasm\u2019",
+          "kicker": "Taking Note"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Duke, David E"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Associated Press"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "CNN"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Ku Klux Klan"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Terrorism"
+          }
+        ],
+        "pub_date": "2016-08-12T22:04:35Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anna",
+              "rank": 1,
+              "lastname": "NORTH"
+            }
+          ],
+          "original": "By ANNA NORTH"
+        },
+        "type_of_material": "Blog",
+        "_id": "57ae483895d0e021d79806f6",
+        "word_count": "421",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/14/fashion/hamptons-benefits-breast-cancer-gwyneth-paltrow-saks.html",
+        "snippet": "Raising money for the Breast Cancer Research Foundation and Southampton Hospital, and a party on the newly opened terrace at the department store....",
+        "lead_paragraph": "Raising money for the Breast Cancer Research Foundation and Southampton Hospital, and a party on the newly opened terrace at the department store.",
+        "abstract": null,
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Benefits in the Hamptons and Cocktails at Saks",
+          "content_kicker": "Party Coverage: Scene City",
+          "kicker": "Scene City",
+          "print_headline": "Hamptons Benefits, Cocktails on a Terrace"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Breast Cancer Research Foundation"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Saks Fifth Avenue"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Southampton Hospital"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Paltrow, Gwyneth"
+          }
+        ],
+        "pub_date": "2016-08-12T22:05:35+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stuart",
+              "rank": 1,
+              "lastname": "EMMRICH"
+            }
+          ],
+          "original": "By STUART EMMRICH"
+        },
+        "type_of_material": "News",
+        "_id": "57ae483795d0e021d79806f5",
+        "word_count": "56",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/tennis/ap-ten-cincinnati.html",
+        "snippet": "Defending champion Serena Williams got one of seven wilds cards announced Friday for the Western &amp; Southern Open....",
+        "lead_paragraph": "Defending champion Serena Williams got one of seven wilds cards announced Friday for the Western &amp; Southern Open.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Serena Williams Get a Wild Card for Western & Southern",
+          "print_headline": "Serena Williams Get a Wild Card for Western & Southern"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:00:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae47f095d0e021d79806f4",
+        "word_count": "117",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/olympics/ap-us-oly-simone-manuel-headline-.html",
+        "snippet": "The Mercury News of San Jose, California, apologized Friday for an insensitive headline about U.S. swimmer Simone Manuel....",
+        "lead_paragraph": "The Mercury News of San Jose, California, apologized Friday for an insensitive headline about U.S. swimmer Simone Manuel.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Paper Apologizes Over Simone Manuel Headline",
+          "print_headline": "California Paper Apologizes Over Simone Manuel Headline"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:00:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae47eb95d0e021d79806f3",
+        "word_count": "287",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

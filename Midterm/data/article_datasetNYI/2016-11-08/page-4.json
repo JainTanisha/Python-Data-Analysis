@@ -1,0 +1,492 @@
+{
+  "response": {
+    "meta": {
+      "hits": 732,
+      "time": 52,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/politics/08reuters-usa-election-complaints.html",
+        "snippet": "Democratic Party officials said they were not seeing concerted, systemic voter suppression efforts on Tuesday as Americans continued to cast ballots in the tightly contested U.S. presidential election pitting Republican Donald Trump against Democr...",
+        "lead_paragraph": "Democratic Party officials said they were not seeing concerted, systemic voter suppression efforts on Tuesday as Americans continued to cast ballots in the tightly contested U.S. presidential election pitting Republican Donald Trump against Democrat Hillary Clinton.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Democrats, Civil Rights Groups Disagree Over Levels of Voter Complaints",
+          "print_headline": "Democrats, Civil Rights Groups Disagree Over Levels of Voter Complaints"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:39:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5822542895d0e0204d55f642",
+        "word_count": "84",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/business/08reuters-rio-tinto-guinea-corruption.html",
+        "snippet": "Global miner Rio Tinto said on Wednesday it has suspended a top executive over $10.5 million (8.47 million pounds) in payments to a consultant on its Simandou iron ore project in Guinea, and has alerted U.S. and UK authorities. A second senior exe...",
+        "lead_paragraph": "Global miner Rio Tinto said on Wednesday it has suspended a top executive over $10.5 million (8.47 million pounds) in payments to a consultant on its Simandou iron ore project in Guinea, and has alerted U.S. and UK authorities. A second senior executive has stepped down.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rio Tinto Suspends Senior Executive After Uncovers Guinea Payments",
+          "print_headline": "Rio Tinto Suspends Senior Executive After Uncovers Guinea Payments"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:36:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5822538d95d0e0204d55f641",
+        "word_count": "477",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/politics/08reuters-usa-election-north-carolina.html",
+        "snippet": "North Carolina extended voting times in several precincts during Tuesday's  presidential election but Colorado rejected a bid to keep polls open longer after both states experienced problems with electronic voting systems....",
+        "lead_paragraph": "North Carolina extended voting times in several precincts during Tuesday's  presidential election but Colorado rejected a bid to keep polls open longer after both states experienced problems with electronic voting systems.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Voting Extended in North Carolina but Not in Colorado After Court Requests",
+          "print_headline": "Voting Extended in North Carolina but Not in Colorado After Court Requests"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:36:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5822538695d0e0204d55f640",
+        "word_count": "397",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://news.blogs.nytimes.com/2016/11/08/what-were-reading-204/",
+        "snippet": "Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from Jan Hoffman, Erica Goode and others....",
+        "lead_paragraph": null,
+        "abstract": "Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from Jan Hoffman, Erica Goode and others.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "What We&#8217;re Reading",
+          "kicker": "News"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Bernstein, Nina"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Cash, Johnny"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Dell'Antonia, Karin J"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Dylan, Bob"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Goode, Erica"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Hoffman, Jan"
+          },
+          {
+            "rank": "7",
+            "name": "persons",
+            "value": "Muldoon, Paul"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "New York (Magazine)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Poetry Foundation"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Vanity Fair"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Washington Post"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Dogs"
+          }
+        ],
+        "pub_date": "2016-11-08T22:36:02Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Blogs",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Blog",
+        "_id": "5822535c95d0e0204d55f63f",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/business/ap-financial-markets-stocks.html",
+        "snippet": "Stocks that moved substantially or traded heavily on Tuesday:...",
+        "lead_paragraph": "Stocks that moved substantially or traded heavily on Tuesday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hertz and CVS Plunge; SeaWorld, Priceline Gain",
+          "print_headline": "Hertz and CVS Plunge; SeaWorld, Priceline Gain"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:33:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582252c795d0e0204d55f63e",
+        "word_count": "194",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/sports/soccer/08reuters-soccer-fifa-court.html",
+        "snippet": "The former president of Venezuela's soccer federation is expected to plead guilty to U.S. charges stemming from a bribery investigation involving FIFA, the sport's world governing body, according to court records filed on Tuesday....",
+        "lead_paragraph": "The former president of Venezuela's soccer federation is expected to plead guilty to U.S. charges stemming from a bribery investigation involving FIFA, the sport's world governing body, according to court records filed on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Venezuela Soccer Official to Plead Guilty in U.S. Bribe Case",
+          "print_headline": "Ex-Venezuela Soccer Official to Plead Guilty in U.S. Bribe Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:30:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5822520c95d0e0204d55f63d",
+        "word_count": "257",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/08/us/elections/trump-clinton-election-night-live.html",
+        "snippet": "Times reporters provided real-time analysis of Donald J. Trump\u2019s stunning upset in the presidential election on Tuesday....",
+        "lead_paragraph": "Times reporters provided real-time analysis of Donald J. Trump\u2019s stunning upset in the presidential election on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/us/09liveblog-promo/09liveblog-promo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/us/09liveblog-promo/09liveblog-promo-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/us/09liveblog-promo/09liveblog-promo-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/us/09liveblog-promo/09liveblog-promo-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/us/09liveblog-promo/09liveblog-promo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/us/09liveblog-promo/09liveblog-promo-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Election Night Live Coverage"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          }
+        ],
+        "pub_date": "2016-11-08T22:26:55+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5822513195d0e0204d55f63c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/sports/football/ap-fbn-seahawks-officiating.html",
+        "snippet": "Richard Sherman took the opportunity last week to criticize NFL officiating for what he deemed incorrect calls, almost daring the league to fine him for being so outspoken....",
+        "lead_paragraph": "Richard Sherman took the opportunity last week to criticize NFL officiating for what he deemed incorrect calls, almost daring the league to fine him for being so outspoken.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Officiating Again the Story After Mistakes in Seattle's Win",
+          "print_headline": "Officiating Again the Story After Mistakes in Seattle's Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:24:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582250b295d0e0204d55f63b",
+        "word_count": "771",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/08/us/elections/the-2016-election.html",
+        "snippet": "Donald J. Trump was elected president in a stunning upset against Hillary Clinton....",
+        "lead_paragraph": "Donald J. Trump was elected president in a stunning upset against Hillary Clinton.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/us/politics/12pencetrump_hp/12pencetrump_hp-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/us/politics/12pencetrump_hp/12pencetrump_hp-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/us/politics/12pencetrump_hp/12pencetrump_hp-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/us/politics/12pencetrump_hp/12pencetrump_hp-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/us/politics/12pencetrump_hp/12pencetrump_hp-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/us/politics/12pencetrump_hp/12pencetrump_hp-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The 2016 Election"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-08T22:19:59Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "58224f9895d0e0204d55f63a",
+        "word_count": "13",
+        "slideshow_credits": "Al Drago/The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/politics/ap-us-wwii-memorial-vandalism.html",
+        "snippet": "The National Park Service says the World War II Memorial in Washington has been vandalized, apparently by someone opposed to the Dakota Access Pipeline....",
+        "lead_paragraph": "The National Park Service says the World War II Memorial in Washington has been vandalized, apparently by someone opposed to the Dakota Access Pipeline.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "World War II Memorial Defaced in Apparent Pipeline Protest",
+          "print_headline": "World War II Memorial Defaced in Apparent Pipeline Protest"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:18:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58224f4795d0e0204d55f639",
+        "word_count": "129",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

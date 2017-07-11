@@ -1,0 +1,529 @@
+{
+  "response": {
+    "meta": {
+      "hits": 964,
+      "time": 210,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/world/americas/wonder-woman-united-nations.html",
+        "snippet": "Hundreds of U.N. staff members signed a petition objecting to the appointment of the comic book character as an ambassador for women\u2019s empowerment....",
+        "lead_paragraph": "Hundreds of U.N. staff members signed a petition objecting to the appointment of the comic book character as an ambassador for women\u2019s empowerment.",
+        "abstract": "Hundreds of United Nations staff members sign petition protesting UN's naming of comic book superhero Wonder Woman as its ambassador for women\u2019s empowerment; critics are particularly outraged that appointment, which supporters hope will engage younger generation, followed rejection of several actual female candidates.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Wonder Woman Faces Challenge at U.N.: A Recall Petition",
+          "print_headline": "Wonder Woman Faces Challenge at U.N.: A Recall Petition"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Wonder Woman (Fictional Character)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Women and Girls"
+          }
+        ],
+        "pub_date": "2016-10-20T23:28:35+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Somini",
+              "rank": 1,
+              "lastname": "SENGUPTA"
+            }
+          ],
+          "original": "By SOMINI SENGUPTA"
+        },
+        "type_of_material": "News",
+        "_id": "5809532f95d0e022439c45f0",
+        "word_count": "526",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/10/21/t-magazine/entertainment/t-greats-party-carlyle.html",
+        "snippet": "The editor in chief Deborah Needleman hosted Lady Gaga, Zadie Smith, William Eggleston, Kerry James Marshall, Massimo Bottura and more on Wednesday night....",
+        "lead_paragraph": "The editor in chief Deborah Needleman hosted Lady Gaga, Zadie Smith, William Eggleston, Kerry James Marshall, Massimo Bottura and more on Wednesday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/t-magazine/entertainment/greats-party-slide-K081/greats-party-slide-K081-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/t-magazine/entertainment/greats-party-slide-K081/greats-party-slide-K081-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/t-magazine/entertainment/greats-party-slide-K081/greats-party-slide-K081-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/t-magazine/entertainment/greats-party-slide-K081/greats-party-slide-K081-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/t-magazine/entertainment/greats-party-slide-K081/greats-party-slide-K081-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/t-magazine/entertainment/greats-party-slide-K081/greats-party-slide-K081-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "T Celebrates The Greats at the Carlyle"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lady Gaga"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Marshall, Kerry James"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Smith, Zadie"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Steinem, Gloria"
+          }
+        ],
+        "pub_date": "2016-10-20T23:28:31+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine / Entertainment",
+        "section_name": "T Magazine",
+        "subsection_name": "Entertainment",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5809532f95d0e022439c45f1",
+        "word_count": "23",
+        "slideshow_credits": "Joe Schildhorn & Kelly Taub/BFA"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/world/middleeast/ap-un-united-nations-yemen-funeral-attack.html",
+        "snippet": "U.N. experts investigating the double bombing of a packed funeral hall in the rebel-held Yemeni capital on Oct. 8 are accusing the Saudi-led coalition of violating international humanitarian law by attacking civilians, the wounded, and medical per...",
+        "lead_paragraph": "U.N. experts investigating the double bombing of a packed funeral hall in the rebel-held Yemeni capital on Oct. 8 are accusing the Saudi-led coalition of violating international humanitarian law by attacking civilians, the wounded, and medical personnel.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Experts Say Saudi Coalition Violated Law in Yemen Attack",
+          "print_headline": "UN Experts Say Saudi Coalition Violated Law in Yemen Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:27:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5809530095d0e022439c45ee",
+        "word_count": "496",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-bbn-marlins-fernandez-killed-jetty.html",
+        "snippet": "U.S. Coast Guard officials say they'll examine lighting on the Miami Beach jetty involved in a boat crash that killed Miami Marlins pitcher Jose Fernandez and two other men last month....",
+        "lead_paragraph": "U.S. Coast Guard officials say they'll examine lighting on the Miami Beach jetty involved in a boat crash that killed Miami Marlins pitcher Jose Fernandez and two other men last month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Coast Guard to Look at Jetty in Jose Fernandez Boat Crash",
+          "print_headline": "Coast Guard to Look at Jetty in Jose Fernandez Boat Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:27:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5809530595d0e022439c45ef",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/business/20reuters-britain-accounts-regulator.html",
+        "snippet": "Britain should not go it alone by adopting its own book-keeping rules after it leaves the European Union, though the global regulations in place could be tailored, the UK's accounting watchdog said on Friday....",
+        "lead_paragraph": "Britain should not go it alone by adopting its own book-keeping rules after it leaves the European Union, though the global regulations in place could be tailored, the UK's accounting watchdog said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Accounting Watchdog Urges UK to Stick With Global Rules",
+          "print_headline": "Accounting Watchdog Urges UK to Stick With Global Rules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:27:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580952e995d0e022439c45ed",
+        "word_count": "323",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/africa/20reuters-centralafrica-youth-index.html",
+        "snippet": "Little or no access to education and healthcare, poor job prospects and low participation levels in politics make the Central African Republic the worst country in the world to be a young person, an index by a group representing Commonwealth count...",
+        "lead_paragraph": "Little or no access to education and healthcare, poor job prospects and low participation levels in politics make the Central African Republic the worst country in the world to be a young person, an index by a group representing Commonwealth countries showed. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Central African Republic Worst Country in the World for Young People &#8211; Study",
+          "print_headline": "Central African Republic Worst Country in the World for Young People &#8211; Study"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:21:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5809518895d0e022439c45ec",
+        "word_count": "440",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/sports/football/ap-fbn-bears-packers-inactives.html",
+        "snippet": "The Chicago Bears have Pernell McPhee back at linebacker Thursday night against the Green Bay Packers....",
+        "lead_paragraph": "The Chicago Bears have Pernell McPhee back at linebacker Thursday night against the Green Bay Packers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pernell Back at LB, TE Miller Active for Bears vs Packers",
+          "print_headline": "Pernell Back at LB, TE Miller Active for Bears vs Packers"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:18:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580950e695d0e022439c45eb",
+        "word_count": "191",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/sports/football/new-england-patriots-pittsburgh-steelers.html",
+        "snippet": "Even without quarterback Ben Roethlisberger, the 4-2 Steelers are likely to test the 5-1 Patriots....",
+        "lead_paragraph": "Even without quarterback Ben Roethlisberger, the 4-2 Steelers are likely to test the 5-1 Patriots.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/sports/21-Y-PATRIOTS/21-Y-PATRIOTS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/sports/21-Y-PATRIOTS/21-Y-PATRIOTS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/sports/21-Y-PATRIOTS/21-Y-PATRIOTS-articleLarge.jpg",
+            "height": 750,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/sports/21-Y-PATRIOTS/21-Y-PATRIOTS-articleLarge.jpg",
+              "xlargeheight": "750"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/sports/21-Y-PATRIOTS/21-Y-PATRIOTS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/sports/21-Y-PATRIOTS/21-Y-PATRIOTS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Patriots Are Wary of the Depleted Steelers",
+          "print_headline": "Patriots Wary of the Depleted Steelers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New England Patriots"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pittsburgh Steelers"
+          }
+        ],
+        "pub_date": "2016-10-20T23:18:29+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580950cc95d0e022439c45e9",
+        "word_count": "524",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/business/dealbook/fight-goldman-sachs-libyan-fund-shadows-lawyer.html",
+        "snippet": "For Catherine McDougall, the case showed the lengths that Western firms will go to keep a potentially lucrative client happy and the damage left behind....",
+        "lead_paragraph": "For Catherine McDougall, the case showed the lengths that Western firms will go to keep a potentially lucrative client happy and the damage left behind.",
+        "abstract": "Australian attorney Catherine McDougall, who was sent to Libya in 2008 by London law firm Allen & Overy, continues to be haunted by disciplinary proceeding against her, based on complaint from Libyan general counsel, that led to her resignation; now pulled in as witness in battle between Goldman Sachs and sovereign wealth fund Libyan Investment Authority, McDougall says her situation illustrates how much collateral damage  Western firms are willing to create in effort to keep potentially lucrative foreign clients content.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/business/21LIBYAlawyer-web/21LIBYAlawyer-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/business/21LIBYAlawyer-web/21LIBYAlawyer-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/business/21LIBYAlawyer-web/21LIBYAlawyer-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/business/21LIBYAlawyer-web/21LIBYAlawyer-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/business/21LIBYAlawyer-web/21LIBYAlawyer-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/business/21LIBYAlawyer-web/21LIBYAlawyer-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Fight Between Goldman Sachs and Libyan Fund Shadows Lawyer",
+          "print_headline": "Fight Between Goldman and Libyan Fund Shadows Lawyer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Goldman Sachs Group Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Allen & Overy LLP"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Libyan Investment Authority"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "McDougall, Catherine (Attorney)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Libya"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Legal Profession"
+          }
+        ],
+        "pub_date": "2016-10-20T23:18:27+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anita",
+              "rank": 1,
+              "lastname": "RAGHAVAN"
+            }
+          ],
+          "original": "By ANITA RAGHAVAN"
+        },
+        "type_of_material": "News",
+        "_id": "580950cc95d0e022439c45ea",
+        "word_count": "1276",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-us-lgbt-rights.html",
+        "snippet": "The government is appealing a federal judge's decision to temporarily block an Obama administration directive on bathroom rights for transgender students in public schools nationwide....",
+        "lead_paragraph": "The government is appealing a federal judge's decision to temporarily block an Obama administration directive on bathroom rights for transgender students in public schools nationwide.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Government Appeals Temporary Block on Transgender Rules",
+          "print_headline": "Government Appeals Temporary Block on Transgender Rules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:15:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5809502a95d0e022439c45e8",
+        "word_count": "133",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

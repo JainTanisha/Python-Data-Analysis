@@ -1,0 +1,604 @@
+{
+  "response": {
+    "meta": {
+      "hits": 407,
+      "time": 89,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/13/business/13reuters-global-oil.html",
+        "snippet": "Oil prices were little changed on Monday near multi-month lows, dragged down by worries about oversupply as OPEC saw record output last month and as the U.S. rig count rose again....",
+        "lead_paragraph": "Oil prices were little changed on Monday near multi-month lows, dragged down by worries about oversupply as OPEC saw record output last month and as the U.S. rig count rose again.     ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Oil Steady Near Multi-Month Lows on OPEC Output Record, U.S. Rig Count",
+          "print_headline": "Oil Steady Near Multi-Month Lows on OPEC Output Record, U.S. Rig Count"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T23:36:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5828f90995d0e0204d56039c",
+        "word_count": "439",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/world/middleeast/bill-to-legalize-west-bank-settlements-advances-in-israel.html",
+        "snippet": "If approved by Parliament, legislation would transfer the rights for the use of private land into Israeli hands and force Palestinian landowners to accept compensation....",
+        "lead_paragraph": "If approved by Parliament, legislation would transfer the rights for the use of private land into Israeli hands and force Palestinian landowners to accept compensation.",
+        "abstract": "Israeli ministerial committee approves bill that permits retroactive legalization of Jewish settlement outposts built on privately owned Palestinian land located in occupied West Bank; experts say bill, which requires approval by Parliament, would defy international law.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Bill to Legalize West Bank Settlements Advances in Israel",
+          "print_headline": "Israeli Bill to Legalize Settlements Advances"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Israeli Settlements"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Palestinians"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Netanyahu, Benjamin"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Israel"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "West Bank"
+          }
+        ],
+        "pub_date": "2016-11-13T23:35:42Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Gabby Sobelman contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Isabel",
+              "rank": 1,
+              "lastname": "KERSHNER"
+            }
+          ],
+          "original": "By ISABEL KERSHNER"
+        },
+        "type_of_material": "News",
+        "_id": "5828f8d595d0e0204d56039b",
+        "word_count": "535",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/arts/television/ocean-warriors.html",
+        "snippet": "\u201cOcean Warriors\u201d will have its premiere on Dec. 4 and aims to reveal the crime and violence that often go unpunished in international waters....",
+        "lead_paragraph": "\u201cOcean Warriors\u201d will have its premiere on Dec. 4 and aims to reveal the crime and violence that often go unpunished in international waters.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/14/arts/14ocean-item/14ocean-item-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/14/arts/14ocean-item/14ocean-item-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/14/arts/14ocean-item/14ocean-item-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/14/arts/14ocean-item/14ocean-item-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/14/arts/14ocean-item/14ocean-item-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/14/arts/14ocean-item/14ocean-item-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ocean Conservation Series Coming to Animal Planet",
+          "print_headline": "\u2018Ocean Warriors\u2019 Coming to Animal Planet"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Ocean Warriors (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Oceans and Seas"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Poaching (Wildlife)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Animal Planet"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Allen, Paul"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Redford, Robert"
+          }
+        ],
+        "pub_date": "2016-11-13T23:33:44Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Andrew",
+              "middlename": "R.",
+              "lastname": "CHOW",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANDREW R. CHOW"
+        },
+        "type_of_material": "News",
+        "_id": "5828f85d95d0e0204d56039a",
+        "word_count": "170",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/13/sports/golf/13reuters-golf-european-poulter.html",
+        "snippet": "England's Ian Poulter will make his first appearance in a regular European Tour event for 10 months when he competes in the Dec. 1-4 Australian PGA Championship on Queensland's Gold Coast, the tour announced on Sunday....",
+        "lead_paragraph": "England's Ian Poulter will make his first appearance in a regular European Tour event for 10 months when he competes in the Dec. 1-4 Australian PGA Championship on Queensland's Gold Coast, the tour announced on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Poulter Set for European Tour Return in Australia",
+          "print_headline": "Poulter Set for European Tour Return in Australia"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T23:33:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5828f85295d0e0204d560399",
+        "word_count": "208",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/13/business/13reuters-mentorgraphics-m-a-siemens.html",
+        "snippet": "Siemens AG, Europe's biggest industrial group, is nearing a deal to buy Mentor Graphics Corp, which makes software for designing semiconductors, for $4.5 billion (3.58 billion pounds) to $4.6 billion in cash, according to people familiar with the ...",
+        "lead_paragraph": "Siemens AG, Europe's biggest industrial group, is nearing a deal to buy Mentor Graphics Corp, which makes software for designing semiconductors, for $4.5 billion (3.58 billion pounds) to $4.6 billion in cash, according to people familiar with the matter.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive-Siemens Nears Deal to Buy Mentor Graphics: Sources",
+          "print_headline": "Exclusive-Siemens Nears Deal to Buy Mentor Graphics: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T23:30:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5828f79a95d0e0204d560398",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/13/world/europe/13reuters-usa-election-eu.html",
+        "snippet": "The European Union must spend more on defense and uphold accords on climate change and Iran's nuclear program, the bloc's foreign ministers said after mulling future ties with U.S. President-elect Donald Trump, who has cast doubt on all three....",
+        "lead_paragraph": "The European Union must spend more on defense and uphold accords on climate change and Iran's nuclear program, the bloc's foreign ministers said after mulling future ties with U.S. President-elect Donald Trump, who has cast doubt on all three.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "EU Braces for 'More Businesslike' Ties With Trump's America",
+          "print_headline": "EU Braces for 'More Businesslike' Ties With Trump's America"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T23:27:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5828f6e795d0e0204d560397",
+        "word_count": "406",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/world/africa/south-africa-energy-solar-wind-nuclear.html",
+        "snippet": "The country is experiencing a boom in renewable energy, but some government officials are pushing instead for nuclear power to wean the nation off coal....",
+        "lead_paragraph": "The country is experiencing a boom in renewable energy, but some government officials are pushing instead for nuclear power to wean the nation off coal.",
+        "abstract": "South African utility company Eskom and government officials believe nuclear plants should be built to provide supplemental energy, in addition to what is harvested from renewable energy facilities; critics disagree with proposed tactic citing dropping cost of building solar and wind powered plants as more viable option. ",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/world/12SouthAfrica1/12SouthAfrica1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/world/12SouthAfrica1/12SouthAfrica1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/world/12SouthAfrica1/12SouthAfrica-web1-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/world/12SouthAfrica1/12SouthAfrica-web1-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/world/12SouthAfrica1/12SouthAfrica1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/world/12SouthAfrica1/12SouthAfrica1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Windmills or Reactor Cores? Inside South Africa\u2019s Energy Clash",
+          "print_headline": "Windmills and Solar Panels, or Nuclear Reactors?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "South Africa"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Alternative and Renewable Energy"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Solar Energy"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Nuclear Energy"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Wind Power"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Eskom"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Electric Light and Power"
+          }
+        ],
+        "pub_date": "2016-11-13T23:27:16Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Norimitsu",
+              "rank": 1,
+              "lastname": "ONISHI"
+            }
+          ],
+          "original": "By NORIMITSU ONISHI"
+        },
+        "type_of_material": "News",
+        "_id": "5828f6da95d0e0204d560396",
+        "word_count": "1240",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/arts/design/christies-sothebys-phillips-fall-auction-trump.html",
+        "snippet": "The sales of Impressionist, Modern and contemporary art that start Monday offer the first test of how the art market will react to a Trump presidency....",
+        "lead_paragraph": "The sales of Impressionist, Modern and contemporary art that start Monday offer the first test of how the art market will react to a Trump presidency.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/14/arts/14AUCTIONCURTAIN/14AUCTIONCURTAIN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/14/arts/14AUCTIONCURTAIN/14AUCTIONCURTAIN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/14/arts/14AUCTIONCURTAIN/14AUCTIONCURTAIN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/14/arts/14AUCTIONCURTAIN/14AUCTIONCURTAIN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/14/arts/14AUCTIONCURTAIN/14AUCTIONCURTAIN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/14/arts/14AUCTIONCURTAIN/14AUCTIONCURTAIN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Art Market\u2019s Reaction to Trump? Sales This Week Offer First Test",
+          "print_headline": "Art Market\u2019s Reaction to Election? Sales This Week Offer First Test"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Christie's"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Phillips Auctioneers LLC"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Monet, Claude"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Munch, Edvard"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Sotheby's"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-13T23:23:10+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 1,
+              "lastname": "POGREBIN"
+            }
+          ],
+          "original": "By ROBIN POGREBIN"
+        },
+        "type_of_material": "News",
+        "_id": "5828f5e595d0e0204d560395",
+        "word_count": "1040",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/sports/ncaabasketball/ap-bkw-t25-san-jose-st-arizona-st.html",
+        "snippet": "Freshmen Robbi Ryan and Reili Richardson scored 11 points apiece and No. 18 Arizona State rolled to an 82-37 win over San Jose State on Sunday....",
+        "lead_paragraph": "Freshmen Robbi Ryan and Reili Richardson scored 11 points apiece and No. 18 Arizona State rolled to an 82-37 win over San Jose State on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 18 Arizona State Women Use Balance to Top San Jose 82-37",
+          "print_headline": "No. 18 Arizona State Women Use Balance to Top San Jose 82-37"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T23:21:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828f59b95d0e0204d560394",
+        "word_count": "163",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/us/politics/ap-us-trump-priebus.html",
+        "snippet": "In the year of the outsider, Reince Priebus was the face of the Republican establishment....",
+        "lead_paragraph": "In the year of the outsider, Reince Priebus was the face of the Republican establishment.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "A Man With Many Friends: Priebus Tapped as Chief of Staff",
+          "print_headline": "A Man With Many Friends: Priebus Tapped as Chief of Staff"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T23:21:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828f59295d0e0204d560393",
+        "word_count": "712",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

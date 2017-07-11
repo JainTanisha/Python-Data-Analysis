@@ -1,0 +1,532 @@
+{
+  "response": {
+    "meta": {
+      "hits": 421,
+      "time": 34,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/05/world/africa/05reuters-bissau-politics.html",
+        "snippet": "Police in Guinea-Bissau's capital used tear gas to disperse hundreds of protesters demanding fresh elections on Saturday as a regional mission pushed for the implementation of a deal to end a year-long political crisis....",
+        "lead_paragraph": "Police in Guinea-Bissau's capital used tear gas to disperse hundreds of protesters demanding fresh elections on Saturday as a regional mission pushed for the implementation of a deal to end a year-long political crisis.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Break Up Protests Against Guinea-Bissau President",
+          "print_headline": "Police Break Up Protests Against Guinea-Bissau President"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T22:48:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820e08a95d0e0204d55ee9f",
+        "word_count": "291",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/05/world/europe/05reuters-turkey-security-airport.html",
+        "snippet": "Turkish authorities briefly barred cars from entering and leaving Istanbul's main Ataturk Airport on Sunday after police fired shots when a motorcycle refused an order to stop, CNN Turk said....",
+        "lead_paragraph": "Turkish authorities briefly barred cars from entering and leaving Istanbul's main Ataturk Airport on Sunday after police fired shots when a motorcycle refused an order to stop, CNN Turk said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Shots Fired at Istanbul's Ataturk Airport, Two Men Detained: TV",
+          "print_headline": "Shots Fired at Istanbul's Ataturk Airport, Two Men Detained: TV"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T22:45:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820e07995d0e0204d55ee9e",
+        "word_count": "201",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/06/world/middleeast/jordan-us-military-shooting.html",
+        "snippet": "Staff Sgt. Jimmy Moriarty, who was fatally shot along with two other American trainers on Friday, had told relatives the day before that everything was \u201chunky-dory.\u201d...",
+        "lead_paragraph": "Staff Sgt. Jimmy Moriarty, who was fatally shot along with two other American trainers on Friday, had told relatives the day before that everything was \u201chunky-dory.\u201d",
+        "abstract": "United States and Jordan begin joint investigation of killings of three American soldiers, including Staff Sgt Jimmy Moriarty, at hands of Jordanian soldier at King Faisal air base; family of Moriarty has expressed doubt about only account of shootings that has been given so far.",
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Few Answers for the Family of a U.S. Soldier Slain in Jordan",
+          "print_headline": "U.S. and Families Seek Answers in Deaths of 3 Trainers in Jordan"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Military Bases and Installations"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Moriarty, James F (1989-2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Jordan"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United States Army"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          }
+        ],
+        "pub_date": "2016-11-05T22:43:23Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Ranya Kadri contributed reporting from Amman, Jordan, and Eric Schmitt and Helene Cooper from Washington.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Peter",
+              "rank": 1,
+              "lastname": "BAKER"
+            }
+          ],
+          "original": "By PETER BAKER"
+        },
+        "type_of_material": "News",
+        "_id": "5820dfec95d0e0204d55ee94",
+        "word_count": "623",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/06/sunday-review/dont-gloat-democrats.html",
+        "snippet": "Whether or not Clinton wins the election, the Democratic Party will need to confront its formidable ideological schisms....",
+        "lead_paragraph": "Whether or not Clinton wins the election, the Democratic Party will need to confront its formidable ideological schisms.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Don\u2019t Gloat, Democrats",
+          "content_kicker": "News Analysis",
+          "kicker": "News Analysis",
+          "print_headline": "Don\u2019t Gloat, Democrats"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-05T22:39:23Z",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Sunday Review",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 1,
+              "lastname": "NAGOURNEY"
+            }
+          ],
+          "original": "By ADAM NAGOURNEY"
+        },
+        "type_of_material": "News Analysis",
+        "_id": "5820e0a095d0e0204d55eea2",
+        "word_count": "1136",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016.html",
+        "snippet": "After a hard-fought primary season the Democrats have plenty of internal wounds to heal....",
+        "lead_paragraph": "After a hard-fought primary season the Democrats have plenty of internal wounds to heal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016-1478384138544/another-party-another-fracture-the-democrats-election-2016-1478384138544-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016-1478384138544/another-party-another-fracture-the-democrats-election-2016-1478384138544-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016-1478384138544/another-party-another-fracture-the-democrats-election-2016-1478384138544-articleLarge-v5.jpg",
+            "height": 529,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016-1478384138544/another-party-another-fracture-the-democrats-election-2016-1478384138544-articleLarge-v5.jpg",
+              "xlargeheight": "529"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016-1478384138544/another-party-another-fracture-the-democrats-election-2016-1478384138544-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/06/sunday-review/another-party-another-fracture-the-democrats-election-2016-1478384138544/another-party-another-fracture-the-democrats-election-2016-1478384138544-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Guide to the Democratic Herd, An Unwieldy Group of Donkeys"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-11-05T22:26:15+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sunday Review",
+        "section_name": "Sunday Review",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Bill",
+              "rank": 1,
+              "lastname": "MARSH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Troy",
+              "rank": 2,
+              "lastname": "GRIGGS"
+            }
+          ],
+          "original": "By BILL MARSH and TROY GRIGGS"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5820dfe295d0e0204d55ee92",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016.html",
+        "snippet": "The Republican electorate has fractured over the policy views and personal history of Donald J. Trump....",
+        "lead_paragraph": "The Republican electorate has fractured over the policy views and personal history of Donald J. Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016-1478384107778/the-fractious-republican-herd-election-2016-1478384107778-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016-1478384107778/the-fractious-republican-herd-election-2016-1478384107778-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016-1478384107778/the-fractious-republican-herd-election-2016-1478384107778-articleLarge-v4.jpg",
+            "height": 379,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016-1478384107778/the-fractious-republican-herd-election-2016-1478384107778-articleLarge-v4.jpg",
+              "xlargeheight": "379"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016-1478384107778/the-fractious-republican-herd-election-2016-1478384107778-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/06/sunday-review/the-fractious-republican-herd-election-2016-1478384107778/the-fractious-republican-herd-election-2016-1478384107778-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Guide to the Republican Herd, A Divided Pack of Elephants"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-05T22:25:11+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sunday Review",
+        "section_name": "Sunday Review",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Bill",
+              "rank": 1,
+              "lastname": "MARSH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Troy",
+              "rank": 2,
+              "lastname": "GRIGGS"
+            }
+          ],
+          "original": "By BILL MARSH and TROY GRIGGS"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5820e01095d0e0204d55ee9a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/us/ap-us-election-selecting-judges.html",
+        "snippet": "A nurse-turned-law clerk is the only candidate listed on next week's general election ballot for an open Chicago-area judgeship, even after she was fired from her courthouse job and criminally charged for donning a black robe and presiding over tr...",
+        "lead_paragraph": "A nurse-turned-law clerk is the only candidate listed on next week's general election ballot for an open Chicago-area judgeship, even after she was fired from her courthouse job and criminally charged for donning a black robe and presiding over traffic cases that should have been heard by a real judge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "States Grapple With How to Pick Judges; No Universal System",
+          "print_headline": "States Grapple With How to Pick Judges; No Universal System"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T22:18:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820e03c95d0e0204d55ee9c",
+        "word_count": "890",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/world/europe/ap-us-obit-perrey.html",
+        "snippet": "Jean-Jacques Perrey, the French composer and pioneer of electronic pop music who was best known for co-writing \"Baroque Hoedown\" used as the music for the Main Street Electrical Parade at Disney theme parks, has died at age 87....",
+        "lead_paragraph": "Jean-Jacques Perrey, the French composer and pioneer of electronic pop music who was best known for co-writing \"Baroque Hoedown\" used as the music for the Main Street Electrical Parade at Disney theme parks, has died at age 87.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Electronic Music Pioneer Jean-Jacques Perrey Dies at 87",
+          "print_headline": "Electronic Music Pioneer Jean-Jacques Perrey Dies at 87"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T22:06:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820dffb95d0e0204d55ee97",
+        "word_count": "787",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/05/us/05reuters-chicago-airplane-letter.html",
+        "snippet": "General Electric Co is seeking to remove an engine part from service after an American Airlines jet erupted in flames last week, it told air carriers in a letter seen by Reuters on Saturday....",
+        "lead_paragraph": "General Electric Co is seeking to remove an engine part from service after an American Airlines jet erupted in flames last week, it told air carriers in a letter seen by Reuters on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "GE Alerts Airlines About Engine Part After American Airlines Fire",
+          "print_headline": "GE Alerts Airlines About Engine Part After American Airlines Fire"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T22:06:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df9195d0e0204d55ee8c",
+        "word_count": "374",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/sports/hockey/ap-hkn-wild-avalanche.html",
+        "snippet": "Gabriel Landeskog will think twice about engaging in fights with opposing goaltenders....",
+        "lead_paragraph": "Gabriel Landeskog will think twice about engaging in fights with opposing goaltenders.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Landeskog, Pickard Lift Avalanche to 1-0 Win Over Wild",
+          "print_headline": "Landeskog, Pickard Lift Avalanche to 1-0 Win Over Wild"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T22:00:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820dff495d0e0204d55ee95",
+        "word_count": "681",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

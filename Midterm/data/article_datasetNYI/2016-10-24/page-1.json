@@ -1,0 +1,610 @@
+{
+  "response": {
+    "meta": {
+      "hits": 782,
+      "time": 51,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/24/arts/24reuters-people-kardashian.html",
+        "snippet": "Reality TV star Kim Kardashian on Monday dropped a defamation lawsuit against a website that claimed she staged an armed robbery in Paris after the two sides resolved the issue, her lawyer said....",
+        "lead_paragraph": "Reality TV star Kim Kardashian on Monday dropped a defamation lawsuit against a website that claimed she staged an armed robbery in Paris after the two sides resolved the issue, her lawyer said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Kardashian, Website Resolve Suit Over Claims Robbery Faked",
+          "print_headline": "Kardashian, Website Resolve Suit Over Claims Robbery Faked"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T23:45:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580e9d2095d0e022439c4f7d",
+        "word_count": "216",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/arts/design/discovering-contemporary-african-art-with-a-curator-as-a-guide.html",
+        "snippet": "Specialists are discovering artists, then empowering them to push boundaries, build networks and draw the public to their work....",
+        "lead_paragraph": "Specialists are discovering artists, then empowering them to push boundaries, build networks and draw the public to their work.",
+        "abstract": null,
+        "print_page": "28",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/arts/design/30CURATORS2/30CURATORS2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/arts/design/30CURATORS2/30CURATORS2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/arts/design/30CURATORS2/30CURATORS2-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/arts/design/30CURATORS2/30CURATORS2-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/arts/design/30CURATORS2/30CURATORS2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/arts/design/30CURATORS2/30CURATORS2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Discovering Contemporary African Art, With a Curator as a Guide",
+          "print_headline": "Africa Specialists, Uncovering Work by Today\u2019s Artists"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Museum of African Art"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Africa"
+          }
+        ],
+        "pub_date": "2016-10-24T23:40:36+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Paulette",
+              "rank": 1,
+              "lastname": "PERHACH"
+            }
+          ],
+          "original": "By PAULETTE PERHACH"
+        },
+        "type_of_material": "News",
+        "_id": "580e9bfc95d0e022439c4f7c",
+        "word_count": "1045",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-film-box-office.html",
+        "snippet": "\"Tyler Perry's Boo! A Madea Halloween\" outmuscled the Tom Cruise vehicle \"Jack Reacher: Never Go Back\" at the box office this weekend. Perry's film netted $28.5 million &#8212; slightly higher than initial projections, while the \"Jack Reacher\" seq...",
+        "lead_paragraph": "\"Tyler Perry's Boo! A Madea Halloween\" outmuscled the Tom Cruise vehicle \"Jack Reacher: Never Go Back\" at the box office this weekend. Perry's film netted $28.5 million &#8212; slightly higher than initial projections, while the \"Jack Reacher\" sequel came in slightly lower with $22.9 million, according to studio actuals Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Box Office Top 20: 'Madea' Tops Charts,' Moonlight' Shines",
+          "print_headline": "Box Office Top 20: 'Madea' Tops Charts,' Moonlight' Shines"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T23:39:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e9bd895d0e022439c4f7b",
+        "word_count": "550",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/world/africa/ap-af-kenya-death-penalty.html",
+        "snippet": "Kenyan President Uhuru Kenyatta has commuted all the death sentences handed out in the East African country....",
+        "lead_paragraph": "Kenyan President Uhuru Kenyatta has commuted all the death sentences handed out in the East African country.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kenyan President Commutes All Death Sentences",
+          "print_headline": "Kenyan President Commutes All Death Sentences"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T23:39:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e9bd295d0e022439c4f7a",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/25/business/media/with-att-time-warner-deal-brewing-a-focus-on-preserving-cnns-integrity.html",
+        "snippet": "The difficulties of defending tough reporting and shielding journalists from powerful antagonists can be hard for any corporation to stomach. And AT&T has no journalistic lineage....",
+        "lead_paragraph": "The difficulties of defending tough reporting and shielding journalists from powerful antagonists can be hard for any corporation to stomach. And AT&T has no journalistic lineage.",
+        "abstract": "Pending merger between AT&T and Time Warner is creating anxiety about journalistic integrity of CNN, cable news stalwart which will come under leadership of global communication behemoth if deal is completed; AT&T chief exec Randall Stephenson attempts to allay concerns by pledging to respect news network's editorial independence.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/business/25CNN/25CNN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/business/25CNN/25CNN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/25/business/25CNN/25CNN-articleLarge.jpg",
+            "height": 368,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/25/business/25CNN/25CNN-articleLarge.jpg",
+              "xlargeheight": "368"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/business/25CNN/25CNN-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/business/25CNN/25CNN-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "With AT&T-Time Warner Deal Brewing, a Focus on Preserving CNN\u2019s Integrity",
+          "print_headline": "Suitor Says CNN to Stay Independent on the News"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "AT&T Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "CNN"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Time Warner Inc"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stephenson, Randall L"
+          }
+        ],
+        "pub_date": "2016-10-24T23:39:51+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "contributor": "Sydney Ember and Emily Steel contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1
+            }
+          ],
+          "original": "By MICHAEL M. GRYNBAUM"
+        },
+        "type_of_material": "News",
+        "_id": "580e9bcf95d0e022439c4f79",
+        "word_count": "853",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/arts/design/cuba-in-all-its-natural-glory-at-the-american-museum-of-natural-history.html",
+        "snippet": "The museum is readying one of the largest exhibitions ever in the United States on Cuba\u2019s biodiversity and culture....",
+        "lead_paragraph": "The museum is readying one of the largest exhibitions ever in the United States on Cuba\u2019s biodiversity and culture.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/technology/30CUBAART1/30CUBAART1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/technology/30CUBAART1/30CUBAART1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/technology/30CUBAART1/30CUBAART1-articleLarge.jpg",
+            "height": 430,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/technology/30CUBAART1/30CUBAART1-articleLarge.jpg",
+              "xlargeheight": "430"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/technology/30CUBAART1/30CUBAART1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/technology/30CUBAART1/30CUBAART1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Cuba in All Its Natural Glory at the American Museum of Natural History",
+          "print_headline": "Cuba in All Its Natural Glory"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cuba"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Museum of Natural History"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Cuba (Exhibit)"
+          }
+        ],
+        "pub_date": "2016-10-24T23:39:37+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alina",
+              "rank": 1,
+              "lastname": "TUGEND"
+            }
+          ],
+          "original": "By ALINA TUGEND"
+        },
+        "type_of_material": "News",
+        "_id": "580e9bbf95d0e022439c4f78",
+        "word_count": "1065",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/us/ap-us-school-bus-crash.html",
+        "snippet": "Authorities say a car sideswiped a small school bus in Northern California and then hit another vehicle, giving three people aboard the bus minor injuries....",
+        "lead_paragraph": "Authorities say a car sideswiped a small school bus in Northern California and then hit another vehicle, giving three people aboard the bus minor injuries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Car Sideswipes School Bus That Tips Over, Slightly Hurting 3",
+          "print_headline": "Car Sideswipes School Bus That Tips Over, Slightly Hurting 3"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T23:36:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e9b1095d0e022439c4f77",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/24/arts/24reuters-film-doctorstrange.html",
+        "snippet": "\"Doctor Strange,\" the latest superhero to dominate the big screen, is taking Walt Disney Co's Marvel universe in an unconventional direction, lead star Benedict Cumberbatch said on Monday....",
+        "lead_paragraph": "\"Doctor Strange,\" the latest superhero to dominate the big screen, is taking Walt Disney Co's Marvel universe in an unconventional direction, lead star Benedict Cumberbatch said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cumberbatch Discusses Marvel's 'Left Turn' for 'Doctor Strange'",
+          "print_headline": "Cumberbatch Discusses Marvel's 'Left Turn' for 'Doctor Strange'"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T23:33:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580e9a5195d0e022439c4f76",
+        "word_count": "432",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://dotearth.blogs.nytimes.com/2016/10/24/remembering-gordon-hamilton-an-edge-pushing-prober-of-eroding-ice/",
+        "snippet": "The death of a prominent glaciologist in Antarctica illustrates how edge-pushing science sometimes poses existential risks....",
+        "lead_paragraph": null,
+        "abstract": "The death of a prominent glaciologist in Antarctica illustrates how edge-pushing science sometimes poses existential risks.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/science/25GILLISJP/25GILLISJP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/science/25GILLISJP/25GILLISJP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/25/science/25GILLISJP/25GILLISJP-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/25/science/25GILLISJP/25GILLISJP-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/science/25GILLISJP/25GILLISJP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/science/25GILLISJP/25GILLISJP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Remembering Gordon Hamilton &#8211; An Edge-Pushing Prober of Eroding Ice",
+          "kicker": "Dot Earth"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Gillis, Justin"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Antarctic Regions"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Greenland"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "University of Maine"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Glaciers"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Global Warming"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Ice"
+          }
+        ],
+        "pub_date": "2016-10-24T23:24:03Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Andrew",
+              "middlename": "C.",
+              "lastname": "REVKIN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANDREW C. REVKIN"
+        },
+        "type_of_material": "Blog",
+        "_id": "580e981a95d0e022439c4f75",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/24/world/americas/ap-lt-mexico-trump.html",
+        "snippet": "Mexican President Enrique Pena Nieto says he could have done a better job handling a controversial Aug. 31 meeting with Republican candidate Donald Trump....",
+        "lead_paragraph": "Mexican President Enrique Pena Nieto says he could have done a better job handling a controversial Aug. 31 meeting with Republican candidate Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico President: Trump Visit Could Have Been Handled Better",
+          "print_headline": "Mexico President: Trump Visit Could Have Been Handled Better"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-24T23:21:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580e979c95d0e022439c4f74",
+        "word_count": "133",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,582 @@
+{
+  "response": {
+    "meta": {
+      "hits": 370,
+      "time": 56,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/27/world/americas/27reuters-venezuela-crime.html",
+        "snippet": "Venezuela's state prosecutor said on Sunday it would charge 11 members of the military for responsibility in the death of 12 civilians following a security raid last month in the violent country's coastal state of Miranda....",
+        "lead_paragraph": "Venezuela's state prosecutor said on Sunday it would charge 11 members of the military for responsibility in the death of 12 civilians following a security raid last month in the violent country's coastal state of Miranda.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela to Charge Soldiers Over 12 Deaths in Security Operation",
+          "print_headline": "Venezuela to Charge Soldiers Over 12 Deaths in Security Operation"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:21:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583b6a8295d0e03926072b8c",
+        "word_count": "366",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/business/ap-us-mcclendon-estate.html",
+        "snippet": "A lawsuit by a partner of Oklahoma City energy magnate Aubrey McClendon challenges the distribution of funds from McClendon's estate....",
+        "lead_paragraph": "A lawsuit by a partner of Oklahoma City energy magnate Aubrey McClendon challenges the distribution of funds from McClendon's estate.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Lawsuit Challenges Fund Distribution of McClendon Estate",
+          "print_headline": "Lawsuit Challenges Fund Distribution of McClendon Estate"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:18:36+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b69d695d0e03926072b8b",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/world/africa/ugandan-troops-move-against-tribal-king-in-rebel-region.html",
+        "snippet": "Security forces clashed with palace guards and removed the leader of the Bakonzo people, a vocal critic of President Yoweri Museveni....",
+        "lead_paragraph": "Security forces clashed with palace guards and removed the leader of the Bakonzo people, a vocal critic of President Yoweri Museveni.",
+        "abstract": "Ugandan troops move against Charles Wesley Mumbere, king of Bakonzo people, in Ruwenzori region, increasing conflict between security forces and armed rebels; some of Mumbere's supporters have called for Ruwenzori to secede.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Ugandan Troops Move Against Tribal King in Rebel Region",
+          "print_headline": "Ugandan Troops Move Against Tribal King in Rebel Region"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Uganda"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Mumbere, Charles Wesley"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Museveni, Yoweri"
+          }
+        ],
+        "pub_date": "2016-11-27T23:17:15+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b698095d0e03926072b8a",
+        "word_count": "350",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/world/europe/ap-eu-people-julia-roberts-soccer.html",
+        "snippet": "Julia Roberts has swapped movie theaters for soccer's Theater of Dreams....",
+        "lead_paragraph": "Julia Roberts has swapped movie theaters for soccer's Theater of Dreams.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Julia Roberts Watches Man United's Latest Box-Office Flop",
+          "print_headline": "Julia Roberts Watches Man United's Latest Box-Office Flop"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:15:52+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b693395d0e03926072b89",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/sports/hockey/ap-hkn-coyotes-oilers.html",
+        "snippet": "It has been more than 30 years since one team has had the number of their opposition to the degree that the Arizona Coyotes do over the Edmonton Oilers....",
+        "lead_paragraph": "It has been more than 30 years since one team has had the number of their opposition to the degree that the Arizona Coyotes do over the Edmonton Oilers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McGinn Breaks Late Tie, Coyotes Beat Oilers 2-1",
+          "print_headline": "McGinn Breaks Late Tie, Coyotes Beat Oilers 2-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:10:20+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b67e295d0e03926072b88",
+        "word_count": "471",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/us/ap-us-holiday-shopping-weekend-sales.html",
+        "snippet": "Thanksgiving weekend shoppers picked up hot toys, TVs and new Apple products, buying both online and in stores, but spent less per person because of rampant discounting that they've come to demand....",
+        "lead_paragraph": "Thanksgiving weekend shoppers picked up hot toys, TVs and new Apple products, buying both online and in stores, but spent less per person because of rampant discounting that they've come to demand.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Thanksgiving Weekend Shoppers Spent Less Due to Discounts",
+          "print_headline": "Thanksgiving Weekend Shoppers Spent Less Due to Discounts"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:09:58+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b67cc95d0e03926072b87",
+        "word_count": "940",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/business/nintendos-new-console-may-feed-your-nostalgia-if-you-can-get-one.html",
+        "snippet": "The NES Classic Edition, a smaller version of a 30-year-old game system, is one of the year\u2019s hottest gifts. But the trip down memory lane isn\u2019t without headaches....",
+        "lead_paragraph": "The NES Classic Edition, a smaller version of a 30-year-old game system, is one of the year\u2019s hottest gifts. But the trip down memory lane isn\u2019t without headaches.",
+        "abstract": "High demand for Nintendo's NES Classic Edition--smaller version of its 1985 console that comes preloaded with 30 classic games--has led to product shortages and created huge markups on secondary market; toy reviewers and marketing specialists say nostalgia is reigniting interest in toys and games from 1980s.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/26/business/28nintendo1/28nintendo1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/26/business/28nintendo1/28nintendo1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/26/business/28nintendo1/28nintendo1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/26/business/28nintendo1/28nintendo1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/26/business/28nintendo1/28nintendo1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/26/business/28nintendo1/28nintendo1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Nintendo\u2019s New Console May Feed Your Nostalgia, if You Can Get One",
+          "print_headline": "Nostalgic Shoppers Overwhelm Nintendo"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Nintendo Co Ltd"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Black Friday and Cyber Monday (Shopping)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Computer and Video Games"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nineteen Hundred Eighties"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Toys"
+          }
+        ],
+        "pub_date": "2016-11-27T23:02:31+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zach",
+              "rank": 1,
+              "lastname": "SCHONBRUN"
+            }
+          ],
+          "original": "By ZACH SCHONBRUN"
+        },
+        "type_of_material": "News",
+        "_id": "583b660d95d0e03926072b86",
+        "word_count": "1091",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/27/us/chico-mendes-amazon-retro-report.html",
+        "snippet": "Chico Mendes\u2019s murder in 1988 became a turning point in Brazil\u2019s environmental consciousness, and after it, a global movement to save the Amazon gained impetus....",
+        "lead_paragraph": "Chico Mendes\u2019s murder in 1988 became a turning point in Brazil\u2019s environmental consciousness, and after it, a global movement to save the Amazon gained impetus.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/23/multimedia/retro-amazon/retro-amazon-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/23/multimedia/retro-amazon/retro-amazon-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/23/multimedia/retro-amazon/retro-amazon-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/23/multimedia/retro-amazon/retro-amazon-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/23/multimedia/retro-amazon/retro-amazon-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/23/multimedia/retro-amazon/retro-amazon-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Lasting Legacy of a Fighter for the Amazon",
+          "content_kicker": "Retro Report"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Amazon River Basin"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Forests and Forestry"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Assassinations and Attempted Assassinations"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Environmental Defense Fund"
+          }
+        ],
+        "pub_date": "2016-11-27T23:02:30+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Clyde",
+              "rank": 1,
+              "lastname": "HABERMAN"
+            }
+          ],
+          "original": "By CLYDE HABERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "583b660d95d0e03926072b85",
+        "word_count": "1187",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004790626/the-fight-to-save-the-amazon.html",
+        "snippet": "In 1988, the murder of Chico Mendes sparked a movement of environmental activists, celebrities and indigenous peoples that made saving the Brazilian rain forest an international rallying cry. But what is happening there now?...",
+        "lead_paragraph": "In 1988, the murder of Chico Mendes sparked a movement of environmental activists, celebrities and indigenous peoples that made saving the Brazilian rain forest an international rallying cry. But what is happening there now?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/27/multimedia/retro-amazon/retro-amazon-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/27/multimedia/retro-amazon/retro-amazon-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/27/multimedia/retro-amazon/retro-amazon-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/27/multimedia/retro-amazon/retro-amazon-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/27/multimedia/retro-amazon/retro-amazon-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/27/multimedia/retro-amazon/retro-amazon-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Fight to Save the Amazon"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Amazon Jungle"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Forests and Forestry"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Indigenous People"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Conservation of Resources"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Land Use Policies"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mendes, Chico"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Assassinations and Attempted Assassinations"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sting (1951- )"
+          }
+        ],
+        "pub_date": "2016-11-27T23:02:26+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Retro",
+              "rank": 1,
+              "lastname": "REPORT"
+            }
+          ],
+          "original": "By RETRO REPORT"
+        },
+        "type_of_material": "Video",
+        "_id": "583b660895d0e03926072b84",
+        "word_count": "34",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/27/sports/ncaabasketball/ap-bkc-top-25-rewind.html",
+        "snippet": "Wisconsin achieved two of its priorities against No. 4 North Carolina at the Maui Invitational, keeping the Tar Heels from getting out in transition and controlling the glass....",
+        "lead_paragraph": "Wisconsin achieved two of its priorities against No. 4 North Carolina at the Maui Invitational, keeping the Tar Heels from getting out in transition and controlling the glass.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tar Heels on a Roll After Maui; UNC Likely to Climb in Poll",
+          "print_headline": "Tar Heels on a Roll After Maui; UNC Likely to Climb in Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-27T23:00:45+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583b65a895d0e03926072b83",
+        "word_count": "753",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,488 @@
+{
+  "response": {
+    "meta": {
+      "hits": 426,
+      "time": 53,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/us/ap-us-surfers-last-dream.html",
+        "snippet": "A Florida surfer who dreamed of riding Southern California waves has died doing what he loved....",
+        "lead_paragraph": "A Florida surfer who dreamed of riding Southern California waves has died doing what he loved.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Florida Surfer Dies Fulfilling Southern California Dream",
+          "print_headline": "Florida Surfer Dies Fulfilling Southern California Dream"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:06:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bee895d0e03926071834",
+        "word_count": "306",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/sports/tennis/19reuters-tennis-atp-raonic.html",
+        "snippet": "Same opponent, same old story for Milos Raonic but despite a sixth defeat of the year by Andy Murray at the ATP World Tour Finals on Saturday the Canadian underlined he will be a player to fear in 2017....",
+        "lead_paragraph": "Same opponent, same old story for Milos Raonic but despite a sixth defeat of the year by Andy Murray at the ATP World Tour Finals on Saturday the Canadian underlined he will be a player to fear in 2017.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Raonic Proud of Year After Agonizing Defeat by Murray",
+          "print_headline": "Raonic Proud of Year After Agonizing Defeat by Murray"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:06:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bed995d0e03926071833",
+        "word_count": "403",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/opinion/the-secret-agenda-of-a-facebook-quiz.html",
+        "snippet": "What you do online can help elect a president....",
+        "lead_paragraph": "What you do online can help elect a president.",
+        "abstract": "Op-Ed article by Open Society fellow McKenzie Funk explains how data firm Cambridge Analytica uses personality quizzes on Facebook to build psychological profiles of millions of Americans; notes firm was hired by Donald Trump's campaign and other Republican candidates, as well as so-called 'Leave' side in Brexit vote; warns of potential for misuse of technology in political advertising, and that Trump administration will likely pass on regulating such activity, but notes Facebook can of its own accord do so.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/opinion/sunday/20funk/20funk-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/opinion/sunday/20funk/20funk-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/opinion/sunday/20funk/20funk-articleLarge.jpg",
+            "height": 1080,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/opinion/sunday/20funk/20funk-articleLarge.jpg",
+              "xlargeheight": "1080"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/opinion/sunday/20funk/20funk-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/opinion/sunday/20funk/20funk-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Secret Agenda of a Facebook Quiz",
+          "content_kicker": "Opinion",
+          "kicker": "Opinion",
+          "print_headline": "The Secret Agenda of a Facebook Quiz"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Psychology and Psychologists"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Online Advertising"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Data-Mining and Database Marketing"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Cambridge Analytica"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Political Advertising"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-19T21:06:00+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mckenzie",
+              "rank": 1,
+              "lastname": "FUNK"
+            }
+          ],
+          "original": "By McKENZIE FUNK"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5830bec095d0e03926071832",
+        "word_count": "1257",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/opinion/sunday/victorias-secrets-what-the-royal-archives-didnt-want-you-to-know-about-englands-queen.html",
+        "snippet": "The reputation of the monarchy is zealously guarded in a castle tower....",
+        "lead_paragraph": "The reputation of the monarchy is zealously guarded in a castle tower.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/opinion/sunday/19BAIRD1-inyt/19BAIRD1-inyt-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/opinion/sunday/19BAIRD1-inyt/19BAIRD1-inyt-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/opinion/sunday/19BAIRD1-inyt/19BAIRD1-inyt-articleLarge.jpg",
+            "height": 440,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/opinion/sunday/19BAIRD1-inyt/19BAIRD1-inyt-articleLarge.jpg",
+              "xlargeheight": "440"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/opinion/sunday/19BAIRD1-inyt/19BAIRD1-inyt-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/opinion/sunday/19BAIRD1-inyt/19BAIRD1-inyt-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Victoria\u2019s Secrets: What the Royal Archives Didn\u2019t Want You to Know About England\u2019s Queen",
+          "content_kicker": "Contributing Op-Ed Writer",
+          "kicker": "Op-Ed | Julia Baird",
+          "print_headline": "Victoria\u2019s Secrets"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Archives and Records"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Victoria, Queen of Great Britain"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Royal Families"
+          }
+        ],
+        "pub_date": "2016-11-19T20:58:43+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julia",
+              "rank": 1,
+              "lastname": "BAIRD"
+            }
+          ],
+          "original": "By JULIA BAIRD"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5830bd0b95d0e03926071831",
+        "word_count": "1189",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/hockey/ap-hkn-lightning-flyers.html",
+        "snippet": "Tampa Bay's goaltending tandem of Ben Bishop and Andrei Vasilevskiy is doing its best to help the Lightning make up for the loss of Steven Stamkos....",
+        "lead_paragraph": "Tampa Bay's goaltending tandem of Ben Bishop and Andrei Vasilevskiy is doing its best to help the Lightning make up for the loss of Steven Stamkos.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Vasilevskiy Stops 32 Shots, Lightning Beat Flyers 3-0",
+          "print_headline": "Vasilevskiy Stops 32 Shots, Lightning Beat Flyers 3-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T20:57:58+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bcde95d0e03926071830",
+        "word_count": "589",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/us/politics/19reuters-usa-security-intelligence.html",
+        "snippet": "The heads of the Pentagon and the U.S. intelligence community have recommended to President Barack Obama that the director of the National Security Agency, Admiral Michael Rogers, be removed from his position, sources familiar with the matter said...",
+        "lead_paragraph": "The heads of the Pentagon and the U.S. intelligence community have recommended to President Barack Obama that the director of the National Security Agency, Admiral Michael Rogers, be removed from his position, sources familiar with the matter said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Senior U.S. Officials Recommend Removal of NSA Director: Sources",
+          "print_headline": "Senior U.S. Officials Recommend Removal of NSA Director: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T20:57:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bcc595d0e0392607182f",
+        "word_count": "377",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/business/19reuters-apec-summit-japan.html",
+        "snippet": "A meeting of leaders of the Trans-Pacific Partnership (TPP), confirmed the economic and strategic importance of the agreement, Japanese Deputy Chief Cabinet Secretary Kotaro Nogami told reporters on Saturday....",
+        "lead_paragraph": "A meeting of leaders of the Trans-Pacific Partnership (TPP), confirmed the economic and strategic importance of the agreement, Japanese Deputy Chief Cabinet Secretary Kotaro Nogami told reporters on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "TPP Leaders Affirm Its Economic, Strategic Importance in Meeting-Japan",
+          "print_headline": "TPP Leaders Affirm Its Economic, Strategic Importance in Meeting-Japan"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T20:54:33+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bc1195d0e0392607182e",
+        "word_count": "77",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ncaafootball/ap-fbc-t25-ohio-st-michigan-st.html",
+        "snippet": "Before Ohio State could move on to next weekend's showdown with Michigan, the Buckeyes had to deal with a different nemesis....",
+        "lead_paragraph": "Before Ohio State could move on to next weekend's showdown with Michigan, the Buckeyes had to deal with a different nemesis.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 2 Ohio State Holds On for 17-16 Win Over Michigan State",
+          "print_headline": "No. 2 Ohio State Holds On for 17-16 Win Over Michigan State"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T20:51:50+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bb6c95d0e0392607182d",
+        "word_count": "765",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/world/ap-cn-canada-mccain-trump-torture.html",
+        "snippet": "A leading Republican voice on national security matters said Saturday he doesn't care what President-elect Donald Trump says, the United States will not reinstate waterboarding....",
+        "lead_paragraph": "A leading Republican voice on national security matters said Saturday he doesn't care what President-elect Donald Trump says, the United States will not reinstate waterboarding.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McCain to Trump: Waterboarding Won't Be Reinstated",
+          "print_headline": "McCain to Trump: Waterboarding Won't Be Reinstated"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T20:51:41+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bb6095d0e0392607182c",
+        "word_count": "420",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/world/middleeast/19reuters-mideast-crisis-iraq-un.html",
+        "snippet": "Mounting civilian casualties from fighting in eastern Mosul between Iraqi forces and Islamic State are overwhelming the capacity of the government and international aid groups, the United Nations said on Saturday....",
+        "lead_paragraph": "Mounting civilian casualties from fighting in eastern Mosul between Iraqi forces and Islamic State are overwhelming the capacity of the government and international aid groups, the United Nations said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Civilian Casualties From Mosul Are Overwhelming Capacity, U.N. Warns",
+          "print_headline": "Civilian Casualties From Mosul Are Overwhelming Capacity, U.N. Warns"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T20:51:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bb5495d0e0392607182b",
+        "word_count": "334",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

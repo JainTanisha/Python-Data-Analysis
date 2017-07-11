@@ -1,0 +1,666 @@
+{
+  "response": {
+    "meta": {
+      "hits": 390,
+      "time": 49,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/arts/music/simon-rattle-the-maestro-with-the-busy-baton.html",
+        "snippet": "The conductor has, to no small extent, defined New York\u2019s classical music scene, from \u201cTristan und Isolde\u201d at the Met and his engagements at Carnegie Hall....",
+        "lead_paragraph": "The conductor has, to no small extent, defined New York\u2019s classical music scene, from \u201cTristan und Isolde\u201d at the Met and his engagements at Carnegie Hall.",
+        "abstract": "Conductor Simon Rattle prepares to lead Berlin Philharmonic at Carnegie Hall in what he expects will be his final New York concerts with orchestra before stepping down in 2018. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/arts/07RATTLE/07RATTLE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/arts/07RATTLE/07RATTLE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/arts/07RATTLE/07RATTLE-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/arts/07RATTLE/07RATTLE-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/arts/07RATTLE/07RATTLE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/arts/07RATTLE/07RATTLE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Simon Rattle: The Maestro With the Busy Baton",
+          "print_headline": "Busiest Baton This Side of the Pond"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rattle, Simon"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Ensemble Connect"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Berlin Philharmonic"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Carnegie Hall"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-06T21:36:28Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By MICHAEL COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "5820f71595d0e0204d55f031",
+        "word_count": "1243",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/06/sports/football/ap-fbn-jaguars-chiefs.html",
+        "snippet": "Their starting quarterback and running back never dressed, their top wide receiver joined them on the sideline with an injury of his own, and their Pro Bowl tight end was ejected by an official who didn't seem to think his antics were very funny....",
+        "lead_paragraph": "Their starting quarterback and running back never dressed, their top wide receiver joined them on the sideline with an injury of his own, and their Pro Bowl tight end was ejected by an official who didn't seem to think his antics were very funny.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chiefs Shut Down Bortles, Jaguars to Escape With 19-14 Win",
+          "print_headline": "Chiefs Shut Down Bortles, Jaguars to Escape With 19-14 Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T21:34:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f66295d0e0204d55f023",
+        "word_count": "799",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/06/us/ap-us-bridgeville-explosion-.html",
+        "snippet": "A 39-year-old woman suffered critical injuries Sunday after a cannon used to launch pumpkins into the air exploded at a large outdoor competition, Delaware State Police said....",
+        "lead_paragraph": "A 39-year-old woman suffered critical injuries Sunday after a cannon used to launch pumpkins into the air exploded at a large outdoor competition, Delaware State Police said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Explosion Critically Injures 1 at Pumpkin Flinging Contest",
+          "print_headline": "Explosion Critically Injures 1 at Pumpkin Flinging Contest"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T21:33:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f66095d0e0204d55f022",
+        "word_count": "360",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/business/debate-over-risk-of-e-cigarettes-plays-out-on-california-ballot.html",
+        "snippet": "Proposition 56 would tax e-cigarettes in the state for the first time, despite evidence suggesting e-cigarettes are less harmful and may help people quit smoking....",
+        "lead_paragraph": "Proposition 56 would tax e-cigarettes in the state for the first time, despite evidence suggesting e-cigarettes are less harmful and may help people quit smoking.",
+        "abstract": "California will vote on Proposition 56, state ballot measure that will raise taxes on tobacco products, including for first time electronic cigarettes; is following lead of other states that are enacting e-cigarette taxes to make up for declining tax revenue from regular cigarettes; R J Reynolds Tobacco and Philip Morris have spent over $70 million collectively in campaign to urge California voters to reject tax.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/business/00ECIG2-sub/00ECIG2-sub-thumbWide-v4.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/business/00ECIG2-sub/00ECIG2-sub-thumbWide-v4.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/business/00ECIG2-sub/00ECIG2-sub-articleLarge-v3.jpg",
+            "height": 389,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/business/00ECIG2-sub/00ECIG2-sub-articleLarge-v3.jpg",
+              "xlargeheight": "389"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/business/00ECIG2-sub/00ECIG2-sub-thumbStandard-v4.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/business/00ECIG2-sub/00ECIG2-sub-thumbStandard-v4.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Who Wins if California Voters Tax E-Cigarettes?",
+          "print_headline": "California Voters to Have a Say on an E-Cigarette Tax"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Smoking and Tobacco"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Glantz, Stanton A"
+          },
+          {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "California"
+          },
+          {
+            "rank": "13",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sales and Excise Taxes"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "E-Cigarettes"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Referendums"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Taxation"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Altria Group Inc"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pfizer Inc"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Reynolds, R J, Tobacco Co"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Philip Morris Companies Inc"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Lung Assn"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Food and Drug Administration"
+          }
+        ],
+        "pub_date": "2016-11-06T21:29:24Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rachel",
+              "rank": 1,
+              "lastname": "ABRAMS"
+            }
+          ],
+          "original": "By RACHEL ABRAMS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f5ba95d0e0204d55f016",
+        "word_count": "1106",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/sports/new-york-city-marathon-jet-lag.html",
+        "snippet": "Entrants from Australia and other far-flung places endured long flights and jet lag on their way to the New York City Marathon....",
+        "lead_paragraph": "Entrants from Australia and other far-flung places endured long flights and jet lag on their way to the New York City Marathon.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/sports/07longdistance1/07longdistance1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/sports/07longdistance1/07longdistance1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/sports/07longdistance1/07longdistance1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/sports/07longdistance1/07longdistance1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/sports/07longdistance1/07longdistance1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/sports/07longdistance1/07longdistance1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Going the Distance Before They Reach the Starting Line",
+          "print_headline": "A Short Run After a Long Haul"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York City Marathon"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Running"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jet Lag"
+          }
+        ],
+        "pub_date": "2016-11-06T21:28:54Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ken",
+              "rank": 1,
+              "lastname": "BELSON"
+            }
+          ],
+          "original": "By KEN BELSON"
+        },
+        "type_of_material": "News",
+        "_id": "5820f6b595d0e0204d55f029",
+        "word_count": "1045",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/06/business/06reuters-egypt-iran-oil.html",
+        "snippet": "Egyptian Petroleum Minister Tarek El Molla was on his way to Iran on Sunday to try to strike new oil deals, sources close to his delegation said at Cairo airport, after Saudi Arabia suspended its oil agreement last month....",
+        "lead_paragraph": "Egyptian Petroleum Minister Tarek El Molla was on his way to Iran on Sunday to try to strike new oil deals, sources close to his delegation said at Cairo airport, after Saudi Arabia suspended its oil agreement last month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Egypt's Oil Minister Makes Rare Trip to Iran for Oil Talks After Saudi Suspension",
+          "print_headline": "Egypt's Oil Minister Makes Rare Trip to Iran for Oil Talks After Saudi Suspension"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T21:24:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f63295d0e0204d55f01d",
+        "word_count": "305",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/07/world/asia/bangladesh-hindu-muslim-nasrinagar.html",
+        "snippet": "Crowds in various parts of the Muslim-majority country appeared to target its largest religious minority group, though many of the acts were minor....",
+        "lead_paragraph": "Crowds in various parts of the Muslim-majority country appeared to target its largest religious minority group, though many of the acts were minor.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/world/07Bangladesh-web1/07Bangladesh-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/world/07Bangladesh-web1/07Bangladesh-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/world/07Bangladesh-web1/07Bangladesh-web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/world/07Bangladesh-web1/07Bangladesh-web1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/world/07Bangladesh-web1/07Bangladesh-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/world/07Bangladesh-web1/07Bangladesh-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Arson and Vandalism Rattle Hindu Communities in Bangladesh",
+          "print_headline": "Arson and Vandalism Jolt Hindus Across Bangladesh"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Bangladesh"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hinduism"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Arson"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Vandalism"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Delhi (India)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Dhaka (Bangladesh)"
+          }
+        ],
+        "pub_date": "2016-11-06T21:22:27Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "contributor": "Julfikar Ali Manik reported from Dhaka, and Ellen Barry from New Delhi.",
+          "person": [
+            {
+              "firstname": "Julfikar",
+              "middlename": "Ali",
+              "lastname": "MANIK",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ellen",
+              "rank": 2,
+              "lastname": "BARRY"
+            }
+          ],
+          "original": "By JULFIKAR ALI MANIK and ELLEN BARRY"
+        },
+        "type_of_material": "News",
+        "_id": "5820f60b95d0e0204d55f01a",
+        "word_count": "527",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/06/sports/golf/ap-glf-pga-tour-champions.html",
+        "snippet": "Scott McCarron came into the season with a goal of winning the Charles Schwab Cup Championship....",
+        "lead_paragraph": "Scott McCarron came into the season with a goal of winning the Charles Schwab Cup Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McCarron Wins PGA Tour Champion Playoff Event in Virginia",
+          "print_headline": "McCarron Wins PGA Tour Champion Playoff Event in Virginia"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T21:21:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f67095d0e0204d55f026",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/06/world/africa/ap-af-morocco-fisherman-death.html",
+        "snippet": "Nearly 2,000 people have marched to the Moroccan Parliament to protest the gruesome death of a fish vendor and to express a broader anger over alleged corruption by police and government officials....",
+        "lead_paragraph": "Nearly 2,000 people have marched to the Moroccan Parliament to protest the gruesome death of a fish vendor and to express a broader anger over alleged corruption by police and government officials.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Protesters Gather Near Moroccan Parliament Over Grisly Death",
+          "print_headline": "Protesters Gather Near Moroccan Parliament Over Grisly Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T21:18:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f65995d0e0204d55f020",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/06/business/06reuters-usa-election-dollar.html",
+        "snippet": "The U.S. dollar jumped in Asia on Monday after FBI Director James Comey said a review of newly discovered emails did not change the agency's conclusion that no charges were warranted in the case of Hillary Clinton's use of a private email server....",
+        "lead_paragraph": "The U.S. dollar jumped in Asia on Monday after FBI Director James Comey said a review of newly discovered emails did not change the agency's conclusion that no charges were warranted in the case of Hillary Clinton's use of a private email server.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Dollar Jumps in Asia as FBI Clears Clinton",
+          "print_headline": "U.S. Dollar Jumps in Asia as FBI Clears Clinton"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-06T21:18:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820f65a95d0e0204d55f021",
+        "word_count": "135",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

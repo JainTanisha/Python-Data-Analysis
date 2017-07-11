@@ -1,0 +1,422 @@
+{
+  "response": {
+    "meta": {
+      "hits": 927,
+      "time": 69,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004527060/donald-trump-addresses-role-of-police.html",
+        "snippet": "\u201cThe hostility against our police has to end,\u201d Donald J. Trump, the presumptive Republican presidential nominee, said on Tuesday. He also said the United States needed to \u201cfigure out what\u2019s going on\u201d with regard to recent police shooting...",
+        "lead_paragraph": "\u201cThe hostility against our police has to end,\u201d Donald J. Trump, the presumptive Republican presidential nominee, said on Tuesday. He also said the United States needed to \u201cfigure out what\u2019s going on\u201d with regard to recent police shootings.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/12/multimedia/12trump-campaign/12trump-campaign-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/12/multimedia/12trump-campaign/12trump-campaign-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/12/multimedia/12trump-campaign/12trump-campaign-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/12/multimedia/12trump-campaign/12trump-campaign-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/12/multimedia/12trump-campaign/12trump-campaign-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/12/multimedia/12trump-campaign/12trump-campaign-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump Addresses Role of Police"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Indiana"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-07-12T23:29:53Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5785b5f838f0d804dfd9ba60",
+        "word_count": "38",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-obit-william-h-mcneill.html",
+        "snippet": "William H. McNeill, the prize-winning scholar who wove the stories of civilizations worldwide into the landmark \"The Rise of the West\" and helped pioneer the history of disease and epidemics in \"Plagues and People,\" has died at age 98....",
+        "lead_paragraph": "William H. McNeill, the prize-winning scholar who wove the stories of civilizations worldwide into the landmark \"The Rise of the West\" and helped pioneer the history of disease and epidemics in \"Plagues and People,\" has died at age 98.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "William H McNeill, Prize-Winning World Historian, Dead at 98",
+          "print_headline": "William H McNeill, Prize-Winning World Historian, Dead at 98"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T23:25:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5785b52a38f0d804dfd9ba5d",
+        "word_count": "889",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/business/12reuters-china-economy-trade-europe.html",
+        "snippet": "China should remove barriers and provide better legal certainty for businesses, while all parties must observe international trade systems and their rules, European Commission President Jean-Claude Juncker said on Wednesday....",
+        "lead_paragraph": "China should remove barriers and provide better legal certainty for businesses, while all parties must observe international trade systems and their rules, European Commission President Jean-Claude Juncker said on Wednesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Should Remove Trade Barriers, Speed Up SOE Reform-European Commission President",
+          "print_headline": "China Should Remove Trade Barriers, Speed Up SOE Reform-European Commission President"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T23:22:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5785b47338f0d804dfd9ba5c",
+        "word_count": "327",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/07/12/fashion/runway-mens/cadet-spring-2017.html",
+        "snippet": "The label\u2019s spring 2017 men\u2019s collection....",
+        "lead_paragraph": "The label\u2019s spring 2017 men\u2019s collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/12/fashion/runway-mens/cadet-spring-2017-mens-slide-Y3LK/cadet-spring-2017-mens-slide-Y3LK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/12/fashion/runway-mens/cadet-spring-2017-mens-slide-Y3LK/cadet-spring-2017-mens-slide-Y3LK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/12/fashion/runway-mens/cadet-spring-2017-mens-slide-Y3LK/cadet-spring-2017-mens-slide-Y3LK-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/12/fashion/runway-mens/cadet-spring-2017-mens-slide-Y3LK/cadet-spring-2017-mens-slide-Y3LK-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/12/fashion/runway-mens/cadet-spring-2017-mens-slide-Y3LK/cadet-spring-2017-mens-slide-Y3LK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/12/fashion/runway-mens/cadet-spring-2017-mens-slide-Y3LK/cadet-spring-2017-mens-slide-Y3LK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Cadet: Spring 2017",
+          "kicker": "Men's Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Men's Fashion Week"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cadet (Fashion Label)"
+          }
+        ],
+        "pub_date": "2016-07-12T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Men's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Men's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5785b25c38f0d804dfd9ba5b",
+        "word_count": "6",
+        "slideshow_credits": "Nowfashion.com"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/sports/soccer/12reuters-soccer-england-mun-rooney.html",
+        "snippet": "Manchester United striker Wayne Rooney admits the arrival of Jose Mourinho has given him added motivation for the season ahead....",
+        "lead_paragraph": "Manchester United striker Wayne Rooney admits the arrival of Jose Mourinho has given him added motivation for the season ahead.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rooney Looking Forward to Mourinho Era",
+          "print_headline": "Rooney Looking Forward to Mourinho Era"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T22:56:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5785ae1f38f0d804dfd9ba3e",
+        "word_count": "202",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/sports/golf/ap-glf-senior-pga-tour-champions.html",
+        "snippet": "Australian golfer Peter Senior is quitting the PGA Tour Champions after seven seasons in which he failed to win a tournament....",
+        "lead_paragraph": "Australian golfer Peter Senior is quitting the PGA Tour Champions after seven seasons in which he failed to win a tournament.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Aussie Peter Senior Signing Off on PGA Tour Champions",
+          "print_headline": "Aussie Peter Senior Signing Off on PGA Tour Champions"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T22:50:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5785acb838f0d804dfd9ba3d",
+        "word_count": "125",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/world/asia/12reuters-southchinasea-ruling-airzone.html",
+        "snippet": "China has the right to set up an air defense zone in the South China Sea, but this will depend on the level of threats faced, China's Vice Foreign Minister Liu Zhenmin said on Wednesday....",
+        "lead_paragraph": "China has the right to set up an air defense zone in the South China Sea, but this will depend on the level of threats faced, China's Vice Foreign Minister Liu Zhenmin said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Says Has Right to Set Up Air Defense Zone in South China Sea",
+          "print_headline": "China Says Has Right to Set Up Air Defense Zone in South China Sea"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T22:47:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5785ac0638f0d804dfd9ba3c",
+        "word_count": "88",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/politics/ap-us-congress-policing.html",
+        "snippet": "House Speaker Paul Ryan says a new bipartisan group in the House will examine policing issues in America....",
+        "lead_paragraph": "House Speaker Paul Ryan says a new bipartisan group in the House will examine policing issues in America.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "House Setting Up Bipartisan Group to Examine Policing",
+          "print_headline": "House Setting Up Bipartisan Group to Examine Policing"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T22:47:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5785ac0438f0d804dfd9ba3b",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/business/12reuters-nintendo-pokemon-australia.html",
+        "snippet": "Growing numbers of Pokemon Go players in Australia, one of three countries where Nintendo Co's smash-hit mobile game is available, are complaining they're having trouble logging in, raising concerns the Japanese firm may not be able to roll the ga...",
+        "lead_paragraph": "Growing numbers of Pokemon Go players in Australia, one of three countries where Nintendo Co's smash-hit mobile game is available, are complaining they're having trouble logging in, raising concerns the Japanese firm may not be able to roll the game out globally as quickly as planned.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pokemon Go Australia Log-In Complaints Grow; Nintendo Shares Fall 6 Percent",
+          "print_headline": "Pokemon Go Australia Log-In Complaints Grow; Nintendo Shares Fall 6 Percent"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T22:41:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5785aaa238f0d804dfd9ba38",
+        "word_count": "339",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/world/asia/12reuters-southchinasea-ruling-whitepaper.html",
+        "snippet": "The Philippines claims of sovereignty in the South China Sea are \"baseless\" and Chinese fishing boats have been harassed and attacked by the Philippines around the Spratly Islands, the Chinese government said in a white paper published on Wednesda...",
+        "lead_paragraph": "The Philippines claims of sovereignty in the South China Sea are \"baseless\" and Chinese fishing boats have been harassed and attacked by the Philippines around the Spratly Islands, the Chinese government said in a white paper published on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Says Philippines Claims in South China Sea Are 'Baseless'",
+          "print_headline": "China Says Philippines Claims in South China Sea Are 'Baseless'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T22:15:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5785a4ff38f0d804dfd9ba37",
+        "word_count": "124",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

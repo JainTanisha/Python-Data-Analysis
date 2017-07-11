@@ -1,0 +1,596 @@
+{
+  "response": {
+    "meta": {
+      "hits": 936,
+      "time": 189,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/us/politics/conservatives-donald-trump.html",
+        "snippet": "The right has been waiting a long time for its chance to upend Washington. Now, its faithful want to be sure the new president does not go soft....",
+        "lead_paragraph": "The right has been waiting a long time for its chance to upend Washington. Now, its faithful want to be sure the new president does not go soft.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/us/16conservatives1/16conservatives1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/us/16conservatives1/16conservatives1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/us/16conservatives1/16conservatives1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/us/16conservatives1/16conservatives1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/us/16conservatives1/16conservatives1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/us/16conservatives1/16conservatives1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As Donald Trump Builds Team, the Right Scours His Blueprints",
+          "print_headline": "As Trump Builds Team, the Right Scours His Blueprints"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-11-15T23:53:39Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Jeremy",
+              "middlename": "W.",
+              "lastname": "PETERS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JEREMY W. PETERS"
+        },
+        "type_of_material": "News",
+        "_id": "582ba00b95d0e0204d560a79",
+        "word_count": "1259",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/travel/turkish-travel-warning-cautions-citizens-travel-united-states.html",
+        "snippet": "Turkey is one of several countries that have issued warnings against visiting the United States, for reasons that range from zika to recent protests....",
+        "lead_paragraph": "Turkey is one of several countries that have issued warnings against visiting the United States, for reasons that range from zika to recent protests.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/travel/16TURKEY/16TURKEY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/travel/16TURKEY/16TURKEY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/travel/16TURKEY/16TURKEY-articleLarge.jpg",
+            "height": 462,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/travel/16TURKEY/16TURKEY-articleLarge.jpg",
+              "xlargeheight": "462"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/travel/16TURKEY/16TURKEY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/travel/16TURKEY/16TURKEY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Turkish Travel Warning Cautions Citizens About Travel to U.S.",
+          "content_kicker": "Update",
+          "kicker": "Update"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel Warnings"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Canada"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Kroll Associates Inc"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "iJET International Inc"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Turkey"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Orlando (Fla)"
+          }
+        ],
+        "pub_date": "2016-11-15T23:52:18Z",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Shivani",
+              "rank": 1,
+              "lastname": "VORA"
+            }
+          ],
+          "original": "By SHIVANI VORA"
+        },
+        "type_of_material": "News",
+        "_id": "582b9fc095d0e0204d560a78",
+        "word_count": "865",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-us-nightclub-shooting-florida-records.html",
+        "snippet": "A Pulse patron hiding in a bathroom during a rampage inside the Orlando nightclub tried to calm more than a dozen other people trapped with him and reassured them that they would be rescued, according to new 911 audio recordings released Tuesday....",
+        "lead_paragraph": "A Pulse patron hiding in a bathroom during a rampage inside the Orlando nightclub tried to calm more than a dozen other people trapped with him and reassured them that they would be rescued, according to new 911 audio recordings released Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "911 Calls Show Pulse Patron Calming Others During Massacre",
+          "print_headline": "911 Calls Show Pulse Patron Calming Others During Massacre"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:52:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9fae95d0e0204d560a77",
+        "word_count": "504",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-us-obit-billy-graham-musical-director.html",
+        "snippet": "Cliff Barrows, the long-time music and program director for the Billy Graham Evangelistic Association, has died after a brief illness. He was 93....",
+        "lead_paragraph": "Cliff Barrows, the long-time music and program director for the Billy Graham Evangelistic Association, has died after a brief illness. He was 93.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Music, Program Director for Billy Graham Dies at 93",
+          "print_headline": "Music, Program Director for Billy Graham Dies at 93"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:51:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9faa95d0e0204d560a76",
+        "word_count": "125",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-us-southern-wildfires.html",
+        "snippet": "As drought-stressed forests burn across much of the South &#8212; including a blaze scorching a Manhattan-sized area of north Georgia &#8212; some traditional outdoor activities are now banned. Starting campfires, lighting fireworks, smoking cigar...",
+        "lead_paragraph": "As drought-stressed forests burn across much of the South &#8212; including a blaze scorching a Manhattan-sized area of north Georgia &#8212; some traditional outdoor activities are now banned. Starting campfires, lighting fireworks, smoking cigarettes, even parking a car off-road is prohibited, for fear that a hot tailpipe could ignite dry leaves below.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "As Fires Torch South, Burn Bans Enacted, Arson Investigated",
+          "print_headline": "As Fires Torch South, Burn Bans Enacted, Arson Investigated"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:51:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9fa495d0e0204d560a75",
+        "word_count": "261",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-us-immigrant-database.html",
+        "snippet": "When New York City launched the nation's biggest municipal ID card program last year, advocates said it would help people living in the U.S. illegally to venture out of the shadows....",
+        "lead_paragraph": "When New York City launched the nation's biggest municipal ID card program last year, advocates said it would help people living in the U.S. illegally to venture out of the shadows.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Wary of Trump Immigration Threat, NY May Erase ID Card Data",
+          "print_headline": "Wary of Trump Immigration Threat, NY May Erase ID Card Data"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:49:22Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9f0895d0e0204d560a74",
+        "word_count": "729",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/sports/football/tony-romo-dallas-cowboys-dak-prescott.html",
+        "snippet": "Dallas had said that Romo, who has been working his way back from a back injury sustained during the preseason, would reclaim his starting job when he returned....",
+        "lead_paragraph": "Dallas had said that Romo, who has been working his way back from a back injury sustained during the preseason, would reclaim his starting job when he returned.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/sports/16romo1/16romo1-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/sports/16romo1/16romo1-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/sports/16romo1/16romo1-articleLarge.jpg",
+            "height": 384,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/sports/16romo1/16romo1-articleLarge.jpg",
+              "xlargeheight": "384"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/sports/16romo1/16romo1-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/sports/16romo1/16romo1-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tony Romo Concedes Cowboys\u2019 Starting Job to Dak Prescott"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Dallas Cowboys"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Romo, Tony"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Prescott, Dak (1993- )"
+          }
+        ],
+        "pub_date": "2016-11-15T23:48:26Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Benjamin",
+              "rank": 1,
+              "lastname": "HOFFMAN"
+            }
+          ],
+          "original": "By BENJAMIN HOFFMAN"
+        },
+        "type_of_material": "News",
+        "_id": "582b9ecf95d0e0204d560a73",
+        "word_count": "526",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/politics/ap-us-trump-bannon.html",
+        "snippet": "When Donald Trump announced Stephen Bannon as his top White House strategist, critics re-erupted with allegations that Bannon was racist, sexist and anti-Semitic....",
+        "lead_paragraph": "When Donald Trump announced Stephen Bannon as his top White House strategist, critics re-erupted with allegations that Bannon was racist, sexist and anti-Semitic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Provocation or Prejudice? Whichever, Trump Adviser Brings It",
+          "print_headline": "Provocation or Prejudice? Whichever, Trump Adviser Brings It"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:40:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9d0a95d0e0204d560a72",
+        "word_count": "796",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/world/middleeast/ap-un-united-nations-iran-human-rights.html",
+        "snippet": "A U.N. committee on Tuesday urged Iran to cease enforced disappearances and the widespread use of arbitrary detention and has expressed serious concern about severe limitations on freedom of thought, conscience and religion or belief....",
+        "lead_paragraph": "A U.N. committee on Tuesday urged Iran to cease enforced disappearances and the widespread use of arbitrary detention and has expressed serious concern about severe limitations on freedom of thought, conscience and religion or belief.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Committee Flags Iran Over Human Rights",
+          "print_headline": "UN Committee Flags Iran Over Human Rights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:35:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9bd695d0e0204d560a71",
+        "word_count": "162",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/australia/100000004769286/hundreds-stranded-by-new-zealand-quake.html",
+        "snippet": "Residents were being evacuated by helicopter after a massive earthquake hit New Zealand on Monday....",
+        "lead_paragraph": "Residents were being evacuated by helicopter after a massive earthquake hit New Zealand on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/world/16quake-still/16quake-still-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/world/16quake-still/16quake-still-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/world/16quake-still/16quake-still-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/world/16quake-still/16quake-still-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/world/16quake-still/16quake-still-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/world/16quake-still/16quake-still-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hundreds Stranded by New Zealand Quake"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:32:11+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Australia",
+        "section_name": "World",
+        "subsection_name": "Australia",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "UPADHYE"
+            }
+          ],
+          "original": "By NEETI UPADHYE"
+        },
+        "type_of_material": "Video",
+        "_id": "582b9b0295d0e0204d560a70",
+        "word_count": "15",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,504 @@
+{
+  "response": {
+    "meta": {
+      "hits": 792,
+      "time": 60,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/us/politics/12reuters-usa-election-trump-woolsey.html",
+        "snippet": "Former CIA Director James Woolsey, a vocal advocate of the 2003 U.S.-led invasion of Iraq who promoted allegations that Saddam Hussein harbored illegal weapons, will serve as a senior national security adviser to Republican presidential candidate ...",
+        "lead_paragraph": "Former CIA Director James Woolsey, a vocal advocate of the 2003 U.S.-led invasion of Iraq who promoted allegations that Saddam Hussein harbored illegal weapons, will serve as a senior national security adviser to Republican presidential candidate Donald Trump, the campaign announced on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Former CIA Chief Who Urged Iraq War Signs On as Trump Adviser",
+          "print_headline": "Former CIA Chief Who Urged Iraq War Signs On as Trump Adviser"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T22:15:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d729bf95d0e021d7985d11",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/13/arts/design/alec-baldwin-files-suit-accusing-art-dealer-of-fraud.html",
+        "snippet": "Mr. Baldwin accuses Ms. Boone of selling him a different painting than the one he was promised....",
+        "lead_paragraph": "Mr. Baldwin accuses Ms. Boone of selling him a different painting than the one he was promised.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/13/arts/13BALDWIN/13BALDWIN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/13/arts/13BALDWIN/13BALDWIN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/13/arts/13BALDWIN/13BALDWIN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/13/arts/13BALDWIN/13BALDWIN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/13/arts/13BALDWIN/13BALDWIN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/13/arts/13BALDWIN/13BALDWIN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Alec Baldwin Files Suit Accusing Art Dealer of Fraud",
+          "print_headline": "Alec Baldwin Sues Over Painting"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Baldwin, Alec"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bleckner, Ross"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Boone, Mary (1951- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          }
+        ],
+        "pub_date": "2016-09-12T22:03:32+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Graham",
+              "rank": 1,
+              "lastname": "BOWLEY"
+            }
+          ],
+          "original": "By GRAHAM BOWLEY"
+        },
+        "type_of_material": "News",
+        "_id": "57d7263b95d0e021d7985d10",
+        "word_count": "342",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/middleeast/100000004641746/the-eyes-of-a-syrian-activist.html",
+        "snippet": "Idlib Province in Syria was hit by deadly airstrikes ahead of the Eid al-Adha holiday, which began on Monday, the same day as a cease-fire. An area resident, Muhammed Najdat Kaddour, filmed the scene....",
+        "lead_paragraph": "Idlib Province in Syria was hit by deadly airstrikes ahead of the Eid al-Adha holiday, which began on Monday, the same day as a cease-fire. An area resident, Muhammed Najdat Kaddour, filmed the scene.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/12/multimedia/syria-voice-01/syria-voice-01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/12/multimedia/syria-voice-01/syria-voice-01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/12/multimedia/syria-voice-01/syria-voice-01-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/12/multimedia/syria-voice-01/syria-voice-01-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/12/multimedia/syria-voice-01/syria-voice-01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/12/multimedia/syria-voice-01/syria-voice-01-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Eyes of a Syrian Activist"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Idlib (Syria)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Syria"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Eid al-Adha"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          }
+        ],
+        "pub_date": "2016-09-12T22:02:13+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Middle East",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Megan",
+              "rank": 1,
+              "lastname": "SPECIA"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Yara",
+              "rank": 2,
+              "lastname": "BISHARA"
+            }
+          ],
+          "original": "By MEGAN SPECIA and YARA BISHARA"
+        },
+        "type_of_material": "Video",
+        "_id": "57d7260c95d0e021d7985d0f",
+        "word_count": "34",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/sports/olympics/ap-oly-homeless-paralympian.html",
+        "snippet": "A few months before U.S. table tennis player Tahl Leibovitz left his home in Queens, N.Y., for the Rio Paralympic Games, his wife, Dawn, heard a bang late at night. They didn't identify the source of the noise until their neighbor told them her ai...",
+        "lead_paragraph": "A few months before U.S. table tennis player Tahl Leibovitz left his home in Queens, N.Y., for the Rio Paralympic Games, his wife, Dawn, heard a bang late at night. They didn't identify the source of the noise until their neighbor told them her air conditioner had fallen onto their car.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Table Tennis Gave a Once-Homeless Teen a Path to Paralympics",
+          "print_headline": "Table Tennis Gave a Once-Homeless Teen a Path to Paralympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T21:58:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d725c595d0e021d7985d0d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/sports/tennis/ap-ten-on-tennis-wawrinka.html",
+        "snippet": "For years, the duo of Roger Federer and Rafael Nadal dominated men's tennis....",
+        "lead_paragraph": "For years, the duo of Roger Federer and Rafael Nadal dominated men's tennis.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Fendrich on Tennis: So Does Wawrinka Belong to a Big 5 Now?",
+          "print_headline": "Fendrich on Tennis: So Does Wawrinka Belong to a Big 5 Now?"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T21:56:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d725ca95d0e021d7985d0e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/business/ap-us-treasury-bills.html",
+        "snippet": "Interest rates on short-term Treasury bills rose in Monday's auction with rates on three-month bills climbing to their highest level since late 2008....",
+        "lead_paragraph": "Interest rates on short-term Treasury bills rose in Monday's auction with rates on three-month bills climbing to their highest level since late 2008.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rates Rise at Weekly US Treasury Bill Auction",
+          "print_headline": "Rates Rise at Weekly US Treasury Bill Auction"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T21:57:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d725a395d0e021d7985d0b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/technology/12reuters-yahoo-techcrunch.html",
+        "snippet": "The mission to merge Yahoo's assets with AOL and Verizon's will lead to \"some job changes\" according to AOL CEO Tim Armstrong....",
+        "lead_paragraph": "The mission to merge Yahoo's assets with AOL and Verizon's will lead to \"some job changes\" according to AOL CEO Tim Armstrong.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "AOL CEO Tim Armstrong Says Yahoo Deal Will Spark 'Job Changes'",
+          "print_headline": "AOL CEO Tim Armstrong Says Yahoo Deal Will Spark 'Job Changes'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T21:59:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d7258c95d0e021d7985d0a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/us/12reuters-chicago-airport-bonds.html",
+        "snippet": "Chicago would sell up to $3.5 billion of revenue bonds this year for its O'Hare International Airport under proposals approved on Monday by the city council's finance committee....",
+        "lead_paragraph": "Chicago would sell up to $3.5 billion of revenue bonds this year for its O'Hare International Airport under proposals approved on Monday by the city council's finance committee.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Up to $3.5 Billion of Airport Bonds Clear Chicago Council Committee",
+          "print_headline": "Up to $3.5 Billion of Airport Bonds Clear Chicago Council Committee"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T21:59:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d7258795d0e021d7985d09",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/12/briefing/hillary-clinton-zika-syria.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/12/nytnow/12eveningss-slide-3CSK/12eveningss-slide-3CSK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/12/nytnow/12eveningss-slide-3CSK/12eveningss-slide-3CSK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/12/nytnow/12eveningss-slide-3CSK/12eveningss-slide-3CSK-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/12/nytnow/12eveningss-slide-3CSK/12eveningss-slide-3CSK-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/12/nytnow/12eveningss-slide-3CSK/12eveningss-slide-3CSK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/12/nytnow/12eveningss-slide-3CSK/12eveningss-slide-3CSK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hillary Clinton, Zika, Syria: Your Monday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57d724da95d0e021d7985d08",
+        "word_count": "965",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/world/europe/12reuters-mideast-crisis-adnani.html",
+        "snippet": "The Pentagon confirmed on Monday that Islamic State leader Abu Muhammad al-Adnani was killed in a U.S. air strike on Aug. 30 in Syria....",
+        "lead_paragraph": "The Pentagon confirmed on Monday that Islamic State leader Abu Muhammad al-Adnani was killed in a U.S. air strike on Aug. 30 in Syria.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pentagon Confirms Islamic State Leader Was Killed in Aug. 30 Air Strike",
+          "print_headline": "Pentagon Confirms Islamic State Leader Was Killed in Aug. 30 Air Strike"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T21:54:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d724d195d0e021d7985d07",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

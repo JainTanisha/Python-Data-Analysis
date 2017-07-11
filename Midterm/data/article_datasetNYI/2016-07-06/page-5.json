@@ -1,0 +1,518 @@
+{
+  "response": {
+    "meta": {
+      "hits": 916,
+      "time": 54,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/06/us/ap-us-intruder-shot-football-player.html",
+        "snippet": "Officials say the shooting of a former Detroit Lions cornerback at a multimillion-dollar home in Portland, Oregon, was justified....",
+        "lead_paragraph": "Officials say the shooting of a former Detroit Lions cornerback at a multimillion-dollar home in Portland, Oregon, was justified.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "District Attorney: Ex-NFL Player Shot by Homeowner Justified",
+          "print_headline": "District Attorney: Ex-NFL Player Shot by Homeowner Justified"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T20:23:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577da14538f0d85bf991fadc",
+        "word_count": "125",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/07/business/dealbook/unirush-owner-of-rushcard-names-ron-hynes-chief.html",
+        "snippet": "Mr. Hynes, a former MasterCard executive, will take over about nine months after a malfunction that kept cardholders from using their money....",
+        "lead_paragraph": "Mr. Hynes, a former MasterCard executive, will take over about nine months after a malfunction that kept cardholders from using their money.",
+        "abstract": "UniRush names Ron Hynes as chief executive of its prepaid debit card firm RushCard, replacing Richard Savard.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/07/business/07DB-PREPAID/07DB-PREPAID-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/07/business/07DB-PREPAID/07DB-PREPAID-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/07/business/07DB-PREPAID/07DB-PREPAID-articleLarge.jpg",
+            "height": 815,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/07/business/07DB-PREPAID/07DB-PREPAID-articleLarge.jpg",
+              "xlargeheight": "815"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/07/business/07DB-PREPAID/07DB-PREPAID-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/07/business/07DB-PREPAID/07DB-PREPAID-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "UniRush, Owner of RushCard, Names Ron Hynes Chief",
+          "print_headline": "Marketer of Prepaid Debit Cards Names Chief"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "UniRush LLC"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hynes, Ron"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Debit Cards"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          }
+        ],
+        "pub_date": "2016-07-06T20:21:47+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Liz",
+              "rank": 1,
+              "lastname": "MOYER"
+            }
+          ],
+          "original": "By LIZ MOYER"
+        },
+        "type_of_material": "News",
+        "_id": "577d685d38f0d85bf991fa42",
+        "word_count": "477",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/06/world/europe/06reuters-vatican-trial.html",
+        "snippet": "The trial of five people accused of leaking or publishing confidential documents depicting a Vatican plagued by corruption and mismanagement goes to a panel of judges for verdicts on Thursday....",
+        "lead_paragraph": "The trial of five people accused of leaking or publishing confidential documents depicting a Vatican plagued by corruption and mismanagement goes to a panel of judges for verdicts on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "'Vatileaks' Trial Due to End After Nearly Eight Months",
+          "print_headline": "'Vatileaks' Trial Due to End After Nearly Eight Months"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T20:21:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577da09738f0d85bf991fada",
+        "word_count": "521",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/06/us/ap-us-police-beating-salt-lake-city.html",
+        "snippet": "Authorities are considering criminal charges against a now-retired Salt Lake City police officer shown in a 2014 body camera video striking a woman in the face and yelling expletives at her while her young daughter watches after she allegedly spit...",
+        "lead_paragraph": "Authorities are considering criminal charges against a now-retired Salt Lake City police officer shown in a 2014 body camera video striking a woman in the face and yelling expletives at her while her young daughter watches after she allegedly spit on him during an arrest for public intoxication.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Officer Seen on Body Cam Striking Woman, Yelling Expletives",
+          "print_headline": "Officer Seen on Body Cam Striking Woman, Yelling Expletives"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T20:14:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577da09838f0d85bf991fadb",
+        "word_count": "832",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/06/world/americas/06reuters-colombia-rebels.html",
+        "snippet": "A unit of Colombia's FARC rebel group said it will not lay down arms or demobilize under a potential peace deal with the government, the first public sign of opposition to an accord from within the rebel ranks that may set back efforts to end five...",
+        "lead_paragraph": "A unit of Colombia's FARC rebel group said it will not lay down arms or demobilize under a potential peace deal with the government, the first public sign of opposition to an accord from within the rebel ranks that may set back efforts to end five decades of war.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombian Rebel Unit Says It Will Not Disarm Under Peace Deal",
+          "print_headline": "Colombian Rebel Unit Says It Will Not Disarm Under Peace Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T20:19:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577da08f38f0d85bf991fad9",
+        "word_count": "414",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/07/technology/personaltech/a-snooze-worthy-app-collection-to-add-to-the-smartphone.html",
+        "snippet": "SleepBot, Pillow, Pzizz and mySleepButton are made to put you to sleep....",
+        "lead_paragraph": "SleepBot, Pillow, Pzizz and mySleepButton are made to put you to sleep.",
+        "abstract": "Kit Eaton App Smart column highlights sleep-monitoring smartphone apps.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/07/business/SMART3/SMART3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/07/business/SMART3/SMART3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/07/business/SMART3/SMART3-articleLarge.jpg",
+            "height": 1066,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/07/business/SMART3/SMART3-articleLarge.jpg",
+              "xlargeheight": "1066"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/07/business/SMART3/SMART3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/07/business/SMART3/SMART3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Snooze-Worthy App Collection to Add to the Smartphone",
+          "content_kicker": "App Smart",
+          "kicker": "App Smart",
+          "print_headline": "Some Digital Paths to 40 Winks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sleep"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mobile Applications"
+          }
+        ],
+        "pub_date": "2016-07-06T20:16:24+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": "Personal Tech",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kit",
+              "rank": 1,
+              "lastname": "EATON"
+            }
+          ],
+          "original": "By KIT EATON"
+        },
+        "type_of_material": "News",
+        "_id": "577d671c38f0d85bf991fa37",
+        "word_count": "715",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/07/business/dealbook/britain-seeks-retrial-of-barclays-traders-in-libor-case.html",
+        "snippet": "A jury was unable to reach a verdict on charges that two former Barclays employees plotted to manipulate a benchmark interest rate....",
+        "lead_paragraph": "A jury was unable to reach a verdict on charges that two former Barclays employees plotted to manipulate a benchmark interest rate.",
+        "abstract": "British officials say they will pursue retrial of former Barclays traders Stylianos Contogoulas and Ryan Michael Reich after jury fails to reach verdict on charges that traders plotted to manipulate Libor rate.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/07/business/07DB-LIBOR/07DB-LIBOR-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/07/business/07DB-LIBOR/07DB-LIBOR-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/07/business/07DB-LIBOR/07DB-LIBOR-articleLarge.jpg",
+            "height": 311,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/07/business/07DB-LIBOR/07DB-LIBOR-articleLarge.jpg",
+              "xlargeheight": "311"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/07/business/07DB-LIBOR/07DB-LIBOR-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/07/business/07DB-LIBOR/07DB-LIBOR-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Britain Seeks Retrial of Barclays Traders in Libor Case",
+          "print_headline": "Britain Seeks a Retrial of Ex-Barclays Traders"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Libor (London Interbank Offered Rate)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Frauds and Swindling"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Barclays PLC"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Serious Fraud Office (United Kingdom)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Reich, Ryan Michael"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Contogoulas, Stylianos"
+          }
+        ],
+        "pub_date": "2016-07-06T20:15:01+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Chad",
+              "rank": 1,
+              "lastname": "BRAY"
+            }
+          ],
+          "original": "By CHAD BRAY"
+        },
+        "type_of_material": "News",
+        "_id": "577d66c838f0d85bf991fa35",
+        "word_count": "426",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/06/us/ap-us-terrorism-threats-arrest.html",
+        "snippet": "An 18-year-old Tucson man arrested on terrorism charges expressed support for the Islamic State and made contact with a terrorist organization about obtaining weapons and bomb-making instructions for an attack, a newly unsealed document shows....",
+        "lead_paragraph": "An 18-year-old Tucson man arrested on terrorism charges expressed support for the Islamic State and made contact with a terrorist organization about obtaining weapons and bomb-making instructions for an attack, a newly unsealed document shows.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Documents: Arizona Man Contacted Terrorist Organization",
+          "print_headline": "Documents: Arizona Man Contacted Terrorist Organization"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T20:01:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577d9dc638f0d85bf991fad4",
+        "word_count": "420",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/06/us/ap-us-police-shooting-louisiana-activist.html",
+        "snippet": "Over the past decade, a Baton Rouge anti-violence group has filmed the aftermath of more than 30 deadly shootings in the city. Its most recent video, capturing a police shooting that killed a black man outside a convenience store, has reverberated...",
+        "lead_paragraph": "Over the past decade, a Baton Rouge anti-violence group has filmed the aftermath of more than 30 deadly shootings in the city. Its most recent video, capturing a police shooting that killed a black man outside a convenience store, has reverberated far beyond Louisiana's capital.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Anti-Violence Group Captured Video of Deadly Police Shooting",
+          "print_headline": "Anti-Violence Group Captured Video of Deadly Police Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T19:58:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577d9dc538f0d85bf991fad3",
+        "word_count": "472",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/06/us/ap-us-mackinac-pipelines-attorney-general.html",
+        "snippet": "Protesters who oppose a 63-year-old oil pipeline beneath the Straits of Mackinac demonstrated Wednesday at the home of Michigan Attorney General Bill Schuette, calling on him to shut the line down....",
+        "lead_paragraph": "Protesters who oppose a 63-year-old oil pipeline beneath the Straits of Mackinac demonstrated Wednesday at the home of Michigan Attorney General Bill Schuette, calling on him to shut the line down.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Anti-Pipeline Group Protests Outside Michigan AG's Home",
+          "print_headline": "Anti-Pipeline Group Protests Outside Michigan AG's Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-06T19:57:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577d9dc538f0d85bf991fad2",
+        "word_count": "459",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

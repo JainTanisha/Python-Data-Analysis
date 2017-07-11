@@ -1,0 +1,457 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1029,
+      "time": 39,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/29/world/europe/29reuters-mideast-crisis-obama-merkel.html",
+        "snippet": "U.S. President Barack Obama spoke by phone on Thursday with German Chancellor Angela Merkel and the two leaders \"strongly condemned the barbarous Russian and Syrian regime air strikes against eastern Aleppo,\" the White House said in a statement....",
+        "lead_paragraph": "U.S. President Barack Obama spoke by phone on Thursday with German Chancellor Angela Merkel and the two leaders \"strongly condemned the barbarous Russian and Syrian regime air strikes against eastern Aleppo,\" the White House said in a statement.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Obama, Merkel Condemn Russian, Syrian Air Strikes in Aleppo-White House",
+          "print_headline": "Obama, Merkel Condemn Russian, Syrian Air Strikes in Aleppo-White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T22:24:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed955695d0e021d7989368",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/29/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T22:21:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed94c395d0e021d7989367",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/30/sports/golf/with-glut-of-vice-captains-at-the-ryder-cup-will-tiger-woods-fetch-lunch.html",
+        "snippet": "As the Ryder Cup expands, so do its rosters, with this year\u2019s vice captain count at 10....",
+        "lead_paragraph": "As the Ryder Cup expands, so do its rosters, with this year\u2019s vice captain count at 10.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/30/sports/30rydercup-inyt/30rydercup-inyt-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/30/sports/30rydercup-inyt/30rydercup-inyt-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/30/sports/30rydercup-inyt/30rydercup-inyt-articleLarge.jpg",
+            "height": 468,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/30/sports/30rydercup-inyt/30rydercup-inyt-articleLarge.jpg",
+              "xlargeheight": "468"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/30/sports/30rydercup-inyt/30rydercup-inyt-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/30/sports/30rydercup-inyt/30rydercup-inyt-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "With Glut of Vice Captains at the Ryder Cup, Will Tiger Woods Fetch Lunch?",
+          "print_headline": "Need Coffee? Your Ryder Cup Sweater? Ask One of Those 10 Vice Captains"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Ryder Cup (Golf)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Golf"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Watson, Bubba"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Woods, Tiger"
+          }
+        ],
+        "pub_date": "2016-09-29T22:23:49+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1,
+              "lastname": "CLAREY"
+            }
+          ],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "type_of_material": "News",
+        "_id": "57ed947e95d0e021d7989366",
+        "word_count": "1252",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/29/us/ap-us-lyft-driver-assault.html",
+        "snippet": "Orlando police have arrested a Lyft driver on charges of sexually assaulting a customer....",
+        "lead_paragraph": "Orlando police have arrested a Lyft driver on charges of sexually assaulting a customer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Orlando Police: Lyft Driver Charged With Sexual Assault",
+          "print_headline": "Orlando Police: Lyft Driver Charged With Sexual Assault"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T21:36:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed941895d0e021d7989365",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/29/us/ap-us-prison-staff-attacked-.html",
+        "snippet": "Authorities in North Carolina say two supervisors were stabbed and two correctional officers sustained other injuries after being attacked at a state prison....",
+        "lead_paragraph": "Authorities in North Carolina say two supervisors were stabbed and two correctional officers sustained other injuries after being attacked at a state prison.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Prison Officials: 2 Supervisors, 2 Officers Hurt in Attack",
+          "print_headline": "Prison Officials: 2 Supervisors, 2 Officers Hurt in Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T21:33:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed941695d0e021d7989364",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/29/us/ap-us-chicago-schools-news-guide.html",
+        "snippet": "Teachers in the country's third-largest city have cranked up the heat in contract talks, threatening to go on strike in less than two weeks....",
+        "lead_paragraph": "Teachers in the country's third-largest city have cranked up the heat in contract talks, threatening to go on strike in less than two weeks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "A Closer Look as Deadline for Chicago Teachers Strike Nears",
+          "print_headline": "A Closer Look as Deadline for Chicago Teachers Strike Nears"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T21:30:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed940c95d0e021d7989363",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/upshot/clinton-trump-paths-to-win-election.html",
+        "snippet": "Explore the paths to victory available for the presidential candidates....",
+        "lead_paragraph": "Explore the paths to victory available for the presidential candidates.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/19/upshot/2012-paths-to-victory-1474301667379/2012-paths-to-victory-1474301667379-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/19/upshot/2012-paths-to-victory-1474301667379/2012-paths-to-victory-1474301667379-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/19/upshot/2012-paths-to-victory-1474301667379/2012-paths-to-victory-1474301667379-articleLarge.png",
+            "height": 346,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/19/upshot/2012-paths-to-victory-1474301667379/2012-paths-to-victory-1474301667379-articleLarge.png",
+              "xlargeheight": "346"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/19/upshot/2012-paths-to-victory-1474301667379/2012-paths-to-victory-1474301667379-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/19/upshot/2012-paths-to-victory-1474301667379/2012-paths-to-victory-1474301667379-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Ways Clinton or Trump Can Win the Election"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "States (US)"
+          }
+        ],
+        "pub_date": "2016-09-29T22:21:39+0000",
+        "document_type": "multimedia",
+        "news_desk": "The Upshot",
+        "section_name": "The Upshot",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "57ed93f695d0e021d7989362",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/02/fashion/scene-city-metropolitan-opera-new-york-historical-society-fall-galas.html",
+        "snippet": "Last week\u2019s top events included opening night of the Metropolitan Opera, Mehregan at Untermyer Park and the New-York Historical Society\u2019s gala....",
+        "lead_paragraph": "Last week\u2019s top events included opening night of the Metropolitan Opera, Mehregan at Untermyer Park and the New-York Historical Society\u2019s gala.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Fall Brings Operas, Harvest Festivals and a Bounty of Galas",
+          "content_kicker": "Party Coverage: Scene City",
+          "kicker": "Party Coverage: Scene City",
+          "print_headline": "Setting the Tone for a Lively Fall"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Metropolitan Opera"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New-York Historical Society"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Untermyer Gardens Conservancy"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Burns, Ken"
+          }
+        ],
+        "pub_date": "2016-09-29T22:18:38+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Denny",
+              "rank": 1,
+              "lastname": "LEE"
+            }
+          ],
+          "original": "By DENNY LEE"
+        },
+        "type_of_material": "News",
+        "_id": "57ed934395d0e021d7989360",
+        "word_count": "57",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/29/arts/29reuters-film-birthofanation.html",
+        "snippet": "Nate Parker, director and star of the new slavery drama \"The Birth of a Nation,\" said he would not apologize over a 17-year-old rape accusation that has hijacked attention from a film once tipped as an Oscar front-runner....",
+        "lead_paragraph": "Nate Parker, director and star of the new slavery drama \"The Birth of a Nation,\" said he would not apologize over a 17-year-old rape accusation that has hijacked attention from a film once tipped as an Oscar front-runner.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "'Birth of a Nation' Star Says Will Not Apologize Over Rape Case",
+          "print_headline": "'Birth of a Nation' Star Says Will Not Apologize Over Rape Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T22:17:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed934395d0e021d798935f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/29/us/politics/ap-us-campaign-2016-trump-infidelity.html",
+        "snippet": "Donald Trump says he took the moral high ground at the first presidential debate by not mentioning the infidelities of former President Bill Clinton. But he hinted at them, talked about them immediately afterward and then sent his campaign's top b...",
+        "lead_paragraph": "Donald Trump says he took the moral high ground at the first presidential debate by not mentioning the infidelities of former President Bill Clinton. But he hinted at them, talked about them immediately afterward and then sent his campaign's top backers out to do the same.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Dismissing Risks, Trump Goes All-In on Bill Clinton's Past",
+          "print_headline": "Dismissing Risks, Trump Goes All-In on Bill Clinton's Past"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-29T22:09:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ed921f95d0e021d798935c",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

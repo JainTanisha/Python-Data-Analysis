@@ -1,0 +1,620 @@
+{
+  "response": {
+    "meta": {
+      "hits": 988,
+      "time": 84,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/sports/olympics/01reuters-swimming-olympics-usa-rivalry.html",
+        "snippet": "Michael Phelps edged old foe Ryan Lochte in a pulsating 200 meters individual medley showdown at the U.S. Olympic trials on Friday, adding another thrilling chapter to the greatest rivalry in swimming....",
+        "lead_paragraph": "Michael Phelps edged old foe Ryan Lochte in a pulsating 200 meters individual medley showdown at the U.S. Olympic trials on Friday, adding another thrilling chapter to the greatest rivalry in swimming.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Phelps, Lochte Add Thrilling Chapter to Their Rivalry",
+          "print_headline": "Phelps, Lochte Add Thrilling Chapter to Their Rivalry"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:04:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577721a838f0d81f396c04dd",
+        "word_count": "494",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/golf/ap-glf-barracuda-championship.html",
+        "snippet": "Greg Chalmers birdied five of his last eight holes Friday to take a two-point lead in the Barracuda Championship, the PGA Tour's only modified Stableford scoring event....",
+        "lead_paragraph": "Greg Chalmers birdied five of his last eight holes Friday to take a two-point lead in the Barracuda Championship, the PGA Tour's only modified Stableford scoring event.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Greg Chalmers Leads Barracuda Championship in Reno",
+          "print_headline": "Greg Chalmers Leads Barracuda Championship in Reno"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T21:58:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777204938f0d81f396c04db",
+        "word_count": "757",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/01/too-much/",
+        "snippet": "Erin Rhode returns with a very enjoyable Saturday puzzle....",
+        "lead_paragraph": null,
+        "abstract": "Erin Rhode returns with a very enjoyable Saturday puzzle.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/01/crosswords/02wordplaylions/02wordplaylions-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/01/crosswords/02wordplaylions/02wordplaylions-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/01/crosswords/02wordplaylions/02wordplaylions-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/01/crosswords/02wordplaylions/02wordplaylions-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/01/crosswords/02wordplaylions/02wordplaylions-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/01/crosswords/02wordplaylions/02wordplaylions-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Too Much",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-01T22:00:00Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "5777204738f0d81f396c04da",
+        "word_count": "893",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/us/homeland-security-immigrants-criminal-conviction.html",
+        "snippet": "Thousands of convicted immigrants were released into the United States, with about 100 of those later charged in homicides, federal records show....",
+        "lead_paragraph": "Thousands of convicted immigrants were released into the United States, with about 100 of those later charged in homicides, federal records show.",
+        "abstract": "Homeland Security Dept releases statistics showing that thousands of immigrants with criminal records, including more than 100 who had been charged with homicides, have been released from detention because their home countries have refused them entry; lawmakers and advocates for tighter borders react with outrage, and say Obama administration can do more.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/us/02deport/02deport-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/us/02deport/02deport-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/us/02deport/02deport-articleLarge.jpg",
+            "height": 410,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/us/02deport/02deport-articleLarge.jpg",
+              "xlargeheight": "410"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/us/02deport/02deport-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/us/02deport/02deport-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Nations Hinder U.S. Effort to Deport Immigrants Convicted of Crime",
+          "print_headline": "Native Countries Hindering U.S. Effort to Deport Immigrants Guilty of Crimes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deportation"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Crime and Criminals"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Homeland Security Department"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Immigration and Customs Enforcement (US)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          }
+        ],
+        "pub_date": "2016-07-01T21:33:08+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ron",
+              "rank": 1,
+              "lastname": "NIXON"
+            }
+          ],
+          "original": "By RON NIXON"
+        },
+        "type_of_material": "News",
+        "_id": "5776e19738f0d81f396c046d",
+        "word_count": "1076",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/us/01reuters-space-usa-smithsonian.html",
+        "snippet": "The Smithsonian's National Air and Space Museum late on Friday kicks off its 40th anniversary festivities with a first-ever overnight celebration, long enough for the International Space Station to orbit the Earth nearly eight times....",
+        "lead_paragraph": "The Smithsonian's National Air and Space Museum late on Friday kicks off its 40th anniversary festivities with a first-ever overnight celebration, long enough for the International Space Station to orbit the Earth nearly eight times. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Air and Space Museum Launches 40th Anniversary Bash",
+          "print_headline": "U.S. Air and Space Museum Launches 40th Anniversary Bash"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T21:28:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5777193b38f0d81f396c04d3",
+        "word_count": "242",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/business/brand-name-drug-makers-wary-of-letting-generic-rival-join-their-club.html",
+        "snippet": "Teva Pharmaceuticals wants to join PhRMA, a powerful trade association, raising alarm among drug companies facing disputes over high prices....",
+        "lead_paragraph": "Teva Pharmaceuticals wants to join PhRMA, a powerful trade association, raising alarm among drug companies facing disputes over high prices.",
+        "abstract": "Pharmaceutical industry has been shaken following move by Teva Pharmaceutical Industries, world's largest generic drug company, to join Pharmaceutical Research and Manufacturers of America, trade group representing interests of brand-name producers; move has raised alarm among lobbyists and companies facing legal battles with generic producers over drug pricing. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/us/02pharma/02pharma-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/us/02pharma/02pharma-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/us/02pharma/02pharma-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/us/02pharma/02pharma-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/us/02pharma/02pharma-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/us/02pharma/02pharma-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brand-Name Drug Makers Wary of Letting Generic Rival Join Their Club",
+          "print_headline": "Drug Group Considering a Producer of Generics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drugs (Pharmaceuticals)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Teva Pharmaceutical Industries Ltd"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Pharmaceutical Research and Manufacturers of America"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Generic Brands and Products"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Inventions and Patents"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Lobbying and Lobbyists"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Prices (Fares, Fees and Rates)"
+          }
+        ],
+        "pub_date": "2016-07-01T21:27:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robert",
+              "rank": 1,
+              "lastname": "PEAR"
+            }
+          ],
+          "original": "By ROBERT PEAR"
+        },
+        "type_of_material": "News",
+        "_id": "5776e05e38f0d81f396c0469",
+        "word_count": "1062",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/arts/music/review-cos-fan-tutte-mozart-aix-en-provence-festival-chrisophe-honore.html",
+        "snippet": "\u201cCos\u00ec Fan Tutte,\u201d which was originally set in Naples, now takes place in an East African country, where two of the main characters disguise themselves in blackface....",
+        "lead_paragraph": "\u201cCos\u00ec Fan Tutte,\u201d which was originally set in Naples, now takes place in an East African country, where two of the main characters disguise themselves in blackface.",
+        "abstract": "Zachary Woolfe reviews production of Mozart opera Cosi Fan Tutte, directed by Christophe Honore and featuring Freiburg Baroque Orchestra, at Aix-en-Provence Festival in France.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/arts/02COSI/02COSI-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/arts/02COSI/02COSI-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/arts/02COSI/02COSI-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/arts/02COSI/02COSI-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/arts/02COSI/02COSI-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/arts/02COSI/02COSI-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Mozart Reimagined in a Violent, Racist World",
+          "print_headline": "A Mozart Comedy Set in a Racist World"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Honore, Christophe"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mozart, Wolfgang Amadeus"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Cosi Fan Tutte (Opera)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Freiburg Baroque Orchestra"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Aix-en-Provence (France)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Festivals"
+          }
+        ],
+        "pub_date": "2016-07-01T21:26:39+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zachary",
+              "rank": 1,
+              "lastname": "WOOLFE"
+            }
+          ],
+          "original": "By ZACHARY WOOLFE"
+        },
+        "type_of_material": "Review",
+        "_id": "5776e01238f0d81f396c0468",
+        "word_count": "1016",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/us/ap-dc-folklife-festival.html",
+        "snippet": "Basque culture and California music are being celebrated this year at the Smithsonian's Folklife Festival....",
+        "lead_paragraph": "Basque culture and California music are being celebrated this year at the Smithsonian's Folklife Festival.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Folklife Festival Celebrates Resilient Communities",
+          "print_headline": "Folklife Festival Celebrates Resilient Communities"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T21:21:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577717eb38f0d81f396c04d1",
+        "word_count": "110",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/olympics/ap-oly-swm-us-swim-trials.html",
+        "snippet": "Matching each other stroke for stroke, Michael Phelps and Ryan Lochte surged to the wall in almost perfect sync....",
+        "lead_paragraph": "Matching each other stroke for stroke, Michael Phelps and Ryan Lochte surged to the wall in almost perfect sync.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Stroke for Stroke: Phelps Edges Lochte at US Swim Trials",
+          "print_headline": "Stroke for Stroke: Phelps Edges Lochte at US Swim Trials"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:57:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777168338f0d81f396c04cf",
+        "word_count": "938",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/world/asia/01reuters-bangladesh-attack-claim-photos.html",
+        "snippet": "Islamic State posted photos on Saturday it claimed to be of foreigners killed in an attack on a cafe in Dhaka, Bangladesh, where gunmen were holding hostages as police laid siege to the building, news agency Amaq said....",
+        "lead_paragraph": "Islamic State posted photos on Saturday it claimed to be of foreigners killed in an attack on a cafe in Dhaka, Bangladesh, where gunmen were holding hostages as police laid siege to the building, news agency Amaq said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Islamic State Posts Photos It Says Are of Foreigners Killed in Dhaka Attack",
+          "print_headline": "Islamic State Posts Photos It Says Are of Foreigners Killed in Dhaka Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T21:04:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5777139938f0d81f396c04cd",
+        "word_count": "115",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

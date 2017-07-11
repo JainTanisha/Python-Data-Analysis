@@ -1,0 +1,515 @@
+{
+  "response": {
+    "meta": {
+      "hits": 392,
+      "time": 78,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/sports/ncaabasketball/ap-bkw-t25-stanford-purdue.html",
+        "snippet": "Brittany McPhee scored 22 points and Karlie Samuelson hit six 3-pointers for 20 points and No. 11 Stanford turned back Purdue 78-69 on Saturday to win the Cancun Challenge....",
+        "lead_paragraph": "Brittany McPhee scored 22 points and Karlie Samuelson hit six 3-pointers for 20 points and No. 11 Stanford turned back Purdue 78-69 on Saturday to win the Cancun Challenge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McPhee, Samuelson Lead No. 11 Stanford Women to Cancun Title",
+          "print_headline": "McPhee, Samuelson Lead No. 11 Stanford Women to Cancun Title"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:36:48+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f26995d0e039260729f3",
+        "word_count": "187",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/26/world/asia/catholics-china-francis.html",
+        "snippet": "The pope\u2019s apparent determination to bring the \u201cunderground\u201d church out of the shadows has caused some to worry that he might give too much away to the hard-line president, Xi Jinping....",
+        "lead_paragraph": "The pope\u2019s apparent determination to bring the \u201cunderground\u201d church out of the shadows has caused some to worry that he might give too much away to the hard-line president, Xi Jinping.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/world/22CHINA-VATICAN-1/22CHINA-VATICAN-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/world/22CHINA-VATICAN-1/22CHINA-VATICAN-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/world/22CHINA-VATICAN-1/22CHINA-VATICAN-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/world/22CHINA-VATICAN-1/22CHINA-VATICAN-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/world/22CHINA-VATICAN-1/22CHINA-VATICAN-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/world/22CHINA-VATICAN-1/22CHINA-VATICAN-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Talks to Heal Catholic Rift in China Gain Momentum Under Francis",
+          "print_headline": "Talks to Heal Catholic Rift in China Gain Momentum Under Francis"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Chinese Patriotic Catholic Assn"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Christians and Christianity"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Roman Catholic Church"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Francis"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Henan Province (China)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Milan (Italy)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Priests"
+          }
+        ],
+        "pub_date": "2016-11-26T20:35:59+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "contributor": "Jim Yardley and Gaia Pianigiani contributed reporting from Rome. Adam Wu contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Chris",
+              "rank": 1,
+              "lastname": "BUCKLEY"
+            }
+          ],
+          "original": "By CHRIS BUCKLEY"
+        },
+        "type_of_material": "News",
+        "_id": "5839f23895d0e039260729f2",
+        "word_count": "1465",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/soccer/26reuters-soccer-spain-rea-ronaldo.html",
+        "snippet": "Real Madrid's Cristiano Ronaldo silenced the doubters who were writing him off at the start of the season by moving to the top of La Liga's scoring chart with two goals on Saturday....",
+        "lead_paragraph": "Real Madrid's Cristiano Ronaldo silenced the doubters who were writing him off at the start of the season by moving to the top of La Liga's scoring chart with two goals on Saturday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "'Magesterial' Ronaldo Overtakes Messi and Suarez in Scoring Charts",
+          "print_headline": "'Magesterial' Ronaldo Overtakes Messi and Suarez in Scoring Charts"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:24:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839ef8295d0e039260729f1",
+        "word_count": "384",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/sports/ncaabasketball/ap-bkw-t25-tcu-notre-dame.html",
+        "snippet": "Arike Ogunbowale scored 19 points as No. 1 Notre Dame pulled away to a 92-59 victory over TCU on Saturday....",
+        "lead_paragraph": "Arike Ogunbowale scored 19 points as No. 1 Notre Dame pulled away to a 92-59 victory over TCU on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ogunbowale Scores 19, Top-Ranked Notre Dame Beats TCU 92-59",
+          "print_headline": "Ogunbowale Scores 19, Top-Ranked Notre Dame Beats TCU 92-59"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:12:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5839ecbb95d0e039260729f0",
+        "word_count": "395",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/world/americas/26reuters-cuba-castro-correspondents.html",
+        "snippet": "Reuters first established a presence in Havana before the Second World War and covered every major story of the Fidel Castro era since his 1959 Cuban revolution, from the Bay of Pigs invasion to his sickness in old age....",
+        "lead_paragraph": "Reuters first established a presence in Havana before the Second World War and covered every major story of the Fidel Castro era since his 1959 Cuban revolution, from the Bay of Pigs invasion to his sickness in old age.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Following Fidel: Memories of Cuba From Reuters Correspondents",
+          "print_headline": "Following Fidel: Memories of Cuba From Reuters Correspondents"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:00:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839e9e895d0e039260729ef",
+        "word_count": "1720",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/world/africa/26reuters-libya-security-belmokhtar.html",
+        "snippet": "A Tunisian woman who Libyan authorities said they had arrested and was married to veteran Algerian militant Mokhtar Belmokhtar is not his wife, her sister and an al Qaeda source have told local media....",
+        "lead_paragraph": "A Tunisian woman who Libyan authorities said they had arrested and was married to veteran Algerian militant Mokhtar Belmokhtar is not his wife, her sister and an al Qaeda source have told local media. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Sister, Militant Source Deny Woman Arrested in Libya Is Wife of Veteran Islamist",
+          "print_headline": "Sister, Militant Source Deny Woman Arrested in Libya Is Wife of Veteran Islamist"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T19:51:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839e7c995d0e039260729ee",
+        "word_count": "327",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/26/world/europe/finger-pointed-at-russians-in-alleged-coup-plot-in-montenegro.html",
+        "snippet": "A detained mercenary is slowly spilling his guts on what he says were efforts to sow mayhem in the Balkans and undermine NATO....",
+        "lead_paragraph": "A detained mercenary is slowly spilling his guts on what he says were efforts to sow mayhem in the Balkans and undermine NATO.",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/27/world/MONTENEGRO2/MONTENEGRO2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/27/world/MONTENEGRO2/MONTENEGRO2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/27/world/MONTENEGRO2/MONTENEGRO2-articleLarge.jpg",
+            "height": 418,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/27/world/MONTENEGRO2/MONTENEGRO2-articleLarge.jpg",
+              "xlargeheight": "418"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/27/world/MONTENEGRO2/MONTENEGRO2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/27/world/MONTENEGRO2/MONTENEGRO2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Finger Pointed at Russians in Alleged Coup Plot in Montenegro",
+          "print_headline": "Tale of Balkan Plot Points at Russians"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Montenegro"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coups D'Etat and Attempted Coups D'Etat"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Serbia"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Djukanovic, Milo"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Vucic, Aleksandar"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "North Atlantic Treaty Organization"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Politics and Government"
+          }
+        ],
+        "pub_date": "2016-11-26T19:49:28+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Oleg Matsnev contributed reporting from Moscow.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrew",
+              "rank": 1,
+              "lastname": "HIGGINS"
+            }
+          ],
+          "original": "By ANDREW HIGGINS"
+        },
+        "type_of_material": "News",
+        "_id": "5839e74f95d0e039260729ed",
+        "word_count": "1834",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/world/americas/ap-lt-mexico-farm-workers.html",
+        "snippet": "Mexican police and soldiers have freed 81 farm workers from what prosecutors call \"inhuman conditions\" at a large commercial tomato farm in the northern border state of Coahuila....",
+        "lead_paragraph": "Mexican police and soldiers have freed 81 farm workers from what prosecutors call \"inhuman conditions\" at a large commercial tomato farm in the northern border state of Coahuila.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Frees 81 Farm Workers From 'Inhuman' Conditions",
+          "print_headline": "Mexico Frees 81 Farm Workers From 'Inhuman' Conditions"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T19:48:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5839e72395d0e039260729ec",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/soccer/26reuters-soccer-england-che-tot.html",
+        "snippet": "CHELSEA 2 TOTTENHAM HOTSPUR 1...",
+        "lead_paragraph": "CHELSEA 2 TOTTENHAM HOTSPUR 1",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Chelsea Stay Top After Comeback Win Over Tottenham",
+          "print_headline": "Chelsea Stay Top After Comeback Win Over Tottenham"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T19:48:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839e71395d0e039260729eb",
+        "word_count": "145",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/world/middleeast/26reuters-yemen-security.html",
+        "snippet": "Yemen's President Abd-Rabbu Mansour Hadi arrived in the southern city of Aden on Saturday from Saudi Arabia to address civilian grievances including complaints about deteriorating services and delays in paying salaries, army and security sources s...",
+        "lead_paragraph": "Yemen's President Abd-Rabbu Mansour Hadi arrived in the southern city of Aden on Saturday from Saudi Arabia to address civilian grievances including complaints about deteriorating services and delays in paying salaries, army and security sources said. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Yemen's Exiled President Visits Civilians in Aden",
+          "print_headline": "Yemen's Exiled President Visits Civilians in Aden"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T19:45:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839e65e95d0e039260729ea",
+        "word_count": "165",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

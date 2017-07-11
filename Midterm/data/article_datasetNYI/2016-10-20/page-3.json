@@ -1,0 +1,484 @@
+{
+  "response": {
+    "meta": {
+      "hits": 964,
+      "time": 55,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/business/20reuters-china-retail.html",
+        "snippet": "As Europe's fashion giants brace for what could be the toughest leg of their expansion in China, a South African retail tycoon has launched a bold assault on the world&#8217;s most populous nation....",
+        "lead_paragraph": "As Europe's fashion giants brace for what could be the toughest leg of their expansion in China, a South African retail tycoon has launched a bold assault on the world&#8217;s most populous nation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "New Look Seeks Fashion Edge in China With Local Designs",
+          "print_headline": "New Look Seeks Fashion Edge in China With Local Designs"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:15:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5809501795d0e022439c45e7",
+        "word_count": "1296",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/business/dealbook/online-lenders-seek-to-shape-industry-before-regulators-do.html",
+        "snippet": "The companies, which offer fast access to loans for consumers and small businesses, want to show that they can police themselves....",
+        "lead_paragraph": "The companies, which offer fast access to loans for consumers and small businesses, want to show that they can police themselves.",
+        "abstract": "Online lenders like Lending Club, offering small businesses and consumers quick access to loans, are attempting to distance themselves from payday lenders and other predatory businesses that have attracted regulatory crackdowns; many have hired lobbyists to promote them as consumer-friendly lenders, hoping to avoid new regulation.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/business/21LOANlobby-web/21LOANlobby-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/business/21LOANlobby-web/21LOANlobby-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/business/21LOANlobby-web/21LOANlobby-web-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/business/21LOANlobby-web/21LOANlobby-web-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/business/21LOANlobby-web/21LOANlobby-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/business/21LOANlobby-web/21LOANlobby-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Online Lenders Seek to Shape Industry Before Regulators Do",
+          "print_headline": "Lenders Clean Up Their Acts Online"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Small Business"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Credit and Debt"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Consumer Protection"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Lending Club"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Regulation and Deregulation of Industry"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Funding Circle Ltd"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Prosper Marketplace Inc"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          }
+        ],
+        "pub_date": "2016-10-20T23:14:37+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Victoria",
+              "rank": 1,
+              "lastname": "FINKLE"
+            }
+          ],
+          "original": "By VICTORIA FINKLE"
+        },
+        "type_of_material": "News",
+        "_id": "58094fec95d0e022439c45e6",
+        "word_count": "1257",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/business/20reuters-britain-autos-driverless.html",
+        "snippet": "Jaguar Land Rover, Ford and Tata Motors are testing connected cars which can communicate with each other using technology designed to speed up journeys and cut accidents, the first such trials in Britain....",
+        "lead_paragraph": "Jaguar Land Rover, Ford and Tata Motors are testing connected cars which can communicate with each other using technology designed to speed up journeys and cut accidents, the first such trials in Britain.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Jaguar Land Rover and Ford Test Connected Cars in Britain",
+          "print_headline": "Jaguar Land Rover and Ford Test Connected Cars in Britain"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:12:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58094f6595d0e022439c45e5",
+        "word_count": "304",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/sports/basketball/ap-bkn-thibs-takes-over.html",
+        "snippet": "The alarm rings at 4:30 a.m., but only for a split-second. Tom Thibodeau has been wide awake for the last eight minutes, waiting for the buzzer to go off....",
+        "lead_paragraph": "The alarm rings at 4:30 a.m., but only for a split-second. Tom Thibodeau has been wide awake for the last eight minutes, waiting for the buzzer to go off.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Interview: Thibodeau on Hoops, Hope and Balance in Life",
+          "print_headline": "AP Interview: Thibodeau on Hoops, Hope and Balance in Life"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:06:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58094e1895d0e022439c45e4",
+        "word_count": "904",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/technology/20reuters-china-mobike.html",
+        "snippet": "China's tech industry giants are sloughing hundreds of millions of dollars into what they're betting will be the country's next big internet craze - 'Uber for bikes'....",
+        "lead_paragraph": "China's tech industry giants are sloughing hundreds of millions of dollars into what they're betting will be the country's next big internet craze - 'Uber for bikes'. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Two-Wheel Drive: China Tech Giants Bet on 'Uber for Bikes' in Hunt for Next Unicorn",
+          "print_headline": "Two-Wheel Drive: China Tech Giants Bet on 'Uber for Bikes' in Hunt for Next Unicorn"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:06:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58094dff95d0e022439c45e3",
+        "word_count": "792",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-us-planned-parenthood-mississippi.html",
+        "snippet": "A federal judge has blocked a Mississippi law that banned the state's Medicaid program from spending money with any health care provider that offers abortions....",
+        "lead_paragraph": "A federal judge has blocked a Mississippi law that banned the state's Medicaid program from spending money with any health care provider that offers abortions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Planned Parenthood Wins Suit to Block Mississippi Law",
+          "print_headline": "Planned Parenthood Wins Suit to Block Mississippi Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:04:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58094d6895d0e022439c45e2",
+        "word_count": "459",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-us-oakland-police-sexual-misconduct.html",
+        "snippet": "The Oakland Police Department, already reeling from a large-scale sex scandal involving several of its officers, announced Thursday that another officer was arrested and charged with soliciting prostitution and obstruction of justice charges in an...",
+        "lead_paragraph": "The Oakland Police Department, already reeling from a large-scale sex scandal involving several of its officers, announced Thursday that another officer was arrested and charged with soliciting prostitution and obstruction of justice charges in an unrelated case.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Arrest California Officer on Prostitution Allegation",
+          "print_headline": "Police Arrest California Officer on Prostitution Allegation"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:03:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58094d5d95d0e022439c45e0",
+        "word_count": "352",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-us-hot-car-death-georgia.html",
+        "snippet": "Online chat service records presented in court show that a man charged with killing his 22-month-old son sent someone a message saying the toddler was \"awesome\" while the boy sat dying inside a hot SUV....",
+        "lead_paragraph": "Online chat service records presented in court show that a man charged with killing his 22-month-old son sent someone a message saying the toddler was \"awesome\" while the boy sat dying inside a hot SUV.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Records: Father Texted About Son While He Sat in Hot Car",
+          "print_headline": "Records: Father Texted About Son While He Sat in Hot Car"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:03:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58094d6295d0e022439c45e1",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/americas/20reuters-un-landrights-cities-agenda.html",
+        "snippet": "The United Nations formally adopted a global road map to grapple with rapid urbanization on Thursday, capping nearly two years of behind-the-scenes international negotiations aimed at designing  development priorities for cities and towns over the...",
+        "lead_paragraph": "The United Nations formally adopted a global road map to grapple with rapid urbanization on Thursday, capping nearly two years of behind-the-scenes international negotiations aimed at designing  development priorities for cities and towns over the long term.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nations Agree on Global Road Map to Steer Breakneck Urbanization",
+          "print_headline": "Nations Agree on Global Road Map to Steer Breakneck Urbanization"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:03:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58094d4f95d0e022439c45df",
+        "word_count": "547",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/opinion/the-death-of-deborah-danner.html",
+        "snippet": "A woman who once wrote eloquently about her mental illness was killed by a police officer in circumstances that should lead to reforms....",
+        "lead_paragraph": "A woman who once wrote eloquently about her mental illness was killed by a police officer in circumstances that should lead to reforms.",
+        "abstract": "Editorial laments fatal shooting of mentally ill Bronx woman Deborah Danner by police officer Hugh Barry; questions use of lethal force and failure to follow departmental protocol for dealing with mentally ill; urges city to implement necessary changes to prevent similar outcomes in future.",
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/opinion/21fri3web/21fri3web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/opinion/21fri3web/21fri3web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/opinion/21fri3web/21fri3web-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/opinion/21fri3web/21fri3web-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/opinion/21fri3web/21fri3web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/opinion/21fri3web/21fri3web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Death of Deborah Danner",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial",
+          "print_headline": "The Death of Deborah Danner"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Danner, Deborah (1950-2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Bronx (NYC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Barry, Hugh (1986- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mental Health and Disorders"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Police Department (NYC)"
+          }
+        ],
+        "pub_date": "2016-10-20T23:01:05+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "58094cbf95d0e022439c45de",
+        "word_count": "496",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

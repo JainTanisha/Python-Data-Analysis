@@ -1,0 +1,335 @@
+{
+  "response": {
+    "meta": {
+      "hits": 988,
+      "time": 61,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/business/media/oscar-voters-on-notice-careful-with-the-caviar.html",
+        "snippet": "The Academy of Motion Picture Arts and Sciences announced new rules to curb party practices that may \u201cunduly influence\u201d its members....",
+        "lead_paragraph": "The Academy of Motion Picture Arts and Sciences announced new rules to curb party practices that may \u201cunduly influence\u201d its members.",
+        "abstract": "Academy of Motion Picture Arts and Sciences releases new rules regulating behavior of its members for upcoming Academy Awards season, including provision that limits their attendance of receptions and nonscreening events. ",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Oscar Voters on Notice: Careful With the Caviar",
+          "print_headline": "Academy Announces New Rules for Oscars"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Academy of Motion Picture Arts and Sciences"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Academy Awards (Oscars)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parties (Social)"
+          }
+        ],
+        "pub_date": "2016-07-01T22:39:20+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "CIEPLY"
+            }
+          ],
+          "original": "By MICHAEL CIEPLY"
+        },
+        "type_of_material": "News",
+        "_id": "5776f11a38f0d81f396c0493",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/soccer/bc-soc-mls-earthquakes-fire.html",
+        "snippet": "John Goossens scored his first MLS goal in the 58th minute and the Chicago Fire beat the San Jose Earthquakes 1-0 on Friday night....",
+        "lead_paragraph": "John Goossens scored his first MLS goal in the 58th minute and the Chicago Fire beat the San Jose Earthquakes 1-0 on Friday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Goossens Scores First MLS Goal to Lift Chicago Past San Jose",
+          "print_headline": "Goossens Scores First MLS Goal to Lift Chicago Past San Jose"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:29:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777280438f0d81f396c04e6",
+        "word_count": "147",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/ap-car-nascar-daytona-xfinity.html",
+        "snippet": "The record book shows Aric Almirola had one career Xfinity Series victory before Friday night's win at Daytona International Speedway....",
+        "lead_paragraph": "The record book shows Aric Almirola had one career Xfinity Series victory before Friday night's win at Daytona International Speedway.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Almirola Edges Allgaier to Win Xfinity Race at Daytona",
+          "print_headline": "Almirola Edges Allgaier to Win Xfinity Race at Daytona"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:26:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777269f38f0d81f396c04e5",
+        "word_count": "682",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/world/americas/ap-lt-venezuela-power-rationing.html",
+        "snippet": "Venezuelan President Nicolas Maduro says he is lifting electricity rationing that began more than two months ago because a drought had caused low water levels at the hydroelectric dam that provides most of the country's power....",
+        "lead_paragraph": "Venezuelan President Nicolas Maduro says he is lifting electricity rationing that began more than two months ago because a drought had caused low water levels at the hydroelectric dam that provides most of the country's power.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela Ending Power Rationing After 2 Months of Cuts",
+          "print_headline": "Venezuela Ending Power Rationing After 2 Months of Cuts"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:26:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777269f38f0d81f396c04e4",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/baseball/ap-bba-tigers-rays.html",
+        "snippet": "Michael Fulmer continued his historic rookie pitching run for the Detroit Tigers, and Victor Martinez contributed three-run home runs from both sides of the plate in a 10-2 romp over the Tampa Bay Rays on Friday night....",
+        "lead_paragraph": "Michael Fulmer continued his historic rookie pitching run for the Detroit Tigers, and Victor Martinez contributed three-run home runs from both sides of the plate in a 10-2 romp over the Tampa Bay Rays on Friday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Fulmer, Tigers Romp Over Rays 10-2",
+          "print_headline": "Fulmer, Tigers Romp Over Rays 10-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:22:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577725ed38f0d81f396c04e3",
+        "word_count": "643",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/sports/soccer/01reuters-soccer-euro-fra-isl.html",
+        "snippet": "France must take the game to Iceland right from the start of their European Championship quarter-final on Sunday or their dream of glory on home soil might end up buried in volcanic ash....",
+        "lead_paragraph": "France must take the game to Iceland right from the start of their European Championship quarter-final on Sunday or their dream of glory on home soil might end up buried in volcanic ash.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "France Need Swift Start to Escape Iceland Eruption",
+          "print_headline": "France Need Swift Start to Escape Iceland Eruption"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:22:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577725e338f0d81f396c04e2",
+        "word_count": "591",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/olympics/ap-oly-ath-jamaican-trials.html",
+        "snippet": "Usain Bolt's Olympic quest is in doubt, after the sprint superstar left his country's national championships with a hamstring injury shortly before he was going to run the 100-meter final....",
+        "lead_paragraph": "Usain Bolt's Olympic quest is in doubt, after the sprint superstar left his country's national championships with a hamstring injury shortly before he was going to run the 100-meter final.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bolt Has Injured Hamstring, Status for Rio Games in Doubt",
+          "print_headline": "Bolt Has Injured Hamstring, Status for Rio Games in Doubt"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:17:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777253438f0d81f396c04e1",
+        "word_count": "704",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/baseball/ap-bbo-royals-phillies.html",
+        "snippet": "Odubel Herrera put the finishing touches on his All-Star bid....",
+        "lead_paragraph": "Odubel Herrera put the finishing touches on his All-Star bid.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hellickson, Herrera Lead Phillies to 4-3 Win Over Royals",
+          "print_headline": "Hellickson, Herrera Lead Phillies to 4-3 Win Over Royals"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:18:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777253238f0d81f396c04e0",
+        "word_count": "545",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/sports/olympics/01reuters-athletics-olympics-jamaica.html",
+        "snippet": "World record holder Usain Bolt withdrew from Jamaica's Olympic trials only minutes before the men's 100 meters final on Friday....",
+        "lead_paragraph": "World record holder Usain Bolt withdrew from Jamaica's Olympic trials only minutes before the men's 100 meters final on Friday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bolt Misses 100 Meters Final at Jamaican Olympic Trials",
+          "print_headline": "Bolt Misses 100 Meters Final at Jamaican Olympic Trials"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:06:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5777225b38f0d81f396c04df",
+        "word_count": "134",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/golf/ap-glf-lpga-portland-classic.html",
+        "snippet": "Defending champion Brooke Henderson and Sweden's Suzann Pettersen shared the lead at 11-under 133 after Friday's second round of the LPGA Cambia Portland Classic....",
+        "lead_paragraph": "Defending champion Brooke Henderson and Sweden's Suzann Pettersen shared the lead at 11-under 133 after Friday's second round of the LPGA Cambia Portland Classic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Canada's Henderson and Sweden's Pettersen Share Lead",
+          "print_headline": "Canada's Henderson and Sweden's Pettersen Share Lead"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:03:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577721c038f0d81f396c04de",
+        "word_count": "753",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

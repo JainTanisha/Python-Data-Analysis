@@ -1,0 +1,505 @@
+{
+  "response": {
+    "meta": {
+      "hits": 767,
+      "time": 46,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/03/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:47:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2d30095d0e021d7989e04",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/03/us/politics/03reuters-usa-election-trump-veterans.html",
+        "snippet": "U.S. Republican presidential candidate Donald Trump's campaign defended comments he made on combat veterans and mental health on Monday, after some said his remarks implied service members diagnosed with post-traumatic stress disorder (PTSD) were ...",
+        "lead_paragraph": "U.S. Republican presidential candidate Donald Trump's campaign defended comments he made on combat veterans and mental health on Monday, after some said his remarks implied service members diagnosed with post-traumatic stress disorder (PTSD) were weak.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Defends Remarks on Veterans and Mental Health",
+          "print_headline": "Trump Defends Remarks on Veterans and Mental Health"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:44:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2d18195d0e021d7989e01",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/03/briefing/donald-trump-aleppo-farc.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/03/nytnow/03evening-monday-slide-A6UD/03evening-monday-slide-A6UD-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/03/nytnow/03evening-monday-slide-A6UD/03evening-monday-slide-A6UD-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/03/nytnow/03evening-monday-slide-A6UD/03evening-monday-slide-A6UD-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/03/nytnow/03evening-monday-slide-A6UD/03evening-monday-slide-A6UD-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/03/nytnow/03evening-monday-slide-A6UD/03evening-monday-slide-A6UD-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/03/nytnow/03evening-monday-slide-A6UD/03evening-monday-slide-A6UD-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Aleppo, FARC: Your Monday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57f2d0de95d0e021d7989e00",
+        "word_count": "957",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/04/books/review-rogue-heroes-ben-macintyre.html",
+        "snippet": "Ben Macintyre tells the story of mavericks who formed a commando unit that would become the model for special forces around the world....",
+        "lead_paragraph": "Ben Macintyre tells the story of mavericks who formed a commando unit that would become the model for special forces around the world.",
+        "abstract": "Michiko Kakutani reviews book Rogue Heroes: The History of the SAS, Britain's Secret Special Forces Unit That Sabotaged the Nazis and Changed the Nature of War by Ben Macintyre. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/04/arts/04BOOKMACINTYRE/04BOOKMACINTYRE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/04/arts/04BOOKMACINTYRE/04BOOKMACINTYRE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/04/arts/04BOOKMACINTYRE/04BOOKMACINTYRE-articleLarge.jpg",
+            "height": 872,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/04/arts/04BOOKMACINTYRE/04BOOKMACINTYRE-articleLarge.jpg",
+              "xlargeheight": "872"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/04/arts/04BOOKMACINTYRE/04BOOKMACINTYRE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/04/arts/04BOOKMACINTYRE/04BOOKMACINTYRE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Rogue Heroes,\u2019 the Birth of Britain\u2019s Elite Special Forces",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "  Commandos Who Waged Elite War  "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "World War II (1939-45)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Rogue Heroes: The History of the SAS, Britain's Secret Special Forces Unit That Sabotaged the Nazis and Changed the Nature of War (Book)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Macintyre, Ben"
+          }
+        ],
+        "pub_date": "2016-10-03T21:41:02+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michiko",
+              "rank": 1,
+              "lastname": "KAKUTANI"
+            }
+          ],
+          "original": "By MICHIKO KAKUTANI"
+        },
+        "type_of_material": "Review",
+        "_id": "57f2d07a95d0e021d7989dfe",
+        "word_count": "848",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/03/us/ap-us-mormon-church-leaked-videos.html",
+        "snippet": "In leaked videos, Mormon leaders discuss concerns about the growth of the gay rights movement and hear from a former U.S. senator and church member who tells them the Iraq war could open the door for new converts, according to footage that pulls b...",
+        "lead_paragraph": "In leaked videos, Mormon leaders discuss concerns about the growth of the gay rights movement and hear from a former U.S. senator and church member who tells them the Iraq war could open the door for new converts, according to footage that pulls back the curtain on a religion that is closely guarded about its inner workings.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Leaked Videos Partially Pull Back Curtain on Mormon Church",
+          "print_headline": "Leaked Videos Partially Pull Back Curtain on Mormon Church"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:38:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2d06495d0e021d7989dfd",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/03/business/03reuters-jpmorgan-bondindex.html",
+        "snippet": "JPMorgan Chase &amp; Co on Monday said it was launching a global government bond index that will offer fund managers higher potential yields by including a larger percentage of emerging market bonds than traditional global bond indexes....",
+        "lead_paragraph": "JPMorgan Chase &amp; Co on Monday said it was launching a global government bond index that will offer fund managers higher potential yields by including a larger percentage of emerging market bonds than traditional global bond indexes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "JPMorgan Aims Global Bond Index at Yield-Hungry Investors",
+          "print_headline": "JPMorgan Aims Global Bond Index at Yield-Hungry Investors"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:36:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2d01695d0e021d7989dfc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/03/us/ap-us-chicago-schools.html",
+        "snippet": "Chicago Public Schools has announced it will lay off about 250 teachers and staff members due to a steeper-than-expected decline in enrollment....",
+        "lead_paragraph": "Chicago Public Schools has announced it will lay off about 250 teachers and staff members due to a steeper-than-expected decline in enrollment.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Chicago Schools Cites Drop in Enrollment for New Layoffs",
+          "print_headline": "Chicago Schools Cites Drop in Enrollment for New Layoffs"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:33:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2cfa195d0e021d7989dfb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/03/us/ap-ga-hospital-fraud.html",
+        "snippet": "Texas-based Tenet Healthcare Corp. and two of its Atlanta subsidiaries have agreed to pay more than $513 million to resolve criminal and civil claims accusing the chain of paying kickbacks to steer pregnant Medicaid patients to their hospitals....",
+        "lead_paragraph": "Texas-based Tenet Healthcare Corp. and two of its Atlanta subsidiaries have agreed to pay more than $513 million to resolve criminal and civil claims accusing the chain of paying kickbacks to steer pregnant Medicaid patients to their hospitals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Hospital Chain to Pay $513 Million to Settle Kickback Claims",
+          "print_headline": "Hospital Chain to Pay $513 Million to Settle Kickback Claims"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:32:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2cf9e95d0e021d7989dfa",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/03/us/ap-us-zoo-tiger-attack.html",
+        "snippet": "A Florida zookeeper killed by a tiger violated safety rules by not ensuring the animal was locked up before entering its pen and by not carrying pepper spray, a state investigation concluded....",
+        "lead_paragraph": "A Florida zookeeper killed by a tiger violated safety rules by not ensuring the animal was locked up before entering its pen and by not carrying pepper spray, a state investigation concluded.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: Zookeeper Didn't Have Pepper Spray When Attacked",
+          "print_headline": "Report: Zookeeper Didn't Have Pepper Spray When Attacked"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-03T21:32:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f2cf9595d0e021d7989df9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/03/t-magazine/fashion/maria-grazia-chiuri-dior-women-history-paris-fashion-week.html",
+        "snippet": "With a long line of powerful women there, the heart of the French house, writes Alexander Fury, has always been female....",
+        "lead_paragraph": "With a long line of powerful women there, the heart of the French house, writes Alexander Fury, has always been female.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/t-magazine/fashion/women-dior-slide-EGZ1/women-dior-slide-EGZ1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/t-magazine/fashion/women-dior-slide-EGZ1/women-dior-slide-EGZ1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/t-magazine/fashion/women-dior-slide-EGZ1/women-dior-slide-EGZ1-articleLarge.jpg",
+            "height": 843,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/t-magazine/fashion/women-dior-slide-EGZ1/women-dior-slide-EGZ1-articleLarge.jpg",
+              "xlargeheight": "843"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/t-magazine/fashion/women-dior-slide-EGZ1/women-dior-slide-EGZ1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/t-magazine/fashion/women-dior-slide-EGZ1/women-dior-slide-EGZ1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Maria Grazia Chiuri and the History of Women at Dior"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Christian Dior SA"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Chiuri, Maria Grazia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dior, Christian"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Paris Fashion Week"
+          }
+        ],
+        "pub_date": "2016-10-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexander",
+              "rank": 1,
+              "lastname": "FURY"
+            }
+          ],
+          "original": "By ALEXANDER FURY"
+        },
+        "type_of_material": "News",
+        "_id": "57f2cec595d0e021d7989df8",
+        "word_count": "841",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

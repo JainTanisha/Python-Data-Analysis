@@ -1,0 +1,342 @@
+{
+  "response": {
+    "meta": {
+      "hits": 475,
+      "time": 49,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/us/politics/ap-us-campaign-2016-the-latest.html",
+        "snippet": "The Latest on campaign 2016 (all times Eastern):...",
+        "lead_paragraph": "The Latest on campaign 2016 (all times Eastern):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Pence Suggests He May Release Tax Forms",
+          "print_headline": "The Latest: Pence Suggests He May Release Tax Forms"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:18:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af8f6695d0e021d79808c9",
+        "word_count": "629",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-sho-mens-skeet.html",
+        "snippet": "Gabriele Rossetti made a golden addition to the family's medal collection....",
+        "lead_paragraph": "Gabriele Rossetti made a golden addition to the family's medal collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rossetti Gets Skeet Gold; Al-Rashidi Wins Bronze and Hearts",
+          "print_headline": "Rossetti Gets Skeet Gold; Al-Rashidi Wins Bronze and Hearts"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:08:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af8d6395d0e021d79808c8",
+        "word_count": "624",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/13/sports/olympics/running-rowing-and-riding.html",
+        "snippet": "Scenes from the Rio Games on Saturday....",
+        "lead_paragraph": "Scenes from the Rio Games on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/sports/olympics/20160813OLYPOD-slide-H5BR/20160813OLYPOD-slide-H5BR-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/sports/olympics/20160813OLYPOD-slide-H5BR/20160813OLYPOD-slide-H5BR-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/13/sports/olympics/20160813OLYPOD-slide-H5BR/20160813OLYPOD-slide-H5BR-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/13/sports/olympics/20160813OLYPOD-slide-H5BR/20160813OLYPOD-slide-H5BR-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/sports/olympics/20160813OLYPOD-slide-H5BR/20160813OLYPOD-slide-H5BR-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/sports/olympics/20160813OLYPOD-slide-H5BR/20160813OLYPOD-slide-H5BR-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Running, Rowing and Riding"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          }
+        ],
+        "pub_date": "2016-08-13T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57af8d5c95d0e021d79808c7",
+        "word_count": "7",
+        "slideshow_credits": "Doug Mills/The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-bvl-brazil-at-the-beach.html",
+        "snippet": "The fans chant their names, wave their flags and do a little samba in their seats whenever the Brazilians take the sand at the Copacabana Olympic beach volleyball venue....",
+        "lead_paragraph": "The fans chant their names, wave their flags and do a little samba in their seats whenever the Brazilians take the sand at the Copacabana Olympic beach volleyball venue.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "At the Copa: Brazil Is Making Itself at Home in Beach V'ball",
+          "print_headline": "At the Copa: Brazil Is Making Itself at Home in Beach V'ball"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:59:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af8b3795d0e021d79808c6",
+        "word_count": "802",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-soc-swedens-strategy.html",
+        "snippet": "Cowardly or not, Sweden's defensive strategy against the United States got the job done....",
+        "lead_paragraph": "Cowardly or not, Sweden's defensive strategy against the United States got the job done.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Say Want You Want About Sweden's Strategy: It Worked.",
+          "print_headline": "Say Want You Want About Sweden's Strategy: It Worked."
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:58:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af8a9595d0e021d79808c5",
+        "word_count": "596",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/sports/olympics/13reuters-olympics-rio-shooting-mustache.html",
+        "snippet": "From the beginning of the men's skeet semi-final on Saturday, there was something about Abdullah Al-Rashidi that grabbed the Brazilian fans....",
+        "lead_paragraph": "From the beginning of the men's skeet semi-final on Saturday, there was something about Abdullah Al-Rashidi that grabbed the Brazilian fans.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Shooting-Moustache! Brazilian Fans Adopt Man With No Country",
+          "print_headline": "Shooting-Moustache! Brazilian Fans Adopt Man With No Country"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:56:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af89c395d0e021d79808c3",
+        "word_count": "364",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/us/politics/13reuters-usa-election-clinton-taxes.html",
+        "snippet": "Hillary Clinton on Friday released her 2015 tax returns, which showed the Democratic presidential nominee and her husband had $10.75 million in income that year and paid an effective federal tax rate of 34.2 percent....",
+        "lead_paragraph": "Hillary Clinton on Friday released her 2015 tax returns, which showed the Democratic presidential nominee and her husband had $10.75 million in income that year and paid an effective federal tax rate of 34.2 percent.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Clintons Earned $10.75 Million in 2015, Paid 34.2 Percent Federal Tax Rate",
+          "print_headline": "Clintons Earned $10.75 Million in 2015, Paid 34.2 Percent Federal Tax Rate"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:50:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af886595d0e021d79808c2",
+        "word_count": "656",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/sports/cycling/13reuters-olympics-rio-cycling-track-f-keirin.html",
+        "snippet": "Dutch rider Elis Ligtlee won gold in the track cycling women's keirin on Saturday, edging out Britain's Rebecca James....",
+        "lead_paragraph": "Dutch rider Elis Ligtlee won gold in the track cycling women's keirin on Saturday, edging out Britain's Rebecca James.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cycling-Flying Dutchwoman Ligtlee Wins Keirin Gold",
+          "print_headline": "Cycling-Flying Dutchwoman Ligtlee Wins Keirin Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:49:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af885e95d0e021d79808c1",
+        "word_count": "331",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-glf-mens-golf.html",
+        "snippet": "Justin Rose and Henrik Stenson know what it's like to play next to each other on a big stage when it's all about flag and the gold prize....",
+        "lead_paragraph": "Justin Rose and Henrik Stenson know what it's like to play next to each other on a big stage when it's all about flag and the gold prize.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rose Positioned for Golf's 1st Olympic Gold Medal in Century",
+          "print_headline": "Rose Positioned for Golf's 1st Olympic Gold Medal in Century"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:45:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af87be95d0e021d79808c0",
+        "word_count": "891",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/us/ap-us-socal-heat.html",
+        "snippet": "Southern California's heading into a bout of hot weather, bringing fire danger and bad air....",
+        "lead_paragraph": "Southern California's heading into a bout of hot weather, bringing fire danger and bad air.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Southern California In for Another Heat Wave",
+          "print_headline": "Southern California In for Another Heat Wave"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T20:46:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af87bc95d0e021d79808bf",
+        "word_count": "129",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

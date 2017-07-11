@@ -1,0 +1,792 @@
+{
+  "response": {
+    "meta": {
+      "hits": 773,
+      "time": 57,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/books/review-absolutely-on-music-seiji-ozawa-haruki-murakami.html",
+        "snippet": "The conductor Seiji Ozawa and Haruki Murakami had conversations between November 2010 and July 2011, generally while listening to recordings....",
+        "lead_paragraph": "The conductor Seiji Ozawa and Haruki Murakami had conversations between November 2010 and July 2011, generally while listening to recordings.",
+        "abstract": "James R Oestreich reviews book Absolutely on Music: Conversations with Seiji Ozawa, which compiles novelist Haruki Murakami's interviews of composer Seiji Ozawa.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/arts/22BOOKMURAKAMIJP/22BOOKMURAKAMIJP-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/arts/22BOOKMURAKAMIJP/22BOOKMURAKAMIJP-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/arts/22BOOKMURAKAMIJP/22BOOKMURAKAMIJP-articleLarge.jpg",
+            "height": 1008,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/arts/22BOOKMURAKAMIJP/22BOOKMURAKAMIJP-articleLarge.jpg",
+              "xlargeheight": "1008"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/arts/22BOOKMURAKAMIJP/22BOOKMURAKAMIJP-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/arts/22BOOKMURAKAMIJP/22BOOKMURAKAMIJP-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Absolutely on Music\u2019 Gives a Maestro a Stage for Ideas",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "For the Record, a Conductor Talks With an Author"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Absolutely on Music (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ozawa, Seiji"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Murakami, Haruki"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-21T22:39:25+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "James",
+              "middlename": "R.",
+              "lastname": "OESTREICH",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JAMES R. OESTREICH"
+        },
+        "type_of_material": "Review",
+        "_id": "583377a395d0e03926071cd4",
+        "word_count": "999",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide.html",
+        "snippet": "Present ideas, from technology to home goods, to make shopping easy this season....",
+        "lead_paragraph": "Present ideas, from technology to home goods, to make shopping easy this season.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:36:47+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5833770395d0e03926071cd3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-credits.html",
+        "snippet": "Present ideas, from technology to home goods, to make shopping easy this season....",
+        "lead_paragraph": "Present ideas, from technology to home goods, to make shopping easy this season.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-credits-1479684834211/2016-holiday-gift-guide-credits-1479684834211-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Credits"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:36:01+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "583376d595d0e03926071cd2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/theater/furry-review.html",
+        "snippet": "In a new version of William Burke\u2019s play, at the Bushwick Starr in Brooklyn, Elmo hates the Naked Cowboy, and the Cookie Monster has a box cutter....",
+        "lead_paragraph": "In a new version of William Burke\u2019s play, at the Bushwick Starr in Brooklyn, Elmo hates the Naked Cowboy, and the Cookie Monster has a box cutter.",
+        "abstract": "Elisabeth Vincentelli reviews play Furry!/La Furia!, written and directed by William Burke, at Bushwick Starr; Modesto Jimenez stars. ",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/arts/22FURRY/22FURRY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/arts/22FURRY/22FURRY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/arts/22FURRY/22FURRY-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/arts/22FURRY/22FURRY-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/arts/22FURRY/22FURRY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/arts/22FURRY/22FURRY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Furry!/La Furia!\u2019 Goes Inside the Head of a Times Square Elmo",
+          "print_headline": "Inside the Head of a Times Square Elmo"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Furry!/La Furia! (Play)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Burke, William"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bushwick Starr"
+          }
+        ],
+        "pub_date": "2016-11-21T22:35:26+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elisabeth",
+              "rank": 1,
+              "lastname": "VINCENTELLI"
+            }
+          ],
+          "original": "By ELISABETH VINCENTELLI"
+        },
+        "type_of_material": "Review",
+        "_id": "583376b495d0e03926071cd1",
+        "word_count": "361",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004610393/love-and-friendship-trailer-1.html",
+        "snippet": "As scandalous rumors about her circulate high society, a widow takes refuge with her in-laws, where she plays matchmaker for her daughter and herself....",
+        "lead_paragraph": "As scandalous rumors about her circulate high society, a widow takes refuge with her in-laws, where she plays matchmaker for her daughter and herself.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/24/movies/video-love-and-friendship-trailer-1/video-love-and-friendship-trailer-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/24/movies/video-love-and-friendship-trailer-1/video-love-and-friendship-trailer-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/24/movies/video-love-and-friendship-trailer-1/video-love-and-friendship-trailer-1-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/24/movies/video-love-and-friendship-trailer-1/video-love-and-friendship-trailer-1-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/24/movies/video-love-and-friendship-trailer-1/video-love-and-friendship-trailer-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/24/movies/video-love-and-friendship-trailer-1/video-love-and-friendship-trailer-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Love And Friendship (Trailer 1)"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:35:15+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Roadside",
+              "rank": 1,
+              "lastname": "ATTRACTIONS"
+            }
+          ],
+          "original": "By ROADSIDE ATTRACTIONS"
+        },
+        "type_of_material": "Video",
+        "_id": "583376a995d0e03926071cd0",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/us/politics/ap-us-house-health-law-lawsuit.html",
+        "snippet": "The Republican-led House of Representatives is asking the federal appeals court in Washington to delay consideration of a case involving the Obama health care law because Donald Trump has pledged to repeal and replace it when he becomes president....",
+        "lead_paragraph": "The Republican-led House of Representatives is asking the federal appeals court in Washington to delay consideration of a case involving the Obama health care law because Donald Trump has pledged to repeal and replace it when he becomes president.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "House Seeks Delay in Health Law Appeal Pending New President",
+          "print_headline": "House Seeks Delay in Health Law Appeal Pending New President"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:34:36+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5833768795d0e03926071ccf",
+        "word_count": "124",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-experiences.html",
+        "snippet": "Experiences make unique gifts, especially for those who are not crazy about things. Here's a selection that ranges from cultural to culinary, from the East Coast to the West. Or consider giving a donation to a group whose work is meaningful to you...",
+        "lead_paragraph": "Experiences make unique gifts, especially for those who are not crazy about things. Here's a selection that ranges from cultural to culinary, from the East Coast to the West. Or consider giving a donation to a group whose work is meaningful to your recipient.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-experiences-1479684940471/2016-holiday-gift-guide-experiences-1479684940471-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-experiences-1479684940471/2016-holiday-gift-guide-experiences-1479684940471-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-experiences-1479684940471/2016-holiday-gift-guide-experiences-1479684940471-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-experiences-1479684940471/2016-holiday-gift-guide-experiences-1479684940471-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-experiences-1479684940471/2016-holiday-gift-guide-experiences-1479684940471-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-experiences-1479684940471/2016-holiday-gift-guide-experiences-1479684940471-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Experiences"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:34:21+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Heather",
+              "rank": 1,
+              "lastname": "PHILLIPS"
+            }
+          ],
+          "original": "By HEATHER PHILLIPS"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5833766c95d0e03926071ccd",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/world/americas/ap-lt-venezuela-bonds.html",
+        "snippet": "Venezuela's state oil company reportedly is delaying $404 million in bond payments in an apparent sign that the oil giant's financial woes are worsening amid the slump in petroleum prices....",
+        "lead_paragraph": "Venezuela's state oil company reportedly is delaying $404 million in bond payments in an apparent sign that the oil giant's financial woes are worsening amid the slump in petroleum prices.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela Oil Company PDVSA Delays Bond Payments",
+          "print_headline": "Venezuela Oil Company PDVSA Delays Bond Payments"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:34:19+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5833767495d0e03926071cce",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-books.html",
+        "snippet": "Books can transport us to exotic lands or ground us in sobering truths. Here, we have art catalogs, nonfiction books and novels, one of which might just be the right fit for someone on your list....",
+        "lead_paragraph": "Books can transport us to exotic lands or ground us in sobering truths. Here, we have art catalogs, nonfiction books and novels, one of which might just be the right fit for someone on your list.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-books-1479685038168/2016-holiday-gift-guide-books-1479685038168-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-books-1479685038168/2016-holiday-gift-guide-books-1479685038168-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-books-1479685038168/2016-holiday-gift-guide-books-1479685038168-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-books-1479685038168/2016-holiday-gift-guide-books-1479685038168-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-books-1479685038168/2016-holiday-gift-guide-books-1479685038168-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-books-1479685038168/2016-holiday-gift-guide-books-1479685038168-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Books"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:33:34+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Roberta",
+              "rank": 1,
+              "lastname": "SMITH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Randy",
+              "rank": 2,
+              "lastname": "KENNEDY"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dwight",
+              "rank": 3,
+              "lastname": "GARNER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 4,
+              "lastname": "SENIOR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dana",
+              "rank": 5,
+              "lastname": "JENNINGS"
+            },
+            {
+              "firstname": "George",
+              "middlename": "Gene",
+              "lastname": "GUSTINES",
+              "rank": 6,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ROBERTA SMITH, RANDY KENNEDY, DWIGHT GARNER, JENNIFER SENIOR, DANA JENNINGS and GEORGE GENE GUSTINES"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5833764195d0e03926071cc9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/science/exxon-mobil-rockefellers-climate-change.html",
+        "snippet": "The company, accused of scheming to deny the threat of climate change, has directed its fiercest return fire against the descendants of the company\u2019s founder....",
+        "lead_paragraph": "The company, accused of scheming to deny the threat of climate change, has directed its fiercest return fire against the descendants of the company\u2019s founder.",
+        "abstract": "Exxon Mobil, which has come under intense criticism for efforts to undercut climate change research, is blaming Rockefeller family for launching conspiracy against it; company says it has recognized global warming and need to fight it for over decade; ironically, Rockefeller family, which has bankrolled research against Exxon, also founded Exxon parent company Standard Oil.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/science/22ROCKEFELLERJP/22ROCKEFELLERJP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/science/22ROCKEFELLERJP/22ROCKEFELLERJP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/science/22ROCKEFELLERJP/22ROCKEFELLERJP-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/science/22ROCKEFELLERJP/22ROCKEFELLERJP-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/science/22ROCKEFELLERJP/22ROCKEFELLERJP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/science/22ROCKEFELLERJP/22ROCKEFELLERJP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Exxon Mobil Accuses the Rockefellers of a Climate Conspiracy",
+          "print_headline": "Exxon\u2019s Unlikely Enemy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Global Warming"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Exxon Mobil Corp"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Schneiderman, Eric T"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rockefeller Family"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Oil (Petroleum) and Gasoline"
+          }
+        ],
+        "pub_date": "2016-11-21T22:33:29+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "John",
+              "rank": 1,
+              "lastname": "SCHWARTZ"
+            }
+          ],
+          "original": "By JOHN SCHWARTZ"
+        },
+        "type_of_material": "News",
+        "_id": "5833764295d0e03926071cca",
+        "word_count": "1466",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

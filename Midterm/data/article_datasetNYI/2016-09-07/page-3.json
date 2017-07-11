@@ -1,0 +1,426 @@
+{
+  "response": {
+    "meta": {
+      "hits": 892,
+      "time": 52,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004632743/mexicos-finance-minister-resigns.html",
+        "snippet": "President Enrique Pe\u00f1a Nieto announced the resignation of Finance Minister Luis Videgaray, considered one of the engineers of Donald J. Trump\u2019s visit to Mexico....",
+        "lead_paragraph": "President Enrique Pe\u00f1a Nieto announced the resignation of Finance Minister Luis Videgaray, considered one of the engineers of Donald J. Trump\u2019s visit to Mexico.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/07/multimedia/08mexico/08mexico-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/07/multimedia/08mexico/08mexico-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/07/multimedia/08mexico/08mexico-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/07/multimedia/08mexico/08mexico-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/07/multimedia/08mexico/08mexico-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/07/multimedia/08mexico/08mexico-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mexico\u2019s Finance Minister Resigns"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pena Nieto, Enrique"
+          }
+        ],
+        "pub_date": "2016-09-07T22:32:52Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS and REUTERS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "57d095a895d0e021d7984ecb",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/07/world/americas/ap-cb-puerto-rico-corruption-trial.html",
+        "snippet": "A federal corruption trial in Puerto Rico has dealt another blow to the U.S. territory's ruling party....",
+        "lead_paragraph": "A federal corruption trial in Puerto Rico has dealt another blow to the U.S. territory's ruling party.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Puerto Rico Legislator Ends Re-election Bid Under Pressure",
+          "print_headline": "Puerto Rico Legislator Ends Re-election Bid Under Pressure"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:24:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d0949e95d0e021d7984eca",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/07/us/ap-us-canada-lynx.html",
+        "snippet": "The U.S. government was wrong to exclude large areas of the Rocky Mountains when it designated almost 40,000 square miles of habitat as critical to the survival of imperiled Canada lynx, a federal judge ruled Wednesday....",
+        "lead_paragraph": "The U.S. government was wrong to exclude large areas of the Rocky Mountains when it designated almost 40,000 square miles of habitat as critical to the survival of imperiled Canada lynx, a federal judge ruled Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Says US Should Reconsider Habitat for Canada Lynx",
+          "print_headline": "Judge Says US Should Reconsider Habitat for Canada Lynx"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:24:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d0948995d0e021d7984ec9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/07/us/ap-us-helicopter-crash.html",
+        "snippet": "An investigator with the National Transportation Safety Board says he has no early clues as to what caused a helicopter crash in Palm Bay that left three people dead....",
+        "lead_paragraph": "An investigator with the National Transportation Safety Board says he has no early clues as to what caused a helicopter crash in Palm Bay that left three people dead.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Investigator: No Immediate Clues in Florida Helicopter Crash",
+          "print_headline": "Investigator: No Immediate Clues in Florida Helicopter Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:07:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d0947e95d0e021d7984ec8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004632143/anatomy-of-a-scene-sully.html",
+        "snippet": "Clint Eastwood narrates a sequence from \u201cSully,\u201d featuring Tom Hanks and Aaron Eckhart....",
+        "lead_paragraph": "Clint Eastwood narrates a sequence from \u201cSully,\u201d featuring Tom Hanks and Aaron Eckhart.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/07/multimedia/sully-anatomy/sully-anatomy-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/07/multimedia/sully-anatomy/sully-anatomy-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/07/multimedia/sully-anatomy/sully-anatomy-articleLarge-v2.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/07/multimedia/sully-anatomy/sully-anatomy-articleLarge-v2.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/07/multimedia/sully-anatomy/sully-anatomy-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/07/multimedia/sully-anatomy/sully-anatomy-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Anatomy of a Scene | \u2018Sully\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Eastwood, Clint"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hanks, Tom"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Eckhart, Aaron"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Sully (Movie)"
+          }
+        ],
+        "pub_date": "2016-09-07T22:24:07+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mekado",
+              "rank": 1,
+              "lastname": "MURPHY"
+            }
+          ],
+          "original": "By MEKADO MURPHY"
+        },
+        "type_of_material": "Video",
+        "_id": "57d0941395d0e021d7984ec7",
+        "word_count": "13",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/07/world/americas/ap-cb-puerto-rico-police-corruption.html",
+        "snippet": "Four Puerto Rico police officers have been charged with civil rights violations and obstruction of justice in the latest hit against a department undergoing a federally mandated overhaul....",
+        "lead_paragraph": "Four Puerto Rico police officers have been charged with civil rights violations and obstruction of justice in the latest hit against a department undergoing a federally mandated overhaul.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "4 Puerto Rico Police Officers Face Civil Rights Charges",
+          "print_headline": "4 Puerto Rico Police Officers Face Civil Rights Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:20:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d093da95d0e021d7984ec6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/07/sports/football/ap-fbn-packers-lacy.html",
+        "snippet": "Eddie Lacy is rolling again....",
+        "lead_paragraph": "Eddie Lacy is rolling again.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Packers' Eddie Lacy Eager to Get Rolling Into Regular Season",
+          "print_headline": "Packers' Eddie Lacy Eager to Get Rolling Into Regular Season"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:22:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d093ce95d0e021d7984ec5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/07/business/07reuters-sec-wyly.html",
+        "snippet": "U.S. securities regulators said on Wednesday they want the executor of Charles Wyly's estate held in contempt for failing to pay the $101.2 million owed as a result of the late Texas businessman's fraud....",
+        "lead_paragraph": "U.S. securities regulators said on Wednesday they want the executor of Charles Wyly's estate held in contempt for failing to pay the $101.2 million owed as a result of the late Texas businessman's fraud.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "SEC Eyes Contempt for Wyly Estate's Failure to Pay $101 Million",
+          "print_headline": "SEC Eyes Contempt for Wyly Estate's Failure to Pay $101 Million"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:24:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d093b895d0e021d7984ec4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/07/world/middleeast/07reuters-usa-syria-refugees.html",
+        "snippet": "Some conservative U.S. Republican lawmakers want to tie President Barack Obama's Syrian refugee resettlement program to a spending bill that must pass in order to keep the federal government open after the fiscal year ends on Sept. 30....",
+        "lead_paragraph": "Some conservative U.S. Republican lawmakers want to tie President Barack Obama's Syrian refugee resettlement program to a spending bill that must pass in order to keep the federal government open after the fiscal year ends on Sept. 30.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Republicans Seek to Tie Syria Refugee Issue to Spending Bill",
+          "print_headline": "U.S. Republicans Seek to Tie Syria Refugee Issue to Spending Bill"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:21:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d093b295d0e021d7984ec2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/07/arts/07reuters-people-marilynmonroe.html",
+        "snippet": "The skin-tight dress Marilyn Monroe wore for her sultry rendition of \"Happy Birthday\" before then U.S. President John F. Kennedy at a 1962 gala will go on sale at an auction in November, the company behind the event said on Wednesday....",
+        "lead_paragraph": "The skin-tight dress Marilyn Monroe wore for her sultry rendition of \"Happy Birthday\" before then U.S. President John F. Kennedy at a 1962 gala will go on sale at an auction in November, the company behind the event said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Marilyn Monroe's Dress From JFK Birthday Performance Up for Auction",
+          "print_headline": "Marilyn Monroe's Dress From JFK Birthday Performance Up for Auction"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-07T22:21:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d093b295d0e021d7984ec3",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

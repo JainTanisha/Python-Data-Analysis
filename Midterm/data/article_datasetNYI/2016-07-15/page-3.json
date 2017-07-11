@@ -1,0 +1,422 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1011,
+      "time": 73,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/us/ap-us-accidental-shooting-death.html",
+        "snippet": "Police say that a 16-year-old girl accidentally shot and killed her boyfriend at his Houston home....",
+        "lead_paragraph": "Police say that a 16-year-old girl accidentally shot and killed her boyfriend at his Houston home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Houston Teen Accidentally Shot, Killed by Girlfriend",
+          "print_headline": "Police: Houston Teen Accidentally Shot, Killed by Girlfriend"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T22:03:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578996b838f0d829e63ddf2a",
+        "word_count": "91",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/sports/baseball/ap-bbn-pirates-nationals.html",
+        "snippet": "Stephen Strasburg so badly wanted to start the Washington Nationals' first game after the break that he gave up the chance to pitch in the All-Star Game in his hometown of San Diego....",
+        "lead_paragraph": "Stephen Strasburg so badly wanted to start the Washington Nationals' first game after the break that he gave up the chance to pitch in the All-Star Game in his hometown of San Diego.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Nationals' Strasburg Wins 16th Consecutive Decision",
+          "print_headline": "Nationals' Strasburg Wins 16th Consecutive Decision"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T22:00:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578995fb38f0d829e63ddf29",
+        "word_count": "682",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/15/balance-sheets/",
+        "snippet": "Do you have what it takes to crush this Saturday puzzle by Byron Walden?...",
+        "lead_paragraph": null,
+        "abstract": "Do you have what it takes to crush this Saturday puzzle by Byron Walden?",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/15/crosswords/16wordplayyoga/16wordplayyoga-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/15/crosswords/16wordplayyoga/16wordplayyoga-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/15/crosswords/16wordplayyoga/16wordplayyoga-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/15/crosswords/16wordplayyoga/16wordplayyoga-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/15/crosswords/16wordplayyoga/16wordplayyoga-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/15/crosswords/16wordplayyoga/16wordplayyoga-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Balance Sheets",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-15T22:00:42Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "578995bc38f0d829e63ddf28",
+        "word_count": "924",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/us/ap-ap-explains-turkey-muslim-cleric.html",
+        "snippet": "In a story July 15 about a Muslim cleric accused of being behind a coup attempt in Turkey, The Associated Press misspelled the Turkish president's first name. He is Recep Tayyip Erdogan, not Recip Tayyip Erdogan....",
+        "lead_paragraph": "In a story July 15 about a Muslim cleric accused of being behind a coup attempt in Turkey, The Associated Press misspelled the Turkish president's first name. He is Recep Tayyip Erdogan, not Recip Tayyip Erdogan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: AP Explains-Turkey-Muslim Cleric Story",
+          "print_headline": "Correction: AP Explains-Turkey-Muslim Cleric Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:50:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789954b38f0d829e63ddf27",
+        "word_count": "864",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-erdogan-support.html",
+        "snippet": "Turkish President Tayyip Erdogan on Saturday said he would stay with his \"people\" and not go anywhere, hours after a section of the military attempted to overthrow him....",
+        "lead_paragraph": "Turkish President Tayyip Erdogan on Saturday said he would stay with his \"people\" and not go anywhere, hours after a section of the military attempted to overthrow him.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey's Erdogan Says Has Support of Millions, Not Going Anywhere",
+          "print_headline": "Turkey's Erdogan Says Has Support of Millions, Not Going Anywhere"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:57:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789954738f0d829e63ddf26",
+        "word_count": "75",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-erdogan-treason.html",
+        "snippet": "The attempted coup by a section of Turkey's military was an act of treason and is a reason to \"clean up\" the armed forces, Turkish President Tayyip Erdogan said on early on Saturday, hours after the armed forces attempted to overthow him....",
+        "lead_paragraph": "The attempted coup by a section of Turkey's military was an act of treason and is a reason to \"clean up\" the armed forces, Turkish President Tayyip Erdogan said on early on Saturday, hours after the armed forces attempted to overthow him. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey's Erdogan Says Uprising Was Act of Treason",
+          "print_headline": "Turkey's Erdogan Says Uprising Was Act of Treason"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:41:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578991c038f0d829e63ddf24",
+        "word_count": "107",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/sports/baseball/ap-bba-astros-gurriel.html",
+        "snippet": "The Houston Astros have called a news conference for Saturday amid reports the club has sign Cuban free agent infielder Yulieski Gurriel....",
+        "lead_paragraph": "The Houston Astros have called a news conference for Saturday amid reports the club has sign Cuban free agent infielder Yulieski Gurriel.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Houston Calls News Conference Amid Reports of Gurriel Deal",
+          "print_headline": "Houston Calls News Conference Amid Reports of Gurriel Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:37:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789906238f0d829e63ddf20",
+        "word_count": "180",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/16/arts/music/stacy-sullivan-david-ackles-review.html",
+        "snippet": "Ms. Sullivan\u2019s thrilling show \u201cA Night at the Troubadour\u201d recalls the work of David Ackles, who performed with Elton John at Mr. John\u2019s American debut....",
+        "lead_paragraph": "Ms. Sullivan\u2019s thrilling show \u201cA Night at the Troubadour\u201d recalls the work of David Ackles, who performed with Elton John at Mr. John\u2019s American debut.",
+        "abstract": "Stephen Holden reviews performance by singer Stacy Sullivan at Metropolitan Room.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/16/arts/16SULLIVAN/16SULLIVAN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/16/arts/16SULLIVAN/16SULLIVAN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/16/arts/16SULLIVAN/16SULLIVAN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/16/arts/16SULLIVAN/16SULLIVAN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/16/arts/16SULLIVAN/16SULLIVAN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/16/arts/16SULLIVAN/16SULLIVAN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Stacy Sullivan Performs an Act of Remembrance",
+          "print_headline": "A Remembrance in Melodies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Metropolitan Room"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ackles, David (1937-99)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sullivan, Stacy"
+          }
+        ],
+        "pub_date": "2016-07-15T21:33:14+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 1,
+              "lastname": "HOLDEN"
+            }
+          ],
+          "original": "By STEPHEN HOLDEN"
+        },
+        "type_of_material": "Review",
+        "_id": "5789569d38f0d829e63dde89",
+        "word_count": "360",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-usa.html",
+        "snippet": "The attempted military coup in Turkey could hamper the United States in its war against Islamic State in Syria and undermine other U.S. goals in the Middle East by weakening democracy and sparking prolonged instability in the NATO pact&#8217;s onl...",
+        "lead_paragraph": "The attempted military coup in Turkey could hamper the United States in its war against Islamic State in Syria and undermine other U.S. goals in the Middle East by weakening democracy and sparking prolonged instability in the NATO pact&#8217;s only Muslim member.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Attempted Turkey Coup Threatens U.S. Fight Against Islamic State",
+          "print_headline": "Attempted Turkey Coup Threatens U.S. Fight Against Islamic State"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:25:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57898e3c38f0d829e63ddf1d",
+        "word_count": "629",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-usa-clinton.html",
+        "snippet": "U.S. Democratic presidential candidate Hillary Clinton said on Friday she supported Turkey's civilian government as it faced an attempted coup....",
+        "lead_paragraph": "U.S. Democratic presidential candidate Hillary Clinton said on Friday she supported Turkey's civilian government as it faced an attempted coup.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Calls for Support of Turkey's Elected Civilian Government",
+          "print_headline": "Clinton Calls for Support of Turkey's Elected Civilian Government"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:22:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57898cd738f0d829e63ddf1b",
+        "word_count": "72",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

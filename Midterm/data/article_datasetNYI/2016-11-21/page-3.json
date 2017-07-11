@@ -1,0 +1,617 @@
+{
+  "response": {
+    "meta": {
+      "hits": 773,
+      "time": 47,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/world/asia/21reuters-japan-tpp-abe.html",
+        "snippet": "The Trans-Pacific Partnership (TPP) would be meaningless without U.S. participation, Japan's Prime Minister Shinzo Abe said on Monday as U.S. President-elect Donald Trump said he would withdraw the United States from the pan-Pacific free trade dea...",
+        "lead_paragraph": "The Trans-Pacific Partnership (TPP) would be meaningless without U.S. participation, Japan's Prime Minister Shinzo Abe said on Monday as U.S. President-elect Donald Trump said he would withdraw the United States from the pan-Pacific free trade deal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan PM Says TPP Trade Pact Meaningless Without U.S.",
+          "print_headline": "Japan PM Says TPP Trade Pact Meaningless Without U.S."
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:00:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58337c9595d0e03926071cde",
+        "word_count": "261",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/business/dealbook/trump-foundation-wont-pay-any-of-25-million-university-settlement.html",
+        "snippet": "Donald Trump\u2019s representatives told New York\u2019s attorney general that no money would come from \u201cany charitable foundation or other charitable entity.\u201d...",
+        "lead_paragraph": "Donald Trump\u2019s representatives told New York\u2019s attorney general that no money would come from \u201cany charitable foundation or other charitable entity.\u201d",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/business/22TRUMPUNIVERSITY/22TRUMPUNIVERSITY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/business/22TRUMPUNIVERSITY/22TRUMPUNIVERSITY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/business/22TRUMPUNIVERSITY/22TRUMPUNIVERSITY-articleLarge.jpg",
+            "height": 423,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/business/22TRUMPUNIVERSITY/22TRUMPUNIVERSITY-articleLarge.jpg",
+              "xlargeheight": "423"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/business/22TRUMPUNIVERSITY/22TRUMPUNIVERSITY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/business/22TRUMPUNIVERSITY/22TRUMPUNIVERSITY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Foundation Won\u2019t Pay Any of $25 Million University Settlement",
+          "print_headline": "Foundation Won\u2019t Help to Pay Off Trump Suits"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump University"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Schneiderman, Eric T"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump, Donald J, Foundation"
+          }
+        ],
+        "pub_date": "2016-11-21T23:00:19+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 1,
+              "lastname": "GOLDSTEIN"
+            }
+          ],
+          "original": "By MATTHEW GOLDSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "58337c8b95d0e03926071cdd",
+        "word_count": "511",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/business/dealbook/document-Letter-from-Alan-Garten.html",
+        "snippet": "A letter from Alan Garten, executive vice president and general counsel for the Trump Organization, stating that no funding for the Trump University settlement would come from Donald J. Trump's charitable foundation....",
+        "lead_paragraph": "A letter from Alan Garten, executive vice president and general counsel for the Trump Organization, stating that no funding for the Trump University settlement would come from Donald J. Trump's charitable foundation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/business/dealbook/image-Letter-from-Alan-Garten/image-Letter-from-Alan-Garten-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/business/dealbook/image-Letter-from-Alan-Garten/image-Letter-from-Alan-Garten-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/business/dealbook/image-Letter-from-Alan-Garten/image-Letter-from-Alan-Garten-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/business/dealbook/image-Letter-from-Alan-Garten/image-Letter-from-Alan-Garten-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/business/dealbook/image-Letter-from-Alan-Garten/image-Letter-from-Alan-Garten-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/business/dealbook/image-Letter-from-Alan-Garten/image-Letter-from-Alan-Garten-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Letter from Alan Garten"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:00:11+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "58337c8395d0e03926071cdc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/business/21reuters-bankofamerica-tutorperini.html",
+        "snippet": "A U.S. appeals court on Monday revived a lawsuit accusing Bank of America Corp of defrauding Tutor Perini Corp by selling the construction company millions of dollars of auction-rate securities it knew were on the brink of collapse....",
+        "lead_paragraph": "A U.S. appeals court on Monday revived a lawsuit accusing Bank of America Corp of defrauding Tutor Perini Corp by selling the construction company millions of dollars of auction-rate securities it knew were on the brink of collapse.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "BofA Must Face Fraud Lawsuit by Tutor Perini Over Debt Sales",
+          "print_headline": "BofA Must Face Fraud Lawsuit by Tutor Perini Over Debt Sales"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:57:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58337bdf95d0e03926071cdb",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/business/21reuters-hanjin-shipping-debt.html",
+        "snippet": "South Korea's Hanjin Shipping Co Ltd said on Tuesday it decided to sell part of its container ship business to Korea Line Corp for 37 billion Korean won (25.11 million pounds)....",
+        "lead_paragraph": "South Korea's Hanjin Shipping Co Ltd said on Tuesday it decided to sell part of its container ship business to Korea Line Corp for 37 billion Korean won (25.11 million pounds).",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Hanjin Shipping Sells Part of Container Ship Business for $31 Million",
+          "print_headline": "Hanjin Shipping Sells Part of Container Ship Business for $31 Million"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:48:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583379c295d0e03926071cda",
+        "word_count": "123",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/briefing/donald-trump-pope-francis.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/briefing/21eveningss-slide-BKIQ/21eveningss-slide-BKIQ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/briefing/21eveningss-slide-BKIQ/21eveningss-slide-BKIQ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/briefing/21eveningss-slide-BKIQ/21eveningss-slide-BKIQ-articleLarge.jpg",
+            "height": 432,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/briefing/21eveningss-slide-BKIQ/21eveningss-slide-BKIQ-articleLarge.jpg",
+              "xlargeheight": "432"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/briefing/21eveningss-slide-BKIQ/21eveningss-slide-BKIQ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/briefing/21eveningss-slide-BKIQ/21eveningss-slide-BKIQ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Pope Francis: Your Monday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:43:32+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "5833789e95d0e03926071cd9",
+        "word_count": "787",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/sports/ncaafootball/ap-fbc-t25-the-game-michigan.html",
+        "snippet": "The Game has lost its luster in recent years....",
+        "lead_paragraph": "The Game has lost its luster in recent years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 3 Michigan Must Win The Game to Make It Relevant Again",
+          "print_headline": "No. 3 Michigan Must Win The Game to Make It Relevant Again"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:43:19+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5833788e95d0e03926071cd8",
+        "word_count": "575",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/nyregion/new-york-kindergartners-college-savings.html",
+        "snippet": "A pilot program focused on low-income families will give 3,500 children a year an initial $100 to be deposited into a college savings account....",
+        "lead_paragraph": "A pilot program focused on low-income families will give 3,500 children a year an initial $100 to be deposited into a college savings account.",
+        "abstract": "Mayor Bill de Blasio administration plans to launch three-year pilot program in 2017 to create college savings accounts for thousands of New York City kindergartners; program is aimed at increasing number of low-income children who go on to attend college.",
+        "print_page": "27",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/nyregion/22ACCOUNTS2/22ACCOUNTS2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/nyregion/22ACCOUNTS2/22ACCOUNTS2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/nyregion/22ACCOUNTS2/22ACCOUNTS2-articleLarge.jpg",
+            "height": 899,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/nyregion/22ACCOUNTS2/22ACCOUNTS2-articleLarge.jpg",
+              "xlargeheight": "899"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/nyregion/22ACCOUNTS2/22ACCOUNTS2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/nyregion/22ACCOUNTS2/22ACCOUNTS2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "New York Seeks to Jump-Start College Savings by Giving Cash to Kindergartners\u2019 Parents",
+          "print_headline": "City to Jump-Start College Savings by Giving Cash to Kindergartners\u2019 Parents"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Savings"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Philanthropy"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Consumer Affairs Department (NYC)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          }
+        ],
+        "pub_date": "2016-11-21T22:42:59+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kate",
+              "rank": 1,
+              "lastname": "TAYLOR"
+            }
+          ],
+          "original": "By KATE TAYLOR"
+        },
+        "type_of_material": "News",
+        "_id": "5833787895d0e03926071cd7",
+        "word_count": "929",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/us/san-antonio-police-officer-shot.html",
+        "snippet": "Benjamin Marconi was apparently killed just for being on the force, the chief said. He was one of four officers shot nationwide over the weekend....",
+        "lead_paragraph": "Benjamin Marconi was apparently killed just for being on the force, the chief said. He was one of four officers shot nationwide over the weekend.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/us/22shooting2/22shooting2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/us/22shooting2/22shooting2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/us/22shooting2/22shooting2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/us/22shooting2/22shooting2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/us/22shooting2/22shooting2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/us/22shooting2/22shooting2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Slain San Antonio Detective Was Targeted, Police Chief Says",
+          "print_headline": "Slain Detective in San Antonio Was Targeted, Chief Says"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Marconi, Benjamin (1966-2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "San Antonio (Tex)"
+          }
+        ],
+        "pub_date": "2016-11-21T22:41:43+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Richard",
+              "rank": 1,
+              "lastname": "P\u00c9REZ-PE\u00d1A"
+            }
+          ],
+          "original": "By RICHARD P\u00c9REZ-PE\u00d1A"
+        },
+        "type_of_material": "News",
+        "_id": "5833782e95d0e03926071cd6",
+        "word_count": "887",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/business/21reuters-wells-fargo-accounts-payouts.html",
+        "snippet": "The U.S. government should go after payouts to former Wells Fargo &amp; Co executives involved in a scandal over unauthorized accounts now that a federal regulator has said it has the power to do so, lawmakers said on Monday....",
+        "lead_paragraph": "The U.S. government should go after payouts to former Wells Fargo &amp; Co executives involved in a scandal over unauthorized accounts now that a federal regulator has said it has the power to do so, lawmakers said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Wells Fargo Payouts Should Be Halted in Wake of Ruling: U.S. Lawmakers",
+          "print_headline": "Wells Fargo Payouts Should Be Halted in Wake of Ruling: U.S. Lawmakers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:39:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583377ad95d0e03926071cd5",
+        "word_count": "569",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

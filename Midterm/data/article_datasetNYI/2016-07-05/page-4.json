@@ -1,0 +1,623 @@
+{
+  "response": {
+    "meta": {
+      "hits": 897,
+      "time": 79,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/05/us/ap-us-google-attacks.html",
+        "snippet": "A Northern California man who said Google was \"watching him\" faces federal charges in three late-night attacks on the company's Silicon Valley headquarters, including accusations of tossing Molotov cocktails and opening fire on a building, authori...",
+        "lead_paragraph": "A Northern California man who said Google was \"watching him\" faces federal charges in three late-night attacks on the company's Silicon Valley headquarters, including accusations of tossing Molotov cocktails and opening fire on a building, authorities say.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "California Man Faces Charge in Arson at Google Headquarters",
+          "print_headline": "California Man Faces Charge in Arson at Google Headquarters"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T21:22:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577c5dde38f0d849682ddbed",
+        "word_count": "492",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/05/us/ap-10-things-to-know-wednesday.html",
+        "snippet": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Wednesday:...",
+        "lead_paragraph": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Wednesday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "10 Things to Know for Wednesday",
+          "print_headline": "10 Things to Know for Wednesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T21:18:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577c5d2d38f0d849682ddbeb",
+        "word_count": "339",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/sports/baseball/05reuters-baseball-allstars.html",
+        "snippet": "For the first time in 53 years and only the second time ever, four players from one team will comprise the starting infield for a Major League Baseball All-Star Game....",
+        "lead_paragraph": "For the first time in 53 years and only the second time ever, four players from one team will comprise the starting infield for a Major League Baseball All-Star Game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cubs Monopoly in NL All-Star Infield",
+          "print_headline": "Cubs Monopoly in NL All-Star Infield"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T21:02:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c58e938f0d849682ddbe5",
+        "word_count": "328",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/06/dining/refugees-chefs-paris.html",
+        "snippet": "Two French entrepreneurs are using food to try to change perceptions of immigrants....",
+        "lead_paragraph": "Two French entrepreneurs are using food to try to change perceptions of immigrants.",
+        "abstract": "Louis Jacquot and Sebastien Prunier mastermind Les Cuistots Migrateurs or The Migratory Cooks, ambitious, Paris-based catering venture that aims to present positive side of immigration; enterprise has held 20 different catering events since February, in quest to change French attitudes through food.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/06/dining/06REFUGEEJP1/06REFUGEEJP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/06/dining/06REFUGEEJP1/06REFUGEEJP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/06/dining/06REFUGEEJP1/06REFUGEEJP1-articleLarge.jpg",
+            "height": 522,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/06/dining/06REFUGEEJP1/06REFUGEEJP1-articleLarge.jpg",
+              "xlargeheight": "522"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/06/dining/06REFUGEEJP1/06REFUGEEJP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/06/dining/06REFUGEEJP1/06REFUGEEJP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "From Refugee Chefs, a Taste of Home",
+          "print_headline": "Refugee Chefs, Tastes of Home"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Restaurants"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Paris (France)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Chefs"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Les Cuistots Migrateurs"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Jacquot, Louis"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Prunier, Sebastien"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          }
+        ],
+        "pub_date": "2016-07-05T21:01:47+0000",
+        "document_type": "article",
+        "news_desk": "Dining",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Lilia Blaise contributed to this report.",
+          "person": [
+            {
+              "firstname": "Alissa",
+              "middlename": "J.",
+              "lastname": "RUBIN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ALISSA J. RUBIN"
+        },
+        "type_of_material": "News",
+        "_id": "577c203e38f0d849682ddb6d",
+        "word_count": "1244",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004507968/refugee-chefs-paris-cuistots-migrateurs.html",
+        "snippet": "French chefs and refugees team up for an unusual food festival in Paris....",
+        "lead_paragraph": "French chefs and refugees team up for an unusual food festival in Paris.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/multimedia/refugee-chefs/refugee-chefs-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/multimedia/refugee-chefs/refugee-chefs-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/multimedia/refugee-chefs/refugee-chefs-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/multimedia/refugee-chefs/refugee-chefs-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/multimedia/refugee-chefs/refugee-chefs-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/multimedia/refugee-chefs/refugee-chefs-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "From Refugee Chefs, a Taste of Home"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Chefs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Paris (France)"
+          }
+        ],
+        "pub_date": "2016-07-05T21:01:43+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Lilia",
+              "rank": 1,
+              "lastname": "BLAISE"
+            }
+          ],
+          "original": "By LILIA BLAISE"
+        },
+        "type_of_material": "Video",
+        "_id": "577c203838f0d849682ddb6c",
+        "word_count": "13",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/05/sports/rugby/05reuters-rugby-union-super-reds-douglas.html",
+        "snippet": "Australia lock Kane Douglas will make his first start since last year's World Cup final after being named to the Queensland Reds side for their Super Rugby match against the Waikato Chiefs on Friday....",
+        "lead_paragraph": "Australia lock Kane Douglas will make his first start since last year's World Cup final after being named to the Queensland Reds side for their Super Rugby match against the Waikato Chiefs on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Reds' Douglas to Make First Start Since World Cup Final",
+          "print_headline": "Reds' Douglas to Make First Start Since World Cup Final"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T20:57:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577c583138f0d849682ddbe3",
+        "word_count": "296",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/06/us/abner-mikva-lawmaker-judge-and-mentor-to-obama-dies-at-90.html",
+        "snippet": "Mr. Mikva was one of the nation\u2019s leading liberal politicians for decades, having served in Congress, as a federal judge and as counsel in the Clinton White House....",
+        "lead_paragraph": "Mr. Mikva was one of the nation\u2019s leading liberal politicians for decades, having served in Congress, as a federal judge and as counsel in the Clinton White House.",
+        "abstract": "Abner J Mikva, whose long career included such influential roles as Democratic Congressman representing Chicago, chief judge of United States Court of Appeals and mentor to both Pres Barack Obama and Supreme Court Justice Elena Kagan, dies at age 90.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/06/us/06mikva-obit-1/06mikva-obit-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/06/us/06mikva-obit-1/06mikva-obit-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/06/us/06mikva-obit-1/06mikva-obit-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/06/us/06mikva-obit-1/06mikva-obit-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/06/us/06mikva-obit-1/06mikva-obit-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/06/us/06mikva-obit-1/06mikva-obit-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Abner Mikva, Lawmaker, Judge and Mentor to Obama, Dies at 90",
+          "print_headline": "Abner Mikva, Lawmaker, Judge and Mentor to Obama, Is Dead at 90"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Mikva, Abner J"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Courts and the Judiciary"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Bill"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Chicago (Ill)"
+          }
+        ],
+        "pub_date": "2016-07-05T20:40:09+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Neil",
+              "middlename": "A.",
+              "lastname": "LEWIS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By NEIL A. LEWIS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "577c1b2c38f0d849682ddb5a",
+        "word_count": "1322",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/05/us/politics/ap-us-veterans-health-care.html",
+        "snippet": "Two years after a scandal over long wait times for veterans seeking health care, the Department of Veterans Affairs still has \"profound deficiencies\" in delivering health care to millions of veterans, a congressional commission says in a new repor...",
+        "lead_paragraph": "Two years after a scandal over long wait times for veterans seeking health care, the Department of Veterans Affairs still has \"profound deficiencies\" in delivering health care to millions of veterans, a congressional commission says in a new report.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: VA Health Care Still Has 'Profound Deficiencies'",
+          "print_headline": "Report: VA Health Care Still Has 'Profound Deficiencies'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T20:35:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577c52a438f0d849682ddbdb",
+        "word_count": "513",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/05/us/ap-us-hot-car-death-mississippi.html",
+        "snippet": "A Mississippi man has been indicted for manslaughter several weeks after his 8-month-old daughter died in his hot car while he worked....",
+        "lead_paragraph": "A Mississippi man has been indicted for manslaughter several weeks after his 8-month-old daughter died in his hot car while he worked.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Father Indicted in Hot Car Death of Daughter in Mississippi",
+          "print_headline": "Father Indicted in Hot Car Death of Daughter in Mississippi"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-05T20:35:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577c52a138f0d849682ddbda",
+        "word_count": "631",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/06/sports/tennis/elena-vesnina-gets-a-surprise-wimbledons-semifinals.html",
+        "snippet": "Vesnina rolled past 19th-seeded Dominika Cibulkova, 6-2, 6-2, to reach her first Grand Slam semifinal. She will next face Serena Williams, on Thursday....",
+        "lead_paragraph": "Vesnina rolled past 19th-seeded Dominika Cibulkova, 6-2, 6-2, to reach her first Grand Slam semifinal. She will next face Serena Williams, on Thursday.",
+        "abstract": "Elena Vesnina beats Dominika Cibulkova at Wimbledon Tennis Tournament to advance to her first Grand Slam semifinal, where she will face off against Serena Williams.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/06/sports/06VESNINA/06VESNINA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/06/sports/06VESNINA/06VESNINA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/06/sports/06VESNINA/06VESNINA-articleLarge.jpg",
+            "height": 395,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/06/sports/06VESNINA/06VESNINA-articleLarge.jpg",
+              "xlargeheight": "395"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/06/sports/06VESNINA/06VESNINA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/06/sports/06VESNINA/06VESNINA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Elena Vesnina Gets a Surprise: Wimbledon\u2019s Semifinals",
+          "print_headline": "Semifinal\u2019s a Surprise After Plunge From No. 21 in Global Rankings"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Tennis"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Wimbledon Tennis Tournament"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Vesnina, Elena"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cibulkova, Dominika"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Williams, Serena"
+          }
+        ],
+        "pub_date": "2016-07-05T20:33:31+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "ROTHENBERG"
+            }
+          ],
+          "original": "By BEN ROTHENBERG"
+        },
+        "type_of_material": "News",
+        "_id": "577c199f38f0d849682ddb55",
+        "word_count": "768",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

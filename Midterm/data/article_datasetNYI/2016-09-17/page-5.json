@@ -1,0 +1,420 @@
+{
+  "response": {
+    "meta": {
+      "hits": 446,
+      "time": 115,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/us/ap-us-zuckerberg-home-privacy.html",
+        "snippet": "An advisory board recommended a California city refuse Facebook CEO Mark Zuckerberg's plans to demolish and rebuild four homes around his property because of privacy concerns, saying it won't support the building of a \"compound.\"...",
+        "lead_paragraph": "An advisory board recommended a California city refuse Facebook CEO Mark Zuckerberg's plans to demolish and rebuild four homes around his property because of privacy concerns, saying it won't support the building of a \"compound.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Zuckerberg's 'Compound' Raises Red Flags for Housing Board",
+          "print_headline": "Zuckerberg's 'Compound' Raises Red Flags for Housing Board"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:46:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddac4295d0e021d7986d9e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/us/ap-us-killing-by-police-tulsa-the-latest.html",
+        "snippet": "In a story Sept. 17 about a fatal police shooting in Tulsa, The Associated Press, relying on information provided by Tulsa police, misspelled the slain man's first name. His name is spelled Terence Crutcher, not Terrence Crutcher....",
+        "lead_paragraph": "In a story Sept. 17 about a fatal police shooting in Tulsa, The Associated Press, relying on information provided by Tulsa police, misspelled the slain man's first name. His name is spelled Terence Crutcher, not Terrence Crutcher.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Killing By Police-Tulsa-The Latest Story",
+          "print_headline": "Correction: Killing By Police-Tulsa-The Latest Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:46:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddac3895d0e021d7986d9d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/18/sports/baseball/ny-mets-jacob-degrom-elbow-injury.html",
+        "snippet": "Before a 3-2 win over the Twins in 12 innings, the Mets revealed that deGrom had pain in his right elbow and needed surgery to remove built-up scar tissue....",
+        "lead_paragraph": "Before a 3-2 win over the Twins in 12 innings, the Mets revealed that deGrom had pain in his right elbow and needed surgery to remove built-up scar tissue.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/18/sports/baseball/18metsweb1/18metsweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/18/sports/baseball/18metsweb1/18metsweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/18/sports/baseball/18metsweb1/18metsweb1-articleLarge.jpg",
+            "height": 428,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/18/sports/baseball/18metsweb1/18metsweb1-articleLarge.jpg",
+              "xlargeheight": "428"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/18/sports/baseball/18metsweb1/18metsweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/18/sports/baseball/18metsweb1/18metsweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mets\u2019 Win Offsets Bad News on Jacob deGrom, Expected to Miss Rest of Season",
+          "content_kicker": "Mets 3, Twins 2",
+          "kicker": "Mets 3, Twins 2",
+          "print_headline": "Mets\u2019 Win Offsets Bad News on deGrom"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Mets"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "deGrom, Jacob"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sports Injuries"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Minnesota Twins"
+          }
+        ],
+        "pub_date": "2016-09-17T20:48:46+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Seth",
+              "rank": 1,
+              "lastname": "BERKMAN"
+            }
+          ],
+          "original": "By SETH BERKMAN"
+        },
+        "type_of_material": "News",
+        "_id": "57ddac3695d0e021d7986d9c",
+        "word_count": "941",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/sports/baseball/ap-bbn-mets-degrom.html",
+        "snippet": "Thousands of fans donned Mets caps with brunette locks flowing out the back at Citi Field on Saturday night &#8212; a promotional giveaway by the defending NL champs to honor follicly gifted right-hander Jacob deGrom....",
+        "lead_paragraph": "Thousands of fans donned Mets caps with brunette locks flowing out the back at Citi Field on Saturday night &#8212; a promotional giveaway by the defending NL champs to honor follicly gifted right-hander Jacob deGrom.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mets Star deGrom Likely Done for Season With Elbow Injury",
+          "print_headline": "Mets Star deGrom Likely Done for Season With Elbow Injury"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:41:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ddaac995d0e021d7986d9b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/17/fashion/runway-womens/gareth-pugh-spring-2017.html",
+        "snippet": "The designer, known for his provocative looks, shows his latest collection....",
+        "lead_paragraph": "The designer, known for his provocative looks, shows his latest collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/17/fashion/runway-womens/g-pugh-spring-2017-rtw-slide-YC58/g-pugh-spring-2017-rtw-slide-YC58-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/17/fashion/runway-womens/g-pugh-spring-2017-rtw-slide-YC58/g-pugh-spring-2017-rtw-slide-YC58-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/17/fashion/runway-womens/g-pugh-spring-2017-rtw-slide-YC58/g-pugh-spring-2017-rtw-slide-YC58-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/17/fashion/runway-womens/g-pugh-spring-2017-rtw-slide-YC58/g-pugh-spring-2017-rtw-slide-YC58-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/17/fashion/runway-womens/g-pugh-spring-2017-rtw-slide-YC58/g-pugh-spring-2017-rtw-slide-YC58-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/17/fashion/runway-womens/g-pugh-spring-2017-rtw-slide-YC58/g-pugh-spring-2017-rtw-slide-YC58-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gareth Pugh: Spring 2017",
+          "kicker": "Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pugh, Gareth"
+          }
+        ],
+        "pub_date": "2016-09-17T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Women's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Women's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57dda9bb95d0e021d7986d99",
+        "word_count": "11",
+        "slideshow_credits": "Gio Staiano/Nowfashion"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/17/world/middleeast/17reuters-mideast-crisis-syria-russia-warning.html",
+        "snippet": "The Russian Defence Ministry said on Saturday it had told the United States to rein in the Syrian opposition and make sure it did not launch a new offensive which Moscow warned would be met with full force by the Syrian army....",
+        "lead_paragraph": "The Russian Defence Ministry said on Saturday it had told the United States to rein in the Syrian opposition and make sure it did not launch a new offensive which Moscow warned would be met with full force by the Syrian army.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Russia Tells U.S. to Make Sure Syrian Opposition Does Not Launch New Offensive",
+          "print_headline": "Russia Tells U.S. to Make Sure Syrian Opposition Does Not Launch New Offensive"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:33:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dda95a95d0e021d7986d98",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/sports/olympics/ap-oly-paralympics-cyclist.html",
+        "snippet": "An Iranian cyclist died after crashing in a road race at the Rio de Janeiro Paralympics on Saturday....",
+        "lead_paragraph": "An Iranian cyclist died after crashing in a road race at the Rio de Janeiro Paralympics on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Iranian Cyclist Dies After Crash in Paralympics Road Race",
+          "print_headline": "Iranian Cyclist Dies After Crash in Paralympics Road Race"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:28:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dda80895d0e021d7986d97",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/17/sports/soccer/17reuters-soccer-england-eve-mid-koeman.html",
+        "snippet": "Everton manager Ronald Koeman is not one to get carried away so it was unsurprising that he reacted to their best ever start to a Premier League season by focussing on where they needed to improve....",
+        "lead_paragraph": "Everton manager Ronald Koeman is not one to get carried away so it was unsurprising that he reacted to their best ever start to a Premier League season by focussing on where they needed to improve. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Koeman Demands More From Unbeaten Everton",
+          "print_headline": "Koeman Demands More From Unbeaten Everton"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:26:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dda74895d0e021d7986d96",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/sports/ncaafootball/ap-fbc-t25-florida-st-louisville.html",
+        "snippet": "Louisville quarterback Lamar Jackson shrugged off chants of \"Heisman! Heisman!\" from Cardinals' fans and seemed satisfied knowing he had played a role in one of the program's biggest wins....",
+        "lead_paragraph": "Louisville quarterback Lamar Jackson shrugged off chants of \"Heisman! Heisman!\" from Cardinals' fans and seemed satisfied knowing he had played a role in one of the program's biggest wins.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jackson, No. 10 Louisville Run Over No. 2 Florida St 63-20",
+          "print_headline": "Jackson, No. 10 Louisville Run Over No. 2 Florida St 63-20"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:07:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dda32795d0e021d7986d95",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/17/world/europe/ap-eu-russia-election.html",
+        "snippet": "Russia's governing party and its three largely cooperative opponents are expected to retain their positions in the national parliament, but new procedures for choosing the seats could affect their proportions....",
+        "lead_paragraph": "Russia's governing party and its three largely cooperative opponents are expected to retain their positions in the national parliament, but new procedures for choosing the seats could affect their proportions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Russia Begins National Parliament Election",
+          "print_headline": "Russia Begins National Parliament Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-17T20:08:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dda31b95d0e021d7986d94",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

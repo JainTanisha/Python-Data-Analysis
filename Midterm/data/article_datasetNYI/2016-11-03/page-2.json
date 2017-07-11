@@ -1,0 +1,562 @@
+{
+  "response": {
+    "meta": {
+      "hits": 967,
+      "time": 69,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-amber-alert-indiana-deaths.html",
+        "snippet": "Attorneys for an Indiana woman accused of abducting her two young children and smothering them are seeking a defense of mental disease or defect for her....",
+        "lead_paragraph": "Attorneys for an Indiana woman accused of abducting her two young children and smothering them are seeking a defense of mental disease or defect for her.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mental Defect Defense Sought for Woman in Amber Alert Deaths",
+          "print_headline": "Mental Defect Defense Sought for Woman in Amber Alert Deaths"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:30:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc8ac95d0e01ffc1e15d3",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/opinion/parliaments-power-over-brexit.html",
+        "snippet": "A court decision leads to uncertainty about Britain\u2019s departure from the European Union, but it does add legal clarity to the nonbinding vote....",
+        "lead_paragraph": "A court decision leads to uncertainty about Britain\u2019s departure from the European Union, but it does add legal clarity to the nonbinding vote.",
+        "abstract": "Editorial argues High Court's ruling that British Parliament must approve Great Britain's withdrawal from European Union, despite June vote by citizens, is healthy for democracy in long-term even if it complicates country's immediate future.",
+        "print_page": "28",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/opinion/04fri3web/04fri3web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/opinion/04fri3web/04fri3web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/opinion/04fri3web/04fri3web-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/opinion/04fri3web/04fri3web-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/opinion/04fri3web/04fri3web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/opinion/04fri3web/04fri3web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Parliament\u2019s Power Over Brexit",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial",
+          "print_headline": "Parliament\u2019s Power Over Brexit"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Great Britain Withdrawal from EU (Brexit)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Legislatures and Parliaments"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "European Union"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Referendums"
+          }
+        ],
+        "pub_date": "2016-11-03T23:30:12Z",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "581bc88b95d0e01ffc1e15d2",
+        "word_count": "474",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/arts/music/classical-music-listings-for-nov-4-10.html",
+        "snippet": "A critical guide to performances of classical music in the New York City area....",
+        "lead_paragraph": "A critical guide to performances of classical music in the New York City area.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/arts/04LISTINGSCLASSICAL/04LISTINGSCLASSICAL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/arts/04LISTINGSCLASSICAL/04LISTINGSCLASSICAL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/arts/04LISTINGSCLASSICAL/04LISTINGSCLASSICAL-articleLarge.jpg",
+            "height": 825,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/arts/04LISTINGSCLASSICAL/04LISTINGSCLASSICAL-articleLarge.jpg",
+              "xlargeheight": "825"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/arts/04LISTINGSCLASSICAL/04LISTINGSCLASSICAL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/arts/04LISTINGSCLASSICAL/04LISTINGSCLASSICAL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Classical Music Listings for Nov. 4-10",
+          "print_headline": "The Listings: Classical"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Opera"
+          }
+        ],
+        "pub_date": "2016-11-03T23:29:24Z",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "581bc85a95d0e01ffc1e15d1",
+        "word_count": "939",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/sports/basketball/ap-bkn-pistons-drummond.html",
+        "snippet": "Standing 7-feet tall and weighing 280 pounds, Andre Drummond is one of the most physically imposing big men in the NBA....",
+        "lead_paragraph": "Standing 7-feet tall and weighing 280 pounds, Andre Drummond is one of the most physically imposing big men in the NBA.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Andre Drummond Named Ambassador for Special Olympics",
+          "print_headline": "Andre Drummond Named Ambassador for Special Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:28:23Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc81e95d0e01ffc1e15d0",
+        "word_count": "375",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/business/dealbook/e-lee-hennessee-died-hedge-funds.html",
+        "snippet": "Ms. Hennessee created one of the first indexes to track the hedge fund industry\u2019s secretive transactions....",
+        "lead_paragraph": "Ms. Hennessee created one of the first indexes to track the hedge fund industry\u2019s secretive transactions.",
+        "abstract": "E Lee Hennessee, renowned in male-dominated hedge fund industry for her creation of one of first indexes to track industry's secretive transactions, dies at age 64.",
+        "print_page": "30",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/business/04hennessee-obit/03hennessee-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/business/04hennessee-obit/03hennessee-obit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/business/04hennessee-obit/03hennessee-obit-articleLarge.jpg",
+            "height": 597,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/business/04hennessee-obit/03hennessee-obit-articleLarge.jpg",
+              "xlargeheight": "597"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/business/04hennessee-obit/03hennessee-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/business/04hennessee-obit/03hennessee-obit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "E. Lee Hennessee, a Leading Woman in Hedge Funds, Dies at 64",
+          "print_headline": "E. Lee Hennessee, 64, Hedge Fund Pioneer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hennessee, E Lee (1952-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hedge Funds"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Hennessee Group"
+          }
+        ],
+        "pub_date": "2016-11-03T23:28:03Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julie",
+              "rank": 1,
+              "lastname": "CRESWELL"
+            }
+          ],
+          "original": "By JULIE CRESWELL"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "581bc80795d0e01ffc1e15cf",
+        "word_count": "486",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/us/politics/03reuters-usa-election-ryan.html",
+        "snippet": "U.S. House of Representatives Speaker Paul Ryan is running again for the job in the next Congress, a spokeswoman said on Thursday after a media report quoted several unidentified House Republicans as saying they expected him to step down next week...",
+        "lead_paragraph": "U.S. House of Representatives Speaker Paul Ryan is running again for the job in the next Congress, a spokeswoman said on Thursday after a media report quoted several unidentified House Republicans as saying they expected him to step down next week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. House Speaker Ryan Running for Re-election: Spokeswoman",
+          "print_headline": "U.S. House Speaker Ryan Running for Re-election: Spokeswoman"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:27:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc7ee95d0e01ffc1e15ce",
+        "word_count": "352",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-kirkus-prizes.html",
+        "snippet": "Susan Faludi's memoir about her father and a fictional saga about a Southern family have won $50,000 prizes....",
+        "lead_paragraph": "Susan Faludi's memoir about her father and a fictional saga about a Southern family have won $50,000 prizes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Susan Faludi Wins $50,000 Literary Prize",
+          "print_headline": "Susan Faludi Wins $50,000 Literary Prize"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:25:08Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc75f95d0e01ffc1e15cd",
+        "word_count": "85",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-people-chiarello.html",
+        "snippet": "Celebrity chef Michael Chiarello has been arrested on suspicion of driving under the influence of alcohol and drug possession in Napa County....",
+        "lead_paragraph": "Celebrity chef Michael Chiarello has been arrested on suspicion of driving under the influence of alcohol and drug possession in Napa County.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chef Michael Chiarello Arrested for DUI, Drug Possession",
+          "print_headline": "Chef Michael Chiarello Arrested for DUI, Drug Possession"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:22:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc6ae95d0e01ffc1e15cc",
+        "word_count": "126",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004744075/win-or-lose-trump-fans-vow-to-fight-on.html",
+        "snippet": "Their intense quest to defeat Hillary Clinton will not stop on Election Day, no matter the results, say loyal supporters of the Republican nominee....",
+        "lead_paragraph": "Their intense quest to defeat Hillary Clinton will not stop on Election Day, no matter the results, say loyal supporters of the Republican nominee.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/02/us/00trumpnation_still/00trumpnation_still-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/02/us/00trumpnation_still/00trumpnation_still-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/02/us/00trumpnation_still/00trumpnation_still-articleLarge.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/02/us/00trumpnation_still/00trumpnation_still-articleLarge.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/02/us/00trumpnation_still/00trumpnation_still-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/02/us/00trumpnation_still/00trumpnation_still-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Win or Lose, Trump Fans Vow to Fight On"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-11-03T23:19:09+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 1,
+              "lastname": "BERENSTEIN"
+            }
+          ],
+          "original": "By ERICA BERENSTEIN"
+        },
+        "type_of_material": "Video",
+        "_id": "581bc5f695d0e01ffc1e15cb",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Rod Pampling shot an 11-under 60 on Thursday in the Shriners Hospitals for Children Open, missing a chance for a 59 when he parred the final two holes....",
+        "lead_paragraph": "Rod Pampling shot an 11-under 60 on Thursday in the Shriners Hospitals for Children Open, missing a chance for a 59 when he parred the final two holes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:16:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc55695d0e01ffc1e15ca",
+        "word_count": "380",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

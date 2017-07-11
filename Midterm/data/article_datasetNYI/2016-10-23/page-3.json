@@ -1,0 +1,461 @@
+{
+  "response": {
+    "meta": {
+      "hits": 391,
+      "time": 45,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/soccer/bc-soc-mls-fire-toronto-fc.html",
+        "snippet": "Sebastian Giovinco had a goal and an assist and Toronto FC rallied to beat the Chicago Fire 3-2 on Sunday....",
+        "lead_paragraph": "Sebastian Giovinco had a goal and an assist and Toronto FC rallied to beat the Chicago Fire 3-2 on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Toronto Wins Regular-Season Finale, Misses First-Round Bye",
+          "print_headline": "Toronto Wins Regular-Season Finale, Misses First-Round Bye"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:46:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d3db195d0e022439c4c57",
+        "word_count": "91",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/football/ap-fbn-bills-williams-hurt.html",
+        "snippet": "Jarvis Landry apologized for the block that injured Aaron Williams, said he wished he could take it back, and offered little defense when asked if the hit was dirty....",
+        "lead_paragraph": "Jarvis Landry apologized for the block that injured Aaron Williams, said he wished he could take it back, and offered little defense when asked if the hit was dirty.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Dirty Hit? Block by Landry Injures Bills' Williams",
+          "print_headline": "Dirty Hit? Block by Landry Injures Bills' Williams"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:42:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d3cee95d0e022439c4c56",
+        "word_count": "426",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/world/middleeast/turkeys-push-to-join-battle-for-mosul-inflames-tension-with-iraq.html",
+        "snippet": "President Recep Tayyip Erdogan\u2019s insistence on a direct role, citing a \u201chistorical responsibility\u201d that Iraq rejects, is undermining American goals in the region....",
+        "lead_paragraph": "President Recep Tayyip Erdogan\u2019s insistence on a direct role, citing a \u201chistorical responsibility\u201d that Iraq rejects, is undermining American goals in the region.",
+        "abstract": "Turkish Pres Tayyip Recep Erdogan's insistence on playing role in battle to retake city of Mosul from Islamic State has been met with alarm and resistance from Iraqi government, creating dispute that complicates already fraught operation; Turkey has already angered Iraq and undermined its sense of sovereignty by stationing troops within its borders without permission.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/24/world/24TURKEY1/24TURKEY1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/24/world/24TURKEY1/24TURKEY1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/24/world/24TURKEY1/24TURKEY1-articleLarge.jpg",
+            "height": 405,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/24/world/24TURKEY1/24TURKEY1-articleLarge.jpg",
+              "xlargeheight": "405"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/24/world/24TURKEY1/24TURKEY1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/24/world/24TURKEY1/24TURKEY1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Turkey\u2019s Push to Join Battle for Mosul Inflames Tension With Iraq",
+          "print_headline": "Turkey Treads on Iraq\u2019s Toes in Tussle Over Role at Mosul"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Turkey"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Mosul (Iraq)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Erdogan, Recep Tayyip"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Iraq"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sunni Muslims"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shiite Muslims"
+          }
+        ],
+        "pub_date": "2016-10-23T22:39:01+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Ceylan Yeginsu and Safak Timur contributed reporting from Istanbul, and Omar Al-Jawoshy from Baghdad.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tim",
+              "rank": 1,
+              "lastname": "ARANGO"
+            },
+            {
+              "firstname": "Michael",
+              "middlename": "R.",
+              "lastname": "GORDON",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By TIM ARANGO and MICHAEL R. GORDON"
+        },
+        "type_of_material": "News",
+        "_id": "580d3c0995d0e022439c4c55",
+        "word_count": "1303",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/soccer/bc-soc-mls-fc-dallas-galaxy.html",
+        "snippet": "Chris Seitz made his only save in the 72nd minute and FC Dallas won the first Supporters' Shield in franchise history with a scoreless draw against the Los Angeles Galaxy on Sunday....",
+        "lead_paragraph": "Chris Seitz made his only save in the 72nd minute and FC Dallas won the first Supporters' Shield in franchise history with a scoreless draw against the Los Angeles Galaxy on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "FC Dallas Wins Supporters' Shield in 0-0 Draw With Galaxy",
+          "print_headline": "FC Dallas Wins Supporters' Shield in 0-0 Draw With Galaxy"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:37:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d3b9695d0e022439c4c54",
+        "word_count": "180",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/soccer/bc-soc-mls-whitecaps-timbers.html",
+        "snippet": "Giles Barnes scored twice and the Vancouver Whitecaps beat the Portland Timbers 4-1 on Sunday to eliminate the defending MLS Cup champions from the playoffs....",
+        "lead_paragraph": "Giles Barnes scored twice and the Vancouver Whitecaps beat the Portland Timbers 4-1 on Sunday to eliminate the defending MLS Cup champions from the playoffs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Timbers Eliminated From Playoffs With 4-1 Loss to Vancouver",
+          "print_headline": "Timbers Eliminated From Playoffs With 4-1 Loss to Vancouver"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:36:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d3b9595d0e022439c4c53",
+        "word_count": "569",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/soccer/bc-soc-mls-crew-nycfc.html",
+        "snippet": "Jack Harrison and Khiry Shelton scored two minutes apart in the second half and New York City FC beat the Columbus Crew 4-1 on Sunday to secure a first-round bye in the playoffs....",
+        "lead_paragraph": "Jack Harrison and Khiry Shelton scored two minutes apart in the second half and New York City FC beat the Columbus Crew 4-1 on Sunday to secure a first-round bye in the playoffs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Villa Scores 23rd Goal, NYCFC Secures First-Round Bye",
+          "print_headline": "Villa Scores 23rd Goal, NYCFC Secures First-Round Bye"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:27:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d396d95d0e022439c4c52",
+        "word_count": "188",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/soccer/bc-soc-mls-real-salt-lake-sounders.html",
+        "snippet": "By his own admission, Cristian Roldan was trying to be a nuisance....",
+        "lead_paragraph": "By his own admission, Cristian Roldan was trying to be a nuisance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Roldan Helps Sounders Beat RSL 2-1, Clinch Playoff Spot",
+          "print_headline": "Roldan Helps Sounders Beat RSL 2-1, Clinch Playoff Spot"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:25:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d38c795d0e022439c4c51",
+        "word_count": "621",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/23/sports/baseball/23reuters-baseball-worldseries.html",
+        "snippet": "A lot of the credit for being a miracle maker in the Cubs' climb to a long-awaited World Series has been heaped on team architect Theo Epstein, but Chicago's team president praised manager Joe Maddon....",
+        "lead_paragraph": "A lot of the credit for being a miracle maker in the Cubs' climb to a long-awaited World Series has been heaped on team architect Theo Epstein, but Chicago's team president praised manager Joe Maddon.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Managers Win Measure of Credit for World Series Showdown",
+          "print_headline": "Managers Win Measure of Credit for World Series Showdown"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:18:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580d374495d0e022439c4c50",
+        "word_count": "531",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/24/technology/artificial-intelligence-evolves-with-its-criminal-potential.html",
+        "snippet": "The next generation of online attack tools used by criminals will add machine learning capabilities pioneered by A.I. researchers....",
+        "lead_paragraph": "The next generation of online attack tools used by criminals will add machine learning capabilities pioneered by A.I. researchers.",
+        "abstract": "Law enforcement and computer security experts caution it is only matter of time before artificial intelligence will be used by criminals, given how advanced the technology is becoming; particularly worrisome is growing use of customer service chatbots that could be exploited by criminals to manipulate people into divulging private information or performing some questionable action.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "As Artificial Intelligence Evolves, So Does Its Criminal Potential",
+          "print_headline": "As Artificial Intelligence Evolves, So Does Its Criminal Potential"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computer Security"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Artificial Intelligence"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cyberattacks and Hackers"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crime and Criminals"
+          }
+        ],
+        "pub_date": "2016-10-23T22:18:22+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "John",
+              "rank": 1,
+              "lastname": "MARKOFF"
+            }
+          ],
+          "original": "By JOHN MARKOFF"
+        },
+        "type_of_material": "News",
+        "_id": "580d373495d0e022439c4c4f",
+        "word_count": "965",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/23/sports/football/ap-fbn-saints-bummin-brees.html",
+        "snippet": "Drew Brees and the New Orleans Saints are putting up the kind of ridiculous numbers at home that would be hard to believe even in the Madden video game....",
+        "lead_paragraph": "Drew Brees and the New Orleans Saints are putting up the kind of ridiculous numbers at home that would be hard to believe even in the Madden video game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Saints' Drew Brees Comes Up Short Again in Road Defeat",
+          "print_headline": "Saints' Drew Brees Comes Up Short Again in Road Defeat"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-23T22:12:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580d35eb95d0e022439c4c4e",
+        "word_count": "515",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

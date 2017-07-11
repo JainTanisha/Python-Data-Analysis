@@ -1,0 +1,427 @@
+{
+  "response": {
+    "meta": {
+      "hits": 824,
+      "time": 32,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004598317/russia-defends-military-actions-in-iran.html",
+        "snippet": "Foreign Minister Sergei V. Lavrov said Russia had not violated a U.N. resolution banning specific military aid to Iran. Russia has flown airstrikes from Iran to Syria....",
+        "lead_paragraph": "Foreign Minister Sergei V. Lavrov said Russia had not violated a U.N. resolution banning specific military aid to Iran. Russia has flown airstrikes from Iran to Syria.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/world/18syria-video/18syria-video-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/world/18syria-video/18syria-video-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/world/18syria-video/18syria-video-articleLarge.jpg",
+            "height": 409,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/world/18syria-video/18syria-video-articleLarge.jpg",
+              "xlargeheight": "409"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/world/18syria-video/18syria-video-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/world/18syria-video/18syria-video-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Russia Defends Military Actions in Iran"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lavrov, Sergey V"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iran"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Syria"
+          }
+        ],
+        "pub_date": "2016-08-17T23:24:26Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "57b4f24995d0e021d79813eb",
+        "word_count": "27",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-ferris-wheel-fall.html",
+        "snippet": "Reports say the last of three girls injured in a fall from a Ferris wheel at a Tennessee county fair has been released from a hospital....",
+        "lead_paragraph": "Reports say the last of three girls injured in a fall from a Ferris wheel at a Tennessee county fair has been released from a hospital.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: Last Girl Hurt in Ferris Wheel Fall Out of Hospital",
+          "print_headline": "Report: Last Girl Hurt in Ferris Wheel Fall Out of Hospital"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:16:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4f18e95d0e021d79813e8",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/sports/soccer/17reuters-soccer-spain-super.html",
+        "snippet": "Two goals from Arda Turan and one from Lionel Messi gave Barcelona a 3-0 win over Sevilla in the Spanish Super Cup second leg on Wednesday to seal a 5-0 aggregate victory....",
+        "lead_paragraph": "Two goals from Arda Turan and one from Lionel Messi gave Barcelona a 3-0 win over Sevilla in the Spanish Super Cup second leg on Wednesday to seal a 5-0 aggregate victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Marvellous Turan Fires Barcelona to Super Cup Glory",
+          "print_headline": "Marvellous Turan Fires Barcelona to Super Cup Glory"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:16:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4f0cb95d0e021d79813e7",
+        "word_count": "450",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/business/17reuters-steel-debt.html",
+        "snippet": "Debt in the world's top 30 steel companies totals a record $150 billion (&#163;115.05 billion), international accountancy firm EY said on Thursday, adding governments' action to support the sector would work only if matched with more radical indus...",
+        "lead_paragraph": "Debt in the world's top 30 steel companies totals a record $150 billion (&#163;115.05 billion), international accountancy firm EY said on Thursday, adding governments' action to support the sector would work only if matched with more radical industry restructuring.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Top Steel Firms' Debt Level Totals Record $150 Billion-EY",
+          "print_headline": "Top Steel Firms' Debt Level Totals Record $150 Billion-EY"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:12:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4f01d95d0e021d79813e6",
+        "word_count": "481",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/18/world/middleeast/egypt-suspends-8-female-tv-anchors-saying-they-are-overweight.html",
+        "snippet": "The director of state-run Egyptian radio and television barred the women from appearing on the air for a month, and ordered them to go on a diet....",
+        "lead_paragraph": "The director of state-run Egyptian radio and television barred the women from appearing on the air for a month, and ordered them to go on a diet.",
+        "abstract": "Eight anchorwomen on Egyptian state-run television are suspended for month and ordered to go on diet because they are overweight.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Egypt Suspends 8 Female TV Anchors, Saying They Are Overweight",
+          "print_headline": "Egyptian TV Suspends Eight Women Over Weight"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Egypt"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Weight"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hegazy, Safaa"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Obesity"
+          }
+        ],
+        "pub_date": "2016-08-17T23:11:57+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Rod Nordland contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nour",
+              "rank": 1,
+              "lastname": "YOUSSEF"
+            }
+          ],
+          "original": "By NOUR YOUSSEF"
+        },
+        "type_of_material": "News",
+        "_id": "57b4ef4695d0e021d79813e5",
+        "word_count": "432",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/business/17reuters-ireland-economy-survey.html",
+        "snippet": "Irish business sentiment suffered its sharpest quarterly fall since 2010 on concerns about Britain's vote to leave the European Union, a survey showed on Thursday....",
+        "lead_paragraph": "Irish business sentiment suffered its sharpest quarterly fall since 2010 on concerns about Britain's vote to leave the European Union, a survey showed on Thursday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Irish Business Sentiment Suffers Sharpest Quarterly Drop Since 2010",
+          "print_headline": "Irish Business Sentiment Suffers Sharpest Quarterly Drop Since 2010"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:08:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4eeb095d0e021d79813e4",
+        "word_count": "221",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-alaska-eroding-village.html",
+        "snippet": "Unofficial ballot returns show a majority of voters in one of Alaska's most eroded communities want to move to safer ground from their tiny island home....",
+        "lead_paragraph": "Unofficial ballot returns show a majority of voters in one of Alaska's most eroded communities want to move to safer ground from their tiny island home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Most Residents of Eroding Alaska Village Vote to Relocate",
+          "print_headline": "Most Residents of Eroding Alaska Village Vote to Relocate"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:02:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4ee1795d0e021d79813e3",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/business/17reuters-britain-obesity-tax.html",
+        "snippet": "Britain on Thursday launched a strategy aimed at curbing childhood obesity by taxing companies which sell sugar-laced soft drinks and investing that money in programmes to encourage physical activity and balanced diets for school children....",
+        "lead_paragraph": "Britain on Thursday launched a strategy aimed at curbing childhood obesity by taxing companies which sell sugar-laced soft drinks and investing that money in programmes to encourage physical activity and balanced diets for school children.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Britain Seeks to Fight the Fat With Soft Drinks Sugar Levy",
+          "print_headline": "Britain Seeks to Fight the Fat With Soft Drinks Sugar Levy"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:05:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4ee0295d0e021d79813e2",
+        "word_count": "384",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-games-mr-robot.html",
+        "snippet": "\"Mr. Robot\" is now a video game....",
+        "lead_paragraph": "\"Mr. Robot\" is now a video game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "'Mr. Robot' Mobile Game Launches as Phony Messaging App",
+          "print_headline": "'Mr. Robot' Mobile Game Launches as Phony Messaging App"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T23:01:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4ed5d95d0e021d79813e1",
+        "word_count": "197",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-happy-meals-activity-trackers.html",
+        "snippet": "An attempt by McDonald's to get kids moving isn't working out so great: The chain said it will no longer distribute activity trackers in its Happy Meals after reports that they might cause skin irritations....",
+        "lead_paragraph": "An attempt by McDonald's to get kids moving isn't working out so great: The chain said it will no longer distribute activity trackers in its Happy Meals after reports that they might cause skin irritations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "McDonald's to Stop Distributing Happy Meal Activity Trackers",
+          "print_headline": "McDonald's to Stop Distributing Happy Meal Activity Trackers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:35:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4eb3c95d0e021d79813df",
+        "word_count": "182",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,381 @@
+{
+  "response": {
+    "meta": {
+      "hits": 512,
+      "time": 58,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/11/nyregion/the-15th-anniversary-of-9-11.html",
+        "snippet": "Relatives of those who died in the terrorist attacks of Sept. 11, 2001, gathered in Lower Manhattan, at the Pentagon and in Shanksville, Pa....",
+        "lead_paragraph": "Relatives of those who died in the terrorist attacks of Sept. 11, 2001, gathered in Lower Manhattan, at the Pentagon and in Shanksville, Pa.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/11/nyregion/2016091memorial-hp-slide-FX5G/2016091memorial-hp-slide-FX5G-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/11/nyregion/2016091memorial-hp-slide-FX5G/2016091memorial-hp-slide-FX5G-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/11/nyregion/2016091memorial-hp-slide-FX5G/2016091memorial-hp-slide-FX5G-articleLarge-v2.jpg",
+            "height": 406,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/11/nyregion/2016091memorial-hp-slide-FX5G/2016091memorial-hp-slide-FX5G-articleLarge-v2.jpg",
+              "xlargeheight": "406"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/11/nyregion/2016091memorial-hp-slide-FX5G/2016091memorial-hp-slide-FX5G-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/11/nyregion/2016091memorial-hp-slide-FX5G/2016091memorial-hp-slide-FX5G-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The 15th Anniversary of 9/11"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57d5cd7e95d0e021d79859c7",
+        "word_count": "24",
+        "slideshow_credits": "Damon Winter/The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/sports/baseball/ap-bba-royals-white-sox.html",
+        "snippet": "Ian Kennedy wanted to talk about Chris Sale's outing more than his own performance....",
+        "lead_paragraph": "Ian Kennedy wanted to talk about Chris Sale's outing more than his own performance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kennedy, Bullpen Throw 2-Hitter, Royals Nip Sale, ChiSox 2-0",
+          "print_headline": "Kennedy, Bullpen Throw 2-Hitter, Royals Nip Sale, ChiSox 2-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:18:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5caf995d0e021d79859c2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/us/ap-us-obit-antar-crazy-eddie.html",
+        "snippet": "The man who turned the Crazy Eddie electronics stores into a retail giant before it collapsed amid federal fraud charges has died. Eddie Antar was 68....",
+        "lead_paragraph": "The man who turned the Crazy Eddie electronics stores into a retail giant before it collapsed amid federal fraud charges has died. Eddie Antar was 68.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Eddie Antar, Owner of Crazy Eddie Retail Chain, Dead at 68",
+          "print_headline": "Eddie Antar, Owner of Crazy Eddie Retail Chain, Dead at 68"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:15:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5ca4395d0e021d79859c0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/11/business/11reuters-vodafone-group-stocks-barrons.html",
+        "snippet": "Vodafone Group Plc could benefit from a merger with Liberty Global Plc, according to a report in Barron's, which added the British telecommunications company's shares could also be poised for a 33 percent rise....",
+        "lead_paragraph": "Vodafone Group Plc could benefit from a merger with Liberty Global Plc, according to a report in Barron's, which added the British telecommunications company's shares could also be poised for a 33 percent rise.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Vodafone Stock Could Rise 33 Percent, Benefit From a Merger-Barron's",
+          "print_headline": "Vodafone Stock Could Rise 33 Percent, Benefit From a Merger-Barron's"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:15:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5ca2b95d0e021d79859be",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/11/fashion/runway-womens/pyer-moss-spring-2017.html",
+        "snippet": "Kerby Jean-Raymond\u2019s spring 2017 men\u2019s collection....",
+        "lead_paragraph": "Kerby Jean-Raymond\u2019s spring 2017 men\u2019s collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/11/fashion/runway-womens/pyermoss-spring-2017-rtw-slide-U63P/pyermoss-spring-2017-rtw-slide-U63P-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/11/fashion/runway-womens/pyermoss-spring-2017-rtw-slide-U63P/pyermoss-spring-2017-rtw-slide-U63P-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/11/fashion/runway-womens/pyermoss-spring-2017-rtw-slide-U63P/pyermoss-spring-2017-rtw-slide-U63P-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/11/fashion/runway-womens/pyermoss-spring-2017-rtw-slide-U63P/pyermoss-spring-2017-rtw-slide-U63P-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/11/fashion/runway-womens/pyermoss-spring-2017-rtw-slide-U63P/pyermoss-spring-2017-rtw-slide-U63P-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/11/fashion/runway-womens/pyermoss-spring-2017-rtw-slide-U63P/pyermoss-spring-2017-rtw-slide-U63P-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pyer Moss: Spring 2017",
+          "kicker": "Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pyer Moss Apparel Group LLC"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          }
+        ],
+        "pub_date": "2016-09-11T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Women's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Women's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57d5c9e195d0e021d79859bd",
+        "word_count": "6",
+        "slideshow_credits": "Guillaume Roujas/Nowfashion"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/sports/baseball/ap-bbn-brewers-cardinals.html",
+        "snippet": "Milwaukee's Ryan Braun fouled off the pitch he liked before coming through for the Brewers....",
+        "lead_paragraph": "Milwaukee's Ryan Braun fouled off the pitch he liked before coming through for the Brewers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Braun Homers in 9th, Brewers Drop Cardinals in Playoff Race",
+          "print_headline": "Braun Homers in 9th, Brewers Drop Cardinals in Playoff Race"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:05:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5c9ab95d0e021d79859bc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/us/ap-us-florida-truck-death.html",
+        "snippet": "There was no evidence that a Tampa-area firefighter deliberately left his toddler son in a hot pickup truck for eight hours, but the circumstances amount to criminal neglect, a sheriff told a Florida newspaper....",
+        "lead_paragraph": "There was no evidence that a Tampa-area firefighter deliberately left his toddler son in a hot pickup truck for eight hours, but the circumstances amount to criminal neglect, a sheriff told a Florida newspaper.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sheriff: No Evidence Boy Was Deliberately Left in Hot Truck",
+          "print_headline": "Sheriff: No Evidence Boy Was Deliberately Left in Hot Truck"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:12:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5c98095d0e021d79859bb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/sports/baseball/ap-bba-red-sox-blue-jays.html",
+        "snippet": "Boston slugger David Ortiz went out with a bang in his final regular-season game in Toronto....",
+        "lead_paragraph": "Boston slugger David Ortiz went out with a bang in his final regular-season game in Toronto.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ortiz Hits 3-Run HR as Red Sox Outslug Blue Jays 11-8",
+          "print_headline": "Ortiz Hits 3-Run HR as Red Sox Outslug Blue Jays 11-8"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:00:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5c82d95d0e021d79859ba",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/us/ap-us-cheers-on-stage.html",
+        "snippet": "A stage adaptation of the popular television show \"Cheers\" is kicking off a national tour in the city where it was set....",
+        "lead_paragraph": "A stage adaptation of the popular television show \"Cheers\" is kicking off a national tour in the city where it was set.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Stage Adaption of 'Cheers' TV Shows Opening in Boston",
+          "print_headline": "Stage Adaption of 'Cheers' TV Shows Opening in Boston"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T21:02:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5c78a95d0e021d79859b9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/11/sports/football/ap-fbn-raiders-saints.html",
+        "snippet": "For Oakland coach Jack Del Rio, calling for a do-or-die, 2-point conversion was less a gamble than a philosophical declaration....",
+        "lead_paragraph": "For Oakland coach Jack Del Rio, calling for a do-or-die, 2-point conversion was less a gamble than a philosophical declaration.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gutsy Call Lifts Raiders Past Saints, 35-34",
+          "print_headline": "Gutsy Call Lifts Raiders Past Saints, 35-34"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-11T20:50:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d5c6c695d0e021d79859b8",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

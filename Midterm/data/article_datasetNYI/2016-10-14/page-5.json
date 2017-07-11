@@ -1,0 +1,372 @@
+{
+  "response": {
+    "meta": {
+      "hits": 973,
+      "time": 67,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/us/14reuters-new-jersey-tax-gasoline.html",
+        "snippet": "New Jersey Governor Chris Christie on Friday signed into law a gasoline tax hike of 23 cents a gallon and ordered that stalled bridge, road and transit projects be restarted....",
+        "lead_paragraph": "New Jersey Governor Chris Christie on Friday signed into law a gasoline tax hike of 23 cents a gallon and ordered that stalled bridge, road and transit projects be restarted.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "New Jersey Governor Christie Signs Gas Tax Hike, Restarts Halted Transportation Projects",
+          "print_headline": "New Jersey Governor Christie Signs Gas Tax Hike, Restarts Halted Transportation Projects"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:50:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801536995d0e022439c34d1",
+        "word_count": "284",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/15/arts/television/review-berlin-station-the-hunt-for-a-cia-whistle-blower.html",
+        "snippet": "In this new spy drama from Epix, the agency is battling its own Edward Snowden....",
+        "lead_paragraph": "In this new spy drama from Epix, the agency is battling its own Edward Snowden.",
+        "abstract": "Mike Hale reviews dramatic series Berlin Station, premiering on Epix network.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/arts/15STATION/15STATION-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/arts/15STATION/15STATION-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/arts/15STATION/15STATION-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/arts/15STATION/15STATION-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/arts/15STATION/15STATION-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/arts/15STATION/15STATION-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Berlin Station,\u2019 the Hunt for a C.I.A. Whistle-Blower",
+          "print_headline": "Disillusioned Spook, and Spilled Secrets"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Berlin Station (TV Program)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Epix"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Steinhauer, Olen"
+          }
+        ],
+        "pub_date": "2016-10-14T21:50:52+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "HALE"
+            }
+          ],
+          "original": "By MIKE HALE"
+        },
+        "type_of_material": "Review",
+        "_id": "5801534395d0e022439c34d0",
+        "word_count": "430",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/sports/golf/ap-glf-pga-tour-champions.html",
+        "snippet": "Doug Garwood birdied seven of the final 11 holes for a 7-under 65 and the first-round lead Friday in the PGA Tour Champions' SAS Championship....",
+        "lead_paragraph": "Doug Garwood birdied seven of the final 11 holes for a 7-under 65 and the first-round lead Friday in the PGA Tour Champions' SAS Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Doug Garwood Leads PGA Tour Champions' SAS Championship",
+          "print_headline": "Doug Garwood Leads PGA Tour Champions' SAS Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:42:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801521f95d0e022439c34cf",
+        "word_count": "477",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/world/americas/14reuters-venezuela-politics-budget.html",
+        "snippet": "President Nicolas Maduro on Friday signed off on Venezuela's 2017 budget, drawing fire from the opposition-led National Assembly which accused the unpopular leftist leader of despotism for bypassing the legislature....",
+        "lead_paragraph": "President Nicolas Maduro on Friday signed off on Venezuela's 2017 budget, drawing fire from the opposition-led National Assembly which accused the unpopular leftist leader of despotism for bypassing the legislature. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Venezuela's Maduro Signs 2017 Budget, Bypassed Congress Cries Foul",
+          "print_headline": "Venezuela's Maduro Signs 2017 Budget, Bypassed Congress Cries Foul"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:41:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801520395d0e022439c34ce",
+        "word_count": "387",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/ap-us-backpage-sex-trafficking.html",
+        "snippet": "The operators of an international website that advertises escort services have posted bail while they contest charges of pimping by trafficking prostitutes....",
+        "lead_paragraph": "The operators of an international website that advertises escort services have posted bail while they contest charges of pimping by trafficking prostitutes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Operators of Backpage.com Adult Ads Website Post Bail",
+          "print_headline": "Operators of Backpage.com Adult Ads Website Post Bail"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:39:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801516d95d0e022439c34cd",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/world/africa/14reuters-kansas-crime-somalia.html",
+        "snippet": "Three men were arrested on Friday and charged with plotting to bomb an apartment complex in western Kansas where 120 people lived, including Muslim immigrants from Somalia who also used one apartment as a mosque, federal officials said....",
+        "lead_paragraph": "Three men were arrested on Friday and charged with plotting to bomb an apartment complex in western Kansas where 120 people lived, including Muslim immigrants from Somalia who also used one apartment as a mosque, federal officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Three Kansas Men Charged With Bomb Plot Against Somalians",
+          "print_headline": "Three Kansas Men Charged With Bomb Plot Against Somalians"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:38:26Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801509e95d0e022439c34cc",
+        "word_count": "403",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/us/14reuters-usa-election-texas.html",
+        "snippet": "Nearly two dozen San Antonio police seen in uniform wearing Republican presidential nominee Donald Trump's \"Make America Great Again\" hats will be reprimanded or provided counseling for violating department policy, the department said on Friday....",
+        "lead_paragraph": "Nearly two dozen San Antonio police seen in uniform wearing Republican presidential nominee Donald Trump's \"Make America Great Again\" hats will be reprimanded or provided counseling for violating department policy, the department said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nearly Two Dozen San Antonio Police Punished for Wearing Trump Hats",
+          "print_headline": "Nearly Two Dozen San Antonio Police Punished for Wearing Trump Hats"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:36:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801509c95d0e022439c34cb",
+        "word_count": "202",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/sports/baseball/ap-bbo-the-long-wait.html",
+        "snippet": "Wherever he goes these days, Dodgers outfielder Andre Ethier runs into friends, neighbors and total strangers who want to talk....",
+        "lead_paragraph": "Wherever he goes these days, Dodgers outfielder Andre Ethier runs into friends, neighbors and total strangers who want to talk.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cubs, Indians, Dodgers, Jays Aim to End Decades-Old Droughts",
+          "print_headline": "Cubs, Indians, Dodgers, Jays Aim to End Decades-Old Droughts"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:35:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801500095d0e022439c34ca",
+        "word_count": "712",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/ap-us-maine-marijuana.html",
+        "snippet": "Supporters of a referendum to legalize marijuana for recreational use have touted the proposal as applying only to adults 21 and older, but it could actually legalize marijuana for everyone &#8212; even children, Maine Attorney General Janet Mills...",
+        "lead_paragraph": "Supporters of a referendum to legalize marijuana for recreational use have touted the proposal as applying only to adults 21 and older, but it could actually legalize marijuana for everyone &#8212; even children, Maine Attorney General Janet Mills warned.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pot for Kids? Maine Official Warns of Loophole in Referendum",
+          "print_headline": "Pot for Kids? Maine Official Warns of Loophole in Referendum"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:34:03Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801500095d0e022439c34c9",
+        "word_count": "551",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/world/europe/14reuters-europe-attacks-france.html",
+        "snippet": "A man and his pregnant, teenage girlfriend suspected of plotting to kill in the name of the Islamic State were put under formal investigation on Friday following their arrest on Tuesday in the Paris suburb of Noisy-le-Sec, a judicial source told R...",
+        "lead_paragraph": "A man and his pregnant, teenage girlfriend suspected of plotting to kill in the name of the Islamic State were put under formal investigation on Friday following their arrest on Tuesday in the Paris suburb of Noisy-le-Sec, a judicial source told Reuters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "French Couple Is Put Under Formal Investigation for Ties to Jihadist",
+          "print_headline": "French Couple Is Put Under Formal Investigation for Ties to Jihadist"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T21:33:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58014fea95d0e022439c34c8",
+        "word_count": "254",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

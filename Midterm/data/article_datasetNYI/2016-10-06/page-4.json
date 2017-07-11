@@ -1,0 +1,453 @@
+{
+  "response": {
+    "meta": {
+      "hits": 839,
+      "time": 52,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/06/world/europe/06reuters-usa-putin.html",
+        "snippet": "New York City police are looking for whoever draped a gigantic  banner featuring a portrait of Russian President Vladimir Putin over the side of the Manhattan Bridge on Thursday....",
+        "lead_paragraph": "New York City police are looking for whoever draped a gigantic  banner featuring a portrait of Russian President Vladimir Putin over the side of the Manhattan Bridge on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Banner of Russia's Putin Hung From New York City Bridge",
+          "print_headline": "Banner of Russia's Putin Hung From New York City Bridge"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T22:26:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6cfdf95d0e021d798a88a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/07/movies/blue-jay-review-mark-duplass-sarah-paulson.html",
+        "snippet": "In Alex Lehmann\u2019s film, Sarah Paulson and Mark Duplass play high school sweethearts who run into each other two decades later....",
+        "lead_paragraph": "In Alex Lehmann\u2019s film, Sarah Paulson and Mark Duplass play high school sweethearts who run into each other two decades later.",
+        "abstract": "Stephen Holden reviews movie Blue Jay, directed by Alex Lehmann and starring Mark Duplass and Sarah Paulson.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/07/arts/07BLUEJAY/07BLUEJAY-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/07/arts/07BLUEJAY/07BLUEJAY-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/07/arts/07BLUEJAY/07BLUEJAY-articleLarge.jpg",
+            "height": 322,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/07/arts/07BLUEJAY/07BLUEJAY-articleLarge.jpg",
+              "xlargeheight": "322"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/07/arts/07BLUEJAY/07BLUEJAY-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/07/arts/07BLUEJAY/07BLUEJAY-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018Blue Jay,\u2019 Returning to Romantic Roads Not Taken",
+          "print_headline": "Former High School Sweethearts, Returning to Roads Not Taken"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Blue Jay (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Paulson, Sarah"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Duplass, Mark"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lehmann, Alex"
+          }
+        ],
+        "pub_date": "2016-10-06T22:27:10+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 1,
+              "lastname": "HOLDEN"
+            }
+          ],
+          "original": "By STEPHEN HOLDEN"
+        },
+        "type_of_material": "Review",
+        "_id": "57f6cfc495d0e021d798a889",
+        "word_count": "494",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004665882/trailer-blue-jay.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/22/movies/video-blue-jay/video-blue-jay-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/22/movies/video-blue-jay/video-blue-jay-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/22/movies/video-blue-jay/video-blue-jay-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/22/movies/video-blue-jay/video-blue-jay-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/22/movies/video-blue-jay/video-blue-jay-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/22/movies/video-blue-jay/video-blue-jay-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Blue Jay'"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T22:26:18+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ORCHARD",
+          "organization": "THE ORCHARD"
+        },
+        "type_of_material": "Video",
+        "_id": "57f6cf9095d0e021d798a888",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/06/world/americas/06reuters-mexico-airport-ica.html",
+        "snippet": "Embattled Mexican construction firm ICA on Thursday presented a proposal to build the foundation of a terminal building at Mexico City's new airport, a tender sought by 15 other companies and consortia, Mexico's government airport operator said....",
+        "lead_paragraph": "Embattled Mexican construction firm ICA on Thursday presented a proposal to build the foundation of a terminal building at Mexico City's new airport, a tender sought by 15 other companies and consortia, Mexico's government airport operator said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico's ICA Presents Bid to Build Airport Terminal Foundation",
+          "print_headline": "Mexico's ICA Presents Bid to Build Airport Terminal Foundation"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T22:23:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6cf2695d0e021d798a887",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/06/sports/ncaafootball/ap-fbc-t25-lsu-florida-postponed.html",
+        "snippet": "Rescheduling the LSU-Florida game might not be as easy as it seems for the Southeastern Conference....",
+        "lead_paragraph": "Rescheduling the LSU-Florida game might not be as easy as it seems for the Southeastern Conference.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rescheduling LSU-Florida Game Could Be Problematic for SEC",
+          "print_headline": "Rescheduling LSU-Florida Game Could Be Problematic for SEC"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T22:15:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6ce2495d0e021d798a885",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/09/books/review/8-new-books-we-recommend-this-week.html",
+        "snippet": "Suggested reading by book critics and editors at The New York Times....",
+        "lead_paragraph": "Suggested reading by book critics and editors at The New York Times.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/09/books/review/09edchoice-1/09edchoice-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/09/books/review/09edchoice-1/09edchoice-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/09/books/review/09edchoice-1/09edchoice-1-articleLarge.jpg",
+            "height": 209,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/09/books/review/09edchoice-1/09edchoice-1-articleLarge.jpg",
+              "xlargeheight": "209"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/09/books/review/09edchoice-1/09edchoice-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/09/books/review/09edchoice-1/09edchoice-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "8 New Books We Recommend This Week"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-10-06T22:17:59+0000",
+        "document_type": "article",
+        "news_desk": "BookReview",
+        "section_name": "Books",
+        "subsection_name": "Book Review",
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "57f6cd9d95d0e021d798a882",
+        "word_count": "712",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/06/sports/hockey/06reuters-hockey-crime-boogaard.html",
+        "snippet": "A former minor league hockey player avoided prison on Thursday for supplying painkillers to late New York Rangers' enforcer Derek Boogaard, who died from an overdose of alcohol and oxycodone in 2011....",
+        "lead_paragraph": "A former minor league hockey player avoided prison on Thursday for supplying painkillers to late New York Rangers' enforcer Derek Boogaard, who died from an overdose of alcohol and oxycodone in 2011.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NY Man Avoids Prison Over Painkillers Supplied to Rangers' Boogaard",
+          "print_headline": "NY Man Avoids Prison Over Painkillers Supplied to Rangers' Boogaard"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T22:13:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6cd0c95d0e021d798a880",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/06/sports/ap-cyc-bmx-willoughby-crash.html",
+        "snippet": "Australian BMX cyclist Sam Willoughby is in rehab following a training accident that left the 2012 London Olympics silver medalist with two fractured vertebrae and no movement below his chest....",
+        "lead_paragraph": "Australian BMX cyclist Sam Willoughby is in rehab following a training accident that left the 2012 London Olympics silver medalist with two fractured vertebrae and no movement below his chest.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Australian BMXer Sam Willoughby in Rehab Following Accident",
+          "print_headline": "Australian BMXer Sam Willoughby in Rehab Following Accident"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T22:09:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6ccbd95d0e021d798a87d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/06/us/ap-us-school-shooting-the-latest.html",
+        "snippet": "The Latest on a shooting at a South Carolina elementary school (all times local):...",
+        "lead_paragraph": "The Latest on a shooting at a South Carolina elementary school (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Solicitor Wants to Try Teen as Adult in Shooting",
+          "print_headline": "The Latest: Solicitor Wants to Try Teen as Adult in Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T21:36:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6cc8395d0e021d798a87c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/06/us/ap-us-oil-pipeline-protest.html",
+        "snippet": "A national law enforcement group is lending its support to authorities who are policing the Dakota Access pipeline protest in North Dakota....",
+        "lead_paragraph": "A national law enforcement group is lending its support to authorities who are policing the Dakota Access pipeline protest in North Dakota.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "National Sheriffs Group Pledges Help With Pipeline Policing",
+          "print_headline": "National Sheriffs Group Pledges Help With Pipeline Policing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-06T21:34:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f6cc7995d0e021d798a87b",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

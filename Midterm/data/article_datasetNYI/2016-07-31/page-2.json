@@ -1,0 +1,328 @@
+{
+  "response": {
+    "meta": {
+      "hits": 515,
+      "time": 51,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/business/31reuters-global-oil.html",
+        "snippet": "Oil prices started August trading with fresh falls on Monday after several bearish reports, including rising output from OPEC, a rise in U.S. drilling and weak economic data from Asia....",
+        "lead_paragraph": "Oil prices started August trading with fresh falls on Monday after several bearish reports, including rising output from OPEC, a rise in U.S. drilling and weak economic data from Asia.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Oil Dips as Global Supplies Rise, Fresh Concerns Over Asian Economies",
+          "print_headline": "Oil Dips as Global Supplies Rise, Fresh Concerns Over Asian Economies"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:46:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579eaa7538f0d8533c250812",
+        "word_count": "432",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/soccer/bc-soc-mls-revolution-orlando-city.html",
+        "snippet": "Kevin Molino scored twice and had an assist to help Orlando City rally for a 3-1 victory over the New England Revolution on Sunday night....",
+        "lead_paragraph": "Kevin Molino scored twice and had an assist to help Orlando City rally for a 3-1 victory over the New England Revolution on Sunday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Molino Scores Twice to Help Orlando City Beat Revolution 3-1",
+          "print_headline": "Molino Scores Twice to Help Orlando City Beat Revolution 3-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:41:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea9d238f0d8533c250810",
+        "word_count": "166",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/soccer/bc-soc-mls-real-salt-lake-union.html",
+        "snippet": "Joao Plata and Javier Morales scored on well-placed shots early in the second half and Real Salt Lake beat the Philadelphia Union 2-1 on Sunday night....",
+        "lead_paragraph": "Joao Plata and Javier Morales scored on well-placed shots early in the second half and Real Salt Lake beat the Philadelphia Union 2-1 on Sunday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Plato, Morales Rally Real Salt Lake Past Union 2-1",
+          "print_headline": "Plato, Morales Rally Real Salt Lake Past Union 2-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:39:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea92338f0d8533c25080f",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/ap-car-nhra.html",
+        "snippet": "John Force raced to his second consecutive Funny Car victory Sunday, beating Ron Capps in the Toyota NHRA Sonoma Nationals....",
+        "lead_paragraph": "John Force raced to his second consecutive Funny Car victory Sunday, beating Ron Capps in the Toyota NHRA Sonoma Nationals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "John Force Wins Toyota NHRA Sonoma Nationals",
+          "print_headline": "John Force Wins Toyota NHRA Sonoma Nationals"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:33:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea7bc38f0d8533c25080e",
+        "word_count": "199",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/world/americas/31reuters-brazil-crime-ecclestone.html",
+        "snippet": "Brazilian law enforcement agents stormed a hideout near Sao Paulo on Sunday and freed the kidnapped mother-in-law of Formula One supremo Bernie Ecclestone, police said....",
+        "lead_paragraph": "Brazilian law enforcement agents stormed a hideout near Sao Paulo on Sunday and freed the kidnapped mother-in-law of Formula One supremo Bernie Ecclestone, police said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bernie Ecclestone\u2019s Mother-in-Law Is Freed by Brazil Police",
+          "print_headline": "Brazil Police Free Mother-In-Law of Formula One Empresario"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ecclestone, Bernie"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Formula One"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Sao Paulo (Brazil)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+          }
+        ],
+        "pub_date": "2016-07-31T21:35:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea7a738f0d8533c25080d",
+        "word_count": "270",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/sports/soccer/bc-soc-mls-red-bulls-fire.html",
+        "snippet": "Bradley Wright-Phillips volleyed home Connor Lade's cross in the 90th minute to give the New York Red Bulls a 2-2 tie with the Chicago Fire on Sunday night....",
+        "lead_paragraph": "Bradley Wright-Phillips volleyed home Connor Lade's cross in the 90th minute to give the New York Red Bulls a 2-2 tie with the Chicago Fire on Sunday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Wright-Phillips Scores Late, Red Bulls Tie Fire 2-2",
+          "print_headline": "Wright-Phillips Scores Late, Red Bulls Tie Fire 2-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:18:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea42c38f0d8533c25080a",
+        "word_count": "137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/world/europe/ap-eu-rel-vatican-pope-why-i-fell.html",
+        "snippet": "Pope Francis has explained why he took a tumble last week during a public Mass outdoors in public while on a pilgrimage....",
+        "lead_paragraph": "Pope Francis has explained why he took a tumble last week during a public Mass outdoors in public while on a pilgrimage.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pope: I Fell Because I Forgot There Was Step at Altar's Edge",
+          "print_headline": "Pope: I Fell Because I Forgot There Was Step at Altar's Edge"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:20:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea42638f0d8533c250809",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/business/31reuters-usa-fed-dudley.html",
+        "snippet": "The Federal Reserve should be cautious in considering an interest rate increase due to lingering risks to the U.S. economy, one of the central bank's most influential policymakers said on Monday, appearing to signal the chance of a hike by the end...",
+        "lead_paragraph": "The Federal Reserve should be cautious in considering an interest rate increase due to lingering risks to the U.S. economy, one of the central bank's most influential policymakers said on Monday, appearing to signal the chance of a hike by the end of the year was fading.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fed's Dudley Urges Caution on Rate Hikes, Cites Risks to U.S.",
+          "print_headline": "Fed's Dudley Urges Caution on Rate Hikes, Cites Risks to U.S."
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:16:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea36c38f0d8533c250808",
+        "word_count": "532",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/31/us/ap-10-things-to-know-monday.html",
+        "snippet": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Monday:...",
+        "lead_paragraph": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Monday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "10 Things to Know for Monday",
+          "print_headline": "10 Things to Know for Monday"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:10:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea20b38f0d8533c250806",
+        "word_count": "354",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/31/business/31reuters-china-economy-pmi-factory-official.html",
+        "snippet": "Activity in China's manufacturing sector unexpectedly shrank slightly in July from the previous month, an official survey showed on Monday....",
+        "lead_paragraph": "Activity in China's manufacturing sector unexpectedly shrank slightly in July from the previous month, an official survey showed on Monday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China's July Official Manufacturing Activity 49.9, Down From 50 in June",
+          "print_headline": "China's July Official Manufacturing Activity 49.9, Down From 50 in June"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-31T21:10:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ea1ff38f0d8533c250805",
+        "word_count": "73",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

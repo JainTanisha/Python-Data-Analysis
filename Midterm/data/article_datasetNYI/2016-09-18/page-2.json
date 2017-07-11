@@ -1,0 +1,402 @@
+{
+  "response": {
+    "meta": {
+      "hits": 620,
+      "time": 24,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/baseball/ap-bbn-nationals-braves.html",
+        "snippet": "Matt Wisler is trying to close out the season on a strong note after struggling at times for the Atlanta Braves....",
+        "lead_paragraph": "Matt Wisler is trying to close out the season on a strong note after struggling at times for the Atlanta Braves.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Garcia, Wisler Pace Braves in Rain-Shortened Win",
+          "print_headline": "Garcia, Wisler Pace Braves in Rain-Shortened Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:15:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df20e795d0e021d7986fa3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/us/politics/ap-us-manhattan-explosion-tannerite.html",
+        "snippet": "Residue from an explosive compound found at the scene of an explosion in a New York City neighborhood is unregulated and routinely used for target practice with exploding targets....",
+        "lead_paragraph": "Residue from an explosive compound found at the scene of an explosion in a New York City neighborhood is unregulated and routinely used for target practice with exploding targets.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Explosive Found in New York Blast Used for Target Shooting",
+          "print_headline": "Explosive Found in New York Blast Used for Target Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:11:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df203195d0e021d7986fa2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/business/18reuters-ge-biotech-ireland.html",
+        "snippet": "General Electric is digging deeper into biotechnology with plans to build four prefabricated drug factories in Ireland, bringing to Europe a low-cost manufacturing concept it first pioneered in China....",
+        "lead_paragraph": "General Electric is digging deeper into biotechnology with plans to build four prefabricated drug factories in Ireland, bringing to Europe a low-cost manufacturing concept it first pioneered in China.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "GE Brings Off-The-Shelf Biotech Drug Factories to Ireland",
+          "print_headline": "GE Brings Off-The-Shelf Biotech Drug Factories to Ireland"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:12:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df201995d0e021d7986fa1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/19/us/following-its-country-music-nashville-may-loosen-up-on-marijuana.html",
+        "snippet": "This city, which residents often refer to as the Buckle of the Bible Belt, may be on the cusp of decriminalizing marijuana....",
+        "lead_paragraph": "This city, which residents often refer to as the Buckle of the Bible Belt, may be on the cusp of decriminalizing marijuana.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/19/us/19nashville1/19nashville1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/19/us/19nashville1/19nashville1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/19/us/19nashville1/19nashville1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/19/us/19nashville1/19nashville1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/19/us/19nashville1/19nashville1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/19/us/19nashville1/19nashville1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Following Its Country Music, Nashville May Loosen Up on Marijuana",
+          "print_headline": "Buckle of the Bible Belt May Loosen Its Pot Laws"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Marijuana"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Law and Legislation"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Medical Marijuana"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Country Music"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Civil Liberties Union"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Organization for the Reform of Marijuana Laws"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Southern Baptist Convention"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Nelson, Willie"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Nashville (Tenn)"
+          }
+        ],
+        "pub_date": "2016-09-18T23:12:56+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Richard",
+              "rank": 1,
+              "lastname": "FAUSSET"
+            }
+          ],
+          "original": "By RICHARD FAUSSET"
+        },
+        "type_of_material": "News",
+        "_id": "57df1f8395d0e021d7986fa0",
+        "word_count": "1171",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/business/18reuters-britain-eu-investment.html",
+        "snippet": "British companies scaled back their investment plans in the month after Britain voted to leave the European Union, a survey by Lloyds Bank showed on Monday, a further sign the decision is likely to have a lasting impact on the economy....",
+        "lead_paragraph": "British companies scaled back their investment plans in the month after Britain voted to leave the European Union, a survey by Lloyds Bank showed on Monday, a further sign the decision is likely to have a lasting impact on the economy.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Firms Reined in Investment Plans After Brexit Vote-Survey",
+          "print_headline": "UK Firms Reined in Investment Plans After Brexit Vote-Survey"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:08:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df1eb695d0e021d7986f9f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/business/18reuters-research-traders.html",
+        "snippet": "Go with your gut. Traders who have stronger hunches make more money and last longer in the profession, a scientific study published on Monday has found....",
+        "lead_paragraph": "Go with your gut. Traders who have stronger hunches make more money and last longer in the profession, a scientific study published on Monday has found. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Traders' 'Gut' Feelings Separate Man From Machine-Study",
+          "print_headline": "Traders' 'Gut' Feelings Separate Man From Machine-Study"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:04:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df1dfc95d0e021d7986f9d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/us/ap-us-hatchet-wielding-man-killed-.html",
+        "snippet": "Police say a Southern California officer fatally shot a man armed with a hatchet who was approaching drivers near a fast food restaurant drive-thru window....",
+        "lead_paragraph": "Police say a Southern California officer fatally shot a man armed with a hatchet who was approaching drivers near a fast food restaurant drive-thru window.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Hatchet-Wielding Man Killed by Cop Outside Restaurant",
+          "print_headline": "Hatchet-Wielding Man Killed by Cop Outside Restaurant"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T23:00:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df1d5c95d0e021d7986f9c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/us/ap-us-underwear-attack.html",
+        "snippet": "Baton Rouge police say a man wearing only red underpants attacked officers with \"superhuman strength,\" got into a patrol car and tried to run over officers and rammed a mobile home off its blocks....",
+        "lead_paragraph": "Baton Rouge police say a man wearing only red underpants attacked officers with \"superhuman strength,\" got into a patrol car and tried to run over officers and rammed a mobile home off its blocks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Man in Red Underpants Rams Police Car Into Mobile Home",
+          "print_headline": "Man in Red Underpants Rams Police Car Into Mobile Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:59:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df1d5595d0e021d7986f9b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/arts/ap-us-music-green-day-concerts.html",
+        "snippet": "Green Day has postponed the first three dates of its upcoming tour and canceled a fourth show due to illness, the band announced Sunday....",
+        "lead_paragraph": "Green Day has postponed the first three dates of its upcoming tour and canceled a fourth show due to illness, the band announced Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Green Day Postpones 3 Shows, Cancels Fourth",
+          "print_headline": "Green Day Postpones 3 Shows, Cancels Fourth"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:55:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df1bf895d0e021d7986f9a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/ap-car-nhra.html",
+        "snippet": "Johnn Force won the Countdown-opening NHRA Carolina Nationals at zMAX Dragway for his 146th career victory and third of the season....",
+        "lead_paragraph": "Johnn Force won the Countdown-opening NHRA Carolina Nationals at zMAX Dragway for his 146th career victory and third of the season.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnn Force Wins Countdown Opener in North Carolina",
+          "print_headline": "Johnn Force Wins Countdown Opener in North Carolina"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:51:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df1b4095d0e021d7986f98",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

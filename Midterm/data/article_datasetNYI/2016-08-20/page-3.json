@@ -1,0 +1,440 @@
+{
+  "response": {
+    "meta": {
+      "hits": 461,
+      "time": 46,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/us/ap-us-suspect-killed.html",
+        "snippet": "Authorities are investigating after a south Tennessee police officer fatally shot a suspect....",
+        "lead_paragraph": "Authorities are investigating after a south Tennessee police officer fatally shot a suspect.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sheriff's Office Investigating Fatal Police Shooting",
+          "print_headline": "Sheriff's Office Investigating Fatal Police Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:04:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d47095d0e021d7981c51",
+        "word_count": "225",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/sports/cricket/20reuters-cricket-england-blast.html",
+        "snippet": "Josh Cobb made a swashbuckling 80 to lead unfashionable Northamptonshire to a four-wicket victory over Durham in county cricket's Twenty20 Blast final in Birmingham on Saturday....",
+        "lead_paragraph": "Josh Cobb made a swashbuckling 80 to lead unfashionable Northamptonshire to a four-wicket victory over Durham in county cricket's Twenty20 Blast final in Birmingham on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cobb Leads Northants to English Twenty20 Blast Glory",
+          "print_headline": "Cobb Leads Northants to English Twenty20 Blast Glory"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:58:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cricket",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d30a95d0e021d7981c50",
+        "word_count": "156",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/sports/ap-car-indycar-pocono.html",
+        "snippet": "They sat next to each other taking question after question after IndyCar practice, shrugging off the thought that tension might have crept into their everyday lives....",
+        "lead_paragraph": "They sat next to each other taking question after question after IndyCar practice, shrugging off the thought that tension might have crept into their everyday lives.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Penske Drivers Pagenaud and Power Feeling No Ill Will",
+          "print_headline": "Penske Drivers Pagenaud and Power Feeling No Ill Will"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:55:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d25495d0e021d7981c4e",
+        "word_count": "749",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/21/arts/television/jack-riley-who-played-carlin-on-the-bob-newhart-show-dies-at-80.html",
+        "snippet": "Mr. Riley\u2019s acting career also included voicing a parent on the Nickelodeon cartoon series \u201cRugrats\u201d and appearances in several Mel Brooks films....",
+        "lead_paragraph": "Mr. Riley\u2019s acting career also included voicing a parent on the Nickelodeon cartoon series \u201cRugrats\u201d and appearances in several Mel Brooks films.",
+        "abstract": "Jack Riley, actor known for his roles on The Bob Newhart Show and for his voice acting on Nickelodeon's Rugrats, dies at age 80.",
+        "print_page": "20",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/20/arts/20riley-obit/20riley-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/20/arts/20riley-obit/20riley-obit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/20/arts/20riley-obit/20riley-obit-articleLarge.jpg",
+            "height": 424,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/20/arts/20riley-obit/20riley-obit-articleLarge.jpg",
+              "xlargeheight": "424"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/20/arts/20riley-obit/20riley-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/20/arts/20riley-obit/20riley-obit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Jack Riley, Who Played Carlin on \u2018The Bob Newhart Show,\u2019 Dies at 80",
+          "print_headline": "Jack Riley, 80, a Regular Patient on \u2018The Bob Newhart Show\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Bob Newhart Show (TV Program)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Riley, Jack (1935-2016)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          }
+        ],
+        "pub_date": "2016-08-20T21:49:26+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "57b8d06d95d0e021d7981c4d",
+        "word_count": "169",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/world/africa/20reuters-congo-politics-strike.html",
+        "snippet": "Congo's main opposition alliance on Saturday rejected talks with the government of President Joseph Kabila over elections that  were due to have been held in November but have been delayed and they called for a general strike on Tuesday....",
+        "lead_paragraph": "Congo's main opposition alliance on Saturday rejected talks with the government of President Joseph Kabila over elections that  were due to have been held in November but have been delayed and they called for a general strike on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Congo Opposition Rejects Talks With Kabila Government Over Delayed Election",
+          "print_headline": "Congo Opposition Rejects Talks With Kabila Government Over Delayed Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:45:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d03e95d0e021d7981c4c",
+        "word_count": "98",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/21/sports/womens-basketball-usa-spain-result.html",
+        "snippet": "A blowout in the final gives the American team its sixth straight gold medal....",
+        "lead_paragraph": "A blowout in the final gives the American team its sixth straight gold medal.",
+        "abstract": "United States women's basketball team beats Spain, 101-72, to win gold medal at Rio Olympics; American team that has not lost Olympic game since 1992 picks up its sixth straight gold.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/21/sports/21WOMENSHOOPSweb/21WOMENSHOOPSweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/21/sports/21WOMENSHOOPSweb/21WOMENSHOOPSweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/21/sports/21WOMENSHOOPSweb/21WOMENSHOOPSweb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/21/sports/21WOMENSHOOPSweb/21WOMENSHOOPSweb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/21/sports/21WOMENSHOOPSweb/21WOMENSHOOPSweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/21/sports/21WOMENSHOOPSweb/21WOMENSHOOPSweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Breezes to 6th Straight Gold Medal in Women\u2019s Basketball",
+          "print_headline": "U.S. Breezes to a Sixth Straight Gold Medal"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Spain"
+          }
+        ],
+        "pub_date": "2016-08-20T21:46:46+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jay",
+              "rank": 1,
+              "lastname": "SCHREIBER"
+            }
+          ],
+          "original": "By JAY SCHREIBER"
+        },
+        "type_of_material": "News",
+        "_id": "57b8cfcf95d0e021d7981c4b",
+        "word_count": "736",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/sports/soccer/bc-soc-mls-galaxy-nycfc.html",
+        "snippet": "David Villa scored in the sixth minute and New York City FC stretched its undefeated streak to four games, beating the Los Angeles Galaxy in their first trip to Yankee Stadium 1-0 on Saturday....",
+        "lead_paragraph": "David Villa scored in the sixth minute and New York City FC stretched its undefeated streak to four games, beating the Los Angeles Galaxy in their first trip to Yankee Stadium 1-0 on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Villa Scores Early Goal; NYCFC Hang On to Beat Galaxy 1-0",
+          "print_headline": "Villa Scores Early Goal; NYCFC Hang On to Beat Galaxy 1-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:39:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8cee395d0e021d7981c4a",
+        "word_count": "172",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/sports/olympics/20reuters-olympics-rio-doping-kolodko.html",
+        "snippet": "Russian Evgeniia Kolodko has been stripped of her shot put silver medal from the London 2012 Olympics after testing positive for banned substances in a re-test, the International Olympic Committee said on Saturday....",
+        "lead_paragraph": "Russian Evgeniia Kolodko has been stripped of her shot put silver medal from the London 2012 Olympics after testing positive for banned substances in a re-test, the International Olympic Committee said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Russian Kolodko Stripped of London Games Shot Put Silver",
+          "print_headline": "Russian Kolodko Stripped of London Games Shot Put Silver"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:37:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8ce1995d0e021d7981c49",
+        "word_count": "296",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/us/ap-us-police-shooting-kentucky.html",
+        "snippet": "Police have found two more improvised explosive devices in the woods of Harlan County, Kentucky, a week after the man accused of placing the explosives was killed during a search for them....",
+        "lead_paragraph": "Police have found two more improvised explosive devices in the woods of Harlan County, Kentucky, a week after the man accused of placing the explosives was killed during a search for them.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "More Explosive Devices Found in Woods After Suspect's Death",
+          "print_headline": "More Explosive Devices Found in Woods After Suspect's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:33:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8cd6b95d0e021d7981c48",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/world/europe/20reuters-turkey-blast-islamic-state.html",
+        "snippet": "A blast targeting a wedding in Turkey's Gaziantep on Saturday appeared to have been caused by a suicide bomber, Deputy Prime Minister Mehmet Simsek told broadcaster NTV....",
+        "lead_paragraph": "A blast targeting a wedding in Turkey's Gaziantep on Saturday appeared to have been caused by a suicide bomber, Deputy Prime Minister Mehmet Simsek told broadcaster NTV.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey Gaziantep Blast Appears to Be Suicide Bomber, Deputy PM",
+          "print_headline": "Turkey Gaziantep Blast Appears to Be Suicide Bomber, Deputy PM"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T21:34:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8cd6395d0e021d7981c47",
+        "word_count": "74",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

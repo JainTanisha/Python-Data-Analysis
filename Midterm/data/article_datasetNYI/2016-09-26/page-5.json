@@ -1,0 +1,398 @@
+{
+  "response": {
+    "meta": {
+      "hits": 766,
+      "time": 43,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/world/asia/26reuters-usa-muslim-new-york.html",
+        "snippet": "New York City kicked off a social media advertising campaign on Monday to combat negative perceptions of Muslims and counteract  increasing instances of threats and violence, officials said....",
+        "lead_paragraph": "New York City kicked off a social media advertising campaign on Monday to combat negative perceptions of Muslims and counteract  increasing instances of threats and violence, officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "New York Launches Ad Campaign to Fight Anti-Muslim Rhetoric, Violence",
+          "print_headline": "New York Launches Ad Campaign to Fight Anti-Muslim Rhetoric, Violence"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:59:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e99a8c95d0e021d79887a5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/nyregion/new-york-tonight-bridgegate-presidential-debate-lincoln-tunnel.html",
+        "snippet": "What you need to know about the presidential debate, the continuing George Washington Bridge drama and a collision in the Lincoln Tunnel....",
+        "lead_paragraph": "What you need to know about the presidential debate, the continuing George Washington Bridge drama and a collision in the Lincoln Tunnel.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/27/nyregion/27NYTONIGHTsub/27NYTONIGHTsub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/27/nyregion/27NYTONIGHTsub/27NYTONIGHTsub-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/27/nyregion/27NYTONIGHTsub/27NYTONIGHTsub-articleLarge.jpg",
+            "height": 392,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/27/nyregion/27NYTONIGHTsub/27NYTONIGHTsub-articleLarge.jpg",
+              "xlargeheight": "392"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/27/nyregion/27NYTONIGHTsub/27NYTONIGHTsub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/27/nyregion/27NYTONIGHTsub/27NYTONIGHTsub-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "New York Tonight: The First Debate and More Testimony About the Bridge Scandal"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Alexandra",
+              "middlename": "S.",
+              "lastname": "LEVINE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ALEXANDRA S. LEVINE"
+        },
+        "type_of_material": "briefing",
+        "_id": "57e99a0795d0e021d79887a4",
+        "word_count": "790",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/world/ap-cn-canada-royal-tour.html",
+        "snippet": "Plans to show off one of British Columbia's most beautiful areas to Prince William and his wife, Kate, were scuttled by bad weather....",
+        "lead_paragraph": "Plans to show off one of British Columbia's most beautiful areas to Prince William and his wife, Kate, were scuttled by bad weather.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Driving Rain and Wind Diverts Plans for Canadian Royal Tour",
+          "print_headline": "Driving Rain and Wind Diverts Plans for Canadian Royal Tour"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:56:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e999f395d0e021d79887a3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/sports/soccer/26reuters-soccer-forum-dein-arsenal.html",
+        "snippet": "Arsene Wenger will be an impossible act to follow and Arsenal cannot count on being in the Champions League every season once their French manager leaves, the club's former vice-chairman David Dein said on Monday....",
+        "lead_paragraph": "Arsene Wenger will be an impossible act to follow and Arsenal cannot count on being in the Champions League every season once their French manager leaves, the club's former vice-chairman David Dein said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Wenger Is Impossible Act to Follow at Arsenal, Says Dein",
+          "print_headline": "Wenger Is Impossible Act to Follow at Arsenal, Says Dein"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:57:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e999e195d0e021d79887a2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/sports/golf/ap-glf-ryder-cup-watson.html",
+        "snippet": "Bubba Watson will be at the Ryder Cup, even if it's not exactly the way he imagined it....",
+        "lead_paragraph": "Bubba Watson will be at the Ryder Cup, even if it's not exactly the way he imagined it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Passed Over to Play, Watson Added to US Team as Vice Captain",
+          "print_headline": "Passed Over to Play, Watson Added to US Team as Vice Captain"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:51:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9996e95d0e021d79887a1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/us/ap-fbc-auburn-toomers-corner-fire-.html",
+        "snippet": "A 29-year-old Auburn man charged with desecration of a venerable object in a fire that damaged oak trees at Toomer's Corner as fans celebrated a victory over LSU is now facing a felony charge....",
+        "lead_paragraph": "A 29-year-old Auburn man charged with desecration of a venerable object in a fire that damaged oak trees at Toomer's Corner as fans celebrated a victory over LSU is now facing a felony charge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Auburn Man Faces Charge Felony in Toomer's Corner Tree Fire",
+          "print_headline": "Auburn Man Faces Charge Felony in Toomer's Corner Tree Fire"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:52:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9996895d0e021d79887a0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/26/us/26reuters-chicago-education.html",
+        "snippet": "The Chicago Teachers Union (CTU) said on Monday that its members voted overwhelmingly to authorize a strike, setting the stage for a potential work stoppage as soon as mid-October....",
+        "lead_paragraph": "The Chicago Teachers Union (CTU) said on Monday that its members voted overwhelmingly to authorize a strike, setting the stage for a potential work stoppage as soon as mid-October. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Chicago Teachers' Union Votes to Authorize Strike",
+          "print_headline": "Chicago Teachers' Union Votes to Authorize Strike"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:50:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9986c95d0e021d798879f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/26/briefing/presidential-debate-houston-syria.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/26/nytnow/26eveningss-slide-TU42/26eveningss-slide-TU42-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/26/nytnow/26eveningss-slide-TU42/26eveningss-slide-TU42-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/26/nytnow/26eveningss-slide-TU42/26eveningss-slide-TU42-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/26/nytnow/26eveningss-slide-TU42/26eveningss-slide-TU42-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/26/nytnow/26eveningss-slide-TU42/26eveningss-slide-TU42-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/26/nytnow/26eveningss-slide-TU42/26eveningss-slide-TU42-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Presidential Debate, Houston, Syria: Your Monday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57e997f095d0e021d798879e",
+        "word_count": "797",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/sports/basketball/ap-bkn-spurs-life-after-duncan.html",
+        "snippet": "Life without Tim Duncan has officially begun for the San Antonio Spurs, even if they aren't quite ready to accept it....",
+        "lead_paragraph": "Life without Tim Duncan has officially begun for the San Antonio Spurs, even if they aren't quite ready to accept it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Life Without Duncan Begins for the New-Look Spurs",
+          "print_headline": "Life Without Duncan Begins for the New-Look Spurs"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:47:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e997df95d0e021d798879d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/26/us/ap-us-cold-case-conviction.html",
+        "snippet": "A 77-year-old man was sentenced to life in prison for murder Monday, more than a half century after he told authorities his wife died in a boating accident, and a prosecutor says he believes the suspect killed two others....",
+        "lead_paragraph": "A 77-year-old man was sentenced to life in prison for murder Monday, more than a half century after he told authorities his wife died in a boating accident, and a prosecutor says he believes the suspect killed two others.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Man, 77, Sentenced to Life for 1962 Cold-Case Murder of Wife",
+          "print_headline": "Man, 77, Sentenced to Life for 1962 Cold-Case Murder of Wife"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-26T21:27:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e9971a95d0e021d798879c",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

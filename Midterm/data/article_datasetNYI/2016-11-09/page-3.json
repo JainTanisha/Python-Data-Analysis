@@ -1,0 +1,757 @@
+{
+  "response": {
+    "meta": {
+      "hits": 886,
+      "time": 30,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/arts/yes-he-thought-trump-would-win-no-he-didnt-use-hard-data.html",
+        "snippet": "Allan J. Lichtman, a historian, discusses how his simple method for predicting presidential elections foresaw the success of Donald J. Trump....",
+        "lead_paragraph": "Allan J. Lichtman, a historian, discusses how his simple method for predicting presidential elections foresaw the success of Donald J. Trump.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/arts/10PROGNOSTICATORS/10PREDICTORS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/arts/10PROGNOSTICATORS/10PREDICTORS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/arts/10PROGNOSTICATORS/10PREDICTORS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/arts/10PROGNOSTICATORS/10PREDICTORS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/arts/10PROGNOSTICATORS/10PREDICTORS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/arts/10PROGNOSTICATORS/10PREDICTORS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Yes, He Thought Trump Would Win. No, He Didn\u2019t Use Hard Data.",
+          "print_headline": "He Predicted Trump (Without Polls)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lichtman, Allan J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Polls and Public Opinion"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Predicting the Next President: The Keys to the White House 2016 (Book)"
+          }
+        ],
+        "pub_date": "2016-11-09T23:02:53Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 1,
+              "lastname": "SCHUESSLER"
+            }
+          ],
+          "original": "By JENNIFER SCHUESSLER"
+        },
+        "type_of_material": "News",
+        "_id": "5823ab2495d0e0204d55f9b3",
+        "word_count": "1033",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/13/theater/transgender-playwrights-we-should-get-to-tell-our-own-stories-first.html",
+        "snippet": "The playwrights MJ Kaufman, Basil Kreimendahl and Jess Barbagallo discuss attitudes toward transgender artists, and their own recent works....",
+        "lead_paragraph": "The playwrights MJ Kaufman, Basil Kreimendahl and Jess Barbagallo discuss attitudes toward transgender artists, and their own recent works.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/13/arts/13TRANS1/13TRANS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/13/arts/13TRANS1/13TRANS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/13/arts/13TRANS1/13TRANS1-articleLarge.jpg",
+            "height": 444,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/13/arts/13TRANS1/13TRANS1-articleLarge.jpg",
+              "xlargeheight": "444"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/13/arts/13TRANS1/13TRANS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/13/arts/13TRANS1/13TRANS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Transgender Playwrights: \u2018We Should Get to Tell Our Own Stories First\u2019",
+          "print_headline": "\u2018We Should Get to Tell Our Own Stories\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kaufman, MJ (Playwright)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kreimendahl, Basil"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Barbagallo, Jess"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Transgender and Transsexuals"
+          }
+        ],
+        "pub_date": "2016-11-09T23:01:34+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexis",
+              "rank": 1,
+              "lastname": "SOLOSKI"
+            }
+          ],
+          "original": "By ALEXIS SOLOSKI"
+        },
+        "type_of_material": "News",
+        "_id": "5823aad295d0e0204d55f9b2",
+        "word_count": "1701",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/politics/ap-us-airstrikes-civilian-casualties.html",
+        "snippet": "Sixty-four civilians were killed and eight were injured in 24 U.S.-led coalition airstrikes against Islamic State militants in Iraq and Syria over the past year, the U.S. military said Wednesday, based on newly completed investigations....",
+        "lead_paragraph": "Sixty-four civilians were killed and eight were injured in 24 U.S.-led coalition airstrikes against Islamic State militants in Iraq and Syria over the past year, the U.S. military said Wednesday, based on newly completed investigations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US: 64 Civilians Killed in Iraq, Syria Strikes in Past Year",
+          "print_headline": "US: 64 Civilians Killed in Iraq, Syria Strikes in Past Year"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:01:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823aab695d0e0204d55f9b1",
+        "word_count": "385",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004743557/trailer-dreamland.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/11/arts/11ANTHRO/11ANTHRO-1478807367261-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/11/arts/11ANTHRO/11ANTHRO-1478807367261-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/11/arts/11ANTHRO/11ANTHRO-1478807367261-articleLarge.jpg",
+            "height": 299,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/11/arts/11ANTHRO/11ANTHRO-1478807367261-articleLarge.jpg",
+              "xlargeheight": "299"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/11/arts/11ANTHRO/11ANTHRO--thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/11/arts/11ANTHRO/11ANTHRO--thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Dreamland'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:00:49Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Filmbuff",
+              "rank": 1
+            }
+          ],
+          "original": "By FilmBUFF"
+        },
+        "type_of_material": "Video",
+        "_id": "5823aaad95d0e0204d55f9b0",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/10/fashion/the-fashion-sway-of-the-rolling-stones.html",
+        "snippet": "The band\u2019s enduring fashion influence is the subject of a show, \u201cExhibitionism,\u201d that opens Saturday in New York....",
+        "lead_paragraph": "The band\u2019s enduring fashion influence is the subject of a show, \u201cExhibitionism,\u201d that opens Saturday in New York.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/fashion/20161110STONES-slide-7ZKM/20161110STONES-slide-7ZKM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/fashion/20161110STONES-slide-7ZKM/20161110STONES-slide-7ZKM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/fashion/20161110STONES-slide-7ZKM/20161110STONES-slide-7ZKM-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/fashion/20161110STONES-slide-7ZKM/20161110STONES-slide-7ZKM-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/fashion/20161110STONES-slide-7ZKM/20161110STONES-slide-7ZKM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/fashion/20161110STONES-slide-7ZKM/20161110STONES-slide-7ZKM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Fashion Sway of the Rolling Stones"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:00:01Z",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alex",
+              "rank": 1,
+              "lastname": "WILLIAMS"
+            }
+          ],
+          "original": "By ALEX WILLIAMS"
+        },
+        "type_of_material": "Slideshow",
+        "_id": "5823aa8095d0e0204d55f9af",
+        "word_count": "18",
+        "slideshow_credits": "Philip Townsend"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/us/09reuters-usa-election-observers.html",
+        "snippet": "The Organization for Security and Cooperation in Europe said on Wednesday that human rights were respected during Tuesday's U.S. presidential election and there were few cases of intimidation, despite recent changes to election rules in several st...",
+        "lead_paragraph": "The Organization for Security and Cooperation in Europe said on Wednesday that human rights were respected during Tuesday's U.S. presidential election and there were few cases of intimidation, despite recent changes to election rules in several states that created unnecessary burdens for voters. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Election Was Fair, Despite Voting Obstacles: OSCE Rights Group",
+          "print_headline": "U.S. Election Was Fair, Despite Voting Obstacles: OSCE Rights Group"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:57:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a9eb95d0e0204d55f9ae",
+        "word_count": "340",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/arts/09reuters-usa-election-ratings.html",
+        "snippet": "The 2016 election cycle had been a ratings boon for U.S. cable news networks, and Tuesday&#8217;s stunning U.S. presidential election victory by Republican Donald Trump was no different....",
+        "lead_paragraph": "The 2016 election cycle had been a ratings boon for U.S. cable news networks, and Tuesday&#8217;s stunning U.S. presidential election victory by Republican Donald Trump was no different.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Presidential Election Drives Record Ratings for Cable News",
+          "print_headline": "U.S. Presidential Election Drives Record Ratings for Cable News"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:57:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a9e395d0e0204d55f9ad",
+        "word_count": "330",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/us/politics/trump-voters.html",
+        "snippet": "Many supporters said they hoped for great things under a Trump presidency \u2014 though many also said they had no idea what they were in for....",
+        "lead_paragraph": "Many supporters said they hoped for great things under a Trump presidency \u2014 though many also said they had no idea what they were in for.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/us/10trumpvoices-1-sub/10trumpvoices-1-sub-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For Trump Voters, Uncertainty Mixes With Elation",
+          "print_headline": "Voters Put Their Faith in Trump, Yet Elation Is Mixed With Uncertainty"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-11-09T22:55:10Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Reporting was contributed by Katharine Q. Seelye from Concord, N.H.; Julie Bosman from Cambridge, Wis.; Alan Blinder from Atlanta; Richard P\u00e9rez-Pe\u00f1a from New York; Fernanda Santos from Phoenix; Campbell Robertson from New Orleans; Jack Healy from Salt Lake City; and David Philipps from Las Vegas.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Richard",
+              "rank": 1,
+              "lastname": "FAUSSET"
+            }
+          ],
+          "original": "By RICHARD FAUSSET"
+        },
+        "type_of_material": "News",
+        "_id": "5823a95595d0e0204d55f9ac",
+        "word_count": "1535",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/arts/design/museum-of-the-second-world-war-in-poland-debate.html",
+        "snippet": "Poised to open in January, the Museum of the Second World War in Gdansk has become a political and cultural battlefield, pitting historians against a conservative government....",
+        "lead_paragraph": "Poised to open in January, the Museum of the Second World War in Gdansk has become a political and cultural battlefield, pitting historians against a conservative government.",
+        "abstract": "Museum of the Second World War in Gdansk, Poland, set to open in January 2017, is latest battleground in country's cultural and political wars; conservative culture minister Piotr Glinski wants to narrow institution's focus to Polish experience and Battle of Westerplatte, move many see as government attempt to rewrite history and portray country as perpetual noble victim.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/arts/10POLISHMUSEUM1/10POLISHMUSEUM1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/arts/10POLISHMUSEUM1/10POLISHMUSEUM1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/arts/10POLISHMUSEUM1/10POLISHMUSEUM1-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/arts/10POLISHMUSEUM1/10POLISHMUSEUM1-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/arts/10POLISHMUSEUM1/10POLISHMUSEUM1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/arts/10POLISHMUSEUM1/10POLISHMUSEUM1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Museum Becomes a Battlefield Over Poland\u2019s History",
+          "print_headline": "What Poland Did in the War"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Museum of the Second World War"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Gdansk (Poland)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "World War II (1939-45)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Machcewicz, Pawel"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Glinski, Piotr"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Poland"
+          }
+        ],
+        "pub_date": "2016-11-09T22:54:54Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "contributor": "Joanna Berendt contributed reporting from Warsaw",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rachel",
+              "rank": 1,
+              "lastname": "DONADIO"
+            }
+          ],
+          "original": "By RACHEL DONADIO"
+        },
+        "type_of_material": "News",
+        "_id": "5823a94495d0e0204d55f9ab",
+        "word_count": "1228",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004636041/trailer-disturbing-the-peace.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/08/movies/video-disturbing-the-peace/video-disturbing-the-peace-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/08/movies/video-disturbing-the-peace/video-disturbing-the-peace-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/08/movies/video-disturbing-the-peace/video-disturbing-the-peace-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/08/movies/video-disturbing-the-peace/video-disturbing-the-peace-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/08/movies/video-disturbing-the-peace/video-disturbing-the-peace-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/08/movies/video-disturbing-the-peace/video-disturbing-the-peace-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Disturbing the Peace'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:52:51Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Abramorama",
+              "rank": 1,
+              "lastname": "ENTERTAINMENT"
+            }
+          ],
+          "original": "By ABRAMORAMA ENTERTAINMENT"
+        },
+        "type_of_material": "Video",
+        "_id": "5823a90295d0e0204d55f9aa",
+        "word_count": "5",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

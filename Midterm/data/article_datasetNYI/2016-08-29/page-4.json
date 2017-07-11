@@ -1,0 +1,335 @@
+{
+  "response": {
+    "meta": {
+      "hits": 683,
+      "time": 34,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/29/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c7040b95d0e021d7983402",
+        "word_count": "12",
+        "slideshow_credits": "Michael Appleton for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/sports/tennis/ap-ten-us-open-townsend.html",
+        "snippet": "American qualifier Taylor Townsend nearly inaugurated the new Grandstand Stadium with an upset....",
+        "lead_paragraph": "American qualifier Taylor Townsend nearly inaugurated the new Grandstand Stadium with an upset.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "American Townsend Inaugurates New Grandstand With Near Upset",
+          "print_headline": "American Townsend Inaugurates New Grandstand With Near Upset"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:08:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7044195d0e021d7983405",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-girl-shot-drive-by.html",
+        "snippet": "Police say an 8-year-old girl is in critical condition after being shot in the head during a drive-by shooting outside a Miami home....",
+        "lead_paragraph": "Police say an 8-year-old girl is in critical condition after being shot in the head during a drive-by shooting outside a Miami home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Girl, 8, in Critical Condition After Miami Drive-By Shooting",
+          "print_headline": "Girl, 8, in Critical Condition After Miami Drive-By Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:59:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7047195d0e021d798340d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-atlantic-city-casino-strike.html",
+        "snippet": "Billionaire investor Carl Icahn rejected an offer Monday by Atlantic City's main casino workers' union that it says would have saved the struggling Trump Taj Mahal casino....",
+        "lead_paragraph": "Billionaire investor Carl Icahn rejected an offer Monday by Atlantic City's main casino workers' union that it says would have saved the struggling Trump Taj Mahal casino.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Icahn Rejects Union Bid to Keep Trump Taj Mahal Casino Open",
+          "print_headline": "Icahn Rejects Union Bid to Keep Trump Taj Mahal Casino Open"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:58:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7047095d0e021d798340c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-store-evacuation-pepper-spray.html",
+        "snippet": "A Wal-Mart spokeswoman says a can of pepper spray is the suspected culprit for the evacuation of an Alabama store....",
+        "lead_paragraph": "A Wal-Mart spokeswoman says a can of pepper spray is the suspected culprit for the evacuation of an Alabama store.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Wal-Mart: Pepper Spray, Not Rotting Fruit, Forced Evacuation",
+          "print_headline": "Wal-Mart: Pepper Spray, Not Rotting Fruit, Forced Evacuation"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:58:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7047395d0e021d798340e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/business/ap-us-business-highlights.html",
+        "snippet": "___...",
+        "lead_paragraph": "___",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:07:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7046d95d0e021d798340a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-film-blade-runner-death.html",
+        "snippet": "A construction worker was killed on a set Friday for the untitled sequel to \"Blade Runner\" in Budapest, Hungary....",
+        "lead_paragraph": "A construction worker was killed on a set Friday for the untitled sequel to \"Blade Runner\" in Budapest, Hungary.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Construction Worker Dies on 'Blade Runner' Sequel Set",
+          "print_headline": "Construction Worker Dies on 'Blade Runner' Sequel Set"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:03:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c703e895d0e021d79833fc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/us/29reuters-washington-wolves.html",
+        "snippet": "Wildlife agents authorized to eradicate a group of 11 wolves for repeated attacks on cattle in Washington state have hunted down and killed six animals from the condemned pack and are searching for the rest, a state game official said on Monday....",
+        "lead_paragraph": "Wildlife agents authorized to eradicate a group of 11 wolves for repeated attacks on cattle in Washington state have hunted down and killed six animals from the condemned pack and are searching for the rest, a state game official said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Washington State Begins Killing Wolf Pack for Preying on Livestock",
+          "print_headline": "Washington State Begins Killing Wolf Pack for Preying on Livestock"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:04:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c703e195d0e021d79833fb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-byu-rape-honor-code-probe.html",
+        "snippet": "Brigham Young University President Keven Worthen says a faculty advisory council created to review how the school handles reports of sexual assault will present its findings this fall....",
+        "lead_paragraph": "Brigham Young University President Keven Worthen says a faculty advisory council created to review how the school handles reports of sexual assault will present its findings this fall.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "BYU's Internal Probe on Sex Assaults Nearing Completion",
+          "print_headline": "BYU's Internal Probe on Sex Assaults Nearing Completion"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:54:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7045d95d0e021d7983409",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/us/29reuters-chicago-corruption.html",
+        "snippet": "A former Chicago transportation official was sentenced on Monday to 10 years in prison for using his influence to expand contracts for the city's red light traffic camera program in a $2 million bribery scheme....",
+        "lead_paragraph": "A former Chicago transportation official was sentenced on Monday to 10 years in prison for using his influence to expand contracts for the city's red light traffic camera program in a $2 million bribery scheme.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Former Chicago Official Gets 10 Years in Red Light Camera Bribe Case",
+          "print_headline": "Former Chicago Official Gets 10 Years in Red Light Camera Bribe Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T22:02:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7044795d0e021d7983407",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

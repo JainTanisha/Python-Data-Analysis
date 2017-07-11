@@ -1,0 +1,584 @@
+{
+  "response": {
+    "meta": {
+      "hits": 869,
+      "time": 50,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/world/middleeast/16reuters-mideast-crisis-syria-un.html",
+        "snippet": "Russia said on Friday that a U.N. Security Council endorsement of a Syria ceasefire deal between Moscow and Washington appeared unlikely because the United States does not want to share the documents detailing the agreement with the 15-member body...",
+        "lead_paragraph": "Russia said on Friday that a U.N. Security Council endorsement of a Syria ceasefire deal between Moscow and Washington appeared unlikely because the United States does not want to share the documents detailing the agreement with the 15-member body.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Russia Says U.S. Refuses to Share Syria Truce Deal With U.N. Council",
+          "print_headline": "Russia Says U.S. Refuses to Share Syria Truce Deal With U.N. Council"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T23:37:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc82ba95d0e021d7986c14",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/17/sports/football/jason-pierre-paul-may-miss-giants-home-opener.html",
+        "snippet": "The defensive end has a sore shoulder and was listed as questionable for the game against the New Orleans Saints....",
+        "lead_paragraph": "The defensive end has a sore shoulder and was listed as questionable for the game against the New Orleans Saints.",
+        "abstract": null,
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Jason Pierre-Paul May Miss Giants\u2019 Home Opener",
+          "print_headline": "Pro Football; Pierre-Paul Listed as Questionable"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pierre-Paul, Jason"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Giants"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sports Injuries"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McAdoo, Ben"
+          }
+        ],
+        "pub_date": "2016-09-16T23:28:32+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Bill",
+              "rank": 1,
+              "lastname": "PENNINGTON"
+            }
+          ],
+          "original": "By BILL PENNINGTON"
+        },
+        "type_of_material": "News",
+        "_id": "57dc802895d0e021d7986c11",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/17/world/europe/a-two-mile-beer-pipeline-carries-belgiums-lifeblood-to-be-bottled.html",
+        "snippet": "One of Belgium\u2019s oldest breweries, in the narrow streets of medieval Bruges, solved a transportation problem and avoided a move from the city center....",
+        "lead_paragraph": "One of Belgium\u2019s oldest breweries, in the narrow streets of medieval Bruges, solved a transportation problem and avoided a move from the city center.",
+        "abstract": null,
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "A Two-Mile Beer Pipeline Carries Belgium\u2019s Lifeblood to Be Bottled",
+          "print_headline": "Belgium\u2019s Lifeblood Now Flows Through a Two-Mile Beer Pipeline"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Beer"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Bruges (Belgium)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Infrastructure (Public Works)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Historic Buildings and Sites"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations Educational, Scientific and Cultural Organization"
+          }
+        ],
+        "pub_date": "2016-09-16T23:28:30+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Russell Goldman reported from New York, and Milan Schreuer from Paris.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Russell",
+              "rank": 1,
+              "lastname": "GOLDMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Milan",
+              "rank": 2,
+              "lastname": "SCHREUER"
+            }
+          ],
+          "original": "By RUSSELL GOLDMAN and MILAN SCHREUER"
+        },
+        "type_of_material": "News",
+        "_id": "57dc802c95d0e021d7986c12",
+        "word_count": "552",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004652615/a-pipeline-of-beer-not-just-a-fantasy.html",
+        "snippet": "Halve Maan Brewery lies in the center of Bruges, Belgium, but its bottling plant is on the city\u2019s outskirts. Trucks became expensive and impractical, so the owners built an underground pipeline to carry the beer....",
+        "lead_paragraph": "Halve Maan Brewery lies in the center of Bruges, Belgium, but its bottling plant is on the city\u2019s outskirts. Trucks became expensive and impractical, so the owners built an underground pipeline to carry the beer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/17/world/17beer2-video/17beer2-video-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/17/world/17beer2-video/17beer2-video-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/17/world/17beer2-video/17beer2-video-articleLarge.jpg",
+            "height": 394,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/17/world/17beer2-video/17beer2-video-articleLarge.jpg",
+              "xlargeheight": "394"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/17/world/17beer2-video/17beer2-video-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/17/world/17beer2-video/17beer2-video-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Pipeline of Beer: Not Just a Fantasy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Bruges (Belgium)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Beer"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pipelines"
+          }
+        ],
+        "pub_date": "2016-09-16T23:28:27+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Turner",
+              "rank": 1,
+              "lastname": "COWLES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Russell",
+              "rank": 2,
+              "lastname": "GOLDMAN"
+            }
+          ],
+          "original": "By TURNER COWLES and RUSSELL GOLDMAN"
+        },
+        "type_of_material": "Video",
+        "_id": "57dc802195d0e021d7986c10",
+        "word_count": "35",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/16/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "In Gee Chun shot a 5-under 66 on Friday to take a two-stroke lead in the Evian Championship, keeping the South Korean player on course for the second major title....",
+        "lead_paragraph": "In Gee Chun shot a 5-under 66 on Friday to take a two-stroke lead in the Evian Championship, keeping the South Korean player on course for the second major title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T23:23:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc7f7995d0e021d7986c0f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/world/americas/16reuters-usa-election-trump-cuba.html",
+        "snippet": "Republican presidential nominee Donald Trump said on Friday that if elected he would seek to reverse President Barack Obama's moves to open relations with Cuba unless the leaders there allowed religious freedoms and freed political prisoners....",
+        "lead_paragraph": "Republican presidential nominee Donald Trump said on Friday that if elected he would seek to reverse President Barack Obama's moves to open relations with Cuba unless the leaders there allowed religious freedoms and freed political prisoners. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Would Undo Obama's Cuba Moves Unless Religious Freedom Allowed",
+          "print_headline": "Trump Would Undo Obama's Cuba Moves Unless Religious Freedom Allowed"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T23:20:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc7e8895d0e021d7986c0e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/09/16/theater/17EIGHTEEN.html",
+        "snippet": "Neil LaBute, Lynn Nottage and other stage notables take a peek at their early plays (often written in their teens). They weren\u2019t all brilliant....",
+        "lead_paragraph": "Neil LaBute, Lynn Nottage and other stage notables take a peek at their early plays (often written in their teens). They weren\u2019t all brilliant.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/17/arts/17EIGHTEEN-PROMO/17EIGHTEEN-PROMO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/17/arts/17EIGHTEEN-PROMO/17EIGHTEEN-PROMO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/17/arts/17EIGHTEEN-PROMO/17EIGHTEEN-PROMO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/17/arts/17EIGHTEEN-PROMO/17EIGHTEEN-PROMO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/17/arts/17EIGHTEEN-PROMO/17EIGHTEEN-PROMO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/17/arts/17EIGHTEEN-PROMO/17EIGHTEEN-PROMO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "I Wrote That? Playwrights Look Back at Their Teenage Work"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Howe, Tina"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rivera, Jose (1955- )"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hunter, Samuel D"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Weiner, Jenny Rachel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Writing and Writers"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "LaBute, Neil"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Nottage, Lynn"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Schenkkan, Robert"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gardley, Marcus"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Feiffer, Halley"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Silver, Nicky"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bock, Adam"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "George, Madeleine"
+          }
+        ],
+        "pub_date": "2016-09-16T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Theater",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "GRODE"
+            }
+          ],
+          "original": "By ERIC GRODE"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57dc7e1f95d0e021d7986c0d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/16/us/ap-us-los-angeles-arsons.html",
+        "snippet": "A judge declared a mistrial Friday over whether a German man was sane when he set dozens of fires across Los Angeles during three nights of terror nearly five years ago....",
+        "lead_paragraph": "A judge declared a mistrial Friday over whether a German man was sane when he set dozens of fires across Los Angeles during three nights of terror nearly five years ago.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jury Can't Decide Sanity of German Who Set Los Angeles Fires",
+          "print_headline": "Jury Can't Decide Sanity of German Who Set Los Angeles Fires"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T23:17:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc7df495d0e021d7986c0c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/16/us/ap-us-oklahoma-new-seismologist.html",
+        "snippet": "The Oklahoma Geological Survey has announced the hiring of a new state seismologist to help study the increase in earthquakes linked to oil and gas wastewater disposal....",
+        "lead_paragraph": "The Oklahoma Geological Survey has announced the hiring of a new state seismologist to help study the increase in earthquakes linked to oil and gas wastewater disposal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Oklahoma Geological Survey Hires New State Seismologist",
+          "print_headline": "Oklahoma Geological Survey Hires New State Seismologist"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T23:16:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc7df395d0e021d7986c0b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/arts/16reuters-usa-music-licensing.html",
+        "snippet": "The government lost a fight with music licensing giant BMI on Friday over whether it needed to change how it collects royalties for music....",
+        "lead_paragraph": "The government lost a fight with music licensing giant BMI on Friday over whether it needed to change how it collects royalties for music.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Justice Department Loses Fight With BMI Over Fractional Music Licensing",
+          "print_headline": "U.S. Justice Department Loses Fight With BMI Over Fractional Music Licensing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T23:16:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc7dd495d0e021d7986c09",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

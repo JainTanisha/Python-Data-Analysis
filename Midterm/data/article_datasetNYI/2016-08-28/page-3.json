@@ -1,0 +1,374 @@
+{
+  "response": {
+    "meta": {
+      "hits": 473,
+      "time": 41,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/golf/ap-glf-barclays.html",
+        "snippet": "Patrick Reed had a crystal trophy, a clear shot at the richest payoff in golf and a spot on the Ryder Cup team....",
+        "lead_paragraph": "Patrick Reed had a crystal trophy, a clear shot at the richest payoff in golf and a spot on the Ryder Cup team.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Reed Wins Barclays, Fowler Loses Ryder Cup Spot",
+          "print_headline": "Reed Wins Barclays, Fowler Loses Ryder Cup Spot"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T22:09:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c361e395d0e021d7983140",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/29/sports/tennis/africas-tennis-talent-though-obscure-is-apparent.html",
+        "snippet": "The continent has skilled players, but a lack of resources and opportunities, including access to top competition, keeps them from breaking through....",
+        "lead_paragraph": "The continent has skilled players, but a lack of resources and opportunities, including access to top competition, keeps them from breaking through.",
+        "abstract": "Essay by Matthew Muspratt examines current and future state of tennis in Africa, continent not known for producing world-class players; says no black Africans are competing in 2016 United States Open.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/29/sports/0829AfricaTennis1/0829AfricaTennis1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/29/sports/0829AfricaTennis1/0829AfricaTennis1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/29/sports/0829AfricaTennis1/0829AfricaTennis1-articleLarge.jpg",
+            "height": 363,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/29/sports/0829AfricaTennis1/0829AfricaTennis1-articleLarge.jpg",
+              "xlargeheight": "363"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/29/sports/0829AfricaTennis1/0829AfricaTennis1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/29/sports/0829AfricaTennis1/0829AfricaTennis1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Africa\u2019s Tennis Talent, Though Obscure, Is Burgeoning",
+          "content_kicker": "Essay",
+          "kicker": "Essay",
+          "print_headline": "Africa\u2019s Talent Is Obscure but Apparent"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Tennis"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Third World and Developing Countries"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Africa"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Open (Tennis)"
+          }
+        ],
+        "pub_date": "2016-08-28T22:06:49+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 1,
+              "lastname": "MUSPRATT"
+            }
+          ],
+          "original": "By MATTHEW MUSPRATT"
+        },
+        "type_of_material": "News",
+        "_id": "57c3607f95d0e021d798313d",
+        "word_count": "4284",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/tennis/ap-ten-us-open-roof.html",
+        "snippet": "Novak Djokovic won't mind if it rains for the next two weeks in New York....",
+        "lead_paragraph": "Novak Djokovic won't mind if it rains for the next two weeks in New York.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "For US Open's New Roof, a Question of Changing Conditions",
+          "print_headline": "For US Open's New Roof, a Question of Changing Conditions"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:56:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c35f1d95d0e021d798313b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/baseball/ap-bba-rays-astros.html",
+        "snippet": "Wins have been hard to come by for Chris Archer this season. Strikeouts have not....",
+        "lead_paragraph": "Wins have been hard to come by for Chris Archer this season. Strikeouts have not.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Archer Strikes Out 10, Rays Hit 3 HRs in 10-4 Win vs Astros",
+          "print_headline": "Archer Strikes Out 10, Rays Hit 3 HRs in 10-4 Win vs Astros"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:54:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c35f1295d0e021d798313a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/28/world/europe/28reuters-europe-migrants-italy.html",
+        "snippet": "About 1,100 migrants were rescued from boats in the Strait of Sicily on Sunday as they tried to reach Europe, Italy's coastguard said....",
+        "lead_paragraph": "About 1,100 migrants were rescued from boats in the Strait of Sicily on Sunday as they tried to reach Europe, Italy's coastguard said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Italy Rescues Around 1,100 Migrants in Mediterranean",
+          "print_headline": "Italy Rescues Around 1,100 Migrants in Mediterranean"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:58:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c35f0b95d0e021d7983139",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/ap-bby-llws-championship.html",
+        "snippet": "As Ryan Harlost stepped to the mound on Sunday, he took it all in....",
+        "lead_paragraph": "As Ryan Harlost stepped to the mound on Sunday, he took it all in.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Endwell, New York, Wins Little League World Series",
+          "print_headline": "Endwell, New York, Wins Little League World Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:30:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c35a3595d0e021d7983133",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/us/ap-us-burning-man-gerlach.html",
+        "snippet": "The start of Burning Man this week means a mix of excitement and bitterness to the tiny town of Gerlach....",
+        "lead_paragraph": "The start of Burning Man this week means a mix of excitement and bitterness to the tiny town of Gerlach.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Burning Man Gets Mixed Reaction in Nearby Small Nevada Town",
+          "print_headline": "Burning Man Gets Mixed Reaction in Nearby Small Nevada Town"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:30:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c358c395d0e021d7983131",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/28/sports/football/ap-fbn-49ers-kaepernick-anthem.html",
+        "snippet": "Defiant, and determined to be a conduit for change, Colin Kaepernick plans to sit through the national anthem for as long as he feels is appropriate and until he sees significant progress &#8212; specifically when it comes to race relations in the...",
+        "lead_paragraph": "Defiant, and determined to be a conduit for change, Colin Kaepernick plans to sit through the national anthem for as long as he feels is appropriate and until he sees significant progress &#8212; specifically when it comes to race relations in the United States.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kaepernick Will Sit Through Anthem Until There's Change",
+          "print_headline": "Kaepernick Will Sit Through Anthem Until There's Change"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:26:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c3581e95d0e021d798312f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/28/sports/autoracing/28reuters-motor-f1-belgium-hamilton.html",
+        "snippet": "Christmas came early for world championship leader Lewis Hamilton as he fought his way from the back of the grid to finish an unexpected third in Sunday's Belgian Formula One Grand Prix....",
+        "lead_paragraph": "Christmas came early for world championship leader Lewis Hamilton as he fought his way from the back of the grid to finish an unexpected third in Sunday's Belgian Formula One Grand Prix.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Christmas Comes Early for Hamilton at Spa",
+          "print_headline": "Christmas Comes Early for Hamilton at Spa"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:23:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c3569a95d0e021d798312d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/28/us/28reuters-louisiana-bus-crash.html",
+        "snippet": "A bus with an unlicensed driver spun out of control near New Orleans on Sunday, killing two people and injuring 41, while taking volunteers to help with Louisiana flood relief, officials said....",
+        "lead_paragraph": "A bus with an unlicensed driver spun out of control near New Orleans on Sunday, killing two people and injuring 41, while taking volunteers to help with Louisiana flood relief, officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Two Dead, 41 Hurt in Bus Crash Involving Louisiana Flood-Relief Volunteers",
+          "print_headline": "Two Dead, 41 Hurt in Bus Crash Involving Louisiana Flood-Relief Volunteers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-28T21:22:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c3569995d0e021d798312c",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

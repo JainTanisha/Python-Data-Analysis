@@ -1,0 +1,434 @@
+{
+  "response": {
+    "meta": {
+      "hits": 767,
+      "time": 95,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/08/us/08reuters-twenty-first-fox-ailes.html",
+        "snippet": "Former Fox News Channel Chairman Roger Ailes on Monday dropped a bid to move a sexual harassment lawsuit by a former anchor from New Jersey to a federal court in New York....",
+        "lead_paragraph": "Former Fox News Channel Chairman Roger Ailes on Monday dropped a bid to move a sexual harassment lawsuit by a former anchor from New Jersey to a federal court in New York.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Harassment Case Against Roger Ailes Will Remain in New Jersey Court",
+          "print_headline": "Harassment Case Against Roger Ailes Will Remain in New Jersey Court"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:33:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa460195d0e021d797f672",
+        "word_count": "359",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/08/sports/olympics/08reuters-olympics-rio-archery-m-ind-vandenberg.html",
+        "snippet": "An upset stomach and a burst blood vessel in an eye were not enough to throw Dutch archer Sjef Van den Berg off target as he charged into the last 16 of the men's individual event at the Rio Olympics on Monday....",
+        "lead_paragraph": "An upset stomach and a burst blood vessel in an eye were not enough to throw Dutch archer Sjef Van den Berg off target as he charged into the last 16 of the men's individual event at the Rio Olympics on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Archery-'Evil-Eyed' Dutchman on Target in Rio",
+          "print_headline": "Archery-'Evil-Eyed' Dutchman on Target in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:32:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa466d95d0e021d797f682",
+        "word_count": "189",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/09/arts/music/epic-af-streaming-album-chart.html",
+        "snippet": "The album repeatedly made the Top 10 on the Billboard 200 album chart even though it isn\u2019t for sale anywhere....",
+        "lead_paragraph": "The album repeatedly made the Top 10 on the Billboard 200 album chart even though it isn\u2019t for sale anywhere.",
+        "abstract": "Epic Records digital compilation album Epic AF maintains steady presence on Billboard charts, despite having sold no copies, thanks to heavy audio streaming.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/09/arts/09EPICAF/09EPICAF-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/09/arts/09EPICAF/09EPICAF-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/09/arts/09EPICAF/09EPICAF-articleLarge.jpg",
+            "height": 390,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/09/arts/09EPICAF/09EPICAF-articleLarge.jpg",
+              "xlargeheight": "390"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/09/arts/09EPICAF/09EPICAF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/09/arts/09EPICAF/09EPICAF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Epic Records Whips Up Hit Album Out of Thin Air (and Online Streams)",
+          "print_headline": "An Album That\u2019s a Hit Without Any Sales"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Epic Records"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Billboard (Magazine)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Epic AF (Album)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Video Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rap and Hip-Hop"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "DJ Khaled"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Ratings (Audience Measurement)"
+          }
+        ],
+        "pub_date": "2016-08-08T22:32:59+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joe",
+              "rank": 1,
+              "lastname": "COSCARELLI"
+            }
+          ],
+          "original": "By JOE COSCARELLI"
+        },
+        "type_of_material": "News",
+        "_id": "57aa45fa95d0e021d797f670",
+        "word_count": "794",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/08/sports/olympics/ap-oly-ath-bolt-speaks.html",
+        "snippet": "The \"Usain Bolt Variety Hour\" hit Brazil, big time, on Monday....",
+        "lead_paragraph": "The \"Usain Bolt Variety Hour\" hit Brazil, big time, on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Fast Feet: Bolt Says Sub-19 Seconds in 200 Still a Goal",
+          "print_headline": "Fast Feet: Bolt Says Sub-19 Seconds in 200 Still a Goal"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:25:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa464795d0e021d797f679",
+        "word_count": "653",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/08/sports/football/ap-fbn-bears-camp.html",
+        "snippet": "The season-ending knee injury Hroniss Grasu suffered over the weekend will hurt the Chicago Bears in different ways. Take it from Jay Cutler, and it's not just because he will have to adjust to another center....",
+        "lead_paragraph": "The season-ending knee injury Hroniss Grasu suffered over the weekend will hurt the Chicago Bears in different ways. Take it from Jay Cutler, and it's not just because he will have to adjust to another center.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bears Adjust After Losing Center to Season-Ending Injury",
+          "print_headline": "Bears Adjust After Losing Center to Season-Ending Injury"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:24:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa45e895d0e021d797f66d",
+        "word_count": "664",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/08/sports/olympics/ap-oly-rgu-mens-rugby-return.html",
+        "snippet": "Ben Ryan took his gold-medal favorite Fiji men's squad along to watch the women's rugby sevens quarterfinals, hoping their presence would inspire another Fijian team to win a race for the Pacific island nation's first Olympic medal....",
+        "lead_paragraph": "Ben Ryan took his gold-medal favorite Fiji men's squad along to watch the women's rugby sevens quarterfinals, hoping their presence would inspire another Fijian team to win a race for the Pacific island nation's first Olympic medal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Men's Rugby Ready for Rio After 92-Year Olympic Absence",
+          "print_headline": "Men's Rugby Ready for Rio After 92-Year Olympic Absence"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:18:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa457995d0e021d797f664",
+        "word_count": "686",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/08/us/ap-us-film-box-office.html",
+        "snippet": "DC Comics flashed the box-office might of Marvel at the weekend box office, where its \"Suicide Squad\" set a record for an August debut with $133.7 million, according to final tallies Monday....",
+        "lead_paragraph": "DC Comics flashed the box-office might of Marvel at the weekend box office, where its \"Suicide Squad\" set a record for an August debut with $133.7 million, according to final tallies Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Box Office Top 20: 'Suicide Squad' Dominates With $133.7M",
+          "print_headline": "Box Office Top 20: 'Suicide Squad' Dominates With $133.7M"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:17:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa456c95d0e021d797f663",
+        "word_count": "517",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/08/sports/ncaafootball/ap-fbc-michigan-st-qbs.html",
+        "snippet": "Michigan State coach Mark Dantonio is being cautious with his comments about his team's quarterback situation....",
+        "lead_paragraph": "Michigan State coach Mark Dantonio is being cautious with his comments about his team's quarterback situation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Coach Says O'Connor Is Spartans' 'Headline Guy' at QB",
+          "print_headline": "Coach Says O'Connor Is Spartans' 'Headline Guy' at QB"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:13:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa478195d0e021d797f699",
+        "word_count": "462",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/08/us/08reuters-rstrnt-brnd-menu-whopperito.html",
+        "snippet": "Burger King's popular Whopper is getting a Tex-Mex twist....",
+        "lead_paragraph": "Burger King's popular Whopper is getting a Tex-Mex twist.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Burger King Launches Whopperrito in U.S. Outlets",
+          "print_headline": "Burger King Launches Whopperrito in U.S. Outlets"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T22:15:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa459b95d0e021d797f667",
+        "word_count": "248",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/08/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/08/nytnow/08eveningss-slide-7AJ6/08eveningss-slide-7AJ6-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/08/nytnow/08eveningss-slide-7AJ6/08eveningss-slide-7AJ6-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/08/nytnow/08eveningss-slide-7AJ6/08eveningss-slide-7AJ6-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/08/nytnow/08eveningss-slide-7AJ6/08eveningss-slide-7AJ6-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/08/nytnow/08eveningss-slide-7AJ6/08eveningss-slide-7AJ6-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/08/nytnow/08eveningss-slide-7AJ6/08eveningss-slide-7AJ6-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-08T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57aa459095d0e021d797f666",
+        "word_count": "12",
+        "slideshow_credits": "Evan Vucci/Associated Press"
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

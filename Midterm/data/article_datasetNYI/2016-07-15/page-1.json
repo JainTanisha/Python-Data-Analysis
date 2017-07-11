@@ -1,0 +1,386 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1011,
+      "time": 48,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/sports/ap-mma-ufc-lesnar-doping-violation.html",
+        "snippet": "Former UFC heavyweight champion Brock Lesnar has been notified of a potential violation of the promotion's anti-doping policy from an out-of-competition drug test administered June 28....",
+        "lead_paragraph": "Former UFC heavyweight champion Brock Lesnar has been notified of a potential violation of the promotion's anti-doping policy from an out-of-competition drug test administered June 28.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Brock Lesnar: 'We Will Get to the Bottom' of Doping Test",
+          "print_headline": "Brock Lesnar: 'We Will Get to the Bottom' of Doping Test"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T23:29:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789ab1a38f0d829e63ddf52",
+        "word_count": "560",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/opinion/sunday/a-lesson-for-newt-gingrich-what-shariah-is-and-isnt.html",
+        "snippet": "His proposal for a religious inquisition is rife with misunderstanding....",
+        "lead_paragraph": "His proposal for a religious inquisition is rife with misunderstanding.",
+        "abstract": "Op-Ed article by law professor Noah Feldman attempts to clear up pervasive misunderstanding of concept of Shariah in light of Newt Gingrich's unconstitutional proposal to deport people who believe in it; notes while all Muslims believe Shariah is important part of their tradition and faith, there are wide disagreements about what it means in practice.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/opinion/sunday/17feldman/17feldman-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/opinion/sunday/17feldman/17feldman-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/opinion/sunday/17feldman/17feldman-articleLarge.jpg",
+            "height": 368,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/opinion/sunday/17feldman/17feldman-articleLarge.jpg",
+              "xlargeheight": "368"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/opinion/sunday/17feldman/17feldman-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/opinion/sunday/17feldman/17feldman-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Lesson for Newt Gingrich: What Shariah Is (and Isn\u2019t)",
+          "content_kicker": "Opinion",
+          "kicker": "Opinion",
+          "print_headline": "What Shariah Is (and Isn\u2019t)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gingrich, Newt"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Shariah (Islamic Law)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Constitution (US)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Religion-State Relations"
+          }
+        ],
+        "pub_date": "2016-07-15T23:25:13+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Noah",
+              "rank": 1,
+              "lastname": "FELDMAN"
+            }
+          ],
+          "original": "By NOAH FELDMAN"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "578970dd38f0d829e63ddede",
+        "word_count": "962",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/sports/baseball/ap-bba-indians-twins.html",
+        "snippet": "Mike Napoli had three hits, including his 19th home run, Carlos Carrasco pitched into the seventh inning and the Cleveland Indians beat the Minnesota Twins 5-2 on Friday night....",
+        "lead_paragraph": "Mike Napoli had three hits, including his 19th home run, Carlos Carrasco pitched into the seventh inning and the Cleveland Indians beat the Minnesota Twins 5-2 on Friday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Napoli, Carrasco Shine as Indians Topple Twins",
+          "print_headline": "Napoli, Carrasco Shine as Indians Topple Twins"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T23:14:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789a84038f0d829e63ddf50",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/sports/baseball/ap-bbn-rockies-braves.html",
+        "snippet": "Walt Weiss had specific instructions for his hitters before the game....",
+        "lead_paragraph": "Walt Weiss had specific instructions for his hitters before the game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rockies Use Pair of 4-Run Innings to Pummel Braves 11-2",
+          "print_headline": "Rockies Use Pair of 4-Run Innings to Pummel Braves 11-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T23:11:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789a6f338f0d829e63ddf4e",
+        "word_count": "737",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-blast-official.html",
+        "snippet": "Bomb attacks on Turkey's parliament are continuing, a senior Turkish official said on Saturday, adding that rebel soldiers have been warned they will be shot down if they attempt to use more military aircraft....",
+        "lead_paragraph": "Bomb attacks on Turkey's parliament are continuing, a senior Turkish official said on Saturday, adding that rebel soldiers have been warned they will be shot down if they attempt to use more military aircraft.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bomb Attacks Continue on Turkey's Parliament: Senior Official",
+          "print_headline": "Bomb Attacks Continue on Turkey's Parliament: Senior Official"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T23:06:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789a57138f0d829e63ddf4d",
+        "word_count": "79",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-shipping.html",
+        "snippet": "Maritime authorities shut Istanbul's Bosphorus Strait to transiting tankers on Saturday \"for security and safety\" reasons, shipping agent GAC said, after what the government said was an attempted coup by a faction in the military....",
+        "lead_paragraph": "Maritime authorities shut Istanbul's Bosphorus Strait to transiting tankers on Saturday \"for security and safety\" reasons, shipping agent GAC said, after what the government said was an attempted coup by a faction in the military.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Authorities Shut Istanbul's Bosphorus to Tankers for 'Security Reasons': Agent",
+          "print_headline": "Authorities Shut Istanbul's Bosphorus to Tankers for 'Security Reasons': Agent"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T23:04:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789a4b838f0d829e63ddf4c",
+        "word_count": "88",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/americas/15reuters-panama-noriega.html",
+        "snippet": "Former Panamanian dictator Manuel Noriega will undergo surgery to remove a benign brain tumour, his doctor said on Friday....",
+        "lead_paragraph": "Former Panamanian dictator Manuel Noriega will undergo surgery to remove a benign brain tumour, his doctor said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Panama's Ex-Dictator Noriega to Have Surgery on Brain Tumor",
+          "print_headline": "Panama's Ex-Dictator Noriega to Have Surgery on Brain Tumor"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T22:59:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789a35238f0d829e63ddf38",
+        "word_count": "101",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/us/ap-us-navy-sonar.html",
+        "snippet": "A federal appeals court ruled Friday that the U.S. Navy was wrongly allowed to use sonar that could harm whales and other marine life....",
+        "lead_paragraph": "A federal appeals court ruled Friday that the U.S. Navy was wrongly allowed to use sonar that could harm whales and other marine life.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Federal Appeals Court Rejects Navy Sonar-Use Rules",
+          "print_headline": "Federal Appeals Court Rejects Navy Sonar-Use Rules"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T22:46:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789a13d38f0d829e63ddf37",
+        "word_count": "341",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-casualties.html",
+        "snippet": "Forty-two people were killed in the Turkish capital Ankara during an attempted coup that started on Friday night, a senior Turkish official said, confirming an earlier report from state-run Anadolu Agency....",
+        "lead_paragraph": "Forty-two people were killed in the Turkish capital Ankara during an attempted coup that started on Friday night, a senior Turkish official said, confirming an earlier report from state-run Anadolu Agency.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Official Says 42 People Killed in Ankara During Turkish Coup Attempt",
+          "print_headline": "Official Says 42 People Killed in Ankara During Turkish Coup Attempt"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T22:42:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57899fd338f0d829e63ddf35",
+        "word_count": "50",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/sports/baseball/ap-bbn-brewers-reds.html",
+        "snippet": "The bottom two teams in the NL Central resumed the season with a game that came down to the last pitch. The last-place Reds got the better of it....",
+        "lead_paragraph": "The bottom two teams in the NL Central resumed the season with a game that came down to the last pitch. The last-place Reds got the better of it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Doubles by Duvall, Barnhart Rally Reds Over Brewers 5-4",
+          "print_headline": "Doubles by Duvall, Barnhart Rally Reds Over Brewers 5-4"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T22:32:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57899d0338f0d829e63ddf34",
+        "word_count": "737",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

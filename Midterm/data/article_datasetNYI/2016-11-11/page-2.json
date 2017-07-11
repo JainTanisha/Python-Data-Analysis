@@ -1,0 +1,717 @@
+{
+  "response": {
+    "meta": {
+      "hits": 811,
+      "time": 42,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/sports/golf/11reuters-golf-pga.html",
+        "snippet": "Long-hitting American Gary Woodland, benefiting from a timely tune-up with his swing coach in Las Vegas last week, charged into a one-shot lead after the second round of the OHL Classic at Mayakoba in Mexico on Friday....",
+        "lead_paragraph": "Long-hitting American Gary Woodland, benefiting from a timely tune-up with his swing coach in Las Vegas last week, charged into a one-shot lead after the second round of the OHL Classic at Mayakoba in Mexico on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Woodland Takes Over at the Top in Mexico",
+          "print_headline": "Woodland Takes Over at the Top in Mexico"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:09:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58264fb795d0e0204d560051",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/movies/shut-in-review-naomi-watts.html",
+        "snippet": "Ms. Watts plays a widowed child psychologist in a big, rambling house with one boy in a vegetative state and another who may be a ghost....",
+        "lead_paragraph": "Ms. Watts plays a widowed child psychologist in a big, rambling house with one boy in a vegetative state and another who may be a ghost.",
+        "abstract": null,
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/arts/12SHUTIN/12SHUTIN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/arts/12SHUTIN/12SHUTIN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/arts/12SHUTIN/12SHUTIN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/arts/12SHUTIN/12SHUTIN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/arts/12SHUTIN/12SHUTIN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/arts/12SHUTIN/12SHUTIN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Shut In\u2019 (Naomi Watts Should Really Get Out More)",
+          "print_headline": "A Fragile  Therapist  Hears Noises in the Night"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Watts, Naomi"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Shut In (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Blackburn, Farren"
+          }
+        ],
+        "pub_date": "2016-11-11T23:06:46Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeannette",
+              "rank": 1,
+              "lastname": "CATSOULIS"
+            }
+          ],
+          "original": "By JEANNETTE CATSOULIS"
+        },
+        "type_of_material": "Review",
+        "_id": "58264f0f95d0e0204d56004f",
+        "word_count": "273",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004624612/trailer-shut-in.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/01/movies/video-shut-in/video-shut-in-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/01/movies/video-shut-in/video-shut-in-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/01/movies/video-shut-in/video-shut-in-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/01/movies/video-shut-in/video-shut-in-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/01/movies/video-shut-in/video-shut-in-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/01/movies/video-shut-in/video-shut-in-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Shut In'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:06:40Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Europacorp",
+              "rank": 1
+            }
+          ],
+          "original": "By EuropaCORP"
+        },
+        "type_of_material": "Video",
+        "_id": "58264f0895d0e0204d56004e",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/11/briefing/donald-trump-leonard-cohen-mosul.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/11/briefing/11briefing-pmcore-slide-H55Y/11briefing-pmcore-slide-H55Y-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/11/briefing/11briefing-pmcore-slide-H55Y/11briefing-pmcore-slide-H55Y-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/11/briefing/11briefing-pmcore-slide-H55Y/11briefing-pmcore-slide-H55Y-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/11/briefing/11briefing-pmcore-slide-H55Y/11briefing-pmcore-slide-H55Y-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/11/briefing/11briefing-pmcore-slide-H55Y/11briefing-pmcore-slide-H55Y-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/11/briefing/11briefing-pmcore-slide-H55Y/11briefing-pmcore-slide-H55Y-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Leonard Cohen, Mosul: Your Friday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:01:20Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "58264dc795d0e0204d56004d",
+        "word_count": "838",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/us/politics/11reuters-usa-trump-environmentalists.html",
+        "snippet": "Seattle financial worker Harrison Karlewicz had been considering joining an environmental activist group for a while. The day after Donald Trump won the White House, he signed up....",
+        "lead_paragraph": "Seattle financial worker Harrison Karlewicz had been considering joining an environmental activist group for a while. The day after Donald Trump won the White House, he signed up.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Threat Fires Up U.S. Climate Activists, Draws in More",
+          "print_headline": "Trump Threat Fires Up U.S. Climate Activists, Draws in More"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:00:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58264d9695d0e0204d56004c",
+        "word_count": "708",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/sports/golf/ap-glf-ohl-classic.html",
+        "snippet": "Gary Woodland birdied three of the final four holes Friday for a 6-under 65 and a one-stroke lead in the PGA Tour's OHL Classic at Mayakoba....",
+        "lead_paragraph": "Gary Woodland birdied three of the final four holes Friday for a 6-under 65 and a one-stroke lead in the PGA Tour's OHL Classic at Mayakoba.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Gary Woodland Shoots 65, Leads OHL Classic at Mayakoba",
+          "print_headline": "Gary Woodland Shoots 65, Leads OHL Classic at Mayakoba"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:59:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58264d4795d0e0204d56004b",
+        "word_count": "522",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/arts/music/judy-collins-leonard-cohen-review.html",
+        "snippet": "Ms. Collins\u2019s latest engagement at Caf\u00e9 Carlyle emphatically shows that her pristine soprano is undiminished....",
+        "lead_paragraph": "Ms. Collins\u2019s latest engagement at Caf\u00e9 Carlyle emphatically shows that her pristine soprano is undiminished.",
+        "abstract": null,
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/arts/12COLLINS/12COLLINS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/arts/12COLLINS/12COLLINS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/arts/12COLLINS/12COLLINS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/arts/12COLLINS/12COLLINS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/arts/12COLLINS/12COLLINS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/arts/12COLLINS/12COLLINS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Judy Collins\u2019s Clear, Pure Brook of Song",
+          "print_headline": "A Lovely Brook of Song That\u2019s Still Clear and Pure"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Folk Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cafe Carlyle (Manhattan, NY)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Collins, Judy"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hest, Ari (1979- )"
+          }
+        ],
+        "pub_date": "2016-11-11T22:54:13Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 1,
+              "lastname": "HOLDEN"
+            }
+          ],
+          "original": "By STEPHEN HOLDEN"
+        },
+        "type_of_material": "Review",
+        "_id": "58264c1f95d0e0204d56004a",
+        "word_count": "412",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/arts/television/why-def-comedy-jam-gets-no-respect.html",
+        "snippet": "As HBO presents \u201cAll Def Comedy,\u201d it\u2019s time to set the record straight on its 1990s predecessor. A lot more was happening than just four-letter words....",
+        "lead_paragraph": "As HBO presents \u201cAll Def Comedy,\u201d it\u2019s time to set the record straight on its 1990s predecessor. A lot more was happening than just four-letter words.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/arts/12DEFCOMEDY/12DEFCOMEDY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/arts/12DEFCOMEDY/12DEFCOMEDY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/arts/12DEFCOMEDY/12DEFCOMEDY-articleLarge.jpg",
+            "height": 774,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/arts/12DEFCOMEDY/12DEFCOMEDY-articleLarge.jpg",
+              "xlargeheight": "774"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/arts/12DEFCOMEDY/12DEFCOMEDY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/arts/12DEFCOMEDY/12DEFCOMEDY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Why \u2018Def Comedy Jam\u2019 Gets No Respect",
+          "content_kicker": "On Comedy",
+          "kicker": "On Comedy",
+          "print_headline": "A Lot More Going On Than Four-Letter Words"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "All Def Comedy (TV Program)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Def Comedy Jam (TV Program)"
+          }
+        ],
+        "pub_date": "2016-11-11T22:53:36Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jason",
+              "rank": 1,
+              "lastname": "ZINOMAN"
+            }
+          ],
+          "original": "By JASON ZINOMAN"
+        },
+        "type_of_material": "News",
+        "_id": "58264bf695d0e0204d560049",
+        "word_count": "1101",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/us/ap-financial-markets-box.html",
+        "snippet": "U.S. stocks closed mostly higher Friday as a postelection rally lost some steam. Energy, health care and materials companies were among the biggest decliners. Consumer goods, technology and financials stocks notched gains. The S&amp;P 500 index st...",
+        "lead_paragraph": "U.S. stocks closed mostly higher Friday as a postelection rally lost some steam. Energy, health care and materials companies were among the biggest decliners. Consumer goods, technology and financials stocks notched gains. The S&amp;P 500 index still had its best weekly gain in two years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Dow Jones Industrial Average Fared on Friday",
+          "print_headline": "How the Dow Jones Industrial Average Fared on Friday"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:52:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58264baa95d0e0204d560048",
+        "word_count": "147",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/us/republicans-expand-control-in-a-deeply-divided-nation.html",
+        "snippet": "The nation may be almost evenly split between Democrats and Republicans, but Republicans now control almost every level of government...",
+        "lead_paragraph": "The nation may be almost evenly split between Democrats and Republicans, but Republicans now control almost every level of government",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/us/12REPUBS1/12REPUBS1-articleLarge.jpg",
+            "height": 497,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/us/12REPUBS1/12REPUBS1-articleLarge.jpg",
+              "xlargeheight": "497"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/us/12REPUBS1/12REPUBS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Republicans Expand Control in a Deeply Divided Nation",
+          "print_headline": "U.S. Divided, but G.O.P. Dominates"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Wisconsin"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+          }
+        ],
+        "pub_date": "2016-11-11T22:51:43Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julie",
+              "rank": 1,
+              "lastname": "BOSMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Monica",
+              "rank": 2,
+              "lastname": "DAVEY"
+            }
+          ],
+          "original": "By JULIE BOSMAN and MONICA DAVEY"
+        },
+        "type_of_material": "News",
+        "_id": "58264b8795d0e0204d560047",
+        "word_count": "1566",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

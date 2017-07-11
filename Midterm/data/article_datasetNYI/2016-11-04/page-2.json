@@ -1,0 +1,373 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 86,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-electric-car.html",
+        "snippet": "It can go more than 200 miles on battery power and it costs less than the average new vehicle in the U.S. But in an era of $2 per gallon gasoline, the Chevrolet Bolt probably won't do a whole lot to shift America from gasoline to electricity....",
+        "lead_paragraph": "It can go more than 200 miles on battery power and it costs less than the average new vehicle in the U.S. But in an era of $2 per gallon gasoline, the Chevrolet Bolt probably won't do a whole lot to shift America from gasoline to electricity.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "GM Starts Producing 200-Mile Electric Chevrolet Bolt",
+          "print_headline": "GM Starts Producing 200-Mile Electric Chevrolet Bolt"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:03:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d13e795d0e01ffc1e199a",
+        "word_count": "619",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/opinion/united-loyalties.html",
+        "snippet": "What a World Series \u2014 especially if you\u2019ve played for both the Cubs and Terry Francona....",
+        "lead_paragraph": "What a World Series \u2014 especially if you\u2019ve played for both the Cubs and Terry Francona.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/opinion/05glanvilleWeb/05glanvilleWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/opinion/05glanvilleWeb/05glanvilleWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/opinion/05glanvilleWeb/05glanvilleWeb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/opinion/05glanvilleWeb/05glanvilleWeb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/opinion/05glanvilleWeb/05glanvilleWeb-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/opinion/05glanvilleWeb/05glanvilleWeb-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "United Loyalties",
+          "content_kicker": "Contributing Op-Ed Writer",
+          "kicker": "Op-Ed | Doug Glanville"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Philadelphia (Pa)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Chicago Cubs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Philadelphia Phillies"
+          }
+        ],
+        "pub_date": "2016-11-04T23:02:28Z",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Doug",
+              "rank": 1,
+              "lastname": "GLANVILLE"
+            }
+          ],
+          "original": "By DOUG GLANVILLE"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "581d138b95d0e01ffc1e1999",
+        "word_count": "1178",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-polio-like-syndrome-children.html",
+        "snippet": "Eight of nine children hospitalized in Washington state for a polio-like illness have a rare syndrome that causes varying degrees of limb weakness, state health officials confirmed on Friday....",
+        "lead_paragraph": "Eight of nine children hospitalized in Washington state for a polio-like illness have a rare syndrome that causes varying degrees of limb weakness, state health officials confirmed on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Washington State Polio-Like Cases Linked to Rare Syndrome",
+          "print_headline": "Washington State Polio-Like Cases Linked to Rare Syndrome"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:01:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d136795d0e01ffc1e1998",
+        "word_count": "400",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Guest Lineups for the Sunday News Shows",
+          "print_headline": "Guest Lineups for the Sunday News Shows"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:01:07Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d133995d0e01ffc1e1997",
+        "word_count": "76",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-turkey-bombing-is-claim.html",
+        "snippet": "The SITE Intelligence Group reports that the Islamic State group has claimed responsibility for a car bomb attack in Diyarbakir, Turkey, that left nine people dead....",
+        "lead_paragraph": "The SITE Intelligence Group reports that the Islamic State group has claimed responsibility for a car bomb attack in Diyarbakir, Turkey, that left nine people dead.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: IS Group Claims Responsibility for Turkey Attack",
+          "print_headline": "Report: IS Group Claims Responsibility for Turkey Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:58:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d12a695d0e01ffc1e1996",
+        "word_count": "86",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-officers-shot-nypd-the-latest.html",
+        "snippet": "The Latest on the fatal shooting of a New York police sergeant (all times local):...",
+        "lead_paragraph": "The Latest on the fatal shooting of a New York police sergeant (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Slain Police Sergeant IDed as 19-Year NYPD Vet",
+          "print_headline": "The Latest: Slain Police Sergeant IDed as 19-Year NYPD Vet"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:58:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d12a295d0e01ffc1e1995",
+        "word_count": "288",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-prison-contracts-bribery.html",
+        "snippet": "A federal judge revoked the bail of Mississippi's former corrections commissioner and sent him to jail Friday to await sentencing in a corruption case after finding he had probably committed a crime when he took outdoor lights from a home he forfe...",
+        "lead_paragraph": "A federal judge revoked the bail of Mississippi's former corrections commissioner and sent him to jail Friday to await sentencing in a corruption case after finding he had probably committed a crime when he took outdoor lights from a home he forfeited to the federal government.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Mississippi Prisons Chief to Be Jailed Until Sentencing",
+          "print_headline": "Ex-Mississippi Prisons Chief to Be Jailed Until Sentencing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:58:26Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d129895d0e01ffc1e1994",
+        "word_count": "621",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-sheriff-indicted-the-latest.html",
+        "snippet": "The Latest on the trial of a Louisiana sheriff accused of federal civil rights violations after deputies beat inmates (all times local):...",
+        "lead_paragraph": "The Latest on the trial of a Louisiana sheriff accused of federal civil rights violations after deputies beat inmates (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Acquitted Sheriff 'Hurt' by Deputies' Claims",
+          "print_headline": "The Latest: Acquitted Sheriff 'Hurt' by Deputies' Claims"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:58:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d129295d0e01ffc1e1993",
+        "word_count": "338",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/us/politics/04reuters-usa-election-poll-marist.html",
+        "snippet": "Democratic presidential candidate Hillary Clinton leads Republican Donald Trump by 2 percentage points in the White House race, according to a McClatchy-Marist poll released on Friday....",
+        "lead_paragraph": "Democratic presidential candidate Hillary Clinton leads Republican Donald Trump by 2 percentage points in the White House race, according to a McClatchy-Marist poll released on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Leading Trump by 2 Points in McClatchy-Marist Poll",
+          "print_headline": "Clinton Leading Trump by 2 Points in McClatchy-Marist Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:54:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d11b395d0e01ffc1e1992",
+        "word_count": "79",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/us/politics/04reuters-usa-election-poll-washington-post.html",
+        "snippet": "Democratic presidential nominee Hillary Clinton leads Republican Donald Trump by 4 percentage points in a four-war race for the Nov. 8 election, according to a Washington Post-ABC News opinion poll of likely voters released on Friday....",
+        "lead_paragraph": "Democratic presidential nominee Hillary Clinton leads Republican Donald Trump by 4 percentage points in a four-war race for the Nov. 8 election, according to a Washington Post-ABC News opinion poll of likely voters released on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Leads Trump by 4 Points in Washington Post: ABC News Poll",
+          "print_headline": "Clinton Leads Trump by 4 Points in Washington Post: ABC News Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:54:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d11b395d0e01ffc1e1991",
+        "word_count": "89",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

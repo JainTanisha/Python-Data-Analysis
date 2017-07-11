@@ -1,0 +1,579 @@
+{
+  "response": {
+    "meta": {
+      "hits": 419,
+      "time": 94,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/books/newly-released-books.html",
+        "snippet": "From an Antarctic research base to a Southern California church group: new books by Helen Sedgwick, Jade Chang, Ge Fei and Brit Bennett....",
+        "lead_paragraph": "From an Antarctic research base to a Southern California church group: new books by Helen Sedgwick, Jade Chang, Ge Fei and Brit Bennett.",
+        "abstract": "Carmela Ciuraru reviews novels The Wangs vs the World by Jade Chang, The Comet Seekers by Helen Sedgwick, The Invisibility Cloak by Liu Yong, under pen name Ge Fei, and The Mothers by Brit Bennett. ",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31BOOKNEWLY1/31BOOKNEWLY1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31BOOKNEWLY1/31BOOKNEWLY1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31BOOKNEWLY4/31BOOKNEWLY4-articleLarge.jpg",
+            "height": 907,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31BOOKNEWLY4/31BOOKNEWLY4-articleLarge.jpg",
+              "xlargeheight": "907"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31BOOKNEWLY1/31BOOKNEWLY1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31BOOKNEWLY1/31BOOKNEWLY1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Newly Released Books",
+          "print_headline": "Newly Released"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bennett, Brit"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Chang, Jade"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Invisibility Cloak (Book)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Liu Yong (Ge Fei)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sedgwick, Helen"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Mothers (Book)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Comet Seekers (Book)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Wangs vs the World (Book)"
+          }
+        ],
+        "pub_date": "2016-10-30T21:39:12+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Carmela",
+              "rank": 1,
+              "lastname": "CIURARU"
+            }
+          ],
+          "original": "By CARMELA CIURARU"
+        },
+        "type_of_material": "Review",
+        "_id": "5816688495d0e022439c6145",
+        "word_count": "1010",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/football/ap-fbn-nfl-capsules.html",
+        "snippet": "Dak Prescott threw a 5-yard touchdown pass to Jason Witten in overtime, giving the Dallas Cowboys their sixth straight win with a 29-23 victory over the Philadelphia Eagles on Sunday night....",
+        "lead_paragraph": "Dak Prescott threw a 5-yard touchdown pass to Jason Witten in overtime, giving the Dallas Cowboys their sixth straight win with a 29-23 victory over the Philadelphia Eagles on Sunday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NFL Capsules",
+          "print_headline": "NFL Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:36:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581667f495d0e022439c6144",
+        "word_count": "1740",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/arts/music/jenufa-review.html",
+        "snippet": "This revival stars Karita Mattila as the self-appointed moral guardian who kills her stepdaughter\u2019s out-of-wedlock child....",
+        "lead_paragraph": "This revival stars Karita Mattila as the self-appointed moral guardian who kills her stepdaughter\u2019s out-of-wedlock child.",
+        "abstract": "Zachary Woolfe reviews Metropolitan Opera production of Janacek\u2019s Jenufa, directed by Olivier Tambosi and starring soprano Karita Mattila.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31JENUFA/31JENUFA-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31JENUFA/31JENUFA-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31JENUFA/31JENUFA-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31JENUFA/31JENUFA-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31JENUFA/31JENUFA-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31JENUFA/31JENUFA-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Jenufa\u2019 With Signature Vocals and a Really Big Rock",
+          "print_headline": "The Village May Be Little, but the Lies Are Big"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Jenufa (Opera)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Janacek, Leos"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mattila, Karita"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Metropolitan Opera"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Tambosi, Olivier"
+          }
+        ],
+        "pub_date": "2016-10-30T21:36:25+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zachary",
+              "rank": 1,
+              "lastname": "WOOLFE"
+            }
+          ],
+          "original": "By ZACHARY WOOLFE"
+        },
+        "type_of_material": "Review",
+        "_id": "581667e095d0e022439c6143",
+        "word_count": "528",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/business/treasury-auctions-set-for-the-week-of-oct-31.html",
+        "snippet": "The following tax-exempt fixed-income issues are scheduled for pricing this week....",
+        "lead_paragraph": "The following tax-exempt fixed-income issues are scheduled for pricing this week.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Treasury Auctions Set for the Week of Oct. 31",
+          "print_headline": "U.S. Treasury Auctions to Be Held the Week of Oct. 31"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Stocks and Bonds"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Auctions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Municipal Bonds"
+          }
+        ],
+        "pub_date": "2016-10-30T21:34:13+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Schedule",
+        "_id": "5816676495d0e022439c6142",
+        "word_count": "753",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/world/americas/ap-lt-brazil-municipal-elections.html",
+        "snippet": "Known to the world for its skin-baring beach culture and exuberant Carnival parades, Rio de Janeiro overwhelmingly chose an evangelical bishop as a mayor Sunday, signaling a resurgence of conservatism in Latin America's largest nation....",
+        "lead_paragraph": "Known to the world for its skin-baring beach culture and exuberant Carnival parades, Rio de Janeiro overwhelmingly chose an evangelical bishop as a mayor Sunday, signaling a resurgence of conservatism in Latin America's largest nation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Evangelical Bishop Wins Runoff Election for Rio Mayor",
+          "print_headline": "Evangelical Bishop Wins Runoff Election for Rio Mayor"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:33:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5816673f95d0e022439c6141",
+        "word_count": "352",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/arts/dance/review-mark-morris-is-a-citizen-of-the-world-at-the-white-light-festival.html",
+        "snippet": "In four pieces, Mr. Morris\u2019s troupe drew from South Asian idioms as well as Native American and other influences....",
+        "lead_paragraph": "In four pieces, Mr. Morris\u2019s troupe drew from South Asian idioms as well as Native American and other influences.",
+        "abstract": "Alastair Macaulay reviews performance by Mark Morris Dance Group, including world premiere of piece Pure Dance Items, at Gerald W Lynch Theater as part of Lincoln Center's White Light Festival.   ",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31MARKMORRIS1/31MARKMORRIS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31MARKMORRIS1/31MARKMORRIS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31MARKMORRIS1/31MARKMORRIS1-articleLarge.jpg",
+            "height": 613,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31MARKMORRIS1/31MARKMORRIS1-articleLarge.jpg",
+              "xlargeheight": "613"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31MARKMORRIS1/31MARKMORRIS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31MARKMORRIS1/31MARKMORRIS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Mark Morris Is a Citizen of the World at the White Light Festival",
+          "print_headline": "Mark Morris Embraces His Inner Citizen of the World"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "White Light Festival (Lincoln Center, NYC)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Morris, Mark"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Morris, Mark, Dance Group"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "O Rangasayee (Dance)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The 'Tamil Film Songs in Stereo' Pas de Deux (Dance)"
+          }
+        ],
+        "pub_date": "2016-10-30T21:27:58+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alastair",
+              "rank": 1,
+              "lastname": "MACAULAY"
+            }
+          ],
+          "original": "By ALASTAIR MACAULAY"
+        },
+        "type_of_material": "Review",
+        "_id": "581665e395d0e022439c6140",
+        "word_count": "965",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/us/ap-us-police-chief-motorcycle-accident.html",
+        "snippet": "Authorities say Los Angeles police Chief Charlie Beck has fractured his pelvis in an off-road motorcycle accident....",
+        "lead_paragraph": "Authorities say Los Angeles police Chief Charlie Beck has fractured his pelvis in an off-road motorcycle accident.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "LA Police Chief Injured in Off-Road Motorcycle Accident",
+          "print_headline": "LA Police Chief Injured in Off-Road Motorcycle Accident"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:27:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581665d195d0e022439c613f",
+        "word_count": "109",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/soccer/bc-soc-mls-red-bulls-impact.html",
+        "snippet": "Matteo Mancosu scored in the second half and the Montreal Impact beat the New York Red Bulls 1-0 on Sunday in the opening match of their MLS Eastern Conference semifinal series....",
+        "lead_paragraph": "Matteo Mancosu scored in the second half and the Montreal Impact beat the New York Red Bulls 1-0 on Sunday in the opening match of their MLS Eastern Conference semifinal series.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mancosu Scores, Impact Beat Red Bulls 1-0 in Game 1",
+          "print_headline": "Mancosu Scores, Impact Beat Red Bulls 1-0 in Game 1"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:24:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5816652d95d0e022439c613e",
+        "word_count": "339",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/football/ap-fbn-raiders-buccaneers.html",
+        "snippet": "Derek Carr kept throwing touchdowns and the officials kept throwing flags as both set records as the Oakland Raiders defeated Tampa Bay 30-24 in overtime on Sunday....",
+        "lead_paragraph": "Derek Carr kept throwing touchdowns and the officials kept throwing flags as both set records as the Oakland Raiders defeated Tampa Bay 30-24 in overtime on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Carr Throws for 4 TDs, Raiders Outlast Bucs 30-24 in OT",
+          "print_headline": "Carr Throws for 4 TDs, Raiders Outlast Bucs 30-24 in OT"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:22:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5816647f95d0e022439c613d",
+        "word_count": "732",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/business/30reuters-honeywell-intl-businessjets-outlook.html",
+        "snippet": "Business jet makers will deliver fewer planes next year, deepening a downward spiral caused by slow global growth, political tensions and low oil prices, according to a forecast Honeywell International Inc released on Sunday....",
+        "lead_paragraph": "Business jet makers will deliver fewer planes next year, deepening a downward spiral caused by slow global growth, political tensions and low oil prices, according to a forecast Honeywell International Inc released on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Jet Deliveries to Fall Next Year, Honeywell Says",
+          "print_headline": "Business Jet Deliveries to Fall Next Year, Honeywell Says"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:21:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5816646495d0e022439c613c",
+        "word_count": "323",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

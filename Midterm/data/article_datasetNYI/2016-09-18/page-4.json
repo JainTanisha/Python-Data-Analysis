@@ -1,0 +1,524 @@
+{
+  "response": {
+    "meta": {
+      "hits": 620,
+      "time": 47,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/09/19/us/2-former-albuquerque-officers-on-trial-in-killing-of-homeless-man.html",
+        "snippet": "The two former officers face charges of second-degree murder after shooting the homeless man, James Boyd, four hours into a standoff in 2014....",
+        "lead_paragraph": "The two former officers face charges of second-degree murder after shooting the homeless man, James Boyd, four hours into a standoff in 2014.",
+        "abstract": null,
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/19/us/19policetrial1/19policetrial1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/19/us/19policetrial1/19policetrial1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/19/us/19policetrial1/19policetrial1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/19/us/19policetrial1/19policetrial1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/19/us/19policetrial1/19policetrial1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/19/us/19policetrial1/19policetrial1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2 Former Albuquerque Officers on Trial in Killing of Homeless Man",
+          "print_headline": "Two Former Albuquerque Officers Are on Trial in the Killing of a Homeless Man"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Albuquerque (NM)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Boyd, James M (1976-2014)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Homeless Persons"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sandy, Keith P (1975- )"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Perez, Dominique W (1981- )"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mental Health and Disorders"
+          }
+        ],
+        "pub_date": "2016-09-18T22:34:20+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Jeff Proctor reported from Albuquerque, and Fernanda Santos from Phoenix.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeff",
+              "rank": 1,
+              "lastname": "PROCTOR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Fernanda",
+              "rank": 2,
+              "lastname": "SANTOS"
+            }
+          ],
+          "original": "By JEFF PROCTOR and FERNANDA SANTOS"
+        },
+        "type_of_material": "News",
+        "_id": "57df167595d0e021d7986f8d",
+        "word_count": "1023",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/baseball/ap-bba-athletics-rangers.html",
+        "snippet": "Colby Lewis has been a successful postseason pitcher for the Rangers, and the veteran right-hander is trying to get back on track with Texas closing in on another AL West title....",
+        "lead_paragraph": "Colby Lewis has been a successful postseason pitcher for the Rangers, and the veteran right-hander is trying to get back on track with Texas closing in on another AL West title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lewis Working Toward Playoffs but Rangers Lose 5-2 to A's",
+          "print_headline": "Lewis Working Toward Playoffs but Rangers Lose 5-2 to A's"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:32:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df165e95d0e021d7986f8c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-redskins-cousins-troubles.html",
+        "snippet": "As Kirk Cousins goes, so go the Washington Redskins. That's the way it was on the way to an NFC East title last season &#8212; and that's the way it's been on the way to an 0-2 start this season....",
+        "lead_paragraph": "As Kirk Cousins goes, so go the Washington Redskins. That's the way it was on the way to an NFC East title last season &#8212; and that's the way it's been on the way to an 0-2 start this season.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "With Cousins Throwing Another Pick, Redskins Fall to 0-2",
+          "print_headline": "With Cousins Throwing Another Pick, Redskins Fall to 0-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:30:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df165295d0e021d7986f8b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/football/ap-fbn-steelers-williams.html",
+        "snippet": "DeAngelo Williams isn't obsessed with his numbers. The Pittsburgh Steelers running back isn't really keeping track of them anyway, though if he's being honest he's getting a little tired of his age coming up in nearly every conversation....",
+        "lead_paragraph": "DeAngelo Williams isn't obsessed with his numbers. The Pittsburgh Steelers running back isn't really keeping track of them anyway, though if he's being honest he's getting a little tired of his age coming up in nearly every conversation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Williams Hardly Acting His Age for Steelers",
+          "print_headline": "Williams Hardly Acting His Age for Steelers"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:24:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df14dc95d0e021d7986f8a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/arts/18reuters-people-charmiancarr.html",
+        "snippet": "Charmian Carr, beloved by fans for her role as the rebellious daughter, Liesl Von Trapp, in the Academy Award-winning film \"The Sound of Music,\" has died at the age of 73, her family said on Sunday....",
+        "lead_paragraph": "Charmian Carr, beloved by fans for her role as the rebellious daughter, Liesl Von Trapp, in the Academy Award-winning film \"The Sound of Music,\" has died at the age of 73, her family said on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Charmian Carr, Who Played 'Sound of Music's Liesl, Dies at Age 73",
+          "print_headline": "Charmian Carr, Who Played 'Sound of Music's Liesl, Dies at Age 73"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:24:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df14d895d0e021d7986f89",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/18/sports/hockey/18reuters-icehockey-wordlcup.html",
+        "snippet": "Jacob Markstrom stepped in admirably for Henrik Lundqvist as Sweden held on to beat Russia while Team North America dazzled in their debut with a dominant win over Finland at the World Cup of Hockey on Sunday....",
+        "lead_paragraph": "Jacob Markstrom stepped in admirably for Henrik Lundqvist as Sweden held on to beat Russia while Team North America dazzled in their debut with a dominant win over Finland at the World Cup of Hockey on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ice Hockey: Sweden Top Russia, North America Stun Finland",
+          "print_headline": "Ice Hockey: Sweden Top Russia, North America Stun Finland"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:21:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57df142795d0e021d7986f87",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/18/fashion/emmy-red-carpet-fashion-2016.html",
+        "snippet": "When it comes to the red carpet fashion, it\u2019s the actresses who do all the heavy lifting....",
+        "lead_paragraph": "When it comes to the red carpet fashion, it\u2019s the actresses who do all the heavy lifting.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/25/fashion/18EMMYREDCARPET35/18EMMYREDCARPET35-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/25/fashion/18EMMYREDCARPET35/18EMMYREDCARPET35-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/25/fashion/18EMMYREDCARPET35/18EMMYREDCARPET35-articleLarge.jpg",
+            "height": 901,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/25/fashion/18EMMYREDCARPET35/18EMMYREDCARPET35-articleLarge.jpg",
+              "xlargeheight": "901"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/25/fashion/18EMMYREDCARPET35/18EMMYREDCARPET35-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/25/fashion/18EMMYREDCARPET35/18EMMYREDCARPET35-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Red Carpet Review: Tuxes Are Easy. It\u2019s the Emmy Gowns That Demand Effort.",
+          "print_headline": "Tuxes Are Easy. Gowns Take Effort."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Celebrities"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Emmy Awards"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ferrera, America"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Women and Girls"
+          }
+        ],
+        "pub_date": "2016-09-18T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 1,
+              "lastname": "SCHNEIER"
+            }
+          ],
+          "original": "By MATTHEW SCHNEIER"
+        },
+        "type_of_material": "News",
+        "_id": "57df122595d0e021d7986f84",
+        "word_count": "743",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/sports/baseball/ap-bba-blue-jays-angels-bee-delay.html",
+        "snippet": "Toronto slugger Edwin Encarnacion swatted at a swarm of bees that descended on Angel Stadium, and the game between the Blue Jays and Los Angeles was delayed 13 minutes Sunday until the insects flew away....",
+        "lead_paragraph": "Toronto slugger Edwin Encarnacion swatted at a swarm of bees that descended on Angel Stadium, and the game between the Blue Jays and Los Angeles was delayed 13 minutes Sunday until the insects flew away.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Swings, No Stings: Blue Jays-Angels Delayed by Swarm of Bees",
+          "print_headline": "Swings, No Stings: Blue Jays-Angels Delayed by Swarm of Bees"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:12:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df122495d0e021d7986f83",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/18/fashion/emmy-red-carpet-fashion-2016.html",
+        "snippet": "See what celebrities like Regina King, Rami Malek and Tatiana Maslany wore to television\u2019s biggest night....",
+        "lead_paragraph": "See what celebrities like Regina King, Rami Malek and Tatiana Maslany wore to television\u2019s biggest night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/19/fashion/19EMMY6-combo/19EMMY6-combo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/19/fashion/19EMMY6-combo/19EMMY6-combo-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/19/fashion/19EMMY6-combo/19EMMY6-combo-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/19/fashion/19EMMY6-combo/19EMMY6-combo-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/19/fashion/19EMMY6-combo/19EMMY6-combo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/19/fashion/19EMMY6-combo/19EMMY6-combo-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Emmy Red Carpet Fashion 2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Emmy Awards"
+          }
+        ],
+        "pub_date": "2016-09-18T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57df120495d0e021d7986f82",
+        "word_count": "16",
+        "slideshow_credits": "Left and center: Jordan Strauss/Invision, via Associated Press; right: Lucy Nicholson/Reuters"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/18/us/ap-us-sidewalk-death.html",
+        "snippet": "A former Glendale city manager says the city should pay him $1 million because his wife died after a wheelchair accident on an uneven sidewalk....",
+        "lead_paragraph": "A former Glendale city manager says the city should pay him $1 million because his wife died after a wheelchair accident on an uneven sidewalk.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Seeks $1M From City After Wife's Fatal Sidewalk Accident",
+          "print_headline": "Man Seeks $1M From City After Wife's Fatal Sidewalk Accident"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-18T22:09:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57df117395d0e021d7986f81",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

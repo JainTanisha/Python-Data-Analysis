@@ -1,0 +1,432 @@
+{
+  "response": {
+    "meta": {
+      "hits": 886,
+      "time": 71,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/27/us/27reuters-california-murder-furries.html",
+        "snippet": "Two men were charged on Tuesday in the triple murder of a Southern California couple and their friend in what local media reported may have been a crime among the so-called \"furry\" community of people who dress up in animal costumes....",
+        "lead_paragraph": "Two men were charged on Tuesday in the triple murder of a Southern California couple and their friend in what local media reported may have been a crime among the so-called \"furry\" community of people who dress up in animal costumes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Two California Men Charged in Suspected Murder Among 'Furries'",
+          "print_headline": "Two California Men Charged in Suspected Murder Among 'Furries'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:11:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaeede95d0e021d7988b32",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/27/world/europe/27reuters-greece-quake.html",
+        "snippet": "A quake measuring 5.4 struck off the coast of the Greek island of Rhodes late on Tuesday, Athens Geodynamic Institute reported, but there were no reports of damage or casualties....",
+        "lead_paragraph": "A quake measuring 5.4 struck off the coast of the Greek island of Rhodes late on Tuesday, Athens Geodynamic Institute reported, but there were no reports of damage or casualties.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Magnitude 5.4 Quake Hits Off Greek Island of Rhodes, No Damage",
+          "print_headline": "Magnitude 5.4 Quake Hits Off Greek Island of Rhodes, No Damage"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:10:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaeed695d0e021d7988b31",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/27/sports/soccer/27reuters-soccer-champions-amo-lev.html",
+        "snippet": "AS Monaco's Kamil Glik scored a fine goal in the fifth minute of stoppage time to salvage a 1-1 home draw with Bayer Leverkusen and keep them top of Champions League Group E on Tuesday....",
+        "lead_paragraph": "AS Monaco's Kamil Glik scored a fine goal in the fifth minute of stoppage time to salvage a 1-1 home draw with Bayer Leverkusen and keep them top of Champions League Group E on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Glik Strikes Late to Salvage Draw for Monaco",
+          "print_headline": "Glik Strikes Late to Salvage Draw for Monaco"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:10:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaeee095d0e021d7988b33",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/science/space/100000004674931/what-mars-mission-might-look-like.html",
+        "snippet": "SpaceX, Elon Musk\u2019s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the planet....",
+        "lead_paragraph": "SpaceX, Elon Musk\u2019s rocket company, released a video simulation of a journey to Mars. His plan is for spacecraft that would take 100 passengers to the planet.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/28/science/27MARS/27MARS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/28/science/27MARS/27MARS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/28/science/27MARS/27MARS-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/28/science/27MARS/27MARS-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/28/science/27MARS/27MARS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/28/science/27MARS/27MARS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What Mars Mission Might Look Like"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mars (Planet)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Private Spaceflight"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Space and Astronomy"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Space Exploration Technologies Corp"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Musk, Elon"
+          }
+        ],
+        "pub_date": "2016-09-27T22:12:01+0000",
+        "document_type": "multimedia",
+        "news_desk": "Science / Space & Cosmos",
+        "section_name": "Science",
+        "subsection_name": "Space & Cosmos",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Spacex",
+              "rank": 1
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 2
+            }
+          ],
+          "original": "By SPACEX, VIA REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57eaeeb895d0e021d7988b30",
+        "word_count": "27",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/27/sports/hockey/27reuters-olympics-icehockey.html",
+        "snippet": "The chances of the National Hockey League shutting down to allow players to compete at the 2018 Winter Games continue to dim, said NHL deputy commissioner Bill Daly on Tuesday as the decision deadlines fast approaches....",
+        "lead_paragraph": "The chances of the National Hockey League shutting down to allow players to compete at the 2018 Winter Games continue to dim, said NHL deputy commissioner Bill Daly on Tuesday as the decision deadlines fast approaches.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Winter Games Negotiations Stalled Says NHL",
+          "print_headline": "Winter Games Negotiations Stalled Says NHL"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:08:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaee2995d0e021d7988b2f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/27/business/27reuters-hedgefunds-thaler.html",
+        "snippet": "John Thaler, the tech, media and telecom stock specialist who shut down his hedge fund firm JAT Capital Management LP in 2015, is considering a return to managing other people's money, including launching a new hedge fund, two people familiar with...",
+        "lead_paragraph": "John Thaler, the tech, media and telecom stock specialist who shut down his hedge fund firm JAT Capital Management LP in 2015, is considering a return to managing other people's money, including launching a new hedge fund, two people familiar with the matter told Reuters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Onetime Rising Hedge Fund Star John Thaler Considers Comeback",
+          "print_headline": "Onetime Rising Hedge Fund Star John Thaler Considers Comeback"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:05:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaed7295d0e021d7988b2d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/27/us/ap-us-people-mary-j-blige-hillary-clinton.html",
+        "snippet": "A pair of clips teasing Mary J. Blige's interview with Hillary Clinton on her upcoming Apple Music show \"The 411\" isn't winning over social media users....",
+        "lead_paragraph": "A pair of clips teasing Mary J. Blige's interview with Hillary Clinton on her upcoming Apple Music show \"The 411\" isn't winning over social media users.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Blige, Clinton Interview Clips Face Ridicule Online",
+          "print_headline": "Blige, Clinton Interview Clips Face Ridicule Online"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:00:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaecef95d0e021d7988b2b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/27/world/europe/27reuters-ukraine-crisis-mh17.html",
+        "snippet": "An international team of prosecutors investigating the downing of a Malaysian airliner over eastern Ukraine in 2014 will report findings on Wednesday but are unlikely to bring charges against anyone, given legal and political obstacles....",
+        "lead_paragraph": "An international team of prosecutors investigating the downing of a Malaysian airliner over eastern Ukraine in 2014 will report findings on Wednesday but are unlikely to bring charges against anyone, given legal and political obstacles.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Investigators to Report on 2014 Downing of Malaysian Airliner Over Ukraine",
+          "print_headline": "Investigators to Report on 2014 Downing of Malaysian Airliner Over Ukraine"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T22:02:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaecc095d0e021d7988b29",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/27/briefing/presidential-debate-chris-christie-us-senate.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/27/nytnow/27eveningss-slide-SSFS/27eveningss-slide-SSFS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/27/nytnow/27eveningss-slide-SSFS/27eveningss-slide-SSFS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/27/nytnow/27eveningss-slide-SSFS/27eveningss-slide-SSFS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/27/nytnow/27eveningss-slide-SSFS/27eveningss-slide-SSFS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/27/nytnow/27eveningss-slide-SSFS/27eveningss-slide-SSFS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/27/nytnow/27eveningss-slide-SSFS/27eveningss-slide-SSFS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Presidential Debate, Chris Christie, U.S. Senate: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57eaec9495d0e021d7988b28",
+        "word_count": "949",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/27/us/ap-us-officer-charged-fbi-review.html",
+        "snippet": "A federal judge has rejected a bid to reduce the charges against a fired Pittsburgh police sergeant accused of using excessive force on a drunken fan at a high school football championship game last year....",
+        "lead_paragraph": "A federal judge has rejected a bid to reduce the charges against a fired Pittsburgh police sergeant accused of using excessive force on a drunken fan at a high school football championship game last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Rejects Bid to Reduce Charges Against Ex-Officer",
+          "print_headline": "Judge Rejects Bid to Reduce Charges Against Ex-Officer"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-27T21:57:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57eaec5095d0e021d7988b27",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

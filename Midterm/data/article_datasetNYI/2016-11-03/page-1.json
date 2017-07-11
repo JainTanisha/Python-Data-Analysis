@@ -1,0 +1,625 @@
+{
+  "response": {
+    "meta": {
+      "hits": 967,
+      "time": 135,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/us/03reuters-usa-election-militia.html",
+        "snippet": "Some call them militia. They call themselves patriots....",
+        "lead_paragraph": "Some call them militia. They call themselves patriots.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "A Year Inside America's Militia",
+          "print_headline": "A Year Inside America's Militia"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:48:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bccdd95d0e01ffc1e15dd",
+        "word_count": "828",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/nyregion/as-strollers-roll-through-new-york-city-grit-and-muck-an-industry-is-born.html",
+        "snippet": "Businesses are vying for a slice of the stroller-cleaning market in New York, where the buggies, often doubling as grocery carts or portable playpens, can become particularly filthy....",
+        "lead_paragraph": "Businesses are vying for a slice of the stroller-cleaning market in New York, where the buggies, often doubling as grocery carts or portable playpens, can become particularly filthy.",
+        "abstract": "Profile of two services that steam-clean baby strollers in New York City, where sidewalks offer wide variety of often-mysterious muck and grit. ",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/nyregion/04stroller-illo/04stroller-illo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/nyregion/04stroller-illo/04stroller-illo-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/nyregion/04stroller-illo/04stroller-illo-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/nyregion/04stroller-illo/04stroller-illo-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/nyregion/04stroller-illo/04stroller-illo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/nyregion/04stroller-illo/04stroller-illo-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As Strollers Roll Through New York City Grit and Muck, an Industry Is Born",
+          "print_headline": "Muck of City Life Fuels New Service for Parents"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baby Carriages, Strollers and Carriers"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cleaning Services"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Small Business"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Children and Childhood"
+          }
+        ],
+        "pub_date": "2016-11-03T23:46:40Z",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sharon",
+              "rank": 1,
+              "lastname": "OTTERMAN"
+            }
+          ],
+          "original": "By SHARON OTTERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "581bcc6995d0e01ffc1e15dc",
+        "word_count": "997",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/us/politics/that-supreme-court-stonewall-may-not-crumble-anytime-soon.html",
+        "snippet": "Some Senate Republicans say their refusal to consider President Obama\u2019s nominee to replace Antonin Scalia would continue in a Clinton administration....",
+        "lead_paragraph": "Some Senate Republicans say their refusal to consider President Obama\u2019s nominee to replace Antonin Scalia would continue in a Clinton administration.",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/us/04hulse/04hulse-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/us/04hulse/04hulse-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/us/04hulse/04hulse-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/us/04hulse/04hulse-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/us/04hulse/04hulse-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/us/04hulse/04hulse-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "That Supreme Court Stonewall May Not Crumble Anytime Soon",
+          "content_kicker": "On Washington",
+          "print_headline": "A Supreme Court Stonewall May Not Crumble Anytime Soon"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Courts and the Judiciary"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Supreme Court (US)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Garland, Merrick B"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Flake, Jeffrey L"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-11-03T23:45:52Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Carl",
+              "rank": 1,
+              "lastname": "HULSE"
+            }
+          ],
+          "original": "By CARL HULSE"
+        },
+        "type_of_material": "News",
+        "_id": "581bcc3895d0e01ffc1e15db",
+        "word_count": "884",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/world/europe/03reuters-turkey-security-kurds.html",
+        "snippet": "Turkey detained two co-leaders and nine other lawmakers of Turkey's pro-Kurdish Peoples' Democratic Party (HDP) early on Friday over reluctance to give testimony for crimes linked to \"terrorist propaganda.\"...",
+        "lead_paragraph": "Turkey detained two co-leaders and nine other lawmakers of Turkey's pro-Kurdish Peoples' Democratic Party (HDP) early on Friday over reluctance to give testimony for crimes linked to \"terrorist propaganda.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey's Pro-Kurdish Party HDP's 11 MPs Detained-Interior Ministry",
+          "print_headline": "Turkey's Pro-Kurdish Party HDP's 11 MPs Detained-Interior Ministry"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:45:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bcc2b95d0e01ffc1e15da",
+        "word_count": "308",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/us/politics/03reuters-usa-election-documents.html",
+        "snippet": "The FBI and U.S. intelligence agencies are examining faked documents&#160;aimed at discrediting the Hillary Clinton campaign    as part of a broader investigation into what U.S. officials believe has been an attempt by Russia to disrupt the presid...",
+        "lead_paragraph": "The FBI and U.S. intelligence agencies are examining faked documents&#160;aimed at discrediting the Hillary Clinton campaign    as part of a broader investigation into what U.S. officials believe has been an attempt by Russia to disrupt the presidential election, people with knowledge of the matter said. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "FBI Examining Fake Documents Targeting Clinton Campaign: Sources",
+          "print_headline": "FBI Examining Fake Documents Targeting Clinton Campaign: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:45:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bcc2195d0e01ffc1e15d9",
+        "word_count": "625",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/arts/music/pop-rock-listings-for-nov-4-10.html",
+        "snippet": "A selected guide to concerts in the New York City area....",
+        "lead_paragraph": "A selected guide to concerts in the New York City area.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/arts/04LISTINGSPOP/04LISTINGSPOP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/arts/04LISTINGSPOP/04LISTINGSPOP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/arts/04LISTINGSPOP/04LISTINGSPOP-articleLarge.jpg",
+            "height": 429,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/arts/04LISTINGSPOP/04LISTINGSPOP-articleLarge.jpg",
+              "xlargeheight": "429"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/arts/04LISTINGSPOP/04LISTINGSPOP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/arts/04LISTINGSPOP/04LISTINGSPOP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pop & Rock Listings for Nov. 4-10",
+          "print_headline": "The Listings: Pop"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          }
+        ],
+        "pub_date": "2016-11-03T23:43:41Z",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "581bcbb295d0e01ffc1e15d8",
+        "word_count": "1095",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/world/europe/03reuters-usa-drug-pricing.html",
+        "snippet": "Two prominent U.S. lawmakers on Thursday called on federal antitrust regulators to probe whether Sanofi SA, Eli Lilly and Co, Merck &amp; Co Inc and Novo Nordisk A/S colluded to set prices for insulin and other diabetes drugs....",
+        "lead_paragraph": "Two prominent U.S. lawmakers on Thursday called on federal antitrust regulators to probe whether Sanofi SA, Eli Lilly and Co, Merck &amp; Co Inc and Novo Nordisk A/S colluded to set prices for insulin and other diabetes drugs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Drugmakers Under Fire for Possible U.S. Price Fixing",
+          "print_headline": "Drugmakers Under Fire for Possible U.S. Price Fixing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:42:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bcb7195d0e01ffc1e15d7",
+        "word_count": "668",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/us/03reuters-usa-election-militia-widerimage.html",
+        "snippet": "Some call them militia. They call themselves patriots....",
+        "lead_paragraph": "Some call them militia. They call themselves patriots.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "A Year Inside America's Militia",
+          "print_headline": "A Year Inside America's Militia"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:36:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bca0795d0e01ffc1e15d6",
+        "word_count": "828",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/us/walter-scott-michael-slager-trial.html",
+        "snippet": "Mr. Scott was portrayed as an imperfect figure whose own behavior contributed to his shooting, which was recorded on video....",
+        "lead_paragraph": "Mr. Scott was portrayed as an imperfect figure whose own behavior contributed to his shooting, which was recorded on video.",
+        "abstract": null,
+        "print_page": "23",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/us/04charleston-2/04charleston-2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/us/04charleston-2/04charleston-2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/us/04charleston-2/04charleston-2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Walter Scott\u2019s Character Scrutinized in Trial of Officer Who Killed Him",
+          "print_headline": "Trial of Officer Starts in South Carolina With Focus on Victim"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Scott, Walter L (1950-2015)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Slager, Michael T (1981- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "North Charleston (SC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          }
+        ],
+        "pub_date": "2016-11-03T23:33:21Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 1,
+              "lastname": "BLINDER"
+            }
+          ],
+          "original": "By ALAN BLINDER"
+        },
+        "type_of_material": "News",
+        "_id": "581bc94995d0e01ffc1e15d5",
+        "word_count": "914",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint.html",
+        "snippet": "Andres Fernandez was arrested Thursday in connection with the fatal shooting of Louis Barbati, an owner of a well-known Brooklyn pizzeria, on June 30....",
+        "lead_paragraph": "Andres Fernandez was arrested Thursday in connection with the fatal shooting of Louis Barbati, an owner of a well-known Brooklyn pizzeria, on June 30.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint/brooklyn-pizzeria-shooting-complaint-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint/brooklyn-pizzeria-shooting-complaint-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint/brooklyn-pizzeria-shooting-complaint-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint/brooklyn-pizzeria-shooting-complaint-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint/brooklyn-pizzeria-shooting-complaint-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/nyregion/brooklyn-pizzeria-shooting-complaint/brooklyn-pizzeria-shooting-complaint-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Criminal Complaint in Shooting of Brooklyn Pizzeria Owner"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T23:33:11Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "581bc93d95d0e01ffc1e15d4",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

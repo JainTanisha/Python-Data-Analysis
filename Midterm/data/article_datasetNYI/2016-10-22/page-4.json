@@ -1,0 +1,542 @@
+{
+  "response": {
+    "meta": {
+      "hits": 378,
+      "time": 62,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/politics/donald-trump-hillary-clinton.html",
+        "snippet": "Mr. Trump went to Gettysburg, Pa., for what was supposed to be a major policy speech. He spent much of it dwelling on grievances....",
+        "lead_paragraph": "Mr. Trump went to Gettysburg, Pa., for what was supposed to be a major policy speech. He spent much of it dwelling on grievances.",
+        "abstract": null,
+        "print_page": "23",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/us/23CAMPAIGN2/23CAMPAIGN2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/us/23CAMPAIGN2/23CAMPAIGN2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/us/23CAMPAIGN2/23CAMPAIGN2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/us/23CAMPAIGN2/23CAMPAIGN2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/us/23CAMPAIGN2/23CAMPAIGN2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/us/23CAMPAIGN2/23CAMPAIGN2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump Pledges to \u2018Heal Divisions\u2019 (and Sue His Accusers)",
+          "print_headline": "Trump Pledges to \u2018Heal Divisions\u2019 (and Sue His Accusers)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sexual Harassment"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Gettysburg (Pa)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lincoln, Abraham"
+          }
+        ],
+        "pub_date": "2016-10-22T20:17:16+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Ashley Parker reported from Gettysburg, and Amy Chozick from Pittsburgh. Julia Preston contributed reporting from New York.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ashley",
+              "rank": 1,
+              "lastname": "PARKER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Amy",
+              "rank": 2,
+              "lastname": "CHOZICK"
+            }
+          ],
+          "original": "By ASHLEY PARKER and AMY CHOZICK"
+        },
+        "type_of_material": "News",
+        "_id": "580bc95295d0e022439c4ac5",
+        "word_count": "1088",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/world/americas/colombia-airline-flights-venezuela.html",
+        "snippet": "Avianca grounded all flights to Caracas, Venezuela, and rerouted several others to avoid Venezuelan airspace until further notice....",
+        "lead_paragraph": "Avianca grounded all flights to Caracas, Venezuela, and rerouted several others to avoid Venezuelan airspace until further notice.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombian Airline Halts Some Flights After Brush With Venezuelan Jet",
+          "print_headline": "Venezuelan Jet Rattles Colombian Airline"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Colombia"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Venezuela"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Avianca"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Airlines and Airplanes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Military Aircraft"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Maduro, Nicolas"
+          }
+        ],
+        "pub_date": "2016-10-22T20:17:13+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "List",
+        "_id": "580bc95295d0e022439c4ac4",
+        "word_count": "322",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/ap-car-nascar-talladega-trucks-.html",
+        "snippet": "Grant Enfinger's love of racing began as a fan at Talladega Superspeedway, where he made an annual trip as a child with his father and friends....",
+        "lead_paragraph": "Grant Enfinger's love of racing began as a fan at Talladega Superspeedway, where he made an annual trip as a child with his father and friends.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Grant Enfinger Wins 1st NASCAR Race With Talladega Victory",
+          "print_headline": "Grant Enfinger Wins 1st NASCAR Race With Talladega Victory"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T20:09:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc79795d0e022439c4ac3",
+        "word_count": "466",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/ncaafootball/ap-fbc-t25-north-carolina-st-louisville.html",
+        "snippet": "Lamar Jackson and Louisville needed less than two minutes Saturday to get rid of a whole week's worth of bad feelings from a lackluster effort against Duke....",
+        "lead_paragraph": "Lamar Jackson and Louisville needed less than two minutes Saturday to get rid of a whole week's worth of bad feelings from a lackluster effort against Duke.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jackson Has 4 TDs, No. 7 Louisville Routs NC State 54-13",
+          "print_headline": "Jackson Has 4 TDs, No. 7 Louisville Routs NC State 54-13"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T20:09:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc78e95d0e022439c4ac2",
+        "word_count": "881",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/trump-recording-narrows-divide-on-sexual-assault.html",
+        "snippet": "A three-minute clip of Mr. Trump boasting about groping women appears to have prompted a change in consciousness that usually takes decades....",
+        "lead_paragraph": "A three-minute clip of Mr. Trump boasting about groping women appears to have prompted a change in consciousness that usually takes decades.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/us/23CONSENT/23CONSENT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/us/23CONSENT/23CONSENT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/us/23CONSENT/23CONSENT-articleLarge.jpg",
+            "height": 479,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/us/23CONSENT/23CONSENT-articleLarge.jpg",
+              "xlargeheight": "479"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/us/23CONSENT/23CONSENT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/us/23CONSENT/23CONSENT-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Recording Narrows Divide on Sexual Assault",
+          "print_headline": "Trump Recording Narrows National Divide on Sexual Assault"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sex Crimes"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sexual Harassment"
+          }
+        ],
+        "pub_date": "2016-10-22T19:57:27+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Amanda",
+              "rank": 1,
+              "lastname": "TAUB"
+            }
+          ],
+          "original": "By AMANDA TAUB"
+        },
+        "type_of_material": "News",
+        "_id": "580bc4ad95d0e022439c4ac1",
+        "word_count": "1426",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/us/ap-us-obit-kevin-meaney.html",
+        "snippet": "Kevin Meaney, a comic's comic who worked the standup circuit, was a staple on late-night TV and starred in the short-lived 1990s CBS series \"Uncle Buck,\" has died at age 60, his agent said Saturday....",
+        "lead_paragraph": "Kevin Meaney, a comic's comic who worked the standup circuit, was a staple on late-night TV and starred in the short-lived 1990s CBS series \"Uncle Buck,\" has died at age 60, his agent said Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Comic's Comic Kevin Meaney Has Died at Age 60",
+          "print_headline": "Comic's Comic Kevin Meaney Has Died at Age 60"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:54:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc40795d0e022439c4ac0",
+        "word_count": "311",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/world/middleeast/22reuters-mideast-crisis-iraq-turkey-minister.html",
+        "snippet": "Turkey is prepared to \"take measures\" in Iraq because it is not satisfied by promises from Washington and Baghdad that Kurdish militants and Shi'ite militias will not take part in current fighting, Prime Minister Binali Yildirim said on Saturday....",
+        "lead_paragraph": "Turkey is prepared to \"take measures\" in Iraq because it is not satisfied by promises from Washington and Baghdad that Kurdish militants and Shi'ite militias will not take part in current fighting, Prime Minister Binali Yildirim said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey Prepared to 'Take Measures' in Iraq, PM Yildirim Says",
+          "print_headline": "Turkey Prepared to 'Take Measures' in Iraq, PM Yildirim Says"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:54:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc3fd95d0e022439c4abf",
+        "word_count": "164",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/us/ap-us-trench-flooded-the-latest.html",
+        "snippet": "The Latest on two workers killed in Boston after the trench where they were working flooded. (all times local):...",
+        "lead_paragraph": "The Latest on two workers killed in Boston after the trench where they were working flooded. (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Company in Fatal Water Main Break Cited Before",
+          "print_headline": "The Latest: Company in Fatal Water Main Break Cited Before"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:48:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc29f95d0e022439c4abe",
+        "word_count": "254",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Guest Lineups for the Sunday News Shows",
+          "print_headline": "Guest Lineups for the Sunday News Shows"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:45:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc1f395d0e022439c4abd",
+        "word_count": "98",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/tennessee-historic-body-blocks-removal-of-onetime-kkk-leaders-statue.html",
+        "snippet": "The Memphis City Council voted for relocation from a downtown park on the heels of a mass shooting of black churchgoers in Charleston, S.C....",
+        "lead_paragraph": "The Memphis City Council voted for relocation from a downtown park on the heels of a mass shooting of black churchgoers in Charleston, S.C.",
+        "abstract": null,
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Tennessee Historic Body Blocks Removal of Onetime K.K.K. Leader\u2019s Statue",
+          "print_headline": "Removal of K.K.K. Figure\u2019s Statue Blocked"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Monuments and Memorials (Structures)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Civil War (US) (1861-65)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fringe Groups and Movements"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "City Councils"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Ku Klux Klan"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Forrest, Nathan Bedford"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Memphis (Tenn)"
+          }
+        ],
+        "pub_date": "2016-10-22T19:43:27+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc16995d0e022439c4abc",
+        "word_count": "312",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

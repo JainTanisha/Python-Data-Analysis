@@ -1,0 +1,551 @@
+{
+  "response": {
+    "meta": {
+      "hits": 773,
+      "time": 39,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/world/asia/21reuters-japan-quake-tepco.html",
+        "snippet": "Tokyo Electric Co said it has resumed the cooling system at a storage pool for spent nuclear fuel at the No.3 reactor at the Fukushima-Daini nuclear power plant that had been automatically halted earlier after an earthquake hit northern Japan on T...",
+        "lead_paragraph": "Tokyo Electric Co said it has resumed the cooling system at a storage pool for spent nuclear fuel at the No.3 reactor at the Fukushima-Daini nuclear power plant that had been automatically halted earlier after an earthquake hit northern Japan on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Tokyo Electric Resumes Reactor Cooling System After Temporary Halt",
+          "print_headline": "Tokyo Electric Resumes Reactor Cooling System After Temporary Halt"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:18:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583380d495d0e03926071ce9",
+        "word_count": "89",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/sports/ap-car-in-the-pits.html",
+        "snippet": "The congratulatory messages started rolling in long before Jimmie Johnson had finished his obligatory championship photos. Larry Bird. Mia Hamm. Michael Phelps. Mario Andretti. Drew Brees. The Chicago Cubs....",
+        "lead_paragraph": "The congratulatory messages started rolling in long before Jimmie Johnson had finished his obligatory championship photos. Larry Bird. Mia Hamm. Michael Phelps. Mario Andretti. Drew Brees. The Chicago Cubs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: Jimmie Johnson, Greatest of All? He Is in the Mix",
+          "print_headline": "Column: Jimmie Johnson, Greatest of All? He Is in the Mix"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:13:36+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58337faa95d0e03926071ce8",
+        "word_count": "775",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/books/review/william-trevor-in-the-times.html",
+        "snippet": "A look back at reviews of Mr. Trevor\u2019s work in The New York Times....",
+        "lead_paragraph": "A look back at reviews of Mr. Trevor\u2019s work in The New York Times.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/books/review/21trevor-cover/21trevor-cover-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/books/review/21trevor-cover/21trevor-cover-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/books/review/21trevor-cover/21trevor-cover-articleLarge.jpg",
+            "height": 917,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/books/review/21trevor-cover/21trevor-cover-articleLarge.jpg",
+              "xlargeheight": "917"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/books/review/21trevor-cover/21trevor-cover-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/books/review/21trevor-cover/21trevor-cover-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "William Trevor in The Times"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trevor, William"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Writing and Writers"
+          }
+        ],
+        "pub_date": "2016-11-21T23:13:20+0000",
+        "document_type": "article",
+        "news_desk": "BookReview",
+        "section_name": "Books",
+        "subsection_name": "Book Review",
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "58337f9595d0e03926071ce7",
+        "word_count": "422",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/health/mosquitoes-cellphones.html",
+        "snippet": "Calling their project \u201cShazam for Mosquitoes,\u201d Stanford students showed that common mobile phones could distinguish the hums of beating wings, which could prove useful in fighting diseases....",
+        "lead_paragraph": "Calling their project \u201cShazam for Mosquitoes,\u201d Stanford students showed that common mobile phones could distinguish the hums of beating wings, which could prove useful in fighting diseases.",
+        "abstract": "Student researchers at Standord University's Bio-X institute find cellphones are capable of recording mosquito hums in enough detail to determine one type of mosquito from another; researchers envision future in which cellphone users may participate in tracking and fighting mosquito-borne diseases like West Nile virus and Zika.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/science/22GLOBAL/22GLOBAL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/science/22GLOBAL/22GLOBAL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/science/22GLOBAL/22GLOBAL-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/science/22GLOBAL/22GLOBAL-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/science/22GLOBAL/22GLOBAL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/science/22GLOBAL/22GLOBAL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Telling Mosquitoes Apart With a Cellphone",
+          "content_kicker": "Global Health",
+          "kicker": "Global Health",
+          "print_headline": "Telling Mosquitoes Apart With a Cellphone"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mosquitoes"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cellular Telephones"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Society of Tropical Medicine and Hygiene"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Stanford University"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Research"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "West Nile Virus"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Medicine and Health"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Zika Virus"
+          }
+        ],
+        "pub_date": "2016-11-21T23:11:11+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "qualifier": "Jr",
+              "firstname": "Donald",
+              "middlename": "G.",
+              "lastname": "McNEIL",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By DONALD G. McNEIL Jr"
+        },
+        "type_of_material": "News",
+        "_id": "58337f1595d0e03926071ce5",
+        "word_count": "385",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/us/wisconsin-redistricting-found-to-unfairly-favor-republicans.html",
+        "snippet": "A federal panel called the 2011 redrawing of Wisconsin Assembly districts an unconstitutional gerrymander, ruling in a case that could go to the Supreme Court....",
+        "lead_paragraph": "A federal panel called the 2011 redrawing of Wisconsin Assembly districts an unconstitutional gerrymander, ruling in a case that could go to the Supreme Court.",
+        "abstract": "United States District Court for Western District of Wisconsin rules, 2-1, that state Legislature's redrawing of State Assembly districts in 2011 in favor of Republicans was unconstitutional as it was partisan gerrymander; ruling is first in three decades to strike down gerrymander on partisan grounds; case can now go before Supreme Court, and should higher court affirm ruling it could have profound consequences for redistricting in 2021.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/us/22voting1/22voting1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/us/22voting1/22voting1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/us/22voting1/22voting1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/us/22voting1/22voting1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/us/22voting1/22voting1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/us/22voting1/22voting1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Judges Find Wisconsin Redistricting Unfairly Favored Republicans",
+          "print_headline": "Districts Favor G.O.P. Unfairly, Court Finds in a Key State Case"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Redistricting and Reapportionment"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Wisconsin"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Crabb, Barbara B"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Griesbach, William C"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Reagan, Ronald Wilson"
+          }
+        ],
+        "pub_date": "2016-11-21T23:07:03+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Doris Burke contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "WINES"
+            }
+          ],
+          "original": "By MICHAEL WINES"
+        },
+        "type_of_material": "News",
+        "_id": "58337e1b95d0e03926071ce3",
+        "word_count": "1016",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/us/ap-us-school-bus-crash-tennessee.html",
+        "snippet": "Bloodied students lay on stretchers, while other children walked away dazed with their parents after an elementary school bus crash that killed six Monday in Chattanooga....",
+        "lead_paragraph": "Bloodied students lay on stretchers, while other children walked away dazed with their parents after an elementary school bus crash that killed six Monday in Chattanooga.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Official: 6 Dead in Chattanooga Elementary School Bus Crash",
+          "print_headline": "Official: 6 Dead in Chattanooga Elementary School Bus Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:07:03+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58337e1f95d0e03926071ce4",
+        "word_count": "400",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/us/ap-us-alaska-railroad-natural-gas.html",
+        "snippet": "In a story Nov. 21 about a lawsuit filed by an environmental group over gas shipments in Alaska, The Associated Press, relying on information in the lawsuit, reported erroneously that liquefied natural gas is highly volatile. LNG is actually consi...",
+        "lead_paragraph": "In a story Nov. 21 about a lawsuit filed by an environmental group over gas shipments in Alaska, The Associated Press, relying on information in the lawsuit, reported erroneously that liquefied natural gas is highly volatile. LNG is actually considered much less volatile than other hydrocarbon products.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Alaska Railroad-Natural Gas Story",
+          "print_headline": "Correction: Alaska Railroad-Natural Gas Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:06:58+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58337e1a95d0e03926071ce2",
+        "word_count": "452",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/technology/21reuters-payment-fraud-regulations-visa.html",
+        "snippet": "The European Union's planned rules to reduce fraud by forcing the use of passwords or codes to authenticate electronic payments above 10 euros ($10.60) risk disrupting online shopping and may not increase security, Visa said on Tuesday....",
+        "lead_paragraph": "The European Union's planned rules to reduce fraud by forcing the use of passwords or codes to authenticate electronic payments above 10 euros ($10.60) risk disrupting online shopping and may not increase security, Visa said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "EU Rules to Stem Payment Fraud May Disrupt Six Billion Euros of e-Commerce: Visa",
+          "print_headline": "EU Rules to Stem Payment Fraud May Disrupt Six Billion Euros of e-Commerce: Visa"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:03:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58337d4c95d0e03926071ce1",
+        "word_count": "372",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/sports/soccer/21reuters-soccer-klinsmann-newsmaker.html",
+        "snippet": "Juergen Klinsmann insisted to the bitter end that he could turn around U.S. soccer fortunes but on Monday was handed one of his biggest defeats when he was dismissed as national coach and technical director....",
+        "lead_paragraph": "Juergen Klinsmann insisted to the bitter end that he could turn around U.S. soccer fortunes but on Monday was handed one of his biggest defeats when he was dismissed as national coach and technical director.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Klinsmann Loses Chance to Revive U.S. World Cup Hopes",
+          "print_headline": "Klinsmann Loses Chance to Revive U.S. World Cup Hopes"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:03:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58337d4795d0e03926071ce0",
+        "word_count": "616",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/sports/ap-car-nascar-biffle-out.html",
+        "snippet": "Greg Biffle and Roush Fenway Racing have parted ways after 19 seasons, the last 14 in the Sprint Cup Series....",
+        "lead_paragraph": "Greg Biffle and Roush Fenway Racing have parted ways after 19 seasons, the last 14 in the Sprint Cup Series.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Biffle, Roush Fenway Racing Part Ways After 19 Seasons",
+          "print_headline": "Biffle, Roush Fenway Racing Part Ways After 19 Seasons"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T23:01:19+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58337cc595d0e03926071cdf",
+        "word_count": "340",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

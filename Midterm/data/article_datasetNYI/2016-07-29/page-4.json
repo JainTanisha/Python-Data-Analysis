@@ -1,0 +1,626 @@
+{
+  "response": {
+    "meta": {
+      "hits": 961,
+      "time": 74,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004560308/trump-calls-clinton-speech-so-average.html",
+        "snippet": "Donald J. Trump was not impressed with Hillary Clinton\u2019s acceptance speech Thursday....",
+        "lead_paragraph": "Donald J. Trump was not impressed with Hillary Clinton\u2019s acceptance speech Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/multimedia/30campaign-trump/30campaign-trump-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/multimedia/30campaign-trump/30campaign-trump-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/multimedia/30campaign-trump/30campaign-trump-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/multimedia/30campaign-trump/30campaign-trump-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/multimedia/30campaign-trump/30campaign-trump-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/multimedia/30campaign-trump/30campaign-trump-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Calls Clinton Speech \u2018So Average\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-07-29T21:31:07Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "579c037c38f0d83c0fcf78b9",
+        "word_count": "12",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/us/politics/29reuters-usa-election-trump.html",
+        "snippet": "U.S. Republican presidential nominee Donald Trump said he was taking the gloves off in his battle against Democrat Hillary Clinton in the race for the White House after taking a scorching from speakers at the Democratic National Convention....",
+        "lead_paragraph": "U.S. Republican presidential nominee Donald Trump said he was taking the gloves off in his battle against Democrat Hillary Clinton in the race for the White House after taking a scorching from speakers at the Democratic National Convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump to Clinton: 'No More Mr. Nice Guy'",
+          "print_headline": "Trump to Clinton: 'No More Mr. Nice Guy'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T21:15:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c006b38f0d83c0fcf78b7",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-bbc-tcu-young-fan-dies.html",
+        "snippet": "A 7-year-old Texas boy who was a beloved part of the TCU' baseball team's three consecutive trips to the College World Series has died following a battle with cancer....",
+        "lead_paragraph": "A 7-year-old Texas boy who was a beloved part of the TCU' baseball team's three consecutive trips to the College World Series has died following a battle with cancer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "TCU Loses 7-Year-Old Fan Micah Ahern to Cancer",
+          "print_headline": "TCU Loses 7-Year-Old Fan Micah Ahern to Cancer"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T21:03:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bfda238f0d83c0fcf78b3",
+        "word_count": "320",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/31/arts/television/a-sampler-a-batman-wrestling-with-ghosts-of-the-past.html",
+        "snippet": "Kevin Conroy\u2019s run as the voice of the Caped Crusader includes some memorable episodes....",
+        "lead_paragraph": "Kevin Conroy\u2019s run as the voice of the Caped Crusader includes some memorable episodes.",
+        "abstract": "Selection of noted performances by voice-over actor Kevin Conroy in role of Batman, in both television and film, highlighted.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/31/arts/31BATMANSIDE/31BATMANSIDE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/31/arts/31BATMANSIDE/31BATMANSIDE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/31/arts/31BATMANSIDE/31BATMANSIDE-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/31/arts/31BATMANSIDE/31BATMANSIDE-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/31/arts/31BATMANSIDE/31BATMANSIDE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/31/arts/31BATMANSIDE/31BATMANSIDE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Sampler: A Batman Wrestling With Ghosts of the Past",
+          "print_headline": "Batman, Wrestling With His Ghosts"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Batman (Fictional Character)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Conroy, Kevin (1955- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Animated Films"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Batman: Mask of the Phantasm (Movie)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Batman Beyond: Return of the Joker (Movie)"
+          }
+        ],
+        "pub_date": "2016-07-29T21:05:35+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeff",
+              "rank": 1,
+              "lastname": "MUSKUS"
+            }
+          ],
+          "original": "By JEFF MUSKUS"
+        },
+        "type_of_material": "News",
+        "_id": "579bc52138f0d83c0fcf782e",
+        "word_count": "259",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/31/arts/television/batman-the-killing-joke-kevin-conroy-alan-moore.html",
+        "snippet": "Forget Michael Keaton, George Clooney, Christian Bale. Mr. Conroy has played the Batman for almost 25 years....",
+        "lead_paragraph": "Forget Michael Keaton, George Clooney, Christian Bale. Mr. Conroy has played the Batman for almost 25 years.",
+        "abstract": "Actor Kevin Conroy has voiced character of Batman in dozens of animated television shows, video games and films, often alongside Star Wars star Mark Hamill as Joker, including in recent movie Batman: The Killing Joke.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/31/arts/31BATMAN1/31BATMAN1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/31/arts/31BATMAN1/31BATMAN1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/31/arts/31BATMAN1/31BATMAN1-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/31/arts/31BATMAN1/31BATMAN1-articleLarge.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/31/arts/31BATMAN1/31BATMAN1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/31/arts/31BATMAN1/31BATMAN1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Batman: The Killing Joke\u2019 Finds Kevin Conroy Back Under the (Animated) Cowl",
+          "print_headline": "The Voice Under the (Animated) Cowl"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Batman (Fictional Character)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Animated Films"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Conroy, Kevin (1955- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Hamill, Mark"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Batman: The Killing Joke (Movie)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Batman: The Killing Joke (Book)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Moore, Alan (1953- )"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-07-29T21:04:33+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeff",
+              "rank": 1,
+              "lastname": "MUSKUS"
+            }
+          ],
+          "original": "By JEFF MUSKUS"
+        },
+        "type_of_material": "News",
+        "_id": "579bc4e438f0d83c0fcf782c",
+        "word_count": "1054",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/sports/golf/pga-championship-baltusrol-second-round.html",
+        "snippet": "Walker faltered on the final two holes Friday and Streb tied him at nine under par. Jason Day tied Emiliano Grillo for third....",
+        "lead_paragraph": "Walker faltered on the final two holes Friday and Streb tied him at nine under par. Jason Day tied Emiliano Grillo for third.",
+        "abstract": "Jimmy Walker struggles in second round of PGA Championship, but manages to finish day tied for first place with Robert Streb.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/sports/30-Y-PGA-3/30-Y-PGA-3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/sports/30-Y-PGA-3/30-Y-PGA-3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/sports/30-Y-PGA-3/30-Y-PGA-3-articleLarge.jpg",
+            "height": 406,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/sports/30-Y-PGA-3/30-Y-PGA-3-articleLarge.jpg",
+              "xlargeheight": "406"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/sports/30-Y-PGA-3/30-Y-PGA-3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/sports/30-Y-PGA-3/30-Y-PGA-3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Robert Streb Ties Jimmy Walker for P.G.A. Championship Lead",
+          "print_headline": "Walker Falters Late in Second Round, but Still Shares the Lead"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Golf"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Baltusrol Golf Club"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stenson, Henrik"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Spieth, Jordan"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "PGA Championship"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Walker, Jimmy (1979- )"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Streb, Robert (1987- )"
+          }
+        ],
+        "pub_date": "2016-07-29T21:01:25+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zach",
+              "rank": 1,
+              "lastname": "SCHONBRUN"
+            }
+          ],
+          "original": "By ZACH SCHONBRUN"
+        },
+        "type_of_material": "News",
+        "_id": "579bc42a38f0d83c0fcf782a",
+        "word_count": "904",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-fbc-ex-aggies-player-slain.html",
+        "snippet": "A former Texas A&amp;M and Miami Dolphins linebacker and his wife were fatally shot at their home in Houston, and a 16-year-old boy has been charged as a juvenile with murder in the slayings....",
+        "lead_paragraph": "A former Texas A&amp;M and Miami Dolphins linebacker and his wife were fatally shot at their home in Houston, and a 16-year-old boy has been charged as a juvenile with murder in the slayings.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Texas A&M Linebacker, Wife Killed at Their Home",
+          "print_headline": "Ex-Texas A&M Linebacker, Wife Killed at Their Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:59:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bfc5638f0d83c0fcf78b2",
+        "word_count": "186",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/politics/ap-us-voting-rights-rulings.html",
+        "snippet": "Courts dealt setbacks on Friday to Republican efforts in three states to restrict voting, blocking a North Carolina law requiring photo identification, loosening a similar measure in Wisconsin and halting strict citizenship requirements in Kansas....",
+        "lead_paragraph": "Courts dealt setbacks on Friday to Republican efforts in three states to restrict voting, blocking a North Carolina law requiring photo identification, loosening a similar measure in Wisconsin and halting strict citizenship requirements in Kansas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Courts Strike Blows to GOP Voter Restrictions in 3 States",
+          "print_headline": "Courts Strike Blows to GOP Voter Restrictions in 3 States"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:51:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bfad538f0d83c0fcf78ae",
+        "word_count": "655",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/world/americas/29reuters-mexico-students.html",
+        "snippet": "Mexico agreed on Friday to let the Inter-American Commission on Human Rights (IACHR) again monitor its widely criticized investigation into the disappearance and probable massacre of 43 students in 2014....",
+        "lead_paragraph": "Mexico agreed on Friday to let the Inter-American Commission on Human Rights (IACHR) again monitor its widely criticized investigation into the disappearance and probable massacre of 43 students in 2014. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Agrees to Monitor for Its Probe of Student Massacre",
+          "print_headline": "Mexico Agrees to Monitor for Its Probe of Student Massacre"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:42:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579bf8ac38f0d83c0fcf78ac",
+        "word_count": "162",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-mi-arab-chaldean-festival.html",
+        "snippet": "Thousands are expected to attend the 45th annual Arab and Chaldean (kal-DEE'-uhn) Festival this weekend in Detroit....",
+        "lead_paragraph": "Thousands are expected to attend the 45th annual Arab and Chaldean (kal-DEE'-uhn) Festival this weekend in Detroit.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Arab and Chaldean Festival Returns to Detroit for 45th Year",
+          "print_headline": "Arab and Chaldean Festival Returns to Detroit for 45th Year"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T20:36:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bf75538f0d83c0fcf78ab",
+        "word_count": "101",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

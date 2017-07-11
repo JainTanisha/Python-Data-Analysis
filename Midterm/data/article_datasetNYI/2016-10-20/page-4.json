@@ -1,0 +1,635 @@
+{
+  "response": {
+    "meta": {
+      "hits": 964,
+      "time": 32,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/americas/20reuters-eu-canada-trade-rejection.html",
+        "snippet": "The Belgian region of Wallonia maintained its opposition to an EU-Canada free trade deal, rejecting new concessions, Belgian news agency Belga reported on Thursday....",
+        "lead_paragraph": "The Belgian region of Wallonia maintained its opposition to an EU-Canada free trade deal, rejecting new concessions, Belgian news agency Belga reported on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Wallonia Stays Opposed to EU-Canada Free Trade Deal-Belga News Agency",
+          "print_headline": "Wallonia Stays Opposed to EU-Canada Free Trade Deal-Belga News Agency"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T23:00:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58094c9d95d0e022439c45dd",
+        "word_count": "67",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/theater/tick-tick-boom-review.html",
+        "snippet": "The musical, being revived by the Keen Company, finds some affection in this early work by Mr. Larson....",
+        "lead_paragraph": "The musical, being revived by the Keen Company, finds some affection in this early work by Mr. Larson.",
+        "abstract": "Alexis Soloski reviews Keen Company production of Jonathan Larson musical Tick, Tick... Boom!, directed by Jonathan Silverstein and starring George Salazar, Ciara Renee and Nick Blaemire, at Acorn Theater.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/arts/21TICK/21TICK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/arts/21TICK/21TICK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/arts/21TICK/21TICK-articleLarge.jpg",
+            "height": 374,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/arts/21TICK/21TICK-articleLarge.jpg",
+              "xlargeheight": "374"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/arts/21TICK/21TICK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/arts/21TICK/21TICK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Tick, Tick\u2026Boom!\u2019 Is Jonathan Larson\u2019s Run-Up to \u2018Rent\u2019",
+          "print_headline": "The Run-Up to \u2018Rent\u2019 Also Has an Eye on Love"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Keen Company"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Tick, Tick ... Boom! (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Larson, Jonathan"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Renee, Ciara"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Silverstein, Jonathan (Theater Director)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Blaemire, Nick"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Salazar, George (1986- )"
+          }
+        ],
+        "pub_date": "2016-10-20T23:00:25+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexis",
+              "rank": 1,
+              "lastname": "SOLOSKI"
+            }
+          ],
+          "original": "By ALEXIS SOLOSKI"
+        },
+        "type_of_material": "Review",
+        "_id": "58094c8f95d0e022439c45dc",
+        "word_count": "524",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/middleeast/20reuters-mideast-crisis-syria-diplomacy.html",
+        "snippet": "United Nations Secretary-General Ban Ki-moon pushed on Thursday for the 193-member General Assembly to hold a rare emergency special session on Syria since a deadlocked Security Council has failed to take action to end the nearly six-year war....",
+        "lead_paragraph": "United Nations Secretary-General Ban Ki-moon pushed on Thursday for the 193-member General Assembly to hold a rare emergency special session on Syria since a deadlocked Security Council has failed to take action to end the nearly six-year war.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.N. Chief Pushes for Rare General Assembly Session on Syria",
+          "print_headline": "U.N. Chief Pushes for Rare General Assembly Session on Syria"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:57:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58094be395d0e022439c45db",
+        "word_count": "505",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-us-campaign-2016-long-lines.html",
+        "snippet": "Arizona's most populous county has agreed to implement a plan to avoid polling place wait times to settle a lawsuit a civil rights group filed after thousands of people waited for hours to vote in the March presidential primary....",
+        "lead_paragraph": "Arizona's most populous county has agreed to implement a plan to avoid polling place wait times to settle a lawsuit a civil rights group filed after thousands of people waited for hours to vote in the March presidential primary.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Biggest Arizona County to Revamp Polling to Avoid Long Lines",
+          "print_headline": "Biggest Arizona County to Revamp Polling to Avoid Long Lines"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:55:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58094b4f95d0e022439c45d9",
+        "word_count": "439",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/science/orionid-meteor-shower-halleys-comet.html",
+        "snippet": "The annual show left in the wake of Halley\u2019s comet is expected to peak Thursday night and Friday morning, but the moon will most likely obscure views of meteors....",
+        "lead_paragraph": "The annual show left in the wake of Halley\u2019s comet is expected to peak Thursday night and Friday morning, but the moon will most likely obscure views of meteors.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/science/21ORIONID/21ORIONID-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/science/21ORIONID/21ORIONID-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/science/21ORIONID/21ORIONID-articleLarge.jpg",
+            "height": 425,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/science/21ORIONID/21ORIONID-articleLarge.jpg",
+              "xlargeheight": "425"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/science/21ORIONID/21ORIONID-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/science/21ORIONID/21ORIONID-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Orionid Meteor Shower Will Peak Tonight. Don\u2019t Expect Much.",
+          "content_kicker": "Trilobites",
+          "kicker": "Trilobites"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Meteors and Meteorites"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Moon"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comets"
+          }
+        ],
+        "pub_date": "2016-10-20T22:54:59+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "ST"
+            }
+          ],
+          "original": "By NICHOLAS ST. FLEUR"
+        },
+        "type_of_material": "News",
+        "_id": "58094b5595d0e022439c45da",
+        "word_count": "328",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/theater/mr-poppers-penguins-review.html",
+        "snippet": "\u201cMr. Popper\u2019s Penguins,\u201d at the New Victory Theater, stars life-size puppets as the creatures that upend a sedate couple\u2019s lives \u2014 and warm their hearts....",
+        "lead_paragraph": "\u201cMr. Popper\u2019s Penguins,\u201d at the New Victory Theater, stars life-size puppets as the creatures that upend a sedate couple\u2019s lives \u2014 and warm their hearts.",
+        "abstract": null,
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/arts/21KIDSCOLUMN/21KIDSCOLUMN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/arts/21KIDSCOLUMN/21KIDSCOLUMN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/arts/21KIDSCOLUMN/21KIDSCOLUMN-articleLarge.jpg",
+            "height": 794,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/arts/21KIDSCOLUMN/21KIDSCOLUMN-articleLarge.jpg",
+              "xlargeheight": "794"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/arts/21KIDSCOLUMN/21KIDSCOLUMN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/arts/21KIDSCOLUMN/21KIDSCOLUMN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: When the Penguins Come Home to Roost",
+          "print_headline": "Review: When the Penguins Come Home to Roost"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New Victory Theater"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Mr Popper's Penguins (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pins and Needles Productions"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Earle, Emma (Stage Director)"
+          }
+        ],
+        "pub_date": "2016-10-20T22:53:23+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laurel",
+              "rank": 1,
+              "lastname": "GRAEBER"
+            }
+          ],
+          "original": "By LAUREL GRAEBER"
+        },
+        "type_of_material": "Review",
+        "_id": "58094ae695d0e022439c45d8",
+        "word_count": "429",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/asia/20reuters-usa-philippines-relations.html",
+        "snippet": "The Obama administration has few good options and limited leverage as it struggles to craft a response to Philippine President Rodrigo Duterte's increasingly hostile rhetoric towards the United States and his warm embrace of China....",
+        "lead_paragraph": "The Obama administration has few good options and limited leverage as it struggles to craft a response to Philippine President Rodrigo Duterte's increasingly hostile rhetoric towards the United States and his warm embrace of China.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Has Few Good Options for Response to Philippines' Duterte",
+          "print_headline": "U.S. Has Few Good Options for Response to Philippines' Duterte"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:51:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58094a7995d0e022439c45d7",
+        "word_count": "817",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/world/middleeast/american-hostage-yemen-wallead-yusuf-pitts-luqman.html",
+        "snippet": "She said her husband was abducted in April 2015 and has since been held by the Houthis, despite an F.B.I.-led effort that rescued two hostages....",
+        "lead_paragraph": "She said her husband was abducted in April 2015 and has since been held by the Houthis, despite an F.B.I.-led effort that rescued two hostages.",
+        "abstract": "Jihan Mohamed accuses United States government of neglecting abduction and detention of her husband American citizen Wallead Yusuf Pitts Luqman by Houthi rebels in Yemen; cites recent release of other American detainees, some of whom describe being beaten in custody.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/world/middleeast/21hostage-web/21hostage-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/world/middleeast/21hostage-web/21hostage-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/world/middleeast/21hostage-web/21hostage-web-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/world/middleeast/21hostage-web/21hostage-web-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/world/middleeast/21hostage-web/21hostage-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/world/middleeast/21hostage-web/21hostage-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Wife of American Detained in Yemen Publicly Calls for Release",
+          "print_headline": "Wife of American Held in Yemen Speaks Out"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Kidnapping and Hostages"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Yemen"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Houthis"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Luqman, Wallead Yusuf Pitts"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Mohamed, Jihan"
+          }
+        ],
+        "pub_date": "2016-10-20T22:48:41+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Kitty Bennett contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 1,
+              "lastname": "GOLDMAN"
+            }
+          ],
+          "original": "By ADAM GOLDMAN"
+        },
+        "type_of_material": "News",
+        "_id": "580949ce95d0e022439c45d6",
+        "word_count": "631",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/sports/football/ap-fbn-cowboys-bye.html",
+        "snippet": "Ezekiel Elliott had star potential the moment he was drafted by the Cowboys, a high pick at running back with the benefit of perhaps the NFL's best offensive line....",
+        "lead_paragraph": "Ezekiel Elliott had star potential the moment he was drafted by the Cowboys, a high pick at running back with the benefit of perhaps the NFL's best offensive line.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Elliott, Surprising Prescott Give Dallas Backfield of Future",
+          "print_headline": "Elliott, Surprising Prescott Give Dallas Backfield of Future"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:42:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5809487795d0e022439c45d5",
+        "word_count": "818",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/business/20reuters-shell-divestiture-tourmaline-oil.html",
+        "snippet": "Royal Dutch Shell Plc said on Thursday it is selling $1.03 billion worth of non-core oil and gas properties in western Canada to Tourmaline Oil Corp, the latest example of the global oil major trimming its operations in the region....",
+        "lead_paragraph": "Royal Dutch Shell Plc said on Thursday it is selling $1.03 billion worth of non-core oil and gas properties in western Canada to Tourmaline Oil Corp, the latest example of the global oil major trimming its operations in the region.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Shell Sells Non-Core Canadian Oil and Gas Assets for $1 Billion",
+          "print_headline": "Shell Sells Non-Core Canadian Oil and Gas Assets for $1 Billion"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:42:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5809485d95d0e022439c45d4",
+        "word_count": "416",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

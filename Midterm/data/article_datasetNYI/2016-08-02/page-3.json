@@ -1,0 +1,981 @@
+{
+  "response": {
+    "meta": {
+      "hits": 610,
+      "time": 31,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/02/t-magazine/faun-fabless-summer-tour-diary-from-the-alps-to-oklahoma.html",
+        "snippet": "The alt-folk band, consisting of Dawn McCarthy and Nils Frykdahl and their three young daughters, has traveled all over Europe and the U.S. this summer during the girls\u2019 summer break....",
+        "lead_paragraph": "The alt-folk band, consisting of Dawn McCarthy and Nils Frykdahl and their three young daughters, has traveled all over Europe and the U.S. this summer during the girls\u2019 summer break.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-M2KG/02tmag-faunfables-slide-M2KG-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-M2KG/02tmag-faunfables-slide-M2KG-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-M2KG/02tmag-faunfables-slide-M2KG-articleLarge.jpg",
+            "height": 804,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-M2KG/02tmag-faunfables-slide-M2KG-articleLarge.jpg",
+              "xlargeheight": "804"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-M2KG/02tmag-faunfables-slide-M2KG-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-M2KG/02tmag-faunfables-slide-M2KG-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Faun Fables\u2019s Summer Tour Diary, from the Alps to Oklahoma"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5888fea995d0e0392607cc35",
+        "word_count": "30",
+        "slideshow_credits": "Dawn McCarthy and Nils Frykdahl"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/t-magazine/design/new-retail-experience-trend.html",
+        "snippet": "As online shopping continues its unchecked expansion, in-store experiences have become increasingly intimate....",
+        "lead_paragraph": "As online shopping continues its unchecked expansion, in-store experiences have become increasingly intimate.",
+        "abstract": "High-end retailers, in effort to compete with online shopping, are increasingly offering customers opportunity to test products in simulated in-store domestic setting, providing both shelter from impersonal commercialization and aura of exclusivity.",
+        "print_page": "107",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/t-magazine/shopping-home-slide-WIIF/shopping-home-slide-WIIF-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/t-magazine/shopping-home-slide-WIIF/shopping-home-slide-WIIF-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/t-magazine/shopping-home-slide-WIIF/shopping-home-slide-WIIF-articleLarge.jpg",
+            "height": 441,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/t-magazine/shopping-home-slide-WIIF/shopping-home-slide-WIIF-articleLarge.jpg",
+              "xlargeheight": "441"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/t-magazine/shopping-home-slide-WIIF/shopping-home-slide-WIIF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/t-magazine/shopping-home-slide-WIIF/shopping-home-slide-WIIF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "When the Shop Looks a Lot Like Home",
+          "content_kicker": "Sign of the Times",
+          "print_headline": "Just Like Home"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "E-Commerce"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pirch (Manhattan, NY, Retailer)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interior Design and Furnishings"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          }
+        ],
+        "pub_date": "2016-08-02T17:08:05+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Design & Interiors",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "ROCK"
+            }
+          ],
+          "original": "By MICHAEL ROCK"
+        },
+        "type_of_material": "News",
+        "_id": "57a0d37938f0d8762aab6813",
+        "word_count": "1380",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/02/realestate/july-most-popular-real-estate-stories.html",
+        "snippet": "Catch up on the most popular stories of the month....",
+        "lead_paragraph": "Catch up on the most popular stories of the month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/03/realestate/03WHATILOVE-TAMRONHALL-slide-AGAR/03WHATILOVE-TAMRONHALL-slide-AGAR-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/03/realestate/03WHATILOVE-TAMRONHALL-slide-AGAR/03WHATILOVE-TAMRONHALL-slide-AGAR-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/03/realestate/03WHATILOVE-TAMRONHALL-slide-AGAR/03WHATILOVE-TAMRONHALL-slide-AGAR-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/03/realestate/03WHATILOVE-TAMRONHALL-slide-AGAR/03WHATILOVE-TAMRONHALL-slide-AGAR-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/03/realestate/03WHATILOVE-TAMRONHALL-slide-AGAR/03WHATILOVE-TAMRONHALL-slide-AGAR-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/03/realestate/03WHATILOVE-TAMRONHALL-slide-AGAR/03WHATILOVE-TAMRONHALL-slide-AGAR-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In Case You Missed It: July's Top Real Estate Stories"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hall, Tamron"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elderly"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Balconies and Terraces"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Real Estate",
+        "section_name": "Real Estate",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "5888fea795d0e0392607cc34",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/technology/china-mobile-tech-innovation-silicon-valley.html",
+        "snippet": "American tech companies study Chinese users and apps as a smartphone revolution changes how people interact, buy products and manage their money....",
+        "lead_paragraph": "American tech companies study Chinese users and apps as a smartphone revolution changes how people interact, buy products and manage their money.",
+        "abstract": "Innovations in China's tech industry, particularly its mobile businesses, are spurring imitators in Silicon Valley, even among giants; shift points to China's leading edge in global technologies and suggest it could have greater power in defining future direction of industry; mobile device usage in nation is highest in world.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/business/03chinainternet1/00CHINAINTERNET-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/business/03chinainternet1/00CHINAINTERNET-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/business/03chinainternet1/00CHINAINTERNET-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/business/03chinainternet1/00CHINAINTERNET-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/business/03chinainternet1/00CHINAINTERNET-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/business/03chinainternet1/00CHINAINTERNET-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "China, Not Silicon Valley, Is Cutting Edge in Mobile Tech",
+          "print_headline": "Cutting Edge in Mobile: China"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mobile Applications"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mobile Commerce and Payments"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Silicon Valley (Calif)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Tencent Holdings Ltd"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Alipay"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Smartphones"
+          }
+        ],
+        "pub_date": "2016-08-02T16:54:23+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Cao Li in Beijing contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Paul",
+              "rank": 1,
+              "lastname": "MOZUR"
+            }
+          ],
+          "original": "By PAUL MOZUR"
+        },
+        "type_of_material": "News",
+        "_id": "57a0d04138f0d8762aab6802",
+        "word_count": "1293",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/travel/fly-fishing-in-montana-rivers.html",
+        "snippet": "Catching trout and finding just a little religion in fly-fishing heaven....",
+        "lead_paragraph": "Catching trout and finding just a little religion in fly-fishing heaven.",
+        "abstract": "Jon Gluck travel article recounts fishing trip to Big Blackfoot River in Missoula, Mont, retracing places discussed in Norman Maclean's autobiographical novella A River Runs Through It.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/travel/07FLYFISHING/07FLYFISHING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/travel/07FLYFISHING/07FLYFISHING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/travel/07FLYFISHING/07FLYFISHING-articleLarge.jpg",
+            "height": 582,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/travel/07FLYFISHING/07FLYFISHING-articleLarge.jpg",
+              "xlargeheight": "582"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/travel/07FLYFISHING/07FLYFISHING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/travel/07FLYFISHING/07FLYFISHING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Fly-Fishing in Montana, Where a River Still Runs Through It",
+          "print_headline": "Worshiping at the River"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fishing, Sport"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Montana"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Missoula (Mont)"
+          }
+        ],
+        "pub_date": "2016-08-02T16:32:11+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "GLUCK"
+            }
+          ],
+          "original": "By JON GLUCK"
+        },
+        "type_of_material": "News",
+        "_id": "57a0cb0e38f0d8762aab67f1",
+        "word_count": "2419",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/travel/pokemon-go-for-travelers.html",
+        "snippet": "The search engine Alltherooms.com has a new filter called Pok\u00e9View for travelers playing Pok\u00e9mon Go away from home....",
+        "lead_paragraph": "The search engine Alltherooms.com has a new filter called Pok\u00e9View for travelers playing Pok\u00e9mon Go away from home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/travel/02intransit-pokemon/02intransit-pokemon-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/travel/02intransit-pokemon/02intransit-pokemon-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/travel/02intransit-pokemon/02intransit-pokemon-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/travel/02intransit-pokemon/02intransit-pokemon-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Playing Pok\u00e9mon Go on the Road? A Website Can Help With Rooms",
+          "content_kicker": "In Transit",
+          "kicker": "In Transit"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pokemon (Fictional Characters)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hotels and Travel Lodgings"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elaine",
+              "rank": 1,
+              "lastname": "GLUSAC"
+            }
+          ],
+          "original": "By ELAINE GLUSAC"
+        },
+        "type_of_material": "News",
+        "_id": "57a0c49f38f0d8762aab67d4",
+        "word_count": "259",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/business/media/rush-limbaugh-renews-radio-contract.html",
+        "snippet": "Though specifics on the deal were not disclosed, the conservative radio host told his audience he wanted to stay on for another four years....",
+        "lead_paragraph": "Though specifics on the deal were not disclosed, the conservative radio host told his audience he wanted to stay on for another four years.",
+        "abstract": "Conservative talk radio king Rush Limbaugh renews his contract with iHeartMedia for four years; terms are undisclosed.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/business/03xp-rush/03xp-rush-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/business/03xp-rush/03xp-rush-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/business/03xp-rush/03xp-rush-articleLarge.jpg",
+            "height": 476,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/business/03xp-rush/03xp-rush-articleLarge.jpg",
+              "xlargeheight": "476"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/business/03xp-rush/03xp-rush-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/business/03xp-rush/03xp-rush-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "4 More Years: Rush Limbaugh Signs a New Radio Contract",
+          "print_headline": "Limbaugh Renews Contract With iHeartMedia for 4 Years"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Radio"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "iHeartMedia Inc"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Limbaugh, Rush"
+          }
+        ],
+        "pub_date": "2016-08-02T15:37:08+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "McPHATE"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 2,
+              "lastname": "SISARIO"
+            }
+          ],
+          "original": "By MIKE McPHATE and BEN SISARIO"
+        },
+        "type_of_material": "News",
+        "_id": "57a0be2638f0d861602e1ca9",
+        "word_count": "416",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/realestate/commercial/the-town-center-regains-significance.html",
+        "snippet": "Easton, a mixed-use project in Columbus, Ohio, that began construction in 1993, was inspired by principles that distinguish American towns built before 1900....",
+        "lead_paragraph": "Easton, a mixed-use project in Columbus, Ohio, that began construction in 1993, was inspired by principles that distinguish American towns built before 1900.",
+        "abstract": "Mixed-use development Easton in Columbus, Ohio, has been under continuous expansion since 1993; New York-based Georgetown Company's 1,300-acre project is inspired by same planning of accessible public spaces, proximity and human scale that was typical of pre-1900 American towns.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/business/03EASTON1/02EASTON1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/business/03EASTON1/02EASTON1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/business/03EASTON1/02EASTON1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/business/03EASTON1/02EASTON1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/business/03EASTON1/02EASTON1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/business/03EASTON1/02EASTON1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Town Center Regains Significance",
+          "content_kicker": "Square Feet",
+          "kicker": "Square Feet",
+          "print_headline": "\u2018Before Automobiles, This Is How America Was Built\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mixed-Use Developments"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Columbus (Ohio)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Real Estate (Commercial)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping Centers and Malls"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Area Planning and Renewal"
+          }
+        ],
+        "pub_date": "2016-08-02T15:37:06+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Real Estate",
+        "subsection_name": "Commercial Real Estate",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Keith",
+              "rank": 1,
+              "lastname": "SCHNEIDER"
+            }
+          ],
+          "original": "By KEITH SCHNEIDER"
+        },
+        "type_of_material": "News",
+        "_id": "57a0be2638f0d861602e1ca8",
+        "word_count": "1237",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/arts/television/unreal-season-2-episode-9-recap.html",
+        "snippet": "In his haste to torch \u201cEverlasting\u201d and get Rachel to go with him to better things, Coleman has underestimated the pull Quinn has over Rachel....",
+        "lead_paragraph": "In his haste to torch \u201cEverlasting\u201d and get Rachel to go with him to better things, Coleman has underestimated the pull Quinn has over Rachel.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/watching/01unreal/01unreal-thumbWide-v4.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/watching/01unreal/01unreal-thumbWide-v4.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/watching/01unreal/01unreal-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/watching/01unreal/01unreal-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/watching/01unreal/01unreal-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/watching/01unreal/01unreal-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018UnREAL\u2019 Season 2, Episode 9: \u2018This Is All We Need\u2019",
+          "content_kicker": "UnREAL",
+          "kicker": "UnREAL"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "UnREAL (TV Program)"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Genevieve",
+              "rank": 1,
+              "lastname": "VALENTINE"
+            }
+          ],
+          "original": "By GENEVIEVE VALENTINE"
+        },
+        "type_of_material": "Review",
+        "_id": "57a0bcbb38f0d861602e1ca1",
+        "word_count": "998",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/business/media/sony-is-allowed-to-close-deal-with-michael-jacksons-estate.html",
+        "snippet": "The European Commission approved a deal that would give Sony full control of the songwriting rights to a catalog that includes about 250 Beatles songs....",
+        "lead_paragraph": "The European Commission approved a deal that would give Sony full control of the songwriting rights to a catalog that includes about 250 Beatles songs.",
+        "abstract": "European Commission approves Sony's request to finish its $750 million purchase of the half of Sony/ATV Music Publishing catalog currently owned by estate of Michael Jackson; purchase would give Sony full control of songwriting rights to more than two million songs.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/business/03SONY/03SONY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/business/03SONY/03SONY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/business/03SONY/03SONY-articleLarge.jpg",
+            "height": 396,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/business/03SONY/03SONY-articleLarge.jpg",
+              "xlargeheight": "396"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/business/03SONY/03SONY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/business/03SONY/03SONY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sony Is Allowed to Close Deal With Michael Jackson\u2019s Estate",
+          "print_headline": "Sony Closes Big Music Deal With Michael Jackson Estate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Sony Corporation"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "European Commission"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Copyrights and Copyright Violations"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Jackson, Michael"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "SONY/ATV Music Publishing"
+          }
+        ],
+        "pub_date": "2016-08-02T15:21:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "SISARIO"
+            }
+          ],
+          "original": "By BEN SISARIO"
+        },
+        "type_of_material": "News",
+        "_id": "57a0ba9238f0d861602e1c94",
+        "word_count": "244",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

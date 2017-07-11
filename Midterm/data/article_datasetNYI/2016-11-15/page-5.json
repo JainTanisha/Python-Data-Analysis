@@ -1,0 +1,685 @@
+{
+  "response": {
+    "meta": {
+      "hits": 936,
+      "time": 66,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/world/europe/ap-eu-britain-nonfiction-prize.html",
+        "snippet": "Human rights lawyer Philippe Sands won Britain's leading nonfiction literary award on Tuesday for a book about the fight to prosecute war crimes that blends historical investigation and family memoir....",
+        "lead_paragraph": "Human rights lawyer Philippe Sands won Britain's leading nonfiction literary award on Tuesday for a book about the fight to prosecute war crimes that blends historical investigation and family memoir.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Philippe Sands' History of War Crimes Wins Nonfiction Prize",
+          "print_headline": "Philippe Sands' History of War Crimes Wins Nonfiction Prize"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:38:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b8e6995d0e0204d560a47",
+        "word_count": "177",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/politics/ap-us-congress-sanctions.html",
+        "snippet": "The House on Tuesday overwhelmingly approved bipartisan bills to crack down on supporters of Syrian President Bashar Assad's government and renew a decades-old Iran sanctions law....",
+        "lead_paragraph": "The House on Tuesday overwhelmingly approved bipartisan bills to crack down on supporters of Syrian President Bashar Assad's government and renew a decades-old Iran sanctions law.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "House OKs Bills to Renew Iran Sanctions, Crack Down on Syria",
+          "print_headline": "House OKs Bills to Renew Iran Sanctions, Crack Down on Syria"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:38:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b8e5695d0e0204d560a46",
+        "word_count": "700",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/realestate/commercial/recent-commercial-real-estate-transactions.html",
+        "snippet": "Recent commercial real estate transactions in New York City....",
+        "lead_paragraph": "Recent commercial real estate transactions in New York City.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/business/16TRANS/16TRANS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/business/16TRANS/16TRANS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/business/16TRANS/16TRANS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/business/16TRANS/16TRANS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/business/16TRANS/16TRANS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/business/16TRANS/16TRANS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Recent Commercial Real Estate Transactions",
+          "print_headline": "Transactions"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate (Commercial)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Renting and Leasing (Real Estate)"
+          }
+        ],
+        "pub_date": "2016-11-15T22:35:34Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Real Estate",
+        "subsection_name": "Commercial Real Estate",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "firstname": "Rosalie",
+              "middlename": "R.",
+              "lastname": "RADOMSKY",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ROSALIE R. RADOMSKY"
+        },
+        "type_of_material": "News",
+        "_id": "582b8dbe95d0e0204d560a44",
+        "word_count": "281",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-us-giant-telescope.html",
+        "snippet": "Hawaii's land board is urging the state Supreme Court to quickly dismiss an appeal by opponents of a proposed telescope on a dormant Big Island volcano that is viewed as sacred by some Native Hawaiians....",
+        "lead_paragraph": "Hawaii's land board is urging the state Supreme Court to quickly dismiss an appeal by opponents of a proposed telescope on a dormant Big Island volcano that is viewed as sacred by some Native Hawaiians.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hawaii Land Board Seeks Quick Dismissal of Telescope Appeal",
+          "print_headline": "Hawaii Land Board Seeks Quick Dismissal of Telescope Appeal"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:34:23Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b8d7495d0e0204d560a43",
+        "word_count": "493",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/business/united-cheaper-airfare-carry-on-luggage.html",
+        "snippet": "A \u201cbasic economy\u201d ticket will cost less, but passengers won\u2019t be able to take a carry-on bag or pick seats ahead of time....",
+        "lead_paragraph": "A \u201cbasic economy\u201d ticket will cost less, but passengers won\u2019t be able to take a carry-on bag or pick seats ahead of time.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/15/business/16xp-united/16xp-united-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/15/business/16xp-united/16xp-united-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/15/business/16xp-united/16xp-united-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/15/business/16xp-united/16xp-united-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/15/business/16xp-united/16xp-united-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/15/business/16xp-united/16xp-united-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "United Airlines Offers Cheaper Fare, but It\u2019ll Cost You a Carry-On",
+          "print_headline": "To Compete With Budget Carriers, United Offers Cheaper Fare, at the Cost of a Carry-On"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Airlines and Airplanes"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Prices (Fares, Fees and Rates)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Luggage and Packing"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Airlines"
+          }
+        ],
+        "pub_date": "2016-11-15T22:33:03Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Daniel",
+              "rank": 1,
+              "lastname": "VICTOR"
+            }
+          ],
+          "original": "By DANIEL VICTOR"
+        },
+        "type_of_material": "News",
+        "_id": "582b8d2695d0e0204d560a42",
+        "word_count": "769",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004724451/trailer-nocturnal-animals.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/arts/nocturnal-trailer/nocturnal-trailer-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/arts/nocturnal-trailer/nocturnal-trailer-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/arts/nocturnal-trailer/nocturnal-trailer-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/arts/nocturnal-trailer/nocturnal-trailer-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/arts/nocturnal-trailer/nocturnal-trailer-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/arts/nocturnal-trailer/nocturnal-trailer-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: \u2018Nocturnal Animals\u2019"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:31:36Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Focus",
+              "rank": 1,
+              "lastname": "FEATURES"
+            }
+          ],
+          "original": "By FOCUS FEATURES"
+        },
+        "type_of_material": "Video",
+        "_id": "582b8cf595d0e0204d560a41",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/world/americas/cuba-donald-trump.html",
+        "snippet": "Mr. Trump has threatened to roll back President Obama\u2019s sweeping d\u00e9tente, but some analysts say the president-elect\u2019s instincts as a real estate mogul and hotel developer would ultimately prevail....",
+        "lead_paragraph": "Mr. Trump has threatened to roll back President Obama\u2019s sweeping d\u00e9tente, but some analysts say the president-elect\u2019s instincts as a real estate mogul and hotel developer would ultimately prevail.",
+        "abstract": null,
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/world/16CUBATRUMP-1/16CUBATRUMP-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/world/16CUBATRUMP-1/16CUBATRUMP-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/world/16CUBATRUMP-1/16CUBATRUMP-1-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/world/16CUBATRUMP-1/16CUBATRUMP-1-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/world/16CUBATRUMP-1/16CUBATRUMP-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/world/16CUBATRUMP-1/16CUBATRUMP-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Business or Politics? What Trump Means for Cuba",
+          "print_headline": "Business or Politics? Seeking Clues to Trump\u2019s Cuba Policy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Cuba"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Miami Herald"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Embargoes and Sanctions"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Miami (Fla)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Airlines"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States International Relations"
+          }
+        ],
+        "pub_date": "2016-11-15T22:29:04+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "contributor": "<em>Hannah Berkeley Cohen contributed to this report from Havana.</em>",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Frances",
+              "rank": 1,
+              "lastname": "ROBLES"
+            }
+          ],
+          "original": "By FRANCES ROBLES"
+        },
+        "type_of_material": "News",
+        "_id": "582b8c3995d0e0204d560a3e",
+        "word_count": "1410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/world/americas/ap-lt-el-salvador-gang-coordination.html",
+        "snippet": "The presidents of Honduras, Guatemala and El Salvador say better coordination between police and military forces patrolling their borders will bring success against the gangs plaguing their countries....",
+        "lead_paragraph": "The presidents of Honduras, Guatemala and El Salvador say better coordination between police and military forces patrolling their borders will bring success against the gangs plaguing their countries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Central American Countries to Coordinate Against Gangs",
+          "print_headline": "Central American Countries to Coordinate Against Gangs"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:26:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b8bb295d0e0204d560a3d",
+        "word_count": "108",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/15/world/americas/15reuters-central-america-politics.html",
+        "snippet": "The Central American nations of Honduras, Guatemala and El Salvador on Tuesday launched a joint security system to combat gangs and drug smuggling, as well as curtail migration and lower murders in one of the world's most violent regions....",
+        "lead_paragraph": "The Central American nations of Honduras, Guatemala and El Salvador on Tuesday launched a joint security system to combat gangs and drug smuggling, as well as curtail migration and lower murders in one of the world's most violent regions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Central American Plan Launched to Fight Gangs, Curb Migration",
+          "print_headline": "Central American Plan Launched to Fight Gangs, Curb Migration"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:24:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582b8b2595d0e0204d560a3c",
+        "word_count": "396",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/arts/music/its-official-many-orchestras-are-now-charities.html",
+        "snippet": "As financial pressure increases, ensembles are going beyond merely making music to offer more educational programs and community engagement initiatives....",
+        "lead_paragraph": "As financial pressure increases, ensembles are going beyond merely making music to offer more educational programs and community engagement initiatives.",
+        "abstract": "Report by League of American Orchestras shows that, on average, American orchestras are now relying more on philanthropic contributions than on ticket sales; shift reflects shrinking cultural footprint of classical music and raises questions about value of ensembles to their communities.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/arts/16ORCHESTRASJP1/16ORCHESTRASJP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/arts/16ORCHESTRASJP1/16ORCHESTRASJP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/arts/16ORCHESTRASJP1/16ORCHESTRASJP1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/arts/16ORCHESTRASJP1/16ORCHESTRASJP1-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/arts/16ORCHESTRASJP1/16ORCHESTRASJP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/arts/16ORCHESTRASJP1/16ORCHESTRASJP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "It\u2019s Official: Many Orchestras Are Now Charities",
+          "print_headline": "It\u2019s Official: Many Orchestras Are Now Charities Relying on Donors"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Social Conditions and Trends"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Recession and Depression"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Organized Labor"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Strikes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Federation of Musicians"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Fort Worth Symphony Orchestra"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Philadelphia Orchestra"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pittsburgh Symphony Orchestra"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Philanthropy"
+          }
+        ],
+        "pub_date": "2016-11-15T22:23:08+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By MICHAEL COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "582b8ad495d0e0204d560a3b",
+        "word_count": "1235",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

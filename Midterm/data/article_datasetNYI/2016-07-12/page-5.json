@@ -1,0 +1,386 @@
+{
+  "response": {
+    "meta": {
+      "hits": 927,
+      "time": 79,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-airbnb-tax-collection.html",
+        "snippet": "Hawaii Gov. David Ige vetoed a bill that would have allowed online lodging services like Airbnb to collect taxes, delving into a debate about whether websites should be held responsible for the listings people post on their sites....",
+        "lead_paragraph": "Hawaii Gov. David Ige vetoed a bill that would have allowed online lodging services like Airbnb to collect taxes, delving into a debate about whether websites should be held responsible for the listings people post on their sites.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hawaii Governor Vetoes Online Lodging Tax-Collection Bill",
+          "print_headline": "Hawaii Governor Vetoes Online Lodging Tax-Collection Bill"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:47:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57858fe738f0d804dfd9ba0f",
+        "word_count": "455",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/sports/12reuters-boxing-pacquiao.html",
+        "snippet": "Manny Pacquiao is planning to fight again later this year, just three months after announcing his retirement from boxing, ESPN reported on Tuesday....",
+        "lead_paragraph": "Manny Pacquiao is planning to fight again later this year, just three months after announcing his retirement from boxing, ESPN reported on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pacquiao to Return to the Ring in Late 2016: Report",
+          "print_headline": "Pacquiao to Return to the Ring in Late 2016: Report"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:47:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57858fe238f0d804dfd9ba0d",
+        "word_count": "380",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/13/sports/golf/jordan-spieth-rory-mcilroy-summer-olympics-rio-snub.html",
+        "snippet": "McIlroy said skipping the Rio Games was not a difficult decision; Spieth said the decision would \u201cloom over\u201d him for the length of the Games....",
+        "lead_paragraph": "McIlroy said skipping the Rio Games was not a difficult decision; Spieth said the decision would \u201cloom over\u201d him for the length of the Games.",
+        "abstract": "Bill Pennington On Golf column examines impact of top male golfers shunning 2016 Rio Olympics and how it will affect sport's future as Olympic event.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/13/sports/13GOLFweb1/13GOLFweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/13/sports/13GOLFweb1/13GOLFweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/13/sports/13GOLFweb1/13GOLFweb1-articleLarge.jpg",
+            "height": 363,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/13/sports/13GOLFweb1/13GOLFweb1-articleLarge.jpg",
+              "xlargeheight": "363"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/13/sports/13GOLFweb1/13GOLFweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/13/sports/13GOLFweb1/13GOLFweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Jordan Spieth\u2019s and Rory McIlroy\u2019s Two Approaches to an Olympic Snub",
+          "content_kicker": "On Golf",
+          "kicker": "On Golf",
+          "print_headline": "Olympic Golf Takes a Hit in Regrets by McIlroy and Spieth"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Golf"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McIlroy, Rory"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Spieth, Jordan"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Zika Virus"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games"
+          }
+        ],
+        "pub_date": "2016-07-12T20:45:09+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Bill",
+              "rank": 1,
+              "lastname": "PENNINGTON"
+            }
+          ],
+          "original": "By BILL PENNINGTON"
+        },
+        "type_of_material": "News",
+        "_id": "578556d838f0d804dfd9b984",
+        "word_count": "905",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-teen-kidnapping-michigan.html",
+        "snippet": "Search warrant documents say a 46-year-old western Michigan man being investigated in the disappearance of a gas station clerk and accused in a jogger's slaying possessed a list of U.S. serial killers....",
+        "lead_paragraph": "Search warrant documents say a 46-year-old western Michigan man being investigated in the disappearance of a gas station clerk and accused in a jogger's slaying possessed a list of U.S. serial killers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Documents Say Serial Killer List Found in Suspect's Home",
+          "print_headline": "Documents Say Serial Killer List Found in Suspect's Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:37:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57858dcb38f0d804dfd9ba0b",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/12/us/12reuters-colorado-syringes.html",
+        "snippet": "A former surgical technician who is HIV-positive pleaded guilty on Tuesday to tampering with narcotics at a Colorado hospital, potentially exposing thousands of patients to blood-borne diseases, including the AIDS virus, federal prosecutors said....",
+        "lead_paragraph": "A former surgical technician who is HIV-positive pleaded guilty on Tuesday to tampering with narcotics at a Colorado hospital, potentially exposing thousands of patients to blood-borne diseases, including the AIDS virus, federal prosecutors said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Surgical Technician Pleads Guilty to Drug Tampering in Colorado",
+          "print_headline": "Surgical Technician Pleads Guilty to Drug Tampering in Colorado"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:33:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57858d1638f0d804dfd9ba0a",
+        "word_count": "400",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-humpbacks-san-francisco.html",
+        "snippet": "A kayaker captured video of humpback whales feasting on fish in a bay with the San Francisco skyline as a backdrop....",
+        "lead_paragraph": "A kayaker captured video of humpback whales feasting on fish in a bay with the San Francisco skyline as a backdrop.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Video Show Humpbacks Feeding Against San Francisco Skyline",
+          "print_headline": "Video Show Humpbacks Feeding Against San Francisco Skyline"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:30:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57858c6238f0d804dfd9ba08",
+        "word_count": "163",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-boston-citgo-sign.html",
+        "snippet": "The Citgo sign that lights up the Boston skyline and is seen by baseball fans when a home run balls sails over Fenway Park's left-field wall has been granted preliminary landmark status....",
+        "lead_paragraph": "The Citgo sign that lights up the Boston skyline and is seen by baseball fans when a home run balls sails over Fenway Park's left-field wall has been granted preliminary landmark status.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Boston's Citgo Sign Gets Preliminary Landmark Status",
+          "print_headline": "Boston's Citgo Sign Gets Preliminary Landmark Status"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:27:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57858bb738f0d804dfd9ba07",
+        "word_count": "144",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-george-co-slaying.html",
+        "snippet": "A Mississippi man accused of killing a transgender teen has pleaded guilty to murder in county court Tuesday....",
+        "lead_paragraph": "A Mississippi man accused of killing a transgender teen has pleaded guilty to murder in county court Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Pleads Guilty in Transgender Teen's Death",
+          "print_headline": "Man Pleads Guilty in Transgender Teen's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:08:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578588e838f0d804dfd9ba05",
+        "word_count": "134",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/us/ap-us-detroit-hit-man-teenager.html",
+        "snippet": "No charges will be filed against a retired Detroit police officer in an investigation that led to the release of a young man who was arrested at age 14 and served eight years in prison for four murders, a prosecutor said Tuesday....",
+        "lead_paragraph": "No charges will be filed against a retired Detroit police officer in an investigation that led to the release of a young man who was arrested at age 14 and served eight years in prison for four murders, a prosecutor said Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No Charges Against Retired Cop in Cased of Freed Detroit Man",
+          "print_headline": "No Charges Against Retired Cop in Cased of Freed Detroit Man"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T19:49:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578588e338f0d804dfd9ba04",
+        "word_count": "382",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/12/sports/olympics/ap-oly-glf-australian-team.html",
+        "snippet": "With its top players deciding to forego the Rio de Janeiro Olympics, Australia announced its men's golf team of Scott Hend and Marcus Fraser on Wednesday. The country's most successful women's golfer, Karrie Webb, was missing for a different reaso...",
+        "lead_paragraph": "With its top players deciding to forego the Rio de Janeiro Olympics, Australia announced its men's golf team of Scott Hend and Marcus Fraser on Wednesday. The country's most successful women's golfer, Karrie Webb, was missing for a different reason &#8212; she failed to qualify.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hend, Fraser Go to Rio for Australia; No Karrie Webb",
+          "print_headline": "Hend, Fraser Go to Rio for Australia; No Karrie Webb"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-12T20:14:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5785883038f0d804dfd9ba03",
+        "word_count": "603",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

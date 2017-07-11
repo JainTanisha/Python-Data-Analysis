@@ -1,0 +1,628 @@
+{
+  "response": {
+    "meta": {
+      "hits": 735,
+      "time": 53,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/sports/football/ap-fbn-behind-the-call.html",
+        "snippet": "Forced to punt from deep in their territory with a seven-point lead over Cincinnati and 11 seconds remaining, the Baltimore Ravens weren't about to risk a fluke fumble or a blocked kick....",
+        "lead_paragraph": "Forced to punt from deep in their territory with a seven-point lead over Cincinnati and 11 seconds remaining, the Baltimore Ravens weren't about to risk a fluke fumble or a blocked kick.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Holding on Purpose Helped Ravens Seal Victory Over Bengals",
+          "print_headline": "Holding on Purpose Helped Ravens Seal Victory Over Bengals"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:19:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cad7c95d0e03926072e47",
+        "word_count": "880",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/technology/28reuters-gm-selfdriving.html",
+        "snippet": "General Motors Co's semi-autonomous \"Super Cruise\" system will allow drivers to take their hands off the steering wheel for extended periods, but will stop the vehicle automatically if drivers are not attentive, according to a government letter ma...",
+        "lead_paragraph": "General Motors Co's semi-autonomous \"Super Cruise\" system will allow drivers to take their hands off the steering wheel for extended periods, but will stop the vehicle automatically if drivers are not attentive, according to a government letter made public on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Letter Reveals Details of GM Self-Driving Vehicle System",
+          "print_headline": "U.S. Letter Reveals Details of GM Self-Driving Vehicle System"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:18:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cad4395d0e03926072e46",
+        "word_count": "497",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/science/flamingos-dancing-sexual-display.html",
+        "snippet": "The birds with the largest repertoires of dance moves are the ones who most often succeed in finding mates, researchers have found....",
+        "lead_paragraph": "The birds with the largest repertoires of dance moves are the ones who most often succeed in finding mates, researchers have found.",
+        "abstract": "Researchers find flamingos that have largest repertoire of dance moves are those most successful in finding mates.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/science/29OBSFLAMINGOS/29OBSFLAMINGOS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/science/29OBSFLAMINGOS/29OBSFLAMINGOS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/science/29OBSFLAMINGOS/29OBSFLAMINGOS-articleLarge.jpg",
+            "height": 404,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/science/29OBSFLAMINGOS/29OBSFLAMINGOS-articleLarge.jpg",
+              "xlargeheight": "404"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/science/29OBSFLAMINGOS/29OBSFLAMINGOS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/science/29OBSFLAMINGOS/29OBSFLAMINGOS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Flamingo Mating Rules: 1. Learn the Funky Chicken",
+          "content_kicker": "Trilobites",
+          "kicker": "Trilobites",
+          "print_headline": "Bright Moves: Wanted: Single Flamingo for One-Year Fling. Must Dance Well."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Flamingos"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Reproduction (Biological)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Birds"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Scientific Reports (Journal)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Perrot, Charlotte"
+          }
+        ],
+        "pub_date": "2016-11-28T22:18:11+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "BAKALAR"
+            }
+          ],
+          "original": "By NICHOLAS BAKALAR"
+        },
+        "type_of_material": "News",
+        "_id": "583cad2995d0e03926072e45",
+        "word_count": "332",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/sports/ncaafootball/ap-fbc-tim-dahlberg-college-playoffs.html",
+        "snippet": "Jim Harbaugh went on and on, as if his incessant whining would overturn the result of what was, in effect, a playoff game before the playoffs begin....",
+        "lead_paragraph": "Jim Harbaugh went on and on, as if his incessant whining would overturn the result of what was, in effect, a playoff game before the playoffs begin.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: College Playoffs Have a BCS Feel to Them Again",
+          "print_headline": "Column: College Playoffs Have a BCS Feel to Them Again"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:13:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cac1095d0e03926072e43",
+        "word_count": "798",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/sports/ncaafootball/ap-fbc-baylor-grobe.html",
+        "snippet": "Jim Grobe came out of semiretirement to help Baylor get through a tumultuous season. After that is done, he has no plans to coach again....",
+        "lead_paragraph": "Jim Grobe came out of semiretirement to help Baylor get through a tumultuous season. After that is done, he has no plans to coach again.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Baylor's Jim Grobe Has No Plans to Coach After This Season",
+          "print_headline": "Baylor's Jim Grobe Has No Plans to Coach After This Season"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:13:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cac1595d0e03926072e44",
+        "word_count": "689",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/business/ap-us-business-highlights.html",
+        "snippet": "___...",
+        "lead_paragraph": "___",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:12:49+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cabeb95d0e03926072e42",
+        "word_count": "1258",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/opinion/donald-trumps-response-to-plans-for-a-recount.html",
+        "snippet": "Readers differ on whether recounts should take place and how The Times reported the news....",
+        "lead_paragraph": "Readers differ on whether recounts should take place and how The Times reported the news.",
+        "abstract": null,
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/opinion/29LrecountWeb/29LrecountWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/opinion/29LrecountWeb/29LrecountWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/opinion/29LrecountWeb/29LrecountWeb-articleLarge.jpg",
+            "height": 386,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/opinion/29LrecountWeb/29LrecountWeb-articleLarge.jpg",
+              "xlargeheight": "386"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/opinion/29LrecountWeb/29LrecountWeb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/opinion/29LrecountWeb/29LrecountWeb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump\u2019s Response to Plans for a Recount",
+          "content_kicker": "Letters",
+          "kicker": "Letters",
+          "print_headline": "Trump\u2019s Response to Plans for Recount"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting Machines"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-11-28T22:09:50+0000",
+        "document_type": "article",
+        "news_desk": "Letters",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Letter",
+        "_id": "583cab3595d0e03926072e41",
+        "word_count": "616",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/us/politics/28reuters-philippines-usa-police.html",
+        "snippet": "The United States has shifted millions of dollars in funding for Philippines law enforcement away from police drug control programs, State Department officials said on Monday, since the start of the country's bloody crackdown on drugs this summer....",
+        "lead_paragraph": "The United States has shifted millions of dollars in funding for Philippines law enforcement away from police drug control programs, State Department officials said on Monday, since the start of the country's bloody crackdown on drugs this summer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Shifts Money Away From Philippines Police Drug Efforts",
+          "print_headline": "U.S. Shifts Money Away From Philippines Police Drug Efforts"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T22:09:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cab2295d0e03926072e40",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/nyregion/brooklyn-district-attorney-eric-gonzalez.html",
+        "snippet": "Eric Gonzalez says he wants to continue the work, especially in healing community relations, that Mr. Thompson championed before dying in October....",
+        "lead_paragraph": "Eric Gonzalez says he wants to continue the work, especially in healing community relations, that Mr. Thompson championed before dying in October.",
+        "abstract": "Acting Brooklyn District Atty Eric Gonzalez, who spent 22 years quietly working in district attorney's office, has been thrust into spotlight with October death of his predecessor Ken Thompson; vows to continue Thompson's reform agenda, but has yet to announce his candidacy for position in November.",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/28/nyregion/28GONZALEZ1/28GONZALEZ1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/28/nyregion/28GONZALEZ1/28GONZALEZ1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/28/nyregion/28GONZALEZ1/28GONZALEZ1-articleLarge.jpg",
+            "height": 899,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/28/nyregion/28GONZALEZ1/28GONZALEZ1-articleLarge.jpg",
+              "xlargeheight": "899"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/28/nyregion/28GONZALEZ1/28GONZALEZ1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/28/nyregion/28GONZALEZ1/28GONZALEZ1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ken Thompson\u2019s Successor: A \u2018Pure District Attorney\u2019 Working Under the Radar",
+          "print_headline": "Thompson\u2019s Successor: A \u2018Pure District Attorney,\u2019 Working Under the Radar"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gonzalez, Eric (1969- )"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elections, District Attorneys"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "District Attorneys"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Thompson, Kenneth P"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Brooklyn (NYC)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-11-28T22:07:12+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 1,
+              "lastname": "FEUER"
+            }
+          ],
+          "original": "By ALAN FEUER"
+        },
+        "type_of_material": "News",
+        "_id": "583caa9a95d0e03926072e3f",
+        "word_count": "1552",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/technology/facebook-germany-hate-speech-fake-news.html",
+        "snippet": "The social network\u2019s efforts to placate German authorities provide a case study for its moves to combat fake news and hate speech online worldwide....",
+        "lead_paragraph": "The social network\u2019s efforts to placate German authorities provide a case study for its moves to combat fake news and hate speech online worldwide.",
+        "abstract": "German lawmakers are considering regulations that will compel Facebook to quickly remove hate speech postings; officials join others who accuse social media giant of allowing negative and misleading content to flourish across its platform and failing to comply with German speech and publication laws; issue provides case study for Facebook's efforts to fight inappropriate content.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/business/00FBGERMANY2/00FBGERMANY2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/business/00FBGERMANY2/00FBGERMANY2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/business/00FBGERMANY2/00FBGERMANY2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/business/00FBGERMANY2/00FBGERMANY2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/business/00FBGERMANY2/00FBGERMANY2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/business/00FBGERMANY2/00FBGERMANY2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Facebook Runs Up Against German Hate Speech Laws",
+          "print_headline": "Hate Speech Laws Test Facebook"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Hate Crimes"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Germany"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Freedom of Speech and Expression"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cyberharassment"
+          }
+        ],
+        "pub_date": "2016-11-28T22:05:06+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mark",
+              "rank": 1,
+              "lastname": "SCOTT"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Melissa",
+              "rank": 2,
+              "lastname": "EDDY"
+            }
+          ],
+          "original": "By MARK SCOTT and MELISSA EDDY"
+        },
+        "type_of_material": "News",
+        "_id": "583caa1895d0e03926072e3e",
+        "word_count": "1244",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

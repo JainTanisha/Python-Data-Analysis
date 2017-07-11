@@ -1,0 +1,518 @@
+{
+  "response": {
+    "meta": {
+      "hits": 865,
+      "time": 49,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/18/business/18reuters-emerging-markets-growth.html",
+        "snippet": "The biggest threat to emerging markets growth in coming years could come from the rise of populism and isolationism in developed countries, a World Bank official said on Tuesday....",
+        "lead_paragraph": "The biggest threat to emerging markets growth in coming years could come from the rise of populism and isolationism in developed countries, a World Bank official said on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Populism in U.S., Europe Threatens Emerging Markets-World Bank Official",
+          "print_headline": "Populism in U.S., Europe Threatens Emerging Markets-World Bank Official"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:18:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58069fc295d0e022439c3ea7",
+        "word_count": "202",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/18/business/18reuters-samsung-elec-smartphones-class-action.html",
+        "snippet": "Samsung Electronics Co Ltd's U.S. unit is facing a proposed class action lawsuit from three Galaxy Note 7 customers, according to a filing in a federal court in Newark, New Jersey....",
+        "lead_paragraph": "Samsung Electronics Co Ltd's U.S. unit is facing a proposed class action lawsuit from three Galaxy Note 7 customers, according to a filing in a federal court in Newark, New Jersey. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Samsung Faces Potential Class Action in U.S. Over Note 7",
+          "print_headline": "Samsung Faces Potential Class Action in U.S. Over Note 7"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:18:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58069fc295d0e022439c3ea6",
+        "word_count": "203",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/19/world/middleeast/yemen-cease-fire-houthis.html",
+        "snippet": "The rebels known as the Houthis said they would abide by the cease-fire if the Saudi military coalition halted attacks and lifted a blockade....",
+        "lead_paragraph": "The rebels known as the Houthis said they would abide by the cease-fire if the Saudi military coalition halted attacks and lifted a blockade.",
+        "abstract": "Houthi rebels in Sana, Yemen, agree to ceasefire if Saudi-led military coalition stops attacks and lifts blockade of rebel-held territory.",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/19/world/19YEMEN-web/19YEMEN-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/19/world/19YEMEN-web/19YEMEN-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/19/world/19YEMEN-web/19YEMEN-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/19/world/19YEMEN-web/19YEMEN-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/19/world/19YEMEN-web/19YEMEN-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/19/world/19YEMEN-web/19YEMEN-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Short-Term Cease-Fire in Yemen Appears Likely",
+          "print_headline": "Short-Term Cease-Fire in Yemen Appears Likely"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Sana (Yemen)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Yemen"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Houthis"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kerry, John"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ould Cheikh Ahmed, Ismail"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Civilian Casualties"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Saudi Arabia"
+          }
+        ],
+        "pub_date": "2016-10-18T22:17:42+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "HUBBARD"
+            }
+          ],
+          "original": "By BEN HUBBARD"
+        },
+        "type_of_material": "News",
+        "_id": "58069f8a95d0e022439c3ea5",
+        "word_count": "332",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/18/world/middleeast/ap-un-united-nations-syria-diplomacy.html",
+        "snippet": "Russia is calling on countries with influence on Syrian opposition groups to intensify efforts to separate moderate forces from terrorist entities in besieged eastern Aleppo in a draft statement submitted to the U.N. Security Council on Tuesday....",
+        "lead_paragraph": "Russia is calling on countries with influence on Syrian opposition groups to intensify efforts to separate moderate forces from terrorist entities in besieged eastern Aleppo in a draft statement submitted to the U.N. Security Council on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Russia Introduces Aleppo Statement at UN",
+          "print_headline": "Russia Introduces Aleppo Statement at UN"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:12:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58069e7095d0e022439c3ea4",
+        "word_count": "327",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/18/sports/soccer/18reuters-soccer-fifa-court.html",
+        "snippet": "A former sports marketing executive who was arrested last year in a U.S. corruption probe involving soccer's global governing body FIFA is scheduled to plead guilty on Thursday, according to a court filing....",
+        "lead_paragraph": "A former sports marketing executive who was arrested last year in a U.S. corruption probe involving soccer's global governing body FIFA is scheduled to plead guilty on Thursday, according to a court filing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Sports Marketing Executive to Plead Guilty in FIFA Bribe Case",
+          "print_headline": "Ex-Sports Marketing Executive to Plead Guilty in FIFA Bribe Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:12:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58069e5695d0e022439c3ea3",
+        "word_count": "255",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/18/sports/golf/ap-glf-on-the-fringe-road-back.html",
+        "snippet": "The easy road back for Gonzalo Fernandez-Castano would have been to return to the comfort of Spain....",
+        "lead_paragraph": "The easy road back for Gonzalo Fernandez-Castano would have been to return to the comfort of Spain.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "A Long Road Back to PGA Tour for Fernandez-Castano",
+          "print_headline": "A Long Road Back to PGA Tour for Fernandez-Castano"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:10:18Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58069dd295d0e022439c3ea2",
+        "word_count": "918",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/18/briefing/barack-obama-presidential-race-mosul.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/18/nytnow/18eveningss-slide-5G68/18eveningss-slide-5G68-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/18/nytnow/18eveningss-slide-5G68/18eveningss-slide-5G68-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/18/nytnow/18eveningss-slide-5G68/18eveningss-slide-5G68-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/18/nytnow/18eveningss-slide-5G68/18eveningss-slide-5G68-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/18/nytnow/18eveningss-slide-5G68/18eveningss-slide-5G68-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/18/nytnow/18eveningss-slide-5G68/18eveningss-slide-5G68-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Barack Obama, Presidential Race, Mosul: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:07:33+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "58069d2b95d0e022439c3ea1",
+        "word_count": "836",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/18/us/ap-us-baltimore-police-2-shot.html",
+        "snippet": "Prosecutors have declined to bring charges against two Baltimore police officers who shot and killed a man and his adult son as they aimed guns at people across a street....",
+        "lead_paragraph": "Prosecutors have declined to bring charges against two Baltimore police officers who shot and killed a man and his adult son as they aimed guns at people across a street.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No Charges Filed Against Officers Who Fatally Shot Man, Son",
+          "print_headline": "No Charges Filed Against Officers Who Fatally Shot Man, Son"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:07:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58069d1095d0e022439c3ea0",
+        "word_count": "140",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/19/books/review-david-salles-how-to-see-a-painters-guide-to-looking-and-discussing-art.html",
+        "snippet": "In a collection of essays, Mr. Salle is more interested in talking about nuts and bolts, about what makes contemporary paintings tick....",
+        "lead_paragraph": "In a collection of essays, Mr. Salle is more interested in talking about nuts and bolts, about what makes contemporary paintings tick.",
+        "abstract": "Dwight Garner reviews book How to See: Looking, Talking and Thinking About Art by painter David Salle.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/19/arts/19BOOKSALLE1-SUB/19BOOKSALLE1-SUB-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/19/arts/19BOOKSALLE1-SUB/19BOOKSALLE1-SUB-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/19/arts/19BOOKSALLE1-SUB/19BOOKSALLE1-SUB-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/19/arts/19BOOKSALLE1-SUB/19BOOKSALLE1-SUB-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/19/arts/19BOOKSALLE1-SUB/19BOOKSALLE1-SUB-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/19/arts/19BOOKSALLE1-SUB/19BOOKSALLE1-SUB-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: David Salle\u2019s \u2018How to See,\u2019 a Painter\u2019s Guide to Looking at and Discussing Art",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "An Artist Who Wields Both Brush and Pen"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Salle, David"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "How to See: Looking, Talking and Thinking About Art (Book)"
+          }
+        ],
+        "pub_date": "2016-10-18T22:03:40+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dwight",
+              "rank": 1,
+              "lastname": "GARNER"
+            }
+          ],
+          "original": "By DWIGHT GARNER"
+        },
+        "type_of_material": "Review",
+        "_id": "58069c4395d0e022439c3e9f",
+        "word_count": "931",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/18/world/americas/18reuters-usa-mexico.html",
+        "snippet": "The United States on Tuesday extradited to Mexico a businessman accused of working with drug cartels after $205 million in cash was found at his Mexico City home, ending a years-long legal battle....",
+        "lead_paragraph": "The United States on Tuesday extradited to Mexico a businessman accused of working with drug cartels after $205 million in cash was found at his Mexico City home, ending a years-long legal battle.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Extradites Businessman Accused of Drug Ties to Mexico",
+          "print_headline": "U.S. Extradites Businessman Accused of Drug Ties to Mexico"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-18T22:03:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58069c3795d0e022439c3e9e",
+        "word_count": "430",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

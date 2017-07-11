@@ -1,0 +1,934 @@
+{
+  "response": {
+    "meta": {
+      "hits": 610,
+      "time": 39,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/health/cover-lets-household-drills-be-used-in-surgery.html",
+        "snippet": "The Grand Challenges of Canada program has chosen to support financially a drill cover that helps surgeons in low-budget hospitals....",
+        "lead_paragraph": "The Grand Challenges of Canada program has chosen to support financially a drill cover that helps surgeons in low-budget hospitals.",
+        "abstract": "Sterile cover for hardware-store drills, which allows them to be used by doctors in operating rooms of  low-budget hospitals, is among innovations being supported by Grand Challenges, Canadian government program. ",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/science/02GLOBAL/02GLOBAL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/science/02GLOBAL/02GLOBAL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/science/02GLOBAL/02GLOBAL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/science/02GLOBAL/02GLOBAL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Cover Lets Household Drills Be Used in Surgery",
+          "content_kicker": "Global Health",
+          "kicker": "Global Health",
+          "print_headline": "Cover Lets Household Drills Be Used in Surgery"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Canada"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Medical Devices"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Hospitals"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mobile Applications"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Medicine and Health"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "qualifier": "Jr",
+              "firstname": "Donald",
+              "middlename": "G.",
+              "lastname": "McNEIL",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By DONALD G. McNEIL Jr"
+        },
+        "type_of_material": "News",
+        "_id": "57c8916195d0e021d7983ea6",
+        "word_count": "281",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/opinion/i-destini-race-policing-prisons.html",
+        "snippet": "A racist system. A brother in jail. One teenage girl turned to animation to make sense of it all....",
+        "lead_paragraph": "A racist system. A brother in jail. One teenage girl turned to animation to make sense of it all.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Destini\u2019s Brother",
+          "content_kicker": "Op-Docs",
+          "kicker": "Op-Docs"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Durham (NC)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Documentary Films and Programs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Animated Films"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crime and Criminals"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Prisons and Prisoners"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "PILARSKI"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Destini",
+              "rank": 2,
+              "lastname": "RILEY"
+            }
+          ],
+          "original": "By NICHOLAS PILARSKI and DESTINI RILEY"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "57c8915d95d0e021d7983ea5",
+        "word_count": "351",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/sports/olympics/olympic-cover-up-why-you-wont-see-some-shoe-logos.html",
+        "snippet": "Although it is unclear how many athletes will be disguising their footwear at the Rio Games, the practice is common at track meets, for various reasons....",
+        "lead_paragraph": "Although it is unclear how many athletes will be disguising their footwear at the Rio Games, the practice is common at track meets, for various reasons.",
+        "abstract": "Many athletes competing in track and field events at 2016  Rio Olympics plan to camouflage logos of non-sponsor brands on their footwear using creative combination of paint, tape and other methods of disguise; hiding logos of competing brands allows athletes to wear their choice of footwear, item particularly important to performance, without offending sponsors in powerful $75 billion global athletic footwear industry.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/10/sports/10TRACKSS-slide-VHNS/10TRACKSS-slide-VHNS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/10/sports/10TRACKSS-slide-VHNS/10TRACKSS-slide-VHNS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/10/sports/10TRACKSS-slide-VHNS/10TRACKSS-slide-VHNS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/10/sports/10TRACKSS-slide-VHNS/10TRACKSS-slide-VHNS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/10/sports/10TRACKSS-slide-VHNS/10TRACKSS-slide-VHNS-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/10/sports/10TRACKSS-slide-VHNS/10TRACKSS-slide-VHNS-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Olympic Cover-Up: Why You Won\u2019t See Some Shoe Logos",
+          "print_headline": "Competing for Olympic Fame, Wearing Brand X on Their Feet"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sporting Goods and Equipment"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sneakers"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Track and Field"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "NIKE Inc"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Trademarks and Trade Names"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Logos"
+          }
+        ],
+        "pub_date": "2016-08-02T21:28:22+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jer\u00e9",
+              "rank": 1,
+              "lastname": "LONGMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joe",
+              "rank": 2,
+              "lastname": "WARD"
+            }
+          ],
+          "original": "By JER\u00c9 LONGMAN and JOE WARD"
+        },
+        "type_of_material": "News",
+        "_id": "57c890c695d0e021d7983e86",
+        "word_count": "1469",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/opinion/100000004564756/i-destini.html",
+        "snippet": "A racist system. A brother in jail. One teenage girl turned to animation to make sense of it all....",
+        "lead_paragraph": "A racist system. A brother in jail. One teenage girl turned to animation to make sense of it all.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/multimedia/opdoc-i-destini/opdoc-i-destini-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/multimedia/opdoc-i-destini/opdoc-i-destini-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/multimedia/opdoc-i-destini/opdoc-i-destini-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/multimedia/opdoc-i-destini/opdoc-i-destini-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/multimedia/opdoc-i-destini/opdoc-i-destini-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/multimedia/opdoc-i-destini/opdoc-i-destini-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "I, Destini"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Race and Ethnicity"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Racial Profiling"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Animated Films"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Durham (NC)"
+          }
+        ],
+        "pub_date": "2016-08-02T21:27:54+0000",
+        "document_type": "multimedia",
+        "news_desk": "Opinion",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "PILARSKI"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Destini",
+              "rank": 2,
+              "lastname": "RILEY"
+            }
+          ],
+          "original": "By NICHOLAS PILARSKI and DESTINI RILEY"
+        },
+        "type_of_material": "Video",
+        "_id": "580035b495d0e022439c3196",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/02/movies/summer-movie-trailers-august.html",
+        "snippet": "A suicide squad, a samurai, hot dogs and a young Barack Obama come to the big screen this month....",
+        "lead_paragraph": "A suicide squad, a samurai, hot dogs and a young Barack Obama come to the big screen this month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/04/28/movies/kubo-image/kubo-image-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/04/28/movies/kubo-image/kubo-image-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/04/28/movies/kubo-image/kubo-image-articleLarge-v2.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/04/28/movies/kubo-image/kubo-image-articleLarge-v2.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/04/28/movies/kubo-image/kubo-image-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/04/28/movies/kubo-image/kubo-image-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Summer Movies Preview: 10 Trailers for August"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-08-02T21:19:07+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anita",
+              "rank": 1,
+              "lastname": "GATES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mekado",
+              "rank": 2,
+              "lastname": "MURPHY"
+            }
+          ],
+          "original": "By ANITA GATES and MEKADO MURPHY"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "58874ff795d0e0392607c752",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/fashion/calvin-klein-names-raf-simons-its-first-chief-creative-officer.html",
+        "snippet": "Raf Simons, formerly of Dior, will take responsibility for all Calvin Klein lines, consolidating creative control for the company....",
+        "lead_paragraph": "Raf Simons, formerly of Dior, will take responsibility for all Calvin Klein lines, consolidating creative control for the company.",
+        "abstract": "Calvin Klein names Belgian designer Raf Simons as its first chief creative officer; appointment heralds major pivot in strategy for fashion firm.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/business/03OTR/03OTR-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/business/03OTR/03OTR-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/business/03OTR/03OTR-articleLarge.jpg",
+            "height": 382,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/business/03OTR/03OTR-articleLarge.jpg",
+              "xlargeheight": "382"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/business/03OTR/03OTR-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/business/03OTR/03OTR-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Calvin Klein Names Its First Chief Creative Officer",
+          "content_kicker": "On the Runway",
+          "kicker": "On the Runway",
+          "print_headline": "Calvin Klein Names Former Dior Designer as Its First Chief Creative Officer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Simons, Raf"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Klein, Calvin"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Phillips-Van Heusen Corporation"
+          }
+        ],
+        "pub_date": "2016-08-02T20:21:35+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Vanessa",
+              "rank": 1,
+              "lastname": "FRIEDMAN"
+            }
+          ],
+          "original": "By VANESSA FRIEDMAN"
+        },
+        "type_of_material": "News",
+        "_id": "57c8907595d0e021d7983e6d",
+        "word_count": "878",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004565299/man-on-spire.html",
+        "snippet": "Climb the spire of 1 World Trade Center with the professional mountaineer and photographer Jimmy Chin....",
+        "lead_paragraph": "Climb the spire of 1 World Trade Center with the professional mountaineer and photographer Jimmy Chin.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/05/magazine/05climb4/05climb4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/05/magazine/05climb4/05climb4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/05/magazine/05climb4/05climb4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/05/magazine/05climb4/05climb4-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/05/magazine/05climb4/05climb4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/05/magazine/05climb4/05climb4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Man on Spire"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T20:06:12+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jenna",
+              "rank": 1,
+              "lastname": "PIROG"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christine",
+              "rank": 2,
+              "lastname": "WALSH"
+            }
+          ],
+          "original": "By JENNA PIROG and CHRISTINE WALSH"
+        },
+        "type_of_material": null,
+        "_id": "5888fe5695d0e0392607cc2e",
+        "word_count": "16",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/business/dealbook/big-banks-make-a-pitch-for-hearts-and-minds.html",
+        "snippet": "Citigroup\u2019s ad campaign for the Olympics showcases the benefits of large global banks, and other big banks are trying to soften their image....",
+        "lead_paragraph": "Citigroup\u2019s ad campaign for the Olympics showcases the benefits of large global banks, and other big banks are trying to soften their image.",
+        "abstract": "Big American banks, facing anger and resentment since financial crisis, are increasing efforts, and testing new methods, to sway public opinion in their favor; executives at number of major banks admit failure in conveying benefits of large modern bank to customers.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Big Banks Make a Pitch for Hearts and Minds",
+          "print_headline": "Big Banks  Make a Pitch for Hearts  and Minds"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Citigroup Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Advertising and Marketing"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Public Relations and Publicity"
+          }
+        ],
+        "pub_date": "2016-08-02T20:03:08+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "CORKERY"
+            }
+          ],
+          "original": "By MICHAEL CORKERY"
+        },
+        "type_of_material": "News",
+        "_id": "57c890b595d0e021d7983e7e",
+        "word_count": "1078",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/business/dealbook/100000004560047/making-a-case-for-big-banks.html",
+        "snippet": "Bank of America commissioned a video series that explains to employees the purpose of a bank, highlighting both its global reach and role as the 'lifeblood of a community.'...",
+        "lead_paragraph": "Bank of America commissioned a video series that explains to employees the purpose of a bank, highlighting both its global reach and role as the 'lifeblood of a community.'",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/multimedia/bofa-ad-campaign/bofa-ad-campaign-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/multimedia/bofa-ad-campaign/bofa-ad-campaign-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/multimedia/bofa-ad-campaign/bofa-ad-campaign-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/multimedia/bofa-ad-campaign/bofa-ad-campaign-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/multimedia/bofa-ad-campaign/bofa-ad-campaign-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/multimedia/bofa-ad-campaign/bofa-ad-campaign-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Making a Case for Big Banks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bank of America Corporation"
+          }
+        ],
+        "pub_date": "2016-08-02T20:00:29+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By BANK of AMERICA"
+        },
+        "type_of_material": "Video",
+        "_id": "5888fe5695d0e0392607cc2f",
+        "word_count": "29",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/business/dealbook/100000004559305/citi-ad-shows-merits-of-big-banks.html",
+        "snippet": "Often the villains in political speeches, big banks are declaring their worth. Citigroup, a sponsor of the U.S. Olympic team, is using an ad campaign to highlight the benefits of being a large global bank....",
+        "lead_paragraph": "Often the villains in political speeches, big banks are declaring their worth. Citigroup, a sponsor of the U.S. Olympic team, is using an ad campaign to highlight the benefits of being a large global bank.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/business/03DB-BANKADS/03DB-BANKADS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/business/03DB-BANKADS/03DB-BANKADS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/business/03DB-BANKADS/03DB-BANKADS-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/business/03DB-BANKADS/03DB-BANKADS-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/business/03DB-BANKADS/03DB-BANKADS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/business/03DB-BANKADS/03DB-BANKADS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Citi Ad Shows Merits of Big Banks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Citigroup Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Advertising and Marketing"
+          }
+        ],
+        "pub_date": "2016-08-02T19:59:44+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Citigroup",
+              "rank": 1
+            }
+          ],
+          "original": "By CITIGROUP"
+        },
+        "type_of_material": "Video",
+        "_id": "5888fe5695d0e0392607cc30",
+        "word_count": "35",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

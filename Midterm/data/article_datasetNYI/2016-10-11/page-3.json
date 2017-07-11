@@ -1,0 +1,359 @@
+{
+  "response": {
+    "meta": {
+      "hits": 837,
+      "time": 37,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-players-charged-rape.html",
+        "snippet": "The Tennessee high school basketball player convicted of aggravated rape of a freshman teammate will be released from custody next month, a person familiar with the case said Tuesday....",
+        "lead_paragraph": "The Tennessee high school basketball player convicted of aggravated rape of a freshman teammate will be released from custody next month, a person familiar with the case said Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Source: Player Convicted of Raping Teammate Set for Release",
+          "print_headline": "Source: Player Convicted of Raping Teammate Set for Release"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:19:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd663495d0e022439c2a49",
+        "word_count": "586",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-governor-2016-north-carolina-debate.html",
+        "snippet": "In a story Oct. 11 about North Carolina's gubernatorial debate, The Associated Press reported erroneously the circumstances of legislation to move $500,000 from a disaster recovery fund to pay legal expenses related to the state's law limiting pro...",
+        "lead_paragraph": "In a story Oct. 11 about North Carolina's gubernatorial debate, The Associated Press reported erroneously the circumstances of legislation to move $500,000 from a disaster recovery fund to pay legal expenses related to the state's law limiting protections for LGBT people. Gov. Pat McCrory let the bill become law without his signature; he did not sign it into law because he disliked that funding provision.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Governor 2016-North Carolina-Debate Story",
+          "print_headline": "Correction: Governor 2016-North Carolina-Debate Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:58:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd660695d0e022439c2a48",
+        "word_count": "876",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/sports/soccer/11reuters-soccer-england-villa.html",
+        "snippet": "Former European champions Aston Villa are set to name Steve Bruce as their new manager on Wednesday to replace the sacked Roberto Di Matteo, local media reported....",
+        "lead_paragraph": "Former European champions Aston Villa are set to name Steve Bruce as their new manager on Wednesday to replace the sacked Roberto Di Matteo, local media reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bruce Set to Be Named Villa Manager on Wednesday",
+          "print_headline": "Bruce Set to Be Named Villa Manager on Wednesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:19:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd65f095d0e022439c2a47",
+        "word_count": "214",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/asia/100000004703547/ashura-attack-kabul-afghanistan.html",
+        "snippet": "While hundreds of worshippers gathered at a Shiite shrine in Kabul, gunmen masquerading as police officers killed at least 14 and injured dozens more....",
+        "lead_paragraph": "While hundreds of worshippers gathered at a Shiite shrine in Kabul, gunmen masquerading as police officers killed at least 14 and injured dozens more.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/12/world/video-kabul2/video-kabul2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/12/world/video-kabul2/video-kabul2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/12/world/video-kabul2/video-kabul2-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/12/world/video-kabul2/video-kabul2-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/12/world/video-kabul2/video-kabul2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/12/world/video-kabul2/video-kabul2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Attack on Religious Site in Afghanistan"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shiite Muslims"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Kabul (Afghanistan)"
+          }
+        ],
+        "pub_date": "2016-10-11T22:19:29+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Asia Pacific",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Turner",
+              "rank": 1,
+              "lastname": "COWLES"
+            }
+          ],
+          "original": "By TURNER COWLES"
+        },
+        "type_of_material": "Video",
+        "_id": "57fd657e95d0e022439c2a45",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/world/americas/11reuters-minnesota-sexcrimes.html",
+        "snippet": "A self-styled Minnesota church leader who was arrested in Brazil last year on allegations of sexually assaulting two 15-year-old girls pleaded guilty on Tuesday to felony sex crimes, prosecutors said....",
+        "lead_paragraph": "A self-styled Minnesota church leader who was arrested in Brazil last year on allegations of sexually assaulting two 15-year-old girls pleaded guilty on Tuesday to felony sex crimes, prosecutors said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Self-Styled Minnesota Pastor Pleads Guilty to Sex Crimes",
+          "print_headline": "Self-Styled Minnesota Pastor Pleads Guilty to Sex Crimes"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:11:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd63dc95d0e022439c2a44",
+        "word_count": "320",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/sports/soccer/11reuters-soccer-worldcup-slo-eng-quotes.html",
+        "snippet": "England interim manager Gareth Southgate is halfway through his audition for the full-time job but his hopes were hardly helped by an ugly performance in a 0-0 draw in Slovenia on Tuesday....",
+        "lead_paragraph": "England interim manager Gareth Southgate is halfway through his audition for the full-time job but his hopes were hardly helped by an ugly performance in a 0-0 draw in Slovenia on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Southgate's Prospects Not Helped by Dismal England Display",
+          "print_headline": "Southgate's Prospects Not Helped by Dismal England Display"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:10:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd63d695d0e022439c2a43",
+        "word_count": "495",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-stayin-alive-cpr.html",
+        "snippet": "A subway worker has survived an electrocution on the third rail thanks to a co-worker performing CPR to the beat of the 1977 Bee Gees disco hit \"Stayin' Alive.\"...",
+        "lead_paragraph": "A subway worker has survived an electrocution on the third rail thanks to a co-worker performing CPR to the beat of the 1977 Bee Gees disco hit \"Stayin' Alive.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "'Stayin' Alive' Disco Beat Helps Save Subway Worker's Life",
+          "print_headline": "'Stayin' Alive' Disco Beat Helps Save Subway Worker's Life"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:06:13Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd638f95d0e022439c2a42",
+        "word_count": "250",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-breeding-bison.html",
+        "snippet": "Researchers have transplanted embryos originating from the bison herd at Yellowstone National Park into female bison in Minnesota in hopes of increasing the genetic diversity of herds in the state and helping to restore America's official mammal t...",
+        "lead_paragraph": "Researchers have transplanted embryos originating from the bison herd at Yellowstone National Park into female bison in Minnesota in hopes of increasing the genetic diversity of herds in the state and helping to restore America's official mammal to the landscape.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Researchers Work to Spread Prized Genes of Yellowstone Bison",
+          "print_headline": "Researchers Work to Spread Prized Genes of Yellowstone Bison"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:07:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd635995d0e022439c2a41",
+        "word_count": "579",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-barricade-police-shooting.html",
+        "snippet": "Lawyers representing the family of a woman fatally shot by Baltimore County police have added two more officers to a wrongful death lawsuit they filed in September....",
+        "lead_paragraph": "Lawyers representing the family of a woman fatally shot by Baltimore County police have added two more officers to a wrongful death lawsuit they filed in September.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Officers Added to Wrongful Death Suit in Police Shooting",
+          "print_headline": "2 Officers Added to Wrongful Death Suit in Police Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:39:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd634995d0e022439c2a40",
+        "word_count": "142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/world/africa/south-sudan-ban-united-nations-peacekeepers.html",
+        "snippet": "A confidential letter from the U.N. secretary-general says South Sudan's government is undermining a U.N. Security Council decision to deploy an additional 4,000 peacekeepers, risking an arms embargo as fighting continues in the world's youngest n...",
+        "lead_paragraph": "A confidential letter from the U.N. secretary-general says South Sudan's government is undermining a U.N. Security Council decision to deploy an additional 4,000 peacekeepers, risking an arms embargo as fighting continues in the world's youngest nation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "South Sudan Undermines Deal to Send More Peacekeepers: UN",
+          "print_headline": "South Sudan Undermines Deal to Send More Peacekeepers: UN"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:00:20Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd61d895d0e022439c2a3f",
+        "word_count": "566",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

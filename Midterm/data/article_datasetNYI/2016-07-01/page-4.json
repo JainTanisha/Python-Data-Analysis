@@ -1,0 +1,691 @@
+{
+  "response": {
+    "meta": {
+      "hits": 988,
+      "time": 54,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/baseball/ap-bbn-mets-wright-reyes.html",
+        "snippet": "David Wright says Jose Reyes' actions in a domestic-violence dispute were \"horrible,\" but he is pleased his former teammate is being given a second chance by the New York Mets....",
+        "lead_paragraph": "David Wright says Jose Reyes' actions in a domestic-violence dispute were \"horrible,\" but he is pleased his former teammate is being given a second chance by the New York Mets.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Wright: Reyes' Actions 'Horrible' but He Deserves 2nd Chance",
+          "print_headline": "Wright: Reyes' Actions 'Horrible' but He Deserves 2nd Chance"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:55:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777119d38f0d81f396c04ca",
+        "word_count": "169",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/world/asia/ap-as-china-bus-crash-.html",
+        "snippet": "An overnight sleeper bus in northern China fell off an expressway into a ditch after a tire burst, killing 26 people, officials said....",
+        "lead_paragraph": "An overnight sleeper bus in northern China fell off an expressway into a ditch after a tire burst, killing 26 people, officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "China Bus Falls Off Expressway After Tire Bursts, Killing 26",
+          "print_headline": "China Bus Falls Off Expressway After Tire Bursts, Killing 26"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:56:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777118b38f0d81f396c04c9",
+        "word_count": "100",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/theater/broadway-comes-to-a-laptop-near-you.html",
+        "snippet": "The first live stream of a Broadway musical, \u201cShe Loves Me,\u201d went smoothly, but not without artistic and technological complications....",
+        "lead_paragraph": "The first live stream of a Broadway musical, \u201cShe Loves Me,\u201d went smoothly, but not without artistic and technological complications.",
+        "abstract": "Margaret Lyons Critic's Notebook comments on BroadwayHD broadcast of musical She Loves Me, first-ever Broadway show to be live streamed for home viewers; notes inherent challenges of translating live performance for television audience.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/arts/02SHELOVESME/02SHELOVESME-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/arts/02SHELOVESME/02SHELOVESME-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/arts/02SHELOVESME/02SHELOVESME-articleLarge.jpg",
+            "height": 374,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/arts/02SHELOVESME/02SHELOVESME-articleLarge.jpg",
+              "xlargeheight": "374"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/arts/02SHELOVESME/02SHELOVESME-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/arts/02SHELOVESME/02SHELOVESME-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Broadway Comes to a Laptop Near You",
+          "content_kicker": "Critic\u2019s Notebook",
+          "kicker": "Critic\u2019s Notebook",
+          "print_headline": "One Click, and Broadway Comes Home"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Video Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "BroadwayHD"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "She Loves Me (Play)"
+          }
+        ],
+        "pub_date": "2016-07-01T20:56:45+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margaret",
+              "rank": 1,
+              "lastname": "LYONS"
+            }
+          ],
+          "original": "By MARGARET LYONS"
+        },
+        "type_of_material": "News",
+        "_id": "5776d91338f0d81f396c0456",
+        "word_count": "689",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004507414/aerial-view-of-floridas-algae-bloom.html",
+        "snippet": "The bloom led Gov. Rick Scott of Florida to declare a state of emergency in four counties....",
+        "lead_paragraph": "The bloom led Gov. Rick Scott of Florida to declare a state of emergency in four counties.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/01/multimedia/02algae-bloom/02algae-bloom-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/01/multimedia/02algae-bloom/02algae-bloom-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/01/multimedia/02algae-bloom/02algae-bloom-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/01/multimedia/02algae-bloom/02algae-bloom-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/01/multimedia/02algae-bloom/02algae-bloom-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/01/multimedia/02algae-bloom/02algae-bloom-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Aerial View of Florida\u2019s Algae Bloom"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Algae"
+          }
+        ],
+        "pub_date": "2016-07-01T20:55:13Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "5777113238f0d81f396c04c8",
+        "word_count": "17",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/us/ap-us-west-texas-teen-slain.html",
+        "snippet": "A Texas couple has been indicted on capital murder charges in the February death of the woman's 18-year-old daughter....",
+        "lead_paragraph": "A Texas couple has been indicted on capital murder charges in the February death of the woman's 18-year-old daughter.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Texas Couple Indicted in Slaying of Woman's Daughter",
+          "print_headline": "Texas Couple Indicted in Slaying of Woman's Daughter"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:53:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577710e538f0d81f396c04c7",
+        "word_count": "137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/world/01reuters-elsalvador-violence.html",
+        "snippet": "Murders in El Salvador plunged 51 percent in June compared with the same month last year, police said on Friday, attributing the drop to new government security measures even as gangs pointed to a recent truce to explain the decline....",
+        "lead_paragraph": "Murders in El Salvador plunged 51 percent in June compared with the same month last year, police said on Friday, attributing the drop to new government security measures even as gangs pointed to a recent truce to explain the decline. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Murders in El Salvador Drop by Half in June",
+          "print_headline": "Murders in El Salvador Drop by Half in June"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:53:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "577710ca38f0d81f396c04c6",
+        "word_count": "171",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/baseball/ap-bbn-mets-wright.html",
+        "snippet": "David Wright walked stiffly from the clubhouse to the corridor outside the Mets batting cage, stood in front of a wall, a large white bandage covering the skin just below his Adam's apple....",
+        "lead_paragraph": "David Wright walked stiffly from the clubhouse to the corridor outside the Mets batting cage, stood in front of a wall, a large white bandage covering the skin just below his Adam's apple.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Wright Return From Neck Surgery Likely Will Be in 2017",
+          "print_headline": "Wright Return From Neck Surgery Likely Will Be in 2017"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T20:50:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777103438f0d81f396c04c4",
+        "word_count": "796",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/arts/dance/review-jacobs-pillow-dance-festival-bereishit-dance-company-bow.html",
+        "snippet": "The contemporary style of Bereishit Dance Company draws on many sources, including hip-hop and judo....",
+        "lead_paragraph": "The contemporary style of Bereishit Dance Company draws on many sources, including hip-hop and judo.",
+        "abstract": "Siobhan Burke reviews performance by South Korea's Bereishit Dance Company at Jacob's Pillow Dance Festival in Becket, Mass.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/arts/02BEREISHIT/02BEREISHIT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/arts/02BEREISHIT/02BEREISHIT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/arts/02BEREISHIT/02BEREISHIT-articleLarge.jpg",
+            "height": 474,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/arts/02BEREISHIT/02BEREISHIT-articleLarge.jpg",
+              "xlargeheight": "474"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/arts/02BEREISHIT/02BEREISHIT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/arts/02BEREISHIT/02BEREISHIT-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: A Taste of Seoul at Jacob\u2019s Pillow Dance Festival",
+          "print_headline": "Defying Walls, With the Thrill of Falling Borders"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Jacob's Pillow Dance Festival"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Bereishit Dance Co"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Park, Soon-ho"
+          }
+        ],
+        "pub_date": "2016-07-01T20:50:09+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Siobhan",
+              "rank": 1,
+              "lastname": "BURKE"
+            }
+          ],
+          "original": "By SIOBHAN BURKE"
+        },
+        "type_of_material": "Review",
+        "_id": "5776d78538f0d81f396c044d",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/03/fashion/new-york-times-bill-cunningham-columns.html",
+        "snippet": "His signature pages made their debut some 27 years ago. They managed to capture real people at important moments....",
+        "lead_paragraph": "His signature pages made their debut some 27 years ago. They managed to capture real people at important moments.",
+        "abstract": "Fans and style devotees discuss timeless appeal of Bill Cunningham's trademark columns and photography.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/03/fashion/03GENESIS1/03GENESIS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/03/fashion/03GENESIS1/03GENESIS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/03/fashion/03GENESIS1/03GENESIS1-articleLarge.jpg",
+            "height": 482,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/03/fashion/03GENESIS1/03GENESIS1-articleLarge.jpg",
+              "xlargeheight": "482"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/03/fashion/03GENESIS1/03GENESIS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/03/fashion/03GENESIS1/03GENESIS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Bill Cunningham\u2019s Columns, the Early Days",
+          "print_headline": "A Signature Style, Back at the Beginning"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Cunningham, Bill"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Photography"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Philanthropy"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parties (Social)"
+          }
+        ],
+        "pub_date": "2016-07-01T20:48:41+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Katherine",
+              "rank": 1,
+              "lastname": "ROSMAN"
+            }
+          ],
+          "original": "By KATHERINE ROSMAN"
+        },
+        "type_of_material": "News",
+        "_id": "5776d72e38f0d81f396c044a",
+        "word_count": "1220",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/business/unitedhealthcare-sues-dialysis-chain-over-billing.html",
+        "snippet": "The suit accuses the chain of pushing patients out of government programs and into UnitedHealthcare plans, which pay more for dialysis treatment....",
+        "lead_paragraph": "The suit accuses the chain of pushing patients out of government programs and into UnitedHealthcare plans, which pay more for dialysis treatment.",
+        "abstract": "United Healthcare files lawsuit in federal court accusing public company American Renal Associates of illegally pushing residents in Florida and Ohio away from inexpensive government programs and into expensive private plans sold by insurer in order to fraudulently bill millions of dollars for dialysis treatment.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/business/02UNITEDHEALTH/02UNITEDHEALTH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/business/02UNITEDHEALTH/02UNITEDHEALTH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/business/02UNITEDHEALTH/02UNITEDHEALTH-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/business/02UNITEDHEALTH/02UNITEDHEALTH-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/business/02UNITEDHEALTH/02UNITEDHEALTH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/business/02UNITEDHEALTH/02UNITEDHEALTH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "UnitedHealthcare Sues Dialysis Chain Over Billing",
+          "print_headline": "Insurer\u2019s Suit Says Dialysis Chain Switched Patients From Medicaid for Profit"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "United Healthcare Insurance Co"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ohio"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dialysis"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bribery and Kickbacks"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Kidney Fund"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "American Renal Associates Holdings Inc."
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Frauds and Swindling"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Kidneys"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+          }
+        ],
+        "pub_date": "2016-07-01T20:44:05+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Reed",
+              "rank": 1,
+              "lastname": "ABELSON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Katie",
+              "rank": 2,
+              "lastname": "THOMAS"
+            }
+          ],
+          "original": "By REED ABELSON and KATIE THOMAS"
+        },
+        "type_of_material": "News",
+        "_id": "5776d61938f0d81f396c0448",
+        "word_count": "1323",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

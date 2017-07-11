@@ -1,0 +1,384 @@
+{
+  "response": {
+    "meta": {
+      "hits": 694,
+      "time": 35,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/sports/golf/ap-glf-us-senior-open.html",
+        "snippet": "Gene Sauers closed with a 1-under 69 and took advantage of another collapse by Miguel Angel Jimenez to win the rain-delayed U.S. Senior Open on Monday for his first senior victory....",
+        "lead_paragraph": "Gene Sauers closed with a 1-under 69 and took advantage of another collapse by Miguel Angel Jimenez to win the rain-delayed U.S. Senior Open on Monday for his first senior victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gene Sauers Wins US Senior Open Championship.",
+          "print_headline": "Gene Sauers Wins US Senior Open Championship."
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:31:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2437395d0e021d7980d86",
+        "word_count": "603",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/arts/100000004594215/trailer-hush.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/28/arts/28BLINDHORROR2/28BLINDHORROR2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/28/arts/28BLINDHORROR2/28BLINDHORROR2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/28/arts/28BLINDHORROR2/28BLINDHORROR2-articleLarge.jpg",
+            "height": 321,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/28/arts/28BLINDHORROR2/28BLINDHORROR2-articleLarge.jpg",
+              "xlargeheight": "321"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/28/arts/28BLINDHORROR2/28BLINDHORROR2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/28/arts/28BLINDHORROR2/28BLINDHORROR2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: \u2018Hush\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-08-15T22:31:54+0000",
+        "document_type": "multimedia",
+        "news_desk": "Arts",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Netflix",
+              "rank": 1
+            }
+          ],
+          "original": "By NETFLIX"
+        },
+        "type_of_material": "Video",
+        "_id": "57b242f695d0e021d7980d84",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/sports/olympics/ap-oly-ath-russian-whistleblower.html",
+        "snippet": "The runner who blew the whistle on the doping scandal in Russia fears for her safety and has switched residences after hackers breached a database that records her whereabouts....",
+        "lead_paragraph": "The runner who blew the whistle on the doping scandal in Russia fears for her safety and has switched residences after hackers breached a database that records her whereabouts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Stepanova: If Something Happens to Us, It's Not an Accident",
+          "print_headline": "Stepanova: If Something Happens to Us, It's Not an Accident"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:23:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b242d695d0e021d7980d83",
+        "word_count": "544",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/us/ap-us-water-park-fatality-weights.html",
+        "snippet": "Police say combined weights for a 10-year-old boy and two other people riding a raft with him at a water park when he was killed were within the ride's limits....",
+        "lead_paragraph": "Police say combined weights for a 10-year-old boy and two other people riding a raft with him at a water park when he was killed were within the ride's limits.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Weights in Water Park Death Within Limits",
+          "print_headline": "Police: Weights in Water Park Death Within Limits"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:22:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b242af95d0e021d7980d82",
+        "word_count": "134",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/us/15reuters-wisconsin-police-segregation.html",
+        "snippet": "For Randy Jones, a community activist in the Milwaukee district of Sherman Park, the rioting that took place in his neighborhood over the weekend was inevitable....",
+        "lead_paragraph": "For Randy Jones, a community activist in the Milwaukee district of Sherman Park, the rioting that took place in his neighborhood over the weekend was inevitable.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "After Decades of Segregation, Anger Boils Over in Milwaukee",
+          "print_headline": "After Decades of Segregation, Anger Boils Over in Milwaukee"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:29:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2429195d0e021d7980d81",
+        "word_count": "720",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/sports/olympics/ap-oly-bkl-international-experience.html",
+        "snippet": "The U.S. women's basketball team's dominating performances at the Olympics over the past two decades isn't the result of simply having the best players in the world....",
+        "lead_paragraph": "The U.S. women's basketball team's dominating performances at the Olympics over the past two decades isn't the result of simply having the best players in the world.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Overseas Play Has Helped US Women's Basketball Team Dominate",
+          "print_headline": "Overseas Play Has Helped US Women's Basketball Team Dominate"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:18:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b240c295d0e021d7980d80",
+        "word_count": "688",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/us/ap-us-sailor-sexual-assault.html",
+        "snippet": "A military court arraigned a U.S. sailor on Monday on charges of raping and attempting to kill a fellow sailor and for allegedly attacking a civilian woman in a separate incident months later....",
+        "lead_paragraph": "A military court arraigned a U.S. sailor on Monday on charges of raping and attempting to kill a fellow sailor and for allegedly attacking a civilian woman in a separate incident months later.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Navy: Sailor Allegedly Raped, Tried to Kill Female Sailor",
+          "print_headline": "Navy: Sailor Allegedly Raped, Tried to Kill Female Sailor"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:18:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2409a95d0e021d7980d7f",
+        "word_count": "230",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/15/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/15/nytnow/15eveningss-slide-PXSD/15eveningss-slide-PXSD-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/15/nytnow/15eveningss-slide-PXSD/15eveningss-slide-PXSD-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/15/nytnow/15eveningss-slide-PXSD/15eveningss-slide-PXSD-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/15/nytnow/15eveningss-slide-PXSD/15eveningss-slide-PXSD-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/15/nytnow/15eveningss-slide-PXSD/15eveningss-slide-PXSD-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/15/nytnow/15eveningss-slide-PXSD/15eveningss-slide-PXSD-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57b2409395d0e021d7980d7e",
+        "word_count": "12",
+        "slideshow_credits": "Damon Winter/The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/15/us/ap-us-la-homeless.html",
+        "snippet": "A strategy of placing homeless people in permanent housing instead of short-term shelters actually may have increased the problem in Los Angeles County, it was reported Monday....",
+        "lead_paragraph": "A strategy of placing homeless people in permanent housing instead of short-term shelters actually may have increased the problem in Los Angeles County, it was reported Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "LA Housing Solutions May Bring More Homeless Problems",
+          "print_headline": "LA Housing Solutions May Bring More Homeless Problems"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T21:53:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2408995d0e021d7980d7d",
+        "word_count": "475",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/15/sports/soccer/15reuters-soccer-sweden-hooligan.html",
+        "snippet": "A masked fan ran onto the pitch, attacked a goalkeeper and said he had left a bomb in the stands of a top flight Swedish soccer match on Monday, forcing the game to be abandoned in the final minute....",
+        "lead_paragraph": "A masked fan ran onto the pitch, attacked a goalkeeper and said he had left a bomb in the stands of a top flight Swedish soccer match on Monday, forcing the game to be abandoned in the final minute.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Teen Arrested After Goalkeeper Attacked on Pitch in Sweden",
+          "print_headline": "Teen Arrested After Goalkeeper Attacked on Pitch in Sweden"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-15T22:19:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b2407195d0e021d7980d7c",
+        "word_count": "232",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,543 @@
+{
+  "response": {
+    "meta": {
+      "hits": 913,
+      "time": 91,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/03/world/middleeast/israel-jerusalem-netanyahu-western-wall.html",
+        "snippet": "A stalled government plan for equal prayer rights for men and women underscored deepening discord between the Israeli authorities and many non-Orthodox Jews abroad....",
+        "lead_paragraph": "A stalled government plan for equal prayer rights for men and women underscored deepening discord between the Israeli authorities and many non-Orthodox Jews abroad.",
+        "abstract": "Israeli Prime Min Benjamin Netanyahu criticizes American Jewish leaders over protest by liberal rabbis about stalled plans for equal prayer rights at Western Wall for both women and men; conflict points to growing rift between Israeli authorities and many Jews abroad.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/world/03israel1/03israel1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/world/03israel1/03israel1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/03/world/03israel1/03israel1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/03/world/03israel1/03israel1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/world/03israel1/03israel1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/world/03israel1/03israel1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Netanyahu Criticizes American Jewish Leaders Over Western Wall Protest",
+          "print_headline": "Netanyahu Criticizes American Jewish Leaders"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Israel"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Netanyahu, Benjamin"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Western Wall (Jerusalem)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jews and Judaism"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women's Rights"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Women of the Wall"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Jerusalem (Israel)"
+          }
+        ],
+        "pub_date": "2016-11-02T22:34:28Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Isabel",
+              "rank": 1,
+              "lastname": "KERSHNER"
+            }
+          ],
+          "original": "By ISABEL KERSHNER"
+        },
+        "type_of_material": "News",
+        "_id": "581b663795d0e022439c6b7f",
+        "word_count": "692",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/sports/ap-car-nascar-around-the-track.html",
+        "snippet": "Carl Edwards heads to Texas Motor Speedway last in the playoff standings, which does not show how well he has run in this year's Chase....",
+        "lead_paragraph": "Carl Edwards heads to Texas Motor Speedway last in the playoff standings, which does not show how well he has run in this year's Chase.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Edwards Likely Needs a Win to Avoid Elimination in Playoffs",
+          "print_headline": "Edwards Likely Needs a Win to Avoid Elimination in Playoffs"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:32:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b666095d0e022439c6b80",
+        "word_count": "618",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/fashion/mens-style/thanksgiving-cooking-advice-turkey.html",
+        "snippet": "You will make vegetables for your vegetarian guests, and you will call them by their proper names....",
+        "lead_paragraph": "You will make vegetables for your vegetarian guests, and you will call them by their proper names.",
+        "abstract": null,
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/fashion/04FOOD/04FOOD-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/fashion/04FOOD/04FOOD-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/fashion/04FOOD/04FOOD-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/fashion/04FOOD/04FOOD-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/fashion/04FOOD/04FOOD-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/fashion/04FOOD/04FOOD-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "No Tofurkey for You (and Other Thanksgiving Cooking Advice)",
+          "content_kicker": "Hey, Mr. Food Editor",
+          "kicker": "Hey Mr. Food Editor",
+          "print_headline": "Pass the Tofurkey? No Way"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Turkeys"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Vegetables"
+          }
+        ],
+        "pub_date": "2016-11-02T22:29:00Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Men\u2019s Style",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "SIFTON"
+            }
+          ],
+          "original": "By SAM SIFTON"
+        },
+        "type_of_material": "News",
+        "_id": "581b65f395d0e022439c6b79",
+        "word_count": "709",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/world/ap-cn-canada-quebec-journalists-surveillance.html",
+        "snippet": "The number of reporters who were subject to police surveillance in Quebec is growing as various media outlets are reporting provincial police were keeping track of who their own journalists were speaking to....",
+        "lead_paragraph": "The number of reporters who were subject to police surveillance in Quebec is growing as various media outlets are reporting provincial police were keeping track of who their own journalists were speaking to.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Quebec Reporters Say They Were Under Police Surveillance",
+          "print_headline": "Quebec Reporters Say They Were Under Police Surveillance"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:25:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b65af95d0e022439c6b72",
+        "word_count": "118",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/arts/ap-bbo-world-series-charlie-sheen.html",
+        "snippet": "Wild Thing wasn't going to miss a Game 7 for the ages....",
+        "lead_paragraph": "Wild Thing wasn't going to miss a Game 7 for the ages.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Now Joining the World Series _ Wild Thing",
+          "print_headline": "Now Joining the World Series _ Wild Thing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:25:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b65eb95d0e022439c6b78",
+        "word_count": "182",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/arts/dance/out-of-prison-for-acid-attack-dancer-has-a-building-pass-from-the-bolshoi.html",
+        "snippet": "Pavel V. Dmitrichenko, who was released from prison in May, said he received the pass this fall from the Bolshoi\u2019s new artistic director....",
+        "lead_paragraph": "Pavel V. Dmitrichenko, who was released from prison in May, said he received the pass this fall from the Bolshoi\u2019s new artistic director.",
+        "abstract": null,
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/world/04BOLSHOI1/04BOLSHOI1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/world/04BOLSHOI1/04BOLSHOI1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/world/04BOLSHOI1/04BOLSHOI1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/world/04BOLSHOI1/04BOLSHOI1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/world/04BOLSHOI1/04BOLSHOI1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/world/04BOLSHOI1/04BOLSHOI1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Bolshoi Gives Building Pass to Dancer Involved in Acid Attack on its Director",
+          "print_headline": "2013 Acid Attack Echoes Through Bolshoi Again"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Dmitrichenko, Pavel V"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Bolshoi Ballet"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Assaults"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Filin, Sergei"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          }
+        ],
+        "pub_date": "2016-11-02T22:23:30Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "contributor": "Ivan Nechepurenko in Moscow, Roslyn Sulcas in London and Ellen Barry in Mumbai contributed reporting",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "MacFARQUHAR"
+            }
+          ],
+          "original": "By NEIL MacFARQUHAR"
+        },
+        "type_of_material": "News",
+        "_id": "581b656b95d0e022439c6b6d",
+        "word_count": "1086",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/sports/soccer/02reuters-soccer-champions-war-mad.html",
+        "snippet": "Mateo Kovacic's late strike avoided embarrassment for Real Madrid as the European champions surrendered a two-goal lead before drawing 3-3 with Legia Warsaw in an enthralling Champions League game played amid an empty stadium on Wednesday....",
+        "lead_paragraph": "Mateo Kovacic's late strike avoided embarrassment for Real Madrid as the European champions surrendered a two-goal lead before drawing 3-3 with Legia Warsaw in an enthralling Champions League game played amid an empty stadium on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Real Madrid Salvage Draw in 3-3 Thriller at Legia Warsaw",
+          "print_headline": "Real Madrid Salvage Draw in 3-3 Thriller at Legia Warsaw"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:15:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b655695d0e022439c6b6b",
+        "word_count": "436",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:13:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b651795d0e022439c6b66",
+        "word_count": "1031",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/world/asia/02reuters-malaysia-airlines-search.html",
+        "snippet": "A report into missing Malaysia Airlines Flight MH370 by the Australian safety investigator leading the search supports its view that the aircraft descended rapidly after running out of fuel with no human intervention, the agency said on Wednesday....",
+        "lead_paragraph": "A report into missing Malaysia Airlines Flight MH370 by the Australian safety investigator leading the search supports its view that the aircraft descended rapidly after running out of fuel with no human intervention, the agency said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "MH370 Report Says Plane in 'Increasing Rate of Descent' When It Vanished",
+          "print_headline": "MH370 Report Says Plane in 'Increasing Rate of Descent' When It Vanished"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:09:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b65c195d0e022439c6b74",
+        "word_count": "644",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/arts/ap-us-prince-song-catalog.html",
+        "snippet": "Universal Music Publishing Group has won the exclusive rights to administer Prince's vast song catalog, from \"Alphabet St.\" to \"Little Red Corvette.\"...",
+        "lead_paragraph": "Universal Music Publishing Group has won the exclusive rights to administer Prince's vast song catalog, from \"Alphabet St.\" to \"Little Red Corvette.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Prince's Songs to Be Administered by Universal Music",
+          "print_headline": "Prince's Songs to Be Administered by Universal Music"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:08:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64f895d0e022439c6b64",
+        "word_count": "131",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

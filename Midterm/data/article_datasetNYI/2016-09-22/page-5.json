@@ -1,0 +1,491 @@
+{
+  "response": {
+    "meta": {
+      "hits": 941,
+      "time": 34,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/09/23/arts/television/review-debate-wars-where-nothing-is-too-frivolous-for-argument.html",
+        "snippet": "This hilarious show, on Seeso, is almost certainly more fun than anything that will come out of the presidential debates....",
+        "lead_paragraph": "This hilarious show, on Seeso, is almost certainly more fun than anything that will come out of the presidential debates.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/23/arts/23DEBATEWARS/23DEBATEWARS-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/23/arts/23DEBATEWARS/23DEBATEWARS-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/23/arts/23DEBATEWARS/23DEBATEWARS-articleLarge.jpg",
+            "height": 357,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/23/arts/23DEBATEWARS/23DEBATEWARS-articleLarge.jpg",
+              "xlargeheight": "357"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/23/arts/23DEBATEWARS/23DEBATEWARS-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/23/arts/23DEBATEWARS/23DEBATEWARS-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Debate Wars,\u2019 Where Nothing Is Too Frivolous for Argument",
+          "print_headline": "Not Exactly Clinton vs. Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Debate Wars (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Black, Michael Ian"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "SeeSo"
+          }
+        ],
+        "pub_date": "2016-09-22T22:13:51+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "GENZLINGER"
+            }
+          ],
+          "original": "By NEIL GENZLINGER"
+        },
+        "type_of_material": "Review",
+        "_id": "57e457a495d0e021d7987d81",
+        "word_count": "400",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/22/sports/baseball/ap-bba-yankees-tanaka.html",
+        "snippet": "New York Yankees ace Masahiro Tanaka will miss his scheduled start Monday at Toronto because of what manager Joe Girardi called a slight lower right forearm strain....",
+        "lead_paragraph": "New York Yankees ace Masahiro Tanaka will miss his scheduled start Monday at Toronto because of what manager Joe Girardi called a slight lower right forearm strain.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Yankees' Tanaka Has Forearm Strain, Will Miss His Next Start",
+          "print_headline": "Yankees' Tanaka Has Forearm Strain, Will Miss His Next Start"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:11:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e4577395d0e021d7987d80",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004483866/trailer-closet-monster.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/20/movies/video-closet-monster/video-closet-monster-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/20/movies/video-closet-monster/video-closet-monster-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/20/movies/video-closet-monster/video-closet-monster-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/20/movies/video-closet-monster/video-closet-monster-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/20/movies/video-closet-monster/video-closet-monster-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/20/movies/video-closet-monster/video-closet-monster-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Closet Monster'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:12:55+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Strand",
+              "rank": 1,
+              "lastname": "RELEASING"
+            }
+          ],
+          "original": "By STRAND RELEASING"
+        },
+        "type_of_material": "Video",
+        "_id": "57e4576e95d0e021d7987d7f",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/22/world/middleeast/22reuters-mideast-crisis-syria-meeting.html",
+        "snippet": "The United States and Russia failed to agree on how to revive a short-lived ceasefire in Syria during what the U.N. Syria mediator called a \"long, painful, difficult and disappointing\" meeting on Thursday....",
+        "lead_paragraph": "The United States and Russia failed to agree on how to revive a short-lived ceasefire in Syria during what the U.N. Syria mediator called a \"long, painful, difficult and disappointing\" meeting on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S., Russia Fail to Agree on How to Revive Syria Ceasefire",
+          "print_headline": "U.S., Russia Fail to Agree on How to Revive Syria Ceasefire"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:08:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e4576395d0e021d7987d7e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/23/arts/television/review-the-exorcist-reboots-a-battle-against-a-demonic-presence.html",
+        "snippet": "Inspired by the memorably scary 1973 movie, a new Fox series starring Geena Davis, Ben Daniels and Alfonso Herrera enlists two contrasting priests....",
+        "lead_paragraph": "Inspired by the memorably scary 1973 movie, a new Fox series starring Geena Davis, Ben Daniels and Alfonso Herrera enlists two contrasting priests.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/23/arts/23EXORCIST/23EXORCIST-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/23/arts/23EXORCIST/23EXORCIST-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/23/arts/23EXORCIST/23EXORCIST-articleLarge-v2.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/23/arts/23EXORCIST/23EXORCIST-articleLarge-v2.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/23/arts/23EXORCIST/23EXORCIST-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/23/arts/23EXORCIST/23EXORCIST-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018The Exorcist\u2019 Reboots a Battle Against a Demonic Presence",
+          "print_headline": "Daughter\u2019s Acting Oddly? Call a Can-Do Priest"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Exorcist (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Davis, Geena"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Fox Broadcasting Co"
+          }
+        ],
+        "pub_date": "2016-09-22T22:12:42+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "GENZLINGER"
+            }
+          ],
+          "original": "By NEIL GENZLINGER"
+        },
+        "type_of_material": "Review",
+        "_id": "57e4575e95d0e021d7987d7d",
+        "word_count": "504",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/22/us/politics/ap-us-russia-hacking.html",
+        "snippet": "The top Democrats on the House and Senate intelligence committees said Thursday that they have concluded that Russian intelligence agencies are making a \"serious and concerted effort\" to influence the U.S. presidential election....",
+        "lead_paragraph": "The top Democrats on the House and Senate intelligence committees said Thursday that they have concluded that Russian intelligence agencies are making a \"serious and concerted effort\" to influence the U.S. presidential election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Top Democrats Say They've Concluded That Russia Behind Hacks",
+          "print_headline": "Top Democrats Say They've Concluded That Russia Behind Hacks"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:08:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e456d895d0e021d7987d7c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/22/us/ap-us-yahoo-breach-glance.html",
+        "snippet": "The Yahoo hack exposed personal details from at least 500 million user accounts, potentially the largest breach of an email provider in history. Despite the size of the break-in, attackers don't appear to have accessed obviously sensitive informat...",
+        "lead_paragraph": "The Yahoo hack exposed personal details from at least 500 million user accounts, potentially the largest breach of an email provider in history. Despite the size of the break-in, attackers don't appear to have accessed obviously sensitive information such as financial data or Social Security numbers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Beyond the Yahoo Hack: Other Major Data Breaches",
+          "print_headline": "Beyond the Yahoo Hack: Other Major Data Breaches"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:07:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e456d495d0e021d7987d7a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/22/sports/football/ap-fbn-monster-miller.html",
+        "snippet": "John Elway summoned Von Miller to his office on the eve of training camp with three blank boxes left on his offseason to-do list:...",
+        "lead_paragraph": "John Elway summoned Von Miller to his office on the eve of training camp with three blank boxes left on his offseason to-do list:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Broncos' Von Miller Is in Midst of Monster Stretch",
+          "print_headline": "Broncos' Von Miller Is in Midst of Monster Stretch"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:06:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e456d495d0e021d7987d7b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/22/us/ap-us-sinkhole-fertilizer-plant-.html",
+        "snippet": "A federal lawsuit has been filed by three central Florida residents who live near a fertilizer plant where more than 200 million gallons of contaminated waste water leaked into one of the state's main underground sources of drinking water....",
+        "lead_paragraph": "A federal lawsuit has been filed by three central Florida residents who live near a fertilizer plant where more than 200 million gallons of contaminated waste water leaked into one of the state's main underground sources of drinking water.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Federal Lawsuit Filed by Residents Near Florida Sinkhole",
+          "print_headline": "Federal Lawsuit Filed by Residents Near Florida Sinkhole"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T21:22:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e456c095d0e021d7987d79",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/22/sports/golf/22reuters-golf-pga.html",
+        "snippet": "Top seed Dustin Johnson continued his \"good mojo\" to earn a tie for the first-round lead with Kevin Chappell and Hideki Matsuyama at the Tour Championship in Atlanta on Thursday....",
+        "lead_paragraph": "Top seed Dustin Johnson continued his \"good mojo\" to earn a tie for the first-round lead with Kevin Chappell and Hideki Matsuyama at the Tour Championship in Atlanta on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnson Keeps Mojo Going to Share First-Round Lead",
+          "print_headline": "Johnson Keeps Mojo Going to Share First-Round Lead"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-22T22:07:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e456a295d0e021d7987d77",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

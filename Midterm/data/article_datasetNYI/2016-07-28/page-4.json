@@ -1,0 +1,532 @@
+{
+  "response": {
+    "meta": {
+      "hits": 933,
+      "time": 124,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/28/world/asia/28reuters-india-children-homes.html",
+        "snippet": "Dhanalakshmi was 14 and pregnant when she was rescued from a children's home in the southern Indian state of Tamil Nadu....",
+        "lead_paragraph": "Dhanalakshmi was 14 and pregnant when she was rescued from a children's home in the southern Indian state of Tamil Nadu.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Indian 'Orphans' Face Abuse, Neglect in Tamil Nadu Care Homes, Activists Say",
+          "print_headline": "Indian 'Orphans' Face Abuse, Neglect in Tamil Nadu Care Homes, Activists Say"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:26:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab10a38f0d81bd1ba57a0",
+        "word_count": "767",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/28/us/28reuters-usa-wikileaks-manning.html",
+        "snippet": "U.S. soldier Chelsea Manning, imprisoned for passing classified files to WikiLeaks, now stands accused of misconduct stemming from her suicide attempt earlier this month and could land in solitary confinement indefinitely, her lawyers said on Thur...",
+        "lead_paragraph": "U.S. soldier Chelsea Manning, imprisoned for passing classified files to WikiLeaks, now stands accused of misconduct stemming from her suicide attempt earlier this month and could land in solitary confinement indefinitely, her lawyers said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Chelsea Manning Faces Discipline for Prison Suicide Attempt: Lawyers",
+          "print_headline": "Chelsea Manning Faces Discipline for Prison Suicide Attempt: Lawyers"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:25:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab10a38f0d81bd1ba579f",
+        "word_count": "436",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/28/business/28reuters-ukraine-russia-eurobond-lawsuit.html",
+        "snippet": "The Russian Finance Ministry said on Thursday that it had asked the London court handling a lawsuit over Ukraine's $3 billion (2 billion pounds) debt to Russia to issue an expedited judgment ordering Kiev to repay the debt....",
+        "lead_paragraph": "The Russian Finance Ministry said on Thursday that it had asked the London court handling a lawsuit over Ukraine's $3 billion (2 billion pounds) debt to Russia to issue an expedited judgment ordering Kiev to repay the debt.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Russia Asks London Court to Order Ukraine to Repay $3 Billion Eurobond",
+          "print_headline": "Russia Asks London Court to Order Ukraine to Repay $3 Billion Eurobond"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:21:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab05438f0d81bd1ba579d",
+        "word_count": "120",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/us/ap-us-toddler-death-trial.html",
+        "snippet": "A former airman who was caring for the 21-month-old son of another airman who was deployed to Qatar has been convicted in the child's death....",
+        "lead_paragraph": "A former airman who was caring for the 21-month-old son of another airman who was deployed to Qatar has been convicted in the child's death.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Former Airman Convicted in Toddler's Death",
+          "print_headline": "Former Airman Convicted in Toddler's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:16:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579aaef238f0d81bd1ba579c",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004557817/trump-weighs-in-on-democratic-convention.html",
+        "snippet": "At a campaign event in Iowa, Donald J. Trump said he wanted to \u201chit a couple of those speakers so hard.\u201d...",
+        "lead_paragraph": "At a campaign event in Iowa, Donald J. Trump said he wanted to \u201chit a couple of those speakers so hard.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/us/elections/29video-trump/29video-trump-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/us/elections/29video-trump/29video-trump-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/us/elections/29video-trump/29video-trump-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/us/elections/29video-trump/29video-trump-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/us/elections/29video-trump/29video-trump-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/us/elections/29video-trump/29video-trump-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Weighs In on Democratic Convention"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-07-28T21:15:17Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "579aae4238f0d81bd1ba579a",
+        "word_count": "21",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/28/travel/what-to-do-36-hours-portland-me.html",
+        "snippet": "There\u2019s more to this maritime city than great food: gracious parks, Victorian architecture and a thriving arts scene....",
+        "lead_paragraph": "There\u2019s more to this maritime city than great food: gracious parks, Victorian architecture and a thriving arts scene.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/31/travel/31HOURS-PORTLAND4/31HOURS-PORTLAND4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/31/travel/31HOURS-PORTLAND4/31HOURS-PORTLAND4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/31/travel/31HOURS-PORTLAND4/31HOURS-PORTLAND4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/31/travel/31HOURS-PORTLAND4/31HOURS-PORTLAND4-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/31/travel/31HOURS-PORTLAND4/31HOURS-PORTLAND4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/31/travel/31HOURS-PORTLAND4/31HOURS-PORTLAND4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "36 Hours in Portland, Me.",
+          "kicker": "36 Hours"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Portland (Me)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          }
+        ],
+        "pub_date": "2016-07-28T21:14:18+0000",
+        "document_type": "multimedia",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Suzanne",
+              "rank": 1,
+              "lastname": "MacNEILLE"
+            }
+          ],
+          "original": "By SUZANNE MacNEILLE"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "579a75a738f0d81bd1ba570a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/28/business/28reuters-australia-economy-infrastructure.html",
+        "snippet": "Australia's state governments have embarked on an infrastructure spending spree after years of frugality, providing vital support to the broader economy as it struggles through the dog days of a decade-long mining boom....",
+        "lead_paragraph": "Australia's state governments have embarked on an infrastructure spending spree after years of frugality, providing vital support to the broader economy as it struggles through the dog days of a decade-long mining boom.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Australia's States Build Their Way Out of Mining Crater",
+          "print_headline": "Australia's States Build Their Way Out of Mining Crater"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:07:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579aaccc38f0d81bd1ba5796",
+        "word_count": "441",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/us/ap-us-hawaii-whale-and-dolphin-study.html",
+        "snippet": "Federal researchers returning from a 30-day expedition to study whales and dolphins around the Hawaiian Islands said Thursday they are looking for clues to help sustain healthy populations of the marine mammals....",
+        "lead_paragraph": "Federal researchers returning from a 30-day expedition to study whales and dolphins around the Hawaiian Islands said Thursday they are looking for clues to help sustain healthy populations of the marine mammals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NOAA: Drone Technology Aids Whale Research Off Hawaii",
+          "print_headline": "NOAA: Drone Technology Aids Whale Research Off Hawaii"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:05:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579aac3938f0d81bd1ba5795",
+        "word_count": "465",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004557772/sarah-mcbride-transgender-woman-speaks-at-dnc.html",
+        "snippet": "Sarah McBride, the Human Rights Campaign\u2019s national press secretary, became the first transgender person to speak at a national political convention on Thursday....",
+        "lead_paragraph": "Sarah McBride, the Human Rights Campaign\u2019s national press secretary, became the first transgender person to speak at a national political convention on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/us/elections/29video-mcbride/29video-mcbride-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/us/elections/29video-mcbride/29video-mcbride-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/us/elections/29video-mcbride/29video-mcbride-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/us/elections/29video-mcbride/29video-mcbride-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/us/elections/29video-mcbride/29video-mcbride-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/us/elections/29video-mcbride/29video-mcbride-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sarah McBride, Transgender Woman, Speaks at D.N.C."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Transgender and Transsexuals"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McBride, Sarah (1990- )"
+          }
+        ],
+        "pub_date": "2016-07-28T20:50:47Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1
+            }
+          ],
+          "original": "By MICHAEL D. SHEAR and TURNER COWLES"
+        },
+        "type_of_material": "Video",
+        "_id": "579aa88a38f0d81bd1ba578d",
+        "word_count": "23",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004505580/trailer-miss-sharon-jones.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/30/movies/video-miss-sharon-jones/video-miss-sharon-jones-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/30/movies/video-miss-sharon-jones/video-miss-sharon-jones-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/30/movies/video-miss-sharon-jones/video-miss-sharon-jones-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/30/movies/video-miss-sharon-jones/video-miss-sharon-jones-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/30/movies/video-miss-sharon-jones/video-miss-sharon-jones-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/30/movies/video-miss-sharon-jones/video-miss-sharon-jones-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Miss Sharon Jones!'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T20:42:24+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Starz",
+              "middlename": "Digital",
+              "lastname": "MEDIA",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By STARZ DIGITAL MEDIA"
+        },
+        "type_of_material": "Video",
+        "_id": "579a6e3338f0d81bd1ba56e5",
+        "word_count": "5",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

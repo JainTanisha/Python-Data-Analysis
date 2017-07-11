@@ -1,0 +1,372 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1038,
+      "time": 67,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/us/ap-us-mozart-underground.html",
+        "snippet": "New York's Metropolitan Transportation Authority is celebrating Mozart with special performances at three subway stations....",
+        "lead_paragraph": "New York's Metropolitan Transportation Authority is celebrating Mozart with special performances at three subway stations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "3 Subway Stations to Host Free Underground Mozart Concerts",
+          "print_headline": "3 Subway Stations to Host Free Underground Mozart Concerts"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:50:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57917cf938f0d87a83eba840",
+        "word_count": "99",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/22/theater/review-motown-the-musical-offers-easy-nostalgia-and-a-jolt-of-racial-relevance.html",
+        "snippet": "This celebratory jukebox musical, with a book by Berry Gordy, who founded the Motown record label, has returned to Broadway for a limited run....",
+        "lead_paragraph": "This celebratory jukebox musical, with a book by Berry Gordy, who founded the Motown record label, has returned to Broadway for a limited run.",
+        "abstract": "Charles Isherwood reviews limited return engagement of Berry Gordy musical Motown: The Musical, directed by Charles Randolph-Wright, at Nederlander Theater. ",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/22/arts/22MOTOWN-1/22MOTOWN1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/22/arts/22MOTOWN-1/22MOTOWN1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/22/arts/22MOTOWN-1/22MOTOWN1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/22/arts/22MOTOWN-1/22MOTOWN1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/22/arts/22MOTOWN-1/22MOTOWN1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/22/arts/22MOTOWN-1/22MOTOWN1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Motown: The Musical\u2019 Offers Easy Nostalgia and a Jolt of Racial Relevance",
+          "print_headline": "A Return to Hitsville: Easy Nostalgia, but With a Jolt of Racial Relevance"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gordy, Berry Jr"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Motown: The Musical (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Randolph-Wright, Charles"
+          }
+        ],
+        "pub_date": "2016-07-21T21:47:12+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Charles",
+              "rank": 1,
+              "lastname": "ISHERWOOD"
+            }
+          ],
+          "original": "By CHARLES ISHERWOOD"
+        },
+        "type_of_material": "Review",
+        "_id": "579142e038f0d87a83eba7a8",
+        "word_count": "549",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/us/ap-us-water-contaminated-marijuana-the-latest.html",
+        "snippet": "The Latest on the discovery of marijuana's active ingredient in the water supply at in a small Colorado town (all times local):...",
+        "lead_paragraph": "The Latest on the discovery of marijuana's active ingredient in the water supply at in a small Colorado town (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Colorado Town's Water Tainted With Pot Chemicals",
+          "print_headline": "The Latest: Colorado Town's Water Tainted With Pot Chemicals"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:42:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57917ae538f0d87a83eba83f",
+        "word_count": "265",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/world/asia/ap-as-japan-pokemon-go.html",
+        "snippet": "The wait is over for \"Pokemon Go\" fans in Japan....",
+        "lead_paragraph": "The wait is over for \"Pokemon Go\" fans in Japan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Wait Is Over for 'Pokemon Go' Fans in Japan",
+          "print_headline": "The Wait Is Over for 'Pokemon Go' Fans in Japan"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:39:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57917a2e38f0d87a83eba83e",
+        "word_count": "591",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/sports/olympics/21reuters-olympics-rio-gymnastics-nemov.html",
+        "snippet": "For a gymnast who won Olympic medals in every men's event  barring the rings, it is perhaps a little poignant that Alexei Nemov invokes the spirit of JRR Tolkien whenever he lays eyes on his vast stash of priceless valuables....",
+        "lead_paragraph": "For a gymnast who won Olympic medals in every men's event  barring the rings, it is perhaps a little poignant that Alexei Nemov invokes the spirit of JRR Tolkien whenever he lays eyes on his vast stash of priceless valuables.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nemov Values People Power Protest as Much as Precious Stash",
+          "print_headline": "Nemov Values People Power Protest as Much as Precious Stash"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:29:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5791773d38f0d87a83eba83b",
+        "word_count": "615",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/us/ap-us-michigan-courthouse-shooting.html",
+        "snippet": "A jail inmate who killed two courthouse bailiffs during an escape attempt in southwestern Michigan was a regular volunteer at his daughter's school, despite a long criminal record....",
+        "lead_paragraph": "A jail inmate who killed two courthouse bailiffs during an escape attempt in southwestern Michigan was a regular volunteer at his daughter's school, despite a long criminal record.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Who Killed Court Bailiffs Was a Regular School Volunteer",
+          "print_headline": "Man Who Killed Court Bailiffs Was a Regular School Volunteer"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:20:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579175f138f0d87a83eba839",
+        "word_count": "120",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/technology/21reuters-messaging-africa-int.html",
+        "snippet": "Late to the party, WeChat, China's biggest Internet-based mobile messaging platform, is scrambling to get a piece of the action in the booming African market....",
+        "lead_paragraph": "Late to the party, WeChat, China's biggest Internet-based mobile messaging platform, is scrambling to get a piece of the action in the booming African market.  ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China's WeChat Takes on WhatsApp in Africa",
+          "print_headline": "China's WeChat Takes on WhatsApp in Africa"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:22:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579175d438f0d87a83eba838",
+        "word_count": "938",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/us/21reuters-california-police-rape.html",
+        "snippet": "A former California police officer was arrested on Thursday and booked on suspicion of 22 felonies related to the rape and sexual battery of five women while on duty and in uniform, the prosecutor handling the case said....",
+        "lead_paragraph": "A former California police officer was arrested on Thursday and booked on suspicion of 22 felonies related to the rape and sexual battery of five women while on duty and in uniform, the prosecutor handling the case said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Former California Police Officer Arrested on Suspicion of Rape",
+          "print_headline": "Former California Police Officer Arrested on Suspicion of Rape"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:20:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5791752838f0d87a83eba837",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/sports/olympics/21reuters-olympics-rio-gymnastics-khorkina.html",
+        "snippet": "It is unlikely that many Olympic gold medalists would complain that the shiny discs of metal they have spent years and years training for are \"too heavy\" -- but then again Svetlana Khorkina was no ordinary champion....",
+        "lead_paragraph": "It is unlikely that many Olympic gold medalists would complain that the shiny discs of metal they have spent years and years training for are \"too heavy\" -- but then again Svetlana Khorkina was no ordinary champion.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Khorkina No Fan of Heavy Metal",
+          "print_headline": "Khorkina No Fan of Heavy Metal"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:20:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5791752238f0d87a83eba836",
+        "word_count": "780",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/sports/olympics/21reuters-olympics-rio-gymnastics-yang.html",
+        "snippet": "Twelve years have passed since South Korean gymnast Yang Tae-young stood stony faced on the podium to collect his Athens Olympics bronze medal, while beside him America's Paul Hamm beamed ear-to-ear with the gold draped around his neck....",
+        "lead_paragraph": "Twelve years have passed since South Korean gymnast Yang Tae-young stood stony faced on the podium to collect his Athens Olympics bronze medal, while beside him America's Paul Hamm beamed ear-to-ear with the gold draped around his neck.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Judging Scandal Still Haunts Korean Yang",
+          "print_headline": "Judging Scandal Still Haunts Korean Yang"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T21:18:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5791752138f0d87a83eba835",
+        "word_count": "649",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

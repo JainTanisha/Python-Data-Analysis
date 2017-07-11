@@ -1,0 +1,487 @@
+{
+  "response": {
+    "meta": {
+      "hits": 833,
+      "time": 30,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/04/briefing/tim-kaine-mike-pence-donald-trump.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/04/nytnow/04evening-ss-slide-TZP5/04evening-ss-slide-TZP5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/04/nytnow/04evening-ss-slide-TZP5/04evening-ss-slide-TZP5-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/04/nytnow/04evening-ss-slide-TZP5/04evening-ss-slide-TZP5-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/04/nytnow/04evening-ss-slide-TZP5/04evening-ss-slide-TZP5-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/04/nytnow/04evening-ss-slide-TZP5/04evening-ss-slide-TZP5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/04/nytnow/04evening-ss-slide-TZP5/04evening-ss-slide-TZP5-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tim Kaine, Mike Pence, Donald Trump: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57f4287095d0e021d798a16b",
+        "word_count": "943",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/04/world/americas/ap-cb-puerto-rico-economic-crisis.html",
+        "snippet": "The top debt restructuring official for Puerto Rico's troubled power company said Tuesday at a legislative hearing on last month's island-wide blackout that the agency faces serious infrastructure problems despite borrowing millions of dollars in ...",
+        "lead_paragraph": "The top debt restructuring official for Puerto Rico's troubled power company said Tuesday at a legislative hearing on last month's island-wide blackout that the agency faces serious infrastructure problems despite borrowing millions of dollars in recent years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Puerto Rico Power Company Faces Scrutiny After Blackout",
+          "print_headline": "Puerto Rico Power Company Faces Scrutiny After Blackout"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T22:04:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4282995d0e021d798a168",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/04/world/europe/ap-eu-britain-politics.html",
+        "snippet": "The head of the UK Independence Party, Diane James, has resigned&#8212; after a mere 18 days of being in charge....",
+        "lead_paragraph": "The head of the UK Independence Party, Diane James, has resigned&#8212; after a mere 18 days of being in charge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Diane James Resigns as Head of UK Independence Party",
+          "print_headline": "Diane James Resigns as Head of UK Independence Party"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T22:03:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4283395d0e021d798a16a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/asia/100000004690382/duerte-mr-obama-you-can-go-to-hell.html",
+        "snippet": "President Rodrigo Duterte of the Philippines scorned President Obama and said he would reconsider his foreign policy with his country\u2019s closest ally....",
+        "lead_paragraph": "President Rodrigo Duterte of the Philippines scorned President Obama and said he would reconsider his foreign policy with his country\u2019s closest ally.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/05/world/05philippines-web2/05philippines-web2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/05/world/05philippines-web2/05philippines-web2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/05/world/05philippines-web2/05philippines-web2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/05/world/05philippines-web2/05philippines-web2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/05/world/05philippines-web2/05philippines-web2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/05/world/05philippines-web2/05philippines-web2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Duterte: \u2018Mr. Obama, You Can Go to Hell\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Philippines"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Duterte, Rodrigo"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          }
+        ],
+        "pub_date": "2016-10-04T22:07:32+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Asia Pacific",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rtvm",
+              "rank": 1
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 2
+            }
+          ],
+          "original": "By RTVM, VIA REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57f4283295d0e021d798a169",
+        "word_count": "22",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/04/us/ap-us-prince-paisley-park.html",
+        "snippet": "Prince's suburban Minneapolis estate and studio complex, Paisley Park, will open to the public after all this week, but only under a temporary permit while officials work out concerns about public safety and traffic....",
+        "lead_paragraph": "Prince's suburban Minneapolis estate and studio complex, Paisley Park, will open to the public after all this week, but only under a temporary permit while officials work out concerns about public safety and traffic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Paisley Park Given 3-Day Temporary Permit Amid Zoning Snag",
+          "print_headline": "Paisley Park Given 3-Day Temporary Permit Amid Zoning Snag"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T22:03:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4282695d0e021d798a167",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004687086/full-video-vice-presidential-debate.html",
+        "snippet": "Gov. Mike Pence of Indiana and Senator Tim Kaine of Virginia square off in the only vice-presidential debate of the 2016 election on Tuesday in Farmville, Va....",
+        "lead_paragraph": "Gov. Mike Pence of Indiana and Senator Tim Kaine of Virginia square off in the only vice-presidential debate of the 2016 election on Tuesday in Farmville, Va.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/05/us/06takeaways/06takeaways-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/05/us/06takeaways/06takeaways-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/05/us/06takeaways/06takeaways-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/05/us/06takeaways/06takeaways-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/05/us/06takeaways/06takeaways-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/05/us/06takeaways/06takeaways-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Full Video: Vice-Presidential Debate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Debates (Political)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kaine, Timothy M"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pence, Mike"
+          }
+        ],
+        "pub_date": "2016-10-04T22:06:23+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Video",
+        "_id": "57f427e795d0e021d798a166",
+        "word_count": "27",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/04/sports/soccer/ap-soc-fifa-corruption.html",
+        "snippet": "Corruption will never be eradicated from soccer and officials in the English-speaking world should try to be humble rather than pompous when they talk about ethics, a FIFA vice president said Tuesday....",
+        "lead_paragraph": "Corruption will never be eradicated from soccer and officials in the English-speaking world should try to be humble rather than pompous when they talk about ethics, a FIFA vice president said Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "FIFA VP: English-Speaking Soccer Officials Pompous on Ethics",
+          "print_headline": "FIFA VP: English-Speaking Soccer Officials Pompous on Ethics"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T22:00:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4276795d0e021d798a165",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/04/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T21:59:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4275b95d0e021d798a163",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/04/us/politics/04reuters-usa-election-poll.html",
+        "snippet": "Republican presidential nominee Donald Trump says paying no income tax would make him \"smart.\" While nearly half of Americans agree with him, more people think it is \"selfish,\" and \"unpatriotic,\" according to a Reuters/Ipsos opinion poll released ...",
+        "lead_paragraph": "Republican presidential nominee Donald Trump says paying no income tax would make him \"smart.\" While nearly half of Americans agree with him, more people think it is \"selfish,\" and \"unpatriotic,\" according to a Reuters/Ipsos opinion poll released on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Calls Tax Avoidance 'Smart,' Most Americans Call It 'Unpatriotic': Poll",
+          "print_headline": "Trump Calls Tax Avoidance 'Smart,' Most Americans Call It 'Unpatriotic': Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T22:02:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4274195d0e021d798a161",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/04/world/americas/04reuters-colombia-peace-usa-aid.html",
+        "snippet": "Colombia's rejection of a deal to end 52 years of civil war will not end U.S. plans to send significant aid next year, although it might prompt lawmakers to keep back some of the $450 million that had been expected, congressional aides said on Tue...",
+        "lead_paragraph": "Colombia's rejection of a deal to end 52 years of civil war will not end U.S. plans to send significant aid next year, although it might prompt lawmakers to keep back some of the $450 million that had been expected, congressional aides said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombia's 'No' to Peace Deal Could Hit U.S. Aid",
+          "print_headline": "Colombia's 'No' to Peace Deal Could Hit U.S. Aid"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-04T22:00:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f4274d95d0e021d798a162",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

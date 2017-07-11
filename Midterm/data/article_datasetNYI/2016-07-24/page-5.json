@@ -1,0 +1,322 @@
+{
+  "response": {
+    "meta": {
+      "hits": 579,
+      "time": 48,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/24/sports/baseball/24reuters-baseball-halloffame.html",
+        "snippet": "With his distinctive style and ear-to-ear smile, Ken Griffey Jr. was inducted into the Major League Baseball (MLB) Hall of Fame on Sunday along with former slugger Mike Piazza....",
+        "lead_paragraph": "With his distinctive style and ear-to-ear smile, Ken Griffey Jr. was inducted into the Major League Baseball (MLB) Hall of Fame on Sunday along with former slugger Mike Piazza.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Griffey, Piazza Inducted Into Baseball Hall of Fame",
+          "print_headline": "Griffey, Piazza Inducted Into Baseball Hall of Fame"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:27:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57955da838f0d838f06b9b77",
+        "word_count": "414",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/24/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Jhonattan Vegas birdied his way off Glen Abbey and waited to see if anyone could catch him. No one could....",
+        "lead_paragraph": "Jhonattan Vegas birdied his way off Glen Abbey and waited to see if anyone could catch him. No one could.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:20:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57955ba638f0d838f06b9b76",
+        "word_count": "1155",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004549424/explosion-in-ansbach-germany.html",
+        "snippet": "An explosion in Ansbach, Germany, late Sunday killed at least one person and injured people near the site of a music festival....",
+        "lead_paragraph": "An explosion in Ansbach, Germany, late Sunday killed at least one person and injured people near the site of a music festival.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/25/us/25xp-ansbach-1/25xp-ansbach-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/25/us/25xp-ansbach-1/25xp-ansbach-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/25/us/25xp-ansbach-1/25xp-ansbach-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/25/us/25xp-ansbach-1/25xp-ansbach-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/25/us/25xp-ansbach-1/25xp-ansbach-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/25/us/25xp-ansbach-1/25xp-ansbach-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Explosion Near Festival in Germany"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Germany"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bombs and Explosives"
+          }
+        ],
+        "pub_date": "2016-07-24T20:15:17Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Video",
+        "_id": "57955a3d38f0d838f06b9b73",
+        "word_count": "22",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/24/technology/24reuters-nintendo-pokemon-comiccon.html",
+        "snippet": "The creator of the wildly popular Pokemon Go gaming app received the celebrity treatment on Sunday at the final day of San Diego's annual Comic-Con, as he discussed the viral popularity and future of the game....",
+        "lead_paragraph": "The creator of the wildly popular Pokemon Go gaming app received the celebrity treatment on Sunday at the final day of San Diego's annual Comic-Con, as he discussed the viral popularity and future of the game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pokemon Go Gets Big Comic-Con Stage, Creator Talks Success and Future",
+          "print_headline": "Pokemon Go Gets Big Comic-Con Stage, Creator Talks Success and Future"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:05:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5795580838f0d838f06b9b71",
+        "word_count": "397",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180769623",
+        "snippet": "SILLS--Ruth. July 24, 2016. Beloved wife of the late Irving, devoted mother of Robert (Carol Schwartz), Nancy (Franklin Moss) and of Judy, who predeceased her. Adoring and adored grandmother of Josh, Matt, Hannah, Becky and Joanna, and great-grand...",
+        "lead_paragraph": "<!-- RUTH SILLS -->SILLS--Ruth.<br/><br/> July 24, 2016. Beloved wife of the late Irving, devoted mother of Robert (Carol Schwartz), Nancy (Franklin Moss) and of Judy, who predeceased her. Adoring and adored grandmother of Josh, Matt, Hannah, Becky and Joanna, and great-grand mother of Jackson, Harlow and Kendra. Services at the Plaza Jewish Community Chapel, 91st and Amsterdam, on Thursday, July 28 at noon.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  SILLS, RUTH "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:01:36Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5795d51638f0d838f06b9c73",
+        "word_count": "60",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180769622",
+        "snippet": "SCHOOLFIELD--George. George C. Schoolfield, 90, Professor Emeritus Yale University, passed away surrounded by his loving family on July 21, 2016. Survived by his beloved wife Gloria Della Selva Schoolfield, daughters Susan Schoolfield (Tony) and M...",
+        "lead_paragraph": "<!-- GEORGE SCHOOLFIELD -->SCHOOLFIELD--George. George C. Schoolfield, 90, Professor Emeritus Yale University, passed away surrounded by his loving family on July 21, 2016. Survived by his beloved wife Gloria Della Selva Schoolfield, daughters Susan Schoolfield (Tony) and Marguerite Compton. Also survived by several grandchildren and nieces and nephews. Friends are invited to meet directly at First Presbyterian Church, 704 Whitney Ave. New Haven, CT at 11 am, July 26, 2016 for a funeral service honoring George's life. Interment to follow in St. Mary's Cemetery, Hamden, CT. In lieu of flowers, donations in his name may be sent to the National MS Society, P.O. Box 4527 New York, NY 10163. To see full obituary, please visit <a rel=\"nofollow\" href=\"www.beecher\">www.beecher</a><br/><br/> <a href=\"http://andbennett.com\" target=\"_new\" rel=\"nofollow\">andbennett.com</a>.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  SCHOOLFIELD, GEORGE "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:01:35Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5795d51638f0d838f06b9c72",
+        "word_count": "114",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180769621",
+        "snippet": "BROWN--Daniel J. Dan Brown, age 97. July 6, 1919 - July 21, 2016. Beloved husband of the late Norma (Selikoff), and later in life, the late Sybil (Hertzman). Loving father to Ronnie (Jonathan) Halpern, Judie (Harold) Bregman, and Nancy (Rick) Naso...",
+        "lead_paragraph": "<!-- DANIEL BROWN -->BROWN--Daniel J.<br/><br/> Dan Brown, age 97. July 6, 1919 - July 21, 2016. Beloved husband of the late Norma (Selikoff), and later in life, the late Sybil (Hertzman). Loving father to Ronnie (Jonathan) Halpern, Judie (Harold) Bregman, and Nancy (Rick) Nasoff, and stepfather to Karen (Jerry) Biderman. Adored grandfather of Stephanie (Stuart) Rodnick, Jaclyn (Craig) Bonder, Lisa and Evan (Linnea) Bregman, Lauren (Mitch) Bloom, and Jodi Nasoff. And step-grandfather to Noel (Amanda) Biderman and Sandor (Shonna) Biderman. \"Poppy\" was great-grandfather to Justin and Jared Rodnick, Ethan and Jordan Bonder, Max Bloom, Abel, Soren, Sasha, Ryan and Romy Biderman. Dan was the \"maven\" of the family-with limitless knowledge about just about everything, and always willing to share it with all who would listen. Mr. Fix-It, Master Story-Teller, WWII Army Veteran, Turkey Carver, and Fisherman--He will never be forgotten. Service Monday, July 25 at Boulevard Chapel, Hewlett, NY. Donations may be made to the organization of your choice.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  BROWN, DANIEL "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:01:33Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5795d51238f0d838f06b9c6d",
+        "word_count": "156",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180769620",
+        "snippet": "ROSEN--Annette. March 21, 1925 - July 22, 2016. A life-long New Yorker, Annette was active in many civic organizations, most fondly, the Women's City Club of New York. Annette was the daughter of Samuel and Molly (Weisbrod) Young. Annette is survi...",
+        "lead_paragraph": "<!-- ANNETTE ROSEN -->ROSEN--Annette. March 21, 1925 - July 22, 2016. A life-long New Yorker, Annette was active in many civic organizations, most fondly, the Women's City Club of New York. Annette was the daughter of Samuel and Molly (Weisbrod) Young. Annette is survived by Richard, her beloved husband of almost 60 years; her sons Michael (Susan) and Andrew (Brandi Beck); and grandchildren, Matthew, Sam and Charlie Rosen and Dasha Fowler. She was preceded in death by her brother, Paul, and her beloved granddaughter Elizabeth Hannah Rosen. A memorial service is being planned. In lieu of flowers, donations may be made in Annette's memory to the Alzheimer's Foundation of America.<br/><br/><br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  ROSEN, ANNETTE "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:01:29Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5795d51438f0d838f06b9c71",
+        "word_count": "107",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180769617",
+        "snippet": "COHEN--Frances Milgrim, peacefully, on July 22, 2016 in Scottsdale Arizona. Loving wife of the late Seymour, devoted mother of Nancy, cherished sister of the late Jean Dranoff, dear aunt of Steve. Fran was adored by her \"Four Legged Fur Children,\"...",
+        "lead_paragraph": "<!-- FRANCES COHEN -->COHEN--Frances Milgrim,<br/><br/> peacefully, on July 22, 2016 in Scottsdale Arizona. Loving wife of the late Seymour, devoted mother of Nancy, cherished sister of the late Jean Dranoff, dear aunt of Steve. Fran was adored by her \"Four Legged Fur Children,\" Sophie and Jackson. Her loving nature, impeccable style and fashionista sense will be missed. Service Wednesday, July 27, 12 noon at \"The Riverside,\" 76 St. at Amsterdam Ave. Donations in her memory may be made to: <a href=\"http://azrescue.org\" target=\"_new\" rel=\"nofollow\">azrescue.org</a> or Stroke Association.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  COHEN, FRANCES "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:01:26Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5795d51338f0d838f06b9c6f",
+        "word_count": "80",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180769616",
+        "snippet": "REICH--Seymour: The Board of Trustees, residents and staff of the Hebrew Home at Riverdale mourn the loss of Seymour Reich who was a dedicated and thoughtful trustee for many years. Seymour was a giant in the Jewish community and we will miss his ...",
+        "lead_paragraph": "<!-- SEYMOUR REICH -->REICH--Seymour:<br/><br/> The Board of Trustees, residents and staff of the Hebrew Home at Riverdale mourn the loss of Seymour Reich who was a dedicated and thoughtful trustee for many years. Seymour was a giant in the Jewish community and we will miss his good counsel and friendship. The Hebrew Home at Riverdale by RiverSpring Health Jeffrey S. Maurer, Chairman Daniel Reingold, President and CEO<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  REICH, SEYMOUR "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-24T20:01:21Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5795d51438f0d838f06b9c70",
+        "word_count": "64",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

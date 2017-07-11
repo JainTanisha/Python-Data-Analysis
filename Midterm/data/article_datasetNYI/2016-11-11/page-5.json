@@ -1,0 +1,660 @@
+{
+  "response": {
+    "meta": {
+      "hits": 811,
+      "time": 54,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004761784/american-thanksgiving-pumpkin-flan.html",
+        "snippet": "Maggie Velasco, a resident of Miami, has created a pumpkin flan as a reminder of her childhood in Havana....",
+        "lead_paragraph": "Maggie Velasco, a resident of Miami, has created a pumpkin flan as a reminder of her childhood in Havana.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/multimedia/tgiving-flan-cuba/tgiving-flan-cuba-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/multimedia/tgiving-flan-cuba/tgiving-flan-cuba-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/multimedia/tgiving-flan-cuba/tgiving-flan-cuba-articleLarge-v2.jpg",
+            "height": 367,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/multimedia/tgiving-flan-cuba/tgiving-flan-cuba-articleLarge-v2.jpg",
+              "xlargeheight": "367"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/multimedia/tgiving-flan-cuba/tgiving-flan-cuba-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/multimedia/tgiving-flan-cuba/tgiving-flan-cuba-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The American Thanksgiving: Pumpkin Flan"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          }
+        ],
+        "pub_date": "2016-11-11T22:29:50+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Margaret",
+              "middlename": "Cheatham",
+              "lastname": "WILLIAMS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "EATON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eugene",
+              "rank": 3,
+              "lastname": "YI"
+            }
+          ],
+          "original": "By MARGARET CHEATHAM WILLIAMS, ALEXANDRA EATON and EUGENE YI"
+        },
+        "type_of_material": "Video",
+        "_id": "5835cb8795d0e03926072297",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/11/opinion/russia-isnt-actually-that-happy-about-trumps-victory.html",
+        "snippet": "Even if Trump meant everything he said about Putin during the campaign \u2014 and that\u2019s doubtful \u2014 repairing relations is unlikely....",
+        "lead_paragraph": "Even if Trump meant everything he said about Putin during the campaign \u2014 and that\u2019s doubtful \u2014 repairing relations is unlikely.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/11/opinion/10pukhovWeb/10pukhovWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/11/opinion/10pukhovWeb/10pukhovWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/11/opinion/10pukhovWeb/10pukhovWeb-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/11/opinion/10pukhovWeb/10pukhovWeb-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/11/opinion/10pukhovWeb/10pukhovWeb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/11/opinion/10pukhovWeb/10pukhovWeb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Russia Isn\u2019t Actually That Happy About Trump\u2019s Victory",
+          "content_kicker": "Op-Ed Contributor",
+          "kicker": "Op-Ed Contributor"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          }
+        ],
+        "pub_date": "2016-11-11T22:28:29Z",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ruslan",
+              "rank": 1,
+              "lastname": "PUKHOV"
+            }
+          ],
+          "original": "By RUSLAN PUKHOV"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5826461495d0e0204d56003c",
+        "word_count": "967",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/us/ap-us-oil-pipeline-protest-the-latest.html",
+        "snippet": "The Latest on the Dakota Access pipeline protest in North Dakota (all times local):...",
+        "lead_paragraph": "The Latest on the Dakota Access pipeline protest in North Dakota (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Road Reopens After Pipeline Protesters Blockade",
+          "print_headline": "The Latest: Road Reopens After Pipeline Protesters Blockade"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:27:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582645f595d0e0204d56003b",
+        "word_count": "407",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004753744/american-thanksgiving-eprax-in-nashville.html",
+        "snippet": "In Nashville, the Tayyar family makes eprax, an elaborate layered Kurdish casserole, to go with the roast turkey and stuffing....",
+        "lead_paragraph": "In Nashville, the Tayyar family makes eprax, an elaborate layered Kurdish casserole, to go with the roast turkey and stuffing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/multimedia/tgiving-dolmas-iraq/tgiving-dolmas-iraq-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/multimedia/tgiving-dolmas-iraq/tgiving-dolmas-iraq-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/multimedia/tgiving-dolmas-iraq/tgiving-dolmas-iraq-articleLarge.jpg",
+            "height": 339,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/multimedia/tgiving-dolmas-iraq/tgiving-dolmas-iraq-articleLarge.jpg",
+              "xlargeheight": "339"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/multimedia/tgiving-dolmas-iraq/tgiving-dolmas-iraq-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/multimedia/tgiving-dolmas-iraq/tgiving-dolmas-iraq-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The American Thanksgiving: Eprax"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Nashville (Tenn)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          }
+        ],
+        "pub_date": "2016-11-11T22:27:57+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslye",
+              "rank": 1,
+              "lastname": "DAVIS"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "EATON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eugene",
+              "rank": 3,
+              "lastname": "YI"
+            }
+          ],
+          "original": "By LESLYE DAVIS, ALEXANDRA EATON and EUGENE YI"
+        },
+        "type_of_material": "Video",
+        "_id": "5835cc2095d0e0392607229a",
+        "word_count": "20",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004740812/american-thanksgiving-hmong-egg-roll-stuffing.html",
+        "snippet": "In Junction City, Wis., Diane Yang and her family cook Thanksgiving dinner for a large Hmong community and use egg roll filling to stuff their turkey....",
+        "lead_paragraph": "In Junction City, Wis., Diane Yang and her family cook Thanksgiving dinner for a large Hmong community and use egg roll filling to stuff their turkey.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/multimedia/tgiving-turkey-laos/tgiving-turkey-laos-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/multimedia/tgiving-turkey-laos/tgiving-turkey-laos-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/multimedia/tgiving-turkey-laos/tgiving-turkey-laos-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/multimedia/tgiving-turkey-laos/tgiving-turkey-laos-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/multimedia/tgiving-turkey-laos/tgiving-turkey-laos-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/multimedia/tgiving-turkey-laos/tgiving-turkey-laos-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The American Thanksgiving: Hmong Egg Roll Stuffing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          }
+        ],
+        "pub_date": "2016-11-11T22:26:17+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslye",
+              "rank": 1,
+              "lastname": "DAVIS"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "EATON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eugene",
+              "rank": 3,
+              "lastname": "YI"
+            }
+          ],
+          "original": "By LESLYE DAVIS, ALEXANDRA EATON and EUGENE YI"
+        },
+        "type_of_material": "Video",
+        "_id": "5835ca9995d0e03926072294",
+        "word_count": "26",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/us/politics/minorities-worry-what-a-law-and-order-donald-trump-presidency-will-mean.html",
+        "snippet": "His election was seen by many as a repudiation of the Black Lives Matter and similar protests and left questions about what policing would look like under him....",
+        "lead_paragraph": "His election was seen by many as a repudiation of the Black Lives Matter and similar protests and left questions about what policing would look like under him.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/us/12lawandorder-1/12lawandorder-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Minorities Worry What a \u2018Law and Order\u2019 Donald Trump Presidency Will Mean",
+          "print_headline": "Minorities Worry What a \u2018Law and Order\u2019 Trump Presidency Will Mean"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Racial Profiling"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+          }
+        ],
+        "pub_date": "2016-11-11T22:25:23Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "John Surico contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Yamiche",
+              "rank": 1,
+              "lastname": "ALCINDOR"
+            }
+          ],
+          "original": "By YAMICHE ALCINDOR"
+        },
+        "type_of_material": "News",
+        "_id": "5826455c95d0e0204d560039",
+        "word_count": "1370",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/sports/ap-car-nascar-phoenix-.html",
+        "snippet": "It's tense at Joe Gibbs Racing, regardless of what the drivers want you to believe as they head into a showdown with their seasons at stake....",
+        "lead_paragraph": "It's tense at Joe Gibbs Racing, regardless of what the drivers want you to believe as they head into a showdown with their seasons at stake.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Gibbs Drivers Walk Fine Line on Teamwork and Title Hopes",
+          "print_headline": "Gibbs Drivers Walk Fine Line on Teamwork and Title Hopes"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:25:22Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826455c95d0e0204d56003a",
+        "word_count": "622",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/sports/football/ap-fbn-kicking-coaches.html",
+        "snippet": "Nobody wants to see the outcome of an NFL game determined by a kicker....",
+        "lead_paragraph": "Nobody wants to see the outcome of an NFL game determined by a kicker.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NFL HALFWAY: Kickers Don't Get Coaching Other Players Get",
+          "print_headline": "NFL HALFWAY: Kickers Don't Get Coaching Other Players Get"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:21:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826448c95d0e0204d560037",
+        "word_count": "1042",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/world/asia/ap-as-australia-china-detained.html",
+        "snippet": "One of 18 employees of Australia's largest casino operator detained in China a month ago for suspected gambling crimes has been released on bail, the company said on Saturday....",
+        "lead_paragraph": "One of 18 employees of Australia's largest casino operator detained in China a month ago for suspected gambling crimes has been released on bail, the company said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "First of 18 Australian Casino Employees Released in China",
+          "print_headline": "First of 18 Australian Casino Employees Released in China"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:21:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826448d95d0e0204d560038",
+        "word_count": "264",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/business/11reuters-berkshire-hatha-buffett.html",
+        "snippet": "Berkshire Hathaway Inc shares posted one of their best weeks in years, soaring 9.5 percent and touching a record high, even though Chairman Warren Buffett's choice for the White House, Hillary Clinton, was defeated by Donald Trump....",
+        "lead_paragraph": "Berkshire Hathaway Inc shares posted one of their best weeks in years, soaring 9.5 percent and touching a record high, even though Chairman Warren Buffett's choice for the White House, Hillary Clinton, was defeated by Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Berkshire Sets Record as Trump Boosts Prospects, Buffett's Wealth",
+          "print_headline": "Berkshire Sets Record as Trump Boosts Prospects, Buffett's Wealth"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:21:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5826447495d0e0204d560036",
+        "word_count": "394",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

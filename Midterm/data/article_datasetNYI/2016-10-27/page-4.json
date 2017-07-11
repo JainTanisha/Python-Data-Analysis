@@ -1,0 +1,495 @@
+{
+  "response": {
+    "meta": {
+      "hits": 938,
+      "time": 39,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-us-trump-star-vandalized-the-latest.html",
+        "snippet": "The Latest on man suspected of using sledgehammer to destroy Donald Trump's star on Hollywood's Walk of Fame (all times local):...",
+        "lead_paragraph": "The Latest on man suspected of using sledgehammer to destroy Donald Trump's star on Hollywood's Walk of Fame (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Alleged Trump Hollywood Star Smasher Freed",
+          "print_headline": "The Latest: Alleged Trump Hollywood Star Smasher Freed"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:08:07Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581288de95d0e022439c5a69",
+        "word_count": "161",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/business/27reuters-britain-consumersentiment.html",
+        "snippet": "British consumers turned less optimistic this month as sterling's slump began to eat into their disposable income, according to two surveys on Friday which will raise concerns about the strength of future spending growth....",
+        "lead_paragraph": "British consumers turned less optimistic this month as sterling's slump began to eat into their disposable income, according to two surveys on Friday which will raise concerns about the strength of future spending growth.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Consumers Worry as Weaker Pound Raises Prices",
+          "print_headline": "UK Consumers Worry as Weaker Pound Raises Prices"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:06:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5812888995d0e022439c5a68",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/business/27reuters-japan-economy-boj.html",
+        "snippet": "As his term winds down, Bank of Japan Governor Haruhiko Kuroda has retreated from both the radical policies and rhetoric of his early tenure, suggesting there will be no further monetary easing except in response to a big external shock....",
+        "lead_paragraph": "As his term winds down, Bank of Japan Governor Haruhiko Kuroda has retreated from both the radical policies and rhetoric of his early tenure, suggesting there will be no further monetary easing except in response to a big external shock.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "BOJ Loses Bark and Bite Under Humbled Kuroda",
+          "print_headline": "BOJ Loses Bark and Bite Under Humbled Kuroda"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:03:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581287ca95d0e022439c5a67",
+        "word_count": "776",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/arts/design/museum-gallery-listings-for-oct-28-nov-3.html",
+        "snippet": "A critical guide to exhibitions and installations in the New York area....",
+        "lead_paragraph": "A critical guide to exhibitions and installations in the New York area.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/arts/28LISTINGSART3/28LISTINGSART3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/arts/28LISTINGSART3/28LISTINGSART3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/arts/28LISTINGSART3/28LISTINGSART3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/arts/28LISTINGSART3/28LISTINGSART3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/arts/28LISTINGSART3/28LISTINGSART3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/arts/28LISTINGSART3/28LISTINGSART3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Museum & Gallery Listings for Oct. 28-Nov. 3",
+          "print_headline": "The Listings: Art"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          }
+        ],
+        "pub_date": "2016-10-27T23:01:56+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "5812876f95d0e022439c5a66",
+        "word_count": "3701",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/business/27reuters-baker-hughes-m-a-ge.html",
+        "snippet": "General Electric Co said on Thursday it was in discussion with the No. 3 oilfield services provider Baker Hughes Inc on potential partnerships....",
+        "lead_paragraph": "General Electric Co said on Thursday it was in discussion with the No. 3 oilfield services provider Baker Hughes Inc on potential partnerships.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "GE in Discussion With Baker Hughes on Potential Partnerships",
+          "print_headline": "GE in Discussion With Baker Hughes on Potential Partnerships"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:00:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5812871495d0e022439c5a65",
+        "word_count": "269",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/travel/tripadvisor-cuba-booking.html",
+        "snippet": "Travelers will soon be able to book through one of the world\u2019s largest travel websites, the latest development in an American travel industry that is slowly normalizing tourism to Cuba....",
+        "lead_paragraph": "Travelers will soon be able to book through one of the world\u2019s largest travel websites, the latest development in an American travel industry that is slowly normalizing tourism to Cuba.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/travel/27CUBA/27CUBA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/travel/27CUBA/27CUBA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/travel/27CUBA/27CUBA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/travel/27CUBA/27CUBA-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/travel/27CUBA/27CUBA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/travel/27CUBA/27CUBA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "TripAdvisor to Start Booking Travel to Cuba",
+          "content_kicker": "Update",
+          "kicker": "Update"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Embargoes and Sanctions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hotels and Travel Lodgings"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Booking.com"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "TripAdvisor.com"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Office of Foreign Assets Control (United States Treasury)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Treasury Department"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cuba"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-10-27T23:00:03+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Justin",
+              "rank": 1,
+              "lastname": "SABLICH"
+            }
+          ],
+          "original": "By JUSTIN SABLICH"
+        },
+        "type_of_material": "News",
+        "_id": "581286fb95d0e022439c5a64",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/arts/dance/dance-listings-for-oct-28-nov-3.html",
+        "snippet": "A selected guide to dance performances in New York City....",
+        "lead_paragraph": "A selected guide to dance performances in New York City.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/arts/28LISTINGSDANCE/28LISTINGSDANCE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/arts/28LISTINGSDANCE/28LISTINGSDANCE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/arts/28LISTINGSDANCE/28LISTINGSDANCE-articleLarge.jpg",
+            "height": 572,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/arts/28LISTINGSDANCE/28LISTINGSDANCE-articleLarge.jpg",
+              "xlargeheight": "572"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/arts/28LISTINGSDANCE/28LISTINGSDANCE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/arts/28LISTINGSDANCE/28LISTINGSDANCE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Dance Listings for Oct. 28-Nov. 3",
+          "print_headline": "The Listings: Dance"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Dancing"
+          }
+        ],
+        "pub_date": "2016-10-27T22:50:51+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "581284d495d0e022439c5a63",
+        "word_count": "1472",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/politics/ap-us-campaign-2016-trump-gop-ad.html",
+        "snippet": "In a remarkable slap at their own presidential nominee, Republicans are running a TV ad in Chicago that touts a GOP congressman's independence by showing him saying Donald Trump \"has disqualified himself.\"...",
+        "lead_paragraph": "In a remarkable slap at their own presidential nominee, Republicans are running a TV ad in Chicago that touts a GOP congressman's independence by showing him saying Donald Trump \"has disqualified himself.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "GOP TV Ad Backing Republican Congressman Criticizes Trump",
+          "print_headline": "GOP TV Ad Backing Republican Congressman Criticizes Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:47:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581283ee95d0e022439c5a62",
+        "word_count": "369",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/sports/baseball/27reuters-baseball-worldseries-schwarber.html",
+        "snippet": "Inspirational Chicago Cubs slugger Kyle Schwarber has not been cleared to play in the outfield for Friday's Game Three against the Cleveland Indians at Wrigley Field, the Major League Baseball team said on Thursday....",
+        "lead_paragraph": "Inspirational Chicago Cubs slugger Kyle Schwarber has not been cleared to play in the outfield for Friday's Game Three against the Cleveland Indians at Wrigley Field, the Major League Baseball team said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Schwarber Not Cleared for Outfield Role in Game Three",
+          "print_headline": "Schwarber Not Cleared for Outfield Role in Game Three"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:42:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581282e095d0e022439c5a61",
+        "word_count": "374",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-gym-gymnastics-doctor-sexual-abuse-the-latest.html",
+        "snippet": "The Latest on a sex abuse lawsuit against a former longtime USA Gymnastics doctor that also names husband-and-wife coaches Bela and Martha Karolyi (all times local):...",
+        "lead_paragraph": "The Latest on a sex abuse lawsuit against a former longtime USA Gymnastics doctor that also names husband-and-wife coaches Bela and Martha Karolyi (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Suit Against USA Gymnastics Doc Names Karolyis",
+          "print_headline": "The Latest: Suit Against USA Gymnastics Doc Names Karolyis"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T22:41:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581282a395d0e022439c5a60",
+        "word_count": "325",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

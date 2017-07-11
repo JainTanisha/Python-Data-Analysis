@@ -1,0 +1,372 @@
+{
+  "response": {
+    "meta": {
+      "hits": 803,
+      "time": 66,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/ap-us-southern-wildfires-qa.html",
+        "snippet": "Thousands of firefighters are battling wildfires across the drought-stricken South with little indication they'll get help from the weather any time soon. Here's a look at the current situation:...",
+        "lead_paragraph": "Thousands of firefighters are battling wildfires across the drought-stricken South with little indication they'll get help from the weather any time soon. Here's a look at the current situation:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Q&A: A Look at Wildfires Burning in Parched Southern States",
+          "print_headline": "Q&A: A Look at Wildfires Burning in Parched Southern States"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:59:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a41c795d0e0204d5606b6",
+        "word_count": "781",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/ap-us-mall-lockdown-new-york.html",
+        "snippet": "Police say they've arrested a man accused of firing a gunshot that panicked hundreds of people at a New York mall over the weekend....",
+        "lead_paragraph": "Police say they've arrested a man accused of firing a gunshot that panicked hundreds of people at a New York mall over the weekend.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Arrest Suspect in Mall Gunplay That Panicked Shoppers",
+          "print_headline": "Police Arrest Suspect in Mall Gunplay That Panicked Shoppers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:59:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a41bf95d0e0204d5606b5",
+        "word_count": "126",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/ap-us-missouri-child-abuse.html",
+        "snippet": "A Missouri father is facing child abuse charges after allegedly shoving his fingers down his infant son's throat to make the baby stop crying....",
+        "lead_paragraph": "A Missouri father is facing child abuse charges after allegedly shoving his fingers down his infant son's throat to make the baby stop crying.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Missouri Father Shoved Fingers Down Infant's Throat",
+          "print_headline": "Police: Missouri Father Shoved Fingers Down Infant's Throat"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:58:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a41b895d0e0204d5606b4",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/us/georgia-father-is-convicted-of-murder-in-toddlers-death-in-hot-car.html",
+        "snippet": "A jury convicted Justin Ross Harris on eight counts, including malice murder, more than two years after his 22-month-old son died in a hot car....",
+        "lead_paragraph": "A jury convicted Justin Ross Harris on eight counts, including malice murder, more than two years after his 22-month-old son died in a hot car.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/15/us/15atlanta/15atlanta-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/15/us/15atlanta/15atlanta-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/15/us/15atlanta/15atlanta-articleLarge.jpg",
+            "height": 410,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/15/us/15atlanta/15atlanta-articleLarge.jpg",
+              "xlargeheight": "410"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/15/us/15atlanta/15atlanta-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/15/us/15atlanta/15atlanta-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Georgia Father Is Convicted of Murder in Toddler\u2019s Death in Hot Car",
+          "print_headline": "Father Guilty in 2014 Death of Toddler in Hot Car"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harris, Justin Ross"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harris, Cooper (2012-14)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Atlanta (Ga)"
+          }
+        ],
+        "pub_date": "2016-11-14T22:57:59Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 1,
+              "lastname": "BLINDER"
+            }
+          ],
+          "original": "By ALAN BLINDER"
+        },
+        "type_of_material": "News",
+        "_id": "582a417d95d0e0204d5606b3",
+        "word_count": "494",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/business/ap-us-treasury-bills.html",
+        "snippet": "Interest rates on short-term Treasury bills rose in Monday's auction to their highest levels in eight years....",
+        "lead_paragraph": "Interest rates on short-term Treasury bills rose in Monday's auction to their highest levels in eight years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rates on US Treasury Bills Rise to Highest in 8 Years",
+          "print_headline": "Rates on US Treasury Bills Rise to Highest in 8 Years"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:57:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a417495d0e0204d5606b2",
+        "word_count": "186",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/ap-us-southwest-flight-diverted.html",
+        "snippet": "Two California men convicted of disrupting a Chicago-bound Southwest Airlines flight have been sentenced to prison....",
+        "lead_paragraph": "Two California men convicted of disrupting a Chicago-bound Southwest Airlines flight have been sentenced to prison.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Sentenced to Prison for Disrupting Southwest Flight",
+          "print_headline": "2 Sentenced to Prison for Disrupting Southwest Flight"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:55:03Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a40d795d0e0204d5606b1",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/sports/ncaafootball/ap-fbc-t25-oklahoma-playoff-possibilities.html",
+        "snippet": "A wacky weekend in college football renewed Oklahoma's seemingly dormant playoff hopes....",
+        "lead_paragraph": "A wacky weekend in college football renewed Oklahoma's seemingly dormant playoff hopes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Crazy Weekend Renews No. 8 Oklahoma's Playoff Hopes",
+          "print_headline": "Crazy Weekend Renews No. 8 Oklahoma's Playoff Hopes"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:53:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a408b95d0e0204d5606b0",
+        "word_count": "550",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/us/politics/ap-us-democrats-clinton.html",
+        "snippet": "Hillary Clinton is telling House Democrats that their vision for the nation earned more votes in the election and they shouldn't be discouraged despite losing the White House....",
+        "lead_paragraph": "Hillary Clinton is telling House Democrats that their vision for the nation earned more votes in the election and they shouldn't be discouraged despite losing the White House.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Tells Democrats Not to Be Discouraged, Divided",
+          "print_headline": "Clinton Tells Democrats Not to Be Discouraged, Divided"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:53:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a407a95d0e0204d5606af",
+        "word_count": "126",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/14/sports/baseball/ap-bbo-free-agents.html",
+        "snippet": "Mets second baseman Neil Walker and Philadelphia pitcher Jeremy Hellickson have accepted $17.2 million qualifying offers, giving up free agency to stay with their teams....",
+        "lead_paragraph": "Mets second baseman Neil Walker and Philadelphia pitcher Jeremy Hellickson have accepted $17.2 million qualifying offers, giving up free agency to stay with their teams.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Walker, Hellickson Accept $17.2M Qualifying Offers",
+          "print_headline": "Walker, Hellickson Accept $17.2M Qualifying Offers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:49:08Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582a3f6a95d0e0204d5606ae",
+        "word_count": "217",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/14/technology/14reuters-alphabet-advertising.html",
+        "snippet": "Alphabet Inc's Google said on Monday it is working on a policy change to prevent websites that misrepresent content from using its AdSense advertising network, a move aimed at halting the spread of \"fake news\" and other types of misinformation on ...",
+        "lead_paragraph": "Alphabet Inc's Google said on Monday it is working on a policy change to prevent websites that misrepresent content from using its AdSense advertising network, a move aimed at halting the spread of \"fake news\" and other types of misinformation on the internet.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Google Moves to Restrict Ads on Fake News Sites",
+          "print_headline": "Google Moves to Restrict Ads on Fake News Sites"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-14T22:48:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582a3f4595d0e0204d5606ad",
+        "word_count": "729",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

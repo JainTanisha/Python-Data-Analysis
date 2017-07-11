@@ -1,0 +1,459 @@
+{
+  "response": {
+    "meta": {
+      "hits": 735,
+      "time": 55,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/28/us/politics/trump-waterboarding-torture.html",
+        "snippet": "Federal law, international pressure and resistance from inside the C.I.A. stand in the way of Donald J. Trump using brutal interrogation tactics....",
+        "lead_paragraph": "Federal law, international pressure and resistance from inside the C.I.A. stand in the way of Donald J. Trump using brutal interrogation tactics.",
+        "abstract": "Pres-elect Donald Trump's campaign promise to bring back banned interrogation method of waterboarding faces number of legal and logistical hurdles; experts say even if Trump is able to circumvent federal law, international pressure and resistance with Central Intelligence Agency, it will be exceedingly difficult for his lawyers to argue that waterboarding does not cause lasting harm and thus is not torture.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/us/00waterboarding1/00waterboarding1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/us/00waterboarding1/00waterboarding1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/us/00waterboarding1/00waterboarding1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/us/00waterboarding1/00waterboarding1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/us/00waterboarding1/00waterboarding1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/us/00waterboarding1/00waterboarding1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump Faces Obstacles to Resuming Waterboarding",
+          "print_headline": "Plan to Revive Waterboarding Faces Obstacles"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interrogations"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Torture"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Waterboarding"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Central Intelligence Agency"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Defense Department"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate Committee on Armed Services"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Guantanamo Bay Naval Base (Cuba)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          }
+        ],
+        "pub_date": "2016-11-28T23:28:55+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Reporting was contributed by Sheri Fink from New York, and Helene Cooper, Charlie Savage and Jennifer Steinhauer from Washington.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matt",
+              "rank": 1,
+              "lastname": "APUZZO"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 2,
+              "lastname": "RISEN"
+            }
+          ],
+          "original": "By MATT APUZZO and JAMES RISEN"
+        },
+        "type_of_material": "News",
+        "_id": "583cbdbf95d0e03926072e66",
+        "word_count": "1813",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-castro-african-americans.html",
+        "snippet": "The Fidel Castro that Sam Riddle and many other African-Americans admired was not the revolutionary dictator who plunged Cuba into economic ruin and held the island nation in an iron grip....",
+        "lead_paragraph": "The Fidel Castro that Sam Riddle and many other African-Americans admired was not the revolutionary dictator who plunged Cuba into economic ruin and held the island nation in an iron grip.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Some Blacks Applaud Castro Legacy of Racial Equality",
+          "print_headline": "Some Blacks Applaud Castro Legacy of Racial Equality"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:27:54+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbd8095d0e03926072e65",
+        "word_count": "685",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-albuquerque-police-shootings.html",
+        "snippet": "A special prosecutor dismissed a second-degree murder charge Monday against one of two former Albuquerque police officers charged in the shooting death of a homeless man that was captured on police video and set off protests in New Mexico's larges...",
+        "lead_paragraph": "A special prosecutor dismissed a second-degree murder charge Monday against one of two former Albuquerque police officers charged in the shooting death of a homeless man that was captured on police video and set off protests in New Mexico's largest city.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Murder Charge Dismissed Against 1 of 2 Albuquerque Officers",
+          "print_headline": "Murder Charge Dismissed Against 1 of 2 Albuquerque Officers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:27:50+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbd7995d0e03926072e64",
+        "word_count": "682",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/world/americas/ap-cb-cuba-castro-island-transformed.html",
+        "snippet": "Fidel Castro changed the flavor of the milk Cuban children drink at breakfast....",
+        "lead_paragraph": "Fidel Castro changed the flavor of the milk Cuban children drink at breakfast.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "From Milk to Lightbulbs, Fidel Castro Reshaped Life in Cuba",
+          "print_headline": "From Milk to Lightbulbs, Fidel Castro Reshaped Life in Cuba"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:21:56+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cbc1b95d0e03926072e63",
+        "word_count": "829",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/world/asia/28reuters-china-northkorea-insight.html",
+        "snippet": "A labor agent sat in his bus on a recent frigid morning, waiting to cross the \"Friendship Bridge\" at China's main border post with North Korea. He had come&#160;to pick up migrant workers and take them to jobs in factories and restaurants&#160;in ...",
+        "lead_paragraph": "A labor agent sat in his bus on a recent frigid morning, waiting to cross the \"Friendship Bridge\" at China's main border post with North Korea. He had come&#160;to pick up migrant workers and take them to jobs in factories and restaurants&#160;in China.&#160;",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fewer North Korean Workers Come to China as Border Trade Tightens",
+          "print_headline": "Fewer North Korean Workers Come to China as Border Trade Tightens"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:15:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cba9c95d0e03926072e62",
+        "word_count": "1088",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/business/28reuters-india-modi-corruption-digitalpayments.html",
+        "snippet": "Digital payment providers in India have mobilized hundreds of extra workers to enrol small merchants and offered their services for free, betting that severe cash shortages will prove to be the opportunity of a lifetime....",
+        "lead_paragraph": "Digital payment providers in India have mobilized hundreds of extra workers to enrol small merchants and offered their services for free, betting that severe cash shortages will prove to be the opportunity of a lifetime.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Digital Payment Firms Cash In on India's Money Mess, but Can It Last?",
+          "print_headline": "Digital Payment Firms Cash In on India's Money Mess, but Can It Last?"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:12:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb9e595d0e03926072e61",
+        "word_count": "832",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/us/28reuters-north-dakota-pipeline.html",
+        "snippet": "North Dakota's governor ordered the expulsion of thousands of Native American and environmental activists camped on federal property near an oil pipeline project they are trying to halt, citing hazards posed by harsh winter weather as a blizzard b...",
+        "lead_paragraph": "North Dakota's governor ordered the expulsion of thousands of Native American and environmental activists camped on federal property near an oil pipeline project they are trying to halt, citing hazards posed by harsh winter weather as a blizzard bore down on the area.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/29/us/29pipeline-floater/29pipeline-floater-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/29/us/29pipeline-floater/29pipeline-floater-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/29/us/29pipeline-floater/29pipeline-floater-articleLarge.jpg",
+            "height": 513,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/29/us/29pipeline-floater/29pipeline-floater-articleLarge.jpg",
+              "xlargeheight": "513"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/29/us/29pipeline-floater/29pipeline-floater-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/29/us/29pipeline-floater/29pipeline-floater-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "North Dakota Governor Orders Pipeline Protesters Expelled",
+          "print_headline": "North Dakota Governor Orders Pipeline Protesters Expelled"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:09:33+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb93495d0e03926072e60",
+        "word_count": "584",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/28/business/28reuters-hongkong-companies-regulation.html",
+        "snippet": "Hong Kong's securities regulator plans to require financial firms, such as brokers and hedge funds, to disclose which of its managers are responsible for the day-to-day running of regulated activities and to register these individuals and their re...",
+        "lead_paragraph": "Hong Kong's securities regulator plans to require financial firms, such as brokers and hedge funds, to disclose which of its managers are responsible for the day-to-day running of regulated activities and to register these individuals and their responsibilities with the watchdog, three sources with knowledge of the matter told Reuters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive-Hong Kong's SFC to Require Financial Firms to Register Key Managers: Sources",
+          "print_headline": "Exclusive-Hong Kong's SFC to Require Financial Firms to Register Key Managers: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:09:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb93295d0e03926072e5f",
+        "word_count": "624",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/ap-us-atlantic-city-no-show.html",
+        "snippet": "When the new year arrives in Atlantic City, the eyes of the nation will be elsewhere....",
+        "lead_paragraph": "When the new year arrives in Atlantic City, the eyes of the nation will be elsewhere.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No National TV Exposure for Atlantic City on New Year's Eve",
+          "print_headline": "No National TV Exposure for Atlantic City on New Year's Eve"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:07:22+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb8b095d0e03926072e5e",
+        "word_count": "551",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/28/us/politics/ap-us-trump-lobbyists.html",
+        "snippet": "A key aide to Vice President-elect Mike Pence removed himself from the U.S. government's rolls of federal lobbyists and canceled a lucrative lobbying contract with the state of Indiana days before Donald Trump's team announced it will ban lobbyist...",
+        "lead_paragraph": "A key aide to Vice President-elect Mike Pence removed himself from the U.S. government's rolls of federal lobbyists and canceled a lucrative lobbying contract with the state of Indiana days before Donald Trump's team announced it will ban lobbyists from taking jobs with the administration.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pence Aide Canceled Lobbying Contract Ahead of Ban",
+          "print_headline": "Pence Aide Canceled Lobbying Contract Ahead of Ban"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-28T23:07:11+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583cb8a595d0e03926072e5d",
+        "word_count": "366",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

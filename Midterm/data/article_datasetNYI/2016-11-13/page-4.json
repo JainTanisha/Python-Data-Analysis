@@ -1,0 +1,634 @@
+{
+  "response": {
+    "meta": {
+      "hits": 407,
+      "time": 62,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004764068/activating-a-generation.html",
+        "snippet": "Thirty years after \u201cLive Aid\u201d changed the face of charity fundraising, clicktivism has taken center stage. If you share, re-tweet and like, are you making the world a better place?...",
+        "lead_paragraph": "Thirty years after \u201cLive Aid\u201d changed the face of charity fundraising, clicktivism has taken center stage. If you share, re-tweet and like, are you making the world a better place?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/11/multimedia/retro-live-aid/retro-live-aid-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/11/multimedia/retro-live-aid/retro-live-aid-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/11/multimedia/retro-live-aid/retro-live-aid-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/11/multimedia/retro-live-aid/retro-live-aid-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/11/multimedia/retro-live-aid/retro-live-aid-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/11/multimedia/retro-live-aid/retro-live-aid-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Activating a Generation"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Philanthropy"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crowdfunding (Internet)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Geldof, Bob"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Russell, Jason"
+          }
+        ],
+        "pub_date": "2016-11-13T22:53:42Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Retro",
+              "rank": 1,
+              "lastname": "REPORT"
+            }
+          ],
+          "original": "By RETRO REPORT"
+        },
+        "type_of_material": "Video",
+        "_id": "5828ef0095d0e0204d56037e",
+        "word_count": "30",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/13/sports/autoracing/13reuters-motor-f1-brazil-verstappen.html",
+        "snippet": "Max Verstappen was compared to Formula One greats Ayrton Senna and Michael Schumacher on Sunday after the Dutch teenager's sensational drive to third place in a wet and chaotic Brazilian Grand Prix....",
+        "lead_paragraph": "Max Verstappen was compared to Formula One greats Ayrton Senna and Michael Schumacher on Sunday after the Dutch teenager's sensational drive to third place in a wet and chaotic Brazilian Grand Prix.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Verstappen Draws Comparisons With the Formula One Greats",
+          "print_headline": "Verstappen Draws Comparisons With the Formula One Greats"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T22:51:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5828ee7895d0e0204d56037d",
+        "word_count": "430",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/theater/edgar-oliver-actor-and-raconteur-hews-to-his-east-village-past.html",
+        "snippet": "Mr. Oliver, who stars in \u201cAttorney Street,\u201d the latest installment of his solo trilogy, takes a melancholy stroll around his former neighborhood....",
+        "lead_paragraph": "Mr. Oliver, who stars in \u201cAttorney Street,\u201d the latest installment of his solo trilogy, takes a melancholy stroll around his former neighborhood.",
+        "abstract": null,
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/arts/12EDGAR/12EDGAR-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/arts/12EDGAR/12EDGAR-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/arts/12EDGAR/12EDGAR-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/arts/12EDGAR/12EDGAR-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/arts/12EDGAR/12EDGAR-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/arts/12EDGAR/12EDGAR-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Edgar Oliver, Actor and Raconteur, Hews to His East Village Past",
+          "print_headline": "For an Actor and Raconteur, the East Village Is Never Far Behind"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Oliver, Edgar"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Axis Theater Co"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Attorney Street (Play)"
+          }
+        ],
+        "pub_date": "2016-11-13T22:50:04Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Laura",
+              "rank": 1,
+              "lastname": "COLLINS-HUGHES"
+            }
+          ],
+          "original": "By LAURA COLLINS-HUGHES"
+        },
+        "type_of_material": "News",
+        "_id": "5828ee2695d0e0204d56037c",
+        "word_count": "942",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/us/ap-us-oil-pipeline-protest.html",
+        "snippet": "Authorities in North Dakota are investigating a report of multiple shots fired during a weekend protest against the construction of the Dakota Access oil pipeline....",
+        "lead_paragraph": "Authorities in North Dakota are investigating a report of multiple shots fired during a weekend protest against the construction of the Dakota Access oil pipeline.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Sheriff Probing Report of Shots Fired in Pipeline Protest",
+          "print_headline": "Sheriff Probing Report of Shots Fired in Pipeline Protest"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T22:48:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828eddd95d0e0204d56037b",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/sports/football/ap-fbn-nfl-capsules.html",
+        "snippet": "FOXBOROUGH, Mass. (AP) &#8212; This time, Seattle won it at the goal line....",
+        "lead_paragraph": "FOXBOROUGH, Mass. (AP) &#8212; This time, Seattle won it at the goal line.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NFL Capsules",
+          "print_headline": "NFL Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T22:43:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828ec8095d0e0204d56037a",
+        "word_count": "1791",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/sports/golf/ap-glf-lpga-tour.html",
+        "snippet": "Carlota Ciganda rallied to win the Citibanamex Lorena Ochoa Invitational on Sunday for her second LPGA Tour victory in four starts....",
+        "lead_paragraph": "Carlota Ciganda rallied to win the Citibanamex Lorena Ochoa Invitational on Sunday for her second LPGA Tour victory in four starts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Carlota Ciganda Wins Lorena Ochoa Invitational",
+          "print_headline": "Carlota Ciganda Wins Lorena Ochoa Invitational"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T22:40:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828ebd395d0e0204d560379",
+        "word_count": "544",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/world/europe/europe-european-union-trump-foreign-policy.html",
+        "snippet": "European Union foreign ministers met on Sunday to discuss potential ramifications of Mr. Trump\u2019s win. Many of his statements have left some European nations vulnerable....",
+        "lead_paragraph": "European Union foreign ministers met on Sunday to discuss potential ramifications of Mr. Trump\u2019s win. Many of his statements have left some European nations vulnerable.",
+        "abstract": "European Union foreign ministers hold emergency meeting to discuss uncertainty over election of Donald J Trump as future president of America in regards to his stance on major global accords that range from NATO to landmark environmental legislation; representatives from Great Britain, France and Hungary are not in attendance. ",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/14/world/EUROPE1/EUROPE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/14/world/EUROPE1/EUROPE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/14/world/EUROPE1/EUROPE1-articleLarge.jpg",
+            "height": 451,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/14/world/EUROPE1/EUROPE1-articleLarge.jpg",
+              "xlargeheight": "451"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/14/world/EUROPE1/EUROPE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/14/world/EUROPE1/EUROPE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "European Leaders Gather to Grapple With Donald Trump\u2019s Victory",
+          "print_headline": "European Leaders, Reeling, Meet to Weigh Fallout of U.S. Election"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "European Union"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "North Atlantic Treaty Organization"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Johnson, Boris"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Orban, Viktor"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stoltenberg, Jens"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ayrault, Jean-Marc"
+          }
+        ],
+        "pub_date": "2016-11-13T22:34:28Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "KANTER"
+            }
+          ],
+          "original": "By JAMES KANTER"
+        },
+        "type_of_material": "News",
+        "_id": "5828ea8095d0e0204d560378",
+        "word_count": "874",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/sports/ncaafootball/ap-fbc-t25-fragile-clemson.html",
+        "snippet": "Clemson had teetered on the edge of defeat most of the year, so when it finally occurred, the loss to Pittsburgh left the Tigers more puzzled than shocked....",
+        "lead_paragraph": "Clemson had teetered on the edge of defeat most of the year, so when it finally occurred, the loss to Pittsburgh left the Tigers more puzzled than shocked.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clemson Crumble: Tigers Seemed Headed for a Fall for a While",
+          "print_headline": "Clemson Crumble: Tigers Seemed Headed for a Fall for a While"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T22:34:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828ea6195d0e0204d560377",
+        "word_count": "739",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/14/sports/football/ny-jets-bryce-petty-los-angeles-rams.html",
+        "snippet": "Petty got the start in a surprise move and showed off a strong arm, but a late interception effectively dashed any last remnant of hope for the Jets to make the playoffs....",
+        "lead_paragraph": "Petty got the start in a surprise move and showed off a strong arm, but a late interception effectively dashed any last remnant of hope for the Jets to make the playoffs.",
+        "abstract": "Los Angeles Rams defeat New York Jets, 9-6.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/14/sports/14JETSweb1/14JETSweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/14/sports/14JETSweb1/14JETSweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/14/sports/14JETSweb1/14JETSweb1-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/14/sports/14JETSweb1/14JETSweb1-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/14/sports/14JETSweb1/14JETSweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/14/sports/14JETSweb1/14JETSweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Bryce Petty Shows Promise, but Rams Deal Jets More Disappointment",
+          "content_kicker": "Rams 9, Jets 6",
+          "kicker": "Rams 9, Jets 6",
+          "print_headline": "New Starter Leads 99-Yard Drive, but Jets Have a Ways to Go"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Los Angeles Rams"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Jets"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Fitzpatrick, Ryan"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Petty, Bryce (1991- )"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hackenberg, Christian"
+          }
+        ],
+        "pub_date": "2016-11-13T22:32:31Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zach",
+              "rank": 1,
+              "lastname": "SCHONBRUN"
+            }
+          ],
+          "original": "By ZACH SCHONBRUN"
+        },
+        "type_of_material": "News",
+        "_id": "5828ea0b95d0e0204d560376",
+        "word_count": "959",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/13/us/ap-us-student-arrested.html",
+        "snippet": "Police say a University of Alabama student accused of raping a teenage girl in a dorm room has been arrested....",
+        "lead_paragraph": "Police say a University of Alabama student accused of raping a teenage girl in a dorm room has been arrested.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "College Student Accused of Raping Teen in Dorm Room Arrested",
+          "print_headline": "College Student Accused of Raping Teen in Dorm Room Arrested"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-13T22:27:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5828e8e395d0e0204d560375",
+        "word_count": "128",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

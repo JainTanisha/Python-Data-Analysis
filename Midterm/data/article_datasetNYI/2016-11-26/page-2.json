@@ -1,0 +1,372 @@
+{
+  "response": {
+    "meta": {
+      "hits": 392,
+      "time": 56,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/soccer/26reuters-soccer-italy.html",
+        "snippet": "Gianluca Lapadula scored his first Serie A brace to help AC Milan thump Empoli 4-1 away on Saturday while Chievo were left fuming after their 2-1 defeat at Torino....",
+        "lead_paragraph": "Gianluca Lapadula scored his first Serie A brace to help AC Milan thump Empoli 4-1 away on Saturday while Chievo were left fuming after their 2-1 defeat at Torino.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Milan Thump Empoli, Chievo Furious After Torino Defeat",
+          "print_headline": "Milan Thump Empoli, Chievo Furious After Torino Defeat"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:42:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583a0fdd95d0e03926072a11",
+        "word_count": "365",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/world/americas/26reuters-cuba-castro-maradona.html",
+        "snippet": "For soccer great Diego Maradona, Cuban revolutionary Fidel Castro was more than a friend and fellow Latin American legend, he was \"a second father.\"...",
+        "lead_paragraph": "For soccer great Diego Maradona, Cuban revolutionary Fidel Castro was more than a friend and fellow Latin American legend, he was \"a second father.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Soccer Legend Maradona Mourns 'Second Father' Castro",
+          "print_headline": "Soccer Legend Maradona Mourns 'Second Father' Castro"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:21:32+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583a0af795d0e03926072a10",
+        "word_count": "429",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "https://www.nytimes.com/2016/11/26/opinion/an-unimaginable-day-arrives-in-miami.html",
+        "snippet": "The phone kept ringing. Castro really was gone....",
+        "lead_paragraph": "The phone kept ringing. Castro really was gone.",
+        "abstract": null,
+        "print_page": 0,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 75,
+            "url": "images/2017/02/16/opinion/Jennifer-Capo-Crucet/Jennifer-Capo-Crucet-thumbStandard.jpg",
+            "rank": 0,
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": 75,
+              "thumbnail": "images/2017/02/16/opinion/Jennifer-Capo-Crucet/Jennifer-Capo-Crucet-thumbStandard.jpg",
+              "thumbnailwidth": 75
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2017/02/16/opinion/Jennifer-Capo-Crucet/Jennifer-Capo-Crucet-articleLarge.jpg",
+            "rank": 0,
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": 600,
+              "xlarge": "images/2017/02/16/opinion/Jennifer-Capo-Crucet/Jennifer-Capo-Crucet-articleLarge.jpg",
+              "xlargeheight": 400
+            },
+            "type": "image"
+          },
+          {
+            "width": 190,
+            "url": "images/2017/02/16/opinion/Jennifer-Capo-Crucet/Jennifer-Capo-Crucet-thumbWide.jpg",
+            "rank": 0,
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2017/02/16/opinion/Jennifer-Capo-Crucet/Jennifer-Capo-Crucet-thumbWide.jpg",
+              "widewidth": 190,
+              "wideheight": 126
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "An Unimaginable Day Arrives in Miami",
+          "kicker": "Contributing Op-Ed Writer",
+          "print_headline": "",
+          "content_kicker": "Contributing Op-Ed Writer"
+        },
+        "keywords": [
+          {
+            "isMajor": "N",
+            "rank": 1,
+            "name": "glocations",
+            "value": "Miami (Fla)"
+          },
+          {
+            "isMajor": "N",
+            "rank": 2,
+            "name": "persons",
+            "value": "Castro, Fidel"
+          },
+          {
+            "isMajor": "N",
+            "rank": 3,
+            "name": "subject",
+            "value": "Families and Family Life"
+          }
+        ],
+        "pub_date": "2016-11-26T22:19:58+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Jennine",
+              "middlename": "Cap\u00f3",
+              "lastname": "CRUCET",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JENNINE CAP\u00d3 CRUCET"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "58b9d0fe95d0e024902fd6ea",
+        "word_count": 962,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/us/26reuters-usa-hatecrime-muslims.html",
+        "snippet": "Hateful letters sent anonymously to three mosques in California with a warning that President-elect Donald Trump would \"cleanse\" the United States of Muslims have stirred fears among congregants, a community leader said on Saturday....",
+        "lead_paragraph": "Hateful letters sent anonymously to three mosques in California with a warning that President-elect Donald Trump would \"cleanse\" the United States of Muslims have stirred fears among congregants, a community leader said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Three California Mosques Receive Hateful Letters Mentioning Trump",
+          "print_headline": "Three California Mosques Receive Hateful Letters Mentioning Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:18:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583a0a4395d0e03926072a0e",
+        "word_count": "394",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/us/ap-us-police-protest-infant-dies.html",
+        "snippet": "Baltimore police say an infant died during a protest of a recent police-involved shooting....",
+        "lead_paragraph": "Baltimore police say an infant died during a protest of a recent police-involved shooting.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Infant Dies During Protest of Shooting by Baltimore Police",
+          "print_headline": "Infant Dies During Protest of Shooting by Baltimore Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:15:38+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583a099395d0e03926072a0d",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/rugby/26reuters-rugby-union-france.html",
+        "snippet": "World champions New Zealand were often on the back foot but a clinical three-try performance helped them beat a wasteful French side 24-19 in their final autumn test at the Stade de France on Saturday....",
+        "lead_paragraph": "World champions New Zealand were often on the back foot but a clinical three-try performance helped them beat a wasteful French side 24-19 in their final autumn test at the Stade de France on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinical All Blacks End Autumn Series With 24-19 Win in France",
+          "print_headline": "Clinical All Blacks End Autumn Series With 24-19 Win in France"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:12:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583a08d195d0e03926072a0c",
+        "word_count": "545",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/us/ap-us-police-shooting-baltimore.html",
+        "snippet": "Baltimore police say neither of the two officers who shot a knife-wielding man had been involved in a shooting before....",
+        "lead_paragraph": "Baltimore police say neither of the two officers who shot a knife-wielding man had been involved in a shooting before.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Baltimore Police Identify Officers Who Shot Man With Knives",
+          "print_headline": "Baltimore Police Identify Officers Who Shot Man With Knives"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:09:37+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583a082b95d0e03926072a0b",
+        "word_count": "136",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/world/middleeast/26reuters-mideast-crisis-syria-qatar-int.html",
+        "snippet": "Qatar will continue to arm Syrian rebels even if Donald Trump ends U.S. backing for the multinational effort, Doha's foreign minister said in an interview, signalling its determination to pursue a policy the U.S. President-elect may abandon....",
+        "lead_paragraph": "Qatar will continue to arm Syrian rebels even if Donald Trump ends U.S. backing for the multinational effort, Doha's foreign minister said in an interview, signalling its determination to pursue a policy the U.S. President-elect may abandon.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Qatar Will Help Syrian Rebels Even if Trump Ends U.S. Role",
+          "print_headline": "Qatar Will Help Syrian Rebels Even if Trump Ends U.S. Role"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:06:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583a076a95d0e03926072a0a",
+        "word_count": "868",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/world/asia/ap-as-new-zealand-boat-accident.html",
+        "snippet": "Seven people were killed and another person was missing after a chartered fishing boat disappeared from view in large waves at the entrance to a harbor near Auckland, New Zealand authorities said....",
+        "lead_paragraph": "Seven people were killed and another person was missing after a chartered fishing boat disappeared from view in large waves at the entrance to a harbor near Auckland, New Zealand authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "7 Dead, 1 Missing as Waves Hit New Zealand Fishing Boat",
+          "print_headline": "7 Dead, 1 Missing as Waves Hit New Zealand Fishing Boat"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:00:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583a060f95d0e03926072a09",
+        "word_count": "389",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/rugby/26reuters-rugby-union-ireland-quotes.html",
+        "snippet": "Ireland coach Joe Schmidt had said he wanted to try a few things against Australia to prepare for the Six Nations but playing with a third-choice flyhalf at fullback and replacement scrumhalf on the wing were probably not among them....",
+        "lead_paragraph": "Ireland coach Joe Schmidt had said he wanted to try a few things against Australia to prepare for the Six Nations but playing with a third-choice flyhalf at fullback and replacement scrumhalf on the wing were probably not among them.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Makeshift Ireland Hand Schmidt One of His 'Proudest Days'",
+          "print_headline": "Makeshift Ireland Hand Schmidt One of His 'Proudest Days'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T22:00:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583a060695d0e03926072a08",
+        "word_count": "539",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

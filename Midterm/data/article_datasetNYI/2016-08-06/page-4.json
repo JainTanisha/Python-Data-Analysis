@@ -1,0 +1,456 @@
+{
+  "response": {
+    "meta": {
+      "hits": 427,
+      "time": 74,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/olympics/ap-oly-stray-bullet.html",
+        "snippet": "The bullet which flew through the roof of a media tent at the Olympic Equestrian Center on Saturday was just \"an unfortunate incident,\" Brazilian military and police said....",
+        "lead_paragraph": "The bullet which flew through the roof of a media tent at the Olympic Equestrian Center on Saturday was just \"an unfortunate incident,\" Brazilian military and police said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil Police Says Stray Bullet Was Not Targeting Media",
+          "print_headline": "Brazil Police Says Stray Bullet Was Not Targeting Media"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:21:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa26c495d0e021d797f180",
+        "word_count": "549",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/ap-car-nascar-watkins-glen-xfinity.html",
+        "snippet": "Joey Logano won the Xfinity race at Watkins Glen International for the second straight year Saturday, holding off Team Penske teammate Brad Keselowski for nearly the entire race....",
+        "lead_paragraph": "Joey Logano won the Xfinity race at Watkins Glen International for the second straight year Saturday, holding off Team Penske teammate Brad Keselowski for nearly the entire race.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Joey Logano Outduels Brad Keselowski, Wins Again at The Glen",
+          "print_headline": "Joey Logano Outduels Brad Keselowski, Wins Again at The Glen"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:16:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa262d95d0e021d797f16c",
+        "word_count": "599",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/sports/olympics/heres-a-record-even-katie-ledecky-cant-match-yet.html",
+        "snippet": "Martha Norelius is the only woman to win consecutive 400 freestyles at the Olympics, and Ledecky needs two golds in the event just to match her....",
+        "lead_paragraph": "Martha Norelius is the only woman to win consecutive 400 freestyles at the Olympics, and Ledecky needs two golds in the event just to match her.",
+        "abstract": "Profile of late American swimmer Martha Norelius, whose record of winning consecutive 400 freestyles at Olympics in 1920s has never been broken.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/sports/07NORELIUSweb/07NORELIUSweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/sports/07NORELIUSweb/07NORELIUSweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/sports/07NORELIUSweb/07NORELIUSweb-articleLarge.jpg",
+            "height": 894,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/sports/07NORELIUSweb/07NORELIUSweb-articleLarge.jpg",
+              "xlargeheight": "894"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/sports/07NORELIUSweb/07NORELIUSweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/sports/07NORELIUSweb/07NORELIUSweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Here\u2019s a Record Even Katie Ledecky Can\u2019t Match (Yet)",
+          "print_headline": "A Feat That Even Ledecky Can\u2019t Match, Yet"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Swimming"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ledecky, Katie"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Norelius, Martha (1911-55)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games"
+          }
+        ],
+        "pub_date": "2016-08-06T21:16:11+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Victor",
+              "rank": 1,
+              "lastname": "MATHER"
+            }
+          ],
+          "original": "By VICTOR MATHER"
+        },
+        "type_of_material": "News",
+        "_id": "57aa25b895d0e021d797f15a",
+        "word_count": "569",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/sports/olympics/ap-oly-soc-worried-brazil.html",
+        "snippet": "After a disappointing start at the Olympics, Brazil is preparing to play without the support of the home crowd....",
+        "lead_paragraph": "After a disappointing start at the Olympics, Brazil is preparing to play without the support of the home crowd.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil Men's Team Preparing for More Jeers From Home Crowd",
+          "print_headline": "Brazil Men's Team Preparing for More Jeers From Home Crowd"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:08:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa25b195d0e021d797f158",
+        "word_count": "459",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/us/ap-us-rescued-osprey-electrocution.html",
+        "snippet": "Wildlife officials say a baby osprey saved in a rescue operation that was caught on video last month was recently electrocuted when it tried perching on a utility pole....",
+        "lead_paragraph": "Wildlife officials say a baby osprey saved in a rescue operation that was caught on video last month was recently electrocuted when it tried perching on a utility pole.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Baby Osprey Electrocuted Just Weeks After It Was Rescued",
+          "print_headline": "Baby Osprey Electrocuted Just Weeks After It Was Rescued"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:10:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa270895d0e021d797f18b",
+        "word_count": "142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/06/us/ap-us-police-cameras-when-to-record.html",
+        "snippet": "The critical moment when a gunman opened fire on two San Diego police officers, killing one, may never be seen. The surviving officer only activated his camera after the wounded shooter was running away....",
+        "lead_paragraph": "The critical moment when a gunman opened fire on two San Diego police officers, killing one, may never be seen. The surviving officer only activated his camera after the wounded shooter was running away.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Fatal Police Shooting Highlights Inconsistent Body Cam Usage",
+          "print_headline": "Fatal Police Shooting Highlights Inconsistent Body Cam Usage"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:09:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa25dd95d0e021d797f15e",
+        "word_count": "871",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/06/sports/soccer/06reuters-olympics-rio-cordeiro.html",
+        "snippet": "The man who lit the Olympic flame was told he would be replacing Pele only an hour ahead of time and the selection of Vanderlei Cordeiro de Lima provided the Rio Olympics with the perfect redemption story before they had even started....",
+        "lead_paragraph": "The man who lit the Olympic flame was told he would be replacing Pele only an hour ahead of time and the selection of Vanderlei Cordeiro de Lima provided the Rio Olympics with the perfect redemption story before they had even started. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cordeiro Finds Redemption in Replacing Pele",
+          "print_headline": "Cordeiro Finds Redemption in Replacing Pele"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:09:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa26b595d0e021d797f17c",
+        "word_count": "309",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004573329/obamas-salute-us-olympians.html",
+        "snippet": "President Obama told the United States Olympic Team to \u201cBring home the gold, for the red, white and blue,\u201d as he and the first lady, Michelle Obama, used the social app Snapchat to send their best wishes....",
+        "lead_paragraph": "President Obama told the United States Olympic Team to \u201cBring home the gold, for the red, white and blue,\u201d as he and the first lady, Michelle Obama, used the social app Snapchat to send their best wishes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/06/multimedia/06obamas-snapchat/06obamas-snapchat-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/06/multimedia/06obamas-snapchat/06obamas-snapchat-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/06/multimedia/06obamas-snapchat/06obamas-snapchat-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/06/multimedia/06obamas-snapchat/06obamas-snapchat-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/06/multimedia/06obamas-snapchat/06obamas-snapchat-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/06/multimedia/06obamas-snapchat/06obamas-snapchat-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Obamas Salute U.S. Olympians"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "First Ladies (US)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Michelle"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-08-06T21:10:56+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By YouTUBE/THE WHITE HOUSE"
+        },
+        "type_of_material": "Video",
+        "_id": "57aa25a995d0e021d797f157",
+        "word_count": "37",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/06/sports/olympics/06reuters-olympics-rio-judo-w-extralight.html",
+        "snippet": "Brazil got off to a rough start in Olympic judo on Saturday after local favourite Sarah Menezes suffered a shock defeat and went home without a medal, dashing hopes of an early triumph for the host country....",
+        "lead_paragraph": "Brazil got off to a rough start in Olympic judo on Saturday after local favourite Sarah Menezes suffered a shock defeat and went home without a medal, dashing hopes of an early triumph for the host country.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judo-Menezes Loss Dashes Brazil Hopes of Early First Gold",
+          "print_headline": "Judo-Menezes Loss Dashes Brazil Hopes of Early First Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:06:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa26ad95d0e021d797f17b",
+        "word_count": "399",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/06/sports/olympics/06reuters-olympics-rio-swimming-refugee.html",
+        "snippet": "It was what Yusra Mardini left unsaid, rather than the conventional words of excitement, that made the bigger impression after the teenager's debut in the Olympic pool on Saturday....",
+        "lead_paragraph": "It was what Yusra Mardini left unsaid, rather than the conventional words of excitement, that made the bigger impression after the teenager's debut in the Olympic pool on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Swimming: Syrian Refugee Mardini a Winner in the Water",
+          "print_headline": "Swimming: Syrian Refugee Mardini a Winner in the Water"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-06T21:00:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa260b95d0e021d797f167",
+        "word_count": "416",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

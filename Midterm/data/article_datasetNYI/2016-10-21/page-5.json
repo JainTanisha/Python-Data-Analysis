@@ -1,0 +1,662 @@
+{
+  "response": {
+    "meta": {
+      "hits": 871,
+      "time": 78,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/business/21reuters-usa-cybercrime-russian.html",
+        "snippet": "A federal grand jury in California has indicted a Russian man for hacking computers belonging to LinkedIn Corp, Dropbox and Formspring, the U.S. Justice Department said on Friday....",
+        "lead_paragraph": "A federal grand jury in California has indicted a Russian man for hacking computers belonging to LinkedIn Corp, Dropbox and Formspring, the U.S. Justice Department said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Russian Indicted in U.S. on Charges of Hacking LinkedIn",
+          "print_headline": "Russian Indicted in U.S. on Charges of Hacking LinkedIn"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:12:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a92c995d0e022439c4940",
+        "word_count": "278",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/22/world/europe/russia-admiral-kuznetsov-syria.html",
+        "snippet": "The Admiral Kuznetsov, a Soviet-era aircraft carrier prone to accidents, steamed through the English Channel in the Kremlin\u2019s latest effort to reassert itself as a maritime power....",
+        "lead_paragraph": "The Admiral Kuznetsov, a Soviet-era aircraft carrier prone to accidents, steamed through the English Channel in the Kremlin\u2019s latest effort to reassert itself as a maritime power.",
+        "abstract": "Admiral Kuznetsov, Russia's lone aircraft carrier, travels through English Channel en route to Syria, where it is expected to backup military operations of Pres Bashar al-Assad in October; mission will represent carrier's first use since Cold War, as well as attempt by Russia to reassert its naval might.",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/22/world/22russia-web/22russia-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/22/world/22russia-web/22russia-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/22/world/22russia-web/22russia-web-articleLarge.jpg",
+            "height": 458,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/22/world/22russia-web/22russia-web-articleLarge.jpg",
+              "xlargeheight": "458"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/22/world/22russia-web/22russia-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/22/world/22russia-web/22russia-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Russian Carrier Is Bound for Syria, Flexing Muscle but Risking Malfunction",
+          "print_headline": "Russian Carrier, Menacing but a Bit Rickety, Is Bound for Syria"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Ships and Shipping"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Moscow (Russia)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Syria"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Aircraft Carriers"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cold War Era"
+          }
+        ],
+        "pub_date": "2016-10-21T22:09:40+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Reporting was contributed by Ivan Nechepurenko and Oleg Matsnev from Moscow, and Steven Erlanger and Pauline Bock from London.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "MacFARQUHAR"
+            }
+          ],
+          "original": "By NEIL MacFARQUHAR"
+        },
+        "type_of_material": "News",
+        "_id": "580a922d95d0e022439c493f",
+        "word_count": "1142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/world/21reuters-puertorico-debt-litigation.html",
+        "snippet": "Puerto Rico's financial oversight board on Friday said litigation brought by creditors against the U.S. territory should remain on pause while the island works to resolve $70 billion of debt its government has said it cannot pay....",
+        "lead_paragraph": "Puerto Rico's financial oversight board on Friday said litigation brought by creditors against the U.S. territory should remain on pause while the island works to resolve $70 billion of debt its government has said it cannot pay. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Puerto Rico Oversight Board Wants Lawsuits to Remain Frozen",
+          "print_headline": "Puerto Rico Oversight Board Wants Lawsuits to Remain Frozen"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:07:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a91ce95d0e022439c493e",
+        "word_count": "404",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/us/21reuters-california-corruption.html",
+        "snippet": "Former California state Senator Ron Calderon was sentenced to more than three years in prison on Friday in a public corruption case in which the Democratic politician admitted to accepting about $100,000 in bribes, a spokesman for prosecutors said...",
+        "lead_paragraph": "Former California state Senator Ron Calderon was sentenced to more than three years in prison on Friday in a public corruption case in which the Democratic politician admitted to accepting about $100,000 in bribes, a spokesman for prosecutors said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "California Lawmaker Sentenced to Over 3 Years in Corruption Case",
+          "print_headline": "California Lawmaker Sentenced to Over 3 Years in Corruption Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:02:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a908195d0e022439c493d",
+        "word_count": "414",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/22/us/politics/united-states-elections-russian-requests-monitor.html",
+        "snippet": "Some United States officials portrayed the Russian overture as little more than a public relations stunt....",
+        "lead_paragraph": "Some United States officials portrayed the Russian overture as little more than a public relations stunt.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/22/us/22xp-russia/22xp-russia-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/22/us/22xp-russia/22xp-russia-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/22/us/22xp-russia/22xp-russia-articleLarge.jpg",
+            "height": 358,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/22/us/22xp-russia/22xp-russia-articleLarge.jpg",
+              "xlargeheight": "358"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/22/us/22xp-russia/22xp-russia-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/22/us/22xp-russia/22xp-russia-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "3 U.S. States Turn Down Russian Requests to Monitor Elections"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Texas"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Louisiana"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Oklahoma"
+          }
+        ],
+        "pub_date": "2016-10-21T21:54:11+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Daniel",
+              "rank": 1,
+              "lastname": "VICTOR"
+            }
+          ],
+          "original": "By DANIEL VICTOR"
+        },
+        "type_of_material": "News",
+        "_id": "580a8e8895d0e022439c493c",
+        "word_count": "482",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/briefing/election-internet-nsa.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/nytnow/22pmBriefing-slide-IX8C/22pmBriefing-slide-IX8C-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/nytnow/22pmBriefing-slide-IX8C/22pmBriefing-slide-IX8C-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/nytnow/22pmBriefing-slide-IX8C/22pmBriefing-slide-IX8C-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/nytnow/22pmBriefing-slide-IX8C/22pmBriefing-slide-IX8C-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/nytnow/22pmBriefing-slide-IX8C/22pmBriefing-slide-IX8C-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/nytnow/22pmBriefing-slide-IX8C/22pmBriefing-slide-IX8C-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Election, Internet, N.S.A.: Your Friday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T21:53:37+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Merrill",
+              "rank": 2
+            }
+          ],
+          "original": "By KAREN ZRAICK and MERRILL D. OLIVER"
+        },
+        "type_of_material": "briefing",
+        "_id": "580a8e6c95d0e022439c493b",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/world/middleeast/21reuters-yemen-security-ceasefire.html",
+        "snippet": "Warring factions in the war in Yemen exchanged accusations on Friday of violating a 72-hour ceasefire that began just before midnight on Wednesday, with the Saudi-led coalition saying Houthi forces have breached the truce by attacking several citi...",
+        "lead_paragraph": "Warring factions in the war in Yemen exchanged accusations on Friday of violating a 72-hour ceasefire that began just before midnight on Wednesday, with the Saudi-led coalition saying Houthi forces have breached the truce by attacking several cities in both countries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Parties to Yemen War Exchange Accusations of Breaching Ceasefire",
+          "print_headline": "Parties to Yemen War Exchange Accusations of Breaching Ceasefire"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T21:52:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a8e2695d0e022439c493a",
+        "word_count": "271",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://news.blogs.nytimes.com/2016/10/21/what-were-reading-199/",
+        "snippet": "Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from Dan Saltzstein, Erin McCann and others....",
+        "lead_paragraph": null,
+        "abstract": "Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from Dan Saltzstein, Erin McCann and others.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/nytnow/21reading-23andme/21reading-23andme-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/nytnow/21reading-23andme/21reading-23andme-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/nytnow/21reading-23andme/21reading-23andme-articleLarge.jpg",
+            "height": 345,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/nytnow/21reading-23andme/21reading-23andme-articleLarge.jpg",
+              "xlargeheight": "345"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/nytnow/21reading-23andme/21reading-23andme-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/nytnow/21reading-23andme/21reading-23andme-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What We&#8217;re Reading",
+          "kicker": "News"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Chubbuck, Christine (1944-74)"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Smith, J R"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "London (England)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Wales"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Atlas Obscura"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "New Yorker"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Washington Post"
+          }
+        ],
+        "pub_date": "2016-10-21T21:51:37Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Blogs",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Blog",
+        "_id": "580a8df395d0e022439c4939",
+        "word_count": "390",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/22/arts/design/pipilotti-rist-provoking-with-delight.html",
+        "snippet": "The Swiss video artist is taking over the entire New Museum with an unconventional retrospective, her most prominent American stage yet....",
+        "lead_paragraph": "The Swiss video artist is taking over the entire New Museum with an unconventional retrospective, her most prominent American stage yet.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/22/arts/22PIPILOTTI4/22PIPILOTTI4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/22/arts/22PIPILOTTI4/22PIPILOTTI4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/22/arts/22PIPILOTTI4/22PIPILOTTI4-articleLarge.jpg",
+            "height": 424,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/22/arts/22PIPILOTTI4/22PIPILOTTI4-articleLarge.jpg",
+              "xlargeheight": "424"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/22/arts/22PIPILOTTI4/22PIPILOTTI4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/22/arts/22PIPILOTTI4/22PIPILOTTI4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pipilotti Rist, Provoking With Delight",
+          "print_headline": "Provoke With Delight"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rist, Pipilotti"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New Museum of Contemporary Art"
+          }
+        ],
+        "pub_date": "2016-10-21T21:47:51+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Randy",
+              "rank": 1,
+              "lastname": "KENNEDY"
+            }
+          ],
+          "original": "By RANDY KENNEDY"
+        },
+        "type_of_material": "News",
+        "_id": "580a8d0c95d0e022439c4938",
+        "word_count": "1110",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-prince-estate.html",
+        "snippet": "A Minnesota judge said Friday he'll try to rule quickly on whether state law entitles a purported niece, grandniece and nephew of Prince to press their claims to shares in the late rock superstar's estate....",
+        "lead_paragraph": "A Minnesota judge said Friday he'll try to rule quickly on whether state law entitles a purported niece, grandniece and nephew of Prince to press their claims to shares in the late rock superstar's estate.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Purported Niece, Others Seek Shares of Prince's Estate",
+          "print_headline": "Purported Niece, Others Seek Shares of Prince's Estate"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T21:46:08Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a8ca795d0e022439c4937",
+        "word_count": "243",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

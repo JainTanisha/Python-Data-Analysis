@@ -1,0 +1,374 @@
+{
+  "response": {
+    "meta": {
+      "hits": 873,
+      "time": 67,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/business/dealbook/wells-fargo-stock-price.html",
+        "snippet": "Since the scandal broke about the bank\u2019s employees creating unauthorized accounts in order to meet sales goals, the bank\u2019s stock price has taken a hit....",
+        "lead_paragraph": "Since the scandal broke about the bank\u2019s employees creating unauthorized accounts in order to meet sales goals, the bank\u2019s stock price has taken a hit.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/12/business/dealbook/wells-fargo-stock-price-1476309654177/wells-fargo-stock-price-1476309654177-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/12/business/dealbook/wells-fargo-stock-price-1476309654177/wells-fargo-stock-price-1476309654177-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/12/business/dealbook/wells-fargo-stock-price-1476309654177/wells-fargo-stock-price-1476309654177-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/12/business/dealbook/wells-fargo-stock-price-1476309654177/wells-fargo-stock-price-1476309654177-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How Wall Street Has Responded to Wells Fargo\u2019s Scandal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:09:12+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "57feb42195d0e022439c2d97",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/world/americas/ap-lt-colombia-peace-march.html",
+        "snippet": "Thousands of farmers, indigenous activists and students marched in cities across Colombia on Wednesday to demand a peace deal between the government and leftist rebels not be scuttled....",
+        "lead_paragraph": "Thousands of farmers, indigenous activists and students marched in cities across Colombia on Wednesday to demand a peace deal between the government and leftist rebels not be scuttled.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombians Take to Streets Again to Support Peace Deal",
+          "print_headline": "Colombians Take to Streets Again to Support Peace Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:03:12Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb42195d0e022439c2d98",
+        "word_count": "540",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/us/politics/12reuters-usa-election-clinton-emails.html",
+        "snippet": "Hillary Clinton's presidential campaign looked for ways to avoid damaging its relationship with the White House as she considered how to publicly announce her position on the controversial Keystone XL pipeline, according to emails published this w...",
+        "lead_paragraph": "Hillary Clinton's presidential campaign looked for ways to avoid damaging its relationship with the White House as she considered how to publicly announce her position on the controversial Keystone XL pipeline, according to emails published this week by WikiLeaks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Aides Sought to Minimize Fallout With White House on Keystone: Emails",
+          "print_headline": "Clinton Aides Sought to Minimize Fallout With White House on Keystone: Emails"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:05:03Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb3f095d0e022439c2d96",
+        "word_count": "821",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-campaign-2016-trump-apprentice.html",
+        "snippet": "With public clamor growing for the release of footage from Donald Trump's reign on \"The Apprentice,\" entertainment giant MGM said Wednesday that it owns the reality TV show, not the program's executive producer Mark Burnett, and could not unilater...",
+        "lead_paragraph": "With public clamor growing for the release of footage from Donald Trump's reign on \"The Apprentice,\" entertainment giant MGM said Wednesday that it owns the reality TV show, not the program's executive producer Mark Burnett, and could not unilaterally release any unaired, archived material due to existing contractual obligations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "MGM Says: We Own 'Apprentice,' Can't Easily Release Tapes",
+          "print_headline": "MGM Says: We Own 'Apprentice,' Can't Easily Release Tapes"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:01:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb38795d0e022439c2d95",
+        "word_count": "735",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/sports/hockey/ap-hkn-oilers-gretzky.html",
+        "snippet": "Wayne Gretzky has returned to the Edmonton Oilers....",
+        "lead_paragraph": "Wayne Gretzky has returned to the Edmonton Oilers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Gretzky Named Partner, VP of Oilers Entertainment Group",
+          "print_headline": "Gretzky Named Partner, VP of Oilers Entertainment Group"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T21:57:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Hockey",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb2a995d0e022439c2d94",
+        "word_count": "508",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/12/briefing/donald-trump-samsung-chicago-cubs.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/12/nytnow/12eveningss-slide-NAVY/12eveningss-slide-NAVY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/12/nytnow/12eveningss-slide-NAVY/12eveningss-slide-NAVY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/12/nytnow/12eveningss-slide-NAVY/12eveningss-slide-NAVY-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/12/nytnow/12eveningss-slide-NAVY/12eveningss-slide-NAVY-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/12/nytnow/12eveningss-slide-NAVY/12eveningss-slide-NAVY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/12/nytnow/12eveningss-slide-NAVY/12eveningss-slide-NAVY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Samsung, Chicago Cubs: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "57feb26c95d0e022439c2d93",
+        "word_count": "939",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/us/12reuters-usa-canada-pipelines-filmmaker.html",
+        "snippet": "A documentary maker who was filming as environmental protesters attempted to shut down the flow of oil through pipelines carrying crude from Canada to the United States was arrested and her footage confiscated, activists said on Wednesday....",
+        "lead_paragraph": "A documentary maker who was filming as environmental protesters attempted to shut down the flow of oil through pipelines carrying crude from Canada to the United States was arrested and her footage confiscated, activists said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Documentary Filmmaker Arrested at Canada-U.S. Pipeline Protest",
+          "print_headline": "Documentary Filmmaker Arrested at Canada-U.S. Pipeline Protest"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T21:55:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb1d895d0e022439c2d92",
+        "word_count": "414",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-real-id-states.html",
+        "snippet": "Residents of five states may be barred from boarding a commercial flight using a driver's license beginning in 2018 because of their states' refusal to comply with national proof-of-identity requirements....",
+        "lead_paragraph": "Residents of five states may be barred from boarding a commercial flight using a driver's license beginning in 2018 because of their states' refusal to comply with national proof-of-identity requirements.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Residents of 5 States Risk Penalties Over 9/11 Real ID Law",
+          "print_headline": "Residents of 5 States Risk Penalties Over 9/11 Real ID Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T21:53:26Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb15895d0e022439c2d91",
+        "word_count": "549",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/world/europe/ap-eu-britain-supermarkets.html",
+        "snippet": "Britain's biggest supermarket chain, Tesco, has pulled cherished products such as Marmite spread and Ben &amp; Jerry's ice cream from its website amid a dispute with consumer goods giant Unilever....",
+        "lead_paragraph": "Britain's biggest supermarket chain, Tesco, has pulled cherished products such as Marmite spread and Ben &amp; Jerry's ice cream from its website amid a dispute with consumer goods giant Unilever.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pound Drop Ends in Fight Between Supermarkets and Supplier",
+          "print_headline": "Pound Drop Ends in Fight Between Supermarkets and Supplier"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T21:50:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb09295d0e022439c2d90",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-smallbiz-small-talk-election-chatter.html",
+        "snippet": "Dan Stewart walked into the room just in time to hear one of his employees say that one presidential candidate should be in jail, and a second staffer respond that another was the worst since Hitler....",
+        "lead_paragraph": "Dan Stewart walked into the room just in time to hear one of his employees say that one presidential candidate should be in jail, and a second staffer respond that another was the worst since Hitler.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Election Campaign Sparks More Chatter, Anger in Workplaces",
+          "print_headline": "Election Campaign Sparks More Chatter, Anger in Workplaces"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T21:50:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb07d95d0e022439c2d8f",
+        "word_count": "756",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,697 @@
+{
+  "response": {
+    "meta": {
+      "hits": 773,
+      "time": 61,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/21/world/americas/21reuters-colombia-peace.html",
+        "snippet": "The leadership of Colombia's Marxist FARC rebel group arrived in Bogota on Monday for meetings ahead of the signing of a new peace agreement with the government to end a half century of war, the insurgent group said....",
+        "lead_paragraph": "The leadership of Colombia's Marxist FARC rebel group arrived in Bogota on Monday for meetings ahead of the signing of a new peace agreement with the government to end a half century of war, the insurgent group said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombia's FARC Leaders Arrive in Bogota Ahead of Peace Signing",
+          "print_headline": "Colombia's FARC Leaders Arrive in Bogota Ahead of Peace Signing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:33:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5833764295d0e03926071ccb",
+        "word_count": "319",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/arts/design/the-natural-history-museum-has-a-new-app.html",
+        "snippet": "This free app, Explorer, offers facts, videos and teaching tools for some 70 of the most compelling items on display....",
+        "lead_paragraph": "This free app, Explorer, offers facts, videos and teaching tools for some 70 of the most compelling items on display.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/arts/22MUSEUMAPP/22MUSEUMAPP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/arts/22MUSEUMAPP/22MUSEUMAPP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/arts/22MUSEUMAPP/22MUSEUMAPP-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/arts/22MUSEUMAPP/22MUSEUMAPP-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/arts/22MUSEUMAPP/22MUSEUMAPP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/arts/22MUSEUMAPP/22MUSEUMAPP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Find the Whale and the Bathroom With the Natural History Museum App",
+          "print_headline": "Swipes and Taps  Give Digital Life to the Diorama"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "American Museum of Natural History"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mobile Applications"
+          }
+        ],
+        "pub_date": "2016-11-21T22:32:28+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joseph",
+              "rank": 1,
+              "lastname": "BERGER"
+            }
+          ],
+          "original": "By JOSEPH BERGER"
+        },
+        "type_of_material": "News",
+        "_id": "5833764295d0e03926071ccc",
+        "word_count": "914",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-travel.html",
+        "snippet": "From a portable tea set to a sketchpad that saves your in-flight doodles, these gifts are guaranteed to become indispensable for your jet-setter friends....",
+        "lead_paragraph": "From a portable tea set to a sketchpad that saves your in-flight doodles, these gifts are guaranteed to become indispensable for your jet-setter friends.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-travel-1479685208153/2016-holiday-gift-guide-travel-1479685208153-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-travel-1479685208153/2016-holiday-gift-guide-travel-1479685208153-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-travel-1479685208153/2016-holiday-gift-guide-travel-1479685208153-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-travel-1479685208153/2016-holiday-gift-guide-travel-1479685208153-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-travel-1479685208153/2016-holiday-gift-guide-travel-1479685208153-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-travel-1479685208153/2016-holiday-gift-guide-travel-1479685208153-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Travel"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:32:27+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elaine",
+              "rank": 1,
+              "lastname": "GLUSAC"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Shivani",
+              "rank": 2,
+              "lastname": "VORA"
+            }
+          ],
+          "original": "By ELAINE GLUSAC and SHIVANI VORA"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "583375fc95d0e03926071cc8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-food.html",
+        "snippet": "Food and the holidays go hand in hand, with everyone spending time happily eating or cooking or both. These gifts \u2014 from a sous-vide cooker for the tech-savvy gourmand to an adorable radish baby rattle for the teething future chef \u2014 celebrate ...",
+        "lead_paragraph": "Food and the holidays go hand in hand, with everyone spending time happily eating or cooking or both. These gifts \u2014 from a sous-vide cooker for the tech-savvy gourmand to an adorable radish baby rattle for the teething future chef \u2014 celebrate those delights.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-food-1479685186627/2016-holiday-gift-guide-food-1479685186627-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-food-1479685186627/2016-holiday-gift-guide-food-1479685186627-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-food-1479685186627/2016-holiday-gift-guide-food-1479685186627-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-food-1479685186627/2016-holiday-gift-guide-food-1479685186627-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-food-1479685186627/2016-holiday-gift-guide-food-1479685186627-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-food-1479685186627/2016-holiday-gift-guide-food-1479685186627-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Food and Cooking"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Food"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          }
+        ],
+        "pub_date": "2016-11-21T22:31:38+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margaux",
+              "rank": 1,
+              "lastname": "LASKEY"
+            }
+          ],
+          "original": "By MARGAUX LASKEY"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "583375cd95d0e03926071cc7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/us/ap-us-officers-shot-news-guide.html",
+        "snippet": "The shootings of police officers in Texas and Missouri on Sunday were the latest in what law enforcement officials say is an alarming spike in ambush-style attacks....",
+        "lead_paragraph": "The shootings of police officers in Texas and Missouri on Sunday were the latest in what law enforcement officials say is an alarming spike in ambush-style attacks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Officers 'Keenly Aware' They Are Targets for Violence",
+          "print_headline": "Police Officers 'Keenly Aware' They Are Targets for Violence"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:31:04+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583375af95d0e03926071cc6",
+        "word_count": "812",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-home.html",
+        "snippet": "Gifts for the home are especially fitting during the holidays, as many of us open our doors to welcome family and friends. The following 15 new products go beyond the ordinary to offer equal parts functionality and delight \u2014 and, hopefully, a li...",
+        "lead_paragraph": "Gifts for the home are especially fitting during the holidays, as many of us open our doors to welcome family and friends. The following 15 new products go beyond the ordinary to offer equal parts functionality and delight \u2014 and, hopefully, a little extra joy throughout the year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-home-1479685195213/2016-holiday-gift-guide-home-1479685195213-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-home-1479685195213/2016-holiday-gift-guide-home-1479685195213-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-home-1479685195213/2016-holiday-gift-guide-home-1479685195213-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-home-1479685195213/2016-holiday-gift-guide-home-1479685195213-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-home-1479685195213/2016-holiday-gift-guide-home-1479685195213-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-home-1479685195213/2016-holiday-gift-guide-home-1479685195213-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Home"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:30:36+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tim",
+              "rank": 1,
+              "lastname": "McKEOUGH"
+            }
+          ],
+          "original": "By TIM McKEOUGH"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5833758d95d0e03926071cc5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-kids.html",
+        "snippet": "A retro sled, a cozy hat, a build-it-yourself Bluetooth speaker \u2014 these are just a few of the fun, creative gifts we picked out for your little ones this holiday season. A selection of toys for children up to 12 years old....",
+        "lead_paragraph": "A retro sled, a cozy hat, a build-it-yourself Bluetooth speaker \u2014 these are just a few of the fun, creative gifts we picked out for your little ones this holiday season. A selection of toys for children up to 12 years old.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-kids-1479685132987/2016-holiday-gift-guide-kids-1479685132987-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-kids-1479685132987/2016-holiday-gift-guide-kids-1479685132987-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-kids-1479685132987/2016-holiday-gift-guide-kids-1479685132987-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-kids-1479685132987/2016-holiday-gift-guide-kids-1479685132987-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-kids-1479685132987/2016-holiday-gift-guide-kids-1479685132987-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-kids-1479685132987/2016-holiday-gift-guide-kids-1479685132987-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Kids"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:29:50+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Emily",
+              "rank": 1,
+              "lastname": "BRENNAN"
+            }
+          ],
+          "original": "By EMILY BRENNAN"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5833756395d0e03926071cc4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-style.html",
+        "snippet": "Buying gifts for your most stylish friends is harder than trying to get your teenage sister a Kylie Jenner lipkit. We got you, though. Here is a selection of items that will satisfy the women who has (nearly) everything and the man who is up on th...",
+        "lead_paragraph": "Buying gifts for your most stylish friends is harder than trying to get your teenage sister a Kylie Jenner lipkit. We got you, though. Here is a selection of items that will satisfy the women who has (nearly) everything and the man who is up on the latest trends.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-style-1479685105668/2016-holiday-gift-guide-style-1479685105668-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-style-1479685105668/2016-holiday-gift-guide-style-1479685105668-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-style-1479685105668/2016-holiday-gift-guide-style-1479685105668-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-style-1479685105668/2016-holiday-gift-guide-style-1479685105668-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-style-1479685105668/2016-holiday-gift-guide-style-1479685105668-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-style-1479685105668/2016-holiday-gift-guide-style-1479685105668-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Style"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          }
+        ],
+        "pub_date": "2016-11-21T22:28:25+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joanna",
+              "rank": 1,
+              "lastname": "NIKAS"
+            }
+          ],
+          "original": "By JOANNA NIKAS"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5833750a95d0e03926071cc3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/21/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-21T22:27:45+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583374e995d0e03926071cc2",
+        "word_count": "1068",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/21/multimedia/2016-holiday-gift-guide-wirecutter.html",
+        "snippet": "We put in thousands of hours researching and testing products each year so we can make our readers' lives easier. Here we've collected a few of our favorites to make your gift giving just as simple, whether the people you love appreciate the pract...",
+        "lead_paragraph": "We put in thousands of hours researching and testing products each year so we can make our readers' lives easier. Here we've collected a few of our favorites to make your gift giving just as simple, whether the people you love appreciate the practical or the whimisical.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-wirecutter-1479684902491/2016-holiday-gift-guide-wirecutter-1479684902491-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/multimedia/2016-holiday-gift-guide-wirecutter-1479684902491/2016-holiday-gift-guide-wirecutter-1479684902491-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-wirecutter-1479684902491/2016-holiday-gift-guide-wirecutter-1479684902491-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/multimedia/2016-holiday-gift-guide-wirecutter-1479684902491/2016-holiday-gift-guide-wirecutter-1479684902491-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/multimedia/2016-holiday-gift-guide-wirecutter-1479684902491/2016-holiday-gift-guide-wirecutter-1479684902491-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/multimedia/2016-holiday-gift-guide-wirecutter-1479684902491/2016-holiday-gift-guide-wirecutter-1479684902491-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "2016 Holiday Gift Guide - Wirecutter"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-21T22:27:43+0000",
+        "document_type": "multimedia",
+        "news_desk": "Multimedia/Photos",
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Wirecutter",
+              "rank": 1,
+              "lastname": "STAFF"
+            }
+          ],
+          "original": "By WIRECUTTER STAFF"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "583374e295d0e03926071cc1",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

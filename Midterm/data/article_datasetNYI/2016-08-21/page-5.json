@@ -1,0 +1,446 @@
+{
+  "response": {
+    "meta": {
+      "hits": 502,
+      "time": 35,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/21/sports/olympics/21reuters-olympics-rio-boxing-w-middle-shields.html",
+        "snippet": "Two-time boxing gold medalist Claressa Shields said she hoped her victories would help inspire other young black American women to reach for success....",
+        "lead_paragraph": "Two-time boxing gold medalist Claressa Shields said she hoped her victories would help inspire other young black American women to reach for success.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Boxing: U.S.'s Shields Hopes to Inspire Black Women",
+          "print_headline": "Boxing: U.S.'s Shields Hopes to Inspire Black Women"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T21:01:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba172995d0e021d7981dc0",
+        "word_count": "369",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/21/sports/olympics/rio-closing-ceremony-live.html",
+        "snippet": "New York Times reporters and photographers covered the closing ceremony for the 2016 Summer Olympics in Rio de Janeiro, Brazil....",
+        "lead_paragraph": "New York Times reporters and photographers covered the closing ceremony for the 2016 Summer Olympics in Rio de Janeiro, Brazil.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/22/sports/22BLOGpromo/22BLOGpromo-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/22/sports/22BLOGpromo/22BLOGpromo-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/22/sports/22BLOGpromo/22BLOGpromo-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/22/sports/22BLOGpromo/22BLOGpromo-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/22/sports/22BLOGpromo/22BLOGpromo-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/22/sports/22BLOGpromo/22BLOGpromo-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Highlights From the Rio Olympics Closing Ceremony"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+          }
+        ],
+        "pub_date": "2016-08-21T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57ba16c895d0e021d7981dbf",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/sports/baseball/ap-bbn-cardinals-phillies.html",
+        "snippet": "Next to all of that St. Louis power, Mike Leake's single might've looked puny....",
+        "lead_paragraph": "Next to all of that St. Louis power, Mike Leake's single might've looked puny.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Leake Strong, Cardinals Hit 4 Homers to Rout Phillies",
+          "print_headline": "Leake Strong, Cardinals Hit 4 Homers to Rout Phillies"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:58:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba167f95d0e021d7981dbe",
+        "word_count": "735",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/sports/olympics/100000004603917/the-power-of-gold.html",
+        "snippet": "In 2012, the Brazilian judoka Rafaela Silva was a medal favorite, but she was disqualified. At the Rio Games, she sought to show that her humble background could not squelch her dreams....",
+        "lead_paragraph": "In 2012, the Brazilian judoka Rafaela Silva was a medal favorite, but she was disqualified. At the Rio Games, she sought to show that her humble background could not squelch her dreams.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/20/multimedia/judo-silva/judo-silva-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/20/multimedia/judo-silva/judo-silva-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/20/multimedia/judo-silva/judo-silva-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/20/multimedia/judo-silva/judo-silva-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/20/multimedia/judo-silva/judo-silva-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/20/multimedia/judo-silva/judo-silva-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Power of Gold"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Silva, Rafaela (1992- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Martial Arts"
+          }
+        ],
+        "pub_date": "2016-08-21T20:54:43+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslye",
+              "rank": 1,
+              "lastname": "DAVIS"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "GARCIA"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sergio",
+              "rank": 3,
+              "lastname": "PE\u00c7ANHA"
+            }
+          ],
+          "original": "By LESLYE DAVIS, ALEXANDRA GARCIA and SERGIO PE\u00c7ANHA"
+        },
+        "type_of_material": "Video",
+        "_id": "57ba155c95d0e021d7981dbd",
+        "word_count": "32",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/sports/baseball/ap-bba-twins-royals.html",
+        "snippet": "Danny Duffy keeps winning and so do the Kansas City Royals....",
+        "lead_paragraph": "Danny Duffy keeps winning and so do the Kansas City Royals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Duffy Wins 10th Straight as Royals Beat Twins 2-1",
+          "print_headline": "Duffy Wins 10th Straight as Royals Beat Twins 2-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:47:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba146295d0e021d7981dbc",
+        "word_count": "790",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/21/business/21reuters-facebook-stocks-barrons.html",
+        "snippet": "Facebook Inc stock has the potential to climb by more than 20 percent over the next year given the growing advertising revenue among its platforms, according to a Barron's report on Sunday....",
+        "lead_paragraph": "Facebook Inc stock has the potential to climb by more than 20 percent over the next year given the growing advertising revenue among its platforms, according to a Barron's report on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Facebook Can Climb More Than 20 Percent on Ad Growth: Barron's",
+          "print_headline": "Facebook Can Climb More Than 20 Percent on Ad Growth: Barron's"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:44:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba12fc95d0e021d7981dbb",
+        "word_count": "228",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/us/ap-us-rethinking-criminal-penalties.html",
+        "snippet": "A 2014 California voter-approved initiative that reduced penalties for certain drug and property crimes has led to the lowest arrest rate in state history as police frequently ignore those illegal activities, experts say....",
+        "lead_paragraph": "A 2014 California voter-approved initiative that reduced penalties for certain drug and property crimes has led to the lowest arrest rate in state history as police frequently ignore those illegal activities, experts say.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Crime Measure Triggers 52,000 Fewer Arrests",
+          "print_headline": "California Crime Measure Triggers 52,000 Fewer Arrests"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:40:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba124895d0e021d7981dba",
+        "word_count": "804",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/21/sports/soccer/21reuters-soccer-spain.html",
+        "snippet": "Gareth Bale scored a double in a commanding 3-0 win for Real Madrid in their La Liga opener at Real Sociedad on Sunday, building on his stunning displays for Wales at Euro 2016....",
+        "lead_paragraph": "Gareth Bale scored a double in a commanding 3-0 win for Real Madrid in their La Liga opener at Real Sociedad on Sunday, building on his stunning displays for Wales at Euro 2016. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bale Helps Real to Winning Start, Atletico Held",
+          "print_headline": "Bale Helps Real to Winning Start, Atletico Held"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:40:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba123c95d0e021d7981db9",
+        "word_count": "510",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/21/sports/olympics/21reuters-olympics-rio-britain.html",
+        "snippet": "The \"Great Haul of China\" in 2008 was seen as something of an aberration, 2012's success was surely all through home advantage but, after their best medal return from an overseas Games, Britain is indisputably back as an Olympic superpower....",
+        "lead_paragraph": "The \"Great Haul of China\" in 2008 was seen as something of an aberration, 2012's success was surely all through home advantage but, after their best medal return from an overseas Games, Britain is indisputably back as an Olympic superpower.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Britain Revels in Return to Superpower Status",
+          "print_headline": "Britain Revels in Return to Superpower Status"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:38:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba118d95d0e021d7981db8",
+        "word_count": "572",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/sports/olympics/ap-oly-bko-serbia-us.html",
+        "snippet": "The trip wasn't always easy, though they arrived at their expected destination....",
+        "lead_paragraph": "The trip wasn't always easy, though they arrived at their expected destination.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "US Romps to Men's Basketball Gold, Beats Serbia 96-66",
+          "print_headline": "US Romps to Men's Basketball Gold, Beats Serbia 96-66"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T20:34:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba10e495d0e021d7981db7",
+        "word_count": "844",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

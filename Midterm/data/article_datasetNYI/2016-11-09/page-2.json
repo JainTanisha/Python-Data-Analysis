@@ -1,0 +1,739 @@
+{
+  "response": {
+    "meta": {
+      "hits": 886,
+      "time": 62,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/09/us/politics/new-hampshire-senate-hassan-ayotte.html",
+        "snippet": "Governor Hassan upended Senator Ayotte, a rising star in Washington, in a race that cost about $120 million, a jaw-dropping sum for such a small state....",
+        "lead_paragraph": "Governor Hassan upended Senator Ayotte, a rising star in Washington, in a race that cost about $120 million, a jaw-dropping sum for such a small state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/us/09senate-hassan/09senate-hassan-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/us/09senate-hassan/09senate-hassan-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/us/09senate-hassan/09senate-hassan-articleLarge.jpg",
+            "height": 388,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/us/09senate-hassan/09senate-hassan-articleLarge.jpg",
+              "xlargeheight": "388"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/us/09senate-hassan/09senate-hassan-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/us/09senate-hassan/09senate-hassan-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Maggie Hassan Unseats Kelly Ayotte in New Hampshire Senate Race"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ayotte, Kelly A"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hassan, Margaret"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New Hampshire"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, Senate"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Senate"
+          }
+        ],
+        "pub_date": "2016-11-09T23:23:23Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Katharine",
+              "middlename": "Q.",
+              "lastname": "SEELYE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By KATHARINE Q. SEELYE"
+        },
+        "type_of_material": "News",
+        "_id": "5823aff295d0e0204d55f9be",
+        "word_count": "235",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/ap-us-elections-2016-tv-ratings.html",
+        "snippet": "An estimated 71.4 million Americans watched returns electing Republican Donald Trump the next president on prime-time television Tuesday, narrowly missing a record set eight years ago on the night Democrat Barack Obama won his first term....",
+        "lead_paragraph": "An estimated 71.4 million Americans watched returns electing Republican Donald Trump the next president on prime-time television Tuesday, narrowly missing a record set eight years ago on the night Democrat Barack Obama won his first term.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Election Night Narrowly Misses a TV Ratings Record",
+          "print_headline": "Election Night Narrowly Misses a TV Ratings Record"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:22:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823afc895d0e0204d55f9bd",
+        "word_count": "405",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004759858/trump-and-trudeau-policy-differences.html",
+        "snippet": "President-elect Donald J. Trump and Prime Minister Justin Trudeau of Canada will need to work together despite vast differences on climate change, trade and migrants....",
+        "lead_paragraph": "President-elect Donald J. Trump and Prime Minister Justin Trudeau of Canada will need to work together despite vast differences on climate change, trade and migrants.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/world/americas/10canadamove2/10canadamove2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/world/americas/10canadamove2/10canadamove2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/world/americas/10canadamove2/10canadamove2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/world/americas/10canadamove2/10canadamove2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/world/americas/10canadamove2/10canadamove2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/world/americas/10canadamove2/10canadamove2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump and Trudeau Policy Differences"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trudeau, Justin"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Trade and World Market"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Middle East and Africa Migrant Crisis"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United Nations Framework Convention on Climate Change"
+          }
+        ],
+        "pub_date": "2016-11-09T23:15:46Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Turner",
+              "rank": 1,
+              "lastname": "COWLES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 2,
+              "lastname": "UPADHYE"
+            }
+          ],
+          "original": "By TURNER COWLES and NEETI UPADHYE"
+        },
+        "type_of_material": "Video",
+        "_id": "5823ae2b95d0e0204d55f9bb",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/politics/ap-us-2016-election-glance.html",
+        "snippet": "Donald Trump's muscular performance with working-class whites overwhelmed the national trend toward a more diverse population that tends to favor Democrats. That dynamic was amplified by the peculiar mathematics of the Electoral College, which gav...",
+        "lead_paragraph": "Donald Trump's muscular performance with working-class whites overwhelmed the national trend toward a more diverse population that tends to favor Democrats. That dynamic was amplified by the peculiar mathematics of the Electoral College, which gave a megaphone to less-educated voters in the Midwest.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Alchemy of Trump's Victory, at Odds With Popular Vote",
+          "print_headline": "The Alchemy of Trump's Victory, at Odds With Popular Vote"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:09:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823acbe95d0e0204d55f9ba",
+        "word_count": "891",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/business/09reuters-samsung-elec-management.html",
+        "snippet": "Jay Y. Lee, de facto head of South Korea's sprawling Samsung Group, accelerated taking a board seat at flagship unit Samsung Electronics partly because of investor pressure to improve governance, two people familiar with the matter said....",
+        "lead_paragraph": "Jay Y. Lee, de facto head of South Korea's sprawling Samsung Group, accelerated taking a board seat at flagship unit Samsung Electronics partly because of investor pressure to improve governance, two people familiar with the matter said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "At Samsung Electronics, Lee Signals More Board Power in Nod to Investors",
+          "print_headline": "At Samsung Electronics, Lee Signals More Board Power in Nod to Investors"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:09:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823acb595d0e0204d55f9b9",
+        "word_count": "826",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/09/briefing/donald-trump-republican-party-marijuana.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/briefing/09eveningss-slide-VLGY/09eveningss-slide-VLGY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/briefing/09eveningss-slide-VLGY/09eveningss-slide-VLGY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/briefing/09eveningss-slide-VLGY/09eveningss-slide-VLGY-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/briefing/09eveningss-slide-VLGY/09eveningss-slide-VLGY-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/briefing/09eveningss-slide-VLGY/09eveningss-slide-VLGY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/briefing/09eveningss-slide-VLGY/09eveningss-slide-VLGY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Republican Party, Marijuana: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:05:52Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "5823abda95d0e0204d55f9b8",
+        "word_count": "838",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004750731/trailer-iron-moon.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/movies/video-iron-moon-us/video-iron-moon-us-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/movies/video-iron-moon-us/video-iron-moon-us-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/movies/video-iron-moon-us/video-iron-moon-us-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/movies/video-iron-moon-us/video-iron-moon-us-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/movies/video-iron-moon-us/video-iron-moon-us-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/movies/video-iron-moon-us/video-iron-moon-us-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Iron Moon'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:05:02Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Medoc",
+              "rank": 1
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Shanghai",
+              "rank": 2,
+              "lastname": "ETERNITY"
+            }
+          ],
+          "original": "By MEDOC and SHANGHAI ETERNITY"
+        },
+        "type_of_material": "Video",
+        "_id": "5823aba495d0e0204d55f9b7",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/10/fashion/rolling-stones-fashion-icons.html",
+        "snippet": "A new show on the Rolling Stones, \u201cExhibitionism,\u201d opens in New York, and makes clear that Mick, Keith and company invented the very image of the modern rock star....",
+        "lead_paragraph": "A new show on the Rolling Stones, \u201cExhibitionism,\u201d opens in New York, and makes clear that Mick, Keith and company invented the very image of the modern rock star.",
+        "abstract": "Exhibition at Industria in New York City celebrates band the Rolling Stones, who quickly became global fashion icons after their first photo shoot in 1963.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/fashion/10STONESJP1/10STONESJP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/fashion/10STONESJP1/10STONESJP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/fashion/10STONESJP1/10STONESJP1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/fashion/10STONESJP1/10STONESJP1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/fashion/10STONESJP1/10STONESJP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/fashion/10STONESJP1/10STONESJP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How the Rolling Stones Became Fashion Icons",
+          "print_headline": "Dressed for Success"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Rolling Stones"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Jagger, Mick"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Richards, Keith"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "West Village (Manhattan, NY)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-09T23:04:08Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alex",
+              "rank": 1,
+              "lastname": "WILLIAMS"
+            }
+          ],
+          "original": "By ALEX WILLIAMS"
+        },
+        "type_of_material": "News",
+        "_id": "5823ab6c95d0e0204d55f9b6",
+        "word_count": "1914",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/sports/baseball/ap-bbo-baseball-arbitrator-fired.html",
+        "snippet": "The baseball players' union has fired arbitrator Fredric Horowitz, a person familiar with the decision told The Associated Press....",
+        "lead_paragraph": "The baseball players' union has fired arbitrator Fredric Horowitz, a person familiar with the decision told The Associated Press.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "APNewsBreak: Baseball Union Fires Arbitrator",
+          "print_headline": "APNewsBreak: Baseball Union Fires Arbitrator"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T23:03:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823ab6295d0e0204d55f9b5",
+        "word_count": "151",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/13/theater/hand-to-god-puppets.html",
+        "snippet": "Puppet designers and actors talk about the zany challenges of creating and manipulating an ever-more-maniacal puppet onstage in productions of \u201cHand to God.\u201d...",
+        "lead_paragraph": "Puppet designers and actors talk about the zany challenges of creating and manipulating an ever-more-maniacal puppet onstage in productions of \u201cHand to God.\u201d",
+        "abstract": null,
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/06/arts/6HANDTOGOD1/6HANDTOGOD1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/06/arts/6HANDTOGOD1/6HANDTOGOD1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/06/arts/6HANDTOGOD1/6HANDTOGOD1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/06/arts/6HANDTOGOD1/6HANDTOGOD1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/06/arts/6HANDTOGOD1/6HANDTOGOD1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/06/arts/6HANDTOGOD1/6HANDTOGOD1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Meet America\u2019s Favorite Satanic Sock Puppet",
+          "print_headline": "That Satanic Sock Puppet Gets Around"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Hand to God (Play)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Puppets"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Askins, Robert"
+          }
+        ],
+        "pub_date": "2016-11-09T23:03:24+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Diep",
+              "rank": 1,
+              "lastname": "TRAN"
+            }
+          ],
+          "original": "By DIEP TRAN"
+        },
+        "type_of_material": "News",
+        "_id": "5823ab3f95d0e0204d55f9b4",
+        "word_count": "860",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,446 @@
+{
+  "response": {
+    "meta": {
+      "hits": 961,
+      "time": 81,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004560346/cia-chief-unsure-about-syrias-future.html",
+        "snippet": "John O. Brennan, the director of the Central Intelligence Agency, suggested that Syria\u2019s stability depended on President Bashar al-Assad\u2019s eventual removal from power....",
+        "lead_paragraph": "John O. Brennan, the director of the Central Intelligence Agency, suggested that Syria\u2019s stability depended on President Bashar al-Assad\u2019s eventual removal from power.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/multimedia/30intel-brennan/30intel-brennan-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/multimedia/30intel-brennan/30intel-brennan-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/multimedia/30intel-brennan/30intel-brennan-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/multimedia/30intel-brennan/30intel-brennan-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/multimedia/30intel-brennan/30intel-brennan-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/multimedia/30intel-brennan/30intel-brennan-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "C.I.A. Chief Unsure About Syria\u2019s Future"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Central Intelligence Agency"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Assad, Bashar al-"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brennan, John O"
+          }
+        ],
+        "pub_date": "2016-07-29T22:35:04Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "579c129738f0d83c0fcf78ce",
+        "word_count": "23",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/us/politics/clinton-campaign-hacked-russians.html",
+        "snippet": "A federal law enforcement official said the intrusion appeared to have come from that country\u2019s intelligence services....",
+        "lead_paragraph": "A federal law enforcement official said the intrusion appeared to have come from that country\u2019s intelligence services.",
+        "abstract": "Federal officials report computer systems used by Hillary Clinton's presidential campaign were hacked, with breach appearing to be of Russian origin; attack appears to have come from same entity that compromised Democratic National Committee's computer system, adding to Clinton team's arguments that Russia is trying to influence outcome of American presidential election.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/us/30hack-web/30hack-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/us/30hack-web/30hack-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/us/30hack-web/30hack-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/us/30hack-web/30hack-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/us/30hack-web/30hack-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/us/30hack-web/30hack-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Computer Systems Used by Clinton Campaign Are Said to Be Hacked, Apparently by Russians",
+          "print_headline": "Russian Spies  Said to Hack  Clinton\u2019s Bid"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cyberwarfare and Defense"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Congressional Campaign Committee"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Democratic National Committee"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Espionage and Intelligence Services"
+          }
+        ],
+        "pub_date": "2016-07-29T22:34:59+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Eric Schmitt and David E. Sanger contributed reporting from Aspen, Colo.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "LICHTBLAU"
+            }
+          ],
+          "original": "By ERIC LICHTBLAU"
+        },
+        "type_of_material": "News",
+        "_id": "579bda1838f0d83c0fcf7874",
+        "word_count": "887",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bbn-phillies-braves.html",
+        "snippet": "Tyrell Jenkins was too nervous to watch the ninth inning, so he headed to the clubhouse....",
+        "lead_paragraph": "Tyrell Jenkins was too nervous to watch the ninth inning, so he headed to the clubhouse.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jenkins Earns 1st Career Win for Braves, Beats Phillies",
+          "print_headline": "Jenkins Earns 1st Career Win for Braves, Beats Phillies"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:27:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c115a38f0d83c0fcf78cd",
+        "word_count": "549",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bba-astros-tigers.html",
+        "snippet": "Tyler Collins knows the clock is ticking on his stay in the major leagues....",
+        "lead_paragraph": "Tyler Collins knows the clock is ticking on his stay in the major leagues.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Collins, Upton Hit 3-Run Homers as Tigers Beat Astros 14-6",
+          "print_headline": "Collins, Upton Hit 3-Run Homers as Tigers Beat Astros 14-6"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:23:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c10b738f0d83c0fcf78cc",
+        "word_count": "820",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bbn-cardinals-marlins.html",
+        "snippet": "When Tommy Pham was hit by a pitch in the left hand in his first at-bat, it did not look like he would be able to stay in the game....",
+        "lead_paragraph": "When Tommy Pham was hit by a pitch in the left hand in his first at-bat, it did not look like he would be able to stay in the game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pham Homers, Drives in 3 to Lead Cardinals Over Marlins",
+          "print_headline": "Pham Homers, Drives in 3 to Lead Cardinals Over Marlins"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:22:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0feb38f0d83c0fcf78ca",
+        "word_count": "789",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bba-athletics-indians.html",
+        "snippet": "Indians manager Terry Francona admitted his team didn't have much going through six innings Friday night....",
+        "lead_paragraph": "Indians manager Terry Francona admitted his team didn't have much going through six innings Friday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Indians Use 4-Run 7th to Beat Athletics 5-3",
+          "print_headline": "Indians Use 4-Run 7th to Beat Athletics 5-3"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:22:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0fe938f0d83c0fcf78c9",
+        "word_count": "581",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bba-yankees-rays.html",
+        "snippet": "Jake Odorizzi shut down New York in the start of a key weekend for the Yankees....",
+        "lead_paragraph": "Jake Odorizzi shut down New York in the start of a key weekend for the Yankees.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Odorizzi Sharp as Rays Beat Yankees 5-1",
+          "print_headline": "Odorizzi Sharp as Rays Beat Yankees 5-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:15:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0e9138f0d83c0fcf78c8",
+        "word_count": "511",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/world/asia/29reuters-australia-prison-inquiry.html",
+        "snippet": "The United Nation Human Rights High Commission has called on  Australia to give compensation to children abused in prison, after footage emerged of mistreatment....",
+        "lead_paragraph": "The United Nation Human Rights High Commission has called on  Australia to give compensation to children abused in prison, after footage emerged of mistreatment. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.N. Human Rights Commission Slams Australia Youth Prison Abuse",
+          "print_headline": "U.N. Human Rights Commission Slams Australia Youth Prison Abuse"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:16:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0e7838f0d83c0fcf78c7",
+        "word_count": "336",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bbo-leading-off.html",
+        "snippet": "A look at what's happening all around the majors today:...",
+        "lead_paragraph": "A look at what's happening all around the majors today:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "LEADING OFF: Arrieta Aims to End Skid, Pomeranz Bids for 1st",
+          "print_headline": "LEADING OFF: Arrieta Aims to End Skid, Pomeranz Bids for 1st"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:14:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0dd038f0d83c0fcf78c6",
+        "word_count": "254",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/sports/soccer/29reuters-soccer-england-world-cup.html",
+        "snippet": "Fifty years on from the greatest day in the history of English football, pessimists fear that the prospect of becoming world champions again is as remote as it has ever been....",
+        "lead_paragraph": "Fifty years on from the greatest day in the history of English football, pessimists fear that the prospect of becoming world champions again is as remote as it has ever been. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "50th Anniversary Leaves English Football With Mixed Feelings",
+          "print_headline": "50th Anniversary Leaves English Football With Mixed Feelings"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:06:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0ba838f0d83c0fcf78c2",
+        "word_count": "520",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

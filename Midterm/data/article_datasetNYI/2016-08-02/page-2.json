@@ -1,0 +1,951 @@
+{
+  "response": {
+    "meta": {
+      "hits": 610,
+      "time": 43,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/world/africa/100000004565211/major-change-possible-in-south-africa.html",
+        "snippet": "Local elections could usher in change in South Africa, opinion polls suggest. The ruling African National Congress could lose major cities it has held since the end of apartheid 22 years ago....",
+        "lead_paragraph": "Local elections could usher in change in South Africa, opinion polls suggest. The ruling African National Congress could lose major cities it has held since the end of apartheid 22 years ago.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/world/03Pretoria-web1/03Pretoria-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/world/03Pretoria-web1/03Pretoria-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/world/03Pretoria-web1/03Pretoria-web1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/world/03Pretoria-web1/03Pretoria-web1-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/world/03Pretoria-web1/03Pretoria-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/world/03Pretoria-web1/03Pretoria-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Major Change Possible in South Africa"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Zuma, Jacob G"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "African National Congress"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "South Africa"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Apartheid (Policy)"
+          }
+        ],
+        "pub_date": "2016-08-02T19:56:27+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Africa",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "Upadhye"
+            }
+          ],
+          "original": "By Neeti Upadhye"
+        },
+        "type_of_material": "Video",
+        "_id": "5888fe5795d0e0392607cc31",
+        "word_count": "32",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004488976/trailer-morris-from-america.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/22/movies/video-morris-from-america/video-morris-from-america-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/22/movies/video-morris-from-america/video-morris-from-america-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/22/movies/video-morris-from-america/video-morris-from-america-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/22/movies/video-morris-from-america/video-morris-from-america-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/22/movies/video-morris-from-america/video-morris-from-america-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/22/movies/video-morris-from-america/video-morris-from-america-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Morris From America'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T19:12:57+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By A24"
+        },
+        "type_of_material": "Video",
+        "_id": "57b5eaec95d0e021d798162b",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004560508/trailer-spa-night.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/movies/video-spa-night/video-spa-night-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/movies/video-spa-night/video-spa-night-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/movies/video-spa-night/video-spa-night-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/movies/video-spa-night/video-spa-night-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/movies/video-spa-night/video-spa-night-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/movies/video-spa-night/video-spa-night-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Spa Night'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T19:11:48+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Strand",
+              "rank": 1,
+              "lastname": "RELEASING"
+            }
+          ],
+          "original": "By STRAND RELEASING"
+        },
+        "type_of_material": "Video",
+        "_id": "57b6272495d0e021d79816f0",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/t-magazine/travel/margate-kent-england-travel.html",
+        "snippet": "Margate, Kent, is having a renaissance. Here\u2019s what to eat, see, shop and do there....",
+        "lead_paragraph": "Margate, Kent, is having a renaissance. Here\u2019s what to eat, see, shop and do there.",
+        "abstract": null,
+        "print_page": "120",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/t-magazine/02tmag-kkillo/02tmag-kkillo-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/t-magazine/02tmag-kkillo/02tmag-kkillo-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/t-magazine/02tmag-kkillo/02tmag-kkillo-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/t-magazine/02tmag-kkillo/02tmag-kkillo-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/t-magazine/02tmag-kkillo/02tmag-kkillo-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/t-magazine/02tmag-kkillo/02tmag-kkillo-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "When in London, Skip Town for the Sea",
+          "print_headline": "This and That; Revival of the Fittest"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Turner Contemporary (Margate, England)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Margate (England)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Travel",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christine",
+              "rank": 1,
+              "lastname": "AJUDUA"
+            }
+          ],
+          "original": "By CHRISTINE AJUDUA"
+        },
+        "type_of_material": "News",
+        "_id": "57b5253595d0e021d798143c",
+        "word_count": "577",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/nyregion/100000004564905/new-york-police-commissioner-steps-down.html",
+        "snippet": "Mayor Bill de Blasio and Commissioner William J. Bratton announced Tuesday that Commissioner Bratton will step down from his post next month. Chief James P. O\u2019Neill will replace him....",
+        "lead_paragraph": "Mayor Bill de Blasio and Commissioner William J. Bratton announced Tuesday that Commissioner Bratton will step down from his post next month. Chief James P. O\u2019Neill will replace him.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/nyregion/02NYPD-BRATTON-vid/02NYPD-BRATTON-vid-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/nyregion/02NYPD-BRATTON-vid/02NYPD-BRATTON-vid-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/nyregion/02NYPD-BRATTON-vid/02NYPD-BRATTON-vid-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/nyregion/02NYPD-BRATTON-vid/02NYPD-BRATTON-vid-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/nyregion/02NYPD-BRATTON-vid/02NYPD-BRATTON-vid-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/nyregion/02NYPD-BRATTON-vid/02NYPD-BRATTON-vid-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "New York Police Commissioner To Step Down"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bratton, William J"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Police Department (NYC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          }
+        ],
+        "pub_date": "2016-08-02T19:12:30+0000",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5888fe5a95d0e0392607cc32",
+        "word_count": "29",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/02/world/europe/turkey-purge-erdogan-scale.html",
+        "snippet": "How the Turkish president\u2019s sweeping purge of political opponents would look if Americans were targeted at a similar scale....",
+        "lead_paragraph": "How the Turkish president\u2019s sweeping purge of political opponents would look if Americans were targeted at a similar scale.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/world/europe/turkey-purge-ergogan-scale-1470072980508/turkey-purge-ergogan-scale-1470072980508-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/world/europe/turkey-purge-ergogan-scale-1470072980508/turkey-purge-ergogan-scale-1470072980508-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/world/europe/turkey-purge-ergogan-scale-1470072980508/turkey-purge-ergogan-scale-1470072980508-articleLarge.png",
+            "height": 271,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/world/europe/turkey-purge-ergogan-scale-1470072980508/turkey-purge-ergogan-scale-1470072980508-articleLarge.png",
+              "xlargeheight": "271"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/world/europe/turkey-purge-ergogan-scale-1470072980508/turkey-purge-ergogan-scale-1470072980508-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/world/europe/turkey-purge-ergogan-scale-1470072980508/turkey-purge-ergogan-scale-1470072980508-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Scale of Turkey\u2019s Purge Is Nearly Unprecedented"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Turkey"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Erdogan, Recep Tayyip"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coups D'Etat and Attempted Coups D'Etat"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Josh",
+              "rank": 1,
+              "lastname": "KELLER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Iaryna",
+              "rank": 2,
+              "lastname": "MYKHYALYSHYN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Safak",
+              "rank": 3,
+              "lastname": "TIMUR"
+            }
+          ],
+          "original": "By JOSH KELLER, IARYNA MYKHYALYSHYN and SAFAK TIMUR"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57b1b5b195d0e021d7980c09",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004565158/trump-jousts-with-crying-baby-at-rally.html",
+        "snippet": "During a rally in Virginia on Tuesday, Donald J. Trump, the Republican presidential nominee, told a crowd he \u201cloved babies\u201d when a child started crying. Then he quickly pivoted, saying, \u201cGet the baby out of here.\u201d...",
+        "lead_paragraph": "During a rally in Virginia on Tuesday, Donald J. Trump, the Republican presidential nominee, told a crowd he \u201cloved babies\u201d when a child started crying. Then he quickly pivoted, saying, \u201cGet the baby out of here.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/us/03FD-trumpbaby/03FD-trumpbaby-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/us/03FD-trumpbaby/03FD-trumpbaby-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/us/03FD-trumpbaby/03FD-trumpbaby-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/us/03FD-trumpbaby/03FD-trumpbaby-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/us/03FD-trumpbaby/03FD-trumpbaby-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/us/03FD-trumpbaby/03FD-trumpbaby-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Remarks on Baby at Event"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-08-02T18:55:36+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57aab0a795d0e021d797fc8b",
+        "word_count": "36",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/world/asia/philippines-duterte-drug-killing.html",
+        "snippet": "Since Rodrigo Duterte took office in June, promising a tough stance on drug suspects, more than 400 people have been killed, the news media said....",
+        "lead_paragraph": "Since Rodrigo Duterte took office in June, promising a tough stance on drug suspects, more than 400 people have been killed, the news media said.",
+        "abstract": "Over 400 drug suspects have been killed by police and military in Philippines since Pres Rodrigo Duterte assumed office and began harsh crackdown on crime, prompting tens of thousands of drug addicts and dealers to turn themselves in; Duterte reiterates his intent to continue policy, but killings have prompted accusations of rights violations.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/world/03PHILIPPINES-web1/03PHILIPPINES-web1-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/world/03PHILIPPINES-web1/03PHILIPPINES-web1-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/world/03PHILIPPINES-web1/03PHILIPPINES-web1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/world/03PHILIPPINES-web1/03PHILIPPINES-web1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/world/03PHILIPPINES-web1/03PHILIPPINES-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/world/03PHILIPPINES-web1/03PHILIPPINES-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Body Count Rises as Philippine President Wages War on Drugs",
+          "print_headline": "Body Count Is Rising as Philippines Wages War on Drugs"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Philippines"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Duterte, Rodrigo"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drug Abuse and Traffic"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crime and Criminals"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Vigilantes"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          }
+        ],
+        "pub_date": "2016-08-02T18:32:32+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jason",
+              "rank": 1,
+              "lastname": "GUTIERREZ"
+            }
+          ],
+          "original": "By JASON GUTIERREZ"
+        },
+        "type_of_material": "News",
+        "_id": "57c890ae95d0e021d7983e78",
+        "word_count": "1200",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/business/dealbook/questions-of-redstones-competency-promise-years-of-litigation.html",
+        "snippet": "In two legal battles over the control of Viacom, judges found that the issues raised required a trial to examine whether Mr. Redstone was competent....",
+        "lead_paragraph": "In two legal battles over the control of Viacom, judges found that the issues raised required a trial to examine whether Mr. Redstone was competent.",
+        "abstract": "Steven Davidoff Solomon Deal Professor column contends legal battle over Sumner M Redstone's Viacom will bring years of tangled litigation and messy outcomes as each side maintains its claim to company.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/business/03DB-DEALPROF/03DB-DEALPROF-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/business/03DB-DEALPROF/03DB-DEALPROF-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/business/03DB-DEALPROF/02DB-DEALPROF-articleLarge.jpg",
+            "height": 601,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/business/03DB-DEALPROF/02DB-DEALPROF-articleLarge.jpg",
+              "xlargeheight": "601"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/business/03DB-DEALPROF/02DB-DEALPROF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/business/03DB-DEALPROF/02DB-DEALPROF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Years of Litigation Loom as Redstone Cases Open a Pandora\u2019s Box",
+          "content_kicker": "Deal Professor",
+          "kicker": "Deal Professor",
+          "print_headline": "Redstone Cases Open  Pandora\u2019s Box of Litigation"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Viacom Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Amusements Inc"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Redstone, Sumner M"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dauman, Philippe P"
+          }
+        ],
+        "pub_date": "2016-08-02T18:16:29+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "firstname": "Steven",
+              "middlename": "Davidoff",
+              "lastname": "SOLOMON",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By STEVEN DAVIDOFF SOLOMON"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fa0995d0e021d797eac0",
+        "word_count": "1092",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/t-magazine/travel/faun-fables-band-europe-travel-diary.html",
+        "snippet": "The alt-folk group Faun Fables, which now includes three members under age 10, shares a tour diary from their travels in Europe and the US....",
+        "lead_paragraph": "The alt-folk group Faun Fables, which now includes three members under age 10, shares a tour diary from their travels in Europe and the US.",
+        "abstract": "Family band Faun Fables spend every summer break on tour; this season they have journeyed from Poland to Germany to Austrian Alps and to Norway.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-8D95/02tmag-faunfables-slide-8D95-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-8D95/02tmag-faunfables-slide-8D95-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-8D95/02tmag-faunfables-slide-8D95-articleLarge.jpg",
+            "height": 448,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-8D95/02tmag-faunfables-slide-8D95-articleLarge.jpg",
+              "xlargeheight": "448"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-8D95/02tmag-faunfables-slide-8D95-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/t-magazine/02tmag-faunfables-slide-8D95/02tmag-faunfables-slide-8D95-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "On the Road with a Ragtag Family Band",
+          "print_headline": "Travel Diary; On the Road With a Family Band"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Folk Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Road Trips"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Europe"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          }
+        ],
+        "pub_date": "2016-08-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Travel",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Minju",
+              "rank": 1,
+              "lastname": "PAK"
+            }
+          ],
+          "original": "By MINJU PAK"
+        },
+        "type_of_material": "News",
+        "_id": "57aa20d995d0e021d797f079",
+        "word_count": "415",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

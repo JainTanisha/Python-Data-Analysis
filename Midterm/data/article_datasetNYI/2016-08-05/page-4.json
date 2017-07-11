@@ -1,0 +1,365 @@
+{
+  "response": {
+    "meta": {
+      "hits": 840,
+      "time": 61,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/sports/golf/ap-glf-pga-tour-champions.html",
+        "snippet": "Monday qualifier Glen Day shot a 7-under 65 in perfect conditions Friday to take the first-round lead in the PGA Tour Champions' 3M Championship....",
+        "lead_paragraph": "Monday qualifier Glen Day shot a 7-under 65 in perfect conditions Friday to take the first-round lead in the PGA Tour Champions' 3M Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Glen Day Leads 3M Championship at TPC Twin Cities",
+          "print_headline": "Glen Day Leads 3M Championship at TPC Twin Cities"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:17:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa194d95d0e021d797efbc",
+        "word_count": "418",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/05/us/05reuters-usa-florida-shooting.html",
+        "snippet": "Autopsy reports on some of the people shot at a gay nightclub in Florida in June appear to support witness accounts of the massacre at the crowded club including that some people were shot many times before the gunman was brought down in a hail of...",
+        "lead_paragraph": "Autopsy reports on some of the people shot at a gay nightclub in Florida in June appear to support witness accounts of the massacre at the crowded club including that some people were shot many times before the gunman was brought down in a hail of police bullets.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Autopsies Show Orlando Club Massacre Victims Were Shot Multiple Times",
+          "print_headline": "Autopsies Show Orlando Club Massacre Victims Were Shot Multiple Times"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:20:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa194a95d0e021d797efba",
+        "word_count": "323",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/05/sports/olympics/rio-opening-ceremony-live.html",
+        "snippet": "Samba stars, abstract performances and Gisele Bundchen. New York Times reporters and photographers detailed the opening ceremony as it happened....",
+        "lead_paragraph": "Samba stars, abstract performances and Gisele Bundchen. New York Times reporters and photographers detailed the opening ceremony as it happened.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/06/sports/OLYBLOGSphelps/OLYBLOGSphelps-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/06/sports/OLYBLOGSphelps/OLYBLOGSphelps-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/06/sports/OLYBLOGSphelps/OLYBLOGSphelps-articleLarge-v2.jpg",
+            "height": 405,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/06/sports/OLYBLOGSphelps/OLYBLOGSphelps-articleLarge-v2.jpg",
+              "xlargeheight": "405"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/06/sports/OLYBLOGSphelps/OLYBLOGSphelps-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/06/sports/OLYBLOGSphelps/OLYBLOGSphelps-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Highlights: Rio Olympics Opening Ceremony"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          }
+        ],
+        "pub_date": "2016-08-05T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Sports / Olympics",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57aa195895d0e021d797efbf",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://krugman.blogs.nytimes.com/2016/08/05/friday-night-music-lucius-gone-insane/",
+        "snippet": "Nothing to do with current events. Nothing at all....",
+        "lead_paragraph": null,
+        "abstract": "Nothing to do with current events. Nothing at all.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Friday Night Music: Lucius, Gone Insane",
+          "kicker": "Paul Krugman"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:17:56Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Paul",
+              "rank": 1,
+              "lastname": "KRUGMAN"
+            }
+          ],
+          "original": "By PAUL KRUGMAN"
+        },
+        "type_of_material": "Blog",
+        "_id": "57aa195e95d0e021d797efc0",
+        "word_count": "4",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/sports/football/ap-fbn-hall-of-fame.html",
+        "snippet": "Brett Favre seemed a bit surprised by the question....",
+        "lead_paragraph": "Brett Favre seemed a bit surprised by the question.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Favre Wonders if He Really Belongs in Hall of Fame",
+          "print_headline": "Favre Wonders if He Really Belongs in Hall of Fame"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:14:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa1a3695d0e021d797efd7",
+        "word_count": "757",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/us/ap-us-music-gregg-allman.html",
+        "snippet": "Gregg Allman has canceled planned live shows until late October due to \"serious health issues.\"...",
+        "lead_paragraph": "Gregg Allman has canceled planned live shows until late October due to \"serious health issues.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gregg Allman Cancels Shows Due to 'Serious Health Issues'",
+          "print_headline": "Gregg Allman Cancels Shows Due to 'Serious Health Issues'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:11:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa1a2e95d0e021d797efd6",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/05/business/05reuters-tesla-gigafactory.html",
+        "snippet": "Tesla on Friday disclosed $1.1 billion in third quarter cash requirements, about a third of the cash on hand mid-year, in a new sign of pressure on the electric vehicle maker....",
+        "lead_paragraph": "Tesla on Friday disclosed $1.1 billion in third quarter cash requirements, about a third of the cash on hand mid-year, in a new sign of pressure on the electric vehicle maker.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Tesla Motors Discloses $1.1 Billion in Third-Quarter Cash Needs",
+          "print_headline": "Tesla Motors Discloses $1.1 Billion in Third-Quarter Cash Needs"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:12:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa192395d0e021d797efb7",
+        "word_count": "529",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/sports/ap-car-nascar-xfinity-watkins-glen.html",
+        "snippet": "Joey Logano has won his second straight the pole for the Xfinity race at Watkins Glen International....",
+        "lead_paragraph": "Joey Logano has won his second straight the pole for the Xfinity race at Watkins Glen International.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Joey Logano Wins Xfinity Pole at Watkins Glen",
+          "print_headline": "Joey Logano Wins Xfinity Pole at Watkins Glen"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:10:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa192095d0e021d797efb5",
+        "word_count": "149",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/us/ap-us-blm-land-plan.html",
+        "snippet": "A federal agency enacted a plan Friday to manage about 2.5 million acres of land in western Oregon that would increase the potential timber harvest by as much as 37 percent. It immediately drew fire from both the wood-products industry and conserv...",
+        "lead_paragraph": "A federal agency enacted a plan Friday to manage about 2.5 million acres of land in western Oregon that would increase the potential timber harvest by as much as 37 percent. It immediately drew fire from both the wood-products industry and conservationists.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Federal Agency Enacts New Plan for Oregon Amid Criticisms",
+          "print_headline": "Federal Agency Enacts New Plan for Oregon Amid Criticisms"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:06:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa190d95d0e021d797efb3",
+        "word_count": "471",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/05/us/ap-us-trump-taj-mahal-closing-the-latest.html",
+        "snippet": "The Latest on the planned closing of Atlantic City's Trump Taj Mahal casino (all times local):...",
+        "lead_paragraph": "The Latest on the planned closing of Atlantic City's Trump Taj Mahal casino (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Taj Mahal Closing Set for Oct. 10",
+          "print_headline": "The Latest: Taj Mahal Closing Set for Oct. 10"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-05T22:06:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa192195d0e021d797efb6",
+        "word_count": "254",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

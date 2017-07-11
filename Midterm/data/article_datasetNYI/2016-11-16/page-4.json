@@ -1,0 +1,732 @@
+{
+  "response": {
+    "meta": {
+      "hits": 914,
+      "time": 54,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/arts/music/leonard-cohen-last-days.html",
+        "snippet": "Mr. Cohen, who was known for working slowly, had picked up the pace considerably in recent years. His manager said he died in his sleep after a fall....",
+        "lead_paragraph": "Mr. Cohen, who was known for working slowly, had picked up the pace considerably in recent years. His manager said he died in his sleep after a fall.",
+        "abstract": "Robert B Kory, manager of recently deceased singer-songwriter Leonard Cohen, announces Cohen died peacefully in his sleep after taking fall in middle of the night; artist had spurt of increased productivity in recent years, despite numerous health problems.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/arts/17COHEN/17COHEN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/arts/17COHEN/17COHEN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/arts/17COHEN/17COHEN-articleLarge.jpg",
+            "height": 365,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/arts/17COHEN/17COHEN-articleLarge.jpg",
+              "xlargeheight": "365"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/arts/17COHEN/17COHEN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/arts/17COHEN/17COHEN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For Leonard Cohen, the End Came With a Fall in the Night",
+          "print_headline": "A Burst of Activity, Then a Fall in the Night"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Cohen, Leonard"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Falls"
+          }
+        ],
+        "pub_date": "2016-11-16T22:37:56+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "SISARIO"
+            }
+          ],
+          "original": "By BEN SISARIO"
+        },
+        "type_of_material": "News",
+        "_id": "582cdfcb95d0e0204d560de2",
+        "word_count": "852",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/arts/music/behzod-abduraimov-carnegie-hall.html",
+        "snippet": "It\u2019s rare for a young artist to play Stern Auditorium solo, but Carnegie is giving the pianist Behzod Abduraimov the nod....",
+        "lead_paragraph": "It\u2019s rare for a young artist to play Stern Auditorium solo, but Carnegie is giving the pianist Behzod Abduraimov the nod.",
+        "abstract": "Edited excerpts from separate conversations with Uzbek pianist Behzod Abduraimov, who will perform solo-recital at Stern Auditorium in Carnegie Hall, his manager Jasper Parrott and hall\u2019s executive and artistic director Clive Gillinson. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/arts/17BEHZOD/17BEHZOD-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/arts/17BEHZOD/17BEHZOD-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/arts/17BEHZOD/17BEHZOD-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/arts/17BEHZOD/17BEHZOD-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/arts/17BEHZOD/17BEHZOD-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/arts/17BEHZOD/17BEHZOD-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Just 26, and Playing the Big House (Carnegie Hall)",
+          "print_headline": "Just 26, and Playing the Big House (Carnegie Hall)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Carnegie Hall"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Parrott, Jasper"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Abduraimov, Behzod"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gillinson, Clive"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-16T22:35:38+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zachary",
+              "rank": 1,
+              "lastname": "WOOLFE"
+            }
+          ],
+          "original": "By ZACHARY WOOLFE"
+        },
+        "type_of_material": "News",
+        "_id": "582cdf4395d0e0204d560de1",
+        "word_count": "822",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/16/us/16reuters-south-carolina-shooting-roof.html",
+        "snippet": "A U.S. judge said on Wednesday he will hold a closed-door hearing next week on whether accused white supremacist Dylann Roof is mentally competent to stand trial for the shooting deaths of nine black parishioners in South Carolina last year....",
+        "lead_paragraph": "A U.S. judge said on Wednesday he will hold a closed-door hearing next week on whether accused white supremacist Dylann Roof is mentally competent to stand trial for the shooting deaths of nine black parishioners in South Carolina last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Closes Hearing on South Carolina Church Shooter's Competency",
+          "print_headline": "Judge Closes Hearing on South Carolina Church Shooter's Competency"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:33:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582cdebf95d0e0204d560de0",
+        "word_count": "289",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/arts/design/for-the-mid-manhattan-library-a-redesign-for-the-future.html",
+        "snippet": "The New York Public Library\u2019s renovation plan once called for a $1 billion overhaul, but a $200 million redesign of Mid-Manhattan was approved instead....",
+        "lead_paragraph": "The New York Public Library\u2019s renovation plan once called for a $1 billion overhaul, but a $200 million redesign of Mid-Manhattan was approved instead.",
+        "abstract": "New York Public Library board approves $200 million renovation of flagship Fifth Avenue branch; design, by Dutch architecture firm Mecanoo, is drastically scaled back from controversial $1 billion overhaul originally proposed by starchitect Norman Foster.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/arts/17LIBRARY/17LIBRARY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/arts/17LIBRARY/17LIBRARY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/arts/17LIBRARY/17LIBRARY-articleLarge.jpg",
+            "height": 365,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/arts/17LIBRARY/17LIBRARY-articleLarge.jpg",
+              "xlargeheight": "365"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/arts/17LIBRARY/17LIBRARY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/arts/17LIBRARY/17LIBRARY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For the Mid-Manhattan Library, a Redesign for the Future",
+          "print_headline": "For the Mid-Manhattan Library, a Redesign for the Future"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Libraries and Librarians"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Restoration and Renovation"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Public Library"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Mecanoo (Architecture)"
+          }
+        ],
+        "pub_date": "2016-11-16T22:30:16+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 1,
+              "lastname": "POGREBIN"
+            }
+          ],
+          "original": "By ROBIN POGREBIN"
+        },
+        "type_of_material": "News",
+        "_id": "582cddfb95d0e0204d560ddf",
+        "word_count": "669",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/sports/football/ap-fbn-texans-mexico-warnings.html",
+        "snippet": "Houston Texans players are being advised by the team not to leave the hotel and not to order room service during their trip to Mexico City for Monday night's game against the Oakland Raiders....",
+        "lead_paragraph": "Houston Texans players are being advised by the team not to leave the hotel and not to order room service during their trip to Mexico City for Monday night's game against the Oakland Raiders.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Texans Urged to Stay in Room, Not Eat Room Service in Mexico",
+          "print_headline": "Texans Urged to Stay in Room, Not Eat Room Service in Mexico"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:27:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582cdd7a95d0e0204d560dde",
+        "word_count": "395",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/16/sports/tennis/16reuters-tennis-atp-murray.html",
+        "snippet": "Andy Murray and Novak Djokovic are careering towards a Sunday showdown to decide their year-long battle for supremacy....",
+        "lead_paragraph": "Andy Murray and Novak Djokovic are careering towards a Sunday showdown to decide their year-long battle for supremacy.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Murray and Djokovic Careering Towards Sunday Showdown",
+          "print_headline": "Murray and Djokovic Careering Towards Sunday Showdown"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:27:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582cdd5995d0e0204d560ddd",
+        "word_count": "477",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/business/dealbook/house-foe-of-dodd-frank-says-overhaul-will-be-a-heavy-lift.html",
+        "snippet": "Representative Jeb Hensarling, chairman of the Financial Services Committee, said he would work on a \u201c2.0 version\u201d of financial reform legislation to attract Senate Democrats....",
+        "lead_paragraph": "Representative Jeb Hensarling, chairman of the Financial Services Committee, said he would work on a \u201c2.0 version\u201d of financial reform legislation to attract Senate Democrats.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/business/17DB-HENSARLING/17DB-HENSARLING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/business/17DB-HENSARLING/17DB-HENSARLING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/business/17DB-HENSARLING/17DB-HENSARLING-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/business/17DB-HENSARLING/17DB-HENSARLING-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/business/17DB-HENSARLING/17DB-HENSARLING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/business/17DB-HENSARLING/17DB-HENSARLING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "House Foe of Dodd-Frank Says Overhaul Will Face Test in Senate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Law and Legislation"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, Senate"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hensarling, Jeb"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kashkari, Neel T"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Warren, Elizabeth"
+          }
+        ],
+        "pub_date": "2016-11-16T22:25:46Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Victoria",
+              "rank": 1,
+              "lastname": "FINKLE"
+            }
+          ],
+          "original": "By VICTORIA FINKLE"
+        },
+        "type_of_material": "News",
+        "_id": "582cdcf195d0e0204d560ddc",
+        "word_count": "800",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/arts/music/review-a-perfectly-acceptable-slice-of-bach.html",
+        "snippet": "Accompanying Accademia Bizantina on an all-Bach program at Zankel Hall, the violinist Viktoria Mullova was detached. But that didn\u2019t make for a bad concert....",
+        "lead_paragraph": "Accompanying Accademia Bizantina on an all-Bach program at Zankel Hall, the violinist Viktoria Mullova was detached. But that didn\u2019t make for a bad concert.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/arts/17BIZANTINA/17BIZANTINA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/arts/17BIZANTINA/17BIZANTINA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/arts/17BIZANTINA/17BIZANTINA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/arts/17BIZANTINA/17BIZANTINA-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/arts/17BIZANTINA/17BIZANTINA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/arts/17BIZANTINA/17BIZANTINA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: A Perfectly Acceptable Slice of Bach"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mullova, Viktoria"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Accademia Bizantina (Music Group)"
+          }
+        ],
+        "pub_date": "2016-11-16T22:25:41Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By CORINNA da FONSECA-WOLLHEIM"
+        },
+        "type_of_material": "Review",
+        "_id": "582cdcf095d0e0204d560ddb",
+        "word_count": "431",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/arts/music/miranda-lambert-the-weight-of-these-wings-review.html",
+        "snippet": "\u201cThe Weight of These Wings\u201d is a double album by this country star, her first record since her divorce from Blake Shelton....",
+        "lead_paragraph": "\u201cThe Weight of These Wings\u201d is a double album by this country star, her first record since her divorce from Blake Shelton.",
+        "abstract": "Jon Caramanica reviews album The Weight of These Wings by country singer Miranda Lambert. ",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/arts/17LAMBERT2/17LAMBERT2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/arts/17LAMBERT2/17LAMBERT2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/arts/17LAMBERT2/17LAMBERT2-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/arts/17LAMBERT2/17LAMBERT2-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/arts/17LAMBERT2/17LAMBERT2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/arts/17LAMBERT2/17LAMBERT2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Miranda Lambert Sings of What Comes After the Heartbreak",
+          "print_headline": "After the Heartbreak, a Country Star Retreats Into a Softer Mode"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Lambert, Miranda"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Weight of These Wings (Album)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Country Music"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-11-16T22:24:58+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "CARAMANICA"
+            }
+          ],
+          "original": "By JON CARAMANICA"
+        },
+        "type_of_material": "Review",
+        "_id": "582cdcc395d0e0204d560dda",
+        "word_count": "748",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/16/us/ap-us-medical-alert-police-killing.html",
+        "snippet": "A lawyer for the family of a mentally ill black man fatally shot by a white police officer told a jury on Wednesday that even if the shooting was a mistake the officer should be held responsible for letting a simple medical call escalate into viol...",
+        "lead_paragraph": "A lawyer for the family of a mentally ill black man fatally shot by a white police officer told a jury on Wednesday that even if the shooting was a mistake the officer should be held responsible for letting a simple medical call escalate into violence.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Lawyer: Officer Responsible for Fatal Shooting of Black Man",
+          "print_headline": "Lawyer: Officer Responsible for Fatal Shooting of Black Man"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-16T22:24:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582cdcc395d0e0204d560dd9",
+        "word_count": "357",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

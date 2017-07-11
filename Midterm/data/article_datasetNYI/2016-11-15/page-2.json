@@ -1,0 +1,521 @@
+{
+  "response": {
+    "meta": {
+      "hits": 936,
+      "time": 71,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/sports/baseball/ap-bbo-manager-of-year.html",
+        "snippet": "Long before they were honored for guiding teams with depleted rosters to first-place finishes, Dave Roberts and Terry Francona were forever linked....",
+        "lead_paragraph": "Long before they were honored for guiding teams with depleted rosters to first-place finishes, Dave Roberts and Terry Francona were forever linked.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Dodgers' Roberts, Indians' Francona Win Manager of Year",
+          "print_headline": "Dodgers' Roberts, Indians' Francona Win Manager of Year"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:31:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b9ae595d0e0204d560a6f",
+        "word_count": "730",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004735127/trailer-magnus.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/movies/video-magnus/video-magnus-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/movies/video-magnus/video-magnus-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/movies/video-magnus/video-magnus-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/movies/video-magnus/video-magnus-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/movies/video-magnus/video-magnus-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/movies/video-magnus/video-magnus-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Magnus'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:17:39+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Filmrise",
+              "rank": 1
+            }
+          ],
+          "original": "By FilmRISE"
+        },
+        "type_of_material": "Video",
+        "_id": "582b979f95d0e0204d560a6e",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004702385/trailer-life-on-the-line.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/10/movies/video-life-on-the-line/video-life-on-the-line-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/10/movies/video-life-on-the-line/video-life-on-the-line-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/10/movies/video-life-on-the-line/video-life-on-the-line-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/10/movies/video-life-on-the-line/video-life-on-the-line-articleLarge.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/10/movies/video-life-on-the-line/video-life-on-the-line-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/10/movies/video-life-on-the-line/video-life-on-the-line-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Life On The Line'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:14:41+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Lionsgate",
+              "rank": 1,
+              "lastname": "PREMIERE"
+            }
+          ],
+          "original": "By LIONSGATE PREMIERE"
+        },
+        "type_of_material": "Video",
+        "_id": "582b96e795d0e0204d560a6d",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/15/briefing/donald-trump-mike-pence-paul-ryan.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/15/briefing/15eveningss-slide-MSUM/15eveningss-slide-MSUM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/15/briefing/15eveningss-slide-MSUM/15eveningss-slide-MSUM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/15/briefing/15eveningss-slide-MSUM/15eveningss-slide-MSUM-articleLarge.jpg",
+            "height": 434,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/15/briefing/15eveningss-slide-MSUM/15eveningss-slide-MSUM-articleLarge.jpg",
+              "xlargeheight": "434"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/15/briefing/15eveningss-slide-MSUM/15eveningss-slide-MSUM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/15/briefing/15eveningss-slide-MSUM/15eveningss-slide-MSUM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Mike Pence, Paul Ryan: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:14:29Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "582b96dd95d0e0204d560a6c",
+        "word_count": "668",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/15/world/americas/15reuters-venezuela-politics.html",
+        "snippet": "Three opposition lawmakers at the center of a dispute&#160;between Venezuela's congress and its&#160;top court stepped down on Tuesday following an agreement meant to ease a political standoff between the opposition and President Nicolas Maduro....",
+        "lead_paragraph": "Three opposition lawmakers at the center of a dispute&#160;between Venezuela's congress and its&#160;top court stepped down on Tuesday following an agreement meant to ease a political standoff between the opposition and President Nicolas Maduro.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Key Venezuela Lawmakers Step Down in Concession to Government",
+          "print_headline": "Key Venezuela Lawmakers Step Down in Concession to Government"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:12:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582b966795d0e0204d560a6b",
+        "word_count": "301",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/15/us/politics/15reuters-iran-nuclear-usa-sanctions.html",
+        "snippet": "U.S. lawmakers passed bills on Tuesday renewing sanctions on Iran for 10 years and imposing new sanctions on Syria, underscoring their determination to play a strong role in Middle East policy no matter who occupies the White House....",
+        "lead_paragraph": "U.S. lawmakers passed bills on Tuesday renewing sanctions on Iran for 10 years and imposing new sanctions on Syria, underscoring their determination to play a strong role in Middle East policy no matter who occupies the White House.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "House Reauthorizes Iran Sanctions Bill, Sets Syria Sanctions",
+          "print_headline": "House Reauthorizes Iran Sanctions Bill, Sets Syria Sanctions"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:09:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582b95b595d0e0204d560a6a",
+        "word_count": "425",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/world/europe/ap-un-united-nations-ukraine-russia.html",
+        "snippet": "A key U.N. committee approved a resolution Tuesday condemning Russia's \"temporary occupation\" of Crimea and reaffirming the United Nations' commitment to Ukraine's sovereignty over the Black Sea peninsula....",
+        "lead_paragraph": "A key U.N. committee approved a resolution Tuesday condemning Russia's \"temporary occupation\" of Crimea and reaffirming the United Nations' commitment to Ukraine's sovereignty over the Black Sea peninsula.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Committee Votes to Condemn Russian Occupation of Crimea",
+          "print_headline": "UN Committee Votes to Condemn Russian Occupation of Crimea"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:08:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b956595d0e0204d560a69",
+        "word_count": "478",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/business/china-trump-trademark-toilet.html",
+        "snippet": "Claims to the name by makers of computers, cosmetics and leather goods highlight the difficulties that big names face when dealing with Chinese trademark laws....",
+        "lead_paragraph": "Claims to the name by makers of computers, cosmetics and leather goods highlight the difficulties that big names face when dealing with Chinese trademark laws.",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/business/16CHINATRUMP/16UNDO1-1479221786832-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/business/16CHINATRUMP/16UNDO1-1479221786832-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/business/16CHINATRUMP/16UNDO1-1479221786832-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/business/16CHINATRUMP/16UNDO1-1479221786832-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/business/16CHINATRUMP/16CHINATRUMP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/business/16CHINATRUMP/16CHINATRUMP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In China, Toilets Have Trump\u2019s Name Without His Permission",
+          "print_headline": "In China, Trump\u2019s Name Appears on a Commode"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Trademarks and Trade Names"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Apple Inc"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Starbucks Corporation"
+          }
+        ],
+        "pub_date": "2016-11-15T23:08:05+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Zhang Tiantian and Emily Feng contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sui-lee",
+              "rank": 1,
+              "lastname": "WEE"
+            }
+          ],
+          "original": "By SUI-LEE WEE"
+        },
+        "type_of_material": "News",
+        "_id": "582b955a95d0e0204d560a68",
+        "word_count": "702",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/sports/football/ap-fbn-cowboys-romo.html",
+        "snippet": "Tony Romo stopped a reporter in the middle of what appeared to be the first question in his first meeting with the media since August....",
+        "lead_paragraph": "Tony Romo stopped a reporter in the middle of what appeared to be the first question in his first meeting with the media since August.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Somber Romo: Prescott Has Earned Right to Be Cowboys QB",
+          "print_headline": "Somber Romo: Prescott Has Earned Right to Be Cowboys QB"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:07:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b954595d0e0204d560a66",
+        "word_count": "783",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-fbn-49ers-kaepernick.html",
+        "snippet": "Colin Kaepernick is standing behind his decision not to vote in the presidential election or even register to take part in the democratic process, saying he can effect change in other ways besides through a ballot....",
+        "lead_paragraph": "Colin Kaepernick is standing behind his decision not to vote in the presidential election or even register to take part in the democratic process, saying he can effect change in other ways besides through a ballot.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kaepernick Stands Behind Decision Not to Vote for President",
+          "print_headline": "Kaepernick Stands Behind Decision Not to Vote for President"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:07:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b954695d0e0204d560a67",
+        "word_count": "570",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

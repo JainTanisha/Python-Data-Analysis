@@ -1,0 +1,574 @@
+{
+  "response": {
+    "meta": {
+      "hits": 964,
+      "time": 86,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/20/us/ap-us-air-bag-death.html",
+        "snippet": "A 50-year-old woman who died after a car wreck last month in California is the 11th U.S. victim of Takata Corp.'s defective air bag inflators....",
+        "lead_paragraph": "A 50-year-old woman who died after a car wreck last month in California is the 11th U.S. victim of Takata Corp.'s defective air bag inflators.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Confirms 11th Death Due to Takata Air Bags",
+          "print_headline": "US Confirms 11th Death Due to Takata Air Bags"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:39:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580947bc95d0e022439c45d3",
+        "word_count": "681",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/sports/autoracing/20reuters-motor-f1-usa-rosberg.html",
+        "snippet": "Nico Rosberg closed his ears to negative thoughts and title talk on Thursday, even after Mercedes team mate Lewis Hamilton said he would 'take it like a man' if he lost his Formula One championship to the German....",
+        "lead_paragraph": "Nico Rosberg closed his ears to negative thoughts and title talk on Thursday, even after Mercedes team mate Lewis Hamilton said he would 'take it like a man' if he lost his Formula One championship to the German.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Motor Racing: F1 Leader Rosberg Shuts Out Negative Thoughts",
+          "print_headline": "Motor Racing: F1 Leader Rosberg Shuts Out Negative Thoughts"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:39:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580947a995d0e022439c45d2",
+        "word_count": "405",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/arts/design/9-rarities-appearing-at-a-new-york-art-fairs-debut.html",
+        "snippet": "TEFAF New York, a new art fair scheduled to appear twice a year at the Park Avenue Armory, will include 94 dealers from 13 countries....",
+        "lead_paragraph": "TEFAF New York, a new art fair scheduled to appear twice a year at the Park Avenue Armory, will include 94 dealers from 13 countries.",
+        "abstract": "Martha Schwendener reviews highlights from art fair TEFAF New York, specializing in high-end art and antiques, at Park Avenue Armory. ",
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/arts/21TEFAF5/21TEFAF5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/arts/21TEFAF5/21TEFAF5-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/arts/21TEFAF5/21TEFAF5-articleLarge.jpg",
+            "height": 839,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/arts/21TEFAF5/21TEFAF5-articleLarge.jpg",
+              "xlargeheight": "839"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/arts/21TEFAF5/21TEFAF5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/arts/21TEFAF5/21TEFAF5-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "9 Rarities Appearing at a New York Art Fair\u2019s Debut",
+          "print_headline": "9 Rarities at an Art Fair\u2019s Debut"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Park Avenue Armory (Manhattan, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Antiques"
+          }
+        ],
+        "pub_date": "2016-10-20T22:37:26+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Martha",
+              "rank": 1,
+              "lastname": "SCHWENDENER"
+            }
+          ],
+          "original": "By MARTHA SCHWENDENER"
+        },
+        "type_of_material": "Review",
+        "_id": "5809472c95d0e022439c45d1",
+        "word_count": "809",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/europe/20reuters-europe-migrants-eu.html",
+        "snippet": "European Union leaders agreed on Thursday to step up their efforts to curb illegal migration from African countries with the aim of replicating their success in halting inflows from Turkey over the past year....",
+        "lead_paragraph": "European Union leaders agreed on Thursday to step up their efforts to curb illegal migration from African countries with the aim of replicating their success in halting inflows from Turkey over the past year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "EU Agrees to Boost Efforts to Tackle Illegal Migration From Africa",
+          "print_headline": "EU Agrees to Boost Efforts to Tackle Illegal Migration From Africa"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:36:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580946f895d0e022439c45d0",
+        "word_count": "549",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/asia/20reuters-autos-takata.html",
+        "snippet": "U.S. safety regulators confirmed that the death, in California, was caused by a Takata airbag inflater....",
+        "lead_paragraph": "U.S. safety regulators confirmed that the death, in California, was caused by a Takata airbag inflater.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Confirms 11th Death Linked to Faulty Takata Air Bag Inflater",
+          "print_headline": "U.S. Confirms 11th Death Linked to Faulty Takata Air Bag Inflator"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:36:31Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580946f595d0e022439c45cf",
+        "word_count": "376",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/movies/movie-listings-for-oct-21-27.html",
+        "snippet": "A guide to movies playing at theaters in the New York City area, as well as select festivals and film series. A complete list of new releases is at nytimes.com/intheaters....",
+        "lead_paragraph": "A guide to movies playing at theaters in the New York City area, as well as select festivals and film series. A complete list of new releases is at nytimes.com/intheaters.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/arts/21LISTINGSMOVIES/21LISTINGSMOVIES-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/arts/21LISTINGSMOVIES/21LISTINGSMOVIES-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/arts/21LISTINGSMOVIES/21LISTINGSMOVIES-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/arts/21LISTINGSMOVIES/21LISTINGSMOVIES-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/arts/21LISTINGSMOVIES/21LISTINGSMOVIES-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/arts/21LISTINGSMOVIES/21LISTINGSMOVIES-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Movie Listings for Oct. 21-27",
+          "print_headline": "The Listings: Movies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-10-20T22:36:15+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "580946e695d0e022439c45ce",
+        "word_count": "3490",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/world/middleeast/aleppo-syria-russia-cease-fire.html",
+        "snippet": "After Moscow instituted a brief cease-fire, many said leaving the besieged Syrian city could still be more dangerous than staying and exposing themselves to continued airstrikes....",
+        "lead_paragraph": "After Moscow instituted a brief cease-fire, many said leaving the besieged Syrian city could still be more dangerous than staying and exposing themselves to continued airstrikes.",
+        "abstract": "Residents of Aleppo, Syria, doubt Russia will honor its recent declaration of cease-fire, ostensibly to deliver humanitarian aid guarantee safe passage for civilians to leave; choose perils of constant bombardment over uncertainty of flight from their homes.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/world/ALEPPO/ALEPPO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/world/ALEPPO/ALEPPO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/world/ALEPPO/ALEPPO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/world/ALEPPO/ALEPPO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/world/ALEPPO/ALEPPO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/world/ALEPPO/ALEPPO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Wary of Russian Guarantees, Residents Stay Put in War-Torn Aleppo",
+          "print_headline": "Wary of Russian Guarantees, Residents Are Staying Put in Aleppo"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Aleppo (Syria)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Humanitarian Aid"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Evacuations and Evacuees"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Civilian Casualties"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Levant Conquest Front"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "de Mistura, Staffan"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          }
+        ],
+        "pub_date": "2016-10-20T22:35:31+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "Reporting was contributed by Nick Cumming-Bruce from Geneva, Hwaida Saad from Beirut, Karam Shoumali from Istanbul, Maher Samaan from Paris, and Ivan Nechepurenko and Sophia Kishkovsky from Moscow.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anne",
+              "rank": 1,
+              "lastname": "BARNARD"
+            }
+          ],
+          "original": "By ANNE BARNARD"
+        },
+        "type_of_material": "News",
+        "_id": "580946b695d0e022439c45cd",
+        "word_count": "1047",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/world/americas/20reuters-mexico-immigration.html",
+        "snippet": "Immigration authorities in southern Mexico stopped a truck carrying 121 Central American migrants with signs of asphyxiation and dehydration, the National Migration Institute said in a statement on Thursday....",
+        "lead_paragraph": "Immigration authorities in southern Mexico stopped a truck carrying 121 Central American migrants with signs of asphyxiation and dehydration, the National Migration Institute said in a statement on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Stops Truck With 121 Central American Migrants Bound for U.S.",
+          "print_headline": "Mexico Stops Truck With 121 Central American Migrants Bound for U.S."
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:30:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5809459595d0e022439c45cc",
+        "word_count": "254",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/20/sports/cycling/20reuters-cycling-britain-drake.html",
+        "snippet": "Ian Drake, the man who has presided over a golden era for British Cycling, is to step down as chief executive of the governing body in April, according to media reports on Thursday....",
+        "lead_paragraph": "Ian Drake, the man who has presided over a golden era for British Cycling, is to step down as chief executive of the governing body in April, according to media reports on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cycling: Top British Official Drake to Step Down in 2017",
+          "print_headline": "Cycling: Top British Official Drake to Step Down in 2017"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-20T22:30:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5809458b95d0e022439c45cb",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/21/dining/easy-impressive-recipes.html",
+        "snippet": "From pasta to fish to dessert, dishes that look and taste labor-intensive but aren\u2019t....",
+        "lead_paragraph": "From pasta to fish to dessert, dishes that look and taste labor-intensive but aren\u2019t.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/19/dining/00IMPRESS1/00IMPRESS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/19/dining/00IMPRESS1/00IMPRESS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/19/dining/00IMPRESS1/00IMPRESS1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/19/dining/00IMPRESS1/00IMPRESS1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/19/dining/00IMPRESS1/00IMPRESS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/19/dining/00IMPRESS1/00IMPRESS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Five Easy Recipes to Impress Family and Friends (and Dates)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Seafood"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pasta"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Desserts"
+          }
+        ],
+        "pub_date": "2016-10-20T22:29:56+0000",
+        "document_type": "article",
+        "news_desk": "Dining",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margaux",
+              "rank": 1,
+              "lastname": "LASKEY"
+            }
+          ],
+          "original": "By MARGAUX LASKEY"
+        },
+        "type_of_material": "News",
+        "_id": "5809456e95d0e022439c45ca",
+        "word_count": "469",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

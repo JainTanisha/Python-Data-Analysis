@@ -1,0 +1,386 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1011,
+      "time": 41,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/business/28reuters-shipping-tech.html",
+        "snippet": "The global shipping industry, ravaged by collapsing revenues, defensive mergers and the failure of major player South Korea's Hanjin Shipping Co Ltd, is slowly waking up to the redeeming potential of technology....",
+        "lead_paragraph": "The global shipping industry, ravaged by collapsing revenues, defensive mergers and the failure of major player South Korea's Hanjin Shipping Co Ltd, is slowly waking up to the redeeming potential of technology.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ship Shake: Hanjin Woes May Help Float Tech, Data Start-Ups",
+          "print_headline": "Ship Shake: Hanjin Woes May Help Float Tech, Data Start-Ups"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:21:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec513a95d0e021d7988f68",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/29/opinion/shimon-peres-a-dreamer-of-peace-for-israel.html",
+        "snippet": "Shimon Peres remained optimistic about Israel\u2019s role in the world....",
+        "lead_paragraph": "Shimon Peres remained optimistic about Israel\u2019s role in the world.",
+        "abstract": "Serge Schmemann Editorial appreciation remembers Israeli statesman Shimon Peres, who helped found nation and create its defense system, later sharing 1993 Nobel Peace Prize for his efforts at peacemaking between Israel and Palestinians.",
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/29/opinion/29thu3web/29thu3web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/29/opinion/29thu3web/29thu3web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/29/opinion/29thu3web/29thu3web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/29/opinion/29thu3web/29thu3web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/29/opinion/29thu3web/29thu3web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/29/opinion/29thu3web/29thu3web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Israel\u2019s Philosopher-Politician",
+          "content_kicker": "Appreciation",
+          "kicker": "Appreciation",
+          "print_headline": "Israel\u2019s Philosopher-Politician"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Palestinians"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Peres, Shimon"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Israel"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nobel Prizes"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorial Appreciation"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          }
+        ],
+        "pub_date": "2016-09-28T23:24:27+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Serge",
+              "rank": 1,
+              "lastname": "SCHMEMANN"
+            }
+          ],
+          "original": "By SERGE SCHMEMANN"
+        },
+        "type_of_material": "Editorial",
+        "_id": "57ec513295d0e021d7988f67",
+        "word_count": "542",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/business/28reuters-wells-fargo-california-bonds.html",
+        "snippet": "The California State Treasurer's Office said it replaced Wells Fargo &amp; Co as the lead underwriter on two bond sales that had originally been for scheduled for Tuesday, a day before the state announced sweeping sanctions against the company....",
+        "lead_paragraph": "The California State Treasurer's Office said it replaced Wells Fargo &amp; Co as the lead underwriter on two bond sales that had originally been for scheduled for Tuesday, a day before the state announced sweeping sanctions against the company.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Replaces Wells Fargo as Underwriter in Two Bond Sales",
+          "print_headline": "California Replaces Wells Fargo as Underwriter in Two Bond Sales"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:19:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec508c95d0e021d7988f66",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-child-death-parents-charged.html",
+        "snippet": "An Ohio jury says the father of a 2-year-old girl who died of starvation and blunt-force injury should be executed for aggravated murder....",
+        "lead_paragraph": "An Ohio jury says the father of a 2-year-old girl who died of starvation and blunt-force injury should be executed for aggravated murder.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jury Recommends Death for Dad of Starved, Beaten 2-Year-Old",
+          "print_headline": "Jury Recommends Death for Dad of Starved, Beaten 2-Year-Old"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T22:56:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4fff95d0e021d7988f65",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/world/middleeast/ap-un-united-nations-conflict-care.html",
+        "snippet": "The U.N. Security Council came under sharp criticism Wednesday for its failure to implement a resolution aimed at protecting medical facilities and staff in conflict zones from Syria to Yemen and Afghanistan....",
+        "lead_paragraph": "The U.N. Security Council came under sharp criticism Wednesday for its failure to implement a resolution aimed at protecting medical facilities and staff in conflict zones from Syria to Yemen and Afghanistan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Criticized for Failure to Stop Hospital Attacks",
+          "print_headline": "UN Criticized for Failure to Stop Hospital Attacks"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T22:47:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4ff895d0e021d7988f64",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/world/africa/28reuters-nigeria-trafficking-italy.html",
+        "snippet": "When Nigerian teenager Beauty arrived in Sicily after crossing the Mediterranean from North Africa last year, she had only hours to phone the man who trafficked her - or risk lethal repercussions for loved ones back home....",
+        "lead_paragraph": "When Nigerian teenager Beauty arrived in Sicily after crossing the Mediterranean from North Africa last year, she had only hours to phone the man who trafficked her - or risk lethal repercussions for loved ones back home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rise in Nigerian Sex Slavery in Italy Fueled by Violence and 'Juju' Magic",
+          "print_headline": "Rise in Nigerian Sex Slavery in Italy Fueled by Violence and 'Juju' Magic"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:17:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4fd595d0e021d7988f63",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/world/europe/28reuters-britain-eu.html",
+        "snippet": "Britain needs to begin explaining its Brexit strategy to avoid prolonged uncertainty for businesses and negotiating partners, a London-based think tank said on Thursday, warning that internal squabbling risked undermining the government's position...",
+        "lead_paragraph": "Britain needs to begin explaining its Brexit strategy to avoid prolonged uncertainty for businesses and negotiating partners, a London-based think tank said on Thursday, warning that internal squabbling risked undermining the government's position.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Britain Must Explain Brexit Strategy to Limit Uncertainty: Think Tank",
+          "print_headline": "Britain Must Explain Brexit Strategy to Limit Uncertainty: Think Tank"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:14:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4f1e95d0e021d7988f61",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-penn-station-overhaul.html",
+        "snippet": "Horrible. Dirty. A dump....",
+        "lead_paragraph": "Horrible. Dirty. A dump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cautious Approval, Skepticism for Penn Station Overhaul Plan",
+          "print_headline": "Cautious Approval, Skepticism for Penn Station Overhaul Plan"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T22:47:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4e8e95d0e021d7988f5e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/28/us/ap-us-whistleblower-lawsuit.html",
+        "snippet": "A North Carolina jury says a State Highway Patrol trooper fired after reporting a fellow officer wrongly hit an unarmed suspect should get $1.1 million in damages....",
+        "lead_paragraph": "A North Carolina jury says a State Highway Patrol trooper fired after reporting a fellow officer wrongly hit an unarmed suspect should get $1.1 million in damages.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NC Jury Backs Fired Trooper Who Reported Suspect Beaten",
+          "print_headline": "NC Jury Backs Fired Trooper Who Reported Suspect Beaten"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T22:44:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4e8e95d0e021d7988f5f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/28/sports/soccer/28reuters-soccer-champions-ars-bas-walcott.html",
+        "snippet": "Snubbed by England for Euro 2016 and linked with a summer move away after 10 years at Arsenal, Theo Walcott's career appeared to be at a crossroads a couple of months ago....",
+        "lead_paragraph": "Snubbed by England for Euro 2016 and linked with a summer move away after 10 years at Arsenal, Theo Walcott's career appeared to be at a crossroads a couple of months ago.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rejuvenated Walcott Underlines Return to Form",
+          "print_headline": "Rejuvenated Walcott Underlines Return to Form"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-28T23:11:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ec4e6895d0e021d7988f5d",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

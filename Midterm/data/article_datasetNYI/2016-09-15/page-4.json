@@ -1,0 +1,486 @@
+{
+  "response": {
+    "meta": {
+      "hits": 964,
+      "time": 38,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/15/world/americas/15reuters-mexico-drugs-california.html",
+        "snippet": "Mexican President Enrique Pena Nieto, who has proposed liberalizing his country's drug laws, privately asked California lawmakers visiting Mexico about a state measure to legalize recreational marijuana, a state legislator said on Thursday....",
+        "lead_paragraph": "Mexican President Enrique Pena Nieto, who has proposed liberalizing his country's drug laws, privately asked California lawmakers visiting Mexico about a state measure to legalize recreational marijuana, a state legislator said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico President Following California Marijuana Vote: State Lawmaker",
+          "print_headline": "Mexico President Following California Marijuana Vote: State Lawmaker"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:24:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1fab95d0e021d798686a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/15/t-magazine/fashion/johnny-coca-mulberry-london-silver-vaults.html",
+        "snippet": "Johnny Coca visits the underground marketplace, one of his favorite spaces in the city, to reflect on heritage and craft....",
+        "lead_paragraph": "Johnny Coca visits the underground marketplace, one of his favorite spaces in the city, to reflect on heritage and craft.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/15/t-magazine/15tmag-johnnycoca01/15tmag-johnnycoca01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/15/t-magazine/15tmag-johnnycoca01/15tmag-johnnycoca01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/15/t-magazine/15tmag-johnnycoca01/15tmag-johnnycoca01-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/15/t-magazine/15tmag-johnnycoca01/15tmag-johnnycoca01-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/15/t-magazine/15tmag-johnnycoca01/15tmag-johnnycoca01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/15/t-magazine/15tmag-johnnycoca01/15tmag-johnnycoca01-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In London\u2019s Silver Vaults With Mulberry\u2019s New Design Star"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "London Fashion Week"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Mulberry Co Ltd"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Coca, Johnny"
+          }
+        ],
+        "pub_date": "2016-09-15T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Hattie",
+              "rank": 1,
+              "lastname": "CRISELL"
+            }
+          ],
+          "original": "By HATTIE CRISELL"
+        },
+        "type_of_material": "News",
+        "_id": "57db1f9f95d0e021d7986869",
+        "word_count": "763",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/15/arts/music/mercury-prize-skepta.html",
+        "snippet": "This British rapper\u2019s album \u201cKonnichiwa\u201d beat out releases by David Bowie, Radiohead and the 1975....",
+        "lead_paragraph": "This British rapper\u2019s album \u201cKonnichiwa\u201d beat out releases by David Bowie, Radiohead and the 1975.",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/16/arts/16SKEPTA/16SKEPTA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/16/arts/16SKEPTA/16SKEPTA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/16/arts/16SKEPTA/16SKEPTA-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/16/arts/16SKEPTA/16SKEPTA-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/16/arts/16SKEPTA/16SKEPTA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/16/arts/16SKEPTA/16SKEPTA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Grime Rapper Skepta Wins the 2016 Mercury Prize",
+          "print_headline": "Rapper Skepta Wins the Mercury Prize"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Skepta (1982- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Awards, Decorations and Honors"
+          }
+        ],
+        "pub_date": "2016-09-15T22:24:17+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joe",
+              "rank": 1,
+              "lastname": "COSCARELLI"
+            }
+          ],
+          "original": "By JOE COSCARELLI"
+        },
+        "type_of_material": "News",
+        "_id": "57db1f9895d0e021d7986867",
+        "word_count": "409",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/sports/ap-car-nascar-chase.html",
+        "snippet": "Tony Stewart's complex personality was on display at media day for NASCAR's Chase for the Sprint Cup championship....",
+        "lead_paragraph": "Tony Stewart's complex personality was on display at media day for NASCAR's Chase for the Sprint Cup championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Retiring Tony Stewart in Spotlight as NASCAR Playoffs Begin",
+          "print_headline": "Retiring Tony Stewart in Spotlight as NASCAR Playoffs Begin"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:20:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1f3795d0e021d7986864",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/sports/ap-hko-world-cup.html",
+        "snippet": "Training camps are over and the games are almost here. It's decision time for all eight teams at the World Cup of Hockey....",
+        "lead_paragraph": "Training camps are over and the games are almost here. It's decision time for all eight teams at the World Cup of Hockey.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bobrovsky Starts for Russia, More World Cup Decisions Await",
+          "print_headline": "Bobrovsky Starts for Russia, More World Cup Decisions Await"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:18:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1f1d95d0e021d7986863",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/15/business/15reuters-usa-banks-regulation.html",
+        "snippet": "The U.S. Comptroller of the Currency said a recent case against Wells Fargo &amp; Co concerning phantom accounts highlights the risks other banks face in their efforts to sell new products to existing customers....",
+        "lead_paragraph": "The U.S. Comptroller of the Currency said a recent case against Wells Fargo &amp; Co concerning phantom accounts highlights the risks other banks face in their efforts to sell new products to existing customers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Top U.S. Bank Regulator Says Wells Fargo Case Shows Sales Risks",
+          "print_headline": "Top U.S. Bank Regulator Says Wells Fargo Case Shows Sales Risks"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:19:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1ef995d0e021d7986862",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/15/t-magazine/fashion/daily-shoe-derek-lam-wedge-fashion-week.html",
+        "snippet": "T plucks the best shoes right off the runway....",
+        "lead_paragraph": "T plucks the best shoes right off the runway.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-lam-shoe/15tmag-lam-shoe-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/15/t-magazine/fashion/15tmag-lam-shoe/15tmag-lam-shoe-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-lam-shoe/15tmag-lam-shoe-articleLarge.jpg",
+            "height": 809,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/15/t-magazine/fashion/15tmag-lam-shoe/15tmag-lam-shoe-articleLarge.jpg",
+              "xlargeheight": "809"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/15/t-magazine/fashion/15tmag-lam-shoe/15tmag-lam-shoe-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/15/t-magazine/fashion/15tmag-lam-shoe/15tmag-lam-shoe-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Daily Shoe: Derek Lam",
+          "content_kicker": "The Daily Shoe"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shoes and Boots"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lam, Derek"
+          }
+        ],
+        "pub_date": "2016-09-15T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "57db1de095d0e021d798685e",
+        "word_count": "17",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/us/ap-us-football-players-hazing-arrest.html",
+        "snippet": "A small farming city in central California that fiercely supports its high school team is bracing for the fallout of widening hazing scandal that has led to felony charges against three varsity players....",
+        "lead_paragraph": "A small farming city in central California that fiercely supports its high school team is bracing for the fallout of widening hazing scandal that has led to felony charges against three varsity players.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California High School Football Hazing Scandal May Widen",
+          "print_headline": "California High School Football Hazing Scandal May Widen"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:14:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1ddc95d0e021d798685d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/sports/golf/ap-glf-womens-world-amateur-team.html",
+        "snippet": "Min Ji Park shot a 4-under 68 on Thursday to help South Korea take a seven-stroke lead after the second round of the Women's World Amateur Team Championship...",
+        "lead_paragraph": "Min Ji Park shot a 4-under 68 on Thursday to help South Korea take a seven-stroke lead after the second round of the Women's World Amateur Team Championship",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "South Korea Leads Women's World Amateur Team Championships",
+          "print_headline": "South Korea Leads Women's World Amateur Team Championships"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:12:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1dd695d0e021d798685c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/15/arts/ap-us-ny-fashion-week-under-armour.html",
+        "snippet": "Wait, Under Armour presented at New York Fashion Week?...",
+        "lead_paragraph": "Wait, Under Armour presented at New York Fashion Week?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Under Armour Debuts First Collection at NY Fashion Week",
+          "print_headline": "Under Armour Debuts First Collection at NY Fashion Week"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-15T22:14:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57db1dd095d0e021d798685b",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,366 @@
+{
+  "response": {
+    "meta": {
+      "hits": 439,
+      "time": 48,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/world/ap-cn-canada-royal-tour.html",
+        "snippet": "Little Princess Charlotte, Prince George and their parents, Prince William and Kate, arrived in Canada on Saturday for their first official trip overseas as a family of four....",
+        "lead_paragraph": "Little Princess Charlotte, Prince George and their parents, Prince William and Kate, arrived in Canada on Saturday for their first official trip overseas as a family of four.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Prince William, Kate Arrive in Canada With 2 Young Children",
+          "print_headline": "Prince William, Kate Arrive in Canada With 2 Young Children"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T23:10:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e7086b95d0e021d79882ed",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/sports/baseball/ap-bba-yankees-blue-jays.html",
+        "snippet": "The New York Yankees' offense has disappeared, and their playoffs chances have pretty much vanished, too....",
+        "lead_paragraph": "The New York Yankees' offense has disappeared, and their playoffs chances have pretty much vanished, too.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Yanks Shut Out for 3rd Straight Game in 3-0 Loss to Jays",
+          "print_headline": "Yanks Shut Out for 3rd Straight Game in 3-0 Loss to Jays"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T23:00:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e7065895d0e021d79882ec",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004669386/police-footage-of-charlotte-shooting.html",
+        "snippet": "Footage from Charlotte police cameras that captured the moments when Keith Lamont Scott was shot....",
+        "lead_paragraph": "Footage from Charlotte police cameras that captured the moments when Keith Lamont Scott was shot.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/24/multimedia/charlotte-police-video/charlotte-police-video-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/24/multimedia/charlotte-police-video/charlotte-police-video-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/24/multimedia/charlotte-police-video/charlotte-police-video-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/24/multimedia/charlotte-police-video/charlotte-police-video-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/24/multimedia/charlotte-police-video/charlotte-police-video-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/24/multimedia/charlotte-police-video/charlotte-police-video-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Police Footage of Charlotte Shooting"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scott, Keith Lamont (1973-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Charlotte (NC)"
+          }
+        ],
+        "pub_date": "2016-09-24T23:02:43+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Charlotte",
+              "middlename": "Mecklenburg",
+              "lastname": "POLICE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By CHARLOTTE MECKLENBURG POLICE"
+        },
+        "type_of_material": "Video",
+        "_id": "57e7063f95d0e021d79882eb",
+        "word_count": "15",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/sports/ap-box-crolla-linares.html",
+        "snippet": "Jorge Linares defeated Anthony Crolla by unanimous decision at Manchester Arena on Saturday to take the WBA lightweight belt....",
+        "lead_paragraph": "Jorge Linares defeated Anthony Crolla by unanimous decision at Manchester Arena on Saturday to take the WBA lightweight belt.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Linares Relieves Crolla of WBA Lightweight Belt",
+          "print_headline": "Linares Relieves Crolla of WBA Lightweight Belt"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:58:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e705b995d0e021d79882ea",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/us/ap-us-campaign-2016-cruz.html",
+        "snippet": "Ted Cruz appears uncomfortable defending the man he says he'll vote for in November, Donald Trump....",
+        "lead_paragraph": "Ted Cruz appears uncomfortable defending the man he says he'll vote for in November, Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ted Cruz Calls His Decision to Back Trump 'Agonizing'",
+          "print_headline": "Ted Cruz Calls His Decision to Back Trump 'Agonizing'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:58:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e705b295d0e021d79882e8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/us/ap-us-trump-tombstone.html",
+        "snippet": "A granite tombstone bearing the name Donald J. Trump that police confiscated in Central Park months ago is now on display at a Brooklyn gallery....",
+        "lead_paragraph": "A granite tombstone bearing the name Donald J. Trump that police confiscated in Central Park months ago is now on display at a Brooklyn gallery.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NYC 'Trump Tombstone' on Display After Police Confiscate It",
+          "print_headline": "NYC 'Trump Tombstone' on Display After Police Confiscate It"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:58:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e705b895d0e021d79882e9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/world/europe/ap-eu-hungary-explosion.html",
+        "snippet": "Hungarian police say that two officers on foot patrol have been injured in an explosion at a ground-floor shop in downtown Budapest and been taken to a hospital....",
+        "lead_paragraph": "Hungarian police say that two officers on foot patrol have been injured in an explosion at a ground-floor shop in downtown Budapest and been taken to a hospital.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Officers Injured in Explosion at Shop in Downtown Budapest",
+          "print_headline": "2 Officers Injured in Explosion at Shop in Downtown Budapest"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:21:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e6fd3795d0e021d79882e7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/world/asia/ap-un-united-nations-general-assembly-philippines.html",
+        "snippet": "Despite growing international criticism of his government's bloody crackdown on illegal drugs, the Philippines top diplomat told world leaders Saturday that the rule of law governs the campaign to eradicate the illicit substances, which he said ha...",
+        "lead_paragraph": "Despite growing international criticism of his government's bloody crackdown on illegal drugs, the Philippines top diplomat told world leaders Saturday that the rule of law governs the campaign to eradicate the illicit substances, which he said have stunted the country's development.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Philippine FM Says Rights Respected Amid Drug Crackdown",
+          "print_headline": "Philippine FM Says Rights Respected Amid Drug Crackdown"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:23:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e6fd2e95d0e021d79882e6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Dustin Johnson made one mistake that suddenly put some intrigue into the final day of the PGA Tour season &#8212; the Tour Championship and the FedEx Cup....",
+        "lead_paragraph": "Dustin Johnson made one mistake that suddenly put some intrigue into the final day of the PGA Tour season &#8212; the Tour Championship and the FedEx Cup.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:15:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e6fbd195d0e021d79882e5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/24/sports/golf/ap-glf-webcom-tour.html",
+        "snippet": "Martin Flores birdied five of the last seven holes for a 5-under 66 and a three-stroke lead Saturday in the Web.com Tour Finals' Nationwide Children's Hospital Championship....",
+        "lead_paragraph": "Martin Flores birdied five of the last seven holes for a 5-under 66 and a three-stroke lead Saturday in the Web.com Tour Finals' Nationwide Children's Hospital Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Martin Flores Leads Web.com Tour Finals Event",
+          "print_headline": "Martin Flores Leads Web.com Tour Finals Event"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-24T22:12:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e6fb1995d0e021d79882e4",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

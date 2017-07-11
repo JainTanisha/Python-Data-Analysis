@@ -1,0 +1,367 @@
+{
+  "response": {
+    "meta": {
+      "hits": 623,
+      "time": 50,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/04/sports/cycling/04reuters-olympics-rio-russia-swimming-cas-exclusive.html",
+        "snippet": "Four-times breaststroke world champion Yulia Efimova was handed an Olympic lifeline on Thursday when the Court of Arbitration for Sport partially upheld her appeal against a Games ban....",
+        "lead_paragraph": "Four-times breaststroke world champion Yulia Efimova was handed an Olympic lifeline on Thursday when the Court of Arbitration for Sport partially upheld her appeal against a Games ban.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive : CAS Partially Upholds Olympic Appeal of Russian Swimmer Efimova",
+          "print_headline": "Exclusive : CAS Partially Upholds Olympic Appeal of Russian Swimmer Efimova"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:18:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Cycling",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9ffdb95d0e021d797ec19",
+        "word_count": "119",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/05/movies/little-men-review.html",
+        "snippet": "In an adventure story edged with unspoken risks, the young actors take the kind of chances that their more careful elders have been trained to avoid....",
+        "lead_paragraph": "In an adventure story edged with unspoken risks, the young actors take the kind of chances that their more careful elders have been trained to avoid.",
+        "abstract": "A O Scott reviews movie Little Men, directed by Ira Sachs and starring Theo Taplitz and Michael Barbieri.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/05/arts/05LITTLEMEN2/05LITTLEMEN2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/05/arts/05LITTLEMEN2/05LITTLEMEN2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/05/arts/05LITTLEMEN2/05LITTLEMEN2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/05/arts/05LITTLEMEN2/05LITTLEMEN2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/05/arts/05LITTLEMEN2/05LITTLEMEN2-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/05/arts/05LITTLEMEN2/05LITTLEMEN2-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018Little Men,\u2019 Boys Develop a Bond That Is Threatened by Money",
+          "print_headline": "Boys Share a Bond Threatened by Money"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Little Men (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sachs, Ira"
+          }
+        ],
+        "pub_date": "2016-08-04T22:20:13+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "A.",
+              "middlename": "O.",
+              "lastname": "SCOTT",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By A. O. SCOTT"
+        },
+        "type_of_material": "Review",
+        "_id": "57aa004095d0e021d797ec34",
+        "word_count": "869",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/sports/tennis/ap-ten-atlanta.html",
+        "snippet": "Second-seeded Nick Kyrgios of Australia advanced to the BB&amp;T Atlanta Open quarterfinals on Thursday night, beating American Jared Donaldson 7-6 (4), 6-3 in a rain-interrupted match....",
+        "lead_paragraph": "Second-seeded Nick Kyrgios of Australia advanced to the BB&amp;T Atlanta Open quarterfinals on Thursday night, beating American Jared Donaldson 7-6 (4), 6-3 in a rain-interrupted match.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Australia's Nick Kyrgios Advances to Atlanta Quarterfinals",
+          "print_headline": "Australia's Nick Kyrgios Advances to Atlanta Quarterfinals"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:16:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa004895d0e021d797ec38",
+        "word_count": "155",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/sports/olympics/ap-oly-ten-murray-and-the-flag.html",
+        "snippet": "Andy Murray is quite adept at wielding a tennis racket. Holding a giant flag? He needs some work in that area....",
+        "lead_paragraph": "Andy Murray is quite adept at wielding a tennis racket. Holding a giant flag? He needs some work in that area.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "'Don't Poke My Eye Out': Murray Needs Flag Practice in Rio",
+          "print_headline": "'Don't Poke My Eye Out': Murray Needs Flag Practice in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:17:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa004895d0e021d797ec37",
+        "word_count": "440",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/04/us/04reuters-usa-election-northcarolina.html",
+        "snippet": "A U.S. appeals court issued an order on Thursday denying North Carolina's motion to stay the court's decision last week striking down the state's voter ID law....",
+        "lead_paragraph": "A U.S. appeals court issued an order on Thursday denying North Carolina's motion to stay the court's decision last week striking down the state's voter ID law.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Court Denies North Carolina Motion to Stay Decision on Voter ID Law",
+          "print_headline": "Court Denies North Carolina Motion to Stay Decision on Voter ID Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:16:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9ffca95d0e021d797ec13",
+        "word_count": "283",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/us/ap-us-jailhouse-interview-reporter.html",
+        "snippet": "A state judge has ruled that a New York Times reporter who conducted a jailhouse interview with an accused murderer must testify at trial....",
+        "lead_paragraph": "A state judge has ruled that a New York Times reporter who conducted a jailhouse interview with an accused murderer must testify at trial.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge: NY Times Reporter Who Did Jail Interview Must Testify",
+          "print_headline": "Judge: NY Times Reporter Who Did Jail Interview Must Testify"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:13:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9ffdd95d0e021d797ec1a",
+        "word_count": "141",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/us/ap-us-mine-waste-spill-anniversary.html",
+        "snippet": "A year after a mine waste spill turned their river a weird yellow-orange, residents of a Colorado mountain town are taking a break from the aftermath for a party that includes a specially brewed beer the color of the spill....",
+        "lead_paragraph": "A year after a mine waste spill turned their river a weird yellow-orange, residents of a Colorado mountain town are taking a break from the aftermath for a party that includes a specially brewed beer the color of the spill.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Colorado Town Takes a Breather a Year After Huge Mine Spill",
+          "print_headline": "Colorado Town Takes a Breather a Year After Huge Mine Spill"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:10:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa002f95d0e021d797ec31",
+        "word_count": "535",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/us/ap-us-voter-id-north-carolina.html",
+        "snippet": "An appeals court has quickly decided it won't delay enforcement of its ruling striking down North Carolina's photo identification requirement and other election restrictions, including reducing early in-person voting by seven days....",
+        "lead_paragraph": "An appeals court has quickly decided it won't delay enforcement of its ruling striking down North Carolina's photo identification requirement and other election restrictions, including reducing early in-person voting by seven days.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Appeals Court Rejects Request to Postpone Voter ID Decision",
+          "print_headline": "Appeals Court Rejects Request to Postpone Voter ID Decision"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:07:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9ffda95d0e021d797ec18",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/us/ap-us-eviction-shooting.html",
+        "snippet": "A judge has ordered a psychiatric evaluation for the Pennsylvania father charged in the death of his 12-year-old daughter, who was shot by a constable serving eviction papers....",
+        "lead_paragraph": "A judge has ordered a psychiatric evaluation for the Pennsylvania father charged in the death of his 12-year-old daughter, who was shot by a constable serving eviction papers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Psychiatric Exam for Dad Charged Over Daughter's Shooting",
+          "print_headline": "Psychiatric Exam for Dad Charged Over Daughter's Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:06:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9ffd695d0e021d797ec15",
+        "word_count": "141",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/04/us/ap-us-baylor-sexual-assault-investigations.html",
+        "snippet": "A Baylor football player arrested this week on a felony stalking charge was allowed to play in 2015 despite being accused of sexual assault and violating a \"no contact\" order with his accuser, ESPN reported Thursday....",
+        "lead_paragraph": "A Baylor football player arrested this week on a felony stalking charge was allowed to play in 2015 despite being accused of sexual assault and violating a \"no contact\" order with his accuser, ESPN reported Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: Baylor Allowed Hammad to Play Despite Incidents",
+          "print_headline": "Report: Baylor Allowed Hammad to Play Despite Incidents"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-04T22:07:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9ffeb95d0e021d797ec1d",
+        "word_count": "635",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

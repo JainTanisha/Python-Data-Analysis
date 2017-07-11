@@ -1,0 +1,451 @@
+{
+  "response": {
+    "meta": {
+      "hits": 856,
+      "time": 33,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/24/world/asia/24reuters-afghanistan-university-attack.html",
+        "snippet": "Twelve people, including seven students, were killed in an attack on the American University in Kabul that sent hundreds of students fleeing in panic, police said early on Thursday, before the assault ended when two gunmen were shot dead....",
+        "lead_paragraph": "Twelve people, including seven students, were killed in an attack on the American University in Kabul that sent hundreds of students fleeing in panic, police said early on Thursday, before the assault ended when two gunmen were shot dead.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Gun, Bomb Attack on American University in Kabul Kills 12: Police",
+          "print_headline": "Gun, Bomb Attack on American University in Kabul Kills 12: Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:51:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57be392395d0e021d798274f",
+        "word_count": "637",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/25/fashion/westfield-world-trade-center-opening-ceremony-sample-sale.html",
+        "snippet": "Plus, the biannual sale at Opening Ceremony, a first-ever sale at Armarium and a closing sale at In God We Trust....",
+        "lead_paragraph": "Plus, the biannual sale at Opening Ceremony, a first-ever sale at Armarium and a closing sale at In God We Trust.",
+        "abstract": null,
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/25/fashion/25SCOUTING-COMBO/25SCOUTING-COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/25/fashion/25SCOUTING-COMBO/25SCOUTING-COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/25/fashion/25SCOUTING-COMBO/25SCOUTING-COMBO-articleLarge.jpg",
+            "height": 530,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/25/fashion/25SCOUTING-COMBO/25SCOUTING-COMBO-articleLarge.jpg",
+              "xlargeheight": "530"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/25/fashion/25SCOUTING-COMBO/25SCOUTING-COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/25/fashion/25SCOUTING-COMBO/25SCOUTING-COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "At Westfield, New Openings and Celebratory Events",
+          "content_kicker": "Scouting Report",
+          "kicker": "Scouting Report"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Westfield World Trade Center (Manhattan, NY)"
+          }
+        ],
+        "pub_date": "2016-08-24T21:53:17+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Alison",
+              "middlename": "S.",
+              "lastname": "COHN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ALISON S. COHN"
+        },
+        "type_of_material": "News",
+        "_id": "57be3b8795d0e021d7982759",
+        "word_count": "383",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/24/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/24/nytnow/24eveningss-slide-WYT7/24eveningss-slide-WYT7-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/24/nytnow/24eveningss-slide-WYT7/24eveningss-slide-WYT7-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/24/nytnow/24eveningss-slide-WYT7/24eveningss-slide-WYT7-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/24/nytnow/24eveningss-slide-WYT7/24eveningss-slide-WYT7-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/24/nytnow/24eveningss-slide-WYT7/24eveningss-slide-WYT7-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/24/nytnow/24eveningss-slide-WYT7/24eveningss-slide-WYT7-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57be37d695d0e021d7982749",
+        "word_count": "12",
+        "slideshow_credits": "Alessandra Tarantino/Associated Press"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/ap-us-climate-change-california-.html",
+        "snippet": "California lawmakers voted Wednesday to extend the state's landmark climate change law &#8212; the most aggressive in the nation &#8212; by another 10 years, resisting fierce opposition from oil companies and other business interests to keep the p...",
+        "lead_paragraph": "California lawmakers voted Wednesday to extend the state's landmark climate change law &#8212; the most aggressive in the nation &#8212; by another 10 years, resisting fierce opposition from oil companies and other business interests to keep the program alive at least through 2030.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Lawmakers Approve Extension of Climate Change Law",
+          "print_headline": "California Lawmakers Approve Extension of Climate Change Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:42:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be36a895d0e021d798273d",
+        "word_count": "732",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/24/nytnow/italy-us-presidential-race-syria-your-wednesday-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/24/nytnow/24eveningss-slide-VPRK/24eveningss-slide-VPRK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/24/nytnow/24eveningss-slide-VPRK/24eveningss-slide-VPRK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/24/nytnow/24eveningss-slide-VPRK/24eveningss-slide-VPRK-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/24/nytnow/24eveningss-slide-VPRK/24eveningss-slide-VPRK-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/24/nytnow/24eveningss-slide-VPRK/24eveningss-slide-VPRK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/24/nytnow/24eveningss-slide-VPRK/24eveningss-slide-VPRK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing",
+          "print_headline": "Your Wednesday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57be365e95d0e021d798273b",
+        "word_count": "777",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/business/ap-bba-white-sox-guaranteed-rate.html",
+        "snippet": "Maybe the Chicago White Sox will change their luck by changing the name of their stadium....",
+        "lead_paragraph": "Maybe the Chicago White Sox will change their luck by changing the name of their stadium.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "White Sox Ballpark Changing Name to Guarantee Rate Field",
+          "print_headline": "White Sox Ballpark Changing Name to Guarantee Rate Field"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:41:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be365a95d0e021d7982739",
+        "word_count": "482",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/24/world/americas/24reuters-health-zika-florida.html",
+        "snippet": "Florida Governor Rick Scott said on Wednesday the federal government had so far not delivered all the Zika antibody tests and laboratory support he had requested as the state battles the spread of the virus....",
+        "lead_paragraph": "Florida Governor Rick Scott said on Wednesday the federal government had so far not delivered all the Zika antibody tests and laboratory support he had requested as the state battles the spread of the virus.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Florida Governor Complains U.S. Not Doing Enough to Fight Zika",
+          "print_headline": "Florida Governor Complains U.S. Not Doing Enough to Fight Zika"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:44:39Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57be362c95d0e021d7982738",
+        "word_count": "694",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/24/us/24reuters-ship-elfaro.html",
+        "snippet": "The captain of the doomed El Faro cargo ship sounded an alarm for his crew to abandon the vessel shortly before it sank last fall in a hurricane near the Bahamas, killing all 33 onboard, the U.S. National Transportation Safety Board said on Wednes...",
+        "lead_paragraph": "The captain of the doomed El Faro cargo ship sounded an alarm for his crew to abandon the vessel shortly before it sank last fall in a hurricane near the Bahamas, killing all 33 onboard, the U.S. National Transportation Safety Board said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "El Faro Captain Ordered Crew to Abandon Ship Before Sinking",
+          "print_headline": "El Faro Captain Ordered Crew to Abandon Ship Before Sinking"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:43:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57be398f95d0e021d7982752",
+        "word_count": "492",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/ap-us-islamic-state-americans-bridge-collapse-survivor.html",
+        "snippet": "A survivor of the 2007 Minneapolis bridge collapse that killed 13 people now faces terror charges after authorities say he traveled to Syria to join the Islamic State group, departing the U.S. just a few weeks after collecting more than $91,000 in...",
+        "lead_paragraph": "A survivor of the 2007 Minneapolis bridge collapse that killed 13 people now faces terror charges after authorities say he traveled to Syria to join the Islamic State group, departing the U.S. just a few weeks after collecting more than $91,000 in settlement money for his injuries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Minneapolis Bridge Collapse Survivor Faces Terror Charge",
+          "print_headline": "Minneapolis Bridge Collapse Survivor Faces Terror Charge"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:20:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be354595d0e021d7982732",
+        "word_count": "482",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/24/us/ap-us-appalachia-jobs-after-coal-list.html",
+        "snippet": "Communities in states hard-hit by coal layoffs are about to receive nearly $39 million in federal grants aimed at helping people get back to work. The Appalachian Regional Commission, the Economic Development Administration and the U.S. Department...",
+        "lead_paragraph": "Communities in states hard-hit by coal layoffs are about to receive nearly $39 million in federal grants aimed at helping people get back to work. The Appalachian Regional Commission, the Economic Development Administration and the U.S. Department of Labor announced the following grants on Wednesday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Multiagency Grants to Help Communities Hit by Coal Layoffs",
+          "print_headline": "Multiagency Grants to Help Communities Hit by Coal Layoffs"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-24T21:19:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57be378395d0e021d7982743",
+        "word_count": "636",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,385 @@
+{
+  "response": {
+    "meta": {
+      "hits": 886,
+      "time": 35,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/11/09/fashion/fall-outfit-updates-coats-sweaters-boots.html",
+        "snippet": "\u200bIt\u2019s all about the subtle tweaks....",
+        "lead_paragraph": "\u200bIt\u2019s all about the subtle tweaks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/10/fashion/10BROWSE-SWEATERS/10BROWSE-SWEATERS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/10/fashion/10BROWSE-SWEATERS/10BROWSE-SWEATERS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/10/fashion/10BROWSE-SWEATERS/10BROWSE-SWEATERS-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/10/fashion/10BROWSE-SWEATERS/10BROWSE-SWEATERS-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/10/fashion/10BROWSE-SWEATERS/10BROWSE-SWEATERS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/10/fashion/10BROWSE-SWEATERS/10BROWSE-SWEATERS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How to Make Your Fall Outfit Fresh in an Instant",
+          "kicker": "Browsing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Wang, Alexander (1983- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "von Furstenberg, Diane"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Barneys New York"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bloomingdale's"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Carven (Fashion Label)"
+          }
+        ],
+        "pub_date": "2016-11-09T22:34:24Z",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 1
+            }
+          ],
+          "original": "By ERICA M. BLUMENTHAL"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5823a47495d0e0204d55f99f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/world/middleeast/ap-un-united-nations-iraq.html",
+        "snippet": "The operation to liberate the Iraqi city of Mosul marks the beginning of the end of the Islamic State group's so-called caliphate in Iraq, the U.N. envoy for the country told the Security Council on Wednesday....",
+        "lead_paragraph": "The operation to liberate the Iraqi city of Mosul marks the beginning of the end of the Islamic State group's so-called caliphate in Iraq, the U.N. envoy for the country told the Security Council on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN: Mosul Marks Beginning of Caliphate's End",
+          "print_headline": "UN: Mosul Marks Beginning of Caliphate's End"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:34:13Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a46f95d0e0204d55f99e",
+        "word_count": "285",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/us/politics/09reuters-usa-election-lgbt.html",
+        "snippet": "Transgender advocates vowed on Wednesday to resist any effort to reverse or slow down an expansion of transgender rights made under President Barack Obama, fearing a rollback of his directives once Donald Trump succeeds him in the White House....",
+        "lead_paragraph": "Transgender advocates vowed on Wednesday to resist any effort to reverse or slow down an expansion of transgender rights made under President Barack Obama, fearing a rollback of his directives once Donald Trump succeeds him in the White House.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Transgender Advocates Fear Reversal of Civil Rights Under Trump",
+          "print_headline": "Transgender Advocates Fear Reversal of Civil Rights Under Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:33:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a44095d0e0204d55f99d",
+        "word_count": "516",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/roomfordebate/2016/11/09/the-future-of-the-democratic-party",
+        "snippet": "What does the Democratic Party need to do to move forward, attract alienated voters and remain relevant?...",
+        "lead_paragraph": "",
+        "abstract": "What does the Democratic Party need to do to move forward, attract alienated voters and remain relevant?",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "The Future of the Democratic Party",
+          "kicker": "Room For Debate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "pub_date": "2016-11-09T12:05:42Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Opinion",
+        "subsection_name": "Room For Debate",
+        "byline": null,
+        "type_of_material": "Blog",
+        "_id": "58235d9b95d0e0204d55f8dd",
+        "word_count": "2388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/ap-us-2016-election-trump-minorities.html",
+        "snippet": "Across America, many members of minority groups awoke Wednesday to something that had seemed an implausible nightmare just a day earlier: President-elect Donald Trump....",
+        "lead_paragraph": "Across America, many members of minority groups awoke Wednesday to something that had seemed an implausible nightmare just a day earlier: President-elect Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Some Minorities Find 'President-Elect Trump' Scary Prospect",
+          "print_headline": "Some Minorities Find 'President-Elect Trump' Scary Prospect"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:25:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a26695d0e0204d55f99c",
+        "word_count": "815",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/politics/ap-us-2016-election-trump-transition.html",
+        "snippet": "The true test now begins for Donald Trump....",
+        "lead_paragraph": "The true test now begins for Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Begins to Play Catch Up on Transition to White House",
+          "print_headline": "Trump Begins to Play Catch Up on Transition to White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:25:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a26395d0e0204d55f99b",
+        "word_count": "809",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/arts/09reuters-oi-sa-restructuring.html",
+        "snippet": "The board of Brazilian wireless phone carrier Oi SA has elected a new financial advisor for debt restructuring talks with bondholders and bank creditors, Chief Executive Officer Marco Schroeder said in an interview Wednesday....",
+        "lead_paragraph": "The board of Brazilian wireless phone carrier Oi SA has elected a new financial advisor for debt restructuring talks with bondholders and bank creditors, Chief Executive Officer Marco Schroeder said in an interview Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Oi Board Confirms Financial Advisor to Replace PJT",
+          "print_headline": "Brazil's Oi Board Confirms Financial Advisor to Replace PJT"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:21:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a16e95d0e0204d55f99a",
+        "word_count": "86",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/ap-il-chicago-airbnb-debate.html",
+        "snippet": "Chicago crossed the line into the privacy of people's homes by imposing sweeping regulations governing Airbnb and other home-sharing services, a lawsuit from a group of current and Airbnb hosts argues....",
+        "lead_paragraph": "Chicago crossed the line into the privacy of people's homes by imposing sweeping regulations governing Airbnb and other home-sharing services, a lawsuit from a group of current and Airbnb hosts argues.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Airbnb Hosts Sue Over Chicago's Home-Sharing Ordinance",
+          "print_headline": "Airbnb Hosts Sue Over Chicago's Home-Sharing Ordinance"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:19:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a0e895d0e0204d55f999",
+        "word_count": "258",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/09/business/09reuters-twitter-moves-coo.html",
+        "snippet": "Twitter Inc said on Wednesday that Chief Operating Officer Adam Bain, widely credited with building a robust advertising business at the company even as it struggled with user growth, is leaving to explore other opportunities....",
+        "lead_paragraph": "Twitter Inc said on Wednesday that Chief Operating Officer Adam Bain, widely credited with building a robust advertising business at the company even as it struggled with user growth, is leaving to explore other opportunities.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Twitter Says COO Adam Bain to Leave, Noto to Take His Place",
+          "print_headline": "Twitter Says COO Adam Bain to Leave, Noto to Take His Place"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:18:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a0bb95d0e0204d55f998",
+        "word_count": "480",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/09/us/ap-financial-markets-box.html",
+        "snippet": "Stocks closed sharply higher Wednesday as investors reacted to Donald Trump being elected president of the United States in an upset victory over Hillary Clinton....",
+        "lead_paragraph": "Stocks closed sharply higher Wednesday as investors reacted to Donald Trump being elected president of the United States in an upset victory over Hillary Clinton.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Dow Jones Industrial Average Fared on Wednesday",
+          "print_headline": "How the Dow Jones Industrial Average Fared on Wednesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-09T22:15:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5823a02695d0e0204d55f997",
+        "word_count": "159",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

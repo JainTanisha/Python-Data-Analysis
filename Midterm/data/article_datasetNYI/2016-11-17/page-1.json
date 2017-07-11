@@ -1,0 +1,482 @@
+{
+  "response": {
+    "meta": {
+      "hits": 974,
+      "time": 66,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-homeless-count-glance.html",
+        "snippet": "The number of people suffering from homelessness is declining across the U.S., even though some cities are seeing increases....",
+        "lead_paragraph": "The number of people suffering from homelessness is declining across the U.S., even though some cities are seeing increases.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Official: US Homelessness Down With New Program, Cooperation",
+          "print_headline": "Official: US Homelessness Down With New Program, Cooperation"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:40:06+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3fe095d0e03926071314",
+        "word_count": "290",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/ap-car-nascar-pit-road-penalty-.html",
+        "snippet": "Six-time NASCAR champion Jimmie Johnson has some clarity regarding his pit road penalty last week in Phoenix....",
+        "lead_paragraph": "Six-time NASCAR champion Jimmie Johnson has some clarity regarding his pit road penalty last week in Phoenix.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnson Gets Some Clarity Regarding Pit Road, Pace Car",
+          "print_headline": "Johnson Gets Some Clarity Regarding Pit Road, Pace Car"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:37:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3f4795d0e03926071313",
+        "word_count": "374",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/arts/music/jazz-listings-for-nov-18-24.html",
+        "snippet": "A selected guide to jazz performances in New York City....",
+        "lead_paragraph": "A selected guide to jazz performances in New York City.",
+        "abstract": null,
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/arts/18LISTINGSJAZZ/18LISTINGSJAZZ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/arts/18LISTINGSJAZZ/18LISTINGSJAZZ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/arts/18LISTINGSJAZZ/18LISTINGSJAZZ-articleLarge.jpg",
+            "height": 466,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/arts/18LISTINGSJAZZ/18LISTINGSJAZZ-articleLarge.jpg",
+              "xlargeheight": "466"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/arts/18LISTINGSJAZZ/18LISTINGSJAZZ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/arts/18LISTINGSJAZZ/18LISTINGSJAZZ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Jazz Listings for Nov. 18-24",
+          "print_headline": "The Listings: Jazz"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jazz"
+          }
+        ],
+        "pub_date": "2016-11-17T23:37:25+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "582e3f3d95d0e03926071312",
+        "word_count": "1040",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/arts/television/duck-dynasty-legacy-real-fake-and-upfront-about-it.html",
+        "snippet": "This A&E show, which has just announced that this season will be its last, figured out early that viewers didn\u2019t care if their chosen reality was real....",
+        "lead_paragraph": "This A&E show, which has just announced that this season will be its last, figured out early that viewers didn\u2019t care if their chosen reality was real.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/arts/18DUCK/18DUCK-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/arts/18DUCK/18DUCK-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/arts/18DUCK/18DUCK-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/arts/18DUCK/18DUCK-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/arts/18DUCK/18DUCK-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/arts/18DUCK/18DUCK-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Duck Dynasty\u2019 Legacy: Real, Fake and Upfront About It",
+          "content_kicker": "Critic's Notebook",
+          "kicker": "Critic's Notebook"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Duck Dynasty (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Reality Television"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Arts & Entertainment Network"
+          }
+        ],
+        "pub_date": "2016-11-17T23:35:59+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "GENZLINGER"
+            }
+          ],
+          "original": "By NEIL GENZLINGER"
+        },
+        "type_of_material": "News",
+        "_id": "582e3ee395d0e03926071311",
+        "word_count": "594",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/technology/airbnb-trips-travel-tours-tailored-experiences.html",
+        "snippet": "Facing challenges in its core business of short-term rentals, Airbnb is aiming to become a fuller-service travel company by connecting travelers with local guides....",
+        "lead_paragraph": "Facing challenges in its core business of short-term rentals, Airbnb is aiming to become a fuller-service travel company by connecting travelers with local guides.",
+        "abstract": "Airbnb launches Trips, service offering tours, tailored activities and other experiences to immerse travelers into local culture; program adds another revenue stream to company facing government pushback for problems related to its home-sharing rental service.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/business/18AIRBNB/18AIRBNB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/business/18AIRBNB/18AIRBNB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/business/18AIRBNB/18AIRBNB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/business/18AIRBNB/18AIRBNB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/business/18AIRBNB/18AIRBNB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/business/18AIRBNB/18AIRBNB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Airbnb Broadens Its Business With Tours and Travel Experiences",
+          "print_headline": "Airbnb  Broadens  Its Business  With Tours"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Airbnb"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hotels and Travel Lodgings"
+          }
+        ],
+        "pub_date": "2016-11-17T23:34:24+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Katie",
+              "rank": 1,
+              "lastname": "BENNER"
+            }
+          ],
+          "original": "By KATIE BENNER"
+        },
+        "type_of_material": "News",
+        "_id": "582e3e8795d0e03926071310",
+        "word_count": "567",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/baseball/ap-bbo-mvps.html",
+        "snippet": "While the Los Angeles Angels stumbled, Mike Trout soared again....",
+        "lead_paragraph": "While the Los Angeles Angels stumbled, Mike Trout soared again.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mike Trout, Kris Bryant Win Baseball's MVP Awards",
+          "print_headline": "Mike Trout, Kris Bryant Win Baseball's MVP Awards"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:34:09+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3e7695d0e0392607130f",
+        "word_count": "727",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-usa-trump-google-analysis.html",
+        "snippet": "Alphabet Inc's Google faces a tougher regulatory landscape as U.S. President-elect Donald Trump's incoming administration looks poised to reverse Obama administration policies that often favored the internet giant in the company's battles with tel...",
+        "lead_paragraph": "Alphabet Inc's Google faces a tougher regulatory landscape as U.S. President-elect Donald Trump's incoming administration looks poised to reverse Obama administration policies that often favored the internet giant in the company's battles with telecoms and cable heavyweights, analysts say.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Google, an Obama Ally, May Face Policy Setbacks Under Trump",
+          "print_headline": "Google, an Obama Ally, May Face Policy Setbacks Under Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:33:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3e5195d0e0392607130e",
+        "word_count": "920",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "A great start to the week got even better for Stewart Cink on Thursday....",
+        "lead_paragraph": "A great start to the week got even better for Stewart Cink on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:31:37+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3de495d0e0392607130d",
+        "word_count": "766",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-trump-star-vandalized.html",
+        "snippet": "A man who used a pickaxe and a sledgehammer to smash Donald Trump's star on the Hollywood Walk of Fame was charged Thursday with felony vandalism, authorities said....",
+        "lead_paragraph": "A man who used a pickaxe and a sledgehammer to smash Donald Trump's star on the Hollywood Walk of Fame was charged Thursday with felony vandalism, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Charged With Felony Vandalism in Smashing of Trump Star",
+          "print_headline": "Man Charged With Felony Vandalism in Smashing of Trump Star"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:31:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3ddb95d0e0392607130c",
+        "word_count": "182",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/world/africa/ap-un-united-nations-south-sudan.html",
+        "snippet": "The United States urged the U.N. Security Council on Thursday to impose an arms embargo and new sanctions on South Sudan to curb violence that could lead to mass atrocities, a proposal immediately rejected by Russia as premature and irresponsible....",
+        "lead_paragraph": "The United States urged the U.N. Security Council on Thursday to impose an arms embargo and new sanctions on South Sudan to curb violence that could lead to mass atrocities, a proposal immediately rejected by Russia as premature and irresponsible.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Urges UN Arms Embargo Against South Sudan, Russia Says No",
+          "print_headline": "US Urges UN Arms Embargo Against South Sudan, Russia Says No"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:28:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3d2195d0e0392607130b",
+        "word_count": "667",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

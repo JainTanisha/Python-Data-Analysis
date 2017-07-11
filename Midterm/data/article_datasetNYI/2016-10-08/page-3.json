@@ -1,0 +1,383 @@
+{
+  "response": {
+    "meta": {
+      "hits": 451,
+      "time": 36,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/08/world/africa/ap-af-mali-violence.html",
+        "snippet": "The spokesman for a former Tuareg rebel group says its leader has been killed after attending a meeting at a United Nations camp in the northern Mali town of Kidal....",
+        "lead_paragraph": "The spokesman for a former Tuareg rebel group says its leader has been killed after attending a meeting at a United Nations camp in the northern Mali town of Kidal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Leader for Former Tuareg Separatist Group Killed in Mali",
+          "print_headline": "Leader for Former Tuareg Separatist Group Killed in Mali"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T21:19:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f9636a95d0e021d798adc1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/08/us/ap-us-mcdonalds-hostage-situation-the-latest.html",
+        "snippet": "The Latest on McDonalds Hostage Situation (all times local):...",
+        "lead_paragraph": "The Latest on McDonalds Hostage Situation (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Hostage Incident Over at Florida McDonald's",
+          "print_headline": "The Latest: Hostage Incident Over at Florida McDonald's"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T20:57:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f962b195d0e021d798adc0",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/08/arts/music/desert-trip-fans.html",
+        "snippet": "Checking in with some of those on hand for a three-day festival featuring some of rock\u2019s most venerable names: Bob Dylan, the Rolling Stones, Paul McCartney, Roger Waters, Neil Young and the Who....",
+        "lead_paragraph": "Checking in with some of those on hand for a three-day festival featuring some of rock\u2019s most venerable names: Bob Dylan, the Rolling Stones, Paul McCartney, Roger Waters, Neil Young and the Who.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/09/arts/08DESERTPEOPLE/08DESERTPEOPLE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/09/arts/08DESERTPEOPLE/08DESERTPEOPLE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/09/arts/08DESERTPEOPLE/08DESERTPEOPLE-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/09/arts/08DESERTPEOPLE/08DESERTPEOPLE-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/09/arts/08DESERTPEOPLE/08DESERTPEOPLE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/09/arts/08DESERTPEOPLE/08DESERTPEOPLE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Desert Trippers: Old, Young, Nostalgic and Adventurous"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Rolling Stones"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Who, The (Music Group)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pink Floyd (Music Group)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+          }
+        ],
+        "pub_date": "2016-10-08T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joe",
+              "rank": 1,
+              "lastname": "COSCARELLI"
+            }
+          ],
+          "original": "By JOE COSCARELLI"
+        },
+        "type_of_material": "News",
+        "_id": "57f9619b95d0e021d798adbf",
+        "word_count": "1068",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/08/us/ap-us-campaign-2016-trump-women.html",
+        "snippet": "On a bus headed to the set of the soap opera \"Days of Our Lives\" in 2005, Donald Trump was secretly recorded saying he was drawn like a magnet to beautiful women. \"I just start kissing them,\" he boasted. \"I don't even wait.\"...",
+        "lead_paragraph": "On a bus headed to the set of the soap opera \"Days of Our Lives\" in 2005, Donald Trump was secretly recorded saying he was drawn like a magnet to beautiful women. \"I just start kissing them,\" he boasted. \"I don't even wait.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump's Comments on Women Trigger Outrage From All Corners",
+          "print_headline": "Trump's Comments on Women Trigger Outrage From All Corners"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T21:10:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f9615695d0e021d798adbe",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/08/sports/soccer/08reuters-soccer-worldcup-slo-svk.html",
+        "snippet": "Slovenia's Rok Kronaveter scored his first international goal with his first touch of the ball after coming on as a substitute to give his side a 1-0 home win over Slovakia in a scrappy World Cup Group F qualifier on Saturday....",
+        "lead_paragraph": "Slovenia's Rok Kronaveter scored his first international goal with his first touch of the ball after coming on as a substitute to give his side a 1-0 home win over Slovakia in a scrappy World Cup Group F qualifier on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kronaveter Gives Slovenia 1-0 Win Over Slovakia",
+          "print_headline": "Kronaveter Gives Slovenia 1-0 Win Over Slovakia"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T21:11:54Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f9615095d0e021d798adbd",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/08/sports/soccer/08reuters-soccer-worldcup-sco-ltu.html",
+        "snippet": "James McArthur's 89th minute header salvaged a 1-1 draw for Scotland at home to Lithuania in their World Cup qualifying Group F clash at Hampden Park on Saturday....",
+        "lead_paragraph": "James McArthur's 89th minute header salvaged a 1-1 draw for Scotland at home to Lithuania in their World Cup qualifying Group F clash at Hampden Park on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "McArthur Salvages Point for Scotland at Home to Lithuania",
+          "print_headline": "McArthur Salvages Point for Scotland at Home to Lithuania"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T21:10:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f9614e95d0e021d798adbc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/08/sports/soccer/08reuters-soccer-worldcup-pol-den.html",
+        "snippet": "A hat-trick by deadly finisher Robert Lewandowski lifted Poland to a 3-2 victory over Denmark in a thrilling World Cup Group E qualifier on Saturday....",
+        "lead_paragraph": "A hat-trick by deadly finisher Robert Lewandowski lifted Poland to a 3-2 victory over Denmark in a thrilling World Cup Group E qualifier on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Lewandowski Hat-Trick Helps Poland Sink Denmark",
+          "print_headline": "Lewandowski Hat-Trick Helps Poland Sink Denmark"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T21:07:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f9609295d0e021d798adbb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/08/sports/rugby/08reuters-rugby-union-championship-argentina.html",
+        "snippet": "Australia pounced on Pumas errors to score two intercept tries and four altogether for a 33-21 bonus-point victory at Twickenham on Saturday that earned them second place in the Rugby Championship....",
+        "lead_paragraph": "Australia pounced on Pumas errors to score two intercept tries and four altogether for a 33-21 bonus-point victory at Twickenham on Saturday that earned them second place in the Rugby Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Two Intercept Tries Help Wallabies Beat Pumas",
+          "print_headline": "Two Intercept Tries Help Wallabies Beat Pumas"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T21:05:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f95fe595d0e021d798adba",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/08/sports/soccer/08reuters-soccer-worldcup-ger-cze.html",
+        "snippet": "Thomas Mueller scored twice for the second World Cup qualifier in a row to lead dominant Germany to a comprehensive 3-0 win over Czech Republic on Saturday....",
+        "lead_paragraph": "Thomas Mueller scored twice for the second World Cup qualifier in a row to lead dominant Germany to a comprehensive 3-0 win over Czech Republic on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Soccer-Mueller Grabs Another Double in Easy Germany Win",
+          "print_headline": "Soccer-Mueller Grabs Another Double in Easy Germany Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T20:48:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f95ba895d0e021d798adb8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/08/us/politics/ap-us-campaign-2016-clinton.html",
+        "snippet": "Hillary Clinton took nearly every precaution to ensure voters would never know what she told investment bankers, lobbyists and corporate executives in dozens of closed-door paid speeches before running for president....",
+        "lead_paragraph": "Hillary Clinton took nearly every precaution to ensure voters would never know what she told investment bankers, lobbyists and corporate executives in dozens of closed-door paid speeches before running for president.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Leaked Campaign Emails Show 'Moderate' Side of Clinton",
+          "print_headline": "Leaked Campaign Emails Show 'Moderate' Side of Clinton"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-08T20:37:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f959a195d0e021d798adb7",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

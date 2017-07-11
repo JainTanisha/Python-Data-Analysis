@@ -1,0 +1,385 @@
+{
+  "response": {
+    "meta": {
+      "hits": 392,
+      "time": 92,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/sports/ncaafootball/ap-fbc-t25-kentucky-louisville.html",
+        "snippet": "Lamar Jackson lost the ball, No. 11 Louisville lost the game to rival Kentucky and it remains to be seen how it all will impact the Heisman Trophy race that once belonged to the Cardinals quarterback just a few weeks ago....",
+        "lead_paragraph": "Lamar Jackson lost the ball, No. 11 Louisville lost the game to rival Kentucky and it remains to be seen how it all will impact the Heisman Trophy race that once belonged to the Cardinals quarterback just a few weeks ago.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kentucky Beats No. 11 Louisville 41-38 After Jackson Fumble",
+          "print_headline": "Kentucky Beats No. 11 Louisville 41-38 After Jackson Fumble"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T21:06:52+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f97595d0e039260729fd",
+        "word_count": "673",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/world/americas/26reuters-quake-elsalvador.html",
+        "snippet": "An earthquake shook buildings in San Salvador on Saturday, two days after a major quake struck off the Pacific coast of El Salvador, though there were no immediate reports of damages....",
+        "lead_paragraph": "An earthquake shook buildings in San Salvador on Saturday, two days after a major quake struck off the Pacific coast of El Salvador, though there were no immediate reports of damages.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Earthquake Shakes El Salvador, No Initial Reports of Damage",
+          "print_headline": "Earthquake Shakes El Salvador, No Initial Reports of Damage"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T21:06:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f95995d0e039260729fc",
+        "word_count": "64",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004789946/celebrating-castros-death-in-miami.html",
+        "snippet": "The Florida city that is home to many people who fled Cuba after Fidel Castro took power erupted in a street party with news of the leader\u2019s death....",
+        "lead_paragraph": "The Florida city that is home to many people who fled Cuba after Fidel Castro took power erupted in a street party with news of the leader\u2019s death.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/27/us/27MIAMI2-web/27MIAMI2-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/27/us/27MIAMI2-web/27MIAMI2-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/27/us/27MIAMI2-web/27MIAMI2-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/27/us/27MIAMI2-web/27MIAMI2-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/27/us/27MIAMI2-web/27MIAMI2-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/27/us/27MIAMI2-web/27MIAMI2-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Celebrating Castro\u2019s Death in Miami"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T21:06:16+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ainara",
+              "rank": 1,
+              "lastname": "TIEFENTH\u00c4LER"
+            }
+          ],
+          "original": "By AINARA TIEFENTH\u00c4LER"
+        },
+        "type_of_material": "Video",
+        "_id": "5839f95195d0e039260729fb",
+        "word_count": "28",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/26/sports/letters-to-the-editor.html",
+        "snippet": "Readers sound off on the latest headlines in Sports....",
+        "lead_paragraph": "Readers sound off on the latest headlines in Sports.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Letters to the Editor",
+          "print_headline": "A Man Best Measured by More Than One Moment"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Northwestern University"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Harvard University"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Yale University"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Branca, Ralph"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "NCAA Basketball Championships (Men)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "College Athletics"
+          }
+        ],
+        "pub_date": "2016-11-26T20:46:47+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "5839f4c595d0e039260729fa",
+        "word_count": "576",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/us/politics/ap-us-congress-drug-approval.html",
+        "snippet": "The House plans to vote Wednesday on a $6.3 billion bill aimed at speeding federal approval of drugs and medical devices and boosting biomedical research....",
+        "lead_paragraph": "The House plans to vote Wednesday on a $6.3 billion bill aimed at speeding federal approval of drugs and medical devices and boosting biomedical research.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "House to Vote on Bill Aimed at Speeding Approval of Drugs",
+          "print_headline": "House to Vote on Bill Aimed at Speeding Approval of Drugs"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:45:52+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f48995d0e039260729f9",
+        "word_count": "343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/26/us/ap-us-chicago-police-shooting.html",
+        "snippet": "A Chicago police sergeant who fatally shot a 19-year-old man in the back during a foot chase this week has been stripped of his police powers....",
+        "lead_paragraph": "A Chicago police sergeant who fatally shot a 19-year-old man in the back during a foot chase this week has been stripped of his police powers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chicago Officer Who Fatally Shot Man Loses Police Powers",
+          "print_headline": "Chicago Officer Who Fatally Shot Man Loses Police Powers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:42:38+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f3ca95d0e039260729f8",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/soccer/26reuters-soccer-england-championship.html",
+        "snippet": "Newcastle United's advantage at the top of the Championship, England's second division, was cut to two points as they fell to a shock 1-0 home defeat to Blackburn Rovers on Saturday....",
+        "lead_paragraph": "Newcastle United's advantage at the top of the Championship, England's second division, was cut to two points as they fell to a shock 1-0 home defeat to Blackburn Rovers on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Newcastle Streak Ends as Blackburn Stun Leaders",
+          "print_headline": "Newcastle Streak Ends as Blackburn Stun Leaders"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:42:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f3bf95d0e039260729f6",
+        "word_count": "378",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/arts/26reuters-britain-music-punk.html",
+        "snippet": "Piles of punk music memorabilia went up in flames on a river barge in London on Saturday in a protest against the way the once rebellious genre has been subsumed into mainstream culture....",
+        "lead_paragraph": "Piles of punk music memorabilia went up in flames on a river barge in London on Saturday in a protest against the way the once rebellious genre has been subsumed into mainstream culture.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Memorabilia Torched on London Barge to Protest Punk Gone Rotten",
+          "print_headline": "Memorabilia Torched on London Barge to Protest Punk Gone Rotten"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:42:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f3c195d0e039260729f7",
+        "word_count": "275",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/us/politics/26reuters-usa-election-recount-trump.html",
+        "snippet": "U.S. President-elect Donald Trump on Saturday called a request for a recount of votes in Wisconsin a \"scam\" by the Green Party and said even his Democratic challenger Hillary Clinton had said the election results should be accepted....",
+        "lead_paragraph": "U.S. President-elect Donald Trump on Saturday called a request for a recount of votes in Wisconsin a \"scam\" by the Green Party and said even his Democratic challenger Hillary Clinton had said the election results should be accepted.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Calls Green Party Vote Recount Request a 'Scam'",
+          "print_headline": "Trump Calls Green Party Vote Recount Request a 'Scam'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:39:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f31195d0e039260729f5",
+        "word_count": "149",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/26/sports/soccer/26reuters-soccer-germany.html",
+        "snippet": "Bayern Munich ended a three-match winless run when they beat Bayer Leverkusen 2-1 on Saturday, although the Bundesliga champions still had to cling on at the end....",
+        "lead_paragraph": "Bayern Munich ended a three-match winless run when they beat Bayer Leverkusen 2-1 on Saturday, although the Bundesliga champions still had to cling on at the end.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bayern End Winless Streak, Hoffenheim Still Unbeaten",
+          "print_headline": "Bayern End Winless Streak, Hoffenheim Still Unbeaten"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-26T20:39:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5839f30c95d0e039260729f4",
+        "word_count": "440",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

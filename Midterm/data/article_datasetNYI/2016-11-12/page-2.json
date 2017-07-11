@@ -1,0 +1,508 @@
+{
+  "response": {
+    "meta": {
+      "hits": 423,
+      "time": 40,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/12/world/africa/ap-af-rwanda-genocide-suspects.html",
+        "snippet": "Two Rwandan men accused of participating in the 1994 genocide against Tutsis have arrived in Kigali, Rwanda, following their extradition from the Netherlands, an official said Saturday....",
+        "lead_paragraph": "Two Rwandan men accused of participating in the 1994 genocide against Tutsis have arrived in Kigali, Rwanda, following their extradition from the Netherlands, an official said Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Netherlands Extradites 2 Genocide Suspects to Rwanda",
+          "print_headline": "Netherlands Extradites 2 Genocide Suspects to Rwanda"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:42:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58279aea95d0e0204d5601f6",
+        "word_count": "401",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/13/us/politics/trump-clinton-jail.html",
+        "snippet": "A decision on whether to further investigate Hillary Clinton will indicate whether Donald Trump intends to look ahead or look back and settle political scores....",
+        "lead_paragraph": "A decision on whether to further investigate Hillary Clinton will indicate whether Donald Trump intends to look ahead or look back and settle political scores.",
+        "abstract": "Speculation is rife over whether Pres-elect Donald J Trump will continue conciliatory tone of his victory speech or fulfill his campaign pledge to re-open investigation into Hillary Clinton's handling of emails; Obama administration has not indicated it will grant her clemency; voices from both sides emphasize importance of country moving forward.",
+        "print_page": "27",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/13/us/13jail/13jail-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/13/us/13jail/13jail-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/13/us/13jail/13jail-articleLarge.jpg",
+            "height": 374,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/13/us/13jail/13jail-articleLarge.jpg",
+              "xlargeheight": "374"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/13/us/13jail/13jail-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/13/us/13jail/13jail-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Camp Refuses to Close Door on Campaign Pledge to \u2018Lock Her Up\u2019",
+          "print_headline": "Trump Camp Refuses to Close Door on Campaign Pledge to \u2018Lock Her Up\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Special Prosecutors (Independent Counsel)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Bureau of Investigation"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "E-Mail"
+          }
+        ],
+        "pub_date": "2016-11-12T22:39:37Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "LICHTBLAU"
+            }
+          ],
+          "original": "By ERIC LICHTBLAU"
+        },
+        "type_of_material": "News",
+        "_id": "58279a2f95d0e0204d5601f5",
+        "word_count": "948",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/asia/100000004764927/vast-protests-in-south-korea.html",
+        "snippet": "One of the largest anti-government protest in decades swept through Seoul on Saturday to demand the resignation of President Park Geun-hye amid an administrative scandal....",
+        "lead_paragraph": "One of the largest anti-government protest in decades swept through Seoul on Saturday to demand the resignation of President Park Geun-hye amid an administrative scandal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/13/world/KOREA/KOREA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/13/world/KOREA/KOREA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/13/world/KOREA/KOREA-articleLarge.jpg",
+            "height": 756,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/13/world/KOREA/KOREA-articleLarge.jpg",
+              "xlargeheight": "756"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/13/world/KOREA/KOREA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/13/world/KOREA/KOREA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Vast Protests in South Korea"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Seoul (South Korea)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Park Geun-hye"
+          }
+        ],
+        "pub_date": "2016-11-12T22:38:04+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Asia Pacific",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS and THE ASSOCIATED PRESS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "582799d295d0e0204d5601f4",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/12/sports/ncaafootball/ap-fbc-t25-alabama-saban-election-day.html",
+        "snippet": "Alabama coach Nick Saban says he forgot about Election Day, not about voting....",
+        "lead_paragraph": "Alabama coach Nick Saban says he forgot about Election Day, not about voting.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Nick Saban: I Voted With an Absentee Ballot",
+          "print_headline": "Nick Saban: I Voted With an Absentee Ballot"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:33:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582798cc95d0e0204d5601f3",
+        "word_count": "147",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/12/world/asia/12reuters-usa-lgbt-military.html",
+        "snippet": "For several years, transgender U.S. Army Captain Julia Harrison shunned military social events, anxious at the thought of having to wear the pants and coat of male service members despite identifying as a woman....",
+        "lead_paragraph": "For several years, transgender U.S. Army Captain Julia Harrison shunned military social events, anxious at the thought of having to wear the pants and coat of male service members despite identifying as a woman.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "First U.S. Transgender Soldiers Make Gender Transition After Policy Shift",
+          "print_headline": "First U.S. Transgender Soldiers Make Gender Transition After Policy Shift"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:33:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582798c495d0e0204d5601f2",
+        "word_count": "864",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004765104/le-pen-hails-trumps-victory.html",
+        "snippet": "Marine Le Pen, the leader of France\u2019s far-right National Front party, spoke about the results of the American presidential election on Wednesday in Nanterre, near Paris....",
+        "lead_paragraph": "Marine Le Pen, the leader of France\u2019s far-right National Front party, spoke about the results of the American presidential election on Wednesday in Nanterre, near Paris.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/world/12lepen/12lepen-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/world/12lepen/12lepen-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/world/12lepen/12lepen-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/world/12lepen/12lepen-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/world/12lepen/12lepen-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/world/12lepen/12lepen-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Le Pen Hails Trump\u2019s Victory"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Front (France)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Le Pen, Marine"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-12T22:32:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": null,
+        "type_of_material": "Video",
+        "_id": "5827986595d0e0204d5601f1",
+        "word_count": "26",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/12/world/africa/12reuters-nigeria-slum-demolition.html",
+        "snippet": "More than 300,000 people face eviction and could be left homeless as prime waterfront land in Nigeria's biggest city, Lagos, is cleared of shanty towns to make way for luxury redevelopment, campaigners said on Friday....",
+        "lead_paragraph": "More than 300,000 people face eviction and could be left homeless as prime waterfront land in Nigeria's biggest city, Lagos, is cleared of shanty towns to make way for luxury redevelopment, campaigners said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Demolitions of Lagos Waterfront Communities Could Leave 300,000 Homeless-Campaigners",
+          "print_headline": "Demolitions of Lagos Waterfront Communities Could Leave 300,000 Homeless-Campaigners"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:30:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5827981995d0e0204d5601f0",
+        "word_count": "863",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/12/us/12reuters-usa-women-march.html",
+        "snippet": "Women anxious that a Donald Trump presidency in the United States could set back or destroy many of their rights are planning a massive march in Washington one day after he is sworn in, organizers said on Friday....",
+        "lead_paragraph": "Women anxious that a Donald Trump presidency in the United States could set back or destroy many of their rights are planning a massive march in Washington one day after he is sworn in, organizers said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Women Planning Mass March on Washington When Trump Takes Office",
+          "print_headline": "Women Planning Mass March on Washington When Trump Takes Office"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:30:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5827981895d0e0204d5601ef",
+        "word_count": "446",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/12/world/americas/12reuters-usa-immigration-patrol.html",
+        "snippet": "The United States Customs and Border Protection agency plans to send an additional 150 agents to the southern border region of Texas to combat a recent rise in apprehensions, mostly of children and families crossing illegally, it said on Saturday....",
+        "lead_paragraph": "The United States Customs and Border Protection agency plans to send an additional 150 agents to the southern border region of Texas to combat a recent rise in apprehensions, mostly of children and families crossing illegally, it said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Border Patrol Sends More Agents to Texas as Apprehensions Rise",
+          "print_headline": "U.S. Border Patrol Sends More Agents to Texas as Apprehensions Rise"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:30:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5827980f95d0e0204d5601ed",
+        "word_count": "283",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/12/sports/soccer/12reuters-soccer-worldcup-africa.html",
+        "snippet": "Victor Moses scored twice and John Obi Mikel added the other as Nigeria went four points clear in World Cup qualification with a 3-1 home win over Algeria in Uyo on Saturday....",
+        "lead_paragraph": "Victor Moses scored twice and John Obi Mikel added the other as Nigeria went four points clear in World Cup qualification with a 3-1 home win over Algeria in Uyo on Saturday.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nigeria Top World Cup Qualification Group After Sinking Algeria",
+          "print_headline": "Nigeria Top World Cup Qualification Group After Sinking Algeria"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-12T22:30:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5827981295d0e0204d5601ee",
+        "word_count": "468",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,460 @@
+{
+  "response": {
+    "meta": {
+      "hits": 421,
+      "time": 38,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/sports/ncaafootball/ap-fbc-t25-clemson-watson.html",
+        "snippet": "Clemson quarterback Deshaun Watson's bruised shoulder should not keep him out of next weekend's game against Pittsburgh....",
+        "lead_paragraph": "Clemson quarterback Deshaun Watson's bruised shoulder should not keep him out of next weekend's game against Pittsburgh.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clemson Turns to Schuessler at QB After Watson Out Injured",
+          "print_headline": "Clemson Turns to Schuessler at QB After Watson Out Injured"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T21:24:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df8395d0e0204d55ee8b",
+        "word_count": "452",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/06/us/politics/hillary-clinton-rain-moment.html",
+        "snippet": "Days from the end of a grueling presidential contest, Mrs. Clinton relinquished her script at a Florida rally....",
+        "lead_paragraph": "Days from the end of a grueling presidential contest, Mrs. Clinton relinquished her script at a Florida rally.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In 1 Unscripted Moment, Hillary Clinton Finds Joy in the Rain"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+          }
+        ],
+        "pub_date": "2016-11-05T21:23:48Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "BARBARO"
+            }
+          ],
+          "original": "By MICHAEL BARBARO"
+        },
+        "type_of_material": "News",
+        "_id": "5820df8195d0e0204d55ee89",
+        "word_count": "223",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/us/ap-us-jordan-americans-killed.html",
+        "snippet": "A family spokesman says a 27-year-old Houston man is one of three U.S. military members who were killed in a shooting outside a military base in southern Jordan....",
+        "lead_paragraph": "A family spokesman says a 27-year-old Houston man is one of three U.S. military members who were killed in a shooting outside a military base in southern Jordan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Houston Man 1 of 3 US Military Members Killed in Jordan",
+          "print_headline": "Houston Man 1 of 3 US Military Members Killed in Jordan"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T21:21:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df9e95d0e0204d55ee8e",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Scott McCarron and Tom Byrum shared the Dominion Charity Classic lead Saturday, with Bernhard Langer two strokes back in the second of three PGA Tour Champions playoff events....",
+        "lead_paragraph": "Scott McCarron and Tom Byrum shared the Dominion Charity Classic lead Saturday, with Bernhard Langer two strokes back in the second of three PGA Tour Champions playoff events.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T21:15:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820dfa395d0e0204d55ee8f",
+        "word_count": "586",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/us/politics/ap-us-senate-2016-glance.html",
+        "snippet": "Control of the Senate is on the ballot in November, with Republicans fighting to hold their majority while defending far more seats in Democratic-leaning states. A look at the Senate landscape:...",
+        "lead_paragraph": "Control of the Senate is on the ballot in November, with Republicans fighting to hold their majority while defending far more seats in Democratic-leaning states. A look at the Senate landscape:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "A Look at the Fight for Control of the Senate",
+          "print_headline": "A Look at the Fight for Control of the Senate"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T20:51:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df4595d0e0204d55ee7f",
+        "word_count": "535",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/05/sports/golf/ap-glf-pga-tour-champions.html",
+        "snippet": "Scott McCarron and Tom Byrum shared the Dominion Charity Classic lead Saturday, with Bernhard Langer two strokes back in the second of three PGA Tour Champions playoff events....",
+        "lead_paragraph": "Scott McCarron and Tom Byrum shared the Dominion Charity Classic lead Saturday, with Bernhard Langer two strokes back in the second of three PGA Tour Champions playoff events.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Scott McCarron, Tom Byrum Share PGA Tour Champions Lead",
+          "print_headline": "Scott McCarron, Tom Byrum Share PGA Tour Champions Lead"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T20:48:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df7895d0e0204d55ee88",
+        "word_count": "536",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/05/sports/soccer/05reuters-soccer-england-che-eve-conte.html",
+        "snippet": "Chelsea manager Antonio Conte hailed the 5-0 destruction of Everton as \"fantastic\" as the Blues went top of the Premier League on Saturday with a stunning display that suggests they are serious contenders to regain their title....",
+        "lead_paragraph": "Chelsea manager Antonio Conte hailed the 5-0 destruction of Everton as \"fantastic\" as the Blues went top of the Premier League on Saturday with a stunning display that suggests they are serious contenders to regain their title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Five-Goal Chelsea 'Fantastic', Says Delighted Conte",
+          "print_headline": "Five-Goal Chelsea 'Fantastic', Says Delighted Conte"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T20:45:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df0c95d0e0204d55ee7c",
+        "word_count": "391",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/05/world/americas/05reuters-venezuela-politics-vatican.html",
+        "snippet": "Venezuela is going through a \"very ugly\" situation and there could be bloodshed ahead if talks between the government and opposition fail, a papal envoy told an Argentine newspaper after his visit to Venezuela this week....",
+        "lead_paragraph": "Venezuela is going through a \"very ugly\" situation and there could be bloodshed ahead if talks between the government and opposition fail, a papal envoy told an Argentine newspaper after his visit to Venezuela this week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pope's Envoy Warns of Bloodshed if Venezuela Talks Fail: Paper",
+          "print_headline": "Pope's Envoy Warns of Bloodshed if Venezuela Talks Fail: Paper"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-05T20:39:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5820df4b95d0e0204d55ee80",
+        "word_count": "366",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/elections/100000004751181/hillary-revels-in-the-rain.html",
+        "snippet": "Nearing the end of a grueling presidential campaign, Hillary Clinton, the Democratic nominee, cut short a speech on Saturday in Florida because of a sudden rain shower. But she didn't let the water spoil the party....",
+        "lead_paragraph": "Nearing the end of a grueling presidential campaign, Hillary Clinton, the Democratic nominee, cut short a speech on Saturday in Florida because of a sudden rain shower. But she didn't let the water spoil the party.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/us/05polbriefing3/05polbriefing3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/us/05polbriefing3/05polbriefing3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/us/05polbriefing3/05polbriefing3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/us/05polbriefing3/05polbriefing3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/us/05polbriefing3/05polbriefing3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/us/05polbriefing3/05polbriefing3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hillary Revels in the Rain"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rain"
+          }
+        ],
+        "pub_date": "2016-11-05T20:39:15+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5820df7495d0e0204d55ee87",
+        "word_count": "36",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/06/opinion/sunday/my-deathbed-playlist-and-yours.html",
+        "snippet": "The music that gave our lives meaning can bring comfort at the end....",
+        "lead_paragraph": "The music that gave our lives meaning can bring comfort at the end.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/06/opinion/sunday/06vanhoenacker/06vanhoenacker-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/06/opinion/sunday/06vanhoenacker/06vanhoenacker-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/06/opinion/sunday/06vanhoenacker/06vanhoenacker-articleLarge.jpg",
+            "height": 604,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/06/opinion/sunday/06vanhoenacker/06vanhoenacker-articleLarge.jpg",
+              "xlargeheight": "604"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/06/opinion/sunday/06vanhoenacker/06vanhoenacker-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/06/opinion/sunday/06vanhoenacker/06vanhoenacker-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "My Deathbed Playlist (and Yours)",
+          "content_kicker": "Opinion",
+          "kicker": "Opinion",
+          "print_headline": "My Deathbed Playlist"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Death and Dying"
+          }
+        ],
+        "pub_date": "2016-11-05T20:37:38Z",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mark",
+              "rank": 1,
+              "lastname": "VANHOENACKER"
+            }
+          ],
+          "original": "By MARK VANHOENACKER"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5820deaa95d0e0204d55ee6f",
+        "word_count": "1405",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,516 @@
+{
+  "response": {
+    "meta": {
+      "hits": 856,
+      "time": 54,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/08/movies/fire-at-sea-strikes-a-nerve-on-the-migrant-crisis.html",
+        "snippet": "The New York Film Festival will show this documentary, which focuses on how two residents of the Italian island of Lampedusa live amid waves of migrants from Africa....",
+        "lead_paragraph": "The New York Film Festival will show this documentary, which focuses on how two residents of the Italian island of Lampedusa live amid waves of migrants from Africa.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/08/arts/08FIREATSEA1/08FIREATSEA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/08/arts/08FIREATSEA1/08FIREATSEA1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/08/arts/08FIREATSEA1/08FIREATSEA1-articleLarge.jpg",
+            "height": 321,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/08/arts/08FIREATSEA1/08FIREATSEA1-articleLarge.jpg",
+              "xlargeheight": "321"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/08/arts/08FIREATSEA1/08FIREATSEA1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/08/arts/08FIREATSEA1/08FIREATSEA1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Fire at Sea\u2019 Strikes a Nerve on the Migrant Crisis: \u2018What Can I Do?\u2019",
+          "print_headline": "The Migrant Crisis Through New Eyes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "New York Film Festival"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Middle East and Africa Migrant Crisis"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Documentary Films and Programs"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rosi, Gianfranco"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Lampedusa (Italy)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Fire at Sea (Movie)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-10-07T21:50:34+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rachel",
+              "rank": 1,
+              "lastname": "DONADIO"
+            }
+          ],
+          "original": "By RACHEL DONADIO"
+        },
+        "type_of_material": "News",
+        "_id": "57f818ae95d0e021d798ac08",
+        "word_count": "847",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/us/politics/ap-us-budget-deficit.html",
+        "snippet": "The Congressional Budget Office estimates that the budget deficit for the just-completed fiscal year was $588 billion, about one-third greater than last year....",
+        "lead_paragraph": "The Congressional Budget Office estimates that the budget deficit for the just-completed fiscal year was $588 billion, about one-third greater than last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "CBO: Budget Deficit for 2016 Registers at $588B",
+          "print_headline": "CBO: Budget Deficit for 2016 Registers at $588B"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:44:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8187d95d0e021d798ac07",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:47:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8184995d0e021d798ac06",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/us/politics/07reuters-usa-cyber-russia-senate.html",
+        "snippet": "The chairman of a U.S. Senate cyber security subcommittee said on Friday he planned to introduce sanctions legislation over \"Russia's cyber criminals\" after Washington accused Russia of political cyber attacks ahead of the Nov. 8 presidential elec...",
+        "lead_paragraph": "The chairman of a U.S. Senate cyber security subcommittee said on Friday he planned to introduce sanctions legislation over \"Russia's cyber criminals\" after Washington accused Russia of political cyber attacks ahead of the Nov. 8 presidential election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Lawmaker Wants Cyber Sanctions on Russia After Hacking Charges",
+          "print_headline": "U.S. Lawmaker Wants Cyber Sanctions on Russia After Hacking Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:47:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8183995d0e021d798ac05",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/us/politics/07reuters-usa-election-trump-lewd.html",
+        "snippet": "Donald Trump issued an apology on Friday after the release of a video in which the Republican presidential candidate was recorded on an open microphone in 2005 talking in vulgar terms about trying to have sex with women....",
+        "lead_paragraph": "Donald Trump issued an apology on Friday after the release of a video in which the Republican presidential candidate was recorded on an open microphone in 2005 talking in vulgar terms about trying to have sex with women.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Apologizes for Lewd Talk Caught on Live Microphone in 2005",
+          "print_headline": "Trump Apologizes for Lewd Talk Caught on Live Microphone in 2005"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:44:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8178795d0e021d798ac04",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/07/fashion/solange-knowles-stylist-shiona-turini-dont-touch-my-hair.html",
+        "snippet": "Including calling designers\u2019 dads and DM-ing their sons. Shiona Turini reveals the secrets behind the singer\u2019s latest videos and challenges like tracking down vintage velour tracksuits....",
+        "lead_paragraph": "Including calling designers\u2019 dads and DM-ing their sons. Shiona Turini reveals the secrets behind the singer\u2019s latest videos and challenges like tracking down vintage velour tracksuits.",
+        "abstract": "Stylist Shiona Turini discusses her collaboration with singer Solange Knowles on looks for her music videos.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/07/fashion/07-shiona/07-shiona-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/07/fashion/07-shiona/07-shiona-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/07/fashion/07-shiona/07-shiona-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/07/fashion/07-shiona/07-shiona-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/07/fashion/07-shiona/07-shiona-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/07/fashion/07-shiona/07-shiona-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Solange Knowles\u2019s Stylist Will Do Anything to Hunt Down a Look",
+          "print_headline": "Hunting for the Right Look"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Knowles, Solange"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Turini, Shiona"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-10-07T21:42:35+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joanna",
+              "rank": 1,
+              "lastname": "NIKAS"
+            }
+          ],
+          "original": "By JOANNA NIKAS"
+        },
+        "type_of_material": "News",
+        "_id": "57f816d495d0e021d798ac03",
+        "word_count": "1366",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/us/ap-financial-markets-box.html",
+        "snippet": "Stocks ended slightly lower on Wall Street on Friday, giving the market its first weekly decline in a month. Suppliers of basic materials and industrial companies lost the most....",
+        "lead_paragraph": "Stocks ended slightly lower on Wall Street on Friday, giving the market its first weekly decline in a month. Suppliers of basic materials and industrial companies lost the most.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Dow Jones Industrial Average Fared on Friday",
+          "print_headline": "How the Dow Jones Industrial Average Fared on Friday"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:36:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8163595d0e021d798ac02",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/us/politics/07reuters-usa-election-poll.html",
+        "snippet": "Democratic presidential candidate Hillary Clinton leads Republican rival Donald Trump by 5 percentage points among likely voters, roughly the same advantage she has held over the past several weeks, according to the Reuters/Ipsos national tracking...",
+        "lead_paragraph": "Democratic presidential candidate Hillary Clinton leads Republican rival Donald Trump by 5 percentage points among likely voters, roughly the same advantage she has held over the past several weeks, according to the Reuters/Ipsos national tracking poll released Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Leads Trump by 5 Points in Presidential Race: Reuters/Ipsos Poll",
+          "print_headline": "Clinton Leads Trump by 5 Points in Presidential Race: Reuters/Ipsos Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:29:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f8140d95d0e021d798ac01",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/sports/baseball/ap-bba-alds-indians-lebron.html",
+        "snippet": "Talk about a power hitter....",
+        "lead_paragraph": "Talk about a power hitter.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Power Hitter: LeBron Hypes Crowd Then Cheers on Indians",
+          "print_headline": "Power Hitter: LeBron Hypes Crowd Then Cheers on Indians"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:21:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f812b995d0e021d798abfc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/10/07/t-magazine/fashion/best-photos-fashion-week-month-spring-summer-2017.html",
+        "snippet": "Highlights from the spring/summer 2017 season \u2014 on and off the runway....",
+        "lead_paragraph": "Highlights from the spring/summer 2017 season \u2014 on and off the runway.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/07/t-magazine/fashion/fashion-month-best-pics-slide-CX8L/fashion-month-best-pics-slide-CX8L-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/07/t-magazine/fashion/fashion-month-best-pics-slide-CX8L/fashion-month-best-pics-slide-CX8L-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/07/t-magazine/fashion/fashion-month-best-pics-slide-CX8L/fashion-month-best-pics-slide-CX8L-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/07/t-magazine/fashion/fashion-month-best-pics-slide-CX8L/fashion-month-best-pics-slide-CX8L-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/07/t-magazine/fashion/fashion-month-best-pics-slide-CX8L/fashion-month-best-pics-slide-CX8L-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/07/t-magazine/fashion/fashion-month-best-pics-slide-CX8L/fashion-month-best-pics-slide-CX8L-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "T\u2019s 50 Best Photos of Fashion Month"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Photography"
+          }
+        ],
+        "pub_date": "2016-10-07T21:24:34+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine / Fashion & Beauty",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57f8129a95d0e021d798abfb",
+        "word_count": "12",
+        "slideshow_credits": "Dina Litovsky"
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

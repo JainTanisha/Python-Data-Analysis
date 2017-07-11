@@ -1,0 +1,608 @@
+{
+  "response": {
+    "meta": {
+      "hits": 892,
+      "time": 38,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794060/great-performers-casey-affleck.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-T5SQ/11-portfolio-la-noir-slide-T5SQ-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-T5SQ/11-portfolio-la-noir-slide-T5SQ-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-T5SQ/11-portfolio-la-noir-slide-T5SQ-articleLarge.jpg",
+            "height": 769,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-T5SQ/11-portfolio-la-noir-slide-T5SQ-articleLarge.jpg",
+              "xlargeheight": "769"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-T5SQ/11-portfolio-la-noir-slide-T5SQ-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-T5SQ/11-portfolio-la-noir-slide-T5SQ-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Casey Affleck"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Affleck, Casey"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:42:47+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gina",
+              "rank": 1,
+              "lastname": "PRINCE-BYTHEWOOD"
+            }
+          ],
+          "original": "By GINA PRINCE-BYTHEWOOD"
+        },
+        "type_of_material": "Video",
+        "_id": "5848e54e95d0e03926074c62",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/29/us/29reuters-ohio-police.html",
+        "snippet": "The expected retrial of a white former University of Cincinnati police officer who killed a black motorist during a traffic stop last year hit a series of snags this week as three judges recused themselves before a fourth was assigned to the case....",
+        "lead_paragraph": "The expected retrial of a white former University of Cincinnati police officer who killed a black motorist during a traffic stop last year hit a series of snags this week as three judges recused themselves before a fourth was assigned to the case.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ohio Judge Assigned Case in Police Killing of Black Man After Three Others Recuse Themselves",
+          "print_headline": "Ohio Judge Assigned Case in Police Killing of Black Man After Three Others Recuse Themselves"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:42:34+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583e045f95d0e039260731db",
+        "word_count": "428",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/29/world/asia/29reuters-myanmar-rohingya-un.html",
+        "snippet": "The reputation of Aung San Suu Kyi's government in Myanmar is at stake amid international concerns over how it is dealing with violence in the country's divided northwest, a senior United Nations official warned on Tuesday....",
+        "lead_paragraph": "The reputation of Aung San Suu Kyi's government in Myanmar is at stake amid international concerns over how it is dealing with violence in the country's divided northwest, a senior United Nations official warned on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.N. Warns Myanmar Government Reputation at Stake Over Rohingya Crisis",
+          "print_headline": "U.N. Warns Myanmar Government Reputation at Stake Over Rohingya Crisis"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:42:32+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583e046095d0e039260731dc",
+        "word_count": "350",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794066/great-performers-don-cheadle.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-7KXH/11-portfolio-la-noir-slide-7KXH-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-7KXH/11-portfolio-la-noir-slide-7KXH-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-7KXH/11-portfolio-la-noir-slide-7KXH-articleLarge.jpg",
+            "height": 751,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-7KXH/11-portfolio-la-noir-slide-7KXH-articleLarge.jpg",
+              "xlargeheight": "751"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-7KXH/11-portfolio-la-noir-slide-7KXH-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-7KXH/11-portfolio-la-noir-slide-7KXH-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Don Cheadle"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cheadle, Don"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:42:16+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gina",
+              "rank": 1,
+              "lastname": "PRINCE-BYTHEWOOD"
+            }
+          ],
+          "original": "By GINA PRINCE-BYTHEWOOD"
+        },
+        "type_of_material": "Video",
+        "_id": "5848e3e195d0e03926074c5d",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794068/great-performers-krisha-fairchild.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-AXT8/11-portfolio-la-noir-slide-AXT8-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-AXT8/11-portfolio-la-noir-slide-AXT8-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-AXT8/11-portfolio-la-noir-slide-AXT8-articleLarge.jpg",
+            "height": 645,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-AXT8/11-portfolio-la-noir-slide-AXT8-articleLarge.jpg",
+              "xlargeheight": "645"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-AXT8/11-portfolio-la-noir-slide-AXT8-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-AXT8/11-portfolio-la-noir-slide-AXT8-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Krisha Fairchild"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Fairchild, Krisha"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-11-29T22:41:46+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gina",
+              "rank": 1,
+              "lastname": "PRINCE-BYTHEWOOD"
+            }
+          ],
+          "original": "By GINA PRINCE-BYTHEWOOD"
+        },
+        "type_of_material": "Video",
+        "_id": "5848e4b695d0e03926074c60",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/29/us/ap-us-sport-institute-trial.html",
+        "snippet": "Jurors deliberating in the embezzlement trial of the founder of the Rhode Island-based Institute for International Sport have ended the day without reaching a verdict....",
+        "lead_paragraph": "Jurors deliberating in the embezzlement trial of the founder of the Rhode Island-based Institute for International Sport have ended the day without reaching a verdict.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No Verdict on 1st Day of Sport Institute Trial Deliberations",
+          "print_headline": "No Verdict on 1st Day of Sport Institute Trial Deliberations"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:40:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583e03ee95d0e039260731da",
+        "word_count": "142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/29/us/ap-us-obama-walter-reed.html",
+        "snippet": "President Barack Obama is spending part of Tuesday visiting with wounded soldiers at Walter Reed National Military Medical Center....",
+        "lead_paragraph": "President Barack Obama is spending part of Tuesday visiting with wounded soldiers at Walter Reed National Military Medical Center.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Obama Visits Wounded at Walter Reed",
+          "print_headline": "Obama Visits Wounded at Walter Reed"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:40:13+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583e03d495d0e039260731d9",
+        "word_count": "84",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794069/great-performers-kristen-stewart.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-HI07/11-portfolio-la-noir-slide-HI07-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-HI07/11-portfolio-la-noir-slide-HI07-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-HI07/11-portfolio-la-noir-slide-HI07-articleLarge.jpg",
+            "height": 490,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-HI07/11-portfolio-la-noir-slide-HI07-articleLarge.jpg",
+              "xlargeheight": "490"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-HI07/11-portfolio-la-noir-slide-HI07-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-HI07/11-portfolio-la-noir-slide-HI07-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Kristen Stewart"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Stewart, Kristen"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:40:05+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gina",
+              "rank": 1,
+              "lastname": "PRINCE-BYTHEWOOD"
+            }
+          ],
+          "original": "By GINA PRINCE-BYTHEWOOD"
+        },
+        "type_of_material": "Video",
+        "_id": "5848e35695d0e03926074c5c",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/magazine/100000004794073/great-performers-alex-hibbert-ashton-sanders-trevante-rhodes.html",
+        "snippet": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer....",
+        "lead_paragraph": "Step into the world of \"L.A. Noir\" through a series of nine groundbreaking virtual-reality films starring the year\u2019s best actors \u2014 and you, the viewer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-DZK2/11-portfolio-la-noir-slide-DZK2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-DZK2/11-portfolio-la-noir-slide-DZK2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-DZK2/11-portfolio-la-noir-slide-DZK2-articleLarge.jpg",
+            "height": 481,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-DZK2/11-portfolio-la-noir-slide-DZK2-articleLarge.jpg",
+              "xlargeheight": "481"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-DZK2/11-portfolio-la-noir-slide-DZK2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/12/11/magazine/11-portfolio-la-noir-slide-DZK2/11-portfolio-la-noir-slide-DZK2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Great Performers | Alex R. Hibbert, Ashton Sanders, Trevante Rhodes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Virtual Reality (Computers)"
+          }
+        ],
+        "pub_date": "2016-11-29T22:39:29+0000",
+        "document_type": "multimedia",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Ami",
+              "middlename": "Canaan",
+              "lastname": "MANN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By AMI CANAAN MANN"
+        },
+        "type_of_material": "Video",
+        "_id": "5848dc7c95d0e03926074c4e",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/29/technology/29reuters-deutsche-telekom-outages.html",
+        "snippet": "A cyber attack that infected nearly 1 million routers used to access Deutsche Telekom internet service was part of a campaign targeting web-connected devices around the globe, the German government and security researchers said on Tuesday....",
+        "lead_paragraph": "A cyber attack that infected nearly 1 million routers used to access Deutsche Telekom internet service was part of a campaign targeting web-connected devices around the globe, the German government and security researchers said on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Deutsche Telekom Attack Part of Global Campaign on Routers",
+          "print_headline": "Deutsche Telekom Attack Part of Global Campaign on Routers"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-29T22:39:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583e03a995d0e039260731d8",
+        "word_count": "558",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

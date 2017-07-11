@@ -1,0 +1,558 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1038,
+      "time": 74,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/us/politics/ap-us-gop-2016-convention-trump-text.html",
+        "snippet": "Text of presidential nominee Donald Trump's speech to the Republican National Convention, as provided in advance by the Trump campaign....",
+        "lead_paragraph": "Text of presidential nominee Donald Trump's speech to the Republican National Convention, as provided in advance by the Trump campaign.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Text of Donald Trump's Speech to the GOP Convention",
+          "print_headline": "Text of Donald Trump's Speech to the GOP Convention"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T23:24:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5791942738f0d87a83eba871",
+        "word_count": "4693",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/24/movies/equity-women-wall-street.html",
+        "snippet": "The budget for the financial thriller, which stars Anna Gunn of \u201cBreaking Bad\u201d and opens on July 29, was raised from 25 female investors....",
+        "lead_paragraph": "The budget for the financial thriller, which stars Anna Gunn of \u201cBreaking Bad\u201d and opens on July 29, was raised from 25 female investors.",
+        "abstract": "Sarah Megan Thomas and Alysia Reiner film Equity, which explores world of female Wall Street executives, was financed in large part by 25 female investors, some of whom experienced male-dominated industry firsthand.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/24/arts/24EQUITYFILM2/24EQUITYFILM2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/24/arts/24EQUITYFILM2/24EQUITYFILM2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/24/arts/24EQUITYFILM2/24EQUITYFILM2-articleLarge.jpg",
+            "height": 373,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/24/arts/24EQUITYFILM2/24EQUITYFILM2-articleLarge.jpg",
+              "xlargeheight": "373"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/24/arts/24EQUITYFILM2/24EQUITYFILM2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/24/arts/24EQUITYFILM2/24EQUITYFILM2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What Did It Take to Make \u2018Equity,\u2019 a Film About Women on Wall Street?",
+          "print_headline": "Where Women Run Wall Street"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Equity (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Thomas, Sarah Megan"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Fox, Amy"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Menon, Meera"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Reiner, Alysia (1970- )"
+          }
+        ],
+        "pub_date": "2016-07-21T23:23:12+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Melena",
+              "rank": 1,
+              "lastname": "RYZIK"
+            }
+          ],
+          "original": "By MELENA RYZIK"
+        },
+        "type_of_material": "News",
+        "_id": "5791596138f0d87a83eba7f5",
+        "word_count": "1383",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/24/us/politics/indiana-hometown-molded-mike-pence-even-as-it-began-to-change.html",
+        "snippet": "Many of Mr. Pence\u2019s deeply conservative views hark back to the tranquil, insular Columbus, Ind., of decades ago, a place that is vastly different today....",
+        "lead_paragraph": "Many of Mr. Pence\u2019s deeply conservative views hark back to the tranquil, insular Columbus, Ind., of decades ago, a place that is vastly different today.",
+        "abstract": "Profile of Columbus, Ind, childhood hometown of Indiana Gov Mike Pence, Republican vice-presidential nominee. ",
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/24/us/24PENCE-HOMETOWN-web/24PENCE-HOMETOWN-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/24/us/24PENCE-HOMETOWN-web/24PENCE-HOMETOWN-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/24/us/24PENCE-HOMETOWN-web/24PENCE-HOMETOWN-web-articleLarge.jpg",
+            "height": 387,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/24/us/24PENCE-HOMETOWN-web/24PENCE-HOMETOWN-web-articleLarge.jpg",
+              "xlargeheight": "387"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/24/us/24PENCE-HOMETOWN-web/24PENCE-HOMETOWN-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/24/us/24PENCE-HOMETOWN-web/24PENCE-HOMETOWN-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Indiana Hometown Molded Mike Pence Even as It Began to Change",
+          "print_headline": "Hometown Molded Pence Even as It Began to Change"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pence, Mike"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Columbus (Ind)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Indiana"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Vice Presidents and Vice Presidency (US)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-07-21T23:18:30+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Research was contributed by Susan Beachy, Kitty Bennett, Doris Burke and Alain Delaqu\u00e9ri\u00e8re.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "WINES"
+            }
+          ],
+          "original": "By MICHAEL WINES"
+        },
+        "type_of_material": "News",
+        "_id": "5791584938f0d87a83eba7f0",
+        "word_count": "1303",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/sports/football/ap-fbn-texans-watt-back-surgery.html",
+        "snippet": "A person familiar with J.J. Watt's condition said the Houston Texans' star defensive end has had back surgery and will begin training camp on the physically unable to perform list....",
+        "lead_paragraph": "A person familiar with J.J. Watt's condition said the Houston Texans' star defensive end has had back surgery and will begin training camp on the physically unable to perform list.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Source: Texans Star J.J. Watt Has Back Surgery",
+          "print_headline": "AP Source: Texans Star J.J. Watt Has Back Surgery"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T23:10:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57918f2f38f0d87a83eba86d",
+        "word_count": "154",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/us/politics/21reuters-usa-election-scene.html",
+        "snippet": "Bourbon&#160;flowed, a jazz band played, and pink and violet lights bathed the vaulted stone ceilings at a party thrown by a liquor producers' lobby group on Monday&#160;for attendees of the Republican National Convention....",
+        "lead_paragraph": "Bourbon&#160;flowed, a jazz band played, and pink and violet lights bathed the vaulted stone ceilings at a party thrown by a liquor producers' lobby group on Monday&#160;for attendees of the Republican National Convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Glitzy Parties, Bowling: Scenes From the Other Republican Convention",
+          "print_headline": "Glitzy Parties, Bowling: Scenes From the Other Republican Convention"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T23:03:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57918dbb38f0d87a83eba86c",
+        "word_count": "819",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/world/asia/ap-as-china-republican-convention.html",
+        "snippet": "Donald Trump accused China of stealing copyrights and unfairly manipulating its currency as he accepted the Republican Party's presidential nomination, charges likely to fuel anger in a country already upset at criticisms of Beijing in the party's...",
+        "lead_paragraph": "Donald Trump accused China of stealing copyrights and unfairly manipulating its currency as he accepted the Republican Party's presidential nomination, charges likely to fuel anger in a country already upset at criticisms of Beijing in the party's new policy platform.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Blasts China for Trade, Currency Actions",
+          "print_headline": "Trump Blasts China for Trade, Currency Actions"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T23:01:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57918d1038f0d87a83eba869",
+        "word_count": "598",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004545446/thiel-at-rnc-i-am-proud-to-be-gay.html",
+        "snippet": "Peter Thiel, the billionaire Silicon Valley venture capitalist and entrepreneur, spoke at the Republican National Convention in Cleveland on Thursday....",
+        "lead_paragraph": "Peter Thiel, the billionaire Silicon Valley venture capitalist and entrepreneur, spoke at the Republican National Convention in Cleveland on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/22/us/22highlights-4/22highlights-4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/22/us/22highlights-4/22highlights-4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/22/us/22highlights-4/22highlights-4-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/22/us/22highlights-4/22highlights-4-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/22/us/22highlights-4/22highlights-4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/22/us/22highlights-4/22highlights-4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Thiel at R.N.C.: \u2018I Am Proud to Be Gay\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Manjoo, Farhad"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Thiel, Peter A"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Silicon Valley (Calif)"
+          }
+        ],
+        "pub_date": "2016-07-21T22:57:06Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Farhad",
+              "rank": 1,
+              "lastname": "MANJOO"
+            }
+          ],
+          "original": "By FARHAD MANJOO"
+        },
+        "type_of_material": "Video",
+        "_id": "57918bac38f0d87a83eba858",
+        "word_count": "20",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/us/21reuters-colorado-marijuana.html",
+        "snippet": "Residents of a small farming community in eastern Colorado have been warned to avoid drinking the town&#8217;s water after&#160;THC, the psychoactive agent in marijuana, was found in one of its feeder wells, authorities said on Thursday....",
+        "lead_paragraph": "Residents of a small farming community in eastern Colorado have been warned to avoid drinking the town&#8217;s water after&#160;THC, the psychoactive agent in marijuana, was found in one of its feeder wells, authorities said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "High Water Mark: Active Marijuana Ingredient Found in U.S. Town Well",
+          "print_headline": "High Water Mark: Active Marijuana Ingredient Found in U.S. Town Well"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:56:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57918ba738f0d87a83eba857",
+        "word_count": "408",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/business/21reuters-usa-thiel.html",
+        "snippet": "Silicon Valley investor Peter Thiel, the only big-name supporter of Donald Trump from the country's technology hub, spoke on Thursday at the Republican National Convention to urge the country to discard petty cultural battles and turn its attentio...",
+        "lead_paragraph": "Silicon Valley investor Peter Thiel, the only big-name supporter of Donald Trump from the country's technology hub, spoke on Thursday at the Republican National Convention to urge the country to discard petty cultural battles and turn its attention to solving the United States' economic decline.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Peter Thiel Tells Republican Convention He Is 'Proud to Be Gay'",
+          "print_headline": "Peter Thiel Tells Republican Convention He Is 'Proud to Be Gay'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:54:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57918ba538f0d87a83eba856",
+        "word_count": "470",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/world/asia/21reuters-southkorea-markets-int.html",
+        "snippet": "South Korean shares and won were mostly unchanged in early trade on Friday as investors held positions ahead of the U.S. and Japanese central bank policy decisions next week, though a halt in Wall Street's rally overnight has weighed on sentiment....",
+        "lead_paragraph": "South Korean shares and won were mostly unchanged in early trade on Friday as investors held positions ahead of the U.S. and Japanese central bank policy decisions next week, though a halt in Wall Street's rally overnight has weighed on sentiment.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Korea Stocks, Won Calm as Investors Await U.S., Japan Global Events",
+          "print_headline": "South Korea Stocks, Won Calm as Investors Await U.S., Japan Global Events"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:54:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57918b9f38f0d87a83eba855",
+        "word_count": "208",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

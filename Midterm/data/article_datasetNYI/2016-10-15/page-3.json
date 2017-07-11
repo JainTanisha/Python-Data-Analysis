@@ -1,0 +1,447 @@
+{
+  "response": {
+    "meta": {
+      "hits": 404,
+      "time": 123,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/us/ap-us-7-year-old-driver.html",
+        "snippet": "A Florida mother has been charged with child neglect after instructing her 7-year-old son to drive her car on a public street through their neighborhood in suburban Orlando while she filmed him....",
+        "lead_paragraph": "A Florida mother has been charged with child neglect after instructing her 7-year-old son to drive her car on a public street through their neighborhood in suburban Orlando while she filmed him.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Deputies: Mom Arrested After Letting 7-Year-Old Drive Car",
+          "print_headline": "Deputies: Mom Arrested After Letting 7-Year-Old Drive Car"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:39:13Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a2d395d0e022439c3670",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004711537/us-lifts-restrictions-on-cuban-goods.html",
+        "snippet": "Tourists bought rum and cigars in Havana as President Obama lifted a $100 limit on bringing the Cuban goods into the United States....",
+        "lead_paragraph": "Tourists bought rum and cigars in Havana as President Obama lifted a $100 limit on bringing the Cuban goods into the United States.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/world/15Prexy-web2/15Prexy-web2-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/world/15Prexy-web2/15Prexy-web2-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/world/15Prexy-web2/15Prexy-web-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/world/15Prexy-web2/15Prexy-web-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/world/15Prexy-web2/15Prexy-web2-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/world/15Prexy-web2/15Prexy-web2-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Lifts Restrictions on Cuban Goods"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cuba"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Havana (Cuba)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cigars"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rum"
+          }
+        ],
+        "pub_date": "2016-10-15T21:42:32Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5802a2e495d0e022439c3671",
+        "word_count": "23",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/us/ap-us-fatal-shooting-mr-hero.html",
+        "snippet": "Police say a teenage employee has been fatally shot during a robbery at a fast food restaurant in suburban Cleveland....",
+        "lead_paragraph": "Police say a teenage employee has been fatally shot during a robbery at a fast food restaurant in suburban Cleveland.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Fatally Shot at Mr. Hero Eatery in Suburban Cleveland",
+          "print_headline": "Man Fatally Shot at Mr. Hero Eatery in Suburban Cleveland"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:36:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a22495d0e022439c366f",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/world/europe/ap-eu-britain-london-film-festival.html",
+        "snippet": "Writer-director Kelly Reichardt's spare and subtle Montana drama \"Certain Women\" won the best-picture prize Saturday at the London Film Festival, while \"12 Years a Slave\" director Steve McQueen received a major career award....",
+        "lead_paragraph": "Writer-director Kelly Reichardt's spare and subtle Montana drama \"Certain Women\" won the best-picture prize Saturday at the London Film Festival, while \"12 Years a Slave\" director Steve McQueen received a major career award.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "'Certain Women' Named Best Picture at London Film Festival",
+          "print_headline": "'Certain Women' Named Best Picture at London Film Festival"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:31:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a0b795d0e022439c366d",
+        "word_count": "348",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/sports/golf/ap-glf-pga-tour-champions.html",
+        "snippet": "Bernhard Langer birdied the final four holes for his second straight 5-under 67 and a two-stroke lead Saturday in the PGA Tour Champions' SAS Championship....",
+        "lead_paragraph": "Bernhard Langer birdied the final four holes for his second straight 5-under 67 and a two-stroke lead Saturday in the PGA Tour Champions' SAS Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bernhard Langer Takes PGA Tour Champions Lead",
+          "print_headline": "Bernhard Langer Takes PGA Tour Champions Lead"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:23:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58029e9a95d0e022439c366c",
+        "word_count": "442",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/us/politics/ap-us-campaign-2016-clinton-the-brief.html",
+        "snippet": "Hillary Clinton may be within striking distance of becoming the first woman to win the White House, now that the U.S. is in the final weeks of one of its nastiest presidential campaigns in recent history....",
+        "lead_paragraph": "Hillary Clinton may be within striking distance of becoming the first woman to win the White House, now that the U.S. is in the final weeks of one of its nastiest presidential campaigns in recent history.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "White House Brief: Things to Know About Hillary Clinton",
+          "print_headline": "White House Brief: Things to Know About Hillary Clinton"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:18:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58029de895d0e022439c366b",
+        "word_count": "1102",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/us/ap-us-kansas-somalis-targeted-the-latest.html",
+        "snippet": "The Latest on an alleged plot against Somalis in Kansas (all times local):...",
+        "lead_paragraph": "The Latest on an alleged plot against Somalis in Kansas (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Alleged Plot to Target Somalis Draws Reactions",
+          "print_headline": "The Latest: Alleged Plot to Target Somalis Draws Reactions"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:15:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58029d3595d0e022439c366a",
+        "word_count": "422",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/world/europe/ap-eu-greece-earthquake.html",
+        "snippet": "The Athens-based Institute of Geodynamics reports that a 5.2-magnitude earthquake has occurred near the northwestern Greek city of Ioannina, about 205 miles (330 kilometers) northwest of the capital Athens....",
+        "lead_paragraph": "The Athens-based Institute of Geodynamics reports that a 5.2-magnitude earthquake has occurred near the northwestern Greek city of Ioannina, about 205 miles (330 kilometers) northwest of the capital Athens.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "5.2-Magnitude Tremor Rattles Northwestern Greece",
+          "print_headline": "5.2-Magnitude Tremor Rattles Northwestern Greece"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:12:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58029c7d95d0e022439c3669",
+        "word_count": "106",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/world/americas/ap-lt-bolivia-us-gold-arrest.html",
+        "snippet": "Bolivian police say they've detained a 76-year-old U.S. citizen with more than 121 pounds (55 kilograms) of gold....",
+        "lead_paragraph": "Bolivian police say they've detained a 76-year-old U.S. citizen with more than 121 pounds (55 kilograms) of gold.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bolivia Police Arrest US Man With Some $1.5 Million in Gold",
+          "print_headline": "Bolivia Police Arrest US Man With Some $1.5 Million in Gold"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:09:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58029bd095d0e022439c3668",
+        "word_count": "91",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/opinion/sunday/foreign-spouse-happy-life.html",
+        "snippet": "My French husband doesn\u2019t always introduce me, and our chances of divorce are high, but that\u2019s no reason not to \u201cmarry out.\u201d...",
+        "lead_paragraph": "My French husband doesn\u2019t always introduce me, and our chances of divorce are high, but that\u2019s no reason not to \u201cmarry out.\u201d",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/opinion/sunday/16collins/16collins-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/opinion/sunday/16collins/16collins-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/opinion/sunday/16collins/16collins-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/opinion/sunday/16collins/16collins-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/opinion/sunday/16collins/16collins-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/opinion/sunday/16collins/16collins-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Foreign Spouse, Happy Life",
+          "content_kicker": "Opinion",
+          "kicker": "Opinion",
+          "print_headline": "Foreign Spouse, Happy Life"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Marriages"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Language and Languages"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Census Bureau"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "France"
+          }
+        ],
+        "pub_date": "2016-10-15T21:11:47+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Lauren",
+              "rank": 1,
+              "lastname": "COLLINS"
+            }
+          ],
+          "original": "By LAUREN COLLINS"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "58029b9d95d0e022439c3667",
+        "word_count": "905",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

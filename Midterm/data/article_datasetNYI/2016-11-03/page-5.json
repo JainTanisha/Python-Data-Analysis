@@ -1,0 +1,513 @@
+{
+  "response": {
+    "meta": {
+      "hits": 967,
+      "time": 64,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/sports/baseball/ap-bbn-cubs-future.html",
+        "snippet": "No more Lovable Losers. Forget those curses, too....",
+        "lead_paragraph": "No more Lovable Losers. Forget those curses, too.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "With Drought Over, Cubs' Attention Turns Toward Title Repeat",
+          "print_headline": "With Drought Over, Cubs' Attention Turns Toward Title Repeat"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:54:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bc03e95d0e01ffc1e15b5",
+        "word_count": "796",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/03/business/03reuters-volkswagen-emissions-lawsuit.html",
+        "snippet": "Volkswagen said the software allowing its diesel vehicles to evade emissions rules does not violate European law, as the carmaker aims to toughen its legal defenses in view of a possible rise in compensation claims in its home region....",
+        "lead_paragraph": "Volkswagen said the software allowing its diesel vehicles to evade emissions rules does not violate European law, as the carmaker aims to toughen its legal defenses in view of a possible rise in compensation claims in its home region.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "VW Says Defeat Device in Conformity With European Law",
+          "print_headline": "VW Says Defeat Device in Conformity With European Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:49:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581bbefc95d0e01ffc1e15b4",
+        "word_count": "394",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/fashion/mens-style/jeffrey-kalinsky-menswear-boutiques.html",
+        "snippet": "Jeffrey Kalinsky, the founder of the Jeffrey boutiques, says, \u201cTo me, it\u2019s all about the art of the sell.\u201d...",
+        "lead_paragraph": "Jeffrey Kalinsky, the founder of the Jeffrey boutiques, says, \u201cTo me, it\u2019s all about the art of the sell.\u201d",
+        "abstract": null,
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/fashion/04FOURQUESTIONS/04FOURQUESTIONS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/fashion/04FOURQUESTIONS/04FOURQUESTIONS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/fashion/04FOURQUESTIONS/04FOURQUESTIONS-articleLarge.jpg",
+            "height": 421,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/fashion/04FOURQUESTIONS/04FOURQUESTIONS-articleLarge.jpg",
+              "xlargeheight": "421"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/fashion/04FOURQUESTIONS/04FOURQUESTIONS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/fashion/04FOURQUESTIONS/04FOURQUESTIONS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Retail Magic in the Meatpacking District",
+          "content_kicker": "Four Questions",
+          "kicker": "Four Questions",
+          "print_headline": "Retail Magic in the Meatpacking District"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kalinsky, Jeffrey"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Jeffrey (Manhattan, NY, Retailer)"
+          }
+        ],
+        "pub_date": "2016-11-03T22:46:44Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Men\u2019s Style",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Max",
+              "rank": 1,
+              "lastname": "BERLINGER"
+            }
+          ],
+          "original": "By MAX BERLINGER"
+        },
+        "type_of_material": "News",
+        "_id": "581bbe5d95d0e01ffc1e15b3",
+        "word_count": "424",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/arts/comedy-listings-for-nov-4-10.html",
+        "snippet": "A selected guide to stand-up, improv and comedy shows in New York City....",
+        "lead_paragraph": "A selected guide to stand-up, improv and comedy shows in New York City.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/arts/04LISTINGSCOMEDY/04LISTINGSCOMEDY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/arts/04LISTINGSCOMEDY/04LISTINGSCOMEDY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/arts/04LISTINGSCOMEDY/04LISTINGSCOMEDY-articleLarge.jpg",
+            "height": 825,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/arts/04LISTINGSCOMEDY/04LISTINGSCOMEDY-articleLarge.jpg",
+              "xlargeheight": "825"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/arts/04LISTINGSCOMEDY/04LISTINGSCOMEDY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/arts/04LISTINGSCOMEDY/04LISTINGSCOMEDY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Comedy Listings for Nov. 4-10",
+          "print_headline": "The Listings: Comedy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          }
+        ],
+        "pub_date": "2016-11-03T22:46:37Z",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "581bbe5295d0e01ffc1e15b2",
+        "word_count": "626",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-water-tower-cat.html",
+        "snippet": "A cat stuck for days on a converted water tower didn't have to cash in one of its nine lives....",
+        "lead_paragraph": "A cat stuck for days on a converted water tower didn't have to cash in one of its nine lives.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "A Hairy Situation: Rescuers Save Cat Stuck on Water Tower",
+          "print_headline": "A Hairy Situation: Rescuers Save Cat Stuck on Water Tower"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:45:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bbe3495d0e01ffc1e15b1",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-oil-pipeline-protest-the-latest.html",
+        "snippet": "The Latest on protests and other developments surrounding the construction of the Dakota Access oil pipeline in North Dakota (all times local):...",
+        "lead_paragraph": "The Latest on protests and other developments surrounding the construction of the Dakota Access oil pipeline in North Dakota (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: 17 Protesters Arrested at North Dakota Capitol",
+          "print_headline": "The Latest: 17 Protesters Arrested at North Dakota Capitol"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:45:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bbe2295d0e01ffc1e15b0",
+        "word_count": "597",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/us/politics/freedom-caucus-paul-ryan.html",
+        "snippet": "Freedom Caucus members look to increase their clout as a check against a potential Clinton presidency, and possibly against their own party leadership....",
+        "lead_paragraph": "Freedom Caucus members look to increase their clout as a check against a potential Clinton presidency, and possibly against their own party leadership.",
+        "abstract": "Number of political pundits speculate 2016 elections will bring even more polarization to House, leaving smaller, more conservative Republican majority willing to challenge Speaker Paul D Ryan.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/us/04house/04house-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/us/04house/04house-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/us/04house/04house-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/us/04house/04house-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/us/04house/04house-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/us/04house/04house-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Narrower Majority for Republicans Could Widen the House Divide",
+          "print_headline": "Narrower G.O.P. Margin Could Widen House Divide"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House Freedom Caucus"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elections, House of Representatives"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ryan, Paul D Jr"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-11-03T22:44:22Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Emmarie",
+              "rank": 1,
+              "lastname": "HUETTEMAN"
+            }
+          ],
+          "original": "By EMMARIE HUETTEMAN"
+        },
+        "type_of_material": "News",
+        "_id": "581bbdcd95d0e01ffc1e15af",
+        "word_count": "1021",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-ranching-standoff-plea-bargain-turmoil.html",
+        "snippet": "An occupier of an Oregon wildlife refuge who took a plea deal before seven co-defendants were acquitted of the same charge says his lawyer is talking with prosecutors and withdrawing his guilty plea is a possibility....",
+        "lead_paragraph": "An occupier of an Oregon wildlife refuge who took a plea deal before seven co-defendants were acquitted of the same charge says his lawyer is talking with prosecutors and withdrawing his guilty plea is a possibility.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Those Who Took Plea Deals in Oregon Standoff Weigh Options",
+          "print_headline": "Those Who Took Plea Deals in Oregon Standoff Weigh Options"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:43:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bbd8b95d0e01ffc1e15ae",
+        "word_count": "136",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-colorado-pot-harvest-photo-gallery.html",
+        "snippet": "Los Suenos Farms in southern Colorado isn't just any farm. It's believed to be America's largest legal open air marijuana farm, and the fall is harvest time....",
+        "lead_paragraph": "Los Suenos Farms in southern Colorado isn't just any farm. It's believed to be America's largest legal open air marijuana farm, and the fall is harvest time.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP PHOTOS: Harvest at Largest Legal Open Air US Pot Farm",
+          "print_headline": "AP PHOTOS: Harvest at Largest Legal Open Air US Pot Farm"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:43:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bbd8095d0e01ffc1e15ad",
+        "word_count": "117",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/03/us/ap-us-casino-power-outage-evacuation.html",
+        "snippet": "A contractor knocked out power Thursday to a Las Vegas Strip resort, displacing thousands of guests and gamblers, trapping almost a dozen people in elevators for a time, and prompting a room-to-room search of the 33-story tower looking for straggl...",
+        "lead_paragraph": "A contractor knocked out power Thursday to a Las Vegas Strip resort, displacing thousands of guests and gamblers, trapping almost a dozen people in elevators for a time, and prompting a room-to-room search of the 33-story tower looking for stragglers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Paris Las Vegas Resort Crippled by Accidental Power-Line Cut",
+          "print_headline": "Paris Las Vegas Resort Crippled by Accidental Power-Line Cut"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-03T22:42:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581bbd7795d0e01ffc1e15ab",
+        "word_count": "505",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

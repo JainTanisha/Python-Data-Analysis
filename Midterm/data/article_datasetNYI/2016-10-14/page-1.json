@@ -1,0 +1,423 @@
+{
+  "response": {
+    "meta": {
+      "hits": 973,
+      "time": 60,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/sports/ap-car-nascar-kansas-qualifying.html",
+        "snippet": "Joe Gibbs Racing made another big statement in qualifying at Kansas Speedway on Friday....",
+        "lead_paragraph": "Joe Gibbs Racing made another big statement in qualifying at Kansas Speedway on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kenseth Leads JGR Power in Sprint Cup Qualifying at Kansas",
+          "print_headline": "Kenseth Leads JGR Power in Sprint Cup Qualifying at Kansas"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:39:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58016d9c95d0e022439c34f9",
+        "word_count": "528",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/ap-us-terrorist-threats-florida.html",
+        "snippet": "Authorities say a Pensacola man mailed a letter to a Florida sheriff's office threatening multiple terrorist attacks....",
+        "lead_paragraph": "Authorities say a Pensacola man mailed a letter to a Florida sheriff's office threatening multiple terrorist attacks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Charged With Sending Terrorist Threats to Sheriff",
+          "print_headline": "Man Charged With Sending Terrorist Threats to Sheriff"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:01:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58016c2e95d0e022439c34f8",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/15/world/europe/syria-russia-putin-kremlin.html",
+        "snippet": "Some analysts believe the Russian leader\u2019s strong response to criticism from Western leaders may be a way to deflect attention from simmering domestic problems....",
+        "lead_paragraph": "Some analysts believe the Russian leader\u2019s strong response to criticism from Western leaders may be a way to deflect attention from simmering domestic problems.",
+        "abstract": "Some analysts say Pres Vladimir Putin's extreme reaction to suggestion from United States that Russia should be investigated for war crimes has motives beyond Syria and Russia's position on world stage; commentators say threats and swagger serve to distract from budget holes and cuts at home.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/world/PUTIN/PUTIN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/world/PUTIN/PUTIN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/world/PUTIN/PUTIN-articleLarge.jpg",
+            "height": 481,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/world/PUTIN/PUTIN-articleLarge.jpg",
+              "xlargeheight": "481"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/world/PUTIN/PUTIN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/world/PUTIN/PUTIN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Behind Putin\u2019s Combativeness, Some See Motives Other Than Syria",
+          "print_headline": "Behind Putin\u2019s Combativeness, Some See Motives Other Than Syria"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Syria"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Assad, Bashar al-"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          }
+        ],
+        "pub_date": "2016-10-14T23:29:11+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Ivan Nechepurenko and Oleg Matsnev contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neil",
+              "rank": 1,
+              "lastname": "MacFARQUHAR"
+            }
+          ],
+          "original": "By NEIL MacFARQUHAR"
+        },
+        "type_of_material": "News",
+        "_id": "58016a4e95d0e022439c34f7",
+        "word_count": "1231",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/world/europe/14reuters-global-cities-women.html",
+        "snippet": "Less than five percent of cities are&#160;led by women and&#160;their lack of political participation is hampering progress in meeting international goals on making cities more sustainable and inclusive, a group of female mayors said on Friday....",
+        "lead_paragraph": "Less than five percent of cities are&#160;led by women and&#160;their lack of political participation is hampering progress in meeting international goals on making cities more sustainable and inclusive, a group of female mayors said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "'Elect More Women to Build Sustainable, Inclusive Cities': Female Mayors' Group",
+          "print_headline": "'Elect More Women to Build Sustainable, Inclusive Cities': Female Mayors' Group"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:22:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801693795d0e022439c34f6",
+        "word_count": "620",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/business/14reuters-eu-lobsters-usa-canada.html",
+        "snippet": "The European Union has rebuffed a Swedish push to ban live imports of a species of North American lobsters it saw encroaching on its shores, in a reprieve for U.S. and Canadian fishermen....",
+        "lead_paragraph": "The European Union has rebuffed a Swedish push to ban live imports of a species of North American lobsters it saw encroaching on its shores, in a reprieve for U.S. and Canadian fishermen.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "EU Rebuffs Swedish Call to Ban North American Lobster Imports",
+          "print_headline": "EU Rebuffs Swedish Call to Ban North American Lobster Imports"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:19:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5801688895d0e022439c34f5",
+        "word_count": "151",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/arts/ap-us-news-shows.html",
+        "snippet": "Guest lineups for the Sunday TV news shows:...",
+        "lead_paragraph": "Guest lineups for the Sunday TV news shows:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Guest Lineups for the Sunday News Shows",
+          "print_headline": "Guest Lineups for the Sunday News Shows"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:14:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801680f95d0e022439c34f4",
+        "word_count": "70",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/14/business/14reuters-britain-energy.html",
+        "snippet": "Britain should support large-scale electricity storage schemes to help make intermittent renewable energy sources such as wind and solar power available around the clock, a parliamentary committee report said on Saturday....",
+        "lead_paragraph": "Britain should support large-scale electricity storage schemes to help make intermittent renewable energy sources such as wind and solar power available around the clock, a parliamentary committee report said on Saturday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Britain Should Back Large-Scale Energy Storage-Parliamentary Committee",
+          "print_headline": "Britain Should Back Large-Scale Energy Storage-Parliamentary Committee"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:16:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580167cf95d0e022439c34f3",
+        "word_count": "286",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/ap-fbc-notre-dame-players-arrested.html",
+        "snippet": "South Bend's police chief says the officers involved in the arrest of Notre Dame football player Devin Butler have been cleared of any wrongdoing....",
+        "lead_paragraph": "South Bend's police chief says the officers involved in the arrest of Notre Dame football player Devin Butler have been cleared of any wrongdoing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "South Bend Police Cleared in Arrest of Notre Dame's Butler",
+          "print_headline": "South Bend Police Cleared in Arrest of Notre Dame's Butler"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:04:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801654295d0e022439c34f2",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/10/14/us/trump-men-callout.html",
+        "snippet": "We\u2019d like to hear how the allegations of sexual misconduct against Donald J. Trump are playing out in people\u2019s relationships. Please share your story with us....",
+        "lead_paragraph": "We\u2019d like to hear how the allegations of sexual misconduct against Donald J. Trump are playing out in people\u2019s relationships. Please share your story with us.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/14/us/trump-men-callout-1476486243881/trump-men-callout-1476486243881-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/14/us/trump-men-callout-1476486243881/trump-men-callout-1476486243881-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/14/us/trump-men-callout-1476486243881/trump-men-callout-1476486243881-articleLarge.png",
+            "height": 336,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/14/us/trump-men-callout-1476486243881/trump-men-callout-1476486243881-articleLarge.png",
+              "xlargeheight": "336"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/14/us/trump-men-callout-1476486243881/trump-men-callout-1476486243881-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/14/us/trump-men-callout-1476486243881/trump-men-callout-1476486243881-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump\u2019s Comments and Your Relationship"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "5801650295d0e022439c34f1",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/14/us/politics/ap-us-campaign-2016-trump-accusers.html",
+        "snippet": "Two more women have joined the list of those who say they were assaulted, groped or kissed without consent by Republican presidential nominee Donald Trump....",
+        "lead_paragraph": "Two more women have joined the list of those who say they were assaulted, groped or kissed without consent by Republican presidential nominee Donald Trump.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "News Guide: Trump Faces Accusations From More Women",
+          "print_headline": "News Guide: Trump Faces Accusations From More Women"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-14T23:00:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5801648495d0e022439c34f0",
+        "word_count": "669",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

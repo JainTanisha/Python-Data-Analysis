@@ -1,0 +1,601 @@
+{
+  "response": {
+    "meta": {
+      "hits": 419,
+      "time": 55,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/arts/music/london-listening-clubs-spiritland.html",
+        "snippet": "By emphasizing audio quality above all else, clubs with rarefied hi-fi equipment have become a mecca for listeners who crave an emotional connection to music....",
+        "lead_paragraph": "By emphasizing audio quality above all else, clubs with rarefied hi-fi equipment have become a mecca for listeners who crave an emotional connection to music.",
+        "abstract": "Listening clubs around London give audiophiles opportunity to hear music played on top-quality hi-fi equipment in public setting. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31HIFICLUBS1/31HIFICLUBS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31HIFICLUBS1/31HIFICLUBS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31HIFICLUBS1/31HIFICLUBS1-articleLarge.jpg",
+            "height": 392,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31HIFICLUBS1/31HIFICLUBS1-articleLarge.jpg",
+              "xlargeheight": "392"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31HIFICLUBS1/31HIFICLUBS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31HIFICLUBS1/31HIFICLUBS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Listening Clubs Tantalize Audiophiles in London",
+          "print_headline": "Listening Clubs Enthrall London\u2019s Audiophiles"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mancuso, David (1944- )"
+          },
+          {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Speakers (Audio)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bars and Nightclubs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Disc Jockeys"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "London (England)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Classic Album Sundays"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Gearbox Records"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Lucky Cloud Sound System"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Spiritland (London, England, Bar)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Murphy, Colleen (1968- )"
+          }
+        ],
+        "pub_date": "2016-10-30T21:19:19+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Frederick",
+              "rank": 1,
+              "lastname": "BERNAS"
+            }
+          ],
+          "original": "By FREDERICK BERNAS"
+        },
+        "type_of_material": "News",
+        "_id": "581663e095d0e022439c613b",
+        "word_count": "1186",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/business/30reuters-lufthansa-eurowings-unions.html",
+        "snippet": "Cabin crew trade union UFO has rejected an offer to mediate a dispute over pay and conditions with Lufthansa's budget flights unit Eurowings, Lufthansa said on Sunday, raising the probability of strike action....",
+        "lead_paragraph": "Cabin crew trade union UFO has rejected an offer to mediate a dispute over pay and conditions with Lufthansa's budget flights unit Eurowings, Lufthansa said on Sunday, raising the probability of strike action.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Union Rejects Lufthansa's Eurowings Arbitration Offer",
+          "print_headline": "Union Rejects Lufthansa's Eurowings Arbitration Offer"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:15:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581662fa95d0e022439c613a",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/arts/television/people-of-earth-review.html",
+        "snippet": "This new TBS comedy, starring Wayne Cenac, concerns a recovery group whose members have survived extraterrestrial captivity....",
+        "lead_paragraph": "This new TBS comedy, starring Wayne Cenac, concerns a recovery group whose members have survived extraterrestrial captivity.",
+        "abstract": "Mike Hale reviews TBS television series People of Earth, starring comedian Wyatt Cenac. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/arts/31PEOPLEEARTH/31PEOPLEEARTH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/arts/31PEOPLEEARTH/31PEOPLEEARTH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/arts/31PEOPLEEARTH/31PEOPLEEARTH-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/arts/31PEOPLEEARTH/31PEOPLEEARTH-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/arts/31PEOPLEEARTH/31PEOPLEEARTH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/arts/31PEOPLEEARTH/31PEOPLEEARTH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: The Alien Abductees of \u2018People of Earth\u2019 Keep the Humor Grounded",
+          "print_headline": "Extraterrestrials Meet Earthly Eccentrics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "People of Earth (TV Program)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cenac, Wyatt"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "TBS Network"
+          }
+        ],
+        "pub_date": "2016-10-30T21:11:48+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "HALE"
+            }
+          ],
+          "original": "By MIKE HALE"
+        },
+        "type_of_material": "Review",
+        "_id": "5816622295d0e022439c6139",
+        "word_count": "562",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/sports/autoracing/30reuters-motor-f1-mexico.html",
+        "snippet": "Lewis Hamilton won the Mexican Formula One Grand Prix on Sunday, his landmark 51st career victory cutting Mercedes team mate Nico Rosberg's overall lead to 19 points and keeping the German waiting for a first title....",
+        "lead_paragraph": "Lewis Hamilton won the Mexican Formula One Grand Prix on Sunday, his landmark 51st career victory cutting Mercedes team mate Nico Rosberg's overall lead to 19 points and keeping the German waiting for a first title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Hamilton Wins in Mexico but Rosberg Is Right Behind",
+          "print_headline": "Hamilton Wins in Mexico but Rosberg Is Right Behind"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T21:00:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Auto Racing",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58165f7295d0e022439c6138",
+        "word_count": "659",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/sports/football/new-york-jets-cleveland-browns-quincy-enunwa.html",
+        "snippet": "The Jets endured a scolding after a miserable first half but scored 24 second-half points to spare themselves the indignity of delivering the Browns\u2019 first win....",
+        "lead_paragraph": "The Jets endured a scolding after a miserable first half but scored 24 second-half points to spare themselves the indignity of delivering the Browns\u2019 first win.",
+        "abstract": "New York Jets defeat Cleveland Browns, 31-28.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/sports/31JETSweb1/31JETSweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/sports/31JETSweb1/31JETSweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/sports/31JETSweb1/31JETSweb1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/sports/31JETSweb1/31JETSweb1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/sports/31JETSweb1/31JETSweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/sports/31JETSweb1/31JETSweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Jets Again Look All but Helpless, and Then the Second Half Starts",
+          "content_kicker": "Jets 31, Browns 28",
+          "kicker": "Jets 31, Browns 28",
+          "print_headline": "Jets Again Look All but Helpless, and Then the Second Half Starts"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Jets"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Cleveland Browns"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Fitzpatrick, Ryan"
+          }
+        ],
+        "pub_date": "2016-10-30T20:58:41+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "SHPIGEL"
+            }
+          ],
+          "original": "By BEN SHPIGEL"
+        },
+        "type_of_material": "News",
+        "_id": "58165f0995d0e022439c6137",
+        "word_count": "1009",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/opinion/heng-on-pakistans-militant-insurgency.html",
+        "snippet": "A recent attack showed that extremist groups remain a potent threat for the Pakistani military and security forces....",
+        "lead_paragraph": "A recent attack showed that extremist groups remain a potent threat for the Pakistani military and security forces.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/opinion/31heng-inyt/31heng-inyt-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/opinion/31heng-inyt/31heng-inyt-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/opinion/31heng-inyt/31heng-inyt-articleLarge.jpg",
+            "height": 433,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/opinion/31heng-inyt/31heng-inyt-articleLarge.jpg",
+              "xlargeheight": "433"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/opinion/31heng-inyt/31heng-inyt-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/opinion/31heng-inyt/31heng-inyt-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Heng on Pakistan\u2019s Militant Insurgency",
+          "content_kicker": "Heng",
+          "kicker": "Heng"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Pakistan"
+          }
+        ],
+        "pub_date": "2016-10-30T20:55:38+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Op-Ed",
+        "_id": "58165e5395d0e022439c6136",
+        "word_count": "18",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/football/ap-fbn-chiefs-colts.html",
+        "snippet": "Nick Foles threw two touchdown passes in relief of the injured Alex Smith to help the Kansas City Chiefs hold off Indianapolis 30-14 on Sunday....",
+        "lead_paragraph": "Nick Foles threw two touchdown passes in relief of the injured Alex Smith to help the Kansas City Chiefs hold off Indianapolis 30-14 on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Foles Lifts Chiefs Past Colts 30-14",
+          "print_headline": "Foles Lifts Chiefs Past Colts 30-14"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T20:54:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58165e2095d0e022439c6135",
+        "word_count": "633",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/ap-car-f1-mexican-grand-prix.html",
+        "snippet": "Lewis Hamilton is in top form and winning races again. His problem is that he's running out of time to win another Formula One championship....",
+        "lead_paragraph": "Lewis Hamilton is in top form and winning races again. His problem is that he's running out of time to win another Formula One championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hamilton Wins Mexican Grand Prix in Chase to Catch Rosberg",
+          "print_headline": "Hamilton Wins Mexican Grand Prix in Chase to Catch Rosberg"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T20:51:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58165d7595d0e022439c6134",
+        "word_count": "676",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/world/asia/30reuters-pakistan-politics-khan.html",
+        "snippet": "Pakistani opposition leader Imran Khan on Sunday dismissed accusations his planned shutdown of the nation's capital could lead to a military coup, saying Prime Minister Nawaz Sharif \"can't hide behind 'democracy in danger'\" to quash protests....",
+        "lead_paragraph": "Pakistani opposition leader Imran Khan on Sunday dismissed accusations his planned shutdown of the nation's capital could lead to a military coup, saying Prime Minister Nawaz Sharif \"can't hide behind 'democracy in danger'\" to quash protests.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Imran Khan Says Mass Protest No Danger to Pakistan Democracy",
+          "print_headline": "Imran Khan Says Mass Protest No Danger to Pakistan Democracy"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T20:51:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58165d5a95d0e022439c6133",
+        "word_count": "878",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/ap-car-nascar-martinsville.html",
+        "snippet": "There was a time this summer when a seventh championship seemed out of reach for Jimmie Johnson....",
+        "lead_paragraph": "There was a time this summer when a seventh championship seemed out of reach for Jimmie Johnson.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnson Wins Martinsville to Gain Spot in NASCAR's Finale",
+          "print_headline": "Johnson Wins Martinsville to Gain Spot in NASCAR's Finale"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T20:48:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58165cb795d0e022439c6132",
+        "word_count": "933",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

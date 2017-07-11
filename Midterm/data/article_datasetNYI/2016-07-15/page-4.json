@@ -1,0 +1,530 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1011,
+      "time": 134,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/asia/15reuters-japan-turkey-abe.html",
+        "snippet": "Japanese Prime Minister Shinzo Abe said on Saturday he was concerned about the situation in Turkey, where officials said a faction of the armed forces had attempted to stage a coup....",
+        "lead_paragraph": "Japanese Prime Minister Shinzo Abe said on Saturday he was concerned about the situation in Turkey, where officials said a faction of the armed forces had attempted to stage a coup.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan PM Abe: Concerned About Situation in Turkey",
+          "print_headline": "Japan PM Abe: Concerned About Situation in Turkey"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:18:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57898cd538f0d829e63ddf1a",
+        "word_count": "73",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/16/us/david-margolis-a-justice-department-institution-dies-at-76.html",
+        "snippet": "Known for a sharp legal mind and unpredictable attire, Mr. Margolis over 50 years led some of the nation\u2019s biggest mobster and espionage investigations....",
+        "lead_paragraph": "Known for a sharp legal mind and unpredictable attire, Mr. Margolis over 50 years led some of the nation\u2019s biggest mobster and espionage investigations.",
+        "abstract": "David Margolis, renowned federal prosecutor who helped Justice Dept navigate some of its highest-profile cases in career that spanned more than five decades under nine presidents, dies at age 76.",
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/16/us/margolis-obit-1/margolis-obit-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/16/us/margolis-obit-1/margolis-obit-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/16/us/margolis-obit-1/margolis-obit-1-articleLarge.jpg",
+            "height": 883,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/16/us/margolis-obit-1/margolis-obit-1-articleLarge.jpg",
+              "xlargeheight": "883"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/16/us/margolis-obit-1/margolis-obit-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/16/us/margolis-obit-1/margolis-obit-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "David Margolis, a Justice Department Institution, Dies at 76",
+          "print_headline": "David Margolis, Justice Department Institution, Dies at 76"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Margolis, David (1939-2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          }
+        ],
+        "pub_date": "2016-07-15T21:24:13+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "LICHTBLAU"
+            }
+          ],
+          "original": "By ERIC LICHTBLAU"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5789548238f0d829e63dde81",
+        "word_count": "843",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/us/ap-us-hawaii-utility-merger.html",
+        "snippet": "The Hawaii Public Utilities Commission has voted to not approve a merger between Florida-based NextEra and Hawaii's largest utility, saying the companies didn't show they would provide adequate benefits to ratepayers or help the state meet its agg...",
+        "lead_paragraph": "The Hawaii Public Utilities Commission has voted to not approve a merger between Florida-based NextEra and Hawaii's largest utility, saying the companies didn't show they would provide adequate benefits to ratepayers or help the state meet its aggressive renewable energy goals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hawaii Commission Says No to Major Electric Utility Merger",
+          "print_headline": "Hawaii Commission Says No to Major Electric Utility Merger"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:18:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57898c2338f0d829e63ddf18",
+        "word_count": "529",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/16/arts/music/heard-of-aureliano-in-palmira-you-probably-know-the-overture-rossini-opera.html",
+        "snippet": "This 1813 opera seria by Rossini \u2014 part of which was recycled in a more famous comedy \u2014 will have its American premiere at Caramoor on Saturday....",
+        "lead_paragraph": "This 1813 opera seria by Rossini \u2014 part of which was recycled in a more famous comedy \u2014 will have its American premiere at Caramoor on Saturday.",
+        "abstract": "Corinna da Fonseca-Wollheim Critic's Notebook discusses rarely-performed Rossini opera Aureliano in Palmira, which features same overture as comedy The Barber of Seville and has contemporary resonance for being set in currently besieged Syrian city of Palmyra; notes Orchestra of St Luke\u2019s will give work its American premiere as part of Bel Canto at Caramoor series in Katonah, NY.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/16/arts/16ROSSINI/16ROSSINI-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/16/arts/16ROSSINI/16ROSSINI-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/16/arts/16ROSSINI/16ROSSINI-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/16/arts/16ROSSINI/16ROSSINI-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/16/arts/16ROSSINI/16ROSSINI-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/16/arts/16ROSSINI/16ROSSINI-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Heard of \u2018Aureliano in Palmira\u2019? You Probably Know the Overture",
+          "content_kicker": "Critic's Notebook",
+          "kicker": "Critic's Notebook",
+          "print_headline": "That Overture Sounds So Familiar"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Orchestra of St Luke's"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rossini, Gioacchino"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Caramoor International Music Festival"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Crutchfield, Will"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Aureliano in Palmira (Opera)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Palmyra (Syria)"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-07-15T21:20:04+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By CORINNA da FONSECA-WOLLHEIM"
+        },
+        "type_of_material": "News",
+        "_id": "5789538b38f0d829e63dde78",
+        "word_count": "774",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/us/ap-us-california-election-the-latest.html",
+        "snippet": "The Latest on California's June 7, 2016 primary (all times local):...",
+        "lead_paragraph": "The Latest on California's June 7, 2016 primary (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: California Finalizes June Primary Results",
+          "print_headline": "The Latest: California Finalizes June Primary Results"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:10:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57898a0838f0d829e63ddf15",
+        "word_count": "282",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-erdogan-istanbul.html",
+        "snippet": "Turkish President Tayyip Erdogan emerged to crowds of supporters at Istanbul's main Ataturk airport early on Saturday after what officials said had been a coup attempt by a faction within the armed forces, footage on broadcaster NTV showed....",
+        "lead_paragraph": "Turkish President Tayyip Erdogan emerged to crowds of supporters at Istanbul's main Ataturk airport early on Saturday after what officials said had been a coup attempt by a faction within the armed forces, footage on broadcaster NTV showed.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey's Erdogan Appears Among Crowds in Istanbul After Coup Attempt",
+          "print_headline": "Turkey's Erdogan Appears Among Crowds in Istanbul After Coup Attempt"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:09:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57898a0238f0d829e63ddf14",
+        "word_count": "92",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-blast-istanbul.html",
+        "snippet": "Two loud explosions were hear near Taksim square in central Istanbul, Reuters witnesses reported early on Saturday....",
+        "lead_paragraph": "Two loud explosions were hear near Taksim square in central Istanbul, Reuters witnesses reported early on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Two Loud Explosions Heard in Central Istanbul: Reuters Witnesses",
+          "print_headline": "Two Loud Explosions Heard in Central Istanbul: Reuters Witnesses"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:03:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578988a338f0d829e63ddf11",
+        "word_count": "40",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-broadcaster-cnn.html",
+        "snippet": "Turkish private broadcaster CNN Turk halted its live news broadcast early on Saturday, as a presenter said soldiers had entered the studio control room....",
+        "lead_paragraph": "Turkish private broadcaster CNN Turk halted its live news broadcast early on Saturday, as a presenter said soldiers had entered the studio control room.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey's CNN Turk Halts Broadcast, Gunfire Heard",
+          "print_headline": "Turkey's CNN Turk Halts Broadcast, Gunfire Heard"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:03:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578988a238f0d829e63ddf10",
+        "word_count": "74",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/sports/15reuters-sport-doping-mixed-martial-arts-lesnar.html",
+        "snippet": "Former Ultimate Fighting Championship (UFC) heavyweight champion Brock Lesnar has been flagged by the U.S. Anti-Doping Agency (USADA) for a possible doping violation, the UFC said on Friday....",
+        "lead_paragraph": "Former Ultimate Fighting Championship (UFC) heavyweight champion Brock Lesnar has been flagged by the U.S. Anti-Doping Agency (USADA) for a possible doping violation, the UFC said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Lesnar Flagged for Doping, Says UFC",
+          "print_headline": "Lesnar Flagged for Doping, Says UFC"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T21:03:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578988a238f0d829e63ddf0f",
+        "word_count": "173",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/nyregion/review-at-the-country-bistro-the-feel-of-vacation.html",
+        "snippet": "The restaurant has evolved from a breakfast and lunch spot to one that serves dinner as well....",
+        "lead_paragraph": "The restaurant has evolved from a breakfast and lunch spot to one that serves dinner as well.",
+        "abstract": "Christopher Brooks reviews Country Bistro restaurant in Salisbury (Metropolitan/Connecticut). ",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/nyregion/17DINECT1/17DINECT1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/nyregion/17DINECT1/17DINECT1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/nyregion/17DINECT1/17DINECT1-articleLarge.jpg",
+            "height": 350,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/nyregion/17DINECT1/17DINECT1-articleLarge.jpg",
+              "xlargeheight": "350"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/nyregion/17DINECT1/17DINECT1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/nyregion/17DINECT1/17DINECT1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: At the Country Bistro, the Feel of Vacation",
+          "content_kicker": "Dining | Connecticut",
+          "kicker": "Dining | Connecticut",
+          "print_headline": "Where It Feels Like Vacation"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Restaurants"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Country Bistro (Salisbury, Conn, Restaurant)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Salisbury (Conn)"
+          }
+        ],
+        "pub_date": "2016-07-15T21:05:14+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1,
+              "lastname": "BROOKS"
+            }
+          ],
+          "original": "By CHRISTOPHER BROOKS"
+        },
+        "type_of_material": "News",
+        "_id": "5789500f38f0d829e63dde6e",
+        "word_count": "750",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

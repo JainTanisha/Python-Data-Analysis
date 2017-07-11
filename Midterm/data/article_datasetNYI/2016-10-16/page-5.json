@@ -1,0 +1,554 @@
+{
+  "response": {
+    "meta": {
+      "hits": 445,
+      "time": 74,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/business/treasury-auctions-set-for-the-week-of-oct-17.html",
+        "snippet": "The following tax-exempt fixed-income issues are scheduled for pricing this week....",
+        "lead_paragraph": "The following tax-exempt fixed-income issues are scheduled for pricing this week.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Treasury Auctions Set for the Week of Oct. 17",
+          "print_headline": "U.S. Treasury Auctions to Be Held the Week of Oct. 17"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Stocks and Bonds"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Municipal Bonds"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Government Bonds"
+          }
+        ],
+        "pub_date": "2016-10-16T21:47:04+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "5803f55e95d0e022439c37f2",
+        "word_count": "1063",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/ap-car-nascar-kansas.html",
+        "snippet": "No matter what kind of misfortune befalls Kevin Harvick in the early rounds of the Chase for the Sprint Cup championship, his team always seems to get things together when it matters....",
+        "lead_paragraph": "No matter what kind of misfortune befalls Kevin Harvick in the early rounds of the Chase for the Sprint Cup championship, his team always seems to get things together when it matters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kevin Harvick Wins at Kansas to Reach Next Round of Chase",
+          "print_headline": "Kevin Harvick Wins at Kansas to Reach Next Round of Chase"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:39:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f45d95d0e022439c37f1",
+        "word_count": "753",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004711534/proposition-13-mad-as-hell.html",
+        "snippet": "In 1978, California voters passed Proposition 13, which lowered property taxes for millions of the state's homeowners. Decades later, what has it meant?...",
+        "lead_paragraph": "In 1978, California voters passed Proposition 13, which lowered property taxes for millions of the state's homeowners. Decades later, what has it meant?",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/multimedia/retro-prop13/retro-prop13-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/multimedia/retro-prop13/retro-prop13-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/multimedia/retro-prop13/retro-prop13-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/multimedia/retro-prop13/retro-prop13-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/multimedia/retro-prop13/retro-prop13-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/multimedia/retro-prop13/retro-prop13-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Proposition 13: Mad as Hell"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Referendums"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "California"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brown, Edmund G Jr"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Property Taxes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gann, Paul (1912-89)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Jarvis, Howard (1903-86)"
+          }
+        ],
+        "pub_date": "2016-10-16T21:38:50+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Retro",
+              "rank": 1,
+              "lastname": "REPORT"
+            }
+          ],
+          "original": "By RETRO REPORT"
+        },
+        "type_of_material": "Video",
+        "_id": "5803f37195d0e022439c37ef",
+        "word_count": "23",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/theater/review-orwell-in-america.html",
+        "snippet": "Jamie Horton gives a strong performance as George Orwell in an otherwise standard play at 59E59 Theaters that imagines Orwell promoting \u201cAnimal Farm\u201d in the United States....",
+        "lead_paragraph": "Jamie Horton gives a strong performance as George Orwell in an otherwise standard play at 59E59 Theaters that imagines Orwell promoting \u201cAnimal Farm\u201d in the United States.",
+        "abstract": "Ken Jaworowski reviews Joe Sutton play Orwell in America, directed by Peter Hackett and starring Jamie Horton and Jeanna de Waal, at 59E59 Theaters. ",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/17ORWELL/17ORWELL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/17ORWELL/17ORWELL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/17ORWELL/17ORWELL-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/17ORWELL/17ORWELL-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/17ORWELL/17ORWELL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/17ORWELL/17ORWELL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: A Dynamic Actor Redeems \u2018Orwell in America\u2019",
+          "print_headline": "Politics and Literature in a Postwar World"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Orwell in America (Play)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sutton, Joe"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hackett, Peter"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Horton, Jamie"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Orwell, George"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "59E59 Theaters"
+          }
+        ],
+        "pub_date": "2016-10-16T21:38:15+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ken",
+              "rank": 1,
+              "lastname": "JAWOROWSKI"
+            }
+          ],
+          "original": "By KEN JAWOROWSKI"
+        },
+        "type_of_material": "Review",
+        "_id": "5803f34a95d0e022439c37ee",
+        "word_count": "429",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/us/ap-us-zion-visitors-limit.html",
+        "snippet": "Zion National Park's continuing popularity has sparked discussions of limiting the number of visitors....",
+        "lead_paragraph": "Zion National Park's continuing popularity has sparked discussions of limiting the number of visitors.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Zion National Park May Start Limiting Number of Visitors",
+          "print_headline": "Zion National Park May Start Limiting Number of Visitors"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T17:07:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f23895d0e022439c37ed",
+        "word_count": "123",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/soccer/bc-soc-mls-nycfc-united.html",
+        "snippet": "Patrick Mullins had a goal and an assist and D.C. United clinched a third consecutive MLS Cup playoff appearance with a 3-1 victory over New York City FC on Sunday....",
+        "lead_paragraph": "Patrick Mullins had a goal and an assist and D.C. United clinched a third consecutive MLS Cup playoff appearance with a 3-1 victory over New York City FC on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "United Clinches Playoff Berth With 3-1 Win Over NYCFC",
+          "print_headline": "United Clinches Playoff Berth With 3-1 Win Over NYCFC"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:25:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f0d295d0e022439c37eb",
+        "word_count": "159",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/arts/music/ices-founder-claire-chase-will-relinquish-leadership-role.html",
+        "snippet": "Ms. Chase, who started the International Contemporary Ensemble in 2001, said she wanted to spend more time performing with the music collective and playing solo....",
+        "lead_paragraph": "Ms. Chase, who started the International Contemporary Ensemble in 2001, said she wanted to spend more time performing with the music collective and playing solo.",
+        "abstract": "Claire Chase, flutist and founder of International Contemporary Ensemble, steps down from leadership position there to become member of band and devote more time to growing career as soloist. ",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/17ICE1/17ICE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/17ICE1/17ICE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/17ICE1/17ICE1-articleLarge.jpg",
+            "height": 404,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/17ICE1/17ICE1-articleLarge.jpg",
+              "xlargeheight": "404"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/17ICE1/17ICE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/17ICE1/17ICE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "ICE\u2019s Founder, Claire Chase, Will Relinquish Leadership Role",
+          "print_headline": "Ensemble\u2019s Founder to Relinquish Role"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "International Contemporary Ensemble"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Chase, Claire"
+          }
+        ],
+        "pub_date": "2016-10-16T21:24:42+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By MICHAEL COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "5803f02295d0e022439c37e9",
+        "word_count": "1149",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/soccer/bc-soc-mls-crew-red-bulls.html",
+        "snippet": "Bradley Wright-Phillips scored his 22nd and 23rd goals of the season to break a tie for the Golden Boot lead and the New York Red Bulls beat the Columbus Crew 3-2 on Sunday....",
+        "lead_paragraph": "Bradley Wright-Phillips scored his 22nd and 23rd goals of the season to break a tie for the Golden Boot lead and the New York Red Bulls beat the Columbus Crew 3-2 on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Wright-Phillips Scores 2 Goals for Lead in Golden Boot Race",
+          "print_headline": "Wright-Phillips Scores 2 Goals for Lead in Golden Boot Race"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:23:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f02495d0e022439c37ea",
+        "word_count": "198",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/us/ap-us-alaska-police-officer-shot.html",
+        "snippet": "The Fairbanks Police Department has identified the officer who was shot early Sunday as an 11-year veteran of the force....",
+        "lead_paragraph": "The Fairbanks Police Department has identified the officer who was shot early Sunday as an 11-year veteran of the force.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Alaska Officer Shot Identified as 11-Year Veteran of Force",
+          "print_headline": "Alaska Officer Shot Identified as 11-Year Veteran of Force"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:22:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803f01795d0e022439c37e8",
+        "word_count": "137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/football/ap-fbn-panthers-saints.html",
+        "snippet": "After Drew Brees broke another NFL record with his latest 400-plus-yard passing performance, he stood on a podium and moved his right hand in an ascending motion while discussing the direction of the New Orleans Saints....",
+        "lead_paragraph": "After Drew Brees broke another NFL record with his latest 400-plus-yard passing performance, he stood on a podium and moved his right hand in an ascending motion while discussing the direction of the New Orleans Saints.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Brees Leads Saints Past Slumping Panthers, 41-38",
+          "print_headline": "Brees Leads Saints Past Slumping Panthers, 41-38"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T21:11:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5803ee0a95d0e022439c37e7",
+        "word_count": "886",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

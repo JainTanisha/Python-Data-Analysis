@@ -1,0 +1,454 @@
+{
+  "response": {
+    "meta": {
+      "hits": 683,
+      "time": 60,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/29/briefing/gene-wilder-huma-abedin-donald-trump.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/29/nytnow/29eveningss-slide-56B7/29eveningss-slide-56B7-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gene Wilder, Huma Abedin, Donald Trump: Your Monday Evening Briefing",
+          "print_headline": "Your Monday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57c703f895d0e021d7983400",
+        "word_count": "711",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/world/americas/ap-lt-mexico-human-rights.html",
+        "snippet": "Mexico's president dismissed the chief of the federal police force Monday, less than two weeks after the country's human rights commission released a scathing report alleging federal police \"executed arbitrarily\" at least 22 suspected drug cartel ...",
+        "lead_paragraph": "Mexico's president dismissed the chief of the federal police force Monday, less than two weeks after the country's human rights commission released a scathing report alleging federal police \"executed arbitrarily\" at least 22 suspected drug cartel members during a raid on a ranch.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico's Top Police Chief Out After Execution Allegations",
+          "print_headline": "Mexico's Top Police Chief Out After Execution Allegations"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:55:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7040a95d0e021d7983401",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-immigration-family-detention.html",
+        "snippet": "In a story Aug. 29 about a federal appeals court upholding a ruling that would send 28 detained immigrant mothers and their children back to their home countries, The Associated Press reported erroneously that some of the women seeking asylum were...",
+        "lead_paragraph": "In a story Aug. 29 about a federal appeals court upholding a ruling that would send 28 detained immigrant mothers and their children back to their home countries, The Associated Press reported erroneously that some of the women seeking asylum were from Ecuador. The women were from Honduras, Guatemala and El Salvador, not Ecuador.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Immigration-Family Detention Story",
+          "print_headline": "Correction: Immigration-Family Detention Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:45:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7043b95d0e021d7983404",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/us/ap-us-stolen-olympic-medal.html",
+        "snippet": "An Olympic champion is thanking a 7-year-old Atlanta girl who found his gold medal in a pile of trash weeks after it got stolen....",
+        "lead_paragraph": "An Olympic champion is thanking a 7-year-old Atlanta girl who found his gold medal in a pile of trash weeks after it got stolen.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Girl Strikes Gold by Finding Stolen Olympic Medal in Trash",
+          "print_headline": "Girl Strikes Gold by Finding Stolen Olympic Medal in Trash"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:52:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c704f195d0e021d798341b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/29/sports/ncaafootball/ap-fbc-big-12-coaches.html",
+        "snippet": "Kansas State's Bill Snyder let a slight chuckle when asked if playing a season opener at No. 8 Stanford was the sign of a change in scheduling philosophy for the veteran coach....",
+        "lead_paragraph": "Kansas State's Bill Snyder let a slight chuckle when asked if playing a season opener at No. 8 Stanford was the sign of a change in scheduling philosophy for the veteran coach.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Big 12 Coaches Preparing for Some High-Profile Opening Games",
+          "print_headline": "Big 12 Coaches Preparing for Some High-Profile Opening Games"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:52:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c703a095d0e021d79833f8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/business/29reuters-refinery-operations-motiva-norco.html",
+        "snippet": "Motiva Enterprises was restarting the hydrocracking unit at its 237,700 barrel per day (bpd) Norco, Louisiana refinery on Monday following a weekend malfunction, said sources familiar with plant operations....",
+        "lead_paragraph": "Motiva Enterprises was restarting the hydrocracking unit at its 237,700 barrel per day (bpd) Norco, Louisiana refinery on Monday following a weekend malfunction, said sources familiar with plant operations. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Motiva Norco Refinery Restarting HCU After Malfunction-Sources",
+          "print_headline": "Motiva Norco Refinery Restarting HCU After Malfunction-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:53:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c703f895d0e021d79833ff",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/sports/tennis/29reuters-tennis-open-muguruza.html",
+        "snippet": "Third-seeded Spaniard Garbine Muguruza, a grand slam winner who has taken down world number one Serena Williams, would be judged by most standards as a serious threat to grab the U.S. Open title....",
+        "lead_paragraph": "Third-seeded Spaniard Garbine Muguruza, a grand slam winner who has taken down world number one Serena Williams, would be judged by most standards as a serious threat to grab the U.S. Open title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Miracle Needed to Reach Open Final, Says Muguruza",
+          "print_headline": "Miracle Needed to Reach Open Final, Says Muguruza"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:48:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7042795d0e021d7983403",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/sports/soccer/29reuters-soccer-england-rooney.html",
+        "snippet": "Manchester United striker Wayne Rooney will stay on as England skipper under new manager Sam Allardyce....",
+        "lead_paragraph": "Manchester United striker Wayne Rooney will stay on as England skipper under new manager Sam Allardyce.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rooney Will Remain England Captain, Allardyce Says",
+          "print_headline": "Rooney Will Remain England Captain, Allardyce Says"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:45:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7038c95d0e021d79833f4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/30/science/california-dead-trees-forest-fires.html",
+        "snippet": "A complex convergence of factors \u2014 the drought, bark beetles, a pathogen spreading sudden oak death, and human failings \u2014 has devastated huge, breathtaking forest areas....",
+        "lead_paragraph": "A complex convergence of factors \u2014 the drought, bark beetles, a pathogen spreading sudden oak death, and human failings \u2014 has devastated huge, breathtaking forest areas.",
+        "abstract": "Scientists say confluence of factors has led to high number of tree die-offs in California's Sierra Nevada and North Coast forests, including prolonged drought, rising beetle populations and poor forest management; die-offs greatly increase risk of catastrophic forest fires.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/30/science/30CoverTrees/30CoverTrees-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/30/science/30CoverTrees/30CoverTrees-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/30/science/30CoverTrees/30CoverTrees-articleLarge.jpg",
+            "height": 912,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/30/science/30CoverTrees/30CoverTrees-articleLarge.jpg",
+              "xlargeheight": "912"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/30/science/30CoverTrees/30CoverTrees-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/30/science/30CoverTrees/30CoverTrees-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Like Tens of Millions of Matchsticks, California\u2019s Dead Trees Stand Ready to Burn",
+          "print_headline": "Forest Killers Aplenty"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Trees and Shrubs"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Wildfires"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Forests and Forestry"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Beetles"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drought"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "California"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Global Warming"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fungi"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fires and Firefighters"
+          }
+        ],
+        "pub_date": "2016-08-29T21:46:30+0000",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Cynthia",
+              "middlename": "H.",
+              "lastname": "CRAFT",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By CYNTHIA H. CRAFT"
+        },
+        "type_of_material": "News",
+        "_id": "57c7048095d0e021d7983410",
+        "word_count": "1425",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/29/business/29reuters-ual-president.html",
+        "snippet": "United Continental Holdings Inc has hired the No. 2 executive at rival American Airlines Group Inc, Scott Kirby, to be its president, the companies said on Monday....",
+        "lead_paragraph": "United Continental Holdings Inc has hired the No. 2 executive at rival American Airlines Group Inc, Scott Kirby, to be its president, the companies said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "United Airlines Hires No. 2 at American to Be Its President",
+          "print_headline": "United Airlines Hires No. 2 at American to Be Its President"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-29T21:42:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c703f795d0e021d79833fe",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

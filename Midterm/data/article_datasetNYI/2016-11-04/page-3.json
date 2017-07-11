@@ -1,0 +1,371 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 47,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/insider/the-world-series-sports-page-that-wasnt.html",
+        "snippet": "C\u2019mon, man, these are the Cubs; they\u2019ll surely cooperate, as they have for the past 108 years....",
+        "lead_paragraph": "C\u2019mon, man, these are the Cubs; they\u2019ll surely cooperate, as they have for the past 108 years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/insider/05-Insider-RockwellCubs-Image1/05-Insider-RockwellCubs-Image-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/insider/05-Insider-RockwellCubs-Image1/05-Insider-RockwellCubs-Image-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/insider/05-Insider-RockwellCubs-Image1/05-Insider-RockwellCubs-Image-articleLarge.jpg",
+            "height": 1083,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/insider/05-Insider-RockwellCubs-Image1/05-Insider-RockwellCubs-Image-articleLarge.jpg",
+              "xlargeheight": "1083"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/insider/05-Insider-RockwellCubs-Image1/05-Insider-RockwellCubs-Image-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/insider/05-Insider-RockwellCubs-Image1/05-Insider-RockwellCubs-Image-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The World Series Sports Page That Wasn\u2019t"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "World Series"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Chicago Cubs"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cleveland Indians"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rockwell, Norman"
+          }
+        ],
+        "pub_date": "2016-11-04T22:48:49Z",
+        "document_type": "article",
+        "news_desk": "Insider",
+        "section_name": "Times Insider",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Wayne",
+              "rank": 1,
+              "lastname": "KAMIDOI"
+            }
+          ],
+          "original": "By WAYNE KAMIDOI"
+        },
+        "type_of_material": "News",
+        "_id": "581d105a95d0e01ffc1e1990",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/us/04reuters-arizona-security.html",
+        "snippet": "An Arizona teenager who the FBI has said professed to be an \"American jihadist\" was sentenced on Friday to eight years in prison, to be followed by a lifetime on probation, for plotting to bomb a state motor vehicle office....",
+        "lead_paragraph": "An Arizona teenager who the FBI has said professed to be an \"American jihadist\" was sentenced on Friday to eight years in prison, to be followed by a lifetime on probation, for plotting to bomb a state motor vehicle office.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Arizona 'Jihadist' Gets Eight Years in Prison for Terror Bomb Plot",
+          "print_headline": "Arizona 'Jihadist' Gets Eight Years in Prison for Terror Bomb Plot"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:48:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d104a95d0e01ffc1e198f",
+        "word_count": "408",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/sports/ap-car-nascar-tifft-jgr.html",
+        "snippet": "Matt Tifft has gone from uncertainty about his NASCAR future this summer while recovering from surgery for a brain tumor to a full-time ride next season in the Xfinity Series....",
+        "lead_paragraph": "Matt Tifft has gone from uncertainty about his NASCAR future this summer while recovering from surgery for a brain tumor to a full-time ride next season in the Xfinity Series.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "After Brain Tumor, Tifft Has Full-Time Ride With JGR in '17",
+          "print_headline": "After Brain Tumor, Tifft Has Full-Time Ride With JGR in '17"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:46:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0fe795d0e01ffc1e198e",
+        "word_count": "320",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-campaign-2016-ballot-collection-the-latest.html",
+        "snippet": "The Latest on a challenge to Arizona's new law making it a felony to collect early ballots from voters (all times local):...",
+        "lead_paragraph": "The Latest on a challenge to Arizona's new law making it a felony to collect early ballots from voters (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Arizona Wants High Court to Restore Ballot Law",
+          "print_headline": "The Latest: Arizona Wants High Court to Restore Ballot Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:46:18Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0fc395d0e01ffc1e198d",
+        "word_count": "306",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/sports/soccer/04reuters-soccer-england-southgate.html",
+        "snippet": "England's interim manager Gareth Southgate has cast doubt on whether he will accept a full-time position if it is offered by his Football Association employers....",
+        "lead_paragraph": "England's interim manager Gareth Southgate has cast doubt on whether he will accept a full-time position if it is offered by his Football Association employers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Southgate Could Reject Offer of Full-Time England Job",
+          "print_headline": "Southgate Could Reject Offer of Full-Time England Job"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:45:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0f9695d0e01ffc1e198c",
+        "word_count": "225",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/arts/04reuters-walt-disney-espn.html",
+        "snippet": "The Nielsen ratings agency on Friday reaffirmed a report about U.S. pay-television customers that was challenged by Walt Disney Co's ESPN sports network....",
+        "lead_paragraph": "The Nielsen ratings agency on Friday reaffirmed a report about U.S. pay-television customers that was challenged by Walt Disney Co's ESPN sports network.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nielsen Sticks With Subscriber Report Challenged by ESPN",
+          "print_headline": "Nielsen Sticks With Subscriber Report Challenged by ESPN"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:42:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0edd95d0e01ffc1e198a",
+        "word_count": "389",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/world/africa/04reuters-morocco-protests.html",
+        "snippet": "Thousands of chanting, flag-waving Moroccans protested in a northern city on Friday, keeping up pressure on authorities a week after a fishmonger was crushed to death in a garbage truck in a confrontation with police....",
+        "lead_paragraph": "Thousands of chanting, flag-waving Moroccans protested in a northern city on Friday, keeping up pressure on authorities a week after a fishmonger was crushed to death in a garbage truck in a confrontation with police.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Thousands of Moroccans Keep Up Pressure Over Fishmonger's Death",
+          "print_headline": "Thousands of Moroccans Keep Up Pressure Over Fishmonger's Death"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:39:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0e2a95d0e01ffc1e1989",
+        "word_count": "759",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/us/politics/04reuters-usa-election-poll-fox.html",
+        "snippet": "Democratic presidential nominee Hillary Clinton leads Republican Donald Trump by 2 percentage points in a four-way race, according to a Fox News opinion poll released on Friday....",
+        "lead_paragraph": "Democratic presidential nominee Hillary Clinton leads Republican Donald Trump by 2 percentage points in a four-way race, according to a Fox News opinion poll released on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Leads Trump by 2 Points in Fox News Poll",
+          "print_headline": "Clinton Leads Trump by 2 Points in Fox News Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:33:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0cbf95d0e01ffc1e1988",
+        "word_count": "91",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/politics/ap-us-campaign-2016-faithless-elector.html",
+        "snippet": "A Democratic elector in Washington state said Friday he won't vote for Hillary Clinton even if she wins the popular vote in his state on Election Day, adding a degree of suspense when the Electoral College affirms the election results next month....",
+        "lead_paragraph": "A Democratic elector in Washington state said Friday he won't vote for Hillary Clinton even if she wins the popular vote in his state on Election Day, adding a degree of suspense when the Electoral College affirms the election results next month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Washington State Elector Says He Won't Vote for Clinton",
+          "print_headline": "Washington State Elector Says He Won't Vote for Clinton"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:28:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0b8e95d0e01ffc1e1987",
+        "word_count": "358",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/world/asia/ap-un-united-nations-afghanistan.html",
+        "snippet": "Fighters loyal to al-Qaida have taken on a more active supporting role for the Taliban during the current offensive in Afghanistan while the position of the Islamic State extremist group in the country \"has distinctly weakened,\" U.N. experts said ...",
+        "lead_paragraph": "Fighters loyal to al-Qaida have taken on a more active supporting role for the Taliban during the current offensive in Afghanistan while the position of the Islamic State extremist group in the country \"has distinctly weakened,\" U.N. experts said in a report circulated Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Experts: 45,000 Opposition Fighters in Afghanistan",
+          "print_headline": "UN Experts: 45,000 Opposition Fighters in Afghanistan"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T22:27:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d0b7395d0e01ffc1e1986",
+        "word_count": "513",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,472 @@
+{
+  "response": {
+    "meta": {
+      "hits": 731,
+      "time": 49,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/us/ap-10-things-to-know-tuesday.html",
+        "snippet": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Monday:...",
+        "lead_paragraph": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Monday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "10 Things to Know for Tuesday",
+          "print_headline": "10 Things to Know for Tuesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:46:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ffbf838f0d861602e1ad4",
+        "word_count": "372",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/02/arts/design/in-gowanus-a-peoples-housing-plan-to-challenge-the-mayors.html",
+        "snippet": "This Brooklyn neighborhood is joining East Harlem and six other districts that Mayor Bill de Blasio\u2019s administration will try to rezone to accommodate more housing....",
+        "lead_paragraph": "This Brooklyn neighborhood is joining East Harlem and six other districts that Mayor Bill de Blasio\u2019s administration will try to rezone to accommodate more housing.",
+        "abstract": "Michael Kimmelman Critic's Notebook explains complications surrounding New York City Mayor Bill de Blasio's affordable housing plan; notes grass-roots efforts in Gowanus neighborhood of Brooklyn, East Harlem and six other districts targeted by plan that have put forth proposals to give communities voice in rezoning process.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/arts/02GOWANUS/02GOWANUS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/arts/02GOWANUS/02GOWANUS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/arts/02GOWANUS/02GOWANUS-articleLarge.jpg",
+            "height": 287,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/arts/02GOWANUS/02GOWANUS-articleLarge.jpg",
+              "xlargeheight": "287"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/arts/02GOWANUS/02GOWANUS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/arts/02GOWANUS/02GOWANUS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In Gowanus, a People\u2019s Housing Plan to Challenge the Mayor\u2019s",
+          "content_kicker": "Critic's Notebook",
+          "kicker": "Critic's Notebook",
+          "print_headline": "A People\u2019s Plan to Challenge the Mayor\u2019s"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Affordable Housing"
+          },
+          {
+            "rank": "11",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Gowanus (Brooklyn, NY)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "East Harlem (Manhattan, NY)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Zoning"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Area Planning and Renewal"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brooklyn (NYC)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          }
+        ],
+        "pub_date": "2016-08-01T21:48:31+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "KIMMELMAN"
+            }
+          ],
+          "original": "By MICHAEL KIMMELMAN"
+        },
+        "type_of_material": "News",
+        "_id": "579fc3b138f0d861602e1a73",
+        "word_count": "1113",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/world/americas/ap-lt-venezuela-recall-campaign.html",
+        "snippet": "Electoral authorities on Monday certified that opponents of Venezuelan President Nicolas Maduro had gathered enough signatures to permit them to conduct a second petition drive aimed at removing the socialist leader from office....",
+        "lead_paragraph": "Electoral authorities on Monday certified that opponents of Venezuelan President Nicolas Maduro had gathered enough signatures to permit them to conduct a second petition drive aimed at removing the socialist leader from office.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Campaign to Recall Venezuela President Completes First Phase",
+          "print_headline": "Campaign to Recall Venezuela President Completes First Phase"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:28:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ff7c738f0d861602e1ad2",
+        "word_count": "267",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/world/asia/01reuters-japan-china-defence.html",
+        "snippet": "Japan's annual defense review on Tuesday expressed \"deep concern\" over what it sees as China's coercion as a more assertive Beijing flouts international rules when dealing with other nations....",
+        "lead_paragraph": "Japan's annual defense review on Tuesday expressed \"deep concern\" over what it sees as China's coercion as a more assertive Beijing flouts international rules when dealing with other nations. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan Defense Review Expresses 'Deep Concern' at Chinese Coercion",
+          "print_headline": "Japan Defense Review Expresses 'Deep Concern' at Chinese Coercion"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:23:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ff65638f0d861602e1ace",
+        "word_count": "372",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/world/asia/01reuters-indonesia-drugs.html",
+        "snippet": "Rizki Mulyadi sits half-submerged in a steaming herbal bath, hands folded in his lap and head down....",
+        "lead_paragraph": "Rizki Mulyadi sits half-submerged in a steaming herbal bath, hands folded in his lap and head down. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Indonesia Wages War on Drugs but Cuts Funding for Rehabilitation",
+          "print_headline": "Indonesia Wages War on Drugs but Cuts Funding for Rehabilitation"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:11:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ff38338f0d861602e1acc",
+        "word_count": "782",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/sports/soccer/01reuters-soccer-argentina.html",
+        "snippet": "Argentina, still reeling from the shock resignations of captain Lionel Messi and coach Gerardo Martino, have chosen Edgardo Bauza as their new coach, the Argentine FA said on Monday....",
+        "lead_paragraph": "Argentina, still reeling from the shock resignations of captain Lionel Messi and coach Gerardo Martino, have chosen Edgardo Bauza as their new coach, the Argentine FA said on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Argentina Pick Twice Libertadores Winner Bauza as Coach",
+          "print_headline": "Argentina Pick Twice Libertadores Winner Bauza as Coach"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:05:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ff22438f0d861602e1aca",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/sports/olympics/01reuters-olympics-rio-swimming.html",
+        "snippet": "Representing your country at the biggest sporting event in the world is a daunting prospect for any athlete, but for 13-year-old Olympian Gaurika Singh, it pales in comparison with surviving an earthquake in her native Nepal....",
+        "lead_paragraph": "Representing your country at the biggest sporting event in the world is a daunting prospect for any athlete, but for 13-year-old Olympian Gaurika Singh, it pales in comparison with surviving an earthquake in her native Nepal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Youngest Olympian Keeps Pressure in Perspective",
+          "print_headline": "Youngest Olympian Keeps Pressure in Perspective"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:03:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ff21d38f0d861602e1ac9",
+        "word_count": "281",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/us/01reuters-usa-election-trump-brookover.html",
+        "snippet": "U.S. Republican presidential candidate Donald Trump on Monday fired senior adviser Ed Brookover, two sources close to his campaign said....",
+        "lead_paragraph": "U.S. Republican presidential candidate Donald Trump on Monday fired senior adviser Ed Brookover, two sources close to his campaign said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Donald Trump Fires Senior Adviser Ed Brookover-Sources",
+          "print_headline": "Donald Trump Fires Senior Adviser Ed Brookover-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T21:02:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ff16b38f0d861602e1ac8",
+        "word_count": "142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004562968/anatomy-of-a-scene-bad-moms.html",
+        "snippet": "The directors Jon Lucas and Scott Moore narrate a scene from \u201cBad Moms,\u201d featuring Mila Kunis, Kathryn Hahn and Kristen Bell....",
+        "lead_paragraph": "The directors Jon Lucas and Scott Moore narrate a scene from \u201cBad Moms,\u201d featuring Mila Kunis, Kathryn Hahn and Kristen Bell.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/01/multimedia/badmoms-anatomy/badmoms-anatomy-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/01/multimedia/badmoms-anatomy/badmoms-anatomy-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/01/multimedia/badmoms-anatomy/badmoms-anatomy-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/01/multimedia/badmoms-anatomy/badmoms-anatomy-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/01/multimedia/badmoms-anatomy/badmoms-anatomy-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/01/multimedia/badmoms-anatomy/badmoms-anatomy-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Anatomy of a Scene | \u2018Bad Moms\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Bad Moms (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lucas, Jon (1976- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Moore, Scott (Film Director)"
+          }
+        ],
+        "pub_date": "2016-08-01T21:00:48+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mekado",
+              "rank": 1,
+              "lastname": "MURPHY"
+            }
+          ],
+          "original": "By MEKADO MURPHY"
+        },
+        "type_of_material": "Video",
+        "_id": "579fb8f938f0d861602e1a55",
+        "word_count": "21",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/sports/baseball/ap-bba-royals-duffy-no-hitter-alert.html",
+        "snippet": "Kansas City Royals left-hander Danny Duffy lost his no-hit bid in the eighth inning when Desmond Jennings hit a leadoff double on a 1-2 pitch....",
+        "lead_paragraph": "Kansas City Royals left-hander Danny Duffy lost his no-hit bid in the eighth inning when Desmond Jennings hit a leadoff double on a 1-2 pitch.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Royals' Duffy Loses No-Hit Bid in 8th Inning vs Rays",
+          "print_headline": "Royals' Duffy Loses No-Hit Bid in 8th Inning vs Rays"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:51:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579fef5138f0d861602e1ac4",
+        "word_count": "129",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

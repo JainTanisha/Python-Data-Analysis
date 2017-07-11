@@ -1,0 +1,383 @@
+{
+  "response": {
+    "meta": {
+      "hits": 461,
+      "time": 42,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/world/middleeast/100000004603507/crowds-cheer-a-new-governing-council-in-yemen.html",
+        "snippet": "Thousands gathered in Sana, the capital, to celebrate the formation of a new coalition governing body and to denounce airstrikes by a Saudi-led coalition....",
+        "lead_paragraph": "Thousands gathered in Sana, the capital, to celebrate the formation of a new coalition governing body and to denounce airstrikes by a Saudi-led coalition.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/20/multimedia/21yemen/21yemen-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/20/multimedia/21yemen/21yemen-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/20/multimedia/21yemen/21yemen-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/20/multimedia/21yemen/21yemen-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/20/multimedia/21yemen/21yemen-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/20/multimedia/21yemen/21yemen-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Crowds Cheer a New Governing Council in Yemen"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Yemen"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Sanaa"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Saudi Arabia"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Houthis"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Saleh, Ali Abdullah"
+          }
+        ],
+        "pub_date": "2016-08-20T22:46:22+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Middle East",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ainara",
+              "rank": 1,
+              "lastname": "TIEFENTH\u00c4LER"
+            }
+          ],
+          "original": "By AINARA TIEFENTH\u00c4LER"
+        },
+        "type_of_material": "Video",
+        "_id": "57b8ddfd95d0e021d7981c5b",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/sports/golf/20reuters-golf-pga.html",
+        "snippet": "South Korean Kim Si-woo was focused intensely on his own task, birdying the final hole as he turned a narrow advantage into a four-shot lead after the third round at the Wyndham Championship on Saturday....",
+        "lead_paragraph": "South Korean Kim Si-woo was focused intensely on his own task, birdying the final hole as he turned a narrow advantage into a four-shot lead after the third round at the Wyndham Championship on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kim Four Shots Clear After Three Rounds at Wyndham",
+          "print_headline": "Kim Four Shots Clear After Three Rounds at Wyndham"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:34:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8db7495d0e021d7981c5a",
+        "word_count": "438",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/us/ap-mi-mall-evacuated-robbery.html",
+        "snippet": "A suburban Detroit shopping center was evacuated on Saturday following a smash-and-grab robbery, but police said the scene was later secured....",
+        "lead_paragraph": "A suburban Detroit shopping center was evacuated on Saturday following a smash-and-grab robbery, but police said the scene was later secured.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Investigate Robbery That Prompted Evacuation of Mall",
+          "print_headline": "Police Investigate Robbery That Prompted Evacuation of Mall"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:31:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8dac695d0e021d7981c59",
+        "word_count": "99",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/sports/golf/20reuters-golf-pga-donald.html",
+        "snippet": "The normally self-effacing Luke Donald carded a six-under 64 at the Wyndham Championship on Saturday, before offering a Ryder Cup sales pitch to European captain Darren Clarke....",
+        "lead_paragraph": "The normally self-effacing Luke Donald carded a six-under 64 at the Wyndham Championship on Saturday, before offering a Ryder Cup sales pitch to European captain Darren Clarke.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Donald Pitches His Ryder Cup Worth to European Captain Clarke",
+          "print_headline": "Donald Pitches His Ryder Cup Worth to European Captain Clarke"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:27:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8da1295d0e021d7981c58",
+        "word_count": "234",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/sports/soccer/20reuters-olympics-rio-soccer-m.html",
+        "snippet": "Neymar shed tears of joy after delivering Brazil's first men's soccer gold medal with the winning penalty in a 5-4 shootout triumph over Germany after a thrilling final ended in a draw following extra-time on Saturday....",
+        "lead_paragraph": "Neymar shed tears of joy after delivering Brazil's first men's soccer gold medal with the winning penalty in a 5-4 shootout triumph over Germany after a thrilling final ended in a draw following extra-time on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Neymar Hands Brazil Precious Soccer Gold Medal",
+          "print_headline": "Neymar Hands Brazil Precious Soccer Gold Medal"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:25:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d95a95d0e021d7981c57",
+        "word_count": "597",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/sports/golf/ap-glf-wyndham-championship.html",
+        "snippet": "Si Woo Kim followed his tournament-record 10-under 60 with a third-round 64 on Saturday to increase his lead to four strokes in the Wyndham Championship....",
+        "lead_paragraph": "Si Woo Kim followed his tournament-record 10-under 60 with a third-round 64 on Saturday to increase his lead to four strokes in the Wyndham Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Si Woo Kim Opens 4-Stroke Lead in Wyndham Championship",
+          "print_headline": "Si Woo Kim Opens 4-Stroke Lead in Wyndham Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:21:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d8b695d0e021d7981c56",
+        "word_count": "753",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/sports/olympics/20reuters-olympics-rio-water-polo-m-serbia.html",
+        "snippet": "Serbia's world champion men&#8217;s water polo team defeated arch rivals Croatia 11-7 to win their first Olympic gold medal in the sport and dethrone the title holders on Saturday....",
+        "lead_paragraph": "Serbia's world champion men&#8217;s water polo team defeated arch rivals Croatia 11-7 to win their first Olympic gold medal in the sport and dethrone the title holders on Saturday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Serbia on a Roll With Gold Medal in Water Polo",
+          "print_headline": "Serbia on a Roll With Gold Medal in Water Polo"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:18:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d7f295d0e021d7981c55",
+        "word_count": "459",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/20/us/20reuters-new-york-taxi.html",
+        "snippet": "The average New York City taxi driver may still be sassy, but will not be required to speak English any longer....",
+        "lead_paragraph": "The average New York City taxi driver may still be sassy, but will not be required to speak English any longer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "New Law Cuts English Language Requirement for NYC Cab Drivers",
+          "print_headline": "New Law Cuts English Language Requirement for NYC Cab Drivers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:16:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d74895d0e021d7981c54",
+        "word_count": "243",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/sports/olympics/ap-oly-wre-mens-freestyle.html",
+        "snippet": "American Jordan Burroughs' stunning loss in Friday's Olympic wrestling tournament re-opened the debate over the world's best pound-for-pound freestyle competitor....",
+        "lead_paragraph": "American Jordan Burroughs' stunning loss in Friday's Olympic wrestling tournament re-opened the debate over the world's best pound-for-pound freestyle competitor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Who's the Best Freestyle Wrestler? Maybe 'The Russian Tank'",
+          "print_headline": "Who's the Best Freestyle Wrestler? Maybe 'The Russian Tank'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:12:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d68f95d0e021d7981c53",
+        "word_count": "517",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/20/sports/ap-car-nascar-hendrick-earnhardt.html",
+        "snippet": "Car owner Rick Hendrick said injured star Dale Earnhardt Jr. \"looks great,\" but the organization will wait until the driver is 100 percent before he returns to the track....",
+        "lead_paragraph": "Car owner Rick Hendrick said injured star Dale Earnhardt Jr. \"looks great,\" but the organization will wait until the driver is 100 percent before he returns to the track.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Car Owner: Dale Looks Great",
+          "print_headline": "Car Owner: Dale Looks Great"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-20T22:10:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b8d5e095d0e021d7981c52",
+        "word_count": "134",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

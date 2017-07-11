@@ -1,0 +1,554 @@
+{
+  "response": {
+    "meta": {
+      "hits": 947,
+      "time": 35,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/05/world/asia/05reuters-usa-trafficking-arrests.html",
+        "snippet": "More than a dozen people have been arrested and accused of running an international sex-trafficking ring that held hundreds of Thai women trapped in debt bondage across the United States, authorities said on Wednesday....",
+        "lead_paragraph": "More than a dozen people have been arrested and accused of running an international sex-trafficking ring that held hundreds of Thai women trapped in debt bondage across the United States, authorities said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Accused Global Sex-Trafficking Ring Busted With U.S., International Arrests",
+          "print_headline": "Accused Global Sex-Trafficking Ring Busted With U.S., International Arrests"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:54:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f5775195d0e021d798a50c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/05/briefing/mike-pence-nsa-nobel-prize.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/05/nytnow/05eveningss-slide-TDR8/05eveningss-slide-TDR8-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/05/nytnow/05eveningss-slide-TDR8/05eveningss-slide-TDR8-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/05/nytnow/05eveningss-slide-TDR8/05eveningss-slide-TDR8-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/05/nytnow/05eveningss-slide-TDR8/05eveningss-slide-TDR8-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/05/nytnow/05eveningss-slide-TDR8/05eveningss-slide-TDR8-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/05/nytnow/05eveningss-slide-TDR8/05eveningss-slide-TDR8-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mike Pence, N.S.A., Nobel Prize: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 2,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 3,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN, KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57f5759595d0e021d798a50a",
+        "word_count": "806",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/06/world/middleeast/obama-israel-west-bank-settlements.html",
+        "snippet": "The Obama administration said the move violated the pledge by Israel not to construct new Jewish settlements and ran counter to its long-term security interests....",
+        "lead_paragraph": "The Obama administration said the move violated the pledge by Israel not to construct new Jewish settlements and ran counter to its long-term security interests.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/06/world/06SETTLEMENTS-web/06SETTLEMENTS-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/06/world/06SETTLEMENTS-web/06SETTLEMENTS-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/06/world/06SETTLEMENTS-web/06SETTLEMENTS-web-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/06/world/06SETTLEMENTS-web/06SETTLEMENTS-web-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/06/world/06SETTLEMENTS-web/06SETTLEMENTS-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/06/world/06SETTLEMENTS-web/06SETTLEMENTS-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "United States Criticizes Israel Over West Bank Settlement Plan",
+          "print_headline": "U.S. Condemns Israeli Plan for New Settlement"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Palestinians"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Israeli Settlements"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "West Bank"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Netanyahu, Benjamin"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Israel"
+          }
+        ],
+        "pub_date": "2016-10-05T21:47:21+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "contributor": "<em>Isabel Kershner contributed reporting from Jerusalem.</em>",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mark",
+              "rank": 1,
+              "lastname": "LANDLER"
+            }
+          ],
+          "original": "By MARK LANDLER"
+        },
+        "type_of_material": "News",
+        "_id": "57f574f195d0e021d798a509",
+        "word_count": "1191",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/05/sports/football/ap-fbn-steelers-practice-squad-grads.html",
+        "snippet": "Jordan Dangerfield never lost faith, even as the months passed and the dreaded visits to Pittsburgh Steelers coach Mike Tomlin's office informing the safety he was being released from the team's practice squad piled up....",
+        "lead_paragraph": "Jordan Dangerfield never lost faith, even as the months passed and the dreaded visits to Pittsburgh Steelers coach Mike Tomlin's office informing the safety he was being released from the team's practice squad piled up.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Steelers Relying on Practice Squad Grads to Produce",
+          "print_headline": "Steelers Relying on Practice Squad Grads to Produce"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:42:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f5749e95d0e021d798a508",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/05/us/05reuters-unitedhealth-lawsuit.html",
+        "snippet": "UnitedHealth Group Inc has been sued by three customers who accused the largest U.S. health insurer of charging co-payments for prescription drugs that were higher than their actual cost and pocketing the difference....",
+        "lead_paragraph": "UnitedHealth Group Inc has been sued by three customers who accused the largest U.S. health insurer of charging co-payments for prescription drugs that were higher than their actual cost and pocketing the difference.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Customers Sue UnitedHealth Over Prescription Drug Co-Pay Costs",
+          "print_headline": "Customers Sue UnitedHealth Over Prescription Drug Co-Pay Costs"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:41:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f573d595d0e021d798a506",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/05/business/05reuters-endurance-specialty-m-a-sompo-japan-nipponkoa.html",
+        "snippet": "Japanese insurer Sompo Holdings Inc said on Wednesday it will buy U.S. property and casualty insurer Endurance Specialty Holdings Ltd for $6.3 billion, the latest in a string of acquisitions by insurers starved of growth in ageing Japan....",
+        "lead_paragraph": "Japanese insurer Sompo Holdings Inc said on Wednesday it will buy U.S. property and casualty insurer Endurance Specialty Holdings Ltd for $6.3 billion, the latest in a string of acquisitions by insurers starved of growth in ageing Japan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Insurer Sompo to Buy Endurance Specialty for $6.3 Billion",
+          "print_headline": "Insurer Sompo to Buy Endurance Specialty for $6.3 Billion"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:40:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f573d595d0e021d798a507",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/05/sports/ap-car-around-the-track.html",
+        "snippet": "Kevin Harvick has found himself against the ropes in NASCAR's playoffs in each of the last two years. Tired of having to fight his way into the championship race, he is determined to leave nothing to chance....",
+        "lead_paragraph": "Kevin Harvick has found himself against the ropes in NASCAR's playoffs in each of the last two years. Tired of having to fight his way into the championship race, he is determined to leave nothing to chance.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Harvick Heads to Charlotte Trying to Extend Success at Night",
+          "print_headline": "Harvick Heads to Charlotte Trying to Extend Success at Night"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:35:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f5736195d0e021d798a505",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/05/business/05reuters-ford-motor-trucks.html",
+        "snippet": "Ford Motor Co said on Wednesday new 2017 models of its best-selling F-150 pickup truck will improve fuel efficiency by 11 percent for four-wheel drive versions which use a 10-speed transmission jointly developed with rival General Motors Co....",
+        "lead_paragraph": "Ford Motor Co said on Wednesday new 2017 models of its best-selling F-150 pickup truck will improve fuel efficiency by 11 percent for four-wheel drive versions which use a 10-speed transmission jointly developed with rival General Motors Co.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ford F-150 Pickup Trucks Gain in Fuel Efficiency",
+          "print_headline": "Ford F-150 Pickup Trucks Gain in Fuel Efficiency"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:37:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f5732f95d0e021d798a504",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/05/sports/golf/ap-glf-presidents-cup-woods.html",
+        "snippet": "Tiger Woods will be at Presidents Cup next year with or without his golf clubs....",
+        "lead_paragraph": "Tiger Woods will be at Presidents Cup next year with or without his golf clubs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Woods to Be Assistant Captain at Presidents Cup",
+          "print_headline": "Woods to Be Assistant Captain at Presidents Cup"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-05T21:34:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f572aa95d0e021d798a502",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/06/world/europe/migrants-mediterranean.html",
+        "snippet": "What a photographer saw when a rescue vessel went into action off the Libyan coast....",
+        "lead_paragraph": "What a photographer saw when a rescue vessel went into action off the Libyan coast.",
+        "abstract": null,
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/06/world/06MIGRANTS-slide-IQMF/06MIGRANTS-slide-IQMF-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/06/world/06MIGRANTS-slide-IQMF/06MIGRANTS-slide-IQMF-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/06/world/06MIGRANTS-slide-IQMF/06MIGRANTS-slide-IQMF-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/06/world/06MIGRANTS-slide-IQMF/06MIGRANTS-slide-IQMF-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/06/world/06MIGRANTS-slide-IQMF/06MIGRANTS-slide-IQMF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/06/world/06MIGRANTS-slide-IQMF/06MIGRANTS-slide-IQMF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Stepping Over the Dead on a Migrant Boat",
+          "print_headline": "\u2018Just Like a Slavery Boat\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Middle East and Africa Migrant Crisis"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Maritime Accidents and Safety"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Rescues"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "International Organization for Migration"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Africa"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Libya"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "subject",
+            "value": "vis-photo"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Italy"
+          }
+        ],
+        "pub_date": "2016-10-05T21:35:17+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rick",
+              "rank": 1,
+              "lastname": "GLADSTONE"
+            }
+          ],
+          "original": "By RICK GLADSTONE"
+        },
+        "type_of_material": "News",
+        "_id": "57f5721995d0e021d798a4ff",
+        "word_count": "583",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

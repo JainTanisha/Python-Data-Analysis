@@ -1,0 +1,618 @@
+{
+  "response": {
+    "meta": {
+      "hits": 902,
+      "time": 76,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/us/ap-cb-guantanamo-release-denied-.html",
+        "snippet": "A U.S. government review board has rejected the release of the alleged Southeastern Asian terrorist leader known as Hambali from the prison at Guantanamo Bay, Cuba....",
+        "lead_paragraph": "A U.S. government review board has rejected the release of the alleged Southeastern Asian terrorist leader known as Hambali from the prison at Guantanamo Bay, Cuba.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Says Alleged Bali Bombing Figure to Stay at Guantanamo",
+          "print_headline": "US Says Alleged Bali Bombing Figure to Stay at Guantanamo"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T21:40:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fd16795d0e022439c52df",
+        "word_count": "348",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/26/books/philip-roth-newark-public-library.html",
+        "snippet": "When Mr. Roth\u2019s books are moved to a refurbished space in the Newark Public Library, they will be shelved using the same system he created at home....",
+        "lead_paragraph": "When Mr. Roth\u2019s books are moved to a refurbished space in the Newark Public Library, they will be shelved using the same system he created at home.",
+        "abstract": "Author Philip Roth donates personal collection of about 4,000 books to public library in his hometown of Newark, NJ; library will shelve books according to Roth's own organizational system special room designed by architect Henry Myerberg and hopes to become literary destination. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/arts/26PHILIPROTH2/26PHILIPROTH2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/arts/26PHILIPROTH2/26PHILIPROTH2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/arts/26PHILIPROTH2/26PHILIPROTH2-articleLarge.jpg",
+            "height": 396,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/arts/26PHILIPROTH2/26PHILIPROTH2-articleLarge.jpg",
+              "xlargeheight": "396"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/arts/26PHILIPROTH2/26PHILIPROTH2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/arts/26PHILIPROTH2/26PHILIPROTH2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Scene Right Out of Philip Roth: His Books Come Home to Newark\u2019s Library",
+          "print_headline": "Philip Roth\u2019s Books Coming Home to Newark"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Roth, Philip"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Libraries and Librarians"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Writing and Writers"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Newark Public Library"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Smith, Zadie"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Newark (NJ)"
+          }
+        ],
+        "pub_date": "2016-10-25T21:38:54+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Charles",
+              "rank": 1,
+              "lastname": "McGRATH"
+            }
+          ],
+          "original": "By CHARLES McGRATH"
+        },
+        "type_of_material": "News",
+        "_id": "580fd0f795d0e022439c52de",
+        "word_count": "1020",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/26/theater/public-theater-takes-its-under-the-radar-festival-to-a-warship.html",
+        "snippet": "The 13th annual festival includes \u201cBlueprint Specials,\u201d a musical performed at the Intrepid Sea, Air & Space Museum....",
+        "lead_paragraph": "The 13th annual festival includes \u201cBlueprint Specials,\u201d a musical performed at the Intrepid Sea, Air & Space Museum.",
+        "abstract": "Public Theater and Intrepid Sea, Air & Space Museum will present musical Blueprint Specials on hangar deck of World War II-era aircraft carrier as part of 13th annual Under the Radar Festival; partial list of festival's other scheduled plays, concerts and talks noted.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/arts/26radar-item/26radar-item-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/arts/26radar-item/26radar-item-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/arts/26radar-item/26radar-item-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/arts/26radar-item/26radar-item-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/arts/26radar-item/26radar-item-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/arts/26radar-item/26radar-item-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Public Theater Takes Its Under the Radar Festival to a Warship",
+          "print_headline": "Under the Radar Festival Coming to a Warship"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Under the Radar Festival"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Public Theater"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Waterwell"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Intrepid Sea-Air-Space Museum"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "600 Highwaymen"
+          }
+        ],
+        "pub_date": "2016-10-25T21:35:40+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joshua",
+              "rank": 1,
+              "lastname": "BARONE"
+            }
+          ],
+          "original": "By JOSHUA BARONE"
+        },
+        "type_of_material": "News",
+        "_id": "580fd03595d0e022439c52dd",
+        "word_count": "245",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/25/us/25reuters-usa-police.html",
+        "snippet": "Americans' opinion of the police has bounced back from last year's historic lows, amid continuing national debate over police treatment of minorities, two polls released this week suggested....",
+        "lead_paragraph": "Americans' opinion of the police has bounced back from last year's historic lows, amid continuing national debate over police treatment of minorities, two polls released this week suggested.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Public Opinion of Police Improving: Surveys",
+          "print_headline": "U.S. Public Opinion of Police Improving: Surveys"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T21:33:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580fcfc895d0e022439c52dc",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/sports/baseball/ap-bbo-world-series-schwarber.html",
+        "snippet": "The doctors told Kyle Schwarber the day after the Chicago Cubs slugger tore two ligaments in his left knee on April 7 that his season was over....",
+        "lead_paragraph": "The doctors told Kyle Schwarber the day after the Chicago Cubs slugger tore two ligaments in his left knee on April 7 that his season was over.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cubs Slugger Schwarber Returns, Doubles in Game 1",
+          "print_headline": "Cubs Slugger Schwarber Returns, Doubles in Game 1"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T21:31:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fcf3b95d0e022439c52db",
+        "word_count": "850",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/elections/100000004729544/trump-rails-against-obamacare.html",
+        "snippet": "Donald J. Trump said that figures suggesting Affordable Care Act premiums would increase by an average of 25 percent for next year were far too low....",
+        "lead_paragraph": "Donald J. Trump said that figures suggesting Affordable Care Act premiums would increase by an average of 25 percent for next year were far too low.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/us/26campaign/26campaign-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/us/26campaign/26campaign-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/us/26campaign/26campaign-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/us/26campaign/26campaign-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/us/26campaign/26campaign-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/us/26campaign/26campaign-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump Rails Against Obamacare"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+          }
+        ],
+        "pub_date": "2016-10-25T21:28:48+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "580fce9795d0e022439c52da",
+        "word_count": "26",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/25/us/politics/25reuters-usa-noncompetes.html",
+        "snippet": "The Obama administration on Tuesday called on U.S. states to ban agreements prohibiting many workers from moving to their employers' rivals, saying it would lead to a more competitive labor market and faster wage growth....",
+        "lead_paragraph": "The Obama administration on Tuesday called on U.S. states to ban agreements prohibiting many workers from moving to their employers' rivals, saying it would lead to a more competitive labor market and faster wage growth. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "White House Urges Ban on Non-Compete Agreements for Many Workers",
+          "print_headline": "White House Urges Ban on Non-Compete Agreements for Many Workers"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T21:27:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580fce5b95d0e022439c52d9",
+        "word_count": "398",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/25/sports/soccer/25reuters-soccer-italy-gen-mil.html",
+        "snippet": "Ten-man AC Milan missed the chance to take provisional top spot in Serie A as they slumped to a 3-0 defeat at Genoa with Gabriel Paletta sent off and Juraj Kucka scoring an own goal on Tuesday....",
+        "lead_paragraph": "Ten-man AC Milan missed the chance to take provisional top spot in Serie A as they slumped to a 3-0 defeat at Genoa with Gabriel Paletta sent off and Juraj Kucka scoring an own goal on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ten-Man Milan Miss Out on Top Spot in 3-0 Defeat at Genoa",
+          "print_headline": "Ten-Man Milan Miss Out on Top Spot in 3-0 Defeat at Genoa"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T21:27:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580fce5695d0e022439c52d8",
+        "word_count": "317",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/us/ap-us-odd-tree-man-arrested.html",
+        "snippet": "A man arrested for blocking traffic in Maine while dressed as an evergreen tree says the public display was intended to be performance art....",
+        "lead_paragraph": "A man arrested for blocking traffic in Maine while dressed as an evergreen tree says the public display was intended to be performance art.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Says Tree Stunt That Blocked Traffic Was Performance Art",
+          "print_headline": "Man Says Tree Stunt That Blocked Traffic Was Performance Art"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T21:25:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fcde495d0e022439c52d7",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://news.blogs.nytimes.com/2016/10/25/what-were-reading-200/",
+        "snippet": "Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from Kim Severson, John Branch and others....",
+        "lead_paragraph": null,
+        "abstract": "Get recommendations from New York Times reporters and editors, highlighting great stories from around the web. Today, great reads from Kim Severson, John Branch and others.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/25/nytnow/25wwr4/25wwr4-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/25/nytnow/25wwr4/25wwr4-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/25/nytnow/25wwr4/25wwr4-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/25/nytnow/25wwr4/25wwr4-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What We&#8217;re Reading",
+          "kicker": "News"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Branch, John"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Browder, Kalief (1993-2015)"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Durant, Kevin"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Hardy, Quentin"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Richardson, Lynda"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Severson, Kim"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "AT&T Inc"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Marshall Project, The"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Mental Floss"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "New Yorker"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Rolling Stone"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Time Warner Inc"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Artificial Intelligence"
+          }
+        ],
+        "pub_date": "2016-10-25T21:23:02Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Blogs",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Blog",
+        "_id": "580fcd4095d0e022439c52d6",
+        "word_count": "375",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

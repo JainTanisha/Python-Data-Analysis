@@ -1,0 +1,481 @@
+{
+  "response": {
+    "meta": {
+      "hits": 610,
+      "time": 48,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/business/daily-stock-market-activity.html",
+        "snippet": "Utility and consumer stocks took losses on Tuesday. Earlier, bank stocks across Europe fell after the results of a stress test on Friday....",
+        "lead_paragraph": "Utility and consumer stocks took losses on Tuesday. Earlier, bank stocks across Europe fell after the results of a stress test on Friday.",
+        "abstract": "Stocks fall as investors fret about state of United States economy.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Wall St. Falls, Led by Consumer Companies",
+          "print_headline": "Wall St. Slides as Insecurity Spreads"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Stocks and Bonds"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nasdaq Composite Index"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Standard & Poor's 500-Stock Index"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Dow Jones Stock Average"
+          }
+        ],
+        "pub_date": "2016-08-02T14:07:04+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0a90a38f0d861602e1c60",
+        "word_count": "594",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/business/economy/rethinking-the-role-of-government-in-society.html",
+        "snippet": "The most promising way to improve the nation\u2019s standard of living, some academics argue, is to expand the work of government....",
+        "lead_paragraph": "The most promising way to improve the nation\u2019s standard of living, some academics argue, is to expand the work of government.",
+        "abstract": "Eduardo Porter Economic Scene asserts there is vigorous case for more government, not less, as most promising method to better nation's standard of living and boost economy; contends times are changing in unexpected ways with presidential election approaching; says sense of opportunity for change is prevalent, despite fact that small government Republican orthodoxy is likely to prevail in Congress for years to come",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/business/03PORTER/03PORTER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/business/03PORTER/03PORTER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/business/03PORTER/03PORTER-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/business/03PORTER/03PORTER-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/business/03PORTER/03PORTER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/business/03PORTER/03PORTER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Case for More Government and Higher Taxes",
+          "content_kicker": "Economic Scene",
+          "kicker": "Economic Scene",
+          "print_headline": "The Case  for More  Government,  Not Less"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Economy"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Income Inequality"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gross Domestic Product"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-08-02T14:04:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Economy",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eduardo",
+              "rank": 1,
+              "lastname": "PORTER"
+            }
+          ],
+          "original": "By EDUARDO PORTER"
+        },
+        "type_of_material": "News",
+        "_id": "57a0a88838f0d861602e1c5f",
+        "word_count": "1192",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/technology/instagram-stories-snapchat-facebook.html",
+        "snippet": "The new service from Facebook\u2019s photo-sharing app will let people share photos and videos that have a life span of no more than 24 hours with friends who follow them....",
+        "lead_paragraph": "The new service from Facebook\u2019s photo-sharing app will let people share photos and videos that have a life span of no more than 24 hours with friends who follow them.",
+        "abstract": "Facebook's photo-sharing app Instagram introduces Instagram Stories, allowing users to share photos and videos for up to 24 hours with friends who follow them; service is much like rival's Snapchat Stories.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/business/03INSTAGRAM/03INSTAGRAM-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/business/03INSTAGRAM/03INSTAGRAM-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/business/03INSTAGRAM/03INSTAGRAM-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/business/03INSTAGRAM/03INSTAGRAM-articleLarge.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/business/03INSTAGRAM/03INSTAGRAM-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/business/03INSTAGRAM/03INSTAGRAM-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Instagram Takes a Page From Snapchat, and Takes Aim at It, Too",
+          "print_headline": "   Instagram Takes a Page From Snapchat  (and Takes Direct Aim at Its Rival App)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Instagram Inc"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Snapchat Inc"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mobile Applications"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Instant Messaging"
+          }
+        ],
+        "pub_date": "2016-08-02T14:00:19+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "ISAAC"
+            }
+          ],
+          "original": "By MIKE ISAAC"
+        },
+        "type_of_material": "News",
+        "_id": "57a0a77b38f0d861602e1c5b",
+        "word_count": "977",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/02/arts/ap-us-tv-tony-bennett.html",
+        "snippet": "NBC is celebrating Tony Bennett's 90th birthday with a star-filled tribute airing in December....",
+        "lead_paragraph": "NBC is celebrating Tony Bennett's 90th birthday with a star-filled tribute airing in December.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NBC Salutes Tony Bennett's 90th Birthday With 2-Hour Special",
+          "print_headline": "NBC Salutes Tony Bennett's 90th Birthday With 2-Hour Special"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:41:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0dbb438f0d8762aab6833",
+        "word_count": "211",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/02/us/politics/02reuters-usa-election-trump-statement.html",
+        "snippet": "U.S. Republican presidential candidate Donald Trump shot back at President Barack Obama's criticism of him as unfit for office, saying Democratic rival Hillary Clinton has embraced policies that have hurt national security and America's workers....",
+        "lead_paragraph": "U.S. Republican presidential candidate Donald Trump shot back at President Barack Obama's criticism of him as unfit for office, saying Democratic rival Hillary Clinton has embraced policies that have hurt national security and America's workers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Fires Back at Obama, Says Clinton 'Unfit' for Government",
+          "print_headline": "Trump Fires Back at Obama, Says Clinton 'Unfit' for Government"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:38:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0db8838f0d8762aab6832",
+        "word_count": "81",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/02/world/middleeast/ap-ml-iran-executions.html",
+        "snippet": "The official news agency for Iran's judiciary says authorities have executed a number of Kurdish Islamic extremists convicted of armed robbery, killing civilians and planning bomb attacks....",
+        "lead_paragraph": "The official news agency for Iran's judiciary says authorities have executed a number of Kurdish Islamic extremists convicted of armed robbery, killing civilians and planning bomb attacks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Iran Says It Has Executed a Number of Kurdish Militants",
+          "print_headline": "Iran Says It Has Executed a Number of Kurdish Militants"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:38:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0db0c38f0d8762aab6831",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/02/us/ap-us-california-drought-the-latest.html",
+        "snippet": "The Latest on California water conservation (all times local):...",
+        "lead_paragraph": "The Latest on California water conservation (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: California Water Conservation Drops",
+          "print_headline": "The Latest: California Water Conservation Drops"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:34:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0da5338f0d8762aab6830",
+        "word_count": "267",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/02/arts/02reuters-film-suicidesquad.html",
+        "snippet": "A deadly hit man, a sweetly insane former psychiatrist, a boomerang-wielding assassin, a lethal reptilian and a pyromaniac gang member are not the usual suspects to protect Gotham city, but the \"Suicide Squad\" prove that even bad guys can be good....",
+        "lead_paragraph": "A deadly hit man, a sweetly insane former psychiatrist, a boomerang-wielding assassin, a lethal reptilian and a pyromaniac gang member are not the usual suspects to protect Gotham city, but the \"Suicide Squad\" prove that even bad guys can be good. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Villains at Play in Anti-Hero Movie 'Suicide Squad'",
+          "print_headline": "Villains at Play in Anti-Hero Movie 'Suicide Squad'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:35:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0da2f38f0d8762aab682f",
+        "word_count": "398",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/02/business/02reuters-britain-eu-germany-study.html",
+        "snippet": "Brexit is expected to reduce Britain's economic growth by 0.3 percentage points this year and 1.2 points in 2017, a study by Germany's DIW economic institute found, according to the Handelsblatt newspaper....",
+        "lead_paragraph": "Brexit is expected to reduce Britain's economic growth by 0.3 percentage points this year and 1.2 points in 2017, a study by Germany's DIW economic institute found, according to the Handelsblatt newspaper.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brexit to Dent UK Growth by 1.2 Percentage Points in 2017-Germany's DIW to Paper",
+          "print_headline": "Brexit to Dent UK Growth by 1.2 Percentage Points in 2017-Germany's DIW to Paper"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:35:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0da2938f0d8762aab682e",
+        "word_count": "172",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/02/arts/ap-us-tv-nbc-trump.html",
+        "snippet": "Donald Trump's run for president caught his bosses at NBC off-guard, said the network's entertainment head....",
+        "lead_paragraph": "Donald Trump's run for president caught his bosses at NBC off-guard, said the network's entertainment head.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NBC Boss: We're Not to Blame for Launching Trump's Candidacy",
+          "print_headline": "NBC Boss: We're Not to Blame for Launching Trump's Candidacy"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-02T13:31:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a0d9b338f0d8762aab682d",
+        "word_count": "199",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

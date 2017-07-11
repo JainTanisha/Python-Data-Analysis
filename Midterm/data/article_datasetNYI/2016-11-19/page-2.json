@@ -1,0 +1,454 @@
+{
+  "response": {
+    "meta": {
+      "hits": 426,
+      "time": 134,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ap-car-nascar-homestead-jimmie-johnson-.html",
+        "snippet": "On the eve of Jimmie Johnson's attempt to make NASCAR history, the six-time champion planned to go for a little run....",
+        "lead_paragraph": "On the eve of Jimmie Johnson's attempt to make NASCAR history, the six-time champion planned to go for a little run.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "ONLY ON AP: Jimmie Johnson Has Record 7th Title Within Reach",
+          "print_headline": "ONLY ON AP: Jimmie Johnson Has Record 7th Title Within Reach"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:36:46+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830d40795d0e03926071852",
+        "word_count": "956",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/arts/lupita-tovar-star-of-spanish-language-dracula-dies-at-106.html",
+        "snippet": "Ms. Tovar, known as the \u201cSweetheart of Mexico,\u201d also performed in silent films and Westerns and helped to promote Mexican cinema....",
+        "lead_paragraph": "Ms. Tovar, known as the \u201cSweetheart of Mexico,\u201d also performed in silent films and Westerns and helped to promote Mexican cinema.",
+        "abstract": null,
+        "print_page": "29",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/19/arts/19Tovar-Obit-sub/19Tovar-Obit-sub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/19/arts/19Tovar-Obit-sub/19Tovar-Obit-sub-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/19/arts/19Tovar-Obit-sub/19Tovar-Obit-sub-articleLarge.jpg",
+            "height": 475,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/19/arts/19Tovar-Obit-sub/19Tovar-Obit-sub-articleLarge.jpg",
+              "xlargeheight": "475"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/19/arts/19Tovar-Obit-sub/19Tovar-Obit-sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/19/arts/19Tovar-Obit-sub/19Tovar-Obit-sub-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Lupita Tovar, Star of Spanish-Language \u2018Dracula,\u2019 Dies at 106",
+          "print_headline": "Lupita Tovar, 106, a Star in the Spanish-Language \u2018Dracula\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Tovar, Lupita (1910-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          }
+        ],
+        "pub_date": "2016-11-19T22:28:27+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 1,
+              "lastname": "MELE"
+            }
+          ],
+          "original": "By CHRISTOPHER MELE"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5830d21295d0e03926071851",
+        "word_count": "730",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/us/ap-us-killed-by-police.html",
+        "snippet": "Police say a 21-year-old Brooklyn man was fatally shot during a skirmish with two police officers in a housing project....",
+        "lead_paragraph": "Police say a 21-year-old Brooklyn man was fatally shot during a skirmish with two police officers in a housing project.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "New York City Police Fatally Shoot Man During Scuffle",
+          "print_headline": "New York City Police Fatally Shoot Man During Scuffle"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:21:38+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830d07b95d0e03926071850",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/us/ap-us-pregnant-woman-fatally-shot.html",
+        "snippet": "A pregnant woman was fatally shot at a busy Central California intersection, but her baby was saved after doctors delivered the boy by emergency C-section, authorities said....",
+        "lead_paragraph": "A pregnant woman was fatally shot at a busy Central California intersection, but her baby was saved after doctors delivered the boy by emergency C-section, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pregnant Woman Fatally Shot; Baby Delivered by C-Section",
+          "print_headline": "Pregnant Woman Fatally Shot; Baby Delivered by C-Section"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:21:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830d07295d0e0392607184e",
+        "word_count": "324",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/sports/rugby/19reuters-rugby-union-italy-oshea.html",
+        "snippet": "Italy's new Irish coach Conor O'Shea was lying in wait for South Africa....",
+        "lead_paragraph": "Italy's new Irish coach Conor O'Shea was lying in wait for South Africa.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Italy Defeat of Boks Was an Ambush, Planned Months Ago",
+          "print_headline": "Italy Defeat of Boks Was an Ambush, Planned Months Ago"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:21:33+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830d07395d0e0392607184f",
+        "word_count": "501",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/sports/tennis/19reuters-tennis-atp-djokovic.html",
+        "snippet": "A clinical Novak Djokovic thrashed Kei Nishikori 6-1 6-1 on Saturday to set up a season-ending winner-takes-all showdown with home favorite Andy Murray at the ATP World Tour Finals....",
+        "lead_paragraph": "A clinical Novak Djokovic thrashed Kei Nishikori 6-1 6-1 on Saturday to set up a season-ending winner-takes-all showdown with home favorite Andy Murray at the ATP World Tour Finals.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Djokovic Thrashes Nishikori to Set Up Murray Showdown",
+          "print_headline": "Djokovic Thrashes Nishikori to Set Up Murray Showdown"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:18:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830cfc395d0e0392607184d",
+        "word_count": "135",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ap-car-nascar-homestead-what-to-watch.html",
+        "snippet": "Jimmie Johnson attempts a drive into NASCAR history....",
+        "lead_paragraph": "Jimmie Johnson attempts a drive into NASCAR history.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Johnson, Logano, Edwards, Busch Aim for NASCAR Championship",
+          "print_headline": "Johnson, Logano, Edwards, Busch Aim for NASCAR Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:15:58+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830cf2595d0e0392607184c",
+        "word_count": "698",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ap-ath-ncaa-cross-country-championships.html",
+        "snippet": "Villanova's Patrick Tiernan won the men's title and Missouri's Karissa Schweizer claimed the women's event at the NCAA Division I cross country championships Saturday....",
+        "lead_paragraph": "Villanova's Patrick Tiernan won the men's title and Missouri's Karissa Schweizer claimed the women's event at the NCAA Division I cross country championships Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Northern Arizona, Oregon Win Cross Country Titles",
+          "print_headline": "Northern Arizona, Oregon Win Cross Country Titles"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:09:41+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830cdb495d0e0392607184b",
+        "word_count": "144",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/us/politics/hamilton-cast-mike-pence-donald-trump.html",
+        "snippet": "Donald Trump took to Twitter to demand an apology from the cast of \u201cHamilton,\u201d which directly addressed Vice President-elect Mike Pence after a performance on Friday....",
+        "lead_paragraph": "Donald Trump took to Twitter to demand an apology from the cast of \u201cHamilton,\u201d which directly addressed Vice President-elect Mike Pence after a performance on Friday.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/us/20pence-3/20pence-3-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/us/20pence-3/20pence-3-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/us/20pence-3/20pence-3-articleLarge-v2.jpg",
+            "height": 533,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/us/20pence-3/20pence-3-articleLarge-v2.jpg",
+              "xlargeheight": "533"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/us/20pence-3/20pence-3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/us/20pence-3/20pence-3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Hamilton\u2019 Cast\u2019s Appeal to Pence Ignites Showdown With Trump",
+          "print_headline": "\u2018Hamilton\u2019 Plea Sets Stage for a Trump Clash"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pence, Mike"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Miranda, Lin-Manuel"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Hamilton (Play)"
+          }
+        ],
+        "pub_date": "2016-11-19T22:08:14+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Christopher Mele contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Patrick",
+              "rank": 1,
+              "lastname": "HEALY"
+            }
+          ],
+          "original": "By PATRICK HEALY"
+        },
+        "type_of_material": "News",
+        "_id": "5830cd5695d0e0392607184a",
+        "word_count": "1767",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/golf/ap-glf-rsm-classic.html",
+        "snippet": "One bad decision cost Mackenzie Hughes his three-shot lead in the RSM Classic....",
+        "lead_paragraph": "One bad decision cost Mackenzie Hughes his three-shot lead in the RSM Classic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Hughes Keeps His Poise and the Lead at Sea Island",
+          "print_headline": "Hughes Keeps His Poise and the Lead at Sea Island"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T22:07:15+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830cd1d95d0e03926071849",
+        "word_count": "817",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,384 @@
+{
+  "response": {
+    "meta": {
+      "hits": 837,
+      "time": 42,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/12/business/media/samsungs-passive-response-to-note-7s-overheating-problem-draws-criticism.html",
+        "snippet": "Instructions on where to get a refund or replacement phone were posted in an obscure spot on the Samsung home page. They were not on social media sites....",
+        "lead_paragraph": "Instructions on where to get a refund or replacement phone were posted in an obscure spot on the Samsung home page. They were not on social media sites.",
+        "abstract": "Both carriers and customers of Samsung Electronics' faulty and abandoned Galaxy Note 7 smartphone are frustrated by company's passive response to phone's fire risks; Samsung has repeatedly stumbled over past month in its efforts to deal with problem.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/12/business/12-CRISIS/12-CRISIS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/12/business/12-CRISIS/12-CRISIS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/12/business/12-CRISIS/12-CRISIS-articleLarge.jpg",
+            "height": 283,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/12/business/12-CRISIS/12-CRISIS-articleLarge.jpg",
+              "xlargeheight": "283"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/12/business/12-CRISIS/12-CRISIS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/12/business/12-CRISIS/12-CRISIS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Samsung\u2019s Response to Galaxy Note 7 Crisis Draws Criticism",
+          "print_headline": "Samsung\u2019s Passive Response to Note 7\u2019s Risks Frustrates Carriers and Customers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Samsung Electronics Co"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Smartphones"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Consumer Protection"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Consumer Product Safety Commission"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Recalls and Bans of Products"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Samsung Group"
+          }
+        ],
+        "pub_date": "2016-10-11T23:42:03+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sapna",
+              "rank": 1,
+              "lastname": "MAHESHWARI"
+            }
+          ],
+          "original": "By SAPNA MAHESHWARI"
+        },
+        "type_of_material": "News",
+        "_id": "57fd78d195d0e022439c2a5f",
+        "word_count": "747",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/business/11reuters-deutsche-bank-bonds.html",
+        "snippet": "Deutsche Bank made a rapid-fire return to the US high-grade bond market on Tuesday, satisfying investor demand by tapping last week's $3 billion deal for another $1.5 billion in fresh cash....",
+        "lead_paragraph": "Deutsche Bank made a rapid-fire return to the US high-grade bond market on Tuesday, satisfying investor demand by tapping last week's $3 billion deal for another $1.5 billion in fresh cash.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Deutsche Bank Dashes Back to Bond Market",
+          "print_headline": "Deutsche Bank Dashes Back to Bond Market"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:33:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd778195d0e022439c2a5d",
+        "word_count": "451",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-drugged-drink-utah-officer-the-latest.html",
+        "snippet": "The Latest on a Utah man accused of drugging a police officer's drink being cleared (all times local):...",
+        "lead_paragraph": "The Latest on a Utah man accused of drugging a police officer's drink being cleared (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Man Mistakenly Accused of Drugging Officer Talks",
+          "print_headline": "The Latest: Man Mistakenly Accused of Drugging Officer Talks"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:12:18Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd76ea95d0e022439c2a5c",
+        "word_count": "332",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-lor-scoota-suspect-killed.html",
+        "snippet": "Police say a person of interest in the death of a beloved Baltimore rap star has been fatally shot....",
+        "lead_paragraph": "Police say a person of interest in the death of a beloved Baltimore rap star has been fatally shot.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Person of Interest in Baltimore Rapper's Death Slain",
+          "print_headline": "Police: Person of Interest in Baltimore Rapper's Death Slain"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:29:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd765d95d0e022439c2a5b",
+        "word_count": "107",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-power-outage.html",
+        "snippet": "Power was restored to tens of thousands of customers following an outage early Tuesday across several communities in Los Angeles County that briefly knocked a major oil refinery offline, officials said....",
+        "lead_paragraph": "Power was restored to tens of thousands of customers following an outage early Tuesday across several communities in Los Angeles County that briefly knocked a major oil refinery offline, officials said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Power Restored to Tens of Thousands in Los Angeles County",
+          "print_headline": "Power Restored to Tens of Thousands in Los Angeles County"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:03:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd72b595d0e022439c2a5a",
+        "word_count": "309",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/sports/rugby/11reuters-rugby-union-england-williams.html",
+        "snippet": "Leicester's England hopeful Mike Williams has been ruled out for up to three months after breaking his arm for the third time in a year in the warm-up before Saturday's win over Worcester....",
+        "lead_paragraph": "Leicester's England hopeful Mike Williams has been ruled out for up to three months after breaking his arm for the third time in a year in the warm-up before Saturday's win over Worcester.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Leicester Flanker Williams Breaks Arm for Third Time",
+          "print_headline": "Leicester Flanker Williams Breaks Arm for Third Time"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:14:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Rugby",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd729a95d0e022439c2a59",
+        "word_count": "204",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-beardog-discovery.html",
+        "snippet": "For decades a fossilized carnivore jawbone sat largely unnoticed in a drawer at Chicago's Field Museum....",
+        "lead_paragraph": "For decades a fossilized carnivore jawbone sat largely unnoticed in a drawer at Chicago's Field Museum.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "'Beardog' Discovery Offers Clues to How Canines Evolved",
+          "print_headline": "'Beardog' Discovery Offers Clues to How Canines Evolved"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:11:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd721b95d0e022439c2a58",
+        "word_count": "585",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/politics/ap-us-voter-citizenship-kansas.html",
+        "snippet": "A federal court clerk entered a default judgment Tuesday against Kansas Secretary of State Kris Kobach for failing to file a timely response to a lawsuit challenging the constitutionality of a state law requiring prospective voters to prove they a...",
+        "lead_paragraph": "A federal court clerk entered a default judgment Tuesday against Kansas Secretary of State Kris Kobach for failing to file a timely response to a lawsuit challenging the constitutionality of a state law requiring prospective voters to prove they are U.S. citizens.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Court Enters Default Judgment in Kansas Voting Rights Case",
+          "print_headline": "Court Enters Default Judgment in Kansas Voting Rights Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:07:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd715395d0e022439c2a57",
+        "word_count": "351",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/world/11reuters-un-habitat-lgbt.html",
+        "snippet": "A group of up to 17 countries led by Belarus has blocked a plan to include the rights of gay, lesbian and transgender communities in a new urban strategy drawn up by the United Nations, according to sources close to negotiations....",
+        "lead_paragraph": "A group of up to 17 countries led by Belarus has blocked a plan to include the rights of gay, lesbian and transgender communities in a new urban strategy drawn up by the United Nations, according to sources close to negotiations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Belarus Leads Group of About 17 Nations to Block LGBT Rights in U.N. Cities Plan: Sources",
+          "print_headline": "Belarus Leads Group of About 17 Nations to Block LGBT Rights in U.N. Cities Plan: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:09:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd713395d0e022439c2a56",
+        "word_count": "683",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/business/11reuters-britain-advertising.html",
+        "snippet": "Growth in British companies' advertising spending budgets has hit its highest in more than two years, a survey showed on Wednesday, suggesting that Brexit's impact on the sector might be softer than previously expected....",
+        "lead_paragraph": "Growth in British companies' advertising spending budgets has hit its highest in more than two years, a survey showed on Wednesday, suggesting that Brexit's impact on the sector might be softer than previously expected.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "British Advertising Budgets to Grow in 2016 Despite Brexit-Survey",
+          "print_headline": "British Advertising Budgets to Grow in 2016 Despite Brexit-Survey"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:06:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd713395d0e022439c2a55",
+        "word_count": "297",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

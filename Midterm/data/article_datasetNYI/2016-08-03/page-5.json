@@ -1,0 +1,976 @@
+{
+  "response": {
+    "meta": {
+      "hits": 194,
+      "time": 55,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/03/business/ap-financial-markets-board-of-trade.html",
+        "snippet": "Grain futures were lower Thursday in early trading on the Chicago Board of Trade....",
+        "lead_paragraph": "Grain futures were lower Thursday in early trading on the Chicago Board of Trade.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Grain Mostly Lower, Livestock Mixed",
+          "print_headline": "Grain Mostly Lower, Livestock Mixed"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-03T14:42:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f32b95d0e021d797e9b1",
+        "word_count": "101",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/sports/olympics/michael-phelps-to-carry-us-flag-opening-ceremony.html",
+        "snippet": "The 18-time gold medalist will carry the American flag into the Olympic Stadium on Friday....",
+        "lead_paragraph": "The 18-time gold medalist will carry the American flag into the Olympic Stadium on Friday.",
+        "abstract": "American swimmer Michael Phelps is chosen to carry United States flag during 2016 Olympics opening ceremony.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/sports/04FLAG/04FLAG-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/sports/04FLAG/04FLAG-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/sports/04FLAG/04FLAG-articleLarge.jpg",
+            "height": 405,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/sports/04FLAG/04FLAG-articleLarge.jpg",
+              "xlargeheight": "405"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/sports/04FLAG/04FLAG-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/sports/04FLAG/04FLAG-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Michael Phelps Chosen to Lead U.S. Team at Opening Ceremony",
+          "print_headline": "To His Surprise, Phelps Is Picked to Carry U.S. Flag at Opening Ceremony"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Phelps, Michael"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United States Olympic Committee"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Swimming"
+          }
+        ],
+        "pub_date": "2016-08-03T14:02:00+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "CROUSE"
+            }
+          ],
+          "original": "By KAREN CROUSE"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fd9495d0e021d797eb6c",
+        "word_count": "770",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/opinion/modi-and-indias-dalits.html",
+        "snippet": "It\u2019s time that the prime minister broke his shameful silence on the vigilante violence against members of the country\u2019s lowest castes....",
+        "lead_paragraph": "It\u2019s time that the prime minister broke his shameful silence on the vigilante violence against members of the country\u2019s lowest castes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/opinion/03dalit-inyt/03dalit-inyt-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/opinion/03dalit-inyt/03dalit-inyt-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/opinion/03dalit-inyt/03dalit-inyt-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/opinion/03dalit-inyt/03dalit-inyt-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/opinion/03dalit-inyt/03dalit-inyt-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/opinion/03dalit-inyt/03dalit-inyt-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Modi and India\u2019s Dalits",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Bharatiya Janata Party"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Modi, Narendra"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Vigilantes"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Caste Systems"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "India"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "57c890e995d0e021d7983e99",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/realestate/real-estate-in-gibraltar.html",
+        "snippet": "Gibraltar\u2019s housing market has remained strong over the last 14 years, except for the year of the 2008 global financial crisis, when prices flattened....",
+        "lead_paragraph": "Gibraltar\u2019s housing market has remained strong over the last 14 years, except for the year of the 2008 global financial crisis, when prices flattened.",
+        "abstract": "International House Hunting column; four-bedroom British Colonial with updates and improvements located near nature reserve in Gibraltar, British Overseas Territory on Iberian Peninsula, is listed for $4.62 million; information about market and tips for buying properties in Gibraltar highlighted.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "House Hunting in ... Gibraltar",
+          "content_kicker": "International Real Estate",
+          "print_headline": "House Hunting in ... Gibraltar"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Gibraltar"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Great Britain"
+          }
+        ],
+        "pub_date": "2016-08-03T13:31:34+0000",
+        "document_type": "article",
+        "news_desk": "RealEstate",
+        "section_name": "Real Estate",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alison",
+              "rank": 1,
+              "lastname": "GREGOR"
+            }
+          ],
+          "original": "By ALISON GREGOR"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fec295d0e021d797ebc6",
+        "word_count": "1191",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/travel/five-places-to-go-in-seattle.html",
+        "snippet": "As Seattle becomes increasingly unaffordable, unincorporated White Center is attracting a diverse blend of residents and entrepreneurs....",
+        "lead_paragraph": "As Seattle becomes increasingly unaffordable, unincorporated White Center is attracting a diverse blend of residents and entrepreneurs.",
+        "abstract": "Suburb of White Center in Seattle offers diverse blend of residential areas, restaurants and even adult-oriented businesses that strike balance between neighborhood's gritty past and friendly entrepreneurship.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/travel/07SURFACING1SUB/07SURFACING1SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/travel/07SURFACING1SUB/07SURFACING1SUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/travel/07SURFACING1SUB/07SURFACING1SUB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/travel/07SURFACING1SUB/07SURFACING1SUB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/travel/07SURFACING1SUB/07SURFACING1SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/travel/07SURFACING1SUB/07SURFACING1SUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Five Places to Go in Seattle",
+          "content_kicker": "Surfacing",
+          "kicker": "Surfacing",
+          "print_headline": "South of Seattle, a Grittier Vibe"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Seattle (Wash)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Washington (State)"
+          }
+        ],
+        "pub_date": "2016-08-03T12:15:34+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 1,
+              "lastname": "SEELY"
+            }
+          ],
+          "original": "By MIKE SEELY"
+        },
+        "type_of_material": "News",
+        "_id": "57aa205795d0e021d797f062",
+        "word_count": "425",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/travel/ireland-roger-casement.html",
+        "snippet": "A pilgrimage to trace the steps of the Irish-independence and human-rights activist Roger Casement on the centenary of his execution for high treason....",
+        "lead_paragraph": "A pilgrimage to trace the steps of the Irish-independence and human-rights activist Roger Casement on the centenary of his execution for high treason.",
+        "abstract": "Rosie Schaap travel article on visit to Northern Ireland and to Republic of Ireland, tracing landmarks and trails frequented by Irish poet and human rights activist Roger Casement. ",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/travel/07FOOTSTEPS2/07FOOTSTEPS2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/travel/07FOOTSTEPS2/07FOOTSTEPS2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/travel/07FOOTSTEPS2/07FOOTSTEPS2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/travel/07FOOTSTEPS2/07FOOTSTEPS2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/travel/07FOOTSTEPS2/07FOOTSTEPS2-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/travel/07FOOTSTEPS2/07FOOTSTEPS2-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In Ireland, Chasing the Ghost of the Rebel Roger Casement",
+          "content_kicker": "Footsteps",
+          "kicker": "Footsteps",
+          "print_headline": "Chasing a Rebel Ghost on the Emerald Isle"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Dublin (Ireland)"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Ulysses (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Casement, Roger David"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Poetry and Poets"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Northern Ireland"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Ireland"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Gaelic Athletic Assn"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "County Kerry (Ireland)"
+          }
+        ],
+        "pub_date": "2016-08-03T12:14:26+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rosie",
+              "rank": 1,
+              "lastname": "SCHAAP"
+            }
+          ],
+          "original": "By ROSIE SCHAAP"
+        },
+        "type_of_material": "News",
+        "_id": "57aa044c95d0e021d797ed07",
+        "word_count": "2578",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/03/obituaries/bresson.html",
+        "snippet": "Cartier-Bresson\u2019s concept of the split second that reveals the larger truth of a situation set the stage for hundreds of photojournalists to bring the world into living rooms....",
+        "lead_paragraph": "Cartier-Bresson\u2019s concept of the split second that reveals the larger truth of a situation set the stage for hundreds of photojournalists to bring the world into living rooms.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/arts/nf-obits-cartierbresson-2/nf-obits-cartierbresson-2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/arts/nf-obits-cartierbresson-2/nf-obits-cartierbresson-2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/arts/nf-obits-cartierbresson-2/-nf-obits-cartierbresson-2-articleLarge.jpg",
+            "height": 803,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/arts/nf-obits-cartierbresson-2/-nf-obits-cartierbresson-2-articleLarge.jpg",
+              "xlargeheight": "803"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/arts/nf-obits-cartierbresson-2/nf-obits-cartierbresson-2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/arts/nf-obits-cartierbresson-2/nf-obits-cartierbresson-2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Not Forgotten: Henri Cartier-Bresson, Whose \u201cDecisive Moment\u201d Shaped Modern Photography"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Writing and Writers"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Obituaries",
+        "section_name": "Obituaries",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "ESTRIN"
+            }
+          ],
+          "original": "By JAMES ESTRIN"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "5888fe4c95d0e0392607cc2a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/theater/barbra-streisand-sets-the-record-straight.html",
+        "snippet": "At 74, as she embarks on a memoir, an album and a rare tour, the megastar is intent on correcting (the tiniest) errors and on defining her own legacy....",
+        "lead_paragraph": "At 74, as she embarks on a memoir, an album and a rare tour, the megastar is intent on correcting (the tiniest) errors and on defining her own legacy.",
+        "abstract": "Actress and singer Barbra Streisand has released her 35th studio album Encore: Movie Partners Sing Broadway and is set to embark on nine-city tour.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/arts/07STREISAND-WEB/07STREISAND-WEB-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/arts/07STREISAND-WEB/07STREISAND-WEB-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/arts/07STREISAND-WEB/07STREISAND-WEB-articleLarge-v3.jpg",
+            "height": 425,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/arts/07STREISAND-WEB/07STREISAND-WEB-articleLarge-v3.jpg",
+              "xlargeheight": "425"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/arts/07STREISAND-WEB/07STREISAND-WEB-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/arts/07STREISAND-WEB/07STREISAND-WEB-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Barbra Streisand Sets the Record Straight",
+          "print_headline": "Setting Things Straight"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Streisand, Barbra"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Encore: Movie Partners Sing Broadway (Album)"
+          }
+        ],
+        "pub_date": "2016-08-03T11:00:26+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "BRANTLEY"
+            }
+          ],
+          "original": "By BEN BRANTLEY"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f6a495d0e021d797ea50",
+        "word_count": "2746",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/magazine/the-brain-that-couldnt-remember.html",
+        "snippet": "The untold story of the fight over the legacy of \u201cH.M.\u201d \u2014 the patient who revolutionized the science of memory....",
+        "lead_paragraph": "The untold story of the fight over the legacy of \u201cH.M.\u201d \u2014 the patient who revolutionized the science of memory.",
+        "abstract": "Luke Dittrich article examines bitter battle that erupted over custody of brain of Henry Molaison, famous amnesiac patient known as Patient HM, following his death in 2008; at center of fight was Suzanne Corkin, neuroscientist who had decades-long relationship with Molaison.",
+        "print_page": "34",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/magazine/07brain1/07brain1-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/magazine/07brain1/07brain1-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/magazine/07brain1/07brain1-articleLarge-v14.jpg",
+            "height": 609,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/magazine/07brain1/07brain1-articleLarge-v14.jpg",
+              "xlargeheight": "609"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/magazine/07brain1/07brain1-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/magazine/07brain1/07brain1-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Brain That Couldn\u2019t Remember",
+          "content_kicker": "Feature",
+          "kicker": "Feature",
+          "print_headline": "The Brain That Couldn\u2019t Remember"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Memory"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Massachusetts Institute of Technology"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Molaison, Henry Gustav"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Corkin, Suzanne (1937-2016)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Brain"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "University of California, San Diego"
+          }
+        ],
+        "pub_date": "2016-08-03T11:00:25+0000",
+        "document_type": "article",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Luke",
+              "rank": 1,
+              "lastname": "DITTRICH"
+            }
+          ],
+          "original": "By LUKE DITTRICH"
+        },
+        "type_of_material": "News",
+        "_id": "57aa046e95d0e021d797ed14",
+        "word_count": "7551",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/magazine/chuck-d-thinks-rage-is-good-for-america.html",
+        "snippet": "The rapper on protesting at the R.N.C., revisiting \u201cFight the Power\u201d and why Donald Trump is like an amusement park attraction....",
+        "lead_paragraph": "The rapper on protesting at the R.N.C., revisiting \u201cFight the Power\u201d and why Donald Trump is like an amusement park attraction.",
+        "abstract": "Taffy Brodesser-Akner Talk interview with Chuck D, founder and frontman of rap group Public Enemy, in which he discusses his new supergroup Prophets of Rage and state of politics in America.",
+        "print_page": "54",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/magazine/07talk/07mag-07talk-t_CA0-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/magazine/07talk/07mag-07talk-t_CA0-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/magazine/07talk/07mag-07talk-t_CA0-articleLarge.jpg",
+            "height": 970,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/magazine/07talk/07mag-07talk-t_CA0-articleLarge.jpg",
+              "xlargeheight": "970"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/magazine/07talk/07mag-07talk-t_CA0-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/magazine/07talk/07mag-07talk-t_CA0-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Chuck D Thinks Rage Is Good for America",
+          "content_kicker": "Talk",
+          "kicker": "Talk",
+          "print_headline": "Chuck D Thinks Rage Is Good for America"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Chuck D (1960- )"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Prophets of Rage (Music Group)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Public Enemy"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-08-03T11:00:04+0000",
+        "document_type": "article",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Interview",
+              "middlename": "Taffy",
+              "lastname": "BRODESSER-AKNER",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "Interview by TAFFY BRODESSER-AKNER"
+        },
+        "type_of_material": "News",
+        "_id": "57aa042595d0e021d797ecf0",
+        "word_count": "685",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

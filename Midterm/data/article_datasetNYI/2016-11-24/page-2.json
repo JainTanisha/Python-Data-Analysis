@@ -1,0 +1,741 @@
+{
+  "response": {
+    "meta": {
+      "hits": 622,
+      "time": 56,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/theater/gifts-for-the-discerning-theater-fan.html",
+        "snippet": "Simon McBurney\u2019s hypnotic one-man show or Cate Blanchett\u2019s daredevil acting? There are also cast albums like \u201cBright Star\u201d and \u201cA New Brain.\u201d...",
+        "lead_paragraph": "Simon McBurney\u2019s hypnotic one-man show or Cate Blanchett\u2019s daredevil acting? There are also cast albums like \u201cBright Star\u201d and \u201cA New Brain.\u201d",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25THEATER_COMBO/25THEATER_COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25THEATER_COMBO/25THEATER_COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25THEATER_COMBO/25THEATER_COMBO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25THEATER_COMBO/25THEATER_COMBO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25THEATER_COMBO/25THEATER_COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25THEATER_COMBO/25THEATER_COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gifts for the Discerning Theater Fan",
+          "print_headline": "Say It With Tickets"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "A New Brain (Play)"
+          },
+          {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Christmas"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "She Loves Me (Play)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Oh, Hello on Broadway (Play)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Bright Star (Play)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Lazarus (Play)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Close to You: Bacharach Reimagined (Album)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Encounter (Play)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Present (Play)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Jitney (Play)"
+          }
+        ],
+        "pub_date": "2016-11-24T22:42:53+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 1,
+              "lastname": "BRANTLEY"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Scott",
+              "rank": 2,
+              "lastname": "HELLER"
+            }
+          ],
+          "original": "By BEN BRANTLEY and SCOTT HELLER"
+        },
+        "type_of_material": "News",
+        "_id": "58376cf595d0e0392607261c",
+        "word_count": "913",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/movies/movie-listings-for-nov-25-dec-1.html",
+        "snippet": "A guide to movies playing at theaters in the New York City area, as well as select festivals and film series....",
+        "lead_paragraph": "A guide to movies playing at theaters in the New York City area, as well as select festivals and film series.",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25LISTINGSMOVIES/25LISTINGSMOVIES-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25LISTINGSMOVIES/25LISTINGSMOVIES-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25LISTINGSMOVIES/25LISTINGSMOVIES-articleLarge.jpg",
+            "height": 609,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25LISTINGSMOVIES/25LISTINGSMOVIES-articleLarge.jpg",
+              "xlargeheight": "609"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25LISTINGSMOVIES/25LISTINGSMOVIES-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25LISTINGSMOVIES/25LISTINGSMOVIES-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Movie Listings for Nov. 25-Dec. 1",
+          "print_headline": "The Listings: Movies"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-11-24T22:37:31+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "58376bb295d0e0392607261b",
+        "word_count": "2777",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/sports/soccer/ap-soc-europa-league-roundup.html",
+        "snippet": "Wayne Rooney surpassed Ruud van Nistelrooy as Manchester United's all-time top scorer in European competitions on Thursday, leading the English club to a 4-0 win over Feyenoord and keeping it alive in the Europa League....",
+        "lead_paragraph": "Wayne Rooney surpassed Ruud van Nistelrooy as Manchester United's all-time top scorer in European competitions on Thursday, leading the English club to a 4-0 win over Feyenoord and keeping it alive in the Europa League.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rooney Leads Man United to 4-0 Win With Record-Breaking Goal",
+          "print_headline": "Rooney Leads Man United to 4-0 Win With Record-Breaking Goal"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:36:48+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58376b8a95d0e0392607261a",
+        "word_count": "859",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/sports/soccer/24reuters-soccer-spain-fcb-messi.html",
+        "snippet": "Lionel Messi's prodigious talent is matched by his startling humility, which he displayed again on Thursday by denying that Barcelona's fate is determined by his presence in the team....",
+        "lead_paragraph": "Lionel Messi's prodigious talent is matched by his startling humility, which he displayed again on Thursday by denying that Barcelona's fate is determined by his presence in the team. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Messi Downplays Role in Barca Success",
+          "print_headline": "Messi Downplays Role in Barca Success"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:33:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58376ac895d0e03926072619",
+        "word_count": "439",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/world/europe/24reuters-france-election.html",
+        "snippet": "An assertive Francois Fillon told French voters on Thursday that rival Alain Juppe \"does not really want to change things,\" in a debate a flash poll showed Fillon winning, days before a vote to decide which one will run in the 2017 presidential el...",
+        "lead_paragraph": "An assertive Francois Fillon told French voters on Thursday that rival Alain Juppe \"does not really want to change things,\" in a debate a flash poll showed Fillon winning, days before a vote to decide which one will run in the 2017 presidential election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "France's Fillon Found 'More Convincing' Than Juppe in Final Primary Debate-Poll",
+          "print_headline": "France's Fillon Found 'More Convincing' Than Juppe in Final Primary Debate-Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:30:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58376a1295d0e03926072618",
+        "word_count": "634",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/books/book-gift-ideas.html",
+        "snippet": "Suggestions for fiction and nonfiction books released this year....",
+        "lead_paragraph": "Suggestions for fiction and nonfiction books released this year.",
+        "abstract": null,
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25GIFT-BOOKS-COMBO/25GIFT-BOOKS-COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25GIFT-BOOKS-COMBO/25GIFT-BOOKS-COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25GIFT-BOOKS-COMBO/25GIFT-BOOKS-COMBO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25GIFT-BOOKS-COMBO/25GIFT-BOOKS-COMBO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25GIFT-BOOKS-COMBO/25GIFT-BOOKS-COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25GIFT-BOOKS-COMBO/25GIFT-BOOKS-COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Book Gift Ideas: Who Needs Wrapping? They\u2019re Already Covered",
+          "print_headline": "Who Needs Wrapping? They\u2019re Already Covered"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mukherjee, Siddhartha"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kinsley, Michael"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Old Age: A Beginner's Guide (Book)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Seinfeldia: How a Show About Nothing Changed Everything (Book)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-24T22:28:59+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dwight",
+              "rank": 1,
+              "lastname": "GARNER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 2,
+              "lastname": "SENIOR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dana",
+              "rank": 3,
+              "lastname": "JENNINGS"
+            },
+            {
+              "firstname": "George",
+              "middlename": "Gene",
+              "lastname": "GUSTINES",
+              "rank": 4,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By DWIGHT GARNER, JENNIFER SENIOR, DANA JENNINGS and GEORGE GENE GUSTINES"
+        },
+        "type_of_material": "News",
+        "_id": "583769b095d0e03926072617",
+        "word_count": "1262",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/world/europe/24reuters-germany-pensions.html",
+        "snippet": "Germany's ruling coalition agreed on Thursday to gradually raise state-backed pensions of those from the former Communist east to match western German levels from 2018 through 2025, a memorandum about the meeting showed....",
+        "lead_paragraph": "Germany's ruling coalition agreed on Thursday to gradually raise state-backed pensions of those from the former Communist east to match western German levels from 2018 through 2025, a memorandum about the meeting showed.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "German Coalition Agrees to Lift East German Pensions From 2018",
+          "print_headline": "German Coalition Agrees to Lift East German Pensions From 2018"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:24:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583768a795d0e03926072616",
+        "word_count": "239",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/arts/comedy-listings-for-nov-25-dec-1.html",
+        "snippet": "A selected guide to stand-up, improv and comedy shows in New York City....",
+        "lead_paragraph": "A selected guide to stand-up, improv and comedy shows in New York City.",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Comedy Listings for Nov. 25-Dec. 1",
+          "print_headline": "The Listings: Comedy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          }
+        ],
+        "pub_date": "2016-11-24T22:21:04+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "583767d695d0e03926072615",
+        "word_count": "694",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/arts/music/gift-ideas-for-classical-music-fans.html",
+        "snippet": "Gift suggestions this season include works by Mozart, but also a classical-themed pillow and books....",
+        "lead_paragraph": "Gift suggestions this season include works by Mozart, but also a classical-themed pillow and books.",
+        "abstract": null,
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25CLASSICAL_COMBO/25CLASSICAL_COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25CLASSICAL_COMBO/25CLASSICAL_COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25CLASSICAL_COMBO/25CLASSICAL_COMBO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25CLASSICAL_COMBO/25CLASSICAL_COMBO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25CLASSICAL_COMBO/25CLASSICAL_COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25CLASSICAL_COMBO/25CLASSICAL_COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Gift Ideas for Classical Music Fans",
+          "print_headline": "For Classical Fans, Boxed Sets and Beyond"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mozart, Wolfgang Amadeus"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Beethoven, Ludwig van"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Eastman, Julius (1940- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Christmas"
+          }
+        ],
+        "pub_date": "2016-11-24T22:11:49+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anthony",
+              "rank": 1,
+              "lastname": "TOMMASINI"
+            },
+            {
+              "firstname": "James",
+              "middlename": "R.",
+              "lastname": "OESTREICH",
+              "rank": 2,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 3
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 4,
+              "lastname": "ALLEN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 5,
+              "lastname": "COOPER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zachary",
+              "rank": 6,
+              "lastname": "WOOLFE"
+            }
+          ],
+          "original": "By ANTHONY TOMMASINI, JAMES R. OESTREICH, CORINNA da FONSECA-WOLLHEIM, DAVID ALLEN, MICHAEL COOPER and ZACHARY WOOLFE"
+        },
+        "type_of_material": "News",
+        "_id": "583765a995d0e03926072614",
+        "word_count": "1726",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/theater/theater-listings-for-nov-25-dec-1.html",
+        "snippet": "A critical guide to productions in New York City, including shows in previews....",
+        "lead_paragraph": "A critical guide to productions in New York City, including shows in previews.",
+        "abstract": null,
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25LISTINGSTHEATER/25LISTINGSTHEATER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25LISTINGSTHEATER/25LISTINGSTHEATER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25LISTINGSTHEATER/25LISTINGSTHEATER-articleLarge.jpg",
+            "height": 490,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25LISTINGSTHEATER/25LISTINGSTHEATER-articleLarge.jpg",
+              "xlargeheight": "490"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25LISTINGSTHEATER/25LISTINGSTHEATER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25LISTINGSTHEATER/25LISTINGSTHEATER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Theater Listings for Nov. 25-Dec. 1",
+          "print_headline": "The Listings: Theater"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          }
+        ],
+        "pub_date": "2016-11-24T22:09:48+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "5837653495d0e03926072613",
+        "word_count": "6083",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

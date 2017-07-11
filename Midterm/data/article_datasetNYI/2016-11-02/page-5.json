@@ -1,0 +1,438 @@
+{
+  "response": {
+    "meta": {
+      "hits": 913,
+      "time": 42,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/sports/soccer/02reuters-soccer-champions-kob-lei.html",
+        "snippet": "Leicester City missed the chance to book an early spot in the Champions League's knockout stages as they survived some nervy moments to secure a goalless draw with FC Copenhagen in Group G on Wednesday....",
+        "lead_paragraph": "Leicester City missed the chance to book an early spot in the Champions League's knockout stages as they survived some nervy moments to secure a goalless draw with FC Copenhagen in Group G on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Leicester Made to Wait After Goalless Draw in Copenhagen",
+          "print_headline": "Leicester Made to Wait After Goalless Draw in Copenhagen"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:06:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64c695d0e022439c6b5e",
+        "word_count": "482",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/business/02reuters-argentina-inflation.html",
+        "snippet": "Argentina's consumer prices will rise by 19.7 percent in 2017, according to a central bank poll of 56 economists published on Wednesday, a slight drop from median expectations in last month's survey but still higher than the central bank's target....",
+        "lead_paragraph": "Argentina's consumer prices will rise by 19.7 percent in 2017, according to a central bank poll of 56 economists published on Wednesday, a slight drop from median expectations in last month's survey but still higher than the central bank's target.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Economists See Argentina 2017 Inflation at 19.7 Percent-Central Bank Poll",
+          "print_headline": "Economists See Argentina 2017 Inflation at 19.7 Percent-Central Bank Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:06:29Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64d695d0e022439c6b61",
+        "word_count": "177",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/04/fashion/mens-style/bar-august-laura-carroll-gardens-cocktail.html",
+        "snippet": "Alyssa Sartor\u2019s parents didn\u2019t want her to go into the family business. After the opening of August Laura, they\u2019re glad she did....",
+        "lead_paragraph": "Alyssa Sartor\u2019s parents didn\u2019t want her to go into the family business. After the opening of August Laura, they\u2019re glad she did.",
+        "abstract": null,
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/04/fashion/04SHAKEN1/04SHAKEN1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/04/fashion/04SHAKEN1/04SHAKEN1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/04/fashion/04SHAKEN1/04SHAKEN1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/04/fashion/04SHAKEN1/04SHAKEN1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/04/fashion/04SHAKEN1/04SHAKEN1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/04/fashion/04SHAKEN1/04SHAKEN1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Place for Family and Italian-American Cocktails in Brooklyn",
+          "content_kicker": "Shaken and Stirred",
+          "kicker": "Shaken and Stirred",
+          "print_headline": "Cocktails Are in Her Blood"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cocktails and Mixed Drinks"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "August Laura (Brooklyn, NY, Bar)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bars and Nightclubs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Carroll Gardens (Brooklyn, NY)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Italian-Americans"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sartor, Alyssa"
+          }
+        ],
+        "pub_date": "2016-11-02T22:04:51Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Men\u2019s Style",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Steven",
+              "rank": 1,
+              "lastname": "KURUTZ"
+            }
+          ],
+          "original": "By STEVEN KURUTZ"
+        },
+        "type_of_material": "News",
+        "_id": "581b64c895d0e022439c6b5f",
+        "word_count": "674",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-woman-dead-in-jail.html",
+        "snippet": "A federal judge formally has dismissed the wrongful death lawsuit filed by the family of Sandra Bland, the Chicago-area woman who died last year in a Texas county jail days after her arrest by a state trooper for a traffic stop that became content...",
+        "lead_paragraph": "A federal judge formally has dismissed the wrongful death lawsuit filed by the family of Sandra Bland, the Chicago-area woman who died last year in a Texas county jail days after her arrest by a state trooper for a traffic stop that became contentious.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Formally Dismisses Sandra Bland Lawsuit After Deal",
+          "print_headline": "Judge Formally Dismisses Sandra Bland Lawsuit After Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:01:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b657195d0e022439c6b6e",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/politics/ap-us-preschooler-gun-in-backpack.html",
+        "snippet": "Police say they've arrested a preschooler's father after the 3-year-old boy brought a loaded gun to school....",
+        "lead_paragraph": "Police say they've arrested a preschooler's father after the 3-year-old boy brought a loaded gun to school.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Boy, 3, Brings Loaded Gun to School; Father Arrested",
+          "print_headline": "Police: Boy, 3, Brings Loaded Gun to School; Father Arrested"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:01:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b655e95d0e022439c6b6c",
+        "word_count": "99",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-death-penalty-ohio.html",
+        "snippet": "A federal appeals court has rejected a challenge by three death row inmates of an Ohio law that shields the names of companies providing lethal injection drugs....",
+        "lead_paragraph": "A federal appeals court has rejected a challenge by three death row inmates of an Ohio law that shields the names of companies providing lethal injection drugs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Court Rejects 3 Inmates' 1st Amendment Lethal Injection Case",
+          "print_headline": "Court Rejects 3 Inmates' 1st Amendment Lethal Injection Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:01:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64b295d0e022439c6b5d",
+        "word_count": "122",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/02/sports/soccer/02reuters-soccer-champions-sev-gdz.html",
+        "snippet": "Sevilla edged closer to a berth in the Champions League knockout stages after a solid performance gave the Spanish side a 4-0 home win over 10-man Croatian title holders Dinamo Zagreb in Group H on Wednesday....",
+        "lead_paragraph": "Sevilla edged closer to a berth in the Champions League knockout stages after a solid performance gave the Spanish side a 4-0 home win over 10-man Croatian title holders Dinamo Zagreb in Group H on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Sevilla Thump Dinamo 4-0 to Close In on Last-16 Berth",
+          "print_headline": "Sevilla Thump Dinamo 4-0 to Close In on Last-16 Berth"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T22:00:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64a795d0e022439c6b5a",
+        "word_count": "260",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/sports/baseball/ap-bbo-world-series-1945-memories.html",
+        "snippet": "The last living player from the 1945 World Series was pulling for the Cubs this year....",
+        "lead_paragraph": "The last living player from the 1945 World Series was pulling for the Cubs this year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Last Living Player From 1945 World Series Shares Memories",
+          "print_headline": "Last Living Player From 1945 World Series Shares Memories"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T21:59:12Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64f195d0e022439c6b63",
+        "word_count": "658",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/02/us/ap-us-baby-falls-from-building.html",
+        "snippet": "A Southern California woman accused of killing her 7-month old baby by pushing him from the fourth floor of a hospital parking structure has been found mentally fit to stand trial....",
+        "lead_paragraph": "A Southern California woman accused of killing her 7-month old baby by pushing him from the fourth floor of a hospital parking structure has been found mentally fit to stand trial.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mother to Stand Trial in 4-Story Drop That Killed Baby",
+          "print_headline": "Mother to Stand Trial in 4-Story Drop That Killed Baby"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T21:58:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581b64a895d0e022439c6b5b",
+        "word_count": "149",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/02/briefing/cubs-indians-election.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/02/briefing/02eveningss-slide-01Q8/02eveningss-slide-01Q8-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/02/briefing/02eveningss-slide-01Q8/02eveningss-slide-01Q8-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/02/briefing/02eveningss-slide-01Q8/02eveningss-slide-01Q8-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/02/briefing/02eveningss-slide-01Q8/02eveningss-slide-01Q8-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/02/briefing/02eveningss-slide-01Q8/02eveningss-slide-01Q8-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/02/briefing/02eveningss-slide-01Q8/02eveningss-slide-01Q8-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Cubs, Indians, Election: Your Wednesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-02T21:58:02Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "581b646695d0e022439c6b4c",
+        "word_count": "702",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

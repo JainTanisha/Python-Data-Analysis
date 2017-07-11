@@ -1,0 +1,518 @@
+{
+  "response": {
+    "meta": {
+      "hits": 766,
+      "time": 49,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/sports/baseball/ap-bbn-cardinals-mets-ppd.html",
+        "snippet": "At last year's trade deadline, Sandy Alderson fed a big meal to New York Mets fans hungry for a title, acquiring Yoenis Cespedes. This year, the general manager is more likely to add a side of fries....",
+        "lead_paragraph": "At last year's trade deadline, Sandy Alderson fed a big meal to New York Mets fans hungry for a title, acquiring Yoenis Cespedes. This year, the general manager is more likely to add a side of fries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mets Hope to Acquire Bullpen Help Before Trade Deadline",
+          "print_headline": "Mets Hope to Acquire Bullpen Help Before Trade Deadline"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:52:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c2fa38f0d84855eae85c",
+        "word_count": "765",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/us/ap-10-things-to-know-tuesday.html",
+        "snippet": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Tuesday:...",
+        "lead_paragraph": "Your daily look at late-breaking news, upcoming events and the stories that will be talked about Tuesday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "10 Things to Know for Tuesday",
+          "print_headline": "10 Things to Know for Tuesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:46:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c2ec38f0d84855eae85b",
+        "word_count": "409",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/26/world/asia/knife-japan-stabbing-sagamihara.html",
+        "snippet": "A former employee who broke into the center overnight in Sagamihara also wounded 25 people before turning himself in, local officials said....",
+        "lead_paragraph": "A former employee who broke into the center overnight in Sagamihara also wounded 25 people before turning himself in, local officials said.",
+        "abstract": "Satoshi Uematsu, former employee of center for disabled in Sagamihara, Japan, breaks into facility and kills 19 people, wounding additional 25, with knife; attack is worst mass killing in Japan in decades.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/27/world/27XP-JAPAN-web1/27XP-JAPAN-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/27/world/27XP-JAPAN-web1/27XP-JAPAN-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/27/world/27XP-JAPAN-web1/27XP-JAPAN0-web1-articleLarge.jpg",
+            "height": 392,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/27/world/27XP-JAPAN-web1/27XP-JAPAN0-web1-articleLarge.jpg",
+              "xlargeheight": "392"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/27/world/27XP-JAPAN-web1/27XP-JAPAN-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/27/world/27XP-JAPAN-web1/27XP-JAPAN-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Japan Knife Attack Kills 19 at Center for Disabled",
+          "print_headline": "19 Are Killed in Knife Rampage Near Tokyo"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Japan"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Uematsu, Satoshi"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Abuse of the Disabled"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mental Health and Disorders"
+          }
+        ],
+        "pub_date": "2016-07-25T21:48:52+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "contributor": "<em>Makiko Inoue and Jonathan Soble contributed reporting from Tokyo, and Karen Zraick from New York.</em>",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Motoko",
+              "rank": 1,
+              "lastname": "RICH"
+            }
+          ],
+          "original": "By MOTOKO RICH"
+        },
+        "type_of_material": "News",
+        "_id": "5796894838f0d84855eae7f2",
+        "word_count": "994",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/world/asia/ap-as-australia-teen-detainee-abuse.html",
+        "snippet": "Australia's prime minister ordered a sweeping investigation Tuesday into alleged abuse at a juvenile detention center after video emerged of Aboriginal teens being tear-gassed, stripped naked and shackled to a chair....",
+        "lead_paragraph": "Australia's prime minister ordered a sweeping investigation Tuesday into alleged abuse at a juvenile detention center after video emerged of Aboriginal teens being tear-gassed, stripped naked and shackled to a chair.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Australian Leader Launches Inquiry Into Teen Detainee Abuse",
+          "print_headline": "Australian Leader Launches Inquiry Into Teen Detainee Abuse"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:33:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796bec238f0d84855eae858",
+        "word_count": "794",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/sports/basketball/ap-bkn-cavaliers-lue-contract.html",
+        "snippet": "Along with a sparkling diamond ring, Tyronn Lue's getting another reward for an NBA title....",
+        "lead_paragraph": "Along with a sparkling diamond ring, Tyronn Lue's getting another reward for an NBA title.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Source: Lue, Cavs Agree to Multiyear Contract Extension",
+          "print_headline": "AP Source: Lue, Cavs Agree to Multiyear Contract Extension"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:30:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796bdff38f0d84855eae857",
+        "word_count": "234",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/us/ap-us-alaska-salmon-spill.html",
+        "snippet": "Alaskans are always excited by salmon runs, unless it's across a highway....",
+        "lead_paragraph": "Alaskans are always excited by salmon runs, unless it's across a highway.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Transport Truck Rolls, Spills Chum Salmon Across Alaska Road",
+          "print_headline": "Transport Truck Rolls, Spills Chum Salmon Across Alaska Road"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:27:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796bd4c38f0d84855eae856",
+        "word_count": "145",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/business/25reuters-southkorea-economy-gdp.html",
+        "snippet": "South Korea's economy grew at an unexpectedly robust 3.2 percent annual rate in the second quarter, driven by firmer domestic consumption and capital investment, but analysts said the lift would probably be temporary....",
+        "lead_paragraph": "South Korea's economy grew at an unexpectedly robust 3.2 percent annual rate in the second quarter, driven by firmer domestic consumption and capital investment, but analysts said the lift would probably be temporary.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Korea GDP Rebounds in Second Quarter, Respite Seen Short-Lived",
+          "print_headline": "South Korea GDP Rebounds in Second Quarter, Respite Seen Short-Lived"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:30:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796bd3b38f0d84855eae855",
+        "word_count": "423",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/world/asia/25reuters-australia-prison-inquiry.html",
+        "snippet": "Australian Prime Minister Malcolm Turnbull on Tuesday ordered an inquiry into the treatment of children in detention after the airing of video showing prison guards teargassing teenage inmates and strapping a half-naked, hooded-boy to a chair....",
+        "lead_paragraph": "Australian Prime Minister Malcolm Turnbull on Tuesday ordered an inquiry into the treatment of children in detention after the airing of video showing prison guards teargassing teenage inmates and strapping a half-naked, hooded-boy to a chair.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Australian PM Orders Inquiry After Teenage Prisoners Teargassed, Stripped Naked",
+          "print_headline": "Australian PM Orders Inquiry After Teenage Prisoners Teargassed, Stripped Naked"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:26:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796bc8938f0d84855eae854",
+        "word_count": "405",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/25/opinion/frances-permanent-emergency-state.html",
+        "snippet": "A stricter state of emergency will not improve counterterrorism efforts....",
+        "lead_paragraph": "A stricter state of emergency will not improve counterterrorism efforts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/25/opinion/25INYT-EmergencyFrance/25INYT-EmergencyFrance-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/25/opinion/25INYT-EmergencyFrance/25INYT-EmergencyFrance-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/25/opinion/25INYT-EmergencyFrance/25INYT-EmergencyFrance-articleLarge.jpg",
+            "height": 392,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/25/opinion/25INYT-EmergencyFrance/25INYT-EmergencyFrance-articleLarge.jpg",
+              "xlargeheight": "392"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/25/opinion/25INYT-EmergencyFrance/25INYT-EmergencyFrance-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/25/opinion/25INYT-EmergencyFrance/25INYT-EmergencyFrance-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "France\u2019s Permanent Emergency State",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hollande, Francois"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nice, France, Attack (July 2016)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Civil Rights and Liberties"
+          }
+        ],
+        "pub_date": "2016-07-25T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "5796bc7138f0d84855eae853",
+        "word_count": "420",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/25/t-magazine/fashion/jacques-elie-ribeyron-jewelry-bags-brand.html",
+        "snippet": "Ribeyron\u2019s bags and jewelry are inspired by pieces from hardware stores, as well as the sculptural works of John Chamberlain....",
+        "lead_paragraph": "Ribeyron\u2019s bags and jewelry are inspired by pieces from hardware stores, as well as the sculptural works of John Chamberlain.",
+        "abstract": "Fashion designer Jacques-Elie Ribeyron describes influences behind his minimalist accessories and jewelry brand, Ribeyron.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/25/t-magazine/25tmag-ribeyron-01/25tmag-ribeyron-01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/25/t-magazine/25tmag-ribeyron-01/25tmag-ribeyron-01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/25/t-magazine/25tmag-ribeyron-01/25tmag-ribeyron-01-articleLarge.jpg",
+            "height": 722,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/25/t-magazine/25tmag-ribeyron-01/25tmag-ribeyron-01-articleLarge.jpg",
+              "xlargeheight": "722"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/25/t-magazine/25tmag-ribeyron-01/25tmag-ribeyron-01-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/25/t-magazine/25tmag-ribeyron-01/25tmag-ribeyron-01-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brand to Know: Fine Jewelry, Made From Industrial Materials",
+          "content_kicker": "On the Verge",
+          "print_headline": "Industrial Jewelry"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Jewels and Jewelry"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "LVMH Moet Hennessy Louis Vuitton SA"
+          }
+        ],
+        "pub_date": "2016-07-25T21:23:34+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kin",
+              "rank": 1,
+              "lastname": "WOO"
+            }
+          ],
+          "original": "By KIN WOO"
+        },
+        "type_of_material": "News",
+        "_id": "5796835b38f0d84855eae7dd",
+        "word_count": "608",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

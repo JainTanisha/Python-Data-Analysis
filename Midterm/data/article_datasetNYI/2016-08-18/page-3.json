@@ -1,0 +1,471 @@
+{
+  "response": {
+    "meta": {
+      "hits": 822,
+      "time": 37,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/us/ap-us-transgender-firing.html",
+        "snippet": "A judge on Thursday dismissed a lawsuit filed on behalf of a transgender embalmer who was fired by a Detroit-area funeral home after disclosing that she was transitioning from male to female and would dress as a woman....",
+        "lead_paragraph": "A judge on Thursday dismissed a lawsuit filed on behalf of a transgender embalmer who was fired by a Detroit-area funeral home after disclosing that she was transitioning from male to female and would dress as a woman.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Dismisses Case Over Transgender Embalmer's Firing",
+          "print_headline": "Judge Dismisses Case Over Transgender Embalmer's Firing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:21:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b63d7495d0e021d7981746",
+        "word_count": "390",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/19/world/europe/far-right-merkel-refugee-policies-germany-home-state.html",
+        "snippet": "Physical clashes involving young refugees have become a focal point in state elections, and a test of the chancellor\u2019s push for integration....",
+        "lead_paragraph": "Physical clashes involving young refugees have become a focal point in state elections, and a test of the chancellor\u2019s push for integration.",
+        "abstract": "Attempt to integrate Middle Eastern and African migrants into Rostok, Germany, housing bloc leads to violent clashes with right-wing activists; incident in Chancellor Angela Merkel's home state underscores increasing vulnerability of her ruling coalition to far-right parties like Alternative for Germany.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/world/xxrostock3/xxrostock3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/world/xxrostock3/xxrostock3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/world/xxrostock3/xxrostock3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/world/xxrostock3/xxrostock3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/world/xxrostock3/xxrostock3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/world/xxrostock3/xxrostock3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Far-Right Party Trades on Merkel\u2019s Refugee Policies in Her Home State",
+          "print_headline": "Far Right Trading on Merkel\u2019s Refugee Policies in Her Home State"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Middle East and Africa Migrant Crisis"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Merkel, Angela"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Alternative for Germany"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Rostock (Germany)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Gross Klein (Germany)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Germany"
+          }
+        ],
+        "pub_date": "2016-08-18T22:55:10+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alison",
+              "rank": 1,
+              "lastname": "SMALE"
+            }
+          ],
+          "original": "By ALISON SMALE"
+        },
+        "type_of_material": "News",
+        "_id": "57b63cd995d0e021d7981745",
+        "word_count": "1137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/world/europe/18reuters-usa-cyber-republicans.html",
+        "snippet": "Hackers targeted the computer systems of presidential candidate Donald Trump and Republican Party organizations as well as Democratic Party networks, sources familiar with investigations into the attacks said....",
+        "lead_paragraph": "Hackers targeted the computer systems of presidential candidate Donald Trump and Republican Party organizations as well as Democratic Party networks, sources familiar with investigations into the attacks said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Hackers Targeted Trump Campaign, Republican Party Groups: Sources",
+          "print_headline": "Hackers Targeted Trump Campaign, Republican Party Groups: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:49:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b63bf995d0e021d7981744",
+        "word_count": "401",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/technology/18reuters-applied-results.html",
+        "snippet": "Applied Materials Inc forecast current-quarter revenue and profit far above analysts' estimates as the company benefits from demand for newer technology to make displays and smartphone memory chips....",
+        "lead_paragraph": "Applied Materials Inc forecast current-quarter revenue and profit far above analysts' estimates as the company benefits from demand for newer technology to make displays and smartphone memory chips.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Applied Materials Forecast Beats on Chip, Display Demand",
+          "print_headline": "Applied Materials Forecast Beats on Chip, Display Demand"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:44:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b63a9b95d0e021d7981742",
+        "word_count": "343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/world/americas/ap-lt-colombia-rebel-kidnapping.html",
+        "snippet": "Colombia's second largest rebel group released the first proof-of-life video of a politician who handed himself over to the guerrillas to secure his brother's release last April....",
+        "lead_paragraph": "Colombia's second largest rebel group released the first proof-of-life video of a politician who handed himself over to the guerrillas to secure his brother's release last April.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombia Rebels Release Video of Politician Held Since April",
+          "print_headline": "Colombia Rebels Release Video of Politician Held Since April"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:37:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b63a0195d0e021d7981741",
+        "word_count": "298",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/19/us/politics/republicans-worry-a-falling-donald-trump-tide-will-lower-all-boats.html",
+        "snippet": "Party officials and strategists fear that Mr. Trump is in such danger that even their best-prepared candidates will not be able to withstand the impact....",
+        "lead_paragraph": "Party officials and strategists fear that Mr. Trump is in such danger that even their best-prepared candidates will not be able to withstand the impact.",
+        "abstract": "Republicans fear Donald J Trump's increasingly embattled presidential campaign has put crucial swing states in play, threatening party's Senate and House majorities; GOP leaders are divided over whether to concede defeat in presidential election and plunge resources into preserving control of Congress.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/19/us/19DOWNBALLOTjp2/19DOWNBALLOTjp2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/19/us/19DOWNBALLOTjp2/19DOWNBALLOTjp2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/19/us/19DOWNBALLOTjp2/19DOWNBALLOTjp2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/19/us/19DOWNBALLOTjp2/19DOWNBALLOTjp2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/19/us/19DOWNBALLOTjp2/19DOWNBALLOTjp2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/19/us/19DOWNBALLOTjp2/19DOWNBALLOTjp2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Republicans Worry a Falling Donald Trump Tide Will Lower All Boats",
+          "print_headline": "Trump\u2019s Decline is Seen As Threat to G.O.P. Control"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, House of Representatives"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections, Senate"
+          }
+        ],
+        "pub_date": "2016-08-18T22:43:06+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jonathan",
+              "rank": 1,
+              "lastname": "MARTIN"
+            }
+          ],
+          "original": "By JONATHAN MARTIN"
+        },
+        "type_of_material": "News",
+        "_id": "57b63a0195d0e021d7981740",
+        "word_count": "1639",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/sports/olympics/ap-oly-soc-rapinoe-solos-comments.html",
+        "snippet": "Megan Rapinoe, one of U.S. women's most senior soccer players, has criticized Hope Solo's disparaging comments about Sweden following the Americans' early departure from the Rio Olympics....",
+        "lead_paragraph": "Megan Rapinoe, one of U.S. women's most senior soccer players, has criticized Hope Solo's disparaging comments about Sweden following the Americans' early departure from the Rio Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rapinoe Hits at Solo Calling Sweden Cowards.",
+          "print_headline": "Rapinoe Hits at Solo Calling Sweden Cowards."
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:11:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6397095d0e021d798173f",
+        "word_count": "253",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/sports/olympics/18reuters-olympics-rio-lochte-minister.html",
+        "snippet": "Brazil's Presidential Chief of Staff Eliseu Padilha said on Thursday that U.S. Olympic swimmers had lied to Brazilian police about a robbery at the Rio de Janeiro Games and should be held accountable....",
+        "lead_paragraph": "Brazil's Presidential Chief of Staff Eliseu Padilha said on Thursday that U.S. Olympic swimmers had lied to Brazilian police about a robbery at the Rio de Janeiro Games and should be held accountable.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Swimmers Lied About Robbery, Should Be Held Accountable : Brazil Minister",
+          "print_headline": "U.S. Swimmers Lied About Robbery, Should Be Held Accountable : Brazil Minister"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:37:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6392a95d0e021d798173e",
+        "word_count": "96",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/sports/ncaafootball/ap-fbc-michigan-harbaugh-raise.html",
+        "snippet": "Michigan has agreed to pay a $2 million annual life insurance premium for Jim Harbaugh, effectively increasing the football coach's pay to $7 million a year....",
+        "lead_paragraph": "Michigan has agreed to pay a $2 million annual life insurance premium for Jim Harbaugh, effectively increasing the football coach's pay to $7 million a year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Harbaugh Up to $7M With Michigan Paying Insurance Premiums",
+          "print_headline": "Harbaugh Up to $7M With Michigan Paying Insurance Premiums"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:27:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6375a95d0e021d798173a",
+        "word_count": "319",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/us/ap-us-hemingway-stolen-antlers-the-latest.html",
+        "snippet": "The Latest on the return of antlers that Hunter S. Thompson took from Ernest Hemingway's Idaho home (all times local):...",
+        "lead_paragraph": "The Latest on the return of antlers that Hunter S. Thompson took from Ernest Hemingway's Idaho home (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Widow: Hunter Thompson Regretted Taking Antlers",
+          "print_headline": "The Latest: Widow: Hunter Thompson Regretted Taking Antlers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:21:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b635f895d0e021d7981739",
+        "word_count": "301",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

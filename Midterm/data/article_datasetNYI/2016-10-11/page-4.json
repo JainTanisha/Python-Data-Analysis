@@ -1,0 +1,354 @@
+{
+  "response": {
+    "meta": {
+      "hits": 837,
+      "time": 58,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/world/americas/11reuters-brazil-politics-economy.html",
+        "snippet": "Brazilian President Michel Temer will be working to convince lawmakers who voted against his plan to limit budget spending growth to accompany the government in upcoming pieces of economic legislation, presidential spokesman Alexandre Parola said ...",
+        "lead_paragraph": "Brazilian President Michel Temer will be working to convince lawmakers who voted against his plan to limit budget spending growth to accompany the government in upcoming pieces of economic legislation, presidential spokesman Alexandre Parola said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Temer Working to Regain Rogue Ruling Coalition Votes",
+          "print_headline": "Brazil's Temer Working to Regain Rogue Ruling Coalition Votes"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:01:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd61bb95d0e022439c2a3e",
+        "word_count": "51",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/11/briefing/trump-clinton-samsung.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/11/nytnow/11eveningss-slide-MLDW/11eveningss-slide-MLDW-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/11/nytnow/11eveningss-slide-MLDW/11eveningss-slide-MLDW-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/11/nytnow/11eveningss-slide-MLDW/11eveningss-slide-MLDW-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/11/nytnow/11eveningss-slide-MLDW/11eveningss-slide-MLDW-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/11/nytnow/11eveningss-slide-MLDW/11eveningss-slide-MLDW-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/11/nytnow/11eveningss-slide-MLDW/11eveningss-slide-MLDW-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trump, Clinton, Samsung: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "57fd5f8195d0e022439c2a3d",
+        "word_count": "779",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/business/ap-us-treasury-bills.html",
+        "snippet": "Interest rates on short-term Treasury bills rose in Tuesday's auction, with three-month bills rising to their highest level in four weeks....",
+        "lead_paragraph": "Interest rates on short-term Treasury bills rose in Tuesday's auction, with three-month bills rising to their highest level in four weeks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rates Rise at Weekly US Treasury Auction",
+          "print_headline": "Rates Rise at Weekly US Treasury Auction"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:49:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5f0e95d0e022439c2a3c",
+        "word_count": "219",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/world/middleeast/11reuters-france-iraq-iraq.html",
+        "snippet": "Two French soldiers were badly wounded in Iraq and two Peshmerga fighters were killed by a booby trapped drone sent by a group related to the Islamic State, Le Monde reported on Tuesday....",
+        "lead_paragraph": "Two French soldiers were badly wounded in Iraq and two Peshmerga fighters were killed by a booby trapped drone sent by a group related to the Islamic State, Le Monde reported on Tuesday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Two French Soldiers Badly Wounded by Drone in Iraq",
+          "print_headline": "Two French Soldiers Badly Wounded by Drone in Iraq"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:46:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5e3d95d0e022439c2a3b",
+        "word_count": "237",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/us/politics/11reuters-usa-election-poll.html",
+        "snippet": "Donald Trump has fallen further behind Hillary Clinton and now trails her by 8 points among likely voters, according to a new Reuters/Ipsos opinion poll, with 1 in 5 Republicans saying his vulgar comments about groping women disqualify him from th...",
+        "lead_paragraph": "Donald Trump has fallen further behind Hillary Clinton and now trails her by 8 points among likely voters, according to a new Reuters/Ipsos opinion poll, with 1 in 5 Republicans saying his vulgar comments about groping women disqualify him from the presidency. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Trails Clinton by 8 Points After Tape Scandal, Debate: Reuters/Ipsos Poll",
+          "print_headline": "Trump Trails Clinton by 8 Points After Tape Scandal, Debate: Reuters/Ipsos Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:44:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5d8895d0e022439c2a36",
+        "word_count": "692",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/arts/11reuters-nobel-prize-ceopay.html",
+        "snippet": "A 2016 Nobel Prize winner said executive pay plans have grown too complex and cited the overuse of consultants, remarks that pay specialists on Tuesday said echoed the complaints of many investors about ever-more detailed compensation statements....",
+        "lead_paragraph": "A 2016 Nobel Prize winner said executive pay plans have grown too complex and cited the overuse of consultants, remarks that pay specialists on Tuesday said echoed the complaints of many investors about ever-more detailed compensation statements.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nobel Winner Says CEO Pay Too Complex, Echoing Investor Gripe",
+          "print_headline": "Nobel Winner Says CEO Pay Too Complex, Echoing Investor Gripe"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:43:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5d8795d0e022439c2a35",
+        "word_count": "405",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-spitzer-assault-investigation-the-latest.html",
+        "snippet": "The Latest on a woman accused of trying to extort money from ex-Gov. Spitzer (all times local):...",
+        "lead_paragraph": "The Latest on a woman accused of trying to extort money from ex-Gov. Spitzer (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Ex-NY Governor Extortion Case Woman Held on Bail",
+          "print_headline": "The Latest: Ex-NY Governor Extortion Case Woman Held on Bail"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:05:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5d2c95d0e022439c2a2e",
+        "word_count": "286",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-obit-ex-chair-federal-reserve-bank.html",
+        "snippet": "Thomas J. Mackell Jr., former chairman of the Richmond Federal Reserve Bank and the executive director of the Maritime Labor Alliance, has died....",
+        "lead_paragraph": "Thomas J. Mackell Jr., former chairman of the Richmond Federal Reserve Bank and the executive director of the Maritime Labor Alliance, has died.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Thomas Mackell, Richmond Federal Reserve Bank Ex-Chair, Dies",
+          "print_headline": "Thomas Mackell, Richmond Federal Reserve Bank Ex-Chair, Dies"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T20:55:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5db095d0e022439c2a38",
+        "word_count": "128",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/us/politics/11reuters-usa-election-clinton-emails.html",
+        "snippet": "Hillary Clinton's campaign was worried about the \"hard balance\" she would need to strike as the presidential candidate prepared to oppose a Pacific trade pact championed by President Barack Obama that she once supported, according to emails publis...",
+        "lead_paragraph": "Hillary Clinton's campaign was worried about the \"hard balance\" she would need to strike as the presidential candidate prepared to oppose a Pacific trade pact championed by President Barack Obama that she once supported, according to emails published on Tuesday by WikiLeaks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Opposition to Asia Trade Pact 'Close Call': Hacked Emails",
+          "print_headline": "Clinton Opposition to Asia Trade Pact 'Close Call': Hacked Emails"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:42:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5da295d0e022439c2a37",
+        "word_count": "826",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/business/11reuters-viacom-cbs-gabelli.html",
+        "snippet": "CBS Corp Chief Executive Leslie Moonves should get five years without interference from Sumner Redstone's family if the media company is merged with Viacom Inc, investor Mario Gabelli told CNBC on Tuesday....",
+        "lead_paragraph": "CBS Corp Chief Executive Leslie Moonves should get five years without interference from Sumner Redstone's family if the media company is merged with Viacom Inc, investor Mario Gabelli told CNBC on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Moonves Needs Five Years Free Reign if CBS Merged With Viacom: Gabelli",
+          "print_headline": "Moonves Needs Five Years Free Reign if CBS Merged With Viacom: Gabelli"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T21:40:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd5dbf95d0e022439c2a39",
+        "word_count": "222",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,434 @@
+{
+  "response": {
+    "meta": {
+      "hits": 766,
+      "time": 44,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/sports/olympics/25reuters-olympics-rio-triathlon.html",
+        "snippet": "Triathlon at the picturesque Copacabana could boil down to yet another sibling rivalry with Jonny Brownlee sensing an opportunity to upstage elder brother and Olympic champion Alistair in the men's event at next month's Rio Games....",
+        "lead_paragraph": "Triathlon at the picturesque Copacabana could boil down to yet another sibling rivalry with Jonny Brownlee sensing an opportunity to upstage elder brother and Olympic champion Alistair in the men's event at next month's Rio Games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brownlee Brothers Set to Light Up Rio Triathlon",
+          "print_headline": "Brownlee Brothers Set to Light Up Rio Triathlon"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T22:19:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c93338f0d84855eae866",
+        "word_count": "380",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004551222/sarah-silverman-scolds-bernie-or-bust.html",
+        "snippet": "Speaking at the Democratic National Convention, the comedian Sarah Silverman told delegates continuing to back Bernie Sanders that they were \u201cbeing ridiculous.\u201d...",
+        "lead_paragraph": "Speaking at the Democratic National Convention, the comedian Sarah Silverman told delegates continuing to back Bernie Sanders that they were \u201cbeing ridiculous.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/26/us/26video-silverman/26video-silverman-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/26/us/26video-silverman/26video-silverman-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/26/us/26video-silverman/26video-silverman-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/26/us/26video-silverman/26video-silverman-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/26/us/26video-silverman/26video-silverman-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/26/us/26video-silverman/26video-silverman-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sarah Silverman Scolds \u2018Bernie or Bust\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Silverman, Sarah"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, Bernard"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          }
+        ],
+        "pub_date": "2016-07-25T22:18:50Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mark",
+              "rank": 1,
+              "lastname": "LANDLER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Turner",
+              "rank": 2,
+              "lastname": "COWLES"
+            }
+          ],
+          "original": "By MARK LANDLER and TURNER COWLES"
+        },
+        "type_of_material": "Video",
+        "_id": "5796c8cc38f0d84855eae865",
+        "word_count": "22",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/technology/25reuters-sk-hynix-results.html",
+        "snippet": "South Korean memory chip maker SK Hynix Inc on Tuesday tipped a strong pickup in DRAM memory chips for mobile devices in the second half after its second-quarter operating profit fell to its lowest in more than three years....",
+        "lead_paragraph": "South Korean memory chip maker SK Hynix Inc on Tuesday tipped a strong pickup in DRAM memory chips for mobile devices in the second half after its second-quarter operating profit fell to its lowest in more than three years. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "SK Hynix Tips First-Half Pickup After Sharp Second-Quarter Profit Drop",
+          "print_headline": "SK Hynix Tips First-Half Pickup After Sharp Second-Quarter Profit Drop"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T22:12:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c7c638f0d84855eae864",
+        "word_count": "400",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/sports/baseball/ap-bbo-padres-blue-jays.html",
+        "snippet": "Aaron Sanchez keeps piling up wins....",
+        "lead_paragraph": "Aaron Sanchez keeps piling up wins.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Sanchez Wins 10th Straight, Blue Jays Beat Padres 4-2",
+          "print_headline": "Sanchez Wins 10th Straight, Blue Jays Beat Padres 4-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T22:09:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c73038f0d84855eae863",
+        "word_count": "731",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/world/asia/25reuters-bangladesh-militants.html",
+        "snippet": "Nine militants were killed in a police operation on the outskirts of the capital Dhaka on Tuesday, a senior police official said....",
+        "lead_paragraph": "Nine militants were killed in a police operation on the outskirts of the capital Dhaka on Tuesday, a senior police official said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nine Militants Killed in Police Raid in Bangladesh",
+          "print_headline": "Nine Militants Killed in Police Raid in Bangladesh"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T22:06:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c65b38f0d84855eae862",
+        "word_count": "106",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/world/asia/ap-as-bangladesh-militants-killed.html",
+        "snippet": "Police in Bangladesh's capital raided a five-story building Tuesday and killed nine suspected Islamic militants, the country's police chief said....",
+        "lead_paragraph": "Police in Bangladesh's capital raided a five-story building Tuesday and killed nine suspected Islamic militants, the country's police chief said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bangladesh Police Say 9 Militants Killed in Raid in Dhaka",
+          "print_headline": "Bangladesh Police Say 9 Militants Killed in Raid in Dhaka"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T22:04:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c5bb38f0d84855eae861",
+        "word_count": "204",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/world/europe/25reuters-brazil-crime-ecclestone.html",
+        "snippet": "The mother-in-law of Formula One chief Bernie Ecclestone has been kidnapped in Sao Paulo and criminals are demanding 120 million reais ($36.5 million) in ransom, according to reports in a leading Brazilian news magazine....",
+        "lead_paragraph": "The mother-in-law of Formula One chief Bernie Ecclestone has been kidnapped in Sao Paulo and criminals are demanding 120 million reais ($36.5 million) in ransom, according to reports in a leading Brazilian news magazine.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ecclestone's Mother-In-Law Kidnapped in Brazil: Reports",
+          "print_headline": "Ecclestone's Mother-In-Law Kidnapped in Brazil: Reports"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T22:00:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c4f838f0d84855eae860",
+        "word_count": "210",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/25/girls-name/",
+        "snippet": "Bruce Haight returns, and has advice on playing ping pong with Will Shortz....",
+        "lead_paragraph": null,
+        "abstract": "Bruce Haight returns, and has advice on playing ping pong with Will Shortz.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/25/crosswords/26wordplaycandy/26wordplaycandy-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/25/crosswords/26wordplaycandy/26wordplaycandy-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/25/crosswords/26wordplaycandy/26wordplaycandy-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/25/crosswords/26wordplaycandy/26wordplaycandy-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/25/crosswords/26wordplaycandy/26wordplaycandy-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/25/crosswords/26wordplaycandy/26wordplaycandy-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Girl&#8217;s Name",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-25T22:00:46Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "5796c48338f0d84855eae85f",
+        "word_count": "883",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/25/us/ap-us-hotel-evacuated-carbon-monoxide.html",
+        "snippet": "Two people have been hospitalized and a Detroit-area hotel was evacuated after high carbon monoxide levels were recorded....",
+        "lead_paragraph": "Two people have been hospitalized and a Detroit-area hotel was evacuated after high carbon monoxide levels were recorded.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Carbon Monoxide Forces Hotel Evacuation; 2 Hospitalized",
+          "print_headline": "Carbon Monoxide Forces Hotel Evacuation; 2 Hospitalized"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:57:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c45238f0d84855eae85e",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/25/business/25reuters-shell-philippines-ipo.html",
+        "snippet": "Pilipinas Shell Petroleum Corp is looking to raise up to 29.7 billion pesos (479.64 million pounds) in what could be the Philippines' third and largest initial public offering (IPO) this year....",
+        "lead_paragraph": "Pilipinas Shell Petroleum Corp is looking to raise up to 29.7 billion pesos (479.64 million pounds) in what could be the Philippines' third and largest initial public offering (IPO) this year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Shell Philippines Files $629 Million IPO; May Be Country's Largest in 2016",
+          "print_headline": "Shell Philippines Files $629 Million IPO; May Be Country's Largest in 2016"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-25T21:55:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5796c38c38f0d84855eae85d",
+        "word_count": "345",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

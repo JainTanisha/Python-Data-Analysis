@@ -1,0 +1,590 @@
+{
+  "response": {
+    "meta": {
+      "hits": 398,
+      "time": 42,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/business/media/marketers-make-the-podcasts.html",
+        "snippet": "Companies like G.E. are working with podcast networks to produce original series \u2014 a kind of twist on \u201cnative ads\u201d that are crafted to resemble editorial content....",
+        "lead_paragraph": "Companies like G.E. are working with podcast networks to produce original series \u2014 a kind of twist on \u201cnative ads\u201d that are crafted to resemble editorial content.",
+        "abstract": "Advertising column; General Electric launches futuristic 10-episode drama LifeAfter, latest fiction podcast produced with Panoply podcast network; Panoply says many companies work with them to create custom podcasts promoting their brands.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/business/adc/adc-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/business/adc/adc-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/business/adc/adc-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/business/adc/adc-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/business/adc/adc-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/business/adc/adc-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Forget Filling Ad Breaks; Some Marketers Make the Podcasts",
+          "content_kicker": "Advertising",
+          "kicker": "Advertising",
+          "print_headline": "Forget Filling Ad Breaks; Some Marketers Make the Podcasts"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Podcasts"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Advertising and Marketing"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "General Electric Company"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Panoply Media"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Gimlet Media"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "LifeAfter (Radio Program)"
+          }
+        ],
+        "pub_date": "2016-11-20T23:38:43+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Rob",
+              "rank": 1,
+              "lastname": "WALKER"
+            }
+          ],
+          "original": "By ROB WALKER"
+        },
+        "type_of_material": "News",
+        "_id": "5832340b95d0e039260719ed",
+        "word_count": "1046",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/fashion/american-music-awards-red-carpet-2016.html",
+        "snippet": "See what celebrities like Gigi Hadid, Selena Gomez, Taraji P. Henson and more wore to one of music\u2019s biggest award shows....",
+        "lead_paragraph": "See what celebrities like Gigi Hadid, Selena Gomez, Taraji P. Henson and more wore to one of music\u2019s biggest award shows.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/fashion/20SPAN3/20SPAN3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/fashion/20SPAN3/20SPAN3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/fashion/20SPAN3/20SPAN3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/fashion/20SPAN3/20SPAN3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/fashion/20SPAN3/20SPAN3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/fashion/20SPAN3/20SPAN3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "American Music Awards Red Carpet 2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "American Music Awards"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Drake (Rapper)"
+          }
+        ],
+        "pub_date": "2016-11-20T23:38:09+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "News",
+        "_id": "583233e695d0e039260719ec",
+        "word_count": "21",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/us/politics/donald-trump-india-business.html",
+        "snippet": "A meeting last week with Indian developers highlights the potential for conflict stemming from his businesses and his role as president....",
+        "lead_paragraph": "A meeting last week with Indian developers highlights the potential for conflict stemming from his businesses and his role as president.",
+        "abstract": "Donald Trump meets with developers of Trump Towers Pune, luxury highrise in Pune, India, to discuss future projects; move suggests  president-elect has not disengaged from business projects and highlights potential conflicts of interest; critics accuse Trump of using presidency to promote his brand.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/us/21TRUMPINDIA-sub/21TRUMPINDIA-sub-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/us/21TRUMPINDIA-sub/21TRUMPINDIA-sub-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/us/21TRUMPINDIA-sub/21TRUMPINDIA-sub-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/us/21TRUMPINDIA-sub/21TRUMPINDIA-sub-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/us/21TRUMPINDIA-sub/21TRUMPINDIA-sub-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/us/21TRUMPINDIA-sub/21TRUMPINDIA-sub-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Indian Business Partners Hope to Exploit Their Ties to Donald Trump",
+          "print_headline": "Trump Brand and Statecraft: a Hazy Divide"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Conflicts of Interest"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Trump Organization"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "India"
+          }
+        ],
+        "pub_date": "2016-11-20T23:37:50+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Ayesha Venkataraman reported from Pune, India; Ellen Barry from New Delhi; and Eric Lipton from Washington.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ayesha",
+              "rank": 1,
+              "lastname": "VENKATARAMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ellen",
+              "rank": 2,
+              "lastname": "BARRY"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 3,
+              "lastname": "LIPTON"
+            }
+          ],
+          "original": "By AYESHA VENKATARAMAN, ELLEN BARRY and ERIC LIPTON"
+        },
+        "type_of_material": "News",
+        "_id": "583233dc95d0e039260719eb",
+        "word_count": "1601",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/sports/ncaabasketball/ap-bkw-t25-lafayette-louisville.html",
+        "snippet": "Louisville overpowered Lafayette early, allowing the fifth-ranked Cardinals to do some fine-tuning....",
+        "lead_paragraph": "Louisville overpowered Lafayette early, allowing the fifth-ranked Cardinals to do some fine-tuning.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 5 Louisville Cruises Past Lafayette 92-48",
+          "print_headline": "No. 5 Louisville Cruises Past Lafayette 92-48"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:36:52+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583233a095d0e039260719ea",
+        "word_count": "561",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/business/20reuters-apec-summit-obama.html",
+        "snippet": "U.S. President Barack Obama said not moving forward with the Trans-Pacific Partnership (TPP) trade pact would undermine the U.S. position across the Asia-Pacific region....",
+        "lead_paragraph": "U.S. President Barack Obama said not moving forward with the Trans-Pacific Partnership (TPP) trade pact would undermine the U.S. position across the Asia-Pacific region. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Obama Says Not Moving Forward With TPP Would Undermine U.S.",
+          "print_headline": "Obama Says Not Moving Forward With TPP Would Undermine U.S."
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:36:32+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5832338995d0e039260719e9",
+        "word_count": "74",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/sports/tennis/20reuters-tennis-atp-djokovic.html",
+        "snippet": "Handing out chocolates to the media has become a year-end tradition for Novak Djokovic at the ATP World Tour Finals but there was no doubting the latter half of the 2016 season has been anything but sweet for the once all-conquering Serb....",
+        "lead_paragraph": "Handing out chocolates to the media has become a year-end tradition for Novak Djokovic at the ATP World Tour Finals but there was no doubting the latter half of the 2016 season has been anything but sweet for the once all-conquering Serb.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Eclipsed Djokovic Gets Bitter Taste of Failure",
+          "print_headline": "Eclipsed Djokovic Gets Bitter Taste of Failure"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:36:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5832338795d0e039260719e8",
+        "word_count": "522",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/20/fashion/american-music-awards-red-carpet-2016.html",
+        "snippet": "See what celebrities wore to one of music\u2019s biggest award shows....",
+        "lead_paragraph": "See what celebrities wore to one of music\u2019s biggest award shows.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/fashion/ama-fashion-red-carpet-slide-EJ3P/ama-fashion-red-carpet-slide-EJ3P-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/fashion/ama-fashion-red-carpet-slide-EJ3P/ama-fashion-red-carpet-slide-EJ3P-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/fashion/ama-fashion-red-carpet-slide-EJ3P/ama-fashion-red-carpet-slide-EJ3P-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/fashion/ama-fashion-red-carpet-slide-EJ3P/ama-fashion-red-carpet-slide-EJ3P-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/fashion/ama-fashion-red-carpet-slide-EJ3P/ama-fashion-red-carpet-slide-EJ3P-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/fashion/ama-fashion-red-carpet-slide-EJ3P/ama-fashion-red-carpet-slide-EJ3P-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "American Music Awards Red Carpet 2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "American Music Awards"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "E! Entertainment Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          }
+        ],
+        "pub_date": "2016-11-20T23:34:29+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5832330b95d0e039260719e7",
+        "word_count": "11",
+        "slideshow_credits": "Frederick M. Brown/Getty Images"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/sports/golf/20reuters-golf-pga.html",
+        "snippet": "Colombian Camilo Villegas, Canadian rookie Mackenzie Hughes, Swede Henrik Norlander and American Blayne Barber will return to complete a playoff for the PGA Tour's RSM Classic in Georgia on Monday as darkness halted play after two extra holes....",
+        "lead_paragraph": "Colombian Camilo Villegas, Canadian rookie Mackenzie Hughes, Swede Henrik Norlander and American Blayne Barber will return to complete a playoff for the PGA Tour's RSM Classic in Georgia on Monday as darkness halted play after two extra holes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "PGA Tour Event Playoff Carrying Over to Monday",
+          "print_headline": "PGA Tour Event Playoff Carrying Over to Monday"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:30:32+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5832322295d0e039260719e6",
+        "word_count": "349",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/us/ap-fbn-chiefs-winchester.html",
+        "snippet": "One day after the Chiefs' James Winchester attended his father's funeral, he walked onto the field inside of Arrowhead Stadium on Sunday to snap for a 22-yard field-goal attempt....",
+        "lead_paragraph": "One day after the Chiefs' James Winchester attended his father's funeral, he walked onto the field inside of Arrowhead Stadium on Sunday to snap for a 22-yard field-goal attempt.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chiefs' Winchester Plays With Heavy Heart in Loss to Bucs",
+          "print_headline": "Chiefs' Winchester Plays With Heavy Heart in Loss to Bucs"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:27:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5832317595d0e039260719e5",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/sports/golf/20reuters-golf-pga-playoff.html",
+        "snippet": "The RSM Classic was headed to a five-man playoff at the Seaside Resort in St Simons, Georgia on Sunday in the last regular PGA tournament of 2016....",
+        "lead_paragraph": "The RSM Classic was headed to a five-man playoff at the Seaside Resort in St Simons, Georgia on Sunday in the last regular PGA tournament of 2016.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Five-Man Playoff at RSM Classic",
+          "print_headline": "Five-Man Playoff at RSM Classic"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:27:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5832316b95d0e039260719e4",
+        "word_count": "74",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

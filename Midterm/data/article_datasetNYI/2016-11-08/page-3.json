@@ -1,0 +1,386 @@
+{
+  "response": {
+    "meta": {
+      "hits": 732,
+      "time": 46,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-us-woman-jumps-off-bridge-the-latest.html",
+        "snippet": "The Latest on a woman who ran over her estranged husband and two other people and then jumped off a bridge to her death (all times local):...",
+        "lead_paragraph": "The Latest on a woman who ran over her estranged husband and two other people and then jumped off a bridge to her death (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Woman Who Hit 3 With Car Was in Divorce Hearing",
+          "print_headline": "The Latest: Woman Who Hit 3 With Car Was in Divorce Hearing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:57:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5822587095d0e0204d55f64c",
+        "word_count": "317",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/09/science/neanderthal-dna-natural-selection.html",
+        "snippet": "As a large population of modern humans interbred with a smaller number of Neanderthals, natural selection purged Neanderthal DNA from the genomes of their descendants....",
+        "lead_paragraph": "As a large population of modern humans interbred with a smaller number of Neanderthals, natural selection purged Neanderthal DNA from the genomes of their descendants.",
+        "abstract": "Studies suggest modern human genes came to dominate genes of Neanderthals they interbred with through natural selection and advantages inherent in human genes.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/science/08PALEONTOLOGY/08PALEONTOLOGY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/science/08PALEONTOLOGY/08PALEONTOLOGY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/science/08PALEONTOLOGY/08PALEONTOLOGY-articleLarge.jpg",
+            "height": 481,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/science/08PALEONTOLOGY/08PALEONTOLOGY-articleLarge.jpg",
+              "xlargeheight": "481"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/science/08PALEONTOLOGY/08PALEONTOLOGY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/science/08PALEONTOLOGY/08PALEONTOLOGY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Why You Don\u2019t Have Much Neanderthal DNA in Your Genome",
+          "content_kicker": "Trilobites",
+          "kicker": "Trilobites",
+          "print_headline": "Long-Lost Relatives: Why We Don\u2019t Have Much Neanderthal DNA"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Neanderthal Man"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Genetics and Heredity"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "DNA (Deoxyribonucleic Acid)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "PLoS Genetics (Journal)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Coop, Graham"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harris, Kelley"
+          }
+        ],
+        "pub_date": "2016-11-08T22:52:19Z",
+        "document_type": "article",
+        "news_desk": "Science",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Steph",
+              "rank": 1,
+              "lastname": "YIN"
+            }
+          ],
+          "original": "By STEPH YIN"
+        },
+        "type_of_material": "News",
+        "_id": "5822572995d0e0204d55f64b",
+        "word_count": "595",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-us-face-biting-attack.html",
+        "snippet": "A Florida college student accused of killing a couple and chewing on the dead man's face has been indicted on first-degree murder charges....",
+        "lead_paragraph": "A Florida college student accused of killing a couple and chewing on the dead man's face has been indicted on first-degree murder charges.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Teen Indicted on Murder Charges in Face-Biting Attack",
+          "print_headline": "Teen Indicted on Murder Charges in Face-Biting Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:51:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5822570895d0e0204d55f64a",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/08reuters-north-dakota-pipeline-energy-transfer.html",
+        "snippet": "Energy Transfer Partners LP on Tuesday said it was not slowing down construction of an oil pipeline in North Dakota that is contested by environmentalists and Native Americans groups....",
+        "lead_paragraph": "Energy Transfer Partners LP on Tuesday said it was not slowing down construction of an oil pipeline in North Dakota that is contested by environmentalists and Native Americans groups.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Energy Transfer Says Not Slowing Construction of North Dakota Pipeline",
+          "print_headline": "Energy Transfer Says Not Slowing Construction of North Dakota Pipeline"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:51:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582256fc95d0e0204d55f649",
+        "word_count": "438",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/politics/ap-us-2016-election-up-next.html",
+        "snippet": "Things to look for in the next hour on Election Day:...",
+        "lead_paragraph": "Things to look for in the next hour on Election Day:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Up Next: What to Look For in the Next Hour",
+          "print_headline": "Up Next: What to Look For in the Next Hour"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:49:03Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5822569695d0e0204d55f648",
+        "word_count": "103",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/sports/football/ap-fbn-coaches-hot-seat.html",
+        "snippet": "In a story Nov. 8 about NFL coaches whose jobs are at risk, The Associated Press erroneously reported the Los Angeles Rams' record and the number of times Mike McCoy led the San Diego Chargers to the playoffs in his first two seasons. The Rams are...",
+        "lead_paragraph": "In a story Nov. 8 about NFL coaches whose jobs are at risk, The Associated Press erroneously reported the Los Angeles Rams' record and the number of times Mike McCoy led the San Diego Chargers to the playoffs in his first two seasons. The Rams are 3-5, not 3-6. McCoy led the Chargers to the playoffs once, not twice.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Coaches-Hot Seat Story",
+          "print_headline": "Correction: Coaches-Hot Seat Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:48:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5822569095d0e0204d55f647",
+        "word_count": "750",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/arts/08reuters-viacom-playstation.html",
+        "snippet": "Sony Corp's cloud-based TV service, PlayStation Vue, said on Tuesday it would drop all Viacom Inc channels, including Comedy Central, Spike and MTV, starting Nov. 11....",
+        "lead_paragraph": "Sony Corp's cloud-based TV service, PlayStation Vue, said on Tuesday it would drop all Viacom Inc channels, including Comedy Central, Spike and MTV, starting Nov. 11.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "PlayStation Vue to Drop All Viacom Channels From Nov. 11",
+          "print_headline": "PlayStation Vue to Drop All Viacom Channels From Nov. 11"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:48:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5822564495d0e0204d55f646",
+        "word_count": "185",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-us-airbnb-legal-fight-san-francisco.html",
+        "snippet": "A federal judge refused Tuesday to immediately block a San Francisco ordinance that would fine Airbnb for booking rentals that were not registered with the city, but he wants to hear more arguments before making a final decision....",
+        "lead_paragraph": "A federal judge refused Tuesday to immediately block a San Francisco ordinance that would fine Airbnb for booking rentals that were not registered with the city, but he wants to hear more arguments before making a final decision.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Won't Immediately Block San Francisco Airbnb Law",
+          "print_headline": "Judge Won't Immediately Block San Francisco Airbnb Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:45:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582255a695d0e0204d55f645",
+        "word_count": "402",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/business/08reuters-southkorea-economy-usa-election.html",
+        "snippet": "South Korea's vice minister asked market participants to act in a calm manner regarding the outcome of the U.S. presidential election, in opening remarks ahead of a meeting with government, central bank and other finance-related officials on Wedne...",
+        "lead_paragraph": "South Korea's vice minister asked market participants to act in a calm manner regarding the outcome of the U.S. presidential election, in opening remarks ahead of a meeting with government, central bank and other finance-related officials on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Korea's Vice Finance Minister Asks for Calm in Markets in Face of U.S. Election Outcome",
+          "print_headline": "South Korea's Vice Finance Minister Asks for Calm in Markets in Face of U.S. Election Outcome"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:42:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582254e595d0e0204d55f644",
+        "word_count": "141",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/politics/08reuters-crime-hastert.html",
+        "snippet": "A sexual abuse victim will continue to try to collect $1.8 million from former U.S. House Speaker Dennis Hastert, the victim's attorney said on Tuesday, after an Illinois judge denied Hastert's motion to dismiss a breach-of-contract lawsuit....",
+        "lead_paragraph": "A sexual abuse victim will continue to try to collect $1.8 million from former U.S. House Speaker Dennis Hastert, the victim's attorney said on Tuesday, after an Illinois judge denied Hastert's motion to dismiss a breach-of-contract lawsuit. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Illinois Abuse Victim's Lawsuit Against Ex-U.S. House Speaker to Proceed",
+          "print_headline": "Illinois Abuse Victim's Lawsuit Against Ex-U.S. House Speaker to Proceed"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:42:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582254de95d0e0204d55f643",
+        "word_count": "408",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

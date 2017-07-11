@@ -1,0 +1,455 @@
+{
+  "response": {
+    "meta": {
+      "hits": 784,
+      "time": 49,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/26/sports/tennis/26reuters-tennis-usopen-murray.html",
+        "snippet": "With a second Wimbledon title in the bag, a second gold medal in his pocket and his biggest rival struggling with injury, Andy Murray believes he has a golden chance to add to his three grand slam titles....",
+        "lead_paragraph": "With a second Wimbledon title in the bag, a second gold medal in his pocket and his biggest rival struggling with injury, Andy Murray believes he has a golden chance to add to his three grand slam titles.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Murray Keen to Win Another Grand Slam Before Turning 30",
+          "print_headline": "Murray Keen to Win Another Grand Slam Before Turning 30"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:54:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0bb5c95d0e021d7982e0b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/27/movies/mechanic-resurrection-jason-statham-review.html",
+        "snippet": "The latest foray for the Mechanic takes him around the world after his nemesis arranges a triple assassination he can\u2019t refuse....",
+        "lead_paragraph": "The latest foray for the Mechanic takes him around the world after his nemesis arranges a triple assassination he can\u2019t refuse.",
+        "abstract": "Andy Webster reviews movie Mechanic: Resurrection, directed by Dennis Gansel and starring Jason Statham and Jessica Alba.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/27/arts/27MECHANIC/27MECHANIC-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/27/arts/27MECHANIC/27MECHANIC-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/27/arts/27MECHANIC/27MECHANIC-articleLarge.jpg",
+            "height": 478,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/27/arts/27MECHANIC/27MECHANIC-articleLarge.jpg",
+              "xlargeheight": "478"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/27/arts/27MECHANIC/27MECHANIC-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/27/arts/27MECHANIC/27MECHANIC-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Jason Statham in \u2018Mechanic: Resurrection,\u2019 a Hit Man on Cruise Control",
+          "print_headline": "Enough Sun. Time to Kill Again."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Statham, Jason"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Mechanic: Resurrection (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Gansel, Dennis"
+          }
+        ],
+        "pub_date": "2016-08-26T21:56:51+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andy",
+              "rank": 1,
+              "lastname": "WEBSTER"
+            }
+          ],
+          "original": "By ANDY WEBSTER"
+        },
+        "type_of_material": "Review",
+        "_id": "57c0bb2a95d0e021d7982e0a",
+        "word_count": "441",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-oswald-mural-dallas.html",
+        "snippet": "A nearly two-story mural of assassin Lee Harvey Oswald recently painted on a Dallas building is drawing criticism for being insensitive....",
+        "lead_paragraph": "A nearly two-story mural of assassin Lee Harvey Oswald recently painted on a Dallas building is drawing criticism for being insensitive.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mural of Assassin Oswald on Dallas Building Draws Scrutiny",
+          "print_headline": "Mural of Assassin Oswald on Dallas Building Draws Scrutiny"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:42:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0bab795d0e021d7982e09",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/26/nytnow/donald-trump-hillary-clinton-federal-reserve-your-friday-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-articleLarge.jpg",
+            "height": 411,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-articleLarge.jpg",
+              "xlargeheight": "411"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Hillary Clinton, Federal Reserve: Your Friday Evening Briefing",
+          "print_headline": "Your Friday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ba6395d0e021d7982e08",
+        "word_count": "806",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-lgbt-rights-north-carolina.html",
+        "snippet": "A federal judge ruled Friday that two students and an employee must be allowed to use restrooms matching their gender identity at University of North Carolina campuses, and he said they have a strong chance of proving the state's bathroom-access m...",
+        "lead_paragraph": "A federal judge ruled Friday that two students and an employee must be allowed to use restrooms matching their gender identity at University of North Carolina campuses, and he said they have a strong chance of proving the state's bathroom-access measure violates federal law, a judicial rebuke that transgender rights advocates hailed as a victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Transgender North Carolinians Get Restroom-Access Win",
+          "print_headline": "Transgender North Carolinians Get Restroom-Access Win"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:44:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ba0795d0e021d7982e06",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/nyregion/ap-us-nyc-taxis-gps.html",
+        "snippet": "A federal appeals court ruled Friday that New York City can track taxi drivers by using their cabs' GPS systems....",
+        "lead_paragraph": "A federal appeals court ruled Friday that New York City can track taxi drivers by using their cabs' GPS systems.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Appeals Court Rules NYC Can Use GPS to Track Taxi Drivers",
+          "print_headline": "Appeals Court Rules NYC Can Use GPS to Track Taxi Drivers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:40:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ba0d95d0e021d7982e07",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-cut-veggies-recall.html",
+        "snippet": "Fresh-cut vegetables are being recalled from grocery, discount and convenience stores across the Southeast because the food may be contaminated with potentially fatal Listeria bacteria....",
+        "lead_paragraph": "Fresh-cut vegetables are being recalled from grocery, discount and convenience stores across the Southeast because the food may be contaminated with potentially fatal Listeria bacteria.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Maker Recalls Fresh-Cut Vegetables From Stores in Southeast",
+          "print_headline": "Maker Recalls Fresh-Cut Vegetables From Stores in Southeast"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:32:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0ba0595d0e021d7982e05",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/sports/olympics/ap-oly-kenya-olympic-fallout.html",
+        "snippet": "Three officials of the National Olympic Committee of Kenya (NOCK) have been arrested in connection with the alleged mismanagement of the country's team at the Rio de Janeiro Games, police officials said Friday....",
+        "lead_paragraph": "Three officials of the National Olympic Committee of Kenya (NOCK) have been arrested in connection with the alleged mismanagement of the country's team at the Rio de Janeiro Games, police officials said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kenya Olympic Officials Arrested Over Alleged Mismanagement",
+          "print_headline": "Kenya Olympic Officials Arrested Over Alleged Mismanagement"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:46:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0b96b95d0e021d7982e04",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/26/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-articleLarge.jpg",
+            "height": 411,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-articleLarge.jpg",
+              "xlargeheight": "411"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/26/nytnow/26eveningss-slide-HQ6X/26eveningss-slide-HQ6X-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c0b95295d0e021d7982e03",
+        "word_count": "12",
+        "slideshow_credits": "Rajah Bose for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/26/us/ap-us-imperiled-aquifers-texas.html",
+        "snippet": "Texas allowed the drilling of oil and natural gas injection wells in some areas near drinking water sources starting more than three decades ago, but state regulators recently assured the federal government the effort posed \"little to no risk\" to ...",
+        "lead_paragraph": "Texas allowed the drilling of oil and natural gas injection wells in some areas near drinking water sources starting more than three decades ago, but state regulators recently assured the federal government the effort posed \"little to no risk\" to the subterranean reserves, according to a report released Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Report: Texas Flouted Federal Aquifer Rules for 34 Years",
+          "print_headline": "Report: Texas Flouted Federal Aquifer Rules for 34 Years"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-26T21:28:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c0b7e595d0e021d7982e01",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

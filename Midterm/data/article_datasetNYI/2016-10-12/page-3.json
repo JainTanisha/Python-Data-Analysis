@@ -1,0 +1,523 @@
+{
+  "response": {
+    "meta": {
+      "hits": 873,
+      "time": 35,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/sports/soccer/12reuters-soccer-spain-rea-bale.html",
+        "snippet": "Gareth Bale has agreed to sign a six-year contract extension with Real Madrid and the European champions are set to announce new deals for Cristiano Ronaldo, Pepe and Luka Modric, Spanish media reported on Wednesday....",
+        "lead_paragraph": "Gareth Bale has agreed to sign a six-year contract extension with Real Madrid and the European champions are set to announce new deals for Cristiano Ronaldo, Pepe and Luka Modric, Spanish media reported on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bale to Extend Real Contract to 2022-Report",
+          "print_headline": "Bale to Extend Real Contract to 2022-Report"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:58:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec09895d0e022439c2dae",
+        "word_count": "238",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/sports/baseball/ap-bba-alcs-shapiros-teams.html",
+        "snippet": "Mark Shapiro's love for Cleveland and its people runs deep, personally and professionally....",
+        "lead_paragraph": "Mark Shapiro's love for Cleveland and its people runs deep, personally and professionally.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Emotional Clash: Blue Jays CEO Shapiro Faces Indians in ALCS",
+          "print_headline": "Emotional Clash: Blue Jays CEO Shapiro Faces Indians in ALCS"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:55:20Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec00f95d0e022439c2dad",
+        "word_count": "914",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/business/100000004706240/wells-fargos-new-ceo-speaks.html",
+        "snippet": "Timothy Sloan, the new chief of Wells Fargo, told CNBC that he feels sorry for John Stumpf, but the ex-C.E.O.\u2019s retirement was the right thing for the bank....",
+        "lead_paragraph": "Timothy Sloan, the new chief of Wells Fargo, told CNBC that he feels sorry for John Stumpf, but the ex-C.E.O.\u2019s retirement was the right thing for the bank.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "CNBC",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/13/business/wells-fargo-vid/wells-fargo-vid-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/13/business/wells-fargo-vid/wells-fargo-vid-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/13/business/wells-fargo-vid/wells-fargo-vid-articleLarge.png",
+            "height": 326,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/13/business/wells-fargo-vid/wells-fargo-vid-articleLarge.png",
+              "xlargeheight": "326"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/13/business/wells-fargo-vid/wells-fargo-vid-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/13/business/wells-fargo-vid/wells-fargo-vid-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Wells Fargo\u2019s New C.E.O. on Stumpf",
+          "sub": "Sloan: Stumpf felt retirement was right for the company"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Wells Fargo & Company"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          }
+        ],
+        "pub_date": "2016-10-12T22:56:41+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Cnbc",
+              "rank": 1
+            }
+          ],
+          "original": "By CNBC"
+        },
+        "type_of_material": "Video",
+        "_id": "57febfd395d0e022439c2dac",
+        "word_count": "28",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/us/12reuters-usa-marijuana-trends.html",
+        "snippet": "Support for legalization of marijuana has risen to nearly 60 percent among U.S. adults, according to a study published on Wednesday, marking a near reversal of attitudes held only a decade ago....",
+        "lead_paragraph": "Support for legalization of marijuana has risen to nearly 60 percent among U.S. adults, according to a study published on Wednesday, marking a near reversal of attitudes held only a decade ago.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Support for Marijuana Legalization Rises Among U.S. Adults: Poll",
+          "print_headline": "Support for Marijuana Legalization Rises Among U.S. Adults: Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:51:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57febf3895d0e022439c2dab",
+        "word_count": "388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-mine-waste-spill-investigation.html",
+        "snippet": "U.S. prosecutors have declined to pursue criminal charges against an employee of the Environmental Protection Agency over a massive mine wastewater spill that fouled rivers in three states, a federal watchdog agency said....",
+        "lead_paragraph": "U.S. prosecutors have declined to pursue criminal charges against an employee of the Environmental Protection Agency over a massive mine wastewater spill that fouled rivers in three states, a federal watchdog agency said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Declines Prosecution of Government Worker in Mine Spill",
+          "print_headline": "US Declines Prosecution of Government Worker in Mine Spill"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:40:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57febc7895d0e022439c2daa",
+        "word_count": "577",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/13/us/politics/donald-trump-women.html",
+        "snippet": "The women say they felt compelled to speak after Mr. Trump on Sunday denied ever engaging in such conduct. One says she encountered him on a plane, the other in Trump Tower....",
+        "lead_paragraph": "The women say they felt compelled to speak after Mr. Trump on Sunday denied ever engaging in such conduct. One says she encountered him on a plane, the other in Trump Tower.",
+        "abstract": "Jessica Leeds and Rachel Crooks come forward with stories of how Donald Trump made unwanted sexual advances to them; Trump's behavior in both incidents, which happened over three decades ago and in 2005, respectively, bears similarity to comments in 2005 video in which he bragged about groping women and kissing them without permission; Trump denies allegations.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/13/us/13TRUMPWOMENsub2/13TRUMPWOMENsub2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/13/us/13TRUMPWOMENsub2/13TRUMPWOMENsub2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/13/us/13TRUMPWOMENsub2/13TRUMPWOMENsub2-articleLarge.jpg",
+            "height": 695,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/13/us/13TRUMPWOMENsub2/13TRUMPWOMENsub2-articleLarge.jpg",
+              "xlargeheight": "695"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/13/us/13TRUMPWOMENsub2/13TRUMPWOMENsub2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/13/us/13TRUMPWOMENsub2/13TRUMPWOMENsub2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Two Women Say Donald Trump Touched Them Inappropriately",
+          "print_headline": "Two Women Say Trump Made Unwanted Advances Long Ago"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sexual Harassment"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sex Crimes"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Video Recordings, Downloads and Streaming"
+          }
+        ],
+        "pub_date": "2016-10-12T22:40:06+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Kitty Bennett contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Megan",
+              "rank": 1,
+              "lastname": "TWOHEY"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 2,
+              "lastname": "BARBARO"
+            }
+          ],
+          "original": "By MEGAN TWOHEY and MICHAEL BARBARO"
+        },
+        "type_of_material": "News",
+        "_id": "57febbd295d0e022439c2da9",
+        "word_count": "1636",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004705688/his-hands-were-all-over-me-trump.html",
+        "snippet": "Jessica Leeds, a businesswoman at a paper company, was sitting next to Donald J. Trump on a flight to New York in the early 1980s. She told The Times that he lifted the armrest and began to grope her....",
+        "lead_paragraph": "Jessica Leeds, a businesswoman at a paper company, was sitting next to Donald J. Trump on a flight to New York in the early 1980s. She told The Times that he lifted the armrest and began to grope her.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/12/us/13WOMEN/13WOMEN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/12/us/13WOMEN/13WOMEN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/12/us/13WOMEN/13WOMEN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/12/us/13WOMEN/13WOMEN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/12/us/13WOMEN/13WOMEN-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/12/us/13WOMEN/13WOMEN-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018His Hands Were All Over Me\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sexual Harassment"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Transportation"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Privacy"
+          }
+        ],
+        "pub_date": "2016-10-12T22:40:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Natalia",
+              "middlename": "V.",
+              "lastname": "OSIPOVA",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By NATALIA V. OSIPOVA"
+        },
+        "type_of_material": "Video",
+        "_id": "57febbc595d0e022439c2da8",
+        "word_count": "39",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/politics/ap-us-campaign-2016-fact-check-giuliani.html",
+        "snippet": "Stumping for Donald Trump in Ocala, Florida, on Wednesday, former New York Mayor Rudy Giuliani told a crowd that Hillary Clinton had falsely claimed to have been in New York on Sept. 11, 2001 &#8212; an incorrect claim he took back a few hours lat...",
+        "lead_paragraph": "Stumping for Donald Trump in Ocala, Florida, on Wednesday, former New York Mayor Rudy Giuliani told a crowd that Hillary Clinton had falsely claimed to have been in New York on Sept. 11, 2001 &#8212; an incorrect claim he took back a few hours later.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Giuliani Wrongly Accuses Clinton of Lying About 9/11",
+          "print_headline": "Giuliani Wrongly Accuses Clinton of Lying About 9/11"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:30:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feba8495d0e022439c2da7",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:30:47Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57feba5195d0e022439c2da6",
+        "word_count": "1251",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/world/americas/12reuters-venezuela-usa-drugs.html",
+        "snippet": "A U.S. judge on Wednesday declined to throw out the alleged confessions from two nephews of Venezuela's first lady, ruling they knew what they were doing when they spoke to U.S. agents after their arrest on narcotics charges....",
+        "lead_paragraph": "A U.S. judge on Wednesday declined to throw out the alleged confessions from two nephews of Venezuela's first lady, ruling they knew what they were doing when they spoke to U.S. agents after their arrest on narcotics charges. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Judge Allows Confessions by Venezuela First Lady's Nephews",
+          "print_headline": "U.S. Judge Allows Confessions by Venezuela First Lady's Nephews"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T22:24:22Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57feb8d895d0e022439c2da5",
+        "word_count": "405",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

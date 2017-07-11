@@ -1,0 +1,640 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 67,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-traffic-stop-shooting.html",
+        "snippet": "An Iowa police officer who shot a 37-year-old black man in the neck during a traffic stop this week was involved in a fatal shooting last year....",
+        "lead_paragraph": "An Iowa police officer who shot a 37-year-old black man in the neck during a traffic stop this week was involved in a fatal shooting last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Iowa Officer Who Wounded Man Was Involved in 2015 Shooting",
+          "print_headline": "Iowa Officer Who Wounded Man Was Involved in 2015 Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:28:10Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d199695d0e01ffc1e19a5",
+        "word_count": "124",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-sheriff-indicted.html",
+        "snippet": "A south Louisiana sheriff who was accused of encouraging or ignoring the beatings of black jail inmates was acquitted on federal civil rights charges Friday....",
+        "lead_paragraph": "A south Louisiana sheriff who was accused of encouraging or ignoring the beatings of black jail inmates was acquitted on federal civil rights charges Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Acquittal for Louisiana Sheriff Whose Deputies Beat Inmates",
+          "print_headline": "Acquittal for Louisiana Sheriff Whose Deputies Beat Inmates"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:28:07Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d199295d0e01ffc1e19a3",
+        "word_count": "265",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/sports/baseball/looking-back-sigh-at-the-end-sigh-of-the-indians-great-season-sigh.html",
+        "snippet": "An Indians fan looks back on the World Series, without rancor or second-guessing, and finds it will take time to recover....",
+        "lead_paragraph": "An Indians fan looks back on the World Series, without rancor or second-guessing, and finds it will take time to recover.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/sports/05-Y-CLEVELAND/05-Y-CLEVELAND-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/sports/05-Y-CLEVELAND/05-Y-CLEVELAND-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/sports/05-Y-CLEVELAND/05-Y-CLEVELAND-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/sports/05-Y-CLEVELAND/05-Y-CLEVELAND-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/sports/05-Y-CLEVELAND/05-Y-CLEVELAND-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/sports/05-Y-CLEVELAND/05-Y-CLEVELAND-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Looking Back (Sigh) at the End (Sigh) of the Indians\u2019 Great Season (Sigh)",
+          "content_kicker": "Essay",
+          "kicker": "Essay",
+          "print_headline": "Looking Back (Sigh) at the End (Sigh) of a Great Season (Sigh)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Cleveland Indians"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "World Series"
+          }
+        ],
+        "pub_date": "2016-11-04T23:18:06Z",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "John",
+              "rank": 1,
+              "lastname": "HYDUK"
+            }
+          ],
+          "original": "By JOHN HYDUK"
+        },
+        "type_of_material": "News",
+        "_id": "581d173495d0e01ffc1e19a2",
+        "word_count": "421",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/us/north-carolina-voting-rights.html",
+        "snippet": "A federal judge, rejecting a challenge by Republican operatives, prohibited three counties from revoking registrations just before the presidential election....",
+        "lead_paragraph": "A federal judge, rejecting a challenge by Republican operatives, prohibited three counties from revoking registrations just before the presidential election.",
+        "abstract": "Federal Judge C Loretta Biggs bars election officials in three North Carolina counties from revoking some residents' voting rights; voter eligibility for thousands in state has been challenged by Republican political operatives in weeks before presidential election; county and state branches of NAACP claim that in at least one county, targeted voters were disproportionately African-American.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/us/05carolina/05carolina-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/us/05carolina/05carolina-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/us/05carolina/05carolina-articleLarge.jpg",
+            "height": 402,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/us/05carolina/05carolina-articleLarge.jpg",
+              "xlargeheight": "402"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/us/05carolina/05carolina-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/us/05carolina/05carolina-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ruling Preserves Voting Rights for Thousands in North Carolina",
+          "print_headline": "Judge\u2019s Ruling Preserves Voting Rights for Thousands in North Carolina"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Voter Registration and Requirements"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Beaufort (NC)"
+          },
+          {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "North Carolina"
+          },
+          {
+            "rank": "13",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Race and Ethnicity"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Assn for the Advancement of Colored People"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican National Committee"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Barber, William J II"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McCrory, Pat"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-11-04T23:16:51Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "WINES"
+            }
+          ],
+          "original": "By MICHAEL WINES"
+        },
+        "type_of_material": "News",
+        "_id": "581d16ec95d0e01ffc1e19a1",
+        "word_count": "963",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/business/media/bill-simmons-hbo-programcanceled.html",
+        "snippet": "HBO was eager to tap Mr. Simmons\u2019s base of readers of his sports column, but that audience failed to materialize....",
+        "lead_paragraph": "HBO was eager to tap Mr. Simmons\u2019s base of readers of his sports column, but that audience failed to materialize.",
+        "abstract": null,
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Bill Simmons\u2019s HBO Program Is Canceled",
+          "print_headline": "HBO Ends Talk Show for Ex-Star of ESPN"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Simmons, Bill (1969- )"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Home Box Office"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Athletics and Sports"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Any Given Wednesday With Bill Simmons (TV Program)"
+          }
+        ],
+        "pub_date": "2016-11-04T23:12:27Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "John",
+              "rank": 1,
+              "lastname": "KOBLIN"
+            }
+          ],
+          "original": "By JOHN KOBLIN"
+        },
+        "type_of_material": "News",
+        "_id": "581d15e095d0e01ffc1e19a0",
+        "word_count": "482",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/05/us/charleston-michael-slager-walter-scott-trial.html",
+        "snippet": "The jury in South Carolina viewed the cellphone footage that spurred Mr. Slager\u2019s prosecution and became a symbol of the national debate over race and policing....",
+        "lead_paragraph": "The jury in South Carolina viewed the cellphone footage that spurred Mr. Slager\u2019s prosecution and became a symbol of the national debate over race and policing.",
+        "abstract": "Jurors in murder trial of North Charleston, SC, Police Officer Michael T Slager in connection with shooting death of black man Walter L Scott  view video of Slager firing eight rounds toward Scott's back as he fled traffic stop.",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/05/us/05CHARLESTON/05CHARLESTON-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/05/us/05CHARLESTON/05CHARLESTON-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/05/us/05CHARLESTON/05CHARLESTON-articleLarge.jpg",
+            "height": 362,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/05/us/05CHARLESTON/05CHARLESTON-articleLarge.jpg",
+              "xlargeheight": "362"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/05/us/05CHARLESTON/05CHARLESTON-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/05/us/05CHARLESTON/05CHARLESTON-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tense Jurors in Michael Slager Trial See Video of Killing of Walter Scott",
+          "print_headline": "Tense Jurors in Charleston View Killing by Officer"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Santana, Feidin"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Scott, Walter L (1950-2015)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Slager, Michael T (1981- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "North Charleston (SC)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Video Recordings, Downloads and Streaming"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          }
+        ],
+        "pub_date": "2016-11-04T23:12:10Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alan",
+              "rank": 1,
+              "lastname": "BLINDER"
+            }
+          ],
+          "original": "By ALAN BLINDER"
+        },
+        "type_of_material": "News",
+        "_id": "581d15d195d0e01ffc1e199f",
+        "word_count": "686",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-fugitive-heir.html",
+        "snippet": "New York real estate heir Robert Durst, who became a nationally known name with last year's HBO documentary \"The Jinx,\" made his long-awaited arrival in California to face charges of killing a friend 16 years ago, authorities said....",
+        "lead_paragraph": "New York real estate heir Robert Durst, who became a nationally known name with last year's HBO documentary \"The Jinx,\" made his long-awaited arrival in California to face charges of killing a friend 16 years ago, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Real Estate Heir Durst in California to Face Murder Charge",
+          "print_headline": "Real Estate Heir Durst in California to Face Murder Charge"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:10:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d157795d0e01ffc1e199e",
+        "word_count": "238",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/learning/editorial-cartoon-contest.html",
+        "snippet": "Winners of our second annual Editorial Cartoon Contest take on Donald Trump, Syria, dress codes, gentrification and more....",
+        "lead_paragraph": "Winners of our second annual Editorial Cartoon Contest take on Donald Trump, Syria, dress codes, gentrification and more.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/learning/editorial-cartoon-contest-AVfbEJn20h2/editorial-cartoon-contest-AVfbEJn20h2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/learning/editorial-cartoon-contest-AVfbEJn20h2/editorial-cartoon-contest-AVfbEJn20h2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/learning/editorial-cartoon-contest-AVfbEJn20h2/editorial-cartoon-contest-AVfbEJn20h2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/learning/editorial-cartoon-contest-AVfbEJn20h2/editorial-cartoon-contest-AVfbEJn20h2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Editorial Cartoon Contest Winners"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:08:21Z",
+        "document_type": "multimedia",
+        "news_desk": "The Learning Network",
+        "section_name": "The Learning Network",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "581d14e595d0e01ffc1e199d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/04/us/04reuters-usa-election-poll.html",
+        "snippet": "Democratic presidential candidate Hillary Clinton leads Republican Donald Trump by 5 percentage points, according to a Reuters/Ipsos tracking poll released on Friday, keeping her advantage in a national survey while races tighten in several swing ...",
+        "lead_paragraph": "Democratic presidential candidate Hillary Clinton leads Republican Donald Trump by 5 percentage points, according to a Reuters/Ipsos tracking poll released on Friday, keeping her advantage in a national survey while races tighten in several swing states.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Clinton Leads Trump by 5 Points, Swing States Tighten: Reuters/Ipsos",
+          "print_headline": "Clinton Leads Trump by 5 Points, Swing States Tighten: Reuters/Ipsos"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:06:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581d147a95d0e01ffc1e199c",
+        "word_count": "485",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/04/us/ap-us-penn-state-abuse-the-latest.html",
+        "snippet": "The Latest on Jerry Sandusky's appeal hearing (all times local):...",
+        "lead_paragraph": "The Latest on Jerry Sandusky's appeal hearing (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Man Insists He Is Sandusky Shower Victim",
+          "print_headline": "The Latest: Man Insists He Is Sandusky Shower Victim"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-04T23:04:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581d141a95d0e01ffc1e199b",
+        "word_count": "284",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

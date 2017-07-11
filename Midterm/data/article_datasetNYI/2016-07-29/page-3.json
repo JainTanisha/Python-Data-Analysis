@@ -1,0 +1,703 @@
+{
+  "response": {
+    "meta": {
+      "hits": 961,
+      "time": 38,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-car-nascar-stewart-ward.html",
+        "snippet": "In a story July 29 about a ruling in a lawsuit against NASCAR driver Tony Stewart in the death of a fellow driver, The Associated Press failed to note the decision was first reported by the Watertown Daily Times and improperly used the content and...",
+        "lead_paragraph": "In a story July 29 about a ruling in a lawsuit against NASCAR driver Tony Stewart in the death of a fellow driver, The Associated Press failed to note the decision was first reported by the Watertown Daily Times and improperly used the content and wording of the newspaper story without additional reporting. A corrected version of the story is below:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: NASCAR-Stewart-Ward Story",
+          "print_headline": "Correction: NASCAR-Stewart-Ward Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T21:59:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579bd2f538f0d83c0fcf7862",
+        "word_count": "367",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bba-orioles-blue-jays.html",
+        "snippet": "Marco Estrada is still dealing with the sore back that forced him to skip his first All-Star Game. Even so, he was effective enough for the Toronto Blue Jays....",
+        "lead_paragraph": "Marco Estrada is still dealing with the sore back that forced him to skip his first All-Star Game. Even so, he was effective enough for the Toronto Blue Jays.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Blue Jays Hit 3 HRs in First Inning, Beat Orioles 6-5",
+          "print_headline": "Blue Jays Hit 3 HRs in First Inning, Beat Orioles 6-5"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:00:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c0b1538f0d83c0fcf78c1",
+        "word_count": "699",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/29/sitting-on-a-celestial-throne/",
+        "snippet": "Lily Silverstein makes her New York Times Crossword debut....",
+        "lead_paragraph": null,
+        "abstract": "Lily Silverstein makes her New York Times Crossword debut.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/crosswords/0729asljpg/0729asljpg-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/crosswords/0729asljpg/0729asljpg-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/crosswords/0729asljpg/0729asljpg-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/crosswords/0729asljpg/0729asljpg-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/crosswords/0729asljpg/0729asljpg-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/crosswords/0729asljpg/0729asljpg-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sitting on a Celestial Throne",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-29T22:00:13Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "579c0ac238f0d83c0fcf78c0",
+        "word_count": "877",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/arts/andrew-sullivan-dish-convention-trump-clinton.html",
+        "snippet": "The commentator talks about his two-week foray into blogging about the two party conventions, after a long hiatus for meditation and work on a spiritual memoir....",
+        "lead_paragraph": "The commentator talks about his two-week foray into blogging about the two party conventions, after a long hiatus for meditation and work on a spiritual memoir.",
+        "abstract": "Edited excerpts from conversation with journalist and pioneering blogger Andrew Sullivan, who discusses his return to media world to cover presidential election. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/arts/30SULLIVAN/30SULLIVAN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/arts/30SULLIVAN/30SULLIVAN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/arts/30SULLIVAN/30SULLIVAN-articleLarge.jpg",
+            "height": 524,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/arts/30SULLIVAN/30SULLIVAN-articleLarge.jpg",
+              "xlargeheight": "524"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/arts/30SULLIVAN/30SULLIVAN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/arts/30SULLIVAN/30SULLIVAN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Andrew Sullivan on His Brief Return to the Online Political Fray",
+          "print_headline": "Back Into the Online Fray, After Spiritual Reflection"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blogs and Blogging (Internet)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sullivan, Andrew"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York (Magazine)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          }
+        ],
+        "pub_date": "2016-07-29T22:01:55+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 1,
+              "lastname": "SCHUESSLER"
+            }
+          ],
+          "original": "By JENNIFER SCHUESSLER"
+        },
+        "type_of_material": "Interview",
+        "_id": "579bd25538f0d83c0fcf7860",
+        "word_count": "920",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/arts/television/insult-comedy-as-blood-sport-the-rise-of-the-roast-battle.html",
+        "snippet": "Forget celebrity roasts. Inspired by rap throwdowns, standup comics are going head to head, and no subject is off limits....",
+        "lead_paragraph": "Forget celebrity roasts. Inspired by rap throwdowns, standup comics are going head to head, and no subject is off limits.",
+        "abstract": "Jason Zinoman On Comedy column considers increasing popularity of roast battles, which feature comics trading barbs with one another and is inspiration for television show Jeff Ross Presents Roast Battle; suggests format, which has elements of traditional Friars Club roasts, American Idol and rap battles, reflects current political discourse.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/arts/30ROASTBATTLEJP1/30ROASTBATTLEJP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/arts/30ROASTBATTLEJP1/30ROASTBATTLEJP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/arts/30ROASTBATTLEJP1/30ROASTBATTLEJP1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/arts/30ROASTBATTLEJP1/30ROASTBATTLEJP1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/arts/30ROASTBATTLEJP1/30ROASTBATTLEJP1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/arts/30ROASTBATTLEJP1/30ROASTBATTLEJP1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Insult Comedy as Blood Sport: The Rise of the Roast Battle",
+          "content_kicker": "On Comedy",
+          "kicker": "On Comedy",
+          "print_headline": "Comics Now Sear Peers in Roasts on TV"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ross, Jeffrey"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Comedy Central"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Jeff Ross Presents Roast Battle (TV Program)"
+          }
+        ],
+        "pub_date": "2016-07-29T21:56:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jason",
+              "rank": 1,
+              "lastname": "ZINOMAN"
+            }
+          ],
+          "original": "By JASON ZINOMAN"
+        },
+        "type_of_material": "Review",
+        "_id": "579bd0f238f0d83c0fcf785c",
+        "word_count": "1121",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/sports/golf/29reuters-golf-pga-grillo.html",
+        "snippet": "Argentinian Emiliano Grillo says he will embrace the opportunity as he enters the third round of the PGA Championship just two strokes off the lead....",
+        "lead_paragraph": "Argentinian Emiliano Grillo says he will embrace the opportunity as he enters the third round of the PGA Championship just two strokes off the lead.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Young Grillo Embraces His Major Challenge at PGA",
+          "print_headline": "Young Grillo Embraces His Major Challenge at PGA"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T21:51:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c08d938f0d83c0fcf78bd",
+        "word_count": "304",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-us-robbery-suspect-parents.html",
+        "snippet": "A Tempe police lieutenant with nearly 20 years of experience shot and killed a robbery suspect that he believed had a gun, authorities said Friday....",
+        "lead_paragraph": "A Tempe police lieutenant with nearly 20 years of experience shot and killed a robbery suspect that he believed had a gun, authorities said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tempe Police Lieutenant Named as Officer Who Shot Suspect",
+          "print_headline": "Tempe Police Lieutenant Named as Officer Who Shot Suspect"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T21:11:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c082e38f0d83c0fcf78bc",
+        "word_count": "514",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/business/29reuters-malaysia-scandal-goldman-sachs.html",
+        "snippet": "U.S. authorities have issued subpoenas to Goldman Sachs Group Inc for documents related to the bank's dealings with scandal-hit Malaysian state fund 1MDB, the Wall Street Journal reported late on Friday....",
+        "lead_paragraph": "U.S. authorities have issued subpoenas to Goldman Sachs Group Inc for documents related to the bank's dealings with scandal-hit Malaysian state fund 1MDB, the Wall Street Journal reported late on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Authorities Subpoena Goldman in 1MDB Probe-WSJ",
+          "print_headline": "U.S. Authorities Subpoena Goldman in 1MDB Probe-WSJ"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T21:47:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c077038f0d83c0fcf78bb",
+        "word_count": "239",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/arts/music/sharon-jones-documentary-interview.html",
+        "snippet": "The soul singer, the subject of a new documentary that chronicles her career and cancer struggles, tells of a hard new turn in her story....",
+        "lead_paragraph": "The soul singer, the subject of a new documentary that chronicles her career and cancer struggles, tells of a hard new turn in her story.",
+        "abstract": "Sharon Jones is subject of Barbara Kopple documentary film Miss Sharon Jones!, which recounts soul singer's prolonged, colorful journey to prominence and recent bout with cancer.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/arts/30JONESREEF/30JONESREEF-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/arts/30JONESREEF/30JONESREEF-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/arts/30JONESREEF/30JONESREEF-articleLarge-v2.jpg",
+            "height": 385,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/arts/30JONESREEF/30JONESREEF-articleLarge-v2.jpg",
+              "xlargeheight": "385"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/arts/30JONESREEF/30JONESREEF-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/arts/30JONESREEF/30JONESREEF-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sharon Jones, a Burst of Light, Even in Dark Times",
+          "print_headline": "A Burst of Light, Even in Dark Times"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Jones, Sharon Lafaye (1956- )"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Miss Sharon Jones! (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Dap-Kings (Music Group)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Documentary Films and Programs"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kopple, Barbara"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cancer"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-07-29T21:39:16+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jim",
+              "rank": 1,
+              "lastname": "FARBER"
+            }
+          ],
+          "original": "By JIM FARBER"
+        },
+        "type_of_material": "News",
+        "_id": "579bcd0638f0d83c0fcf7845",
+        "word_count": "1077",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/arts/music/review-thomas-ades-the-exterminating-angel-opera-salzburg-festival.html",
+        "snippet": "Thomas Ad\u00e8s has turned Luis Bu\u00f1uel\u2019s film \u201cThe Exterminating Angel\u201d into an audacious three-act opera at the Salzburg Festival in Austria....",
+        "lead_paragraph": "Thomas Ad\u00e8s has turned Luis Bu\u00f1uel\u2019s film \u201cThe Exterminating Angel\u201d into an audacious three-act opera at the Salzburg Festival in Austria.",
+        "abstract": "Anthony Tommasini reviews premiere of ORF Vienna Radio Symphony Orchestra production of Thomas Ades opera The Exterminating Angel, based on 1962 Luis Bunuel film, at Salzburg Festival in Salzburg, Austria.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/arts/30ANGEL-WEB2/30ANGEL-WEB2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/arts/30ANGEL-WEB2/30ANGEL-WEB2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/arts/30ANGEL-WEB2/30ANGEL-WEB2-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/arts/30ANGEL-WEB2/30ANGEL-WEB2-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/arts/30ANGEL-WEB2/30ANGEL-WEB2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/arts/30ANGEL-WEB2/30ANGEL-WEB2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In This Opera, You Can Depart, but You Can Never Leave",
+          "print_headline": "Depart Anytime You Like, but You Can Never Leave"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Salzburg Festival"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ades, Thomas"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Exterminating Angel (Opera)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Vienna Radio Symphony Orchestra"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-07-29T21:38:46+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anthony",
+              "rank": 1,
+              "lastname": "TOMMASINI"
+            }
+          ],
+          "original": "By ANTHONY TOMMASINI"
+        },
+        "type_of_material": "Review",
+        "_id": "579bcce938f0d83c0fcf7844",
+        "word_count": "941",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

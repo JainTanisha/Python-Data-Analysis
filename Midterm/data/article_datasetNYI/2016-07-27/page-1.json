@@ -1,0 +1,364 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 82,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/politics/ap-us-dem-2016-convention-obama-text.html",
+        "snippet": "Text of President Barack Obama's speech Wednesday at the Democratic National Convention, as provided by the White House....",
+        "lead_paragraph": "Text of President Barack Obama's speech Wednesday at the Democratic National Convention, as provided by the White House.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Text of President Obama's Democratic Convention Speech",
+          "print_headline": "Text of President Obama's Democratic Convention Speech"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T23:15:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57997bb938f0d87cf647e33f",
+        "word_count": "4182",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/business/27reuters-halcon-resources-bankruptcy.html",
+        "snippet": "Halcon Resources Corp, which produces oil in Texas and North Dakota, filed for Chapter 11 bankruptcy protection on Wednesday....",
+        "lead_paragraph": "Halcon Resources Corp, which produces oil in Texas and North Dakota, filed for Chapter 11 bankruptcy protection on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Oil Producer Halcon Resources Files for Bankruptcy Protection",
+          "print_headline": "Oil Producer Halcon Resources Files for Bankruptcy Protection"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T23:26:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57997ba438f0d87cf647e33e",
+        "word_count": "90",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/business/27reuters-gland-pharma-m-a-fosun-pharma.html",
+        "snippet": "Shanghai Fosun Pharmaceutical Group Co Ltd has agreed to buy Gland Pharma - backed by KKR &amp; Co LP - for about $1.4 billion, a person with direct knowledge of the matter said, in India's largest inbound acquisition this year....",
+        "lead_paragraph": "Shanghai Fosun Pharmaceutical Group Co Ltd has agreed to buy Gland Pharma - backed by KKR &amp; Co LP - for about $1.4 billion, a person with direct knowledge of the matter said, in India's largest inbound acquisition this year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fosun Agrees to Buy KKR-Backed Indian Drugmaker for $1.4 Billion: Source",
+          "print_headline": "Fosun Agrees to Buy KKR-Backed Indian Drugmaker for $1.4 Billion: Source"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T23:21:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57997af438f0d87cf647e33d",
+        "word_count": "302",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004555770/michael-bloomberg-trashes-donald-trump.html",
+        "snippet": "Leaning on his own business record, the former mayor of New York, Michael R. Bloomberg, attacked Donald J. Trump\u2019s record, saying, \u201cI\u2019m a New Yorker, and I know a con when I see one.\u201d...",
+        "lead_paragraph": "Leaning on his own business record, the former mayor of New York, Michael R. Bloomberg, attacked Donald J. Trump\u2019s record, saying, \u201cI\u2019m a New Yorker, and I know a con when I see one.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/28/us/elections/28video-bloomberg/28video-bloomberg-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/28/us/elections/28video-bloomberg/28video-bloomberg-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/28/us/elections/28video-bloomberg/28video-bloomberg-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/28/us/elections/28video-bloomberg/28video-bloomberg-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/28/us/elections/28video-bloomberg/28video-bloomberg-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/28/us/elections/28video-bloomberg/28video-bloomberg-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Michael Bloomberg Trashes Donald Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Bloomberg, Michael R"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Grynbaum, Michael M"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-07-27T23:09:50Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1
+            }
+          ],
+          "original": "By MICHAEL M. GRYNBAUM and QUYNHANH DO"
+        },
+        "type_of_material": "Video",
+        "_id": "5799779a38f0d87cf647e33b",
+        "word_count": "34",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/baseball/ap-bba-yankees-astros.html",
+        "snippet": "Lance McCullers isn't reveling in his success after two straight 10-strikeout games....",
+        "lead_paragraph": "Lance McCullers isn't reveling in his success after two straight 10-strikeout games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McCullers, Rasmus Help Astros Over Yankees 4-1",
+          "print_headline": "McCullers, Rasmus Help Astros Over Yankees 4-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:57:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5799756338f0d87cf647e32d",
+        "word_count": "732",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-ca-california-wildfires-animals.html",
+        "snippet": "About a dozen lions, tigers, cougars and other big cats were returned Wednesday to a sanctuary north of Los Angeles, four days after they were evacuated in the teeth of an advancing wildfire....",
+        "lead_paragraph": "About a dozen lions, tigers, cougars and other big cats were returned Wednesday to a sanctuary north of Los Angeles, four days after they were evacuated in the teeth of an advancing wildfire.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Big Cats Returned to California Sanctuary Threatened by Fire",
+          "print_headline": "Big Cats Returned to California Sanctuary Threatened by Fire"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:56:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5799756138f0d87cf647e32c",
+        "word_count": "404",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-university-of-louisville-president.html",
+        "snippet": "University of Louisville trustees on Wednesday accepted the resignation of embattled President James Ramsey, whose long tenure was dogged by scandal....",
+        "lead_paragraph": "University of Louisville trustees on Wednesday accepted the resignation of embattled President James Ramsey, whose long tenure was dogged by scandal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "University of Louisville President's Resignation Accepted",
+          "print_headline": "University of Louisville President's Resignation Accepted"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:47:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5799728a38f0d87cf647e32a",
+        "word_count": "812",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/business/27reuters-asciano-m-a-court.html",
+        "snippet": "A A$9.1 billion (5.15 billion pounds) buyout of Australian port and rail freight giant Asciano Ltd by global investors was approved by a court on Thursday, clearing the final hurdle for the country's biggest foreign takeover in five years....",
+        "lead_paragraph": "A A$9.1 billion (5.15 billion pounds) buyout of Australian port and rail freight giant Asciano Ltd by global investors was approved by a court on Thursday, clearing the final hurdle for the country's biggest foreign takeover in five years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Asciano $6.8 Billion Buyout Clears Final Hurdle With Australian Court Approval",
+          "print_headline": "Asciano $6.8 Billion Buyout Clears Final Hurdle With Australian Court Approval"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:46:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5799728338f0d87cf647e329",
+        "word_count": "154",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/baseball/ap-bbn-cardinals-mets.html",
+        "snippet": "Just shy of a year. That's how long Jeurys Familia's saves streak lasted &#8212; until Yadier Molina ended it with one perfectly timed swing....",
+        "lead_paragraph": "Just shy of a year. That's how long Jeurys Familia's saves streak lasted &#8212; until Yadier Molina ended it with one perfectly timed swing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cardinals Snap Familia's Saves Streak, Rally Past Mets 5-4",
+          "print_headline": "Cardinals Snap Familia's Saves Streak, Rally Past Mets 5-4"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:44:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579971e338f0d87cf647e328",
+        "word_count": "819",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/sports/olympics/27reuters-olympics-rio-swimming-australia-campbell.html",
+        "snippet": "Australian swimming has moved on from the debacle in the London pool four years ago and it's 'disrespectful' to keep reminding the Olympic team about it in the leadup to Rio de Janeiro, 100 meters freestyle world record holder Cate Campbell has sa...",
+        "lead_paragraph": "Australian swimming has moved on from the debacle in the London pool four years ago and it's 'disrespectful' to keep reminding the Olympic team about it in the leadup to Rio de Janeiro, 100 meters freestyle world record holder Cate Campbell has said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "No Thanks for the London Memories, Says Campbell",
+          "print_headline": "No Thanks for the London Memories, Says Campbell"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T22:44:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579971d138f0d87cf647e327",
+        "word_count": "419",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,441 @@
+{
+  "response": {
+    "meta": {
+      "hits": 539,
+      "time": 57,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/us/ap-us-wing-fest-crash.html",
+        "snippet": "Reno police said they shot to death a man who tried to run over an officer as he attempted to drive into a crowded chicken wing festival, KNRV TV reported....",
+        "lead_paragraph": "Reno police said they shot to death a man who tried to run over an officer as he attempted to drive into a crowded chicken wing festival, KNRV TV reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Man Killed After Crashing Into Chicken Wing Festival",
+          "print_headline": "Police: Man Killed After Crashing Into Chicken Wing Festival"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T21:07:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779b75138f0d837d4464f6d",
+        "word_count": "293",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/04/sports/mets-defeat-cubs-wilmer-flores.html",
+        "snippet": "Flores hit two home runs and tied a franchise record against Chicago, and the Mets chased starter Jon Lester after only four outs....",
+        "lead_paragraph": "Flores hit two home runs and tied a franchise record against Chicago, and the Mets chased starter Jon Lester after only four outs.",
+        "abstract": "New York Mets defeat Chicago Cubs, 14-3. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/04/sports/04mets1/04mets1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/04/sports/04mets1/04mets1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/04/sports/04mets1/04mets1-articleLarge.jpg",
+            "height": 418,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/04/sports/04mets1/04mets1-articleLarge.jpg",
+              "xlargeheight": "418"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/04/sports/04mets1/04mets1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/04/sports/04mets1/04mets1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Wilmer Flores\u2019s Hammer Wraps Up a Demolition of the Cubs\u2019 Rotation",
+          "content_kicker": "Mets 14, Cubs 3",
+          "kicker": "Mets 14, Cubs 3",
+          "print_headline": "Flores\u2019s Hammer Wraps Up a Demolition of the Cubs\u2019 Pitching Staff"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Mets"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Flores, Wilmer"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Chicago Cubs"
+          }
+        ],
+        "pub_date": "2016-07-03T21:04:12+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "WAGNER"
+            }
+          ],
+          "original": "By JAMES WAGNER"
+        },
+        "type_of_material": "News",
+        "_id": "57797dcd38f0d837d4464f21",
+        "word_count": "922",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "In his first start since winning the U.S. Open, Dustin Johnson won another World Golf Championship on Sunday....",
+        "lead_paragraph": "In his first start since winning the U.S. Open, Dustin Johnson won another World Golf Championship on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T20:59:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779b5ea38f0d837d4464f6b",
+        "word_count": "644",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/03/sports/golf/03reuters-golf-lpga.html",
+        "snippet": "Canadian Brooke Henderson went wire-to-wire to successfully defend her title at the Portland Classic on Sunday....",
+        "lead_paragraph": "Canadian Brooke Henderson went wire-to-wire to successfully defend her title at the Portland Classic on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Henderson Defends Portland Title",
+          "print_headline": "Henderson Defends Portland Title"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T21:01:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5779b5ea38f0d837d4464f6a",
+        "word_count": "230",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/sports/olympics/ap-oly-ath-jamaican-trials.html",
+        "snippet": "Yohan Blake checked the clock as he crossed the line, then knelt for a moment in prayer and tore open his singlet in his traditional manner of celebration....",
+        "lead_paragraph": "Yohan Blake checked the clock as he crossed the line, then knelt for a moment in prayer and tore open his singlet in his traditional manner of celebration.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Yohan Blake Heading to Rio as a Double Jamaican Champ",
+          "print_headline": "Yohan Blake Heading to Rio as a Double Jamaican Champ"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T20:45:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779b26538f0d837d4464f67",
+        "word_count": "648",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/03/business/03reuters-global-markets.html",
+        "snippet": "Asian shares shrugged off early losses and edged higher on Monday, while the Australian dollar was under pressure after no clear winner emerged from a weekend election....",
+        "lead_paragraph": "Asian shares shrugged off early losses and edged higher on Monday, while the Australian dollar was under pressure after no clear winner emerged from a weekend election. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Asian Stocks Recoup Losses, Aussie Wobbles on Uncertain Election",
+          "print_headline": "Asian Stocks Recoup Losses, Aussie Wobbles on Uncertain Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T20:37:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5779b04338f0d837d4464f65",
+        "word_count": "642",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/sports/olympics/ap-oly-swm-us-swim-trials-off-to-rio.html",
+        "snippet": "The U.S. Olympic swim team has a history of improving its times from the trials to the games....",
+        "lead_paragraph": "The U.S. Olympic swim team has a history of improving its times from the trials to the games.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Swim Trials Close With No World Records; Rio Games Next",
+          "print_headline": "US Swim Trials Close With No World Records; Rio Games Next"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T20:32:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779afa238f0d837d4464f63",
+        "word_count": "610",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/sports/baseball/ap-bbn-brewers-cardinals.html",
+        "snippet": "Stephen Piscotty savored the moment of his second career grand slam. Then he got some chow....",
+        "lead_paragraph": "Stephen Piscotty savored the moment of his second career grand slam. Then he got some chow.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Piscotty's Slam Paces Cardinals to Sweep Over Brewers",
+          "print_headline": "Piscotty's Slam Paces Cardinals to Sweep Over Brewers"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T20:28:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779ae3738f0d837d4464f62",
+        "word_count": "671",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/03/sports/olympics/03reuters-athletics-olympics-usa.html",
+        "snippet": "Allyson Felix and LaShawn Merritt ran the fastest 400 meters in the world this year as they made the U.S. team for the Rio Olympics at the American trials on Sunday...",
+        "lead_paragraph": "Allyson Felix and LaShawn Merritt ran the fastest 400 meters in the world this year as they made the U.S. team for the Rio Olympics at the American trials on Sunday",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Felix and Merritt Speed to 400m Wins at U.S. Trials",
+          "print_headline": "Felix and Merritt Speed to 400m Wins at U.S. Trials"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T20:16:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5779ab5a38f0d837d4464f60",
+        "word_count": "82",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/middleeast/100000004508980/iraqis-mourn-bombing-victims.html",
+        "snippet": "Residents of Karada, the Baghdad district where more than 140 people were killed in a terrorist attack early Sunday, gathered to light candles and grieve through a holiday near the end of Ramadan....",
+        "lead_paragraph": "Residents of Karada, the Baghdad district where more than 140 people were killed in a terrorist attack early Sunday, gathered to light candles and grieve through a holiday near the end of Ramadan.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/03/multimedia/04baghdad-vigil/04baghdad-vigil-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/03/multimedia/04baghdad-vigil/04baghdad-vigil-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/03/multimedia/04baghdad-vigil/04baghdad-vigil-articleLarge.jpg",
+            "height": 412,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/03/multimedia/04baghdad-vigil/04baghdad-vigil-articleLarge.jpg",
+              "xlargeheight": "412"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/03/multimedia/04baghdad-vigil/04baghdad-vigil-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/03/multimedia/04baghdad-vigil/04baghdad-vigil-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Iraqis Mourn Bombing Victims"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Candles"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iraq"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Baghdad (Iraq)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          }
+        ],
+        "pub_date": "2016-07-03T20:15:51Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Middle East",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5779aad638f0d837d4464f5e",
+        "word_count": "33",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

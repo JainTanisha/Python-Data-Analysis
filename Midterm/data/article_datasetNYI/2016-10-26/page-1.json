@@ -1,0 +1,611 @@
+{
+  "response": {
+    "meta": {
+      "hits": 968,
+      "time": 50,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/world/africa/africa-international-criminal-court.html",
+        "snippet": "The announcements by Gambia, Burundi and South Africa intensify a longstanding debate over whether the body is biased against the continent....",
+        "lead_paragraph": "The announcements by Gambia, Burundi and South Africa intensify a longstanding debate over whether the body is biased against the continent.",
+        "abstract": "Memo from the United Nations; Gambia's announcement that it will withdraw from International Criminal Court presents most serious challenge to court's existence, particularly as statement comes on heels of similar decisions by Burundi and South Africa; Gambia's withdrawal is doubly significant in that court's chief prosecutor Fatou Bensouda is Gambian; African nations have objected to what they say is inordinate focus by court on African continent.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/world/27Justice1/27Justice1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/world/27Justice1/27Justice1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/world/27Justice1/27Justice1-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/world/27Justice1/27Justice1-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/world/27Justice1/27Justice1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/world/27Justice1/27Justice1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As 3 African Nations Vow to Exit, International Court Faces Its Own Trial",
+          "content_kicker": "Memo From the United Nations",
+          "kicker": "Memo From the United Nations",
+          "print_headline": "African Exits Threaten a Court"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "International Criminal Court"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Burundi"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "South Africa"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Gambia"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "War Crimes, Genocide and Crimes Against Humanity"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Africa"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bensouda, Fatou"
+          }
+        ],
+        "pub_date": "2016-10-26T23:42:58+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "contributor": "Marlise Simons contributed reporting from Paris.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Somini",
+              "rank": 1,
+              "lastname": "SENGUPTA"
+            }
+          ],
+          "original": "By SOMINI SENGUPTA"
+        },
+        "type_of_material": "News",
+        "_id": "58113f8995d0e022439c56d4",
+        "word_count": "1143",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/world/middleeast/26reuters-mideast-crisis-iraq-obama.html",
+        "snippet": "U.S. President Barack Obama and Turkish President Tayyip Erdogan discussed the next steps in the campaign against Islamic State during a telephone call on Wednesday, the White House said....",
+        "lead_paragraph": "U.S. President Barack Obama and Turkish President Tayyip Erdogan discussed the next steps in the campaign against Islamic State during a telephone call on Wednesday, the White House said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Obama, Turkey's Erdogan Discuss Campaign Against Islamic State: White House",
+          "print_headline": "Obama, Turkey's Erdogan Discuss Campaign Against Islamic State: White House"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:42:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58113f8695d0e022439c56d3",
+        "word_count": "94",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/sports/baseball/26reuters-baseball-worldseries-aaron.html",
+        "snippet": "Veteran Boston Red Sox slugger David Ortiz and young Cubs power hitter Kris Bryant were named winners of the 2016 Hank Aaron Awards on Wednesday as the most outstanding offensive performers in their respective league....",
+        "lead_paragraph": "Veteran Boston Red Sox slugger David Ortiz and young Cubs power hitter Kris Bryant were named winners of the 2016 Hank Aaron Awards on Wednesday as the most outstanding offensive performers in their respective league.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ortiz, Bryant Win Hank Aaron Awards",
+          "print_headline": "Ortiz, Bryant Win Hank Aaron Awards"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:42:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58113f7f95d0e022439c56d2",
+        "word_count": "336",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/sports/baseball/ap-bbo-manfred.html",
+        "snippet": "Baseball Commissioner Rob Manfred is hopeful an agreement on a new labor contract will be reached before the current deal expires Dec. 1....",
+        "lead_paragraph": "Baseball Commissioner Rob Manfred is hopeful an agreement on a new labor contract will be reached before the current deal expires Dec. 1.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Manfred Hopeful of MLB Labor Deal by Start of December",
+          "print_headline": "Manfred Hopeful of MLB Labor Deal by Start of December"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:39:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58113edc95d0e022439c56d1",
+        "word_count": "772",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/26/business/26reuters-eu-canada-trade-trudeau.html",
+        "snippet": "Canadian Prime Minister Justin Trudeau will not be flying to Brussels on Wednesday night because a free trade deal he was supposed to sign with the European Union on Thursday is not finished yet, an official said....",
+        "lead_paragraph": "Canadian Prime Minister Justin Trudeau will not be flying to Brussels on Wednesday night because a free trade deal he was supposed to sign with the European Union on Thursday is not finished yet, an official said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Canada Says PM Trudeau Won't Travel to Brussels on Wednesday",
+          "print_headline": "Canada Says PM Trudeau Won't Travel to Brussels on Wednesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:36:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58113e0695d0e022439c56d0",
+        "word_count": "69",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/opinion/a-close-race-for-darrell-issa-the-houses-mini-trump.html",
+        "snippet": "Representative Issa, the car-alarm king of California, finds his embrace of Mr. Trump could cost him \u2014 so now he\u2019s embracing Mr. Obama....",
+        "lead_paragraph": "Representative Issa, the car-alarm king of California, finds his embrace of Mr. Trump could cost him \u2014 so now he\u2019s embracing Mr. Obama.",
+        "abstract": "Elizabeth Williamson Editorial Notebook examines re-election bid by Republican Rep Darrell Issa of California, effort that has met with unexpected challenge from retired Marine colonel Doug Applegate and been hampered by Issa's closeness to Donald J Trump; notes Democrats are pouring millions into race; argues Issa's lackluster reputation as lawmaker extends even to his own party.",
+        "print_page": "26",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/opinion/27thu3web/27thu3web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/opinion/27thu3web/27thu3web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/opinion/27thu3web/27thu3web-articleLarge.jpg",
+            "height": 358,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/opinion/27thu3web/27thu3web-articleLarge.jpg",
+              "xlargeheight": "358"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/opinion/27thu3web/27thu3web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/opinion/27thu3web/27thu3web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Close Race for Darrell Issa, the House\u2019s Mini-Trump",
+          "content_kicker": "Editorial Notebook",
+          "kicker": "Editorial Notebook",
+          "print_headline": "A Close Race for the House\u2019s Mini-Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Issa, Darrell E"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Applegate, Douglas (1953- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "California"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elections, House of Representatives"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorial Notebook"
+          }
+        ],
+        "pub_date": "2016-10-26T23:34:10+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Elizabeth",
+              "rank": 1,
+              "lastname": "WILLIAMSON"
+            }
+          ],
+          "original": "By ELIZABETH WILLIAMSON"
+        },
+        "type_of_material": "Editorial",
+        "_id": "58113d7795d0e022439c56cf",
+        "word_count": "596",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/27/world/middleeast/israel-unesco-holy-site.html",
+        "snippet": "The Israel Antiquities Authority unveiled a preserved papyrus fragment from the seventh century B.C., written in ancient Hebrew, that mentions Jerusalem by name....",
+        "lead_paragraph": "The Israel Antiquities Authority unveiled a preserved papyrus fragment from the seventh century B.C., written in ancient Hebrew, that mentions Jerusalem by name.",
+        "abstract": null,
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/27/world/27unesco-web/27unesco-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/27/world/27unesco-web/27unesco-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/27/world/27unesco-web/27unesco-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/27/world/27unesco-web/27unesco-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/27/world/27unesco-web/27unesco-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/27/world/27unesco-web/27unesco-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "As U.N. Ignores Jewish Ties to Holy Site, Israel Produces Ancient Evidence",
+          "print_headline": "Israel Unveils Ancient Evidence in U.N. Feud"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United Nations Educational, Scientific and Cultural Organization"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Israel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Historic Buildings and Sites"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Archaeology and Anthropology"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Temple Mount (Jerusalem)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Al Aqsa Mosque (Jerusalem)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Manuscripts"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jews and Judaism"
+          }
+        ],
+        "pub_date": "2016-10-26T23:33:13+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Isabel",
+              "rank": 1,
+              "lastname": "KERSHNER"
+            }
+          ],
+          "original": "By ISABEL KERSHNER"
+        },
+        "type_of_material": "News",
+        "_id": "58113d3d95d0e022439c56ce",
+        "word_count": "1027",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/sports/football/ap-fbn-broncos-ware.html",
+        "snippet": "It was a day of big returns for DeMarcus Ware....",
+        "lead_paragraph": "It was a day of big returns for DeMarcus Ware.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "DeMarcus Ware Has a Day of Big Returns Wednesday",
+          "print_headline": "DeMarcus Ware Has a Day of Big Returns Wednesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:28:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58113c2095d0e022439c56cd",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/world/middleeast/ap-un-united-nations-syria-humanitarian.html",
+        "snippet": "The U.N. humanitarian chief accused Russia and Syria on Wednesday of using bombing and starvation tactics in eastern Aleppo to push people to surrender or to death, triggering an unusual verbal attack on a U.N. official from the Russian ambassador...",
+        "lead_paragraph": "The U.N. humanitarian chief accused Russia and Syria on Wednesday of using bombing and starvation tactics in eastern Aleppo to push people to surrender or to death, triggering an unusual verbal attack on a U.N. official from the Russian ambassador.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Humanitarian Chief, Russian Diplomat Spar at UN",
+          "print_headline": "Humanitarian Chief, Russian Diplomat Spar at UN"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:28:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58113c1b95d0e022439c56cc",
+        "word_count": "525",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/26/us/politics/ap-us-john-hinckley.html",
+        "snippet": "A judge who ruled that would-be Ronald Reagan assassin John Hinckley Jr. should be allowed to leave the psychiatric hospital where he had lived for decades said Wednesday he got less \"blowback\" on the decision earlier this year than he expected....",
+        "lead_paragraph": "A judge who ruled that would-be Ronald Reagan assassin John Hinckley Jr. should be allowed to leave the psychiatric hospital where he had lived for decades said Wednesday he got less \"blowback\" on the decision earlier this year than he expected.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge: John Hinckley Freedom Less Contentious Than Expected",
+          "print_headline": "Judge: John Hinckley Freedom Less Contentious Than Expected"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-26T23:24:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58113b4e95d0e022439c56cb",
+        "word_count": "424",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

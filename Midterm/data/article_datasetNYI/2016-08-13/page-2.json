@@ -1,0 +1,384 @@
+{
+  "response": {
+    "meta": {
+      "hits": 475,
+      "time": 48,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/14/us/ken-taylor-arizona-mayor-bilingual-invitation.html",
+        "snippet": "The response by Ken Taylor of Huachuca City, Ariz., to the U.S.-Mexico Border Mayors Association reflects a longstanding battle over the use of Spanish in the United States....",
+        "lead_paragraph": "The response by Ken Taylor of Huachuca City, Ariz., to the U.S.-Mexico Border Mayors Association reflects a longstanding battle over the use of Spanish in the United States.",
+        "abstract": "Huachuca City, Ariz, Mayor Ken Taylor is incensed by bilingual invitation to US-Mexico Border Mayors Association conference; kerfuffle reflects ongoing tensions over Spanish-speaking in United States. ",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/14/us/14ARIZONA1/14ARIZONA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/14/us/14ARIZONA1/14ARIZONA1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/14/us/14ARIZONA1/14ARIZONA1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/14/us/14ARIZONA1/14ARIZONA1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/14/us/14ARIZONA1/14ARIZONA1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/14/us/14ARIZONA1/14ARIZONA1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Bilingual Invitation to Arizona Mayor Draws an Angry Reply, in English",
+          "print_headline": "Bilingual Invitation to an Arizona Mayor  Draws a Vehement Reply, in English"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Spanish Language"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mayors"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Language and Languages"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Hispanic-Americans"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Arizona"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico"
+          }
+        ],
+        "pub_date": "2016-08-13T22:41:10+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Fernanda",
+              "rank": 1,
+              "lastname": "SANTOS"
+            }
+          ],
+          "original": "By FERNANDA SANTOS"
+        },
+        "type_of_material": "News",
+        "_id": "57afa20b95d0e021d79808e9",
+        "word_count": "736",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-sai-sailing.html",
+        "snippet": "With their ponytails flapping and their American flag spinnaker billowing in the breeze, Paris Henken and Helena Scutt sped across Guanabara Bay and became the first U.S. crew to win a race at the Rio Olympics regatta....",
+        "lead_paragraph": "With their ponytails flapping and their American flag spinnaker billowing in the breeze, Paris Henken and Helena Scutt sped across Guanabara Bay and became the first U.S. crew to win a race at the Rio Olympics regatta.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "First US Race Win in Olympic Regatta Comes in 49erFX Class",
+          "print_headline": "First US Race Win in Olympic Regatta Comes in 49erFX Class"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:34:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57afa11895d0e021d79808e8",
+        "word_count": "811",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-ten-hlavackovas-tears.html",
+        "snippet": "Andrea Hlavackova and Lucie Hradecka were both still awake at 5 a.m., a mere nine hours before they would play for the Olympic bronze medal....",
+        "lead_paragraph": "Andrea Hlavackova and Lucie Hradecka were both still awake at 5 a.m., a mere nine hours before they would play for the Olympic bronze medal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "After Volley to Face, From a Sure Tennis Medal to None",
+          "print_headline": "After Volley to Face, From a Sure Tennis Medal to None"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:33:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57afa11295d0e021d79808e6",
+        "word_count": "838",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-swm-dominant-americans.html",
+        "snippet": "They teamed up for a carpool karaoke video. They planted their flag in Brazil. And when the Olympics are done, they'll be remembered as the latest in a long line of U.S. swimming powerhouses....",
+        "lead_paragraph": "They teamed up for a carpool karaoke video. They planted their flag in Brazil. And when the Olympics are done, they'll be remembered as the latest in a long line of U.S. swimming powerhouses.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "So Much for the Dire Predictions of US Swimming Flop in Rio",
+          "print_headline": "So Much for the Dire Predictions of US Swimming Flop in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:32:41Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57afa11395d0e021d79808e7",
+        "word_count": "853",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-armchair-olympics.html",
+        "snippet": "NBC may believe that Michael Phelps means it when he says his swimming career is over, but ultimately isn't ready to bet the house on it....",
+        "lead_paragraph": "NBC may believe that Michael Phelps means it when he says his swimming career is over, but ultimately isn't ready to bet the house on it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NBC's Valedictory to Phelps _ if It Turns Out to Be True",
+          "print_headline": "NBC's Valedictory to Phelps _ if It Turns Out to Be True"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:28:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af9faa95d0e021d79808e4",
+        "word_count": "676",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/us/ap-us-salt-flats-racing.html",
+        "snippet": "Speed Week races at Utah's famous Bonneville Salt Flats are underway for the first time in three years after wet weather and rough salt forced the cancellation of the last two annual events....",
+        "lead_paragraph": "Speed Week races at Utah's famous Bonneville Salt Flats are underway for the first time in three years after wet weather and rough salt forced the cancellation of the last two annual events.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Speed Week Back at Famous Salt Flats After 2-Year Hiatus",
+          "print_headline": "Speed Week Back at Famous Salt Flats After 2-Year Hiatus"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:25:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af9ee695d0e021d79808e3",
+        "word_count": "117",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-bko-us-whats-going-on.html",
+        "snippet": "Something's wrong in Rio....",
+        "lead_paragraph": "Something's wrong in Rio.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Forget Winning Big, US Men's Basketball Just Barely Winning",
+          "print_headline": "Forget Winning Big, US Men's Basketball Just Barely Winning"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:15:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af9cc795d0e021d79808e2",
+        "word_count": "784",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/business/ap-fbn-bills-stadium-naming-rights.html",
+        "snippet": "Ralph Wilson Stadium is entering a New Era....",
+        "lead_paragraph": "Ralph Wilson Stadium is entering a New Era.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bills Reach Deal to Sell Stadium Naming Rights to New Era",
+          "print_headline": "Bills Reach Deal to Sell Stadium Naming Rights to New Era"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:15:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af9cc395d0e021d79808e1",
+        "word_count": "431",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/world/europe/13reuters-britain-eu-timing.html",
+        "snippet": "Britain could leave the European Union toward the end of 2019, instead of early that year as expected by some politicians, reported the Sunday Times citing sources who have been briefed by ministers that Brexit departments were not ready....",
+        "lead_paragraph": "Britain could leave the European Union toward the end of 2019, instead of early that year as expected by some politicians, reported the Sunday Times citing sources who have been briefed by ministers that Brexit departments were not ready. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brexit Could Be Delayed as Government Departments Not Ready: Sunday Times",
+          "print_headline": "Brexit Could Be Delayed as Government Departments Not Ready: Sunday Times"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:15:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af9cbb95d0e021d79808e0",
+        "word_count": "217",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/world/americas/ap-lt-mexico-drug-lord.html",
+        "snippet": "A Mexican court has ordered the release of a prison official jailed on charges of abetting the 2015 escape of drug lord Joaquin \"El Chapo\" Guzman.\"...",
+        "lead_paragraph": "A Mexican court has ordered the release of a prison official jailed on charges of abetting the 2015 escape of drug lord Joaquin \"El Chapo\" Guzman.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Frees Official Jailed in Drug Lord 'El Chapo's Escape",
+          "print_headline": "Mexico Frees Official Jailed in Drug Lord 'El Chapo's Escape"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T22:13:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af9c1695d0e021d79808df",
+        "word_count": "133",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

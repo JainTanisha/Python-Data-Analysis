@@ -1,0 +1,603 @@
+{
+  "response": {
+    "meta": {
+      "hits": 898,
+      "time": 45,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/world/asia/13reuters-bangladesh-china.html",
+        "snippet": "China is set to sign off on loans worth over $24 billion to Bangladesh during President Xi Jinping's visit on Friday, Dhaka's biggest foreign credit line to date that will help it build power plants, a seaport and railways....",
+        "lead_paragraph": "China is set to sign off on loans worth over $24 billion to Bangladesh during President Xi Jinping's visit on Friday, Dhaka's biggest foreign credit line to date that will help it build power plants, a seaport and railways.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China to Sign Some $24 Billion in Loans to Bangladesh as Xi Visits",
+          "print_headline": "China to Sign Some $24 Billion in Loans to Bangladesh as Xi Visits"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:10:20Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580014f395d0e022439c3151",
+        "word_count": "506",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/movies/watch-kevin-hart-tell-a-joke-see-fans-laugh-at-the-movies.html",
+        "snippet": "With Mr. Hart\u2019s latest stand-up concert film arriving, comedians, directors and others talk about what works when taking comedy to the big screen....",
+        "lead_paragraph": "With Mr. Hart\u2019s latest stand-up concert film arriving, comedians, directors and others talk about what works when taking comedy to the big screen.",
+        "abstract": null,
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/arts/1016STANDUP1/1016STANDUP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/arts/1016STANDUP1/1016STANDUP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/arts/1016STANDUP1/1016STANDUP1-articleLarge.jpg",
+            "height": 293,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/arts/1016STANDUP1/1016STANDUP1-articleLarge.jpg",
+              "xlargeheight": "293"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/arts/1016STANDUP1/1016STANDUP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/arts/1016STANDUP1/1016STANDUP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Watch Kevin Hart Tell a Joke. See Fans Laugh. At the Movies.",
+          "print_headline": "Watch a Joke. See Fans Laugh. At the Movies."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Margolis, Jeff (Film Director)"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cedric the Entertainer"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Raynr, David"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Kevin Hart: What Now? (Movie)"
+          },
+          {
+            "rank": "15",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Eddie Murphy: Raw (Movie)"
+          },
+          {
+            "rank": "16",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Richard Pryor: Live in Concert (Movie)"
+          },
+          {
+            "rank": "17",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Original Kings of Comedy (Movie)"
+          },
+          {
+            "rank": "18",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Martin Lawrence Live: Runteldat! (Movie)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hart, Kevin"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harvey, Steve"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hughley, D L"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lee, Spike"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mac, Bernie"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Murphy, Eddie"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pryor, Richard"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Small, Leslie"
+          }
+        ],
+        "pub_date": "2016-10-13T23:12:34+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Thomas",
+              "rank": 1,
+              "lastname": "GOLIANOPOULOS"
+            }
+          ],
+          "original": "By THOMAS GOLIANOPOULOS"
+        },
+        "type_of_material": "News",
+        "_id": "580014ea95d0e022439c3150",
+        "word_count": "1089",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/world/13reuters-india-brics.html",
+        "snippet": "India will take its drive to isolate Pakistan and rally the international community against cross-border militancy to a summit of emerging market powers this weekend, when it hosts BRICS nations in the western state of Goa....",
+        "lead_paragraph": "India will take its drive to isolate Pakistan and rally the international community against cross-border militancy to a summit of emerging market powers this weekend, when it hosts BRICS nations in the western state of Goa.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Asian Tensions Seen Dominating Indian BRICS Summit",
+          "print_headline": "South Asian Tensions Seen Dominating Indian BRICS Summit"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:09:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5800143b95d0e022439c314f",
+        "word_count": "859",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/world/asia/13reuters-japan-emperor-succession.html",
+        "snippet": "When Prince Hisahito was born in 2006, ending a 41-year drought in imperial male heirs, Japan's government gladly dropped proposals that women might head the world's oldest monarchy, but a decade later the little prince remains the last hope for a...",
+        "lead_paragraph": "When Prince Hisahito was born in 2006, ending a 41-year drought in imperial male heirs, Japan's government gladly dropped proposals that women might head the world's oldest monarchy, but a decade later the little prince remains the last hope for an unreformed Chrysanthemum Throne.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan's Little Prince Could Be Last Emperor on Unreformed Chrysanthemum Throne",
+          "print_headline": "Japan's Little Prince Could Be Last Emperor on Unreformed Chrysanthemum Throne"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:06:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5800142f95d0e022439c314e",
+        "word_count": "783",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/business/13reuters-environment-food.html",
+        "snippet": "Businesses could earn hundreds of billions of dollars a year by 2030 by investing in better agriculture and food ranging from micro-irrigation of crops to reduced waste, an international study said on Friday....",
+        "lead_paragraph": "Businesses could earn hundreds of billions of dollars a year by 2030 by investing in better agriculture and food ranging from micro-irrigation of crops to reduced waste, an international study said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Big Farm Opportunities Seen for Business in 2030 UN Goals",
+          "print_headline": "Big Farm Opportunities Seen for Business in 2030 UN Goals"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:05:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5800138295d0e022439c314d",
+        "word_count": "279",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/13/arts/13reuters-nobel-prize-literature-hibbing.html",
+        "snippet": "Well before a teenage Robert Zimmerman became Bob Dylan and embarked on a legendary music career that earned him a Nobel Prize on Thursday, he set himself apart in Hibbing, Minnesota by busting up a guitar and setting it on fire to warm a cabin wh...",
+        "lead_paragraph": "Well before a teenage Robert Zimmerman became Bob Dylan and embarked on a legendary music career that earned him a Nobel Prize on Thursday, he set himself apart in Hibbing, Minnesota by busting up a guitar and setting it on fire to warm a cabin where he was staying with friends.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "In Bob Dylan's Hometown, an Awkward Embrace for Its Nobel Son",
+          "print_headline": "In Bob Dylan's Hometown, an Awkward Embrace for Its Nobel Son"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:04:25Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5800137e95d0e022439c314c",
+        "word_count": "562",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/us/ap-us-tv-chris-rock.html",
+        "snippet": "Chris Rock is returning to stand-up on Netflix....",
+        "lead_paragraph": "Chris Rock is returning to stand-up on Netflix.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chris Rock to Film 2 Stand-Up Specials for Netflix",
+          "print_headline": "Chris Rock to Film 2 Stand-Up Specials for Netflix"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T23:00:56Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580012ef95d0e022439c314a",
+        "word_count": "119",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/movies/a-scandal-in-paris-lured-douglas-sirk.html",
+        "snippet": "Two of Sirk\u2019s early Hollywood films, now in a two-disc set, reveal a finesse so fine as to be almost invisible....",
+        "lead_paragraph": "Two of Sirk\u2019s early Hollywood films, now in a two-disc set, reveal a finesse so fine as to be almost invisible.",
+        "abstract": null,
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/arts/1016HOBERMAN1/1016HOBERMAN1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/arts/1016HOBERMAN1/1016HOBERMAN1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/arts/1016HOBERMAN1/1016HOBERMAN1-articleLarge.jpg",
+            "height": 512,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/arts/1016HOBERMAN1/1016HOBERMAN1-articleLarge.jpg",
+              "xlargeheight": "512"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/arts/1016HOBERMAN1/1016HOBERMAN1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/arts/1016HOBERMAN1/1016HOBERMAN1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Lured\u2019 and \u2018A Scandal in Paris\u2019: Douglas Sirk\u2019s Costume Capers",
+          "content_kicker": "On DVD",
+          "print_headline": "Continental Costume Capers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Lured (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "A Scandal in Paris (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sirk, Douglas"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ball, Lucille"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, George"
+          }
+        ],
+        "pub_date": "2016-10-13T23:03:33+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "J.",
+              "rank": 1,
+              "lastname": "HOBERMAN"
+            }
+          ],
+          "original": "By J. HOBERMAN"
+        },
+        "type_of_material": "News",
+        "_id": "580012d195d0e022439c3149",
+        "word_count": "1204",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://lens.blogs.nytimes.com/2016/10/13/awarding-a-photographers-stubbornness/",
+        "snippet": "Justyna Mielnikiewicz, who taught herself photography by studying the legendary photo essays of W. Eugene Smith, won the Smith Fund\u2019s 2016 grant in humanistic photography....",
+        "lead_paragraph": null,
+        "abstract": "Justyna Mielnikiewicz, who taught herself photography by studying the legendary photo essays of W. Eugene Smith, won the Smith Fund\u2019s 2016 grant in humanistic photography.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/13/blogs/13-lens-smith-embed/13-lens-smith-embed-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/13/blogs/13-lens-smith-embed/13-lens-smith-embed-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/13/blogs/13-lens-smith-embed/13-lens-smith-embed-articleLarge.jpg",
+            "height": 464,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/13/blogs/13-lens-smith-embed/13-lens-smith-embed-articleLarge.jpg",
+              "xlargeheight": "464"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/13/blogs/13-lens-smith-embed/13-lens-smith-embed-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/13/blogs/13-lens-smith-embed/13-lens-smith-embed-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Awarding a Photographer&#8217;s &#8216;Stubbornness&#8217;",
+          "kicker": "Lens"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Smith, W Eugene"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Crimea (Ukraine)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Awards, Decorations and Honors"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Photography"
+          }
+        ],
+        "pub_date": "2016-10-13T23:02:52Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Multimedia/Photos",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "ESTRIN"
+            }
+          ],
+          "original": "By JAMES ESTRIN"
+        },
+        "type_of_material": "Blog",
+        "_id": "580012a895d0e022439c3148",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/13/us/politics/ap-us-campaign-2016-trump-new-york-times.html",
+        "snippet": "The New York Times on Thursday rejected Donald Trump's claim the newspaper had libeled the Republican presidential nominee, saying its story about two women who said he sexually assaulted them was \"newsworthy information about a subject of deep pu...",
+        "lead_paragraph": "The New York Times on Thursday rejected Donald Trump's claim the newspaper had libeled the Republican presidential nominee, saying its story about two women who said he sexually assaulted them was \"newsworthy information about a subject of deep public concern.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NYT Says No Libel, No Retraction, No Apology for Trump Story",
+          "print_headline": "NYT Says No Libel, No Retraction, No Apology for Trump Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-13T22:58:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5800123595d0e022439c3147",
+        "word_count": "367",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

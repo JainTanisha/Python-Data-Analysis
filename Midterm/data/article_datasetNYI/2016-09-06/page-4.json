@@ -1,0 +1,523 @@
+{
+  "response": {
+    "meta": {
+      "hits": 757,
+      "time": 57,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/world/americas/ap-lt-brazil-political-crisis.html",
+        "snippet": "Dilma Rousseff moved out of Brazil's presidential palace Tuesday, six days after senators voted to impeach and remove her from office....",
+        "lead_paragraph": "Dilma Rousseff moved out of Brazil's presidential palace Tuesday, six days after senators voted to impeach and remove her from office.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Rousseff Vacates Presidential Palace After Ouster",
+          "print_headline": "Brazil's Rousseff Vacates Presidential Palace After Ouster"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:55:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf3c0b95d0e021d7984b34",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/09/06/fashion/womens-fall-fashion-new-york-insiders.html",
+        "snippet": "We asked four fashion insiders and bosses to show us their favorite fall looks....",
+        "lead_paragraph": "We asked four fashion insiders and bosses to show us their favorite fall looks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/08/fashion/08BROWSE3A/08BROWSE3A-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/08/fashion/08BROWSE3A/08BROWSE3A-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/08/fashion/08BROWSE3A/08BROWSE3A-articleLarge.jpg",
+            "height": 600,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/08/fashion/08BROWSE3A/08BROWSE3A-articleLarge.jpg",
+              "xlargeheight": "600"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/08/fashion/08BROWSE3A/08BROWSE3A-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/08/fashion/08BROWSE3A/08BROWSE3A-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What 4 Fabulous New Yorkers Bought for Fall",
+          "kicker": "Browsing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Seasons and Months"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coats and Jackets"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Dresses"
+          }
+        ],
+        "pub_date": "2016-09-06T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 1
+            }
+          ],
+          "original": "By ERICA M. BLUMENTHAL"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57cf3be995d0e021d7984b33",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/06/podcasts/campaign-ads-so-far.html",
+        "snippet": "A veteran G.O.P. ad maker and the chief culture critic at The Times dissect the commercials made so far by Donald J. Trump and Hillary Clinton....",
+        "lead_paragraph": "A veteran G.O.P. ad maker and the chief culture critic at The Times dissect the commercials made so far by Donald J. Trump and Hillary Clinton.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/06/us/06runupweb1/06runupweb1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/06/us/06runupweb1/06runupweb1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/06/us/06runupweb1/06runupweb1-articleLarge.jpg",
+            "height": 322,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/06/us/06runupweb1/06runupweb1-articleLarge.jpg",
+              "xlargeheight": "322"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/06/us/06runupweb1/06runupweb1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/06/us/06runupweb1/06runupweb1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Best (and Worst) Campaign Ads So Far",
+          "content_kicker": "The Run-Up",
+          "kicker": "Podcast"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Podcasts"
+          }
+        ],
+        "pub_date": "2016-09-06T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Podcasts",
+        "section_name": "Podcasts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "BARBARO"
+            }
+          ],
+          "original": "By MICHAEL BARBARO"
+        },
+        "type_of_material": "News",
+        "_id": "57cf3b9b95d0e021d7984b32",
+        "word_count": "719",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/06/briefing/us-presidential-race-rodrigo-duterte-roger-ailes.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/06/nytnow/06eveningss-slide-HW6K/06eveningss-slide-HW6K-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/06/nytnow/06eveningss-slide-HW6K/06eveningss-slide-HW6K-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/06/nytnow/06eveningss-slide-HW6K/06eveningss-slide-HW6K-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/06/nytnow/06eveningss-slide-HW6K/06eveningss-slide-HW6K-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/06/nytnow/06eveningss-slide-HW6K/06eveningss-slide-HW6K-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/06/nytnow/06eveningss-slide-HW6K/06eveningss-slide-HW6K-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Presidential Race, Rodrigo Duterte, Roger Ailes: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57cf3b7895d0e021d7984b31",
+        "word_count": "938",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/06/sports/soccer/06reuters-soccer-european-rashford.html",
+        "snippet": "Marcus Rashford grabbed a hat-trick on his England Under-21 debut as they crushed Norway 6-1 in a European Championship qualifier on Tuesday....",
+        "lead_paragraph": "Marcus Rashford grabbed a hat-trick on his England Under-21 debut as they crushed Norway 6-1 in a European Championship qualifier on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rashford Bags Hat-Trick on England Under-21 Debut",
+          "print_headline": "Rashford Bags Hat-Trick on England Under-21 Debut"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:48:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf3a6995d0e021d7984b30",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/us/ap-us-pollution-lawsuit.html",
+        "snippet": "Rhode Island is suing 34 oil companies for using a gasoline additive that has contaminated groundwater in the state....",
+        "lead_paragraph": "Rhode Island is suing 34 oil companies for using a gasoline additive that has contaminated groundwater in the state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rhode Island Sues Oil Giants Over Gas Additive Contamination",
+          "print_headline": "Rhode Island Sues Oil Giants Over Gas Additive Contamination"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:39:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf39dc95d0e021d7984b2e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/06/world/europe/06reuters-un-election-bokova.html",
+        "snippet": "Education is a leading, and hidden, casualty of war, with some 3 million children out of school in Syria alone, said Irina Bokova, a Bulgarian diplomat hoping to become the next head of the United Nations, on Tuesday....",
+        "lead_paragraph": "Education is a leading, and hidden, casualty of war, with some 3 million children out of school in Syria alone, said Irina Bokova, a Bulgarian diplomat hoping to become the next head of the United Nations, on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Education a Leading Victim of Conflict, Says U.N. Hopeful",
+          "print_headline": "Education a Leading Victim of Conflict, Says U.N. Hopeful"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:46:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf39ba95d0e021d7984b2d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/06/business/ap-us-treasury-bills.html",
+        "snippet": "Interest rates on short-term Treasury bills were mixed in Tuesday's auction, with rates on six-month bills slipping and three-month rates unchanged....",
+        "lead_paragraph": "Interest rates on short-term Treasury bills were mixed in Tuesday's auction, with rates on six-month bills slipping and three-month rates unchanged.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Rates on US Treasury Bills Mixed at Weekly Auction",
+          "print_headline": "Rates on US Treasury Bills Mixed at Weekly Auction"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:40:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf391d95d0e021d7984b2c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/06/us/06reuters-oklahoma-quake-wells.html",
+        "snippet": "The U.S. Environmental Protection Agency will order wastewater disposal wells shut near the epicenter of a 5.6 magnitude earthquake that struck on Saturday around Pawnee, Oklahoma, local media reported on Tuesday....",
+        "lead_paragraph": "The U.S. Environmental Protection Agency will order wastewater disposal wells shut near the epicenter of a 5.6 magnitude earthquake that struck on Saturday around Pawnee, Oklahoma, local media reported on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "EPA to Shut Some Oklahoma Wastewater Wells After Quake",
+          "print_headline": "EPA to Shut Some Oklahoma Wastewater Wells After Quake"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:42:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cf390095d0e021d7984b2b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004505591/trailer-sully.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/30/movies/video-sully/video-sully-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/30/movies/video-sully/video-sully-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/30/movies/video-sully/video-sully-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/30/movies/video-sully/video-sully-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/30/movies/video-sully/video-sully-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/30/movies/video-sully/video-sully-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Sully'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-06T21:45:16+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Warner",
+              "rank": 1,
+              "lastname": "BROS"
+            }
+          ],
+          "original": "By WARNER BROS. PICTURES"
+        },
+        "type_of_material": "Video",
+        "_id": "57cf38f595d0e021d7984b2a",
+        "word_count": "5",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

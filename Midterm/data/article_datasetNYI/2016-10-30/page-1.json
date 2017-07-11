@@ -1,0 +1,557 @@
+{
+  "response": {
+    "meta": {
+      "hits": 419,
+      "time": 68,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/business/media/ikea-strategy-ditches-the-dream-home-for-the-daily-grind.html",
+        "snippet": "The furniture maker\u2019s new campaign focuses on the struggles of families to make it in postrecession America instead of on acquisitions and aspirational gloss....",
+        "lead_paragraph": "The furniture maker\u2019s new campaign focuses on the struggles of families to make it in postrecession America instead of on acquisitions and aspirational gloss.",
+        "abstract": "Advertising column; Ikea's latest television and print ad campaign for American market, We Help You Make It, focuses more on diversity and family bonding than products; experts say approach is great way to target luxury-shunning, experience-seeking millennials.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/business/31skymain3/31skymain3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/business/31skymain3/31skymain3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/business/31skymain3/31skymain3-articleLarge.jpg",
+            "height": 325,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/business/31skymain3/31skymain3-articleLarge.jpg",
+              "xlargeheight": "325"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/business/31skymain3/31skymain3-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/business/31skymain3/31skymain3-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ikea Strategy Ditches the Dream Home for the Daily Grind",
+          "content_kicker": "Advertising",
+          "kicker": "Advertising",
+          "print_headline": "Ditching the Dream Home  for the Daily Grind"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Furniture"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interior Design and Furnishings"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Social Media"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Advertising and Marketing"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ikea"
+          }
+        ],
+        "pub_date": "2016-10-30T23:43:09+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "firstname": "Martha",
+              "middlename": "C.",
+              "lastname": "WHITE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By MARTHA C. WHITE"
+        },
+        "type_of_material": "News",
+        "_id": "5816859995d0e022439c6163",
+        "word_count": "868",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/30/sports/soccer/bc-soc-mls-rapids-galaxy.html",
+        "snippet": "Giovani dos Santos scored his first career playoff goal in the 55th minute and the Los Angeles Galaxy beat the Colorado Rapids 1-0 on Sunday in Game 1 of the two-leg Western Conference semifinal series....",
+        "lead_paragraph": "Giovani dos Santos scored his first career playoff goal in the 55th minute and the Los Angeles Galaxy beat the Colorado Rapids 1-0 on Sunday in Game 1 of the two-leg Western Conference semifinal series.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Galaxy Beat Rapids 1-0 in Game 1 of Two-Leg Series",
+          "print_headline": "Galaxy Beat Rapids 1-0 in Game 1 of Two-Leg Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:39:49Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "581684cf95d0e022439c6162",
+        "word_count": "160",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/31/business/media/publishers-rethink-outbrain-taboola-ads.html",
+        "snippet": "The ads, which appear mostly via the services Outbrain and Taboola, can lead to questionable websites. Now some publishers wonder about the effect on their readers....",
+        "lead_paragraph": "The ads, which appear mostly via the services Outbrain and Taboola, can lead to questionable websites. Now some publishers wonder about the effect on their readers.",
+        "abstract": "Publishers are rethinking use of so-called content ads, suggested story links grouped under labels like Promoted Stories or Around the Web; research has discovered links often lead to questionable websites run by unidentified entities, turning off readers and potentially damaging brands.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/18/business/media/outbrain/outbrain-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/18/business/media/outbrain/outbrain-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/18/business/media/outbrain/outbrain-articleLarge.png",
+            "height": 182,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/18/business/media/outbrain/outbrain-articleLarge.png",
+              "xlargeheight": "182"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/18/business/media/outbrain/outbrain-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/18/business/media/outbrain/outbrain-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Publishers Are Rethinking Those \u2018Around the Web\u2019 Ads",
+          "print_headline": "Publishers Are Rethinking  Those \u2018Around the Web\u2019 Ads"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Online Advertising"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Taboola Inc"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Outbrain Inc"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Advertising and Marketing"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          }
+        ],
+        "pub_date": "2016-10-30T23:37:29+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sapna",
+              "rank": 1,
+              "lastname": "MAHESHWARI"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "John",
+              "rank": 2,
+              "lastname": "HERRMAN"
+            }
+          ],
+          "original": "By SAPNA MAHESHWARI and JOHN HERRMAN"
+        },
+        "type_of_material": "News",
+        "_id": "5816844295d0e022439c6161",
+        "word_count": "1423",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/sports/football/30reuters-nfl-broncos-coach.html",
+        "snippet": "Denver Broncos defensive coordinator Wade Phillips was taken to hospital during the second quarter of Sunday's game against San Diego after a Chargers player inadvertently knocked him down....",
+        "lead_paragraph": "Denver Broncos defensive coordinator Wade Phillips was taken to hospital during the second quarter of Sunday's game against San Diego after a Chargers player inadvertently knocked him down.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Bronco Coach Injured in Sideline Collision With Player",
+          "print_headline": "Bronco Coach Injured in Sideline Collision With Player"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:36:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5816840895d0e022439c6160",
+        "word_count": "111",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/world/europe/30reuters-netherlands-wilders-discrimination.html",
+        "snippet": "Dutch anti-Islam opposition leader Geert Wilders goes on trial on Monday for inciting hatred and discrimination, 18 months after he led a chant for fewer Moroccans in the country and called them scum during campaigning for local elections....",
+        "lead_paragraph": "Dutch anti-Islam opposition leader Geert Wilders goes on trial on Monday for inciting hatred and discrimination, 18 months after he led a chant for fewer Moroccans in the country and called them scum during campaigning for local elections.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Dutch Far-Right Leader Wilders on Trial for Inciting Hatred",
+          "print_headline": "Dutch Far-Right Leader Wilders on Trial for Inciting Hatred"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:33:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5816835495d0e022439c615f",
+        "word_count": "363",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/business/30reuters-sky-network-tv-vodafone-group.html",
+        "snippet": "New Zealand's competition regulator on Monday asked for more detail on Sky Network Television's plan to buy Vodafone PLC for NZ$1.3 billion (763.46 million pounds), citing concern it would dampen competition from rival broadband and mobile provide...",
+        "lead_paragraph": "New Zealand's competition regulator on Monday asked for more detail on Sky Network Television's plan to buy Vodafone PLC for NZ$1.3 billion (763.46 million pounds), citing concern it would dampen competition from rival broadband and mobile providers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "New Zealand Regulator Raises Competition Concerns Around Sky-Vodafone Proposed Deal",
+          "print_headline": "New Zealand Regulator Raises Competition Concerns Around Sky-Vodafone Proposed Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:27:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "581681e995d0e022439c615e",
+        "word_count": "256",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/sports/golf/30reuters-golf-pga.html",
+        "snippet": "PGA Tour rookie Cody Gribble blew away the field with a closing seven-under 65 to win the Sanderson Farms Championship by four strokes in Mississippi on Sunday....",
+        "lead_paragraph": "PGA Tour rookie Cody Gribble blew away the field with a closing seven-under 65 to win the Sanderson Farms Championship by four strokes in Mississippi on Sunday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rookie Gribble Wins Sanderson Farms Championship",
+          "print_headline": "Rookie Gribble Wins Sanderson Farms Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:21:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5816808295d0e022439c615d",
+        "word_count": "262",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/business/30reuters-global-oil.html",
+        "snippet": "Oil prices extended declines on Monday after non-OPEC producers made no specific commitment to join OPEC in limiting oil output levels to prop up prices, suggesting they wanted the oil producing group to solve its differences first....",
+        "lead_paragraph": "Oil prices extended declines on Monday after non-OPEC producers made no specific commitment to join OPEC in limiting oil output levels to prop up prices, suggesting they wanted the oil producing group to solve its differences first. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Oil Falls as Non-OPEC Yet to Pledge Concrete Output Steps",
+          "print_headline": "Oil Falls as Non-OPEC Yet to Pledge Concrete Output Steps"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:18:33Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58167fcd95d0e022439c615c",
+        "word_count": "362",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/30/business/30reuters-toyota-batteries.html",
+        "snippet": "Engineers at Toyota Motor Corp say they have tamed volatile lithium-ion battery technology, and can now safely pack more power at no significant extra cost, giving the Japanese automaker the option to enter the growing all-electric car market....",
+        "lead_paragraph": "Engineers at Toyota Motor Corp say they have tamed volatile lithium-ion battery technology, and can now safely pack more power at no significant extra cost, giving the Japanese automaker the option to enter the growing all-electric car market.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Warming to Lithium-Ion, Toyota Charges Up Its Battery Options",
+          "print_headline": "Warming to Lithium-Ion, Toyota Charges Up Its Battery Options"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-30T23:09:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58167dae95d0e022439c615b",
+        "word_count": "792",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/sports/world-series-score-cubs-indians.html",
+        "snippet": "The Cubs got an offensive boost from Kris Bryant and Anthony Rizzo, and Aroldis Chapman nailed down the final eight outs to preserve the win....",
+        "lead_paragraph": "The Cubs got an offensive boost from Kris Bryant and Anthony Rizzo, and Aroldis Chapman nailed down the final eight outs to preserve the win.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/31/sports/31cubswin/31cubswin-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/31/sports/31cubswin/31cubswin-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/31/sports/31cubswin/31cubswin-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/31/sports/31cubswin/31cubswin-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/31/sports/31cubswin/31cubswin-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/31/sports/31cubswin/31cubswin-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "World Series: Here\u2019s How the Chicago Cubs Won Game 5"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "World Series"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Chicago Cubs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cleveland Indians"
+          }
+        ],
+        "pub_date": "2016-10-30T23:09:03+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Benjamin",
+              "rank": 1,
+              "lastname": "HOFFMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 2,
+              "lastname": "WALDSTEIN"
+            }
+          ],
+          "original": "By BENJAMIN HOFFMAN and DAVID WALDSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "58167d9495d0e022439c615a",
+        "word_count": "3753",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

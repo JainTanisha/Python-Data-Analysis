@@ -1,0 +1,692 @@
+{
+  "response": {
+    "meta": {
+      "hits": 862,
+      "time": 30,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/02/sports/tennis/ap-ten-us-open-djokovics-free-pass.html",
+        "snippet": "Thanks to injuries to two opponents, Novak Djokovic did not exactly need to put in much work to reach the U.S. Open's fourth round for the 10th consecutive year....",
+        "lead_paragraph": "Thanks to injuries to two opponents, Novak Djokovic did not exactly need to put in much work to reach the U.S. Open's fourth round for the 10th consecutive year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Djokovic Gets a 2nd Free Pass at US Open When Youzhny Quits",
+          "print_headline": "Djokovic Gets a 2nd Free Pass at US Open When Youzhny Quits"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-02T21:49:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f4a695d0e021d798426f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/02/briefing/hillary-clinton-donald-trump-mother-teresa.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-articleLarge.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-articleLarge.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hillary Clinton, Donald Trump, Mother Teresa: Your Friday Evening Briefing",
+          "print_headline": "Your Friday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-02T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f48995d0e021d798426e",
+        "word_count": "665",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/02/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-articleLarge.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-articleLarge.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/02/nytnow/02eveningss-slide-AWNB/02eveningss-slide-AWNB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-02T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c9f47f95d0e021d798426d",
+        "word_count": "12",
+        "slideshow_credits": "Bob Mack/The Florida Times-Union, via Associated Press"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/03/sports/tennis/us-open-roof-noise.html",
+        "snippet": "After years of deflecting pressure to build a roof that would prevent the almost inevitable rain delays, the tournament is dealing with unforeseen noise issues at Arthur Ashe Stadium....",
+        "lead_paragraph": "After years of deflecting pressure to build a roof that would prevent the almost inevitable rain delays, the tournament is dealing with unforeseen noise issues at Arthur Ashe Stadium.",
+        "abstract": "Retractable roof added to Arthur Ashe Stadium, home to United States Open tennis tournament, has created acoustic problems; sounds made by fans reverberates off roof and disrupts play.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/03/sports/03NOISE1/03NOISE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/03/sports/03NOISE1/03NOISE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/03/sports/03NOISE1/03NOISE1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/03/sports/03NOISE1/03NOISE1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/03/sports/03NOISE1/03NOISE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/03/sports/03NOISE1/03NOISE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Open Quieted Those Calling for a Roof. Now It Faces a Louder Problem.",
+          "print_headline": "They Built a Roof. It Got Loud. Now What?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Tennis"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Open (Tennis)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Noise"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ashe, Arthur, Stadium"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Roofs"
+          }
+        ],
+        "pub_date": "2016-09-02T21:51:21+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "contributor": "John Otis contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 1,
+              "lastname": "WALDSTEIN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ben",
+              "rank": 2,
+              "lastname": "ROTHENBERG"
+            }
+          ],
+          "original": "By DAVID WALDSTEIN and BEN ROTHENBERG"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f46295d0e021d798426c",
+        "word_count": "1149",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/02/us/politics/02reuters-new-jersey-taxation-income.html",
+        "snippet": "New Jersey Governor Christie said on Friday the state would begin taxing income earned by people who work in New Jersey but live in Pennsylvania, ending a long-standing arrangement with the neighboring state....",
+        "lead_paragraph": "New Jersey Governor Christie said on Friday the state would begin taxing income earned by people who work in New Jersey but live in Pennsylvania, ending a long-standing arrangement with the neighboring state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "New Jersey Governor Christie Upends Old Income Tax Deal With Pennsylvania",
+          "print_headline": "New Jersey Governor Christie Upends Old Income Tax Deal With Pennsylvania"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-02T21:46:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f3b995d0e021d798426b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/02/world/americas/02reuters-usa-election-mexico.html",
+        "snippet": "A Mexican senator is proposing legislation to empower the government to retaliate if a U.S. administration led by Donald Trump inflicts expropriations or economic losses on his country to make it pay for a border wall....",
+        "lead_paragraph": "A Mexican senator is proposing legislation to empower the government to retaliate if a U.S. administration led by Donald Trump inflicts expropriations or economic losses on his country to make it pay for a border wall.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexican Senator to Propose Anti-Trump Expropriation Law",
+          "print_headline": "Mexican Senator to Propose Anti-Trump Expropriation Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-02T21:44:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f30295d0e021d798426a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/03/arts/music/colin-kaepernick-national-anthem.html",
+        "snippet": "The quarterback\u2019s refusal to stand during the playing of \u201cThe Star-Spangled Banner\u201d raises the issue. A musicologist says no....",
+        "lead_paragraph": "The quarterback\u2019s refusal to stand during the playing of \u201cThe Star-Spangled Banner\u201d raises the issue. A musicologist says no.",
+        "abstract": "Edited excerpts from interview with musicologist Mark Clague, who weighs in on question of whether American national anthem is inherently racist in light of San Francisco 49ers quarterback Colin Kaepernick's refusal to stand when song is played before football games.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/03/arts/03ANTHEMSUB/03ANTHEMSUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/03/arts/03ANTHEMSUB/03ANTHEMSUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/03/arts/03ANTHEMSUB/03ANTHEMSUB-articleLarge.jpg",
+            "height": 411,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/03/arts/03ANTHEMSUB/03ANTHEMSUB-articleLarge.jpg",
+              "xlargeheight": "411"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/03/arts/03ANTHEMSUB/03ANTHEMSUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/03/arts/03ANTHEMSUB/03ANTHEMSUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Is the National Anthem Racist? Beyond the Debate Over Colin Kaepernick",
+          "print_headline": "Beyond the Red Glare of Debate, Is the National Anthem Racist?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "National Anthems"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Star-Spangled Banner (Song)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Slavery (Historical)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kaepernick, Colin"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clague, Mark"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Key, Francis Scott"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "San Francisco 49ers"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          }
+        ],
+        "pub_date": "2016-09-02T21:43:56+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 1,
+              "lastname": "SCHUESSLER"
+            }
+          ],
+          "original": "By JENNIFER SCHUESSLER"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f2ad95d0e021d7984269",
+        "word_count": "817",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/asia/100000004625975/blast-rips-through-market-in-philippines.html",
+        "snippet": "On Friday night, an explosion killed and injured patrons of a night market in the Philippine city of Davao....",
+        "lead_paragraph": "On Friday night, an explosion killed and injured patrons of a night market in the Philippine city of Davao.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/03/world/03philippines1/03philippines1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/03/world/03philippines1/03philippines1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/03/world/03philippines1/03philippines1-articleLarge.jpg",
+            "height": 416,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/03/world/03philippines1/03philippines1-articleLarge.jpg",
+              "xlargeheight": "416"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/03/world/03philippines1/03philippines1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/03/world/03philippines1/03philippines1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Blast Rips Through Market in Philippines"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Philippines"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Davao (Philippines)"
+          }
+        ],
+        "pub_date": "2016-09-02T21:40:20+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Asia Pacific",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Video",
+        "_id": "57c9f1e995d0e021d7984268",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/02/sports/soccer/ap-soc-wcup-us-st-vincent.html",
+        "snippet": "Matt Besler got back to the U.S. team hotel after training on the eve of the United States' World Cup qualifier at St. Vincent and the Grenadines when his cellphone came to life....",
+        "lead_paragraph": "Matt Besler got back to the U.S. team hotel after training on the eve of the United States' World Cup qualifier at St. Vincent and the Grenadines when his cellphone came to life.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "After Daughter's Birth, Besler Helps US Rout St Vincent 6-0",
+          "print_headline": "After Daughter's Birth, Besler Helps US Rout St Vincent 6-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-02T21:36:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f1dc95d0e021d7984267",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/03/arts/design/at-new-museum-a-pop-up-support-system-for-black-lives-matter.html",
+        "snippet": "At a time when the country is confronting questions about racial bias and the police, Black Women Artists for Black Lives Matter serves as a response....",
+        "lead_paragraph": "At a time when the country is confronting questions about racial bias and the police, Black Women Artists for Black Lives Matter serves as a response.",
+        "abstract": "New Museum hosts event with artist in residence Simone Leigh and group Black Women Artists for Black Lives Matter, who hope to provide inspiration and template for artists and black women seeking to address issues of racial bias and police brutality.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/03/arts/03BWA1/03BWA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/03/arts/03BWA1/03BWA1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/03/arts/03BWA1/03BWA1-articleLarge.jpg",
+            "height": 344,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/03/arts/03BWA1/03BWA1-articleLarge.jpg",
+              "xlargeheight": "344"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/03/arts/03BWA1/03BWA1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/03/arts/03BWA1/03BWA1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "At New Museum, a Pop-Up Support System for Black Lives Matter",
+          "print_headline": "Again: What Lives Matter?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New Museum of Contemporary Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Leigh, Simone (1968- )"
+          }
+        ],
+        "pub_date": "2016-09-02T21:40:25+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tamara",
+              "rank": 1,
+              "lastname": "BEST"
+            }
+          ],
+          "original": "By TAMARA BEST"
+        },
+        "type_of_material": "News",
+        "_id": "57c9f1d095d0e021d7984266",
+        "word_count": "760",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

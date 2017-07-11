@@ -1,0 +1,343 @@
+{
+  "response": {
+    "meta": {
+      "hits": 974,
+      "time": 67,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/basketball/ap-bkl-fever-chatman.html",
+        "snippet": "Pokey Chatman wasn't out of work long....",
+        "lead_paragraph": "Pokey Chatman wasn't out of work long.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Source: Indiana Fever Hire Pokey Chatman as Head Coach",
+          "print_headline": "AP Source: Indiana Fever Hire Pokey Chatman as Head Coach"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:40:09+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e31d095d0e039260712ec",
+        "word_count": "265",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/arts/comedy-listings-for-nov-18-24.html",
+        "snippet": "A selected guide to stand-up, improv and comedy shows in New York City....",
+        "lead_paragraph": "A selected guide to stand-up, improv and comedy shows in New York City.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/arts/18LISTINGSCOMEDY/18LISTINGSCOMEDY-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/arts/18LISTINGSCOMEDY/18LISTINGSCOMEDY-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/arts/18LISTINGSCOMEDY/18LISTINGSCOMEDY-articleLarge.jpg",
+            "height": 646,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/arts/18LISTINGSCOMEDY/18LISTINGSCOMEDY-articleLarge.jpg",
+              "xlargeheight": "646"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/arts/18LISTINGSCOMEDY/18LISTINGSCOMEDY-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/arts/18LISTINGSCOMEDY/18LISTINGSCOMEDY-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Comedy Listings for Nov. 18-24",
+          "print_headline": "The Listings: Comedy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Comedy and Humor"
+          }
+        ],
+        "pub_date": "2016-11-17T22:39:58+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "582e31c695d0e039260712eb",
+        "word_count": "868",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/business/17reuters-usa-fraud-kitdigital.html",
+        "snippet": "A former president of now-bankrupt Kit Digital Inc has pleaded guilty to fraud, and is cooperating with a U.S. probe into what prosecutors have called a scheme to deceive investors about the video technology company's health, court papers show....",
+        "lead_paragraph": "A former president of now-bankrupt Kit Digital Inc has pleaded guilty to fraud, and is cooperating with a U.S. probe into what prosecutors have called a scheme to deceive investors about the video technology company's health, court papers show.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Kit Digital President Pleads Guilty to Fraud",
+          "print_headline": "Ex-Kit Digital President Pleads Guilty to Fraud"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:39:28+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e31ab95d0e039260712ea",
+        "word_count": "348",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/us/17reuters-usa-trump-studentloans.html",
+        "snippet": "The U.S. Congress could as soon as January start to dismantle President Barack Obama's transformation of student loan rules by blocking freshly minted regulations designed to help students who say they were defrauded by for-profit colleges....",
+        "lead_paragraph": "The U.S. Congress could as soon as January start to dismantle President Barack Obama's transformation of student loan rules by blocking freshly minted regulations designed to help students who say they were defrauded by for-profit colleges.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Congress Could Undo Obama-Era Student Loan Relief",
+          "print_headline": "Congress Could Undo Obama-Era Student Loan Relief"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:36:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e30fb95d0e039260712e8",
+        "word_count": "662",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-southern-wildfires-the-latest.html",
+        "snippet": "The Latest on wildfires burning in the Southeast (all times local):...",
+        "lead_paragraph": "The Latest on wildfires burning in the Southeast (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Governor Offers Reward in North Carolina Fires",
+          "print_headline": "The Latest: Governor Offers Reward in North Carolina Fires"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:34:09+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e306895d0e039260712e7",
+        "word_count": "257",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/politics/ap-us-ex-dc-mayors-son.html",
+        "snippet": "An autopsy has revealed that the only son of longtime District of Columbia mayor Marion Barry died of an accidental drug overdose....",
+        "lead_paragraph": "An autopsy has revealed that the only son of longtime District of Columbia mayor Marion Barry died of an accidental drug overdose.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Autopsy: Marion Barry's Son Died of Accidental PCP Overdose",
+          "print_headline": "Autopsy: Marion Barry's Son Died of Accidental PCP Overdose"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:34:06+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e306795d0e039260712e6",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-university-of-california-sexual-harassment.html",
+        "snippet": "The University of California has created new guidelines on sexual harassment for its governing board in response to a widely publicized incident last month in which one of its regents was caught on tape asking a female employee if he could hold he...",
+        "lead_paragraph": "The University of California has created new guidelines on sexual harassment for its governing board in response to a widely publicized incident last month in which one of its regents was caught on tape asking a female employee if he could hold her breasts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UC Sets New Sexual Harassment Rules for Its Governing Body",
+          "print_headline": "UC Sets New Sexual Harassment Rules for Its Governing Body"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:34:05+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e306495d0e039260712e5",
+        "word_count": "374",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/ncaafootball/ap-fbc-t25-washington-state-leach.html",
+        "snippet": "Two weeks into this season Mike Leach was ripping his Washington State team for being soft, decrying participation-trophy culture and suggesting local law enforcement and media were unfairly treating his players after several arrests and run-ins w...",
+        "lead_paragraph": "Two weeks into this season Mike Leach was ripping his Washington State team for being soft, decrying participation-trophy culture and suggesting local law enforcement and media were unfairly treating his players after several arrests and run-ins with police.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "At Wazzu, Leach Cements Reputation as Program-Builder",
+          "print_headline": "At Wazzu, Leach Cements Reputation as Program-Builder"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:31:36+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e2fcc95d0e039260712e4",
+        "word_count": "805",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-no-masks-law-muslims.html",
+        "snippet": "Advocates accused a Georgia lawmaker of targeting Muslim women with proposed changes to a 1951 state law passed to unmasked the Ku Klux Klan, creating a backlash that prompted the Republican legislator to quickly discard the idea....",
+        "lead_paragraph": "Advocates accused a Georgia lawmaker of targeting Muslim women with proposed changes to a 1951 state law passed to unmasked the Ku Klux Klan, creating a backlash that prompted the Republican legislator to quickly discard the idea.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "After Muslim Backlash, Lawmaker Drops Change to No-Mask Law",
+          "print_headline": "After Muslim Backlash, Lawmaker Drops Change to No-Mask Law"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:30:59+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e2fac95d0e039260712e3",
+        "word_count": "709",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/us/17reuters-michigan-water.html",
+        "snippet": "Infants and toddlers in Michigan should undergo mandatory lead screening, a panel of experts said on Thursday, as the Midwestern state continues to grapple with the ongoing effects of a lead crisis linked to contaminated water in the city of Flint...",
+        "lead_paragraph": "Infants and toddlers in Michigan should undergo mandatory lead screening, a panel of experts said on Thursday, as the Midwestern state continues to grapple with the ongoing effects of a lead crisis linked to contaminated water in the city of Flint.   ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Michigan Board Recommends Universal Lead Screening for Infants",
+          "print_headline": "Michigan Board Recommends Universal Lead Screening for Infants"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T22:30:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e2f8d95d0e039260712e2",
+        "word_count": "420",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

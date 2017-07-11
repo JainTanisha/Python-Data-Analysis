@@ -1,0 +1,349 @@
+{
+  "response": {
+    "meta": {
+      "hits": 792,
+      "time": 63,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-fashion-oscar-de-la-renta.html",
+        "snippet": "All fashion shows are team efforts, but that was truer than usual at Oscar de la Renta's Spring 2017 runway show Monday at New York Fashion Week....",
+        "lead_paragraph": "All fashion shows are team efforts, but that was truer than usual at Oscar de la Renta's Spring 2017 runway show Monday at New York Fashion Week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "In Transition, Oscar De La Renta Presents a Team Effort",
+          "print_headline": "In Transition, Oscar De La Renta Presents a Team Effort"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:33:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d73c3595d0e021d7985d44",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/09/12/fashion/runway-womens/thom-browne-spring-2017.html",
+        "snippet": "The designer, who recently won the CFDA\u2019s Menswear Designer of the Year award, shows his women\u2019s spring 2017 collection....",
+        "lead_paragraph": "The designer, who recently won the CFDA\u2019s Menswear Designer of the Year award, shows his women\u2019s spring 2017 collection.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/12/fashion/runway-womens/tbrowne-spring-2017-rtw-slide-W0VC/tbrowne-spring-2017-rtw-slide-W0VC-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/12/fashion/runway-womens/tbrowne-spring-2017-rtw-slide-W0VC/tbrowne-spring-2017-rtw-slide-W0VC-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/12/fashion/runway-womens/tbrowne-spring-2017-rtw-slide-W0VC/tbrowne-spring-2017-rtw-slide-W0VC-articleLarge.jpg",
+            "height": 900,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/12/fashion/runway-womens/tbrowne-spring-2017-rtw-slide-W0VC/tbrowne-spring-2017-rtw-slide-W0VC-articleLarge.jpg",
+              "xlargeheight": "900"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/12/fashion/runway-womens/tbrowne-spring-2017-rtw-slide-W0VC/tbrowne-spring-2017-rtw-slide-W0VC-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/12/fashion/runway-womens/tbrowne-spring-2017-rtw-slide-W0VC/tbrowne-spring-2017-rtw-slide-W0VC-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Thom Browne: Spring 2017",
+          "kicker": "Spring 2017"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Browne, Thom"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          }
+        ],
+        "pub_date": "2016-09-12T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style / Women's Runway",
+        "section_name": "Fashion & Style",
+        "subsection_name": "Women's Runway",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57d73c3295d0e021d7985d43",
+        "word_count": "19",
+        "slideshow_credits": "Elizabeth Pantaleo/Nowfashion"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/arts/12reuters-theater-shakespeare-s-tempest-nude.html",
+        "snippet": "To be clothed, or not to be clothed? That was a no-brainer for members of an all-female cast in Brooklyn who stripped down to celebrate their freedom of expression in a nude version of Shakespeare in the park....",
+        "lead_paragraph": "To be clothed, or not to be clothed? That was a no-brainer for members of an all-female cast in Brooklyn who stripped down to celebrate their freedom of expression in a nude version of Shakespeare in the park.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "All-Female Cast in Brooklyn Stages Nude Production of Shakespeare's 'The Tempest'",
+          "print_headline": "All-Female Cast in Brooklyn Stages Nude Production of Shakespeare's 'The Tempest'"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:35:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d73c0f95d0e021d7985d42",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/technology/12reuters-usa-cyber-governance.html",
+        "snippet": "Major technology companies including Facebook, Google and Twitter are urging Congress to support a plan for the U.S. government to cede control of the internet's technical management to the global community, they said in a joint letter dated on Tu...",
+        "lead_paragraph": "Major technology companies including Facebook, Google and Twitter are urging Congress to support a plan for the U.S. government to cede control of the internet's technical management to the global community, they said in a joint letter dated on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Tech Firms Urge Congress to Allow Internet Domain Changeover",
+          "print_headline": "U.S. Tech Firms Urge Congress to Allow Internet Domain Changeover"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:33:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d73c0c95d0e021d7985d41",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-nuclear-gauge-stolen.html",
+        "snippet": "Federal regulators say a nuclear gauge has been stolen in southern West Virginia....",
+        "lead_paragraph": "Federal regulators say a nuclear gauge has been stolen in southern West Virginia.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Nuclear Gauge Reported Stolen in West Virginia",
+          "print_headline": "Nuclear Gauge Reported Stolen in West Virginia"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T20:51:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d73b6895d0e021d7985d40",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/world/europe/12reuters-britain-education-girls.html",
+        "snippet": "More than half of girls in British schools and colleges have faced sexual harassment, according to a new report on Tuesday that called for sex education to be provided for all children in primary and secondary school....",
+        "lead_paragraph": "More than half of girls in British schools and colleges have faced sexual harassment, according to a new report on Tuesday that called for sex education to be provided for all children in primary and secondary school.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "More Than Half of UK Girls Sexually Harassed in School: Report",
+          "print_headline": "More Than Half of UK Girls Sexually Harassed in School: Report"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:30:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d73aa495d0e021d7985d3e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/us/politics/12reuters-usa-election-clinton-health.html",
+        "snippet": "Hillary Clinton's bout of pneumonia has shed light on a problem seldom seen by American voters: The long days, little sleep, cross-country travel, bad food and kissing babies add up to a recipe for illness for presidential candidates and aides....",
+        "lead_paragraph": "Hillary Clinton's bout of pneumonia has shed light on a problem seldom seen by American voters: The long days, little sleep, cross-country travel, bad food and kissing babies add up to a recipe for illness for presidential candidates and aides.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "How to Get Sick on the U.S. Campaign Trail: Little Sleep, Bad Food, Germs Everywhere",
+          "print_headline": "How to Get Sick on the U.S. Campaign Trail: Little Sleep, Bad Food, Germs Everywhere"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:24:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d739eb95d0e021d7985d3c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/12/us/ap-us-arlington-cemetery-security.html",
+        "snippet": "Arlington National Cemetery will increase its security measures, including requiring a government-issued photo ID for people arriving in cars and screening pedestrian visitors....",
+        "lead_paragraph": "Arlington National Cemetery will increase its security measures, including requiring a government-issued photo ID for people arriving in cars and screening pedestrian visitors.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Increased Security Screenings Planned at Arlington Cemetery",
+          "print_headline": "Increased Security Screenings Planned at Arlington Cemetery"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:21:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57d7394695d0e021d7985d3a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/technology/12reuters-renesas-intersil.html",
+        "snippet": "Japan's Renesas Electronics Corp said on Tuesday it will buy U.S. chipmaker Intersil Corp for $3.22 billion amid a wave of consolidation in the global semiconductor industry....",
+        "lead_paragraph": "Japan's Renesas Electronics Corp said on Tuesday it will buy U.S. chipmaker Intersil Corp for $3.22 billion amid a wave of consolidation in the global semiconductor industry.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan's Renesas Electronics to Buy U.S. Chipmaker Intersil for $3.2 Billion",
+          "print_headline": "Japan's Renesas Electronics to Buy U.S. Chipmaker Intersil for $3.2 Billion"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:23:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d7393995d0e021d7985d39",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/12/sports/football/12reuters-nfl-anthem.html",
+        "snippet": "San Francisco 49ers backup quarterback Colin Kaepernick brought his controversial protest in the name of racial equality to a nationally televised Monday Night Football audience, kneeling on the field rather than standing as the national anthem pl...",
+        "lead_paragraph": "San Francisco 49ers backup quarterback Colin Kaepernick brought his controversial protest in the name of racial equality to a nationally televised Monday Night Football audience, kneeling on the field rather than standing as the national anthem played.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Monday Night Football Shines Spotlight on National Anthem Protests",
+          "print_headline": "Monday Night Football Shines Spotlight on National Anthem Protests"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-12T23:18:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57d7388895d0e021d7985d37",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

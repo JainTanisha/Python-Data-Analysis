@@ -1,0 +1,427 @@
+{
+  "response": {
+    "meta": {
+      "hits": 973,
+      "time": 69,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/14/sports/football/ap-fbn-broncos-miller-contract.html",
+        "snippet": "The Denver Broncos have upped their offer to Von Miller by offering to guarantee the Super Bowl MVP a record $70 million of the six-year deal, a person with knowledge of the negotiations told The Associated Press....",
+        "lead_paragraph": "The Denver Broncos have upped their offer to Von Miller by offering to guarantee the Super Bowl MVP a record $70 million of the six-year deal, a person with knowledge of the negotiations told The Associated Press.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Source: Broncos Now Offering $70M Guaranteed to Miller",
+          "print_headline": "AP Source: Broncos Now Offering $70M Guaranteed to Miller"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T21:24:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57883c0e38f0d81aa65f6ec9",
+        "word_count": "467",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-china-economy-fiscal.html",
+        "snippet": "Government spending in China jumped 19.9 percent in June from a year earlier, while revenue rose 1.7 percent, the Ministry of Finance said on Friday....",
+        "lead_paragraph": "Government spending in China jumped 19.9 percent in June from a year earlier, while revenue rose 1.7 percent, the Ministry of Finance said on Friday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Government Spending Jumps 20 Percent in June Year-One-Year",
+          "print_headline": "China Government Spending Jumps 20 Percent in June Year-One-Year"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T21:15:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578839ea38f0d81aa65f6ec5",
+        "word_count": "100",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/15/movies/how-he-fell-in-love-review.html",
+        "snippet": "This Marc Meyers film focuses on how the relationship between a young musician and a middle-age woman affects them and others in their orbit....",
+        "lead_paragraph": "This Marc Meyers film focuses on how the relationship between a young musician and a middle-age woman affects them and others in their orbit.",
+        "abstract": "Helen T Verongos reviews movie How He Fell in Love, directed by Marc Meyers. ",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/15/arts/15HOWHEFELL/15HOWHEFELL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/15/arts/15HOWHEFELL/15HOWHEFELL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/15/arts/15HOWHEFELL/15HOWHEFELL-articleLarge.jpg",
+            "height": 385,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/15/arts/15HOWHEFELL/15HOWHEFELL-articleLarge.jpg",
+              "xlargeheight": "385"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/15/arts/15HOWHEFELL/15HOWHEFELL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/15/arts/15HOWHEFELL/15HOWHEFELL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: In \u2018How He Fell in Love,\u2019 an Extramarital Bond Unfolds"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Meyers, Marc (Director)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "How He Fell in Love (Movie)"
+          }
+        ],
+        "pub_date": "2016-07-14T21:15:47+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Helen",
+              "middlename": "T.",
+              "lastname": "VERONGOS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By HELEN T. VERONGOS"
+        },
+        "type_of_material": "Review",
+        "_id": "5788010738f0d81aa65f6e22",
+        "word_count": "273",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/us/14reuters-usa-election-cleveland-court.html",
+        "snippet": "Police in Cleveland say they aim to avoid mass arrests at the protests planned for next week's Republican National Convention, but preparations by the city's courts to process up to 1,000 people a day have some civil rights activists worried....",
+        "lead_paragraph": "Police in Cleveland say they aim to avoid mass arrests at the protests planned for next week's Republican National Convention, but preparations by the city's courts to process up to 1,000 people a day have some civil rights activists worried.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Cleveland Activists Wary of City Plans to Process Thousands of Arrests",
+          "print_headline": "Cleveland Activists Wary of City Plans to Process Thousands of Arrests"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T20:58:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578835b238f0d81aa65f6ec2",
+        "word_count": "605",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/world/europe/14reuters-france-crash-eu-tusk.html",
+        "snippet": "Europe stands united with the French people and government in the fight against violence and hatred, European Council President Donald Tusk said on Friday after an attacker killed at least 75 people in the French Riviera city of Nice....",
+        "lead_paragraph": "Europe stands united with the French people and government in the fight against violence and hatred, European Council President Donald Tusk said on Friday after an attacker killed at least 75 people in the French Riviera city of Nice.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "EU's Tusk Says Stands With France After Nice Attack",
+          "print_headline": "EU's Tusk Says Stands With France After Nice Attack"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T20:52:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5788344b38f0d81aa65f6ec0",
+        "word_count": "78",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/14/us/ap-us-traffic-dispute-shooting.html",
+        "snippet": "From the start, Delrawn Small's family disputed the early police account of how an off-duty officer shot him dead: that the officer fired after Small repeatedly punched him through his car window in a clash over traffic....",
+        "lead_paragraph": "From the start, Delrawn Small's family disputed the early police account of how an off-duty officer shot him dead: that the officer fired after Small repeatedly punched him through his car window in a clash over traffic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kin: Video of Man Shot at Car Shows Officer 'Outright Wrong'",
+          "print_headline": "Kin: Video of Man Shot at Car Shows Officer 'Outright Wrong'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T20:44:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578832e738f0d81aa65f6ebe",
+        "word_count": "474",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/14/us/ap-us-ceo-new-car.html",
+        "snippet": "The employees of a company whose boss gave them a well-publicized big raise have bought him a new Tesla....",
+        "lead_paragraph": "The employees of a company whose boss gave them a well-publicized big raise have bought him a new Tesla.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Employees Give CEO a New Car After He Shared the Wealth",
+          "print_headline": "Employees Give CEO a New Car After He Shared the Wealth"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T20:37:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578830d038f0d81aa65f6ebc",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/14/us/ap-us-wildfire-lawsuit.html",
+        "snippet": "The federal government sued a homeowner for nearly $25 million on Thursday, contending his negligence sparked a 2013 fire in the mountains east of Los Angeles that forced 5,000 people from their homes....",
+        "lead_paragraph": "The federal government sued a homeowner for nearly $25 million on Thursday, contending his negligence sparked a 2013 fire in the mountains east of Los Angeles that forced 5,000 people from their homes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Homeowner Sued for $25 Million Over California Wildfire",
+          "print_headline": "Homeowner Sued for $25 Million Over California Wildfire"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T20:34:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5788301d38f0d81aa65f6ebb",
+        "word_count": "397",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/14/business/14reuters-nintendo-pokemon-stocks.html",
+        "snippet": "Shares of Nintendo Co jumped nearly 10 percent to a six-year high on Friday, extending their rally since the launch of its Pokemon GO augmented reality game and almost doubling the company's market value in just over a week....",
+        "lead_paragraph": "Shares of Nintendo Co jumped nearly 10 percent to a six-year high on Friday, extending their rally since the launch of its Pokemon GO augmented reality game and almost doubling the company's market value in just over a week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nintendo Surges to Hit Six-Year High, Pokemon GO Hits UK Market",
+          "print_headline": "Nintendo Surges to Hit Six-Year High, Pokemon GO Hits UK Market"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-14T20:28:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57882eab38f0d81aa65f6eba",
+        "word_count": "270",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004531848/the-funeral-of-philandro-castile.html",
+        "snippet": "Hundreds gathered outside the Cathedral of St. Paul in Minnesota as the coffin carrying Philando Castile, who was killed by a police officer during a traffic stop, was delivered to a horse-drawn carriage....",
+        "lead_paragraph": "Hundreds gathered outside the Cathedral of St. Paul in Minnesota as the coffin carrying Philando Castile, who was killed by a police officer during a traffic stop, was delivered to a horse-drawn carriage.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/14/multimedia/15castile-funeral/15castile-funeral-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/14/multimedia/15castile-funeral/15castile-funeral-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/14/multimedia/15castile-funeral/15castile-funeral-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/14/multimedia/15castile-funeral/15castile-funeral-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/14/multimedia/15castile-funeral/15castile-funeral-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/14/multimedia/15castile-funeral/15castile-funeral-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Funeral of Philando Castile"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Funerals and Memorials"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Castile, Philando (1983-2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "St Paul (Minn)"
+          }
+        ],
+        "pub_date": "2016-07-14T20:29:22Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57882e8438f0d81aa65f6eb9",
+        "word_count": "33",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

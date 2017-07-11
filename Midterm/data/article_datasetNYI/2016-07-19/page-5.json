@@ -1,0 +1,339 @@
+{
+  "response": {
+    "meta": {
+      "hits": 917,
+      "time": 53,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004540459/gop-nominates-trump-for-president.html",
+        "snippet": "Donald J. Trump was formally nominated as the Republican presidential candidate on the second day of the national convention....",
+        "lead_paragraph": "Donald J. Trump was formally nominated as the Republican presidential candidate on the second day of the national convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/20/us/20briefing3/20briefing3-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/20/us/20briefing3/20briefing3-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/20/us/20briefing3/20briefing3-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/20/us/20briefing3/20briefing3-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/20/us/20briefing3/20briefing3-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/20/us/20briefing3/20briefing3-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "G.O.P. Nominates Trump for President"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-07-19T20:26:58Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1
+            }
+          ],
+          "original": "By MICHAEL D. SHEAR and QUYNHANH DO"
+        },
+        "type_of_material": "Video",
+        "_id": "578ec57f38f0d84bd30e9454",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/19/us/ap-us-prep-school-abuse.html",
+        "snippet": "A New Hampshire prep school criticized for how it handled sexual misconduct and assault cases has sent an email to faculty members, students and parents saying it's hiring a director of student well-being....",
+        "lead_paragraph": "A New Hampshire prep school criticized for how it handled sexual misconduct and assault cases has sent an email to faculty members, students and parents saying it's hiring a director of student well-being.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "School Hurt by Sex Cases to Hire Student Well-Being Director",
+          "print_headline": "School Hurt by Sex Cases to Hire Student Well-Being Director"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:22:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578ec4cc38f0d84bd30e9452",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/19/us/19reuters-usa-court-election.html",
+        "snippet": "Wisconsin voters who do not have photo identification will be able to vote in November's presidential election, a judge ruled on Tuesday, the latest development in a long fight over a state law Democrats say is aimed at keeping minorities from the...",
+        "lead_paragraph": "Wisconsin voters who do not have photo identification will be able to vote in November's presidential election, a judge ruled on Tuesday, the latest development in a long fight over a state law Democrats say is aimed at keeping minorities from the polls.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Wisconsin Voter Identification Law Eased for November Election",
+          "print_headline": "Wisconsin Voter Identification Law Eased for November Election"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:18:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578ec41338f0d84bd30e9450",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/19/world/europe/19reuters-britain-eu-germany-steinmeier.html",
+        "snippet": "Britain's new leadership has signaled that it plans to implement a June 23 referendum vote to leave the European Union, and is likely to act quickly to end uncertainty caused by the process, Germany's foreign minister said on Wednesday....",
+        "lead_paragraph": "Britain's new leadership has signaled that it plans to implement a June 23 referendum vote to leave the European Union, and is likely to act quickly to end uncertainty caused by the process, Germany's foreign minister said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Steinmeier Says Expects Britain to Act Quickly to End Brexit Uncertainty",
+          "print_headline": "Steinmeier Says Expects Britain to Act Quickly to End Brexit Uncertainty"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:03:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578ec08a38f0d84bd30e944d",
+        "word_count": "277",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/19/world/europe/19reuters-turkey-security-gulen-extradition.html",
+        "snippet": "A U.S.-based cleric accused of orchestrating Turkey's abortive coup may be able to remain in the United States for years even if Turkey asks for his extradition, lawyers with experience in extradition proceedings said....",
+        "lead_paragraph": "A U.S.-based cleric accused of orchestrating Turkey's abortive coup may be able to remain in the United States for years even if Turkey asks for his extradition, lawyers with experience in extradition proceedings said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Legal Process May Keep Erdogan's Foe in U.S. for Years",
+          "print_headline": "Legal Process May Keep Erdogan's Foe in U.S. for Years"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:00:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578ebfd638f0d84bd30e944c",
+        "word_count": "636",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180725758",
+        "snippet": "KAPLAN--Tobee. The board and professionals of Hillel International send our heartfelt condolences to the family of our dear friend Tobee Kaplan z'l. Tobee was a visionary who loved Hillel dearly and made it a passion with her late husband, Leonard...",
+        "lead_paragraph": "<!-- TOBEE KAPLAN -->KAPLAN--Tobee. The board and professionals of Hillel International send our heartfelt condolences to the family of our dear friend Tobee Kaplan z'l. Tobee was a visionary who loved Hillel dearly and made it a passion with her late husband, Leonard z'l. They served with distinction on Hillel's Board of Governors and were honored with Hillel's Renaissance Award in 2009. Our condolences are with her son Randall Kaplan, former Chair of Hillel International's Board of Governors and Board of Directors, his wife Kathy Manning and the entire Kaplan family. May they be comforted among the mourners of Zion and Jerusalem.<br/><br/> David Shapira, Chair of Board of Governors; Tina Price, Chair of Board of Directors; Eric D. Fingerhut, Pres/CEO, Hillel Intl<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  KAPLAN, TOBEE "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:03:17Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578f3d9838f0d84bd30e9551",
+        "word_count": "119",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180725757",
+        "snippet": "CAPLAN--Ann Heyman. Cherished sister, sister-in-law and aunt. We will share our wonderful memories of Andy with Jeff, Jamie and John. Stephanie and Jon Gillian, Caroline, William...",
+        "lead_paragraph": "<!-- ANN CAPLAN -->CAPLAN--Ann Heyman. Cherished sister, sister-in-law and aunt. We will share our wonderful memories of Andy with Jeff, Jamie and John.<br/><br/> Stephanie and Jon Gillian, Caroline, William<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  CAPLAN, ANN "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:03:14Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578f3d9438f0d84bd30e954c",
+        "word_count": "26",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180725756",
+        "snippet": "SCHULMAN--Jerome L., M.D., died at home in New York on June 30. He was 89. Dr. Schulman, a pioneering virologist in influenza research, was on the faculty of the Mount Sinai School of Medicine from 1968 until he retired in 2005. He was one of the ...",
+        "lead_paragraph": "<!-- JEROME SCHULMAN -->SCHULMAN--Jerome L.,<br/><br/> M.D., died at home in New York on June 30. He was 89. Dr. Schulman, a pioneering virologist in influenza research, was on the faculty of the Mount Sinai School of Medicine from 1968 until he retired in 2005. He was one of the first to discover the uniqueness of the Hong Kong virus of 1968 by differentiating it from previously prevalent Asian viruses. The Hong Kong strain had killed an estimated one million people worldwide. Surviving is his wife of 56 years, the poet Grace Schulman.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  SCHULMAN, JEROME "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:03:11Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578f3d9838f0d84bd30e9552",
+        "word_count": "89",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180725755",
+        "snippet": "SCHECKER GRUBER-- Blossom, passed on July 17, 2016. Beloved Mother to Andree, Jeffrey and stepchildren Ira and Sheri. Cherished Grandmother of nine. Devoted sister to Marvin, and her loving partner Sid. Blossom had touched so many lives as a mothe...",
+        "lead_paragraph": "<!-- BLOSSOM SCHECKER GRUBER -->SCHECKER GRUBER--<br/><br/> Blossom, passed on July 17, 2016. Beloved Mother to Andree, Jeffrey and stepchildren Ira and Sheri. Cherished Grandmother of nine. Devoted sister to Marvin, and her loving partner Sid. Blossom had touched so many lives as a mother, grandmother, mentor, social worker and dear friend to many and was open in sharing her love, compassion and thoughtful insights.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  GRUBER, BLOSSOM SCHECKER"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:03:08Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578f3d9538f0d84bd30e954f",
+        "word_count": "60",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180725754",
+        "snippet": "DWORKIN--Albert R., passed away in his home in Sarasota, Florida on July 17, three days before his 100th birthday. He was born of immigrant parents in Newark, NJ, where he graduated from Weequahic High School. Bright and ambitious, he graduated fr...",
+        "lead_paragraph": "<!-- ALBERT DWORKIN -->DWORKIN--Albert R.,<br/><br/> passed away in his home in Sarasota, Florida on July 17, three days before his 100th birthday. He was born of immigrant parents in Newark, NJ, where he graduated from Weequahic High School. Bright and ambitious, he graduated from the NYU School of Commerce while working during the day for his father and later graduated from the Fordham Law School. A member of the New York bar, he became a CPA, tax attorney, and partner with the New York accounting firm of David Berdon & Co. He and his beloved wife of 73 years, Phyllis, lived for many years in Roslyn, Long Island until their retirement to Sarasota 30 years ago. He was predeceased earlier this year by Phyllis and by a son, Eric. A wonderful father and grandfather, he is survived by daughter Peggy Northrop of Barrington, Rhode Island, son Peter Dworkin of San Francisco, five grandchildren, and two great-granddaughters. May the memory of the righteous be a blessing.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  DWORKIN, ALBERT "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-19T20:03:05Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578f3d9438f0d84bd30e954d",
+        "word_count": "162",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

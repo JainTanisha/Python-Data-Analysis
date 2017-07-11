@@ -1,0 +1,547 @@
+{
+  "response": {
+    "meta": {
+      "hits": 856,
+      "time": 71,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/world/americas/07reuters-brazil-politics-prosecutors.html",
+        "snippet": "Brazil's Prosecutor-General's Office on Friday questioned the constitutionality of President Michel Temer's proposed public spending cap and recommended that Congress shelve the austerity measures....",
+        "lead_paragraph": "Brazil's Prosecutor-General's Office on Friday questioned the constitutionality of President Michel Temer's proposed public spending cap and recommended that Congress shelve the austerity measures.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Top Prosecutor Urges Congress to Shelve Spending Cap",
+          "print_headline": "Brazil's Top Prosecutor Urges Congress to Shelve Spending Cap"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T22:03:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f81c7595d0e021d798ac15",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/world/americas/07reuters-storm-matthew-daytona-beach.html",
+        "snippet": "Robert Walker began to wonder about his plan to ride out Hurricane Matthew in his seaside apartment in Daytona Beach, Florida, when it began to rain indoors....",
+        "lead_paragraph": "Robert Walker began to wonder about his plan to ride out Hurricane Matthew in his seaside apartment in Daytona Beach, Florida, when it began to rain indoors.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Matthew Wallops Florida's Daytona Beach: 'It Took Our Roof Right Off'",
+          "print_headline": "Matthew Wallops Florida's Daytona Beach: 'It Took Our Roof Right Off'"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:59:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f81bc595d0e021d798ac13",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/07/briefing/hurricane-matthew-donald-trump-nobel-prize.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/07/nytnow/07eveningss-slide-ZCO9/07eveningss-slide-ZCO9-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/07/nytnow/07eveningss-slide-ZCO9/07eveningss-slide-ZCO9-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/07/nytnow/07eveningss-slide-ZCO9/07eveningss-slide-ZCO9-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/07/nytnow/07eveningss-slide-ZCO9/07eveningss-slide-ZCO9-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/07/nytnow/07eveningss-slide-ZCO9/07eveningss-slide-ZCO9-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/07/nytnow/07eveningss-slide-ZCO9/07eveningss-slide-ZCO9-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hurricane Matthew, Donald Trump, Nobel Prize: Your Friday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "57f81b7895d0e021d798ac12",
+        "word_count": "784",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/us/07reuters-storm-matthew-response.html",
+        "snippet": "Acting on lessons learned from the botched response to Hurricane Katrina in 2005, government authorities this week rushed to get aid to states in Hurricane Matthew's path, from drinking water and generators to helicopters and emergency planning ex...",
+        "lead_paragraph": "Acting on lessons learned from the botched response to Hurricane Katrina in 2005, government authorities this week rushed to get aid to states in Hurricane Matthew's path, from drinking water and generators to helicopters and emergency planning experts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Hurricane Matthew Tests U.S. Response Lessons From Katrina",
+          "print_headline": "Hurricane Matthew Tests U.S. Response Lessons From Katrina"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:58:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f81b0395d0e021d798ac10",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/07/magazine/what-happened-to-north-carolina.html",
+        "snippet": "How a state with some of the mildest politics in the South became a magnet for national partisanship....",
+        "lead_paragraph": "How a state with some of the mildest politics in the South became a magnet for national partisanship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/07/magazine/07mag-northcarolina-1/07mag-northcarolina-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/07/magazine/07mag-northcarolina-1/07mag-northcarolina-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/07/magazine/07mag-northcarolina-1/07mag-northcarolina-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/07/magazine/07mag-northcarolina-1/07mag-northcarolina-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/07/magazine/07mag-northcarolina-1/07mag-northcarolina-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/07/magazine/07mag-northcarolina-1/07mag-northcarolina-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What Happened to North Carolina?",
+          "content_kicker": "Notebook",
+          "kicker": "Notebook"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "State Legislatures"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Race and Ethnicity"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Human Rights Campaign"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "McCrory, Pat"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "North Carolina"
+          }
+        ],
+        "pub_date": "2016-10-07T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Magazine",
+        "section_name": "Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jonathan",
+              "rank": 1
+            }
+          ],
+          "original": "By JONATHAN M. KATZ"
+        },
+        "type_of_material": "News",
+        "_id": "57f81aee95d0e021d798ac0f",
+        "word_count": "2477",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/sports/football/ap-fbn-nfl-fines.html",
+        "snippet": "Cam Newton was fined $9,115 for taunting Falcons linebacker Deion Jones , who avoided a fine for his helmet-to-helmet hit on the Carolina quarterback on a 2-point conversion later that knocked Newton from the game with a concussion....",
+        "lead_paragraph": "Cam Newton was fined $9,115 for taunting Falcons linebacker Deion Jones , who avoided a fine for his helmet-to-helmet hit on the Carolina quarterback on a 2-point conversion later that knocked Newton from the game with a concussion.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cam Newton Fined for Taunting but Jones' Hit Deemed Legal",
+          "print_headline": "Cam Newton Fined for Taunting but Jones' Hit Deemed Legal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:56:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f81a6b95d0e021d798ac0e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/07/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "John Daly birdied the final five holes Friday in the Toshiba Classic, leaving him three strokes behind fellow senior newcomer Billy Mayfair and 62-year-old Jay Haas....",
+        "lead_paragraph": "John Daly birdied the final five holes Friday in the Toshiba Classic, leaving him three strokes behind fellow senior newcomer Billy Mayfair and 62-year-old Jay Haas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:53:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57f819e795d0e021d798ac0c",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/10/07/t-magazine/paris-fashion-week-spring-summer-2017-moments.html",
+        "snippet": "There were big debuts, \u201980s trends all over the runway \u2014 and a shocking crime....",
+        "lead_paragraph": "There were big debuts, \u201980s trends all over the runway \u2014 and a shocking crime.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/07/t-magazine/fashion/07-top-ten-01/07-top-ten-01-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/07/t-magazine/fashion/07-top-ten-01/07-top-ten-01-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/07/t-magazine/fashion/07-top-ten-01/07-top-ten-01-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/07/t-magazine/fashion/07-top-ten-01/07-top-ten-01-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/07/t-magazine/fashion/07-top-ten-01/07-top-ten-01-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/07/t-magazine/fashion/07-top-ten-01/07-top-ten-01-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Top 10 Moments From Paris Fashion Week"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Paris Fashion Week"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Paris (France)"
+          }
+        ],
+        "pub_date": "2016-10-07T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Malina",
+              "middlename": "Joseph",
+              "lastname": "GILCHRIST",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By MALINA JOSEPH GILCHRIST"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57f8197995d0e021d798ac0a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004660857/trailer-fire-at-sea.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/20/movies/video-fire-at-sea/video-fire-at-sea-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/20/movies/video-fire-at-sea/video-fire-at-sea-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/20/movies/video-fire-at-sea/video-fire-at-sea-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/20/movies/video-fire-at-sea/video-fire-at-sea-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/20/movies/video-fire-at-sea/video-fire-at-sea-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/20/movies/video-fire-at-sea/video-fire-at-sea-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Fire at Sea'"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:53:39+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kino",
+              "rank": 1,
+              "lastname": "LORBER"
+            }
+          ],
+          "original": "By KINO LORBER"
+        },
+        "type_of_material": "Video",
+        "_id": "57f8199695d0e021d798ac0b",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/07/business/07reuters-usa-fed-poll.html",
+        "snippet": "A solid U.S. jobs report for September reinforced expectations among Wall Street's top banks that the Federal Reserve would raise interest rates by the end of the year, according to a Reuters poll conducted on Friday....",
+        "lead_paragraph": "A solid U.S. jobs report for September reinforced expectations among Wall Street's top banks that the Federal Reserve would raise interest rates by the end of the year, according to a Reuters poll conducted on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Wall Street Sees Fed Rate Hike by Year-End After Jobs Data: Reuters Poll",
+          "print_headline": "Wall Street Sees Fed Rate Hike by Year-End After Jobs Data: Reuters Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-07T21:50:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57f818ee95d0e021d798ac09",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

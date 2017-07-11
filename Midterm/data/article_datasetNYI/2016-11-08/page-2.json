@@ -1,0 +1,536 @@
+{
+  "response": {
+    "meta": {
+      "hits": 732,
+      "time": 61,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/08/briefing/clinton-trump-prince-harry.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/briefing/08eveningss-slide-O97Y/08eveningss-slide-O97Y-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/briefing/08eveningss-slide-O97Y/08eveningss-slide-O97Y-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/briefing/08eveningss-slide-O97Y/08eveningss-slide-O97Y-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/briefing/08eveningss-slide-O97Y/08eveningss-slide-O97Y-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/briefing/08eveningss-slide-O97Y/08eveningss-slide-O97Y-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/briefing/08eveningss-slide-O97Y/08eveningss-slide-O97Y-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Clinton, Trump, Prince Harry: Your Tuesday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:09:26Z",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "ZRAICK"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN ZRAICK and SANDRA STEVENSON"
+        },
+        "type_of_material": "briefing",
+        "_id": "58225b3095d0e0204d55f656",
+        "word_count": "713",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/08/style/new-york-voters-election-day-style.html",
+        "snippet": "Locals discuss their outfits \u2014 and the long lines \u2014 at two locations in New York, one in Manhattan and Brooklyn....",
+        "lead_paragraph": "Locals discuss their outfits \u2014 and the long lines \u2014 at two locations in New York, one in Manhattan and Brooklyn. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/fashion/08LAAR3-COMBO/08LAAR3-COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/fashion/08LAAR3-COMBO/08LAAR3-COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/fashion/08LAAR3-COMBO/08LAAR3-COMBO-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/fashion/08LAAR3-COMBO/08LAAR3-COMBO-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/fashion/08LAAR3-COMBO/08LAAR3-COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/fashion/08LAAR3-COMBO/08LAAR3-COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What 8 New York Voters Wore to Cast Their Ballots",
+          "content_kicker": "Life as a Runway"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-11-08T23:05:22+0000",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Valeriya",
+              "rank": 1,
+              "lastname": "SAFRONOVA"
+            }
+          ],
+          "original": "By VALERIYA SAFRONOVA"
+        },
+        "type_of_material": "News",
+        "_id": "58225a3995d0e0204d55f655",
+        "word_count": "1208",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/09/us/politics/voter-fraud.html",
+        "snippet": "Voting problems amounted to malfunctioning machines and mix-ups over voter ID laws in scattered locations around the country....",
+        "lead_paragraph": "Voting problems amounted to malfunctioning machines and mix-ups over voter ID laws in scattered locations around the country.",
+        "abstract": null,
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/us/09irregular-web/09women-voting-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/us/09irregular-web/09women-voting-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/us/09irregular-web/09women-voting-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/us/09irregular-web/09women-voting-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/us/09irregular-web/09women-voting-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/us/09irregular-web/09women-voting-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Voters Find Long Lines and a Range of Irritants, but No Outright Disruption",
+          "print_headline": "Lines and Irritants, but No Disruptions at Polls"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "States (US)"
+          }
+        ],
+        "pub_date": "2016-11-08T23:05:09Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "WINES"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephanie",
+              "rank": 2,
+              "lastname": "SAUL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Richard",
+              "rank": 3,
+              "lastname": "P\u00c9REZ-PE\u00d1A"
+            }
+          ],
+          "original": "By MICHAEL WINES, STEPHANIE SAUL and RICHARD P\u00c9REZ-PE\u00d1A"
+        },
+        "type_of_material": "News",
+        "_id": "58225a2d95d0e0204d55f654",
+        "word_count": "963",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/business/ap-us-nielsens.html",
+        "snippet": "The Chicago Cubs' thrilling World Series victory dominated television last week, with the 40.5 million people who watched the Game 7 contest with the Cleveland Indians representing the most-watched Fall Classic game since 1991....",
+        "lead_paragraph": "The Chicago Cubs' thrilling World Series victory dominated television last week, with the 40.5 million people who watched the Game 7 contest with the Cleveland Indians representing the most-watched Fall Classic game since 1991.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "World Series a Boon for Fox; 40.5 Million Watching Finale",
+          "print_headline": "World Series a Boon for Fox; 40.5 Million Watching Finale"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:03:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582259fe95d0e0204d55f653",
+        "word_count": "304",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:03:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582259e595d0e0204d55f64f",
+        "word_count": "1119",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/08reuters-south-carolina-shooting-roof.html",
+        "snippet": "A federal judge on Tuesday said he had ordered an evaluation into whether accused white supremacist Dylann Roof was competent to stand trial for the fatal shootings of nine people at a historic black church in Charleston, South Carolina, last year...",
+        "lead_paragraph": "A federal judge on Tuesday said he had ordered an evaluation into whether accused white supremacist Dylann Roof was competent to stand trial for the fatal shootings of nine people at a historic black church in Charleston, South Carolina, last year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Carolina Church Shooter's Trial Delayed Over Competency Issue",
+          "print_headline": "South Carolina Church Shooter's Trial Delayed Over Competency Issue"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:03:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582259ee95d0e0204d55f652",
+        "word_count": "326",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004755985/election-day-scenes-on-instagram.html",
+        "snippet": "Follow @nytimes on Instagram as our photographers take you to polling sites around the country....",
+        "lead_paragraph": "Follow @nytimes on Instagram as our photographers take you to polling sites around the country.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/09/us/elections/09igstory/09igstory-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/09/us/elections/09igstory/09igstory-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/09/us/elections/09igstory/09igstory-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/09/us/elections/09igstory/09igstory-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/09/us/elections/09igstory/09igstory-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/09/us/elections/09igstory/09igstory-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Election Day Scenes on Instagram"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-11-08T23:02:04+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": null,
+        "type_of_material": "Video",
+        "_id": "582259d395d0e0204d55f64d",
+        "word_count": "15",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2015/nyregion/neediestcases-gofundme-test.html",
+        "snippet": "The New York Times Neediest Cases Fund provides direct assistance to struggling New Yorkers. Tap for information about how to donate....",
+        "lead_paragraph": "The New York Times Neediest Cases Fund provides direct assistance to struggling New Yorkers. Tap for information about how to donate.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Donate to the Neediest Cases"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Philanthropy"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times Neediest Cases Fund"
+          }
+        ],
+        "pub_date": "2016-11-08T23:00:56Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "582259e595d0e0204d55f650",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/sports/golf/ap-glf-on-the-fringe-new-commissioner.html",
+        "snippet": "Not everyone in the golf world knew much about Jay Monahan except that he was anointed, and then appointed, the next PGA Tour commissioner....",
+        "lead_paragraph": "Not everyone in the golf world knew much about Jay Monahan except that he was anointed, and then appointed, the next PGA Tour commissioner.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Monahan Brings a Personal Touch as PGA Tour Commissioner",
+          "print_headline": "Monahan Brings a Personal Touch as PGA Tour Commissioner"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:00:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582259e695d0e0204d55f651",
+        "word_count": "845",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/politics/08reuters-usa-election-forum.html",
+        "snippet": "Democrat Hillary Clinton as president will have no policy mandate, even if elected by a wide margin, and would be wise to court Congress for an easy win on a big-dollar infrastructure bill, an economic aide to former Republican President George W....",
+        "lead_paragraph": "Democrat Hillary Clinton as president will have no policy mandate, even if elected by a wide margin, and would be wise to court Congress for an easy win on a big-dollar infrastructure bill, an economic aide to former Republican President George W. Bush said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Infrastructure Would Be Popular Bipartisan Step for Clinton: Hennessey",
+          "print_headline": "Infrastructure Would Be Popular Bipartisan Step for Clinton: Hennessey"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T23:00:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582259de95d0e0204d55f64e",
+        "word_count": "380",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

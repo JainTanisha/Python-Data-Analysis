@@ -1,0 +1,423 @@
+{
+  "response": {
+    "meta": {
+      "hits": 938,
+      "time": 55,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/technology/apple-new-laptop-touch-bar-macbook-pro.html",
+        "snippet": "The new laptops feature a Touch Bar where function keys used to be. It works differently depending on the app in use....",
+        "lead_paragraph": "The new laptops feature a Touch Bar where function keys used to be. It works differently depending on the app in use.",
+        "abstract": "Apple introduces updated MacBook Pro laptops, featuring touch-screen functions that parallel popular features of Apple smartphones.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/business/28APPLE1/28APPLE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/business/28APPLE1/28APPLE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/business/28APPLE1/28APPLE1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/business/28APPLE1/28APPLE1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/business/28APPLE1/28APPLE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/business/28APPLE1/28APPLE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Apple\u2019s New MacBook Pro Gets More Touchy",
+          "print_headline": "Apple\u2019s New Laptop Gets More Touchy, but Not on Its Screen"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Apple Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Laptop Computers"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Apple TV"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computer Keyboards"
+          }
+        ],
+        "pub_date": "2016-10-27T23:15:31+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Vindu",
+              "rank": 1,
+              "lastname": "GOEL"
+            }
+          ],
+          "original": "By VINDU GOEL"
+        },
+        "type_of_material": "News",
+        "_id": "58128a9995d0e022439c5a73",
+        "word_count": "637",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/sports/golf/ap-glf-assistant-pga.html",
+        "snippet": "Evan Wartgow shot a 4-under 68 on Thursday to take a two-stroke lead after the first round of the National Car Rental Assistant PGA Professional Championship....",
+        "lead_paragraph": "Evan Wartgow shot a 4-under 68 on Thursday to take a two-stroke lead after the first round of the National Car Rental Assistant PGA Professional Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Evan Wartgow Leads Assistant PGA Professional Championship",
+          "print_headline": "Evan Wartgow Leads Assistant PGA Professional Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:14:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58128a4395d0e022439c5a72",
+        "word_count": "220",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/world/americas/ap-lt-mexico-convicted-magistrate.html",
+        "snippet": "Apparently background checks didn't impede a man convicted of a form of manslaughter from becoming the chief justice of the western Mexico state of Jalisco....",
+        "lead_paragraph": "Apparently background checks didn't impede a man convicted of a form of manslaughter from becoming the chief justice of the western Mexico state of Jalisco.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Chief State Judge Takes Leave; Ran Over Woman in 1984",
+          "print_headline": "Mexico Chief State Judge Takes Leave; Ran Over Woman in 1984"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:13:18Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58128a1695d0e022439c5a71",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-us-ranching-standoff-the-latest.html",
+        "snippet": "The Latest on the trial of seven defendants who were involved in an armed standoff at a wildlife refuge in Oregon (all times local):...",
+        "lead_paragraph": "The Latest on the trial of seven defendants who were involved in an armed standoff at a wildlife refuge in Oregon (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Environmentalist Decries Oregon Standoff Verdict",
+          "print_headline": "The Latest: Environmentalist Decries Oregon Standoff Verdict"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:10:17Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5812895e95d0e022439c5a70",
+        "word_count": "924",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-us-topless-selfie-accident.html",
+        "snippet": "Police say a 19-year-old Texas A&amp;M University student who rear-ended a squad car told an officer she was taking a topless selfie....",
+        "lead_paragraph": "Police say a 19-year-old Texas A&amp;M University student who rear-ended a squad car told an officer she was taking a topless selfie.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Woman Rams Squad Car While Taking Topless Selfie",
+          "print_headline": "Police: Woman Rams Squad Car While Taking Topless Selfie"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:10:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5812895d95d0e022439c5a6f",
+        "word_count": "100",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-us-judge-alleged-misconduct.html",
+        "snippet": "A Chicago-area judicial candidate who faces charges of impersonating a judge when she was a court staff attorney says that if she's elected, she won't take the bench until her disciplinary case is resolved....",
+        "lead_paragraph": "A Chicago-area judicial candidate who faces charges of impersonating a judge when she was a court staff attorney says that if she's elected, she won't take the bench until her disciplinary case is resolved.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Illinois Judge Candidate Won't Take Bench Until Case Cleared",
+          "print_headline": "Illinois Judge Candidate Won't Take Bench Until Case Cleared"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:10:09Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5812895995d0e022439c5a6e",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/27/us/ap-us-gun-lawsuit.html",
+        "snippet": "Three years ago a 30-year-old mentally ill man fatally shot a California woman as she admired a scenic view on the Oregon coast, using one of three weapons acquired by the killer's mother from gun dealers....",
+        "lead_paragraph": "Three years ago a 30-year-old mentally ill man fatally shot a California woman as she admired a scenic view on the Oregon coast, using one of three weapons acquired by the killer's mother from gun dealers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Killer's Mother Assisting in Lawsuit Against 2 Gun Dealers",
+          "print_headline": "Killer's Mother Assisting in Lawsuit Against 2 Gun Dealers"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:09:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5812894a95d0e022439c5a6d",
+        "word_count": "565",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/business/27reuters-india-economy-savings.html",
+        "snippet": "For India's dream of taking the baton of global growth from China, its savings rate is flashing a warning sign....",
+        "lead_paragraph": "For India's dream of taking the baton of global growth from China, its savings rate is flashing a warning sign.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Struggling Indian Savers Threaten Modi's Growth Ambition",
+          "print_headline": "Struggling Indian Savers Threaten Modi's Growth Ambition"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:09:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5812893995d0e022439c5a6c",
+        "word_count": "878",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/27/us/27reuters-usa-police-colorado.html",
+        "snippet": "A former Colorado police officer convicted of murder for fatally shooting a man in the back while on duty two years ago was sentenced on Thursday to 16 years in prison, authorities said....",
+        "lead_paragraph": "A former Colorado police officer convicted of murder for fatally shooting a man in the back while on duty two years ago was sentenced on Thursday to 16 years in prison, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Colorado Policeman Gets 16 Years for Fatal On-Duty Shooting",
+          "print_headline": "Ex-Colorado Policeman Gets 16 Years for Fatal On-Duty Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-27T23:09:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5812893495d0e022439c5a6b",
+        "word_count": "360",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/28/arts/around-town-for-oct-28-nov-3.html",
+        "snippet": "A listing of discussions, film screenings, cultural activities and walking tours in New York City....",
+        "lead_paragraph": "A listing of discussions, film screenings, cultural activities and walking tours in New York City.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/28/arts/28SPARETIMES1/28SPARETIMES1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/28/arts/28SPARETIMES1/28SPARETIMES1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/28/arts/28SPARETIMES1/28SPARETIMES1-articleLarge.jpg",
+            "height": 444,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/28/arts/28SPARETIMES1/28SPARETIMES1-articleLarge.jpg",
+              "xlargeheight": "444"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/28/arts/28SPARETIMES1/28SPARETIMES1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/28/arts/28SPARETIMES1/28SPARETIMES1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Around Town for Oct. 28-Nov. 3",
+          "print_headline": "The Listings: Around Town"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-10-27T23:09:22+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joshua",
+              "rank": 1,
+              "lastname": "BARONE"
+            }
+          ],
+          "original": "By JOSHUA BARONE"
+        },
+        "type_of_material": "Schedule",
+        "_id": "5812892a95d0e022439c5a6a",
+        "word_count": "1625",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,482 @@
+{
+  "response": {
+    "meta": {
+      "hits": 502,
+      "time": 60,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/us/ap-us-li-highway-accident.html",
+        "snippet": "A driver lost control and struck two other vehicles on a major Long Island roadway Sunday, and police said a former aide to New York Gov. Andrew Cuomo and four other people including a 10-year-old boy were killed and six others were injured....",
+        "lead_paragraph": "A driver lost control and struck two other vehicles on a major Long Island roadway Sunday, and police said a former aide to New York Gov. Andrew Cuomo and four other people including a 10-year-old boy were killed and six others were injured.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Aide to NY Gov. Cuomo Among 5 Killed in Long Island Crash",
+          "print_headline": "Ex-Aide to NY Gov. Cuomo Among 5 Killed in Long Island Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T23:06:10Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba34c395d0e021d7981deb",
+        "word_count": "318",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/21/business/21reuters-myanmar-centralbank.html",
+        "snippet": "Myanmar's Aung San Suu Kyi is standing by the country's central bank governor, despite concerns from commercial bankers, government advisors and some of his own officials at the pace of reform on his watch....",
+        "lead_paragraph": "Myanmar's Aung San Suu Kyi is standing by the country's central bank governor, despite concerns from commercial bankers, government advisors and some of his own officials at the pace of reform on his watch.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Barrier to Reform? Suu Kyi Sticks With Myanmar Central Bank Chief",
+          "print_headline": "Barrier to Reform? Suu Kyi Sticks With Myanmar Central Bank Chief"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T23:07:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba34ba95d0e021d7981dea",
+        "word_count": "918",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/22/business/dealbook/rent-to-own-homes-a-win-win-for-landlords-a-risk-for-struggling-tenants.html",
+        "snippet": "A new breed of landlord is blurring the line between renter and homeowner, but these firms claim they\u2019re bringing homeownership to those who can\u2019t get mortgages....",
+        "lead_paragraph": "A new breed of landlord is blurring the line between renter and homeowner, but these firms claim they\u2019re bringing homeownership to those who can\u2019t get mortgages.",
+        "abstract": "Investigation by The New York Times reveals that increasingly popular rent-to-own contracts on homes are more risky than they appear to be as they reside in gray area of law and lack consumer protections; contracts have gained in popularity as lenders have stopped offering mortgages for homes worth less than $100,000.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/22/business/22jp-db-rent-1/22jp-db-rent-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/22/business/22jp-db-rent-1/22jp-db-rent-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/22/business/22jp-db-rent-1/22jp-db-rent-1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/22/business/22jp-db-rent-1/22jp-db-rent-1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/22/business/22jp-db-rent-1/22jp-db-rent-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/22/business/22jp-db-rent-1/22jp-db-rent-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Rent-to-Own Homes: A Win-Win for Landlords, a Risk for Struggling Tenants",
+          "print_headline": "Renting to Own Gains in Favor, and Risks Rise"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Renting and Leasing (Real Estate)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mortgages"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Consumer Protection"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          }
+        ],
+        "pub_date": "2016-08-21T22:53:12+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": {
+          "contributor": "Susan Beachy contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 1,
+              "lastname": "STEVENSON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 2,
+              "lastname": "GOLDSTEIN"
+            }
+          ],
+          "original": "By ALEXANDRA STEVENSON and MATTHEW GOLDSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "57ba30dd95d0e021d7981de8",
+        "word_count": "2008",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/business/100000004488624/consulting-the-rent-to-buy-crystal-ball.html",
+        "snippet": "When reporters visited a major player in the rent-to-buy market, they found intense efforts at corporate polish. It was a strong contrast with the complaints leveled by hopeful homeowners....",
+        "lead_paragraph": "When reporters visited a major player in the rent-to-buy market, they found intense efforts at corporate polish. It was a strong contrast with the complaints leveled by hopeful homeowners.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/22/multimedia/vn-vision/vn-vision-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/22/multimedia/vn-vision/vn-vision-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/22/multimedia/vn-vision/vn-vision-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/22/multimedia/vn-vision/vn-vision-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/22/multimedia/vn-vision/vn-vision-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/22/multimedia/vn-vision/vn-vision-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Consulting the Rent-to-Buy Crystal Ball"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Renting and Leasing (Real Estate)"
+          }
+        ],
+        "pub_date": "2016-08-21T22:52:29+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 1,
+              "lastname": "STEVENSON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matthew",
+              "rank": 2,
+              "lastname": "GOLDSTEIN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 3,
+              "lastname": "BERENSTEIN"
+            }
+          ],
+          "original": "By ALEXANDRA STEVENSON, MATTHEW GOLDSTEIN and ERICA BERENSTEIN"
+        },
+        "type_of_material": "Video",
+        "_id": "57ba30dc95d0e021d7981de7",
+        "word_count": "29",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/21/business/dealbook/rent-to-own-documents.html",
+        "snippet": "A new breed of landlord is blurring the line between renter and homeowner, but these firms claim they\u2019re bringing homeownership to those who can\u2019t get mortgages....",
+        "lead_paragraph": "A new breed of landlord is blurring the line between renter and homeowner, but these firms claim they\u2019re bringing homeownership to those who can\u2019t get mortgages.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/21/business/dealbook/image-Documents-on-Rent-to-Own/image-Documents-on-Rent-to-Own-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/21/business/dealbook/image-Documents-on-Rent-to-Own/image-Documents-on-Rent-to-Own-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/21/business/dealbook/image-Documents-on-Rent-to-Own/image-Documents-on-Rent-to-Own-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/21/business/dealbook/image-Documents-on-Rent-to-Own/image-Documents-on-Rent-to-Own-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/21/business/dealbook/image-Documents-on-Rent-to-Own/image-Documents-on-Rent-to-Own-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/21/business/dealbook/image-Documents-on-Rent-to-Own/image-Documents-on-Rent-to-Own-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Rent-to-Own Homes"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "57ba30c895d0e021d7981de6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/sports/baseball/ap-bbn-nationals-braves.html",
+        "snippet": "Jace Peterson didn't know if he'd be able stay in the game after catching a ball and slamming into the center-field wall in the third inning....",
+        "lead_paragraph": "Jace Peterson didn't know if he'd be able stay in the game after catching a ball and slamming into the center-field wall in the third inning.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Peterson's Homer in 10th Sends Braves Past Nationals",
+          "print_headline": "Peterson's Homer in 10th Sends Braves Past Nationals"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T22:44:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba2fe395d0e021d7981de5",
+        "word_count": "744",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/us/politics/ap-us-obit-curry.html",
+        "snippet": "George E. Curry, a journalist, civil rights activist and publisher whose syndicated column ran in hundreds of black-owned newspapers around the United States, has died. He was 69....",
+        "lead_paragraph": "George E. Curry, a journalist, civil rights activist and publisher whose syndicated column ran in hundreds of black-owned newspapers around the United States, has died. He was 69.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Prominent Black Journalist, Publisher George Curry Has Died",
+          "print_headline": "Prominent Black Journalist, Publisher George Curry Has Died"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T22:45:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba2fc995d0e021d7981de4",
+        "word_count": "337",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/sports/soccer/bc-soc-mls-red-bulls-united.html",
+        "snippet": "Marcelo Sarvas and Patrick Mullins scored three minutes apart in the second half and D.C. United rallied for a 2-2 draw with the New York Red Bulls on Sunday in a game delayed 75 minutes because of lightning....",
+        "lead_paragraph": "Marcelo Sarvas and Patrick Mullins scored three minutes apart in the second half and D.C. United rallied for a 2-2 draw with the New York Red Bulls on Sunday in a game delayed 75 minutes because of lightning.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "DC United Rallies for 2-2 Draw With Red Bulls",
+          "print_headline": "DC United Rallies for 2-2 Draw With Red Bulls"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T22:38:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba2dc095d0e021d7981de2",
+        "word_count": "185",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/us/ap-us-new-mexico-officer-killed-funeral-the-latest.html",
+        "snippet": "The Latest on the public funeral for a Hatch police officer fatally shot during a traffic stop (all times local):...",
+        "lead_paragraph": "The Latest on the public funeral for a Hatch police officer fatally shot during a traffic stop (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Public Honors Slain New Mexico Police Officer",
+          "print_headline": "The Latest: Public Honors Slain New Mexico Police Officer"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T22:35:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba2db795d0e021d7981de1",
+        "word_count": "290",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/21/sports/ap-car-nhra.html",
+        "snippet": "Brittany Force raced to her third Top Fuel victory of the season Sunday in the Lucas Oil NHRA Nationals at Brainerd International Raceway....",
+        "lead_paragraph": "Brittany Force raced to her third Top Fuel victory of the season Sunday in the Lucas Oil NHRA Nationals at Brainerd International Raceway.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NHRA: Brittany Force Wins in Top Fuel at Brainerd",
+          "print_headline": "NHRA: Brittany Force Wins in Top Fuel at Brainerd"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-21T22:34:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ba2d0195d0e021d7981de0",
+        "word_count": "129",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

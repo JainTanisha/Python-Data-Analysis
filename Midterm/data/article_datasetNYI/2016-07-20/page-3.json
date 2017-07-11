@@ -1,0 +1,718 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1026,
+      "time": 75,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/20/sports/baseball/ap-bbn-dodgers-nationals.html",
+        "snippet": "Bryce Harper knocked his one-liner as far out of the park as he did his monster home run into the third deck....",
+        "lead_paragraph": "Bryce Harper knocked his one-liner as far out of the park as he did his monster home run into the third deck.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Harper Hits 451-Foot Home Run as Nationals Beat Dodgers 8-1",
+          "print_headline": "Harper Hits 451-Foot Home Run as Nationals Beat Dodgers 8-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T22:24:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5790332d38f0d85ae5114a4b",
+        "word_count": "705",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/21/us/the-capital-of-car-culture-los-angeles-warms-to-mass-transit.html",
+        "snippet": "A light rail extension from downtown Los Angeles to the Santa Monica beach has raised some excitement, despite the line\u2019s modest size....",
+        "lead_paragraph": "A light rail extension from downtown Los Angeles to the Santa Monica beach has raised some excitement, despite the line\u2019s modest size.",
+        "abstract": "Los Angeles is taking steps to alleviate its traffic-choked freeways with new transportation projects; overwhelming success of two above ground rail projects has spurred county officials to propose one cent sales tax hike in effort to provide funding 40 major projects over next four decades.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/21/us/21TRANSIT/21TRANSIT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/21/us/21TRANSIT/21TRANSIT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/21/us/21TRANSIT/21TRANSIT-articleLarge.jpg",
+            "height": 495,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/21/us/21TRANSIT/21TRANSIT-articleLarge.jpg",
+              "xlargeheight": "495"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/21/us/21TRANSIT/21TRANSIT-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/21/us/21TRANSIT/21TRANSIT-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Capital of Car Culture, Los Angeles Warms to Mass Transit",
+          "content_kicker": "Cities",
+          "kicker": "Cities",
+          "print_headline": "Rails, Not Roads"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Transit Systems"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Los Angeles (Calif)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Roads and Traffic"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sales and Excise Taxes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Commuting"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Subways"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Railroads"
+          }
+        ],
+        "pub_date": "2016-07-20T22:21:08+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 1,
+              "lastname": "NAGOURNEY"
+            }
+          ],
+          "original": "By ADAM NAGOURNEY"
+        },
+        "type_of_material": "News",
+        "_id": "578ff95b38f0d85ae51149ce",
+        "word_count": "1379",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/21/us/some-good-cities-to-grow-old-in.html",
+        "snippet": "Some cities are more aging-friendly than others. Here\u2019s a sampling....",
+        "lead_paragraph": "Some cities are more aging-friendly than others. Here\u2019s a sampling.",
+        "abstract": "Cities viewed as particularly friendly to aging residents highlighted.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/31/nytnow/xxsmartercities/xxsmartercities-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/31/nytnow/xxsmartercities/xxsmartercities-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/31/nytnow/xxsmartercities/xxsmartercities-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/31/nytnow/xxsmartercities/xxsmartercities-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/31/nytnow/xxsmartercities/xxsmartercities-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/31/nytnow/xxsmartercities/xxsmartercities-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Some Good Cities to Grow Old In",
+          "print_headline": "Some Good Cities to Grow Old In"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Urban Areas"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Sausalito (Calif)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elderly"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Portland (Ore)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iowa City (Iowa)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Los Angeles (Calif)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Madison (Wis)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cleveland (Ohio)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Minneapolis (Minn)"
+          }
+        ],
+        "pub_date": "2016-07-20T22:17:05+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kerry",
+              "rank": 1,
+              "lastname": "HANNON"
+            }
+          ],
+          "original": "By KERRY HANNON"
+        },
+        "type_of_material": "News",
+        "_id": "578ff86438f0d85ae51149c9",
+        "word_count": "424",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/20/sports/baseball/ap-bba-red-sox-hanley-homers.html",
+        "snippet": "Hanley Ramirez of the Boston Red Sox has hit three home runs in the first six innings against the San Francisco Giants....",
+        "lead_paragraph": "Hanley Ramirez of the Boston Red Sox has hit three home runs in the first six innings against the San Francisco Giants.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Red Sox 1B Hanley Ramirez Has 3 Homers Through 6 Innings",
+          "print_headline": "Red Sox 1B Hanley Ramirez Has 3 Homers Through 6 Innings"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T22:14:27Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5790305438f0d85ae5114a49",
+        "word_count": "151",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/business/20reuters-boj-markets.html",
+        "snippet": "Investors betting the Bank of Japan will ease monetary policy next week could be riding for a fall, as the yen's recent weakening and a government spending package take some pressure off the bank to step up its massive stimulus program....",
+        "lead_paragraph": "Investors betting the Bank of Japan will ease monetary policy next week could be riding for a fall, as the yen's recent weakening and a government spending package take some pressure off the bank to step up its massive stimulus program.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "BOJ Could Wipe Out Bets on July Easing",
+          "print_headline": "BOJ Could Wipe Out Bets on July Easing"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T22:14:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5790304838f0d85ae5114a48",
+        "word_count": "677",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/21/us/washington-the-ideal-place-to-grow-older.html",
+        "snippet": "In Washington, community villages are thriving as initiatives like Age-Friendly DC make it easier for older adults to live, work and play in the city....",
+        "lead_paragraph": "In Washington, community villages are thriving as initiatives like Age-Friendly DC make it easier for older adults to live, work and play in the city.",
+        "abstract": "Age-Friendly DC Initiative, supported by city, is making Washington, DC, ideal city for elderly; program seeks to fully engage older adults into community by addressing safety, transportation and health care issues and promoting intergenerational activities, including community gardening.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/21/us/21AGING/21AGING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/21/us/21AGING/21AGING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/21/us/21AGING/21AGING-articleLarge.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/21/us/21AGING/21AGING-articleLarge.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/21/us/21AGING/21AGING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/21/us/21AGING/21AGING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Washington: The Ideal Place to Grow Older",
+          "content_kicker": "Aging",
+          "print_headline": "The Ideal Place to Grow Older"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elderly"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Washington (DC)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Urban Areas"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Area Planning and Renewal"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "World Health Organization"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "AARP"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Gardens and Gardening"
+          }
+        ],
+        "pub_date": "2016-07-20T22:14:05+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kerry",
+              "rank": 1,
+              "lastname": "HANNON"
+            }
+          ],
+          "original": "By KERRY HANNON"
+        },
+        "type_of_material": "News",
+        "_id": "578ff7b238f0d85ae51149c8",
+        "word_count": "1281",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/20/world/asia/20reuters-southchinasea-ruling-shipping.html",
+        "snippet": "Up to eight Chinese ships will offer cruises to the South China Sea over the next five years, a state-run newspaper said on Thursday, as Beijing continues to promote tourism to the disputed waters....",
+        "lead_paragraph": "Up to eight Chinese ships will offer cruises to the South China Sea over the next five years, a state-run newspaper said on Thursday, as Beijing continues to promote tourism to the disputed waters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Eyes Eight Cruise Ships to Serve South China Sea",
+          "print_headline": "China Eyes Eight Cruise Ships to Serve South China Sea"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T22:05:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57902f9638f0d85ae5114a47",
+        "word_count": "340",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/21/us/yes-the-world-is-going-berserk-but-inner-peace-is-still-possible.html",
+        "snippet": "City dwellers in particular may bear the brunt of racial division, terrorism and any number of fearsome events, but neighborhood social connections may hold the key to sanity....",
+        "lead_paragraph": "City dwellers in particular may bear the brunt of racial division, terrorism and any number of fearsome events, but neighborhood social connections may hold the key to sanity.",
+        "abstract": "Ginia Bellafante essay concludes urbanites, particularly Manhattanites, have many good reasons to be more stressed than rural dwellers; suggests city residents can find peace by looking after one another.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/21/us/21CITIESCOVER/21CITIESCOVER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/21/us/21CITIESCOVER/21CITIESCOVER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/21/us/21CITIESCOVER/21CITIESCOVER-articleLarge.jpg",
+            "height": 505,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/21/us/21CITIESCOVER/21CITIESCOVER-articleLarge.jpg",
+              "xlargeheight": "505"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/21/us/21CITIESCOVER/21CITIESCOVER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/21/us/21CITIESCOVER/21CITIESCOVER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Yes, the World Is Going Berserk, but Inner Peace Is Still Possible",
+          "content_kicker": "Essay",
+          "kicker": "Essay",
+          "print_headline": "Yes, the World Is Going Berserk"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Manhattan (NYC)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Police Department (NYC)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Urban Areas"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Anxiety and Stress"
+          }
+        ],
+        "pub_date": "2016-07-20T22:12:30+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ginia",
+              "rank": 1,
+              "lastname": "BELLAFANTE"
+            }
+          ],
+          "original": "By GINIA BELLAFANTE"
+        },
+        "type_of_material": "News",
+        "_id": "578ff75438f0d85ae51149c2",
+        "word_count": "1399",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/20/supposed-consequence/",
+        "snippet": "There are dire consequences for solving Jason Flinn\u2019s puzzle....",
+        "lead_paragraph": null,
+        "abstract": "There are dire consequences for solving Jason Flinn\u2019s puzzle.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/20/crosswords/21wordplaycat/21wordplaycat-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/20/crosswords/21wordplaycat/21wordplaycat-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/20/crosswords/21wordplaycat/21wordplaycat-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/20/crosswords/21wordplaycat/21wordplaycat-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/20/crosswords/21wordplaycat/21wordplaycat-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/20/crosswords/21wordplaycat/21wordplaycat-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Supposed Consequence",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Superstitions"
+          }
+        ],
+        "pub_date": "2016-07-20T22:00:49Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "57902d3c38f0d85ae5114a43",
+        "word_count": "729",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/20/sports/baseball/ap-bba-orioles-yankees.html",
+        "snippet": "The Yankees are finally hitting and pitching well at the same time, and that may keep these batters and hurlers together in New York for at least a little while longer....",
+        "lead_paragraph": "The Yankees are finally hitting and pitching well at the same time, and that may keep these batters and hurlers together in New York for at least a little while longer.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pineda Pitches 6 Strong Innings, Yankees Beat Orioles 5-0",
+          "print_headline": "Pineda Pitches 6 Strong Innings, Yankees Beat Orioles 5-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-20T21:55:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57902c4638f0d85ae5114a41",
+        "word_count": "758",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

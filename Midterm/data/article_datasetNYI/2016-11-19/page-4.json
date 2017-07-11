@@ -1,0 +1,629 @@
+{
+  "response": {
+    "meta": {
+      "hits": 426,
+      "time": 52,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/opinion/sunday/why-the-democrats-lost.html",
+        "snippet": "Readers dissect what went wrong, and offer ideas about how the party can recover....",
+        "lead_paragraph": "Readers dissect what went wrong, and offer ideas about how the party can recover.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/opinion/20LdemsWeb/20LdemsWeb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/opinion/20LdemsWeb/20LdemsWeb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/opinion/20LdemsWeb/20LdemsWeb-articleLarge.jpg",
+            "height": 406,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/opinion/20LdemsWeb/20LdemsWeb-articleLarge.jpg",
+              "xlargeheight": "406"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/opinion/20LdemsWeb/20LdemsWeb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/opinion/20LdemsWeb/20LdemsWeb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Why the Democrats Lost",
+          "content_kicker": "Letters",
+          "kicker": "Letters",
+          "print_headline": "Why the Democrats Lost"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          }
+        ],
+        "pub_date": "2016-11-19T21:29:27+0000",
+        "document_type": "article",
+        "news_desk": "Letters",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": [],
+        "type_of_material": "Letter",
+        "_id": "5830c43d95d0e0392607183e",
+        "word_count": "1056",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/us/immigrants-donald-trump-daca.html",
+        "snippet": "Immigrants protected under President Obama\u2019s DACA program worry about losing the progress they have made and being forced back underground or even deported....",
+        "lead_paragraph": "Immigrants protected under President Obama\u2019s DACA program worry about losing the progress they have made and being forced back underground or even deported.",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/19/us/19DACA1/19DACA1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/19/us/19DACA1/19DACA1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/19/us/19DACA1/19DACA1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/19/us/19DACA1/19DACA1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/19/us/19DACA1/19DACA1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/19/us/19DACA1/19DACA1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Immigrants Who Came to U.S. as Children Fear Deportation Under Trump",
+          "print_headline": "Young Immigrants Fear Deportation by Trump"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deferred Action for Childhood Arrivals"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Citizenship and Immigration Services (US)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Illegal Immigration"
+          }
+        ],
+        "pub_date": "2016-11-19T21:28:54+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julia",
+              "rank": 1,
+              "lastname": "PRESTON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jennifer",
+              "rank": 2,
+              "lastname": "MEDINA"
+            }
+          ],
+          "original": "By JULIA PRESTON and JENNIFER MEDINA"
+        },
+        "type_of_material": "News",
+        "_id": "5830c41f95d0e0392607183d",
+        "word_count": "1324",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/public-editor/one-thing-voters-agree-on-better-campaign-coverage-was-needed.html",
+        "snippet": "Did The Times paint the presidential campaign with too broad a brush? Many readers, liberal and conservative, believe that it did....",
+        "lead_paragraph": "Did The Times paint the presidential campaign with too broad a brush? Many readers, liberal and conservative, believe that it did.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/opinion/sunday/20pubed/20pubed-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/opinion/sunday/20pubed/20pubed-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/opinion/sunday/20pubed/20pubed-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/opinion/sunday/20pubed/20pubed-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/opinion/sunday/20pubed/20pubed-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/opinion/sunday/20pubed/20pubed-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "One Thing Voters Agree On: Better Campaign Coverage Was Needed",
+          "content_kicker": "The Public Editor",
+          "kicker": "The Public Editor",
+          "print_headline": "One Thing Voters Agree On: Better Coverage Needed"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Voting and Voters"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Letters"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Elections (US)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Newspapers"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Public Editor (Times Column)"
+          }
+        ],
+        "pub_date": "2016-11-19T21:28:17+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Public Editor",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Liz",
+              "rank": 1,
+              "lastname": "SPAYD"
+            }
+          ],
+          "original": "By LIZ SPAYD"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5830c3fa95d0e0392607183c",
+        "word_count": "1166",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ap-car-nascar-homestead-petty-record.html",
+        "snippet": "Richard Petty and Jimmie Johnson could soon a share a spot in NASCAR's championship record book....",
+        "lead_paragraph": "Richard Petty and Jimmie Johnson could soon a share a spot in NASCAR's championship record book.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "King Reluctant to Share NASCAR Title Throne With Johnson",
+          "print_headline": "King Reluctant to Share NASCAR Title Throne With Johnson"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:27:44+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830c3d995d0e0392607183b",
+        "word_count": "552",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/world/middleeast/ap-ml-algeria-sinkhole.html",
+        "snippet": "An Algerian highway collapse has created a sinkhole that swallowed several cars, injuring 11 people....",
+        "lead_paragraph": "An Algerian highway collapse has created a sinkhole that swallowed several cars, injuring 11 people.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "11 Injured When Cars Fall Into Sinkhole on Algerian Highway",
+          "print_headline": "11 Injured When Cars Fall Into Sinkhole on Algerian Highway"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:21:32+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830c26695d0e0392607183a",
+        "word_count": "105",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ncaabasketball/ap-bkc-t25-st-marys-dayton.html",
+        "snippet": "Calvin Hermanson opened the game with a layup. Jock Landale was fouled and made both free throws, and then had a dunk. St. Mary's was off and running toward an impressive road win....",
+        "lead_paragraph": "Calvin Hermanson opened the game with a layup. Jock Landale was fouled and made both free throws, and then had a dunk. St. Mary's was off and running toward an impressive road win.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 17 St. Mary's Holds On for 61-57 Win at Dayton",
+          "print_headline": "No. 17 St. Mary's Holds On for 61-57 Win at Dayton"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:15:46+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830c10795d0e03926071839",
+        "word_count": "632",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/19/us/19reuters-kansas-infant.html",
+        "snippet": "An eight-day-old girl who went missing this week after her mother was shot dead in Kansas has been discovered unharmed by law enforcement officials hundreds of miles away in Texas, police said on Saturday....",
+        "lead_paragraph": "An eight-day-old girl who went missing this week after her mother was shot dead in Kansas has been discovered unharmed by law enforcement officials hundreds of miles away in Texas, police said on Saturday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "New-Born Daughter of Slain Kansas Woman Found Alive in Texas",
+          "print_headline": "New-Born Daughter of Slain Kansas Woman Found Alive in Texas"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:09:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bf9395d0e03926071838",
+        "word_count": "371",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/20/us/politics/tim-kaine-readily-moves-out-of-spotlight-this-is-more-me.html",
+        "snippet": "His vice-presidential bid over, the Virginia senator sees himself as part of \u201cthe only emergency brake\u201d on the Trump train. He doesn\u2019t miss the entourage....",
+        "lead_paragraph": "His vice-presidential bid over, the Virginia senator sees himself as part of \u201cthe only emergency brake\u201d on the Trump train. He doesn\u2019t miss the entourage.",
+        "abstract": null,
+        "print_page": "24",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/20/us/20kaine1/00kaine1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/20/us/20kaine1/00kaine1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/20/us/20kaine1/00kaine1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/20/us/20kaine1/00kaine1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/20/us/20kaine1/00kaine1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/20/us/20kaine1/00kaine1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tim Kaine Readily Moves Out of Spotlight: \u2018This Is More Me\u2019",
+          "print_headline": "Kaine Readily Recedes From His Brush With Fame: \u2018This Is More Me\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kaine, Timothy M"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pence, Mike"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          }
+        ],
+        "pub_date": "2016-11-19T21:07:56+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Sam Borden contributed reporting from San Jos\u00e9, Costa Rica.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Matt",
+              "rank": 1,
+              "lastname": "FLEGENHEIMER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Thomas",
+              "rank": 2,
+              "lastname": "KAPLAN"
+            }
+          ],
+          "original": "By MATT FLEGENHEIMER and THOMAS KAPLAN"
+        },
+        "type_of_material": "News",
+        "_id": "5830bf3795d0e03926071837",
+        "word_count": "1028",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ncaafootball/ap-fbc-yale-harvard.html",
+        "snippet": "A fake field goal. A surprise onside kick. Even some naked revelers in the Yale student section attempting to distract archrival Harvard....",
+        "lead_paragraph": "A fake field goal. A surprise onside kick. Even some naked revelers in the Yale student section attempting to distract archrival Harvard.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Yale Uses Tricks to Beat Harvard 21-14 in The Game",
+          "print_headline": "Yale Uses Tricks to Beat Harvard 21-14 in The Game"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:07:11+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830bf0695d0e03926071836",
+        "word_count": "773",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/19/sports/ncaabasketball/ap-bkw-t25-temple-florida.html",
+        "snippet": "Eleanna Christinaki scored 13 of her 21 points and Haley Lorenzen 10 of her 19 in the fourth quarter when No. 19 Florida rallied to beat Temple 83-76 on Saturday....",
+        "lead_paragraph": "Eleanna Christinaki scored 13 of her 21 points and Haley Lorenzen 10 of her 19 in the fourth quarter when No. 19 Florida rallied to beat Temple 83-76 on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 19 Florida Women Overcome Temple 83-76",
+          "print_headline": "No. 19 Florida Women Overcome Temple 83-76"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-19T21:07:03+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5830beff95d0e03926071835",
+        "word_count": "167",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

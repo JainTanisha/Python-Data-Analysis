@@ -1,0 +1,721 @@
+{
+  "response": {
+    "meta": {
+      "hits": 524,
+      "time": 75,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/opinion/sunday/for-suicidal-veterans-a-frayed-lifeline.html",
+        "snippet": "A safety net meant to help former military members in free fall is in disarray, hobbled by incompetence and inefficiency and overwhelmed by demand....",
+        "lead_paragraph": "A safety net meant to help former military members in free fall is in disarray, hobbled by incompetence and inefficiency and overwhelmed by demand.",
+        "abstract": "Editorial calls attention to fact that Veteran Affairs Dept's Crisis Line is failing veterans who are contemplating suicide and desperately need assistance; calls suicide rate among veterans national emergency; warns public faith in department will not be revived until suicide rate among veterans falls.",
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/13/opinion/13wed3web/13wed3web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/13/opinion/13wed3web/13wed3web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/13/opinion/13wed3web/13wed3web-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/13/opinion/13wed3web/13wed3web-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/13/opinion/13wed3web/13wed3web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/13/opinion/13wed3web/13wed3web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "For Suicidal Veterans, a Frayed Lifeline",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial",
+          "print_headline": "For Suicidal Veterans, a Frayed Lifeline"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Suicides and Suicide Attempts"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Veterans"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Veterans Affairs Department"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          }
+        ],
+        "pub_date": "2016-07-16T20:38:44+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "578a9b5838f0d834da9e4f0b",
+        "word_count": "614",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/sports/ncaabasketball/pat-summitts-public-fight-spurs-research-support.html",
+        "snippet": "The former Tennessee women\u2019s basketball coach\u2019s high-profile battle has brought new awareness of Alzheimer\u2019s disease and an outpouring of donations....",
+        "lead_paragraph": "The former Tennessee women\u2019s basketball coach\u2019s high-profile battle has brought new awareness of Alzheimer\u2019s disease and an outpouring of donations.",
+        "abstract": "Alzheimer's experts and advocates credit former University of Tennessee women's basketball coach Pat Summitt, who publicly disclosed she had disease in 2011 and succumbed to it in 2016, for leading recent surge in awareness and fundraising.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/sports/17SUMMITT/17SUMMITT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/sports/17SUMMITT/17SUMMITT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/sports/17SUMMITT/17SUMMITT-articleLarge.jpg",
+            "height": 443,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/sports/17SUMMITT/17SUMMITT-articleLarge.jpg",
+              "xlargeheight": "443"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/sports/17SUMMITT/17SUMMITT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/sports/17SUMMITT/17SUMMITT-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pat Summitt\u2019s Public Fight Spurs Research Support",
+          "print_headline": "Summitt\u2019s Alzheimer\u2019s Fight Lives On"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Alzheimer's Disease"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Research"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball (College)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Alzheimer's Assn"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "University of Tennessee"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Summitt, Pat"
+          }
+        ],
+        "pub_date": "2016-07-16T20:36:36+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578a9ad638f0d834da9e4f0a",
+        "word_count": "789",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/sports/ultimate-fighting-championship-ends-a-long-odyssey-to-legalization.html",
+        "snippet": "The sale of the U.F.C. for $4 billion last week may have hinged on March\u2019s regulatory approval from New York, the last state to legalize the sport....",
+        "lead_paragraph": "The sale of the U.F.C. for $4 billion last week may have hinged on March\u2019s regulatory approval from New York, the last state to legalize the sport.",
+        "abstract": "Ultimate Fighting Championship regulatory official Marc Ratner spent decade convincing state governments mixed martial arts was legitimate sport, crucial element in league's recent sale for $4 billion.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/sports/17RATNER/17RATNER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/sports/17RATNER/17RATNER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/sports/17RATNER/17RATNER-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/sports/17RATNER/17RATNER-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/sports/17RATNER/17RATNER-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/sports/17RATNER/17RATNER-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ultimate Fighting Championship Ends a Long Odyssey to Legalization",
+          "print_headline": "U.F.C.\u2019s Payday Comes at the End of an Odyssey Through Statehouses"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Mixed Martial Arts"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ultimate Fighting Championship"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Regulation and Deregulation of Industry"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Lobbying and Lobbyists"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Ratner, Marc H (1944- )"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "States (US)"
+          }
+        ],
+        "pub_date": "2016-07-16T20:33:47+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Richard",
+              "rank": 1,
+              "lastname": "SANDOMIR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ken",
+              "rank": 2,
+              "lastname": "BELSON"
+            }
+          ],
+          "original": "By RICHARD SANDOMIR and KEN BELSON"
+        },
+        "type_of_material": "News",
+        "_id": "578a9a2e38f0d834da9e4f09",
+        "word_count": "1314",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/opinion/sunday/dont-vote-for-me-im-not-worthy.html",
+        "snippet": "That\u2019s what George Washington said. Imagine a modern presidential candidate saying that....",
+        "lead_paragraph": "That\u2019s what George Washington said. Imagine a modern presidential candidate saying that.",
+        "abstract": "Op-Ed article by historian Julie Miller reflects on journals and letters of George Washington, and how they reveal man who struggled with very idea of becoming president; posits future generations will likely see current presidential candidates as figures created by unique conditions of current historical moment, much as people today view Washington.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Don\u2019t Vote for Me, I\u2019m Not Worthy",
+          "content_kicker": "Opinion",
+          "kicker": "Opinion",
+          "print_headline": "Don\u2019t Vote for Me, I\u2019m Not Worthy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Diaries"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Washington, George (1732-99)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Sense and Sensibility (Book)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidents and Presidency (US)"
+          }
+        ],
+        "pub_date": "2016-07-16T20:31:43+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julie",
+              "rank": 1,
+              "lastname": "MILLER"
+            }
+          ],
+          "original": "By JULIE MILLER"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "578a99b338f0d834da9e4f08",
+        "word_count": "834",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/sports/basketball/nba-summer-league-is-proving-ground-for-coaches-too.html",
+        "snippet": "The former player Juwan Howard was among people in Orlando, Fla., Salt Lake City and Las Vegas looking to gain experience leading a team....",
+        "lead_paragraph": "The former player Juwan Howard was among people in Orlando, Fla., Salt Lake City and Las Vegas looking to gain experience leading a team.",
+        "abstract": "Aspiring NBA head coaches, including current assistants like Juwan Howard of Miami Heat, gain valuable and unique experience by coaching NBA teams in summer league.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/sports/17SUMMER1/17SUMMER1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/sports/17SUMMER1/17SUMMER1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/sports/17SUMMER1/17SUMMER1-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/sports/17SUMMER1/17SUMMER1-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/sports/17SUMMER1/17SUMMER1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/sports/17SUMMER1/17SUMMER1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "N.B.A. Summer League Is Proving Ground for Coaches, Too",
+          "print_headline": "Proving Ground for N.B.A. Coaches, Too"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Coaches and Managers"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Howard, Juwan"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Miami Heat"
+          }
+        ],
+        "pub_date": "2016-07-16T20:28:26+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578a98ed38f0d834da9e4f07",
+        "word_count": "691",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/16/sports/baseball/ap-bbo-torre-arguing-balls-and-strikes.html",
+        "snippet": "Major League Baseball is telling managers to cool it on arguing balls and strikes, and warning them not to rely on replay help to bolster their beefs....",
+        "lead_paragraph": "Major League Baseball is telling managers to cool it on arguing balls and strikes, and warning them not to rely on replay help to bolster their beefs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "APNewsBreak: MLB Says Managers Need to Cool It on Arguing",
+          "print_headline": "APNewsBreak: MLB Says Managers Need to Cool It on Arguing"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-16T20:23:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578ad04738f0d834da9e4f4a",
+        "word_count": "312",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/opinion/obamacares-kindest-critic.html",
+        "snippet": "The Affordable Care Act has accomplished a lot, but too many people are still left out....",
+        "lead_paragraph": "The Affordable Care Act has accomplished a lot, but too many people are still left out.",
+        "abstract": "Editorial observes Pres Obama has taken to pages of The Journal of American Medical Assn to point out ways Affordable Care Act has fallen short of its goals; assesses improvements Obama has proposed; notes while Donald Trump has advocated scrapping law, Hillary Clinton would do well to heed Obama's suggestions, which could help millions of Americans gain access to healthcare.",
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/opinion/sunday/17sun1/17sun1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/opinion/sunday/17sun1/17sun1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/opinion/sunday/17sun1/17sun1-articleLarge.jpg",
+            "height": 572,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/opinion/sunday/17sun1/17sun1-articleLarge.jpg",
+              "xlargeheight": "572"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/opinion/sunday/17sun1/17sun1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/opinion/sunday/17sun1/17sun1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Obamacare\u2019s Kindest Critic",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial",
+          "print_headline": "Obamacare\u2019s Kindest Critic"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Patient Protection and Affordable Care Act (2010)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Journal of the American Medical Assn"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          }
+        ],
+        "pub_date": "2016-07-16T20:22:42+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "578a979738f0d834da9e4f03",
+        "word_count": "895",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/16/business/16reuters-malaysia-scandal-singapore-banks.html",
+        "snippet": "Singapore's central bank is scrutinizing several banks, including UBS and DBS Group Holdings, to see if they broke anti-money laundering rules in handling transactions linked to scandal-hit Malaysian state fund 1MDB, three people with knowledge of...",
+        "lead_paragraph": "Singapore's central bank is scrutinizing several banks, including UBS and DBS Group Holdings, to see if they broke anti-money laundering rules in handling transactions linked to scandal-hit Malaysian state fund 1MDB, three people with knowledge of the matter said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UBS, DBS, Falcon Face Singapore Scrutiny Over 1MDB Transactions: Sources",
+          "print_headline": "UBS, DBS, Falcon Face Singapore Scrutiny Over 1MDB Transactions: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-16T20:05:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578acc0b38f0d834da9e4f48",
+        "word_count": "873",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180699020",
+        "snippet": "DALEY--Mildred, \"Mimi\" (Tunkel), age 94, died peacefully in her Clifton, NJ home of 61 years with her family at her side on Friday, July 15, 2016. Funeral Sunday, July 17, 2pm, Jewish Memorial Chapel, 841 Allwood Rd., Clifton, NJ....",
+        "lead_paragraph": "<!-- MILDRED DALEY -->DALEY--Mildred,<br/><br/> \"Mimi\" (Tunkel), age 94, died peacefully in her Clifton, NJ home of 61 years with her family at her side on Friday, July 15, 2016. Funeral Sunday, July 17, 2pm, Jewish Memorial Chapel, 841 Allwood Rd., Clifton, NJ.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  DALEY, MILDRED "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-16T20:03:09Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578b491738f0d834da9e4fca",
+        "word_count": "39",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180699019",
+        "snippet": "MANGANARO--Felicia, age 95, passed away July 15, peacefully. She was the devoted wife of 67 years to her late husband John and a proud, loving mother to Peter and Rosemary. Felicia lived for her family and devoted her life in taking care of us wit...",
+        "lead_paragraph": "<!-- FELICIA MANGANARO -->MANGANARO--Felicia,<br/><br/> age 95, passed away July 15, peacefully. She was the devoted wife of 67 years to her late husband John and a proud, loving mother to Peter and Rosemary. Felicia lived for her family and devoted her life in taking care of us with God-given love and passion. Mother we shall miss you dearly.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  MANGANARO, FELICIA "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-16T20:03:07Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "578b492038f0d834da9e4fd9",
+        "word_count": "55",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

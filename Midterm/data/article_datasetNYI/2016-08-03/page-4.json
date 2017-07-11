@@ -1,0 +1,1049 @@
+{
+  "response": {
+    "meta": {
+      "hits": 194,
+      "time": 44,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/arts/dance/pennsylvania-ballet-angel-corella-hires-17-new-dancers.html",
+        "snippet": "In the two years since Mr. Corella became the artistic director of Pennsylvania Ballet, he has replaced more than half of its dancers....",
+        "lead_paragraph": "In the two years since Mr. Corella became the artistic director of Pennsylvania Ballet, he has replaced more than half of its dancers.",
+        "abstract": "Pennsylvania Ballet artistic director Angel Corella hires 17 new dancers as he continues to revamp company.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04CORELLA/04CORELLA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04CORELLA/04CORELLA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04CORELLA/04CORELLA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04CORELLA/04CORELLA-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04CORELLA/04CORELLA-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04CORELLA/04CORELLA-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Remaking Pennsylvania Ballet, \u00c1ngel Corella Hires 17 New Dancers",
+          "print_headline": "Pennsylvania Ballet Hires 17 New Dancers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Pennsylvania Ballet"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Corella, Angel"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Baca, Sterling"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Murawski, Sara Michelle"
+          }
+        ],
+        "pub_date": "2016-08-03T17:19:22+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By MICHAEL COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "57aa040895d0e021d797ece8",
+        "word_count": "358",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/arts/design/plans-take-shape-for-francois-pinault-museum-in-paris.html",
+        "snippet": "The City Council has approved the project, which is to transform an 18th-century bourse into \u201cThe Pinault Collection, Bourse de Commerce.\u201d...",
+        "lead_paragraph": "The City Council has approved the project, which is to transform an 18th-century bourse into \u201cThe Pinault Collection, Bourse de Commerce.\u201d",
+        "abstract": "Billionaire Francois Pinault firms up plans to convert historic Paris building into private museum for his contemporary art collection;  aims to open Pinault Collection, Bourse de Commerce by end of 2018.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04PINAULT1/04PINAULT1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04PINAULT1/04PINAULT1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04PINAULT1/04PINAULT1-articleLarge.jpg",
+            "height": 385,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04PINAULT1/04PINAULT1-articleLarge.jpg",
+              "xlargeheight": "385"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04PINAULT1/04PINAULT1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04PINAULT1/04PINAULT1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Plans Take Shape for Fran\u00e7ois Pinault Museum in Paris",
+          "print_headline": "Plans Take Shape for Pinault Museum in Paris"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pinault, Francois"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Gehry, Frank"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Koons, Jeff"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Hirst, Damien"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Paris (France)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Christie's"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Kering SA"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Historic Buildings and Sites"
+          }
+        ],
+        "pub_date": "2016-08-03T17:16:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Doreen",
+              "rank": 1,
+              "lastname": "CARVAJAL"
+            }
+          ],
+          "original": "By DOREEN CARVAJAL"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f48c95d0e021d797e9f6",
+        "word_count": "1269",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/movies/little-men-brooklyn-real-estate-crises-onscreen.html",
+        "snippet": "There is a narrow but rich cinematic heritage in Brooklyn....",
+        "lead_paragraph": "There is a narrow but rich cinematic heritage in Brooklyn.",
+        "abstract": "Ira Sachs movie Little Men addresses ongoing real estate crisis in Brooklyn and calls to mind slew of past films that have focused on borough's gentrification.",
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/arts/07NYREALTYFILMS1/07NYREALTYFILMS1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/arts/07NYREALTYFILMS1/07NYREALTYFILMS1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/arts/07NYREALTYFILMS1/07NYREALTYFILMS1-articleLarge-v2.jpg",
+            "height": 382,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/arts/07NYREALTYFILMS1/07NYREALTYFILMS1-articleLarge-v2.jpg",
+              "xlargeheight": "382"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/arts/07NYREALTYFILMS1/07NYREALTYFILMS1-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/arts/07NYREALTYFILMS1/07NYREALTYFILMS1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "From \u2018A Tree Grows in Brooklyn\u2019 to \u2018Little Men\u2019: A Borough\u2019s Real Estate Crises, Onscreen",
+          "print_headline": "Brooklyn\u2019s Real Estate Crises, Onscreen"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Straight Out of Brooklyn (Movie)"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Squid and the Whale (Movie)"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Year of the Dragon (Movie)"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Sentinel (Movie)"
+          },
+          {
+            "rank": "15",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Landlord (Movie)"
+          },
+          {
+            "rank": "16",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "A Tree Grows in Brooklyn (Movie)"
+          },
+          {
+            "rank": "17",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Gentrification"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Brooklyn (NYC)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Williamsburg (Brooklyn, NY)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Bedford-Stuyvesant (Brooklyn, NY)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brooklyn Heights (Brooklyn, NY)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Little Men (Movie)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Red Hook Summer (Movie)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "5 Flights Up (Movie)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Do the Right Thing (Movie)"
+          }
+        ],
+        "pub_date": "2016-08-03T17:02:11+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Glenn",
+              "rank": 1,
+              "lastname": "KENNY"
+            }
+          ],
+          "original": "By GLENN KENNY"
+        },
+        "type_of_material": "News",
+        "_id": "57aa03c895d0e021d797ecd1",
+        "word_count": "1006",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004533191/unfiltered-voices-from-donald-trumps-crowds.html",
+        "snippet": "New York Times reporters have covered Donald J. Trump's rallies for more than a year. His supporters at these events often express their views in angry and provocative ways. Here are some examples....",
+        "lead_paragraph": "New York Times reporters have covered Donald J. Trump's rallies for more than a year. His supporters at these events often express their views in angry and provocative ways. Here are some examples.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/us/politics/04offensivetrumpalt2/04offensivetrumpalt2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/us/politics/04offensivetrumpalt2/04offensivetrumpalt2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/us/politics/04offensivetrumpalt2/04offensivetrumpalt2-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/us/politics/04offensivetrumpalt2/04offensivetrumpalt2-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/us/politics/04offensivetrumpalt2/04offensivetrumpalt2-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/us/politics/04offensivetrumpalt2/04offensivetrumpalt2-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Unfiltered Voices From Donald Trump's Crowds"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-08-03T16:46:12+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 1,
+              "lastname": "BERENSTEIN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nick",
+              "rank": 2,
+              "lastname": "CORASANITI"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ashley",
+              "rank": 3,
+              "lastname": "PARKER"
+            }
+          ],
+          "original": "By ERICA BERENSTEIN, NICK CORASANITI and ASHLEY PARKER"
+        },
+        "type_of_material": "Video",
+        "_id": "57aa003195d0e021d797ec32",
+        "word_count": "33",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/sports/baseball/yankees-continue-call-ups-from-a-newly-flush-farm-system.html",
+        "snippet": "Gary Sanchez, a catcher, was called up in time for Wednesday night\u2019s game against the Mets, and several others could be on their way soon....",
+        "lead_paragraph": "Gary Sanchez, a catcher, was called up in time for Wednesday night\u2019s game against the Mets, and several others could be on their way soon.",
+        "abstract": "New York Yankees farm system is in its best shape in 10 years, giving team seven of 100 top-ranked prospects. ",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/sports/04YANKEESWEB1/04YANKEESWEB1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/sports/04YANKEESWEB1/04YANKEESWEB1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/sports/04YANKEESWEB1/04YANKEESWEB1-articleLarge.jpg",
+            "height": 407,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/sports/04YANKEESWEB1/04YANKEESWEB1-articleLarge.jpg",
+              "xlargeheight": "407"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/sports/04YANKEESWEB1/04YANKEESWEB1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/sports/04YANKEESWEB1/04YANKEESWEB1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Yankees Continue Call-Ups From a Newly Flush Farm System",
+          "print_headline": "Yankees Continue Call-Ups From a Newly Flush Farm System"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Yankees"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanchez, Gary (1992- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Frazier, Clint (1994- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Judge, Aaron (1992- )"
+          }
+        ],
+        "pub_date": "2016-08-03T16:43:25+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Billy",
+              "rank": 1,
+              "lastname": "WITZ"
+            }
+          ],
+          "original": "By BILLY WITZ"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fcbc95d0e021d797eb1c",
+        "word_count": "1313",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/arts/music/third-man-records-space.html",
+        "snippet": "The spinning gold-plated copy of Carl Sagan\u2019s \u201cA Glorious Dawn\u201d reached 94,000 feet above earth on a high-altitude balloon....",
+        "lead_paragraph": "The spinning gold-plated copy of Carl Sagan\u2019s \u201cA Glorious Dawn\u201d reached 94,000 feet above earth on a high-altitude balloon.",
+        "abstract": "Gold-plated vinyl record of Carl Sagan recording A Glorious Dawn, spinning on specially designed turntable, is sent into near-space on high-altitude balloon; stunt is part of ongoing effort by record label Third Man Records to champion vinyl industry.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/arts/04THIRDMAN/04THIRDMAN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/arts/04THIRDMAN/04THIRDMAN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/arts/04THIRDMAN/04THIRDMAN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/arts/04THIRDMAN/04THIRDMAN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/arts/04THIRDMAN/04THIRDMAN-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/arts/04THIRDMAN/04THIRDMAN-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Third Man Records Sends a Vinyl Record Into Space",
+          "print_headline": "Third Man Records Sends Album Into Space"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Third Man Records"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Space and Astronomy"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "A Glorious Dawn (Album)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Sagan, Carl"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "White, Jack"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Audio Recordings, Downloads and Streaming"
+          }
+        ],
+        "pub_date": "2016-08-03T15:32:15+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Andrew",
+              "middlename": "R.",
+              "lastname": "CHOW",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ANDREW R. CHOW"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f45595d0e021d797e9e4",
+        "word_count": "360",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/sports/olympics/bzzz-kill-in-rio-miracle-mosquito-repellent-is-hard-to-come-by.html",
+        "snippet": "Mosquitoes are apparently no match for Repelente Gel, which is made by and for the Brazilian Army, but good luck getting your hands on a tube....",
+        "lead_paragraph": "Mosquitoes are apparently no match for Repelente Gel, which is made by and for the Brazilian Army, but good luck getting your hands on a tube.",
+        "abstract": "Mosquito repellent Repelente Gel is in high demand amid fears of Zika Virus at Rio Olympics; product is made exclusively by and for Brazilian Army, which does not divulge uniquely effective formula and has no plans to produce it commercially.",
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/sports/04repellent/04repellent-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/sports/04repellent/04repellent-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/sports/04repellent/04repellent-articleLarge.jpg",
+            "height": 448,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/sports/04repellent/04repellent-articleLarge.jpg",
+              "xlargeheight": "448"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/sports/04repellent/04repellent-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/sports/04repellent/04repellent-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Miracle Mosquito Repellent Is Hard to Come By",
+          "print_headline": "Most Sought-After Prize in Rio Comes in a Tube"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Deet (Insect Repellent)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Zika Virus"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mosquitoes"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Brazil"
+          }
+        ],
+        "pub_date": "2016-08-03T15:15:21+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "contributor": "Tania Franco contributed reporting.",
+          "person": [
+            {
+              "firstname": "Randal",
+              "middlename": "C.",
+              "lastname": "ARCHIBOLD",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By RANDAL C. ARCHIBOLD"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fa6495d0e021d797eacc",
+        "word_count": "625",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/dining/5-new-sauces-you-need-to-master.html",
+        "snippet": "Also, smoked chicken wings, simple salmon, sweet-corn salad and other summer winners....",
+        "lead_paragraph": "Also, smoked chicken wings, simple salmon, sweet-corn salad and other summer winners.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2015/07/06/dining/06GLAZEDSALMON-copy/06GLAZEDSALMON-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2015/07/06/dining/06GLAZEDSALMON-copy/06GLAZEDSALMON-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2015/07/06/dining/06GLAZEDSALMON-copy/06GLAZEDSALMON-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/07/06/dining/06GLAZEDSALMON-copy/06GLAZEDSALMON-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2015/07/06/dining/06GLAZEDSALMON-copy/06GLAZEDSALMON-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/07/06/dining/06GLAZEDSALMON-copy/06GLAZEDSALMON-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "5 New Sauces You Need to Master",
+          "content_kicker": "What to Cook"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Recipes"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Dining",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "SIFTON"
+            }
+          ],
+          "original": "By SAM SIFTON"
+        },
+        "type_of_material": "News",
+        "_id": "57c890f095d0e021d7983e9c",
+        "word_count": "558",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/03/us/ap-us-missing-jogger-body-found.html",
+        "snippet": "In some versions of an Aug. 3 story about a woman who was killed in a New York City marsh, The Associated Press misspelled her first name. It was Karina, not Katrina....",
+        "lead_paragraph": "In some versions of an Aug. 3 story about a woman who was killed in a New York City marsh, The Associated Press misspelled her first name. It was Karina, not Katrina.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Missing Jogger-Body Found Story",
+          "print_headline": "Correction: Missing Jogger-Body Found Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-03T15:00:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57aab12e95d0e021d797fcae",
+        "word_count": "428",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/03/business/dealbook/document-Fed-Leak-Case-Against-Goldman.html",
+        "snippet": "The Federal Reserve forced Goldman Sachs to pay a $36.3 million penalty, escalating a long-running investigation into a 2014 leak of confidential government information....",
+        "lead_paragraph": "The Federal Reserve forced Goldman Sachs to pay a $36.3 million penalty, escalating a long-running investigation into a 2014 leak of confidential government information.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/business/dealbook/image-Fed-Leak-Case-Against-Goldman/image-Fed-Leak-Case-Against-Goldman-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/business/dealbook/image-Fed-Leak-Case-Against-Goldman/image-Fed-Leak-Case-Against-Goldman-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/business/dealbook/image-Fed-Leak-Case-Against-Goldman/image-Fed-Leak-Case-Against-Goldman-articleLarge.gif",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/business/dealbook/image-Fed-Leak-Case-Against-Goldman/image-Fed-Leak-Case-Against-Goldman-articleLarge.gif",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/business/dealbook/image-Fed-Leak-Case-Against-Goldman/image-Fed-Leak-Case-Against-Goldman-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/business/dealbook/image-Fed-Leak-Case-Against-Goldman/image-Fed-Leak-Case-Against-Goldman-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Order in Fed Leak Case Against Goldman"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Goldman Sachs Group Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Reserve System"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "5888fe4c95d0e0392607cc2b",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

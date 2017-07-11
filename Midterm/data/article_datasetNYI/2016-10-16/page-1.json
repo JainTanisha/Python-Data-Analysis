@@ -1,0 +1,629 @@
+{
+  "response": {
+    "meta": {
+      "hits": 445,
+      "time": 90,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/opinion/millions-of-men-are-missing-from-the-job-market.html",
+        "snippet": "Many of those who have given up on employment are struggling with pain and disabilities....",
+        "lead_paragraph": "Many of those who have given up on employment are struggling with pain and disabilities.",
+        "abstract": "Editorial cites study by Princeton economist Alan Krueger showing seven million American men in prime of their lives are not in work force, and that almost half of them take painkillers daily; suggests transformation of American economy has negatively impacted demographic; calls for more government funding to counter opioid addiction and launch job initiatives in hardest-hit regions.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/opinion/17mon1/17mon1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/opinion/17mon1/17mon1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/opinion/17mon1/17mon1-articleLarge.jpg",
+            "height": 342,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/opinion/17mon1/17mon1-articleLarge.jpg",
+              "xlargeheight": "342"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/opinion/17mon1/17mon1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/opinion/17mon1/17mon1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Millions of Men Are Missing From the Job Market",
+          "content_kicker": "Editorial",
+          "kicker": "Editorial",
+          "print_headline": "The Men Missing From the Job Market"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Labor and Jobs"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Men and Boys"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Unemployment"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Pain-Relieving Drugs"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Disabilities"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Centers for Disease Control and Prevention"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Krueger, Alan B"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Drug Abuse and Traffic"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Princeton University"
+          }
+        ],
+        "pub_date": "2016-10-16T23:40:58+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE EDITORIAL BOARD",
+          "organization": "THE EDITORIAL BOARD"
+        },
+        "type_of_material": "Editorial",
+        "_id": "5804101e95d0e022439c381d",
+        "word_count": "559",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/sports/soccer/bc-soc-mls-toronto-impact.html",
+        "snippet": "Tosaint Ricketts scored in the 87th minute to give Toronto FC a 2-2 tie with the Montreal Impact in the rain Sunday night....",
+        "lead_paragraph": "Tosaint Ricketts scored in the 87th minute to give Toronto FC a 2-2 tie with the Montreal Impact in the rain Sunday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Late Ricketts Gives Toronto FC 2-2 Draw With Impact",
+          "print_headline": "Late Ricketts Gives Toronto FC 2-2 Draw With Impact"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T23:33:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58040f1195d0e022439c381c",
+        "word_count": "86",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/world/americas/village-mythologized-by-isis-is-recaptured-syrian-rebels-say.html",
+        "snippet": "The Turkish-backed rebels said they had forced the militant group from Dabiq, where it had promised to fight a final, apocalyptic battle with the West....",
+        "lead_paragraph": "The Turkish-backed rebels said they had forced the militant group from Dabiq, where it had promised to fight a final, apocalyptic battle with the West.",
+        "abstract": "Turkish-backed Syrian rebels report they have taken northwestern village of Dabiq from Islamic State.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/world/SYRIA/SYRIA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/world/SYRIA/SYRIA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/world/SYRIA/SYRIA-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/world/SYRIA/SYRIA-articleLarge.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/world/SYRIA/SYRIA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/world/SYRIA/SYRIA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Village Mythologized by ISIS Is Recaptured, Syrian Rebels Say",
+          "print_headline": "ISIS Stronghold in Syria Is Recaptured, Rebels Say"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Dabiq (Syria)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Syria"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Free Syrian Army"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Syrian Democratic Forces"
+          }
+        ],
+        "pub_date": "2016-10-16T23:36:32+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "List",
+        "_id": "58040f0595d0e022439c381b",
+        "word_count": "410",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/16/world/middleeast/16reuters-mideast-crisis-iraq-usa.html",
+        "snippet": "The United States said on Sunday it was proud to stand with its allies after Iraqi Prime Minister Haider al-Abadi announced the start of an offensive to retake Mosul, the capital of Islamic State's so-called caliphate in Iraq....",
+        "lead_paragraph": "The United States said on Sunday it was proud to stand with its allies after Iraqi Prime Minister Haider al-Abadi announced the start of an offensive to retake Mosul, the capital of Islamic State's so-called caliphate in Iraq.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S.: Proud to Stand With Allies in Offensive to Retake Iraq's Mosul",
+          "print_headline": "U.S.: Proud to Stand With Allies in Offensive to Retake Iraq's Mosul"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T23:23:21Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58040da295d0e022439c3818",
+        "word_count": "108",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/16/world/middleeast/16reuters-mideast-crisis-mosul-factbox.html",
+        "snippet": "Iraqi Prime Minister Haider al-Abadi has announced the start of an offensive aimed at retaking the city of Mosul from Islamic State militants, who have stamped out its rich mix of ethnic and religious cultures....",
+        "lead_paragraph": "Iraqi Prime Minister Haider al-Abadi has announced the start of an offensive aimed at retaking the city of Mosul from Islamic State militants, who have stamped out its rich mix of ethnic and religious cultures.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Factbox: Once-Tolerant Mosul Site of Iraq Push Against Islamic State",
+          "print_headline": "Factbox: Once-Tolerant Mosul Site of Iraq Push Against Islamic State"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T23:26:23Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58040da895d0e022439c381a",
+        "word_count": "499",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/16/business/16reuters-britain-eu-economy.html",
+        "snippet": "British consumers were their most confident in five years in September, a survey showed on Monday, but the upbeat mood was not shared in London where most voters opposed leaving the European Union in June's Brexit referendum....",
+        "lead_paragraph": "British consumers were their most confident in five years in September, a survey showed on Monday, but the upbeat mood was not shared in London where most voters opposed leaving the European Union in June's Brexit referendum.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "UK Consumers Most Upbeat in Five Years, but Not in Pro-EU London",
+          "print_headline": "UK Consumers Most Upbeat in Five Years, but Not in Pro-EU London"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T23:27:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58040da295d0e022439c3819",
+        "word_count": "363",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/us/politics/mario-batali-obama-dinner.html",
+        "snippet": "While President Obama was at the United Nations, Michelle Obama was sampling Mr. Batali\u2019s food at Babbo to prepare for a dinner honoring Prime Minister Matteo Renzi of Italy....",
+        "lead_paragraph": "While President Obama was at the United Nations, Michelle Obama was sampling Mr. Batali\u2019s food at Babbo to prepare for a dinner honoring Prime Minister Matteo Renzi of Italy.",
+        "abstract": "White House Letter; celebrity restaurateur and chef Mario Batali will create final state dinner of Pres Obama's tenure, honoring Prime Min Matteo Renzi of Italy. ",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/us/17whletter-web/17whletter-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/us/17whletter-web/17whletter-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/us/17whletter-web/17whletter-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/us/17whletter-web/17whletter-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/us/17whletter-web/17whletter-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/us/17whletter-web/17whletter-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mario Batali (Yes, in His Orange Crocs) to Prepare Obamas\u2019 Last State Dinner",
+          "content_kicker": "White House Letter",
+          "print_headline": "Batali Gets His Shot at a State Dinner"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Batali, Mario"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "White House Building (Washington, DC)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Babbo (Manhattan, NY, Restaurant)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Michelle"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Renzi, Matteo"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Italy"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          }
+        ],
+        "pub_date": "2016-10-16T23:24:02+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Julie",
+              "middlename": "Hirschfeld",
+              "lastname": "DAVIS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By JULIE HIRSCHFELD DAVIS"
+        },
+        "type_of_material": "News",
+        "_id": "58040c1c95d0e022439c3817",
+        "word_count": "1027",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/17/arts/design/klaus-kertess-dead.html",
+        "snippet": "Mr. Kertess was known for having an eye, and a nose, for developing talent, like Brice Marden and Chuck Close....",
+        "lead_paragraph": "Mr. Kertess was known for having an eye, and a nose, for developing talent, like Brice Marden and Chuck Close.",
+        "abstract": "Klaus Kertess, Bykert Gallery director and curator who helped develop careers of aspiring artists in 1960s and '70s, including Brice Marden and Chuck Close, dies at age 76.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/17/arts/15KERTESS/15KERTESS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/17/arts/15KERTESS/15KERTESS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/17/arts/15KERTESS/15KERTESS-articleLarge.jpg",
+            "height": 617,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/17/arts/15KERTESS/15KERTESS-articleLarge.jpg",
+              "xlargeheight": "617"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/17/arts/15KERTESS/15KERTESS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/17/arts/15KERTESS/15KERTESS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Klaus Kertess Dies at 76; Curator and Gallerist Gave Major Artists a Start",
+          "print_headline": "Klaus Kertess, Curator and Gallerist, Dies at 76"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kertess, Klaus"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art"
+          }
+        ],
+        "pub_date": "2016-10-16T23:22:12+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "William",
+              "rank": 1,
+              "lastname": "GRIMES"
+            }
+          ],
+          "original": "By WILLIAM GRIMES"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "58040bb295d0e022439c3816",
+        "word_count": "885",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/16/us/ap-us-obit-edward-gorman.html",
+        "snippet": "Mystery and crime fiction writer Edward Gorman has died....",
+        "lead_paragraph": "Mystery and crime fiction writer Edward Gorman has died.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mystery Writer Edward Gorman Dies at 74",
+          "print_headline": "Mystery Writer Edward Gorman Dies at 74"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T23:19:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58040b8b95d0e022439c3815",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/16/world/americas/16reuters-storm-matthew.html",
+        "snippet": "North Carolina emergency officials have estimated that the destructive and deadly Hurricane Matthew caused $1.5 billion worth of damage to more than 100,000 homes, businesses and government buildings in the state....",
+        "lead_paragraph": "North Carolina emergency officials have estimated that the destructive and deadly Hurricane Matthew caused $1.5 billion worth of damage to more than 100,000 homes, businesses and government buildings in the state.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "North Carolina Estimates $1.5 Billion in Hurricane Damage to Buildings",
+          "print_headline": "North Carolina Estimates $1.5 Billion in Hurricane Damage to Buildings"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-16T23:19:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58040b7f95d0e022439c3814",
+        "word_count": "294",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,367 @@
+{
+  "response": {
+    "meta": {
+      "hits": 965,
+      "time": 59,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/football/ap-fbn-champs-camp.html",
+        "snippet": "The Super Bowl champs begin training camp Thursday with major questions on both sides of the ball, beginning with who will be the one throwing it....",
+        "lead_paragraph": "The Super Bowl champs begin training camp Thursday with major questions on both sides of the ball, beginning with who will be the one throwing it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Questions Abound on Offense, Defense for Super Bowl Champs",
+          "print_headline": "Questions Abound on Offense, Defense for Super Bowl Champs"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:46:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5799568138f0d87cf647e300",
+        "word_count": "721",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-fbn-prescott-dui.html",
+        "snippet": "WTVA-TV reports (http://bit.ly/2afJbxw ) that a municipal court has cleared former Mississippi State quarterback Dak Prescott on charges of speeding and drunk driving....",
+        "lead_paragraph": "WTVA-TV reports (http://bit.ly/2afJbxw ) that a municipal court has cleared former Mississippi State quarterback Dak Prescott on charges of speeding and drunk driving.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Former Mississippi State QB Prescott Acquitted of DUI",
+          "print_headline": "Former Mississippi State QB Prescott Acquitted of DUI"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:43:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579955c738f0d87cf647e2ff",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia.html",
+        "snippet": "Sartorial displays of support were divided between Bernie Sanders, Hillary Clinton and an array of progressive causes....",
+        "lead_paragraph": "Sartorial displays of support were divided between Bernie Sanders, Hillary Clinton and an array of progressive causes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia-1469665338483/democratic-convention-shirts-clinton-philadelphia-1469665338483-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia-1469665338483/democratic-convention-shirts-clinton-philadelphia-1469665338483-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia-1469665338483/democratic-convention-shirts-clinton-philadelphia-1469665338483-articleLarge.png",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia-1469665338483/democratic-convention-shirts-clinton-philadelphia-1469665338483-articleLarge.png",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia-1469665338483/democratic-convention-shirts-clinton-philadelphia-1469665338483-thumbStandard-v2.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/27/us/elections/democratic-convention-shirts-clinton-philadelphia-1469665338483/democratic-convention-shirts-clinton-philadelphia-1469665338483-thumbStandard-v2.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "100 T-Shirts From the Democratic National Convention"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "T-Shirts (Apparel)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-07-27T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alicia",
+              "rank": 1,
+              "lastname": "PARLAPIANO"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Bill",
+              "rank": 2,
+              "lastname": "MARSH"
+            }
+          ],
+          "original": "By ALICIA PARLAPIANO and BILL MARSH"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "579953b838f0d87cf647e2fc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/technology/27reuters-usa-election-russia-theory.html",
+        "snippet": "Some U.S. intelligence officials suspect that Russian hackers who broke into Democratic Party computers may have deliberately left digital fingerprints to show Moscow is a \"cyberpower\" that Washington should respect....",
+        "lead_paragraph": "Some U.S. intelligence officials suspect that Russian hackers who broke into Democratic Party computers may have deliberately left digital fingerprints to show Moscow is a \"cyberpower\" that Washington should respect. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Theory on Democratic Party Breach: Hackers Meant to Leave Russia's Mark",
+          "print_headline": "U.S. Theory on Democratic Party Breach: Hackers Meant to Leave Russia's Mark"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:22:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579950c538f0d87cf647e2f8",
+        "word_count": "802",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/technology/27reuters-brazil-facebook-whatsapp.html",
+        "snippet": "The public federal prosecutor in the Brazilian state of Amazonas said on Wednesday the court there froze 38 million reais ($11.7 million) of funds held in Facebook Inc's account for failing to comply with a court order to supply data on users of t...",
+        "lead_paragraph": "The public federal prosecutor in the Brazilian state of Amazonas said on Wednesday the court there froze 38 million reais ($11.7 million) of funds held in Facebook Inc's account for failing to comply with a court order to supply data on users of the company's WhatsApp messaging service who are under criminal investigation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil Prosecutor Freezes $11.7 Million of Facebook Funds Due to WhatsApp Case",
+          "print_headline": "Brazil Prosecutor Freezes $11.7 Million of Facebook Funds Due to WhatsApp Case"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:21:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579950c338f0d87cf647e2f7",
+        "word_count": "231",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/technology/27reuters-usa-election-wikileaks.html",
+        "snippet": "WikiLeaks released files on Wednesday of what it said were audio recordings pulled from the emails of the Democratic National Committee that were obtained by hacking its servers....",
+        "lead_paragraph": "WikiLeaks released files on Wednesday of what it said were audio recordings pulled from the emails of the Democratic National Committee that were obtained by hacking its servers. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "WikiLeaks Releases Hacked Democratic National Committee Audio Files",
+          "print_headline": "WikiLeaks Releases Hacked Democratic National Committee Audio Files"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:15:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57994f5a38f0d87cf647e2f6",
+        "word_count": "88",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/sports/tennis/ap-ten-toronto.html",
+        "snippet": "Top-ranked Novak Djokovic survived a scare to beat Gilles Muller 7-5, 7-6 (3) on Wednesday in the Rogers Cup, his final event before the Rio Olympics....",
+        "lead_paragraph": "Top-ranked Novak Djokovic survived a scare to beat Gilles Muller 7-5, 7-6 (3) on Wednesday in the Rogers Cup, his final event before the Rio Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Novak Djokovic Survives Scare, Tops Gilles Muller in Toronto",
+          "print_headline": "Novak Djokovic Survives Scare, Tops Gilles Muller in Toronto"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:10:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57994e1238f0d87cf647e2f5",
+        "word_count": "320",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/27/us/ap-us-tribal-canoes.html",
+        "snippet": "Dozens of tribal canoes were arriving at Alki Beach in Seattle as part of an annual Native American celebration....",
+        "lead_paragraph": "Dozens of tribal canoes were arriving at Alki Beach in Seattle as part of an annual Native American celebration.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tribal Canoes Arrive at Seattle Beach in Annual Celebration",
+          "print_headline": "Tribal Canoes Arrive at Seattle Beach in Annual Celebration"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:04:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57994ca338f0d87cf647e2f3",
+        "word_count": "177",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/27/world/europe/27reuters-poland-politics-court-pis.html",
+        "snippet": "The leader of Poland's ruling eurosceptic Law and Justice (PiS) party on Thursday rejected a European Union disciplinary procedure that is pressuring the government, and said the European Commission was overstepping its bounds....",
+        "lead_paragraph": "The leader of Poland's ruling eurosceptic Law and Justice (PiS) party on Thursday rejected a European Union disciplinary procedure that is pressuring the government, and said the European Commission was overstepping its bounds.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Polish Leader Rejects EU Critique, Sees No Exit Referendum-Bild",
+          "print_headline": "Polish Leader Rejects EU Critique, Sees No Exit Referendum-Bild"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:01:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57994bd938f0d87cf647e2f2",
+        "word_count": "416",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180808247",
+        "snippet": "NEDERLANDER--James M. The Association of Theatrical Press Agents and Managers mourns the passing of Broadway Theatre Owner and Producer James M. Nederlander, who employed countless members of this organization over the decades. He himself held the...",
+        "lead_paragraph": "<!-- JAMES NEDERLANDER -->NEDERLANDER--James M.<br/><br/> The Association of Theatrical Press Agents and Managers mourns the passing of Broadway Theatre Owner and Producer James M. Nederlander, who employed countless members of this organization over the decades. He himself held the record for the longest running ATPAM membership on the books at 71 years, having joined in 1945. We extend our condolences to his family. The Board and Officers of ATPAM<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  NEDERLANDER, JAMES "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-27T20:03:01Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "5799c9a038f0d87cf647e407",
+        "word_count": "66",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

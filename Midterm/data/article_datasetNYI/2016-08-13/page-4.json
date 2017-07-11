@@ -1,0 +1,456 @@
+{
+  "response": {
+    "meta": {
+      "hits": 475,
+      "time": 51,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/13/crosswords/moral-thinking.html",
+        "snippet": "Ian Livengood returns with a morality tale....",
+        "lead_paragraph": "Ian Livengood returns with a morality tale.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/crosswords/13wordplay-hamilton/13wordplay-hamilton-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/crosswords/13wordplay-hamilton/13wordplay-hamilton-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/13/crosswords/13wordplay-hamilton/13wordplay-hamilton-articleLarge.jpg",
+            "height": 429,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/13/crosswords/13wordplay-hamilton/13wordplay-hamilton-articleLarge.jpg",
+              "xlargeheight": "429"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/crosswords/13wordplay-hamilton/13wordplay-hamilton-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/crosswords/13wordplay-hamilton/13wordplay-hamilton-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Moral Thinking",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-08-13T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "News",
+        "_id": "57af986a95d0e021d79808d4",
+        "word_count": "634",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/us/ap-us-lightning-strike-injuries-the-latest.html",
+        "snippet": "The Latest on lightning strikes with injuries in New York state (all times local):...",
+        "lead_paragraph": "The Latest on lightning strikes with injuries in New York state (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: 1 Dead From Lightning, 4 Hurt in Separate Strike",
+          "print_headline": "The Latest: 1 Dead From Lightning, 4 Hurt in Separate Strike"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:50:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af972495d0e021d79808d2",
+        "word_count": "254",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/sports/olympics/13reuters-olympics-rio-pokemon.html",
+        "snippet": "Forget beach volleyball, soccer or tennis, not to mention the steeplechase or discus. Pokemon Go is challenging the Olympics for most popular game among some young Brazilians....",
+        "lead_paragraph": "Forget beach volleyball, soccer or tennis, not to mention the steeplechase or discus. Pokemon Go is challenging the Olympics for most popular game among some young Brazilians.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pokemon Craze Challenges Rio Games for Popularity",
+          "print_headline": "Pokemon Craze Challenges Rio Games for Popularity"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:51:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af971f95d0e021d79808d1",
+        "word_count": "534",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/world/europe/13reuters-maryland-blast.html",
+        "snippet": "A third body has been found in the rubble from an explosion and fire this week in the Washington suburb of Silver Spring, Maryland, and others remained missing as authorities continued to investigate on Saturday, according to police statements....",
+        "lead_paragraph": "A third body has been found in the rubble from an explosion and fire this week in the Washington suburb of Silver Spring, Maryland, and others remained missing as authorities continued to investigate on Saturday, according to police statements.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Death Tally From Maryland Blast Rises to Three, Some Still Missing",
+          "print_headline": "Death Tally From Maryland Blast Rises to Three, Some Still Missing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:47:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af95b295d0e021d79808d0",
+        "word_count": "291",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/us/ap-us-mountain-lion-girl-saved.html",
+        "snippet": "A family camping in eastern Idaho scared off a mountain lion that tried to snatch their 4-year-old daughter away from a campfire....",
+        "lead_paragraph": "A family camping in eastern Idaho scared off a mountain lion that tried to snatch their 4-year-old daughter away from a campfire.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Family Camping in Idaho Saves Girl From Mountain Lion",
+          "print_headline": "Family Camping in Idaho Saves Girl From Mountain Lion"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:44:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af950e95d0e021d79808cf",
+        "word_count": "151",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/olympics/ap-oly-cyberattacks.html",
+        "snippet": "The International Olympic Committee is fending off massive cyberattacks during the Rio de Janeiro Olympics....",
+        "lead_paragraph": "The International Olympic Committee is fending off massive cyberattacks during the Rio de Janeiro Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "IOC Fights Cyberattacks During Olympics",
+          "print_headline": "IOC Fights Cyberattacks During Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:35:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af93a095d0e021d79808ce",
+        "word_count": "310",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/us/ap-us-greenwich-schools-mozart.html",
+        "snippet": "Callers who are put on hold at Greenwich Town Hall in Connecticut can now enjoy some Mozart, compliments of the high school's string ensemble....",
+        "lead_paragraph": "Callers who are put on hold at Greenwich Town Hall in Connecticut can now enjoy some Mozart, compliments of the high school's string ensemble.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Callers on Hold Hear School Orchestra's Music in Connecticut",
+          "print_headline": "Callers on Hold Hear School Orchestra's Music in Connecticut"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:35:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af92ee95d0e021d79808cd",
+        "word_count": "115",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/13/nyregion/queens-mosque-shooting.html",
+        "snippet": "The police said it appeared that the two men were targeted but did not release a motive for the shooting outside the Al-Furqan Jame Masjid mosque in the Ozone Park neighborhood....",
+        "lead_paragraph": "The police said it appeared that the two men were targeted but did not release a motive for the shooting outside the Al-Furqan Jame Masjid mosque in the Ozone Park neighborhood.",
+        "abstract": "Queens imam Alauddin Akonjee and his assistant Thara Miah are fatally shot near their Ozone Park mosque; authorities say men were apparently targeted but do not specify motive; community members worry assailant was influenced by rising anti-Muslim sentiment.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/14/nyregion/13imam/13imam-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/14/nyregion/13imam/13imam-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/14/nyregion/13imam/13imam-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/14/nyregion/13imam/13imam-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/14/nyregion/13imam/13imam-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/14/nyregion/13imam/13imam-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Imam and His Assistant Killed in a Shooting Near a Mosque in Queens",
+          "print_headline": "Imam and Assistant Are Killed in Shooting Near Mosque in Queens"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ozone Park (Queens, NY)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Akonjee, Alauddin (d 2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Miah, Thara (d 2016)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Al-Furqan Jame Masjid Mosque (Queens, NY)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Imams"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mosques"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Muslim Americans"
+          }
+        ],
+        "pub_date": "2016-08-13T21:36:15+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Al Baker and Ashley Southall contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eli",
+              "rank": 1,
+              "lastname": "ROSENBERG"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nate",
+              "rank": 2,
+              "lastname": "SCHWEBER"
+            }
+          ],
+          "original": "By ELI ROSENBERG and NATE SCHWEBER"
+        },
+        "type_of_material": "News",
+        "_id": "57af92d595d0e021d79808cc",
+        "word_count": "852",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/13/sports/baseball/ap-bbn-cardinals-cubs.html",
+        "snippet": "Following two stints in the minors this season, Randal Grichuk is back in the majors and eager to prove he belongs....",
+        "lead_paragraph": "Following two stints in the minors this season, Randal Grichuk is back in the majors and eager to prove he belongs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Cubs' 11-Game Win Streak Ends, Grichuk Slam Propels Cards",
+          "print_headline": "Cubs' 11-Game Win Streak Ends, Grichuk Slam Propels Cards"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:23:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57af901c95d0e021d79808ca",
+        "word_count": "730",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/13/us/13reuters-new-york-shooting.html",
+        "snippet": "A Muslim cleric and an associate were fatally shot by a lone gunman on Saturday while walking together following afternoon prayers at a mosque in the New York City borough of Queens, authorities said....",
+        "lead_paragraph": "A Muslim cleric and an associate were fatally shot by a lone gunman on Saturday while walking together following afternoon prayers at a mosque in the New York City borough of Queens, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Muslim Cleric and Associate Shot to Death on New York Street",
+          "print_headline": "Muslim Cleric and Associate Shot to Death on New York Street"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-13T21:21:30Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57af902095d0e021d79808cb",
+        "word_count": "634",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

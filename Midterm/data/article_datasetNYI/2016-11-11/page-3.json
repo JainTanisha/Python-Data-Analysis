@@ -1,0 +1,570 @@
+{
+  "response": {
+    "meta": {
+      "hits": 811,
+      "time": 56,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:49:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58264ae995d0e0204d560046",
+        "word_count": "1310",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/us/politics/11reuters-usa-election-defense-ayotte.html",
+        "snippet": "U.S. President-elect Donald Trump is considering outgoing Senator Kelly Ayotte of New Hampshire for the post of defense secretary, the Washington Post reported on Friday, citing two sources familiar with the discussions....",
+        "lead_paragraph": "U.S. President-elect Donald Trump is considering outgoing Senator Kelly Ayotte of New Hampshire for the post of defense secretary, the Washington Post reported on Friday, citing two sources familiar with the discussions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Considering Outgoing Senator Ayotte for Defense Secretary: Washington Post",
+          "print_headline": "Trump Considering Outgoing Senator Ayotte for Defense Secretary: Washington Post"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:45:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58264a1695d0e0204d560044",
+        "word_count": "72",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/sports/soccer/11reuters-soccer-worldcup-fra-swe-quotes.html",
+        "snippet": "France produced a come-from-behind 2-1 victory over Sweden in Friday's World Cup qualifier at the Stade de France but know they need to work on taking the initiative in matches....",
+        "lead_paragraph": "France produced a come-from-behind 2-1 victory over Sweden in Friday's World Cup qualifier at the Stade de France but know they need to work on taking the initiative in matches.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "France Rally to Beat Sweden but Must Take Initiative",
+          "print_headline": "France Rally to Beat Sweden but Must Take Initiative"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:45:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58264a1795d0e0204d560045",
+        "word_count": "286",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/sports/ncaabasketball/ap-bkw-t25-rhode-island-syracuse.html",
+        "snippet": "Alexis Peterson scored 28 points and No. 14 Syracuse opened the season on Friday with a 95-49 win over Rhode Island....",
+        "lead_paragraph": "Alexis Peterson scored 28 points and No. 14 Syracuse opened the season on Friday with a 95-49 win over Rhode Island.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Peterson Leads No. 14 Syracuse Women Past Rhode Island 95-49",
+          "print_headline": "Peterson Leads No. 14 Syracuse Women Past Rhode Island 95-49"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:40:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582648e595d0e0204d560043",
+        "word_count": "179",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/arts/music/leonard-cohen-songwriting-appraisal.html",
+        "snippet": "With every line Mr. Cohen shared, implicitly and in his lyrics, there was a humbling knowledge of mortality....",
+        "lead_paragraph": "With every line Mr. Cohen shared, implicitly and in his lyrics, there was a humbling knowledge of mortality.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/12/arts/12COHENJP/12COHENJP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/12/arts/12COHENJP/12COHENJP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/12/arts/12COHENJP/12COHENJP-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/12/arts/12COHENJP/12COHENJP-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/12/arts/12COHENJP/12COHENJP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/12/arts/12COHENJP/12COHENJP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "An Appraisal: Leonard Cohen, Master of Meanings and Incantatory Verse",
+          "print_headline": "A Master of Meanings and Incantatory Verse"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Poetry and Poets"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cohen, Leonard"
+          }
+        ],
+        "pub_date": "2016-11-11T22:39:55Z",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jon",
+              "rank": 1,
+              "lastname": "PARELES"
+            }
+          ],
+          "original": "By JON PARELES"
+        },
+        "type_of_material": "News",
+        "_id": "582648c095d0e0204d560042",
+        "word_count": "1146",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/us/politics/ap-us-trump-chief-of-staff.html",
+        "snippet": "Donald Trump is considering a conservative bomb-thrower and the face of the GOP establishment, among others, for White House chief of staff &#8212; a major post that could set the direction for his presidency....",
+        "lead_paragraph": "Donald Trump is considering a conservative bomb-thrower and the face of the GOP establishment, among others, for White House chief of staff &#8212; a major post that could set the direction for his presidency.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Chief of Staff Pick to Signal Direction of Presidency",
+          "print_headline": "Trump Chief of Staff Pick to Signal Direction of Presidency"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:37:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826482b95d0e0204d560041",
+        "word_count": "869",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/world/europe/ap-eu-cyprus-peace-talks.html",
+        "snippet": "Intensive talks at a Swiss resort on how much land Greek and Turkish Cypriots will administratively control under a deal reunifying ethnically divided Cyprus have broken off and will reconvene in Geneva on Nov. 20, officials said Friday....",
+        "lead_paragraph": "Intensive talks at a Swiss resort on how much land Greek and Turkish Cypriots will administratively control under a deal reunifying ethnically divided Cyprus have broken off and will reconvene in Geneva on Nov. 20, officials said Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cyprus Peace Talks Break, to Reconvene in Geneva Nov. 20",
+          "print_headline": "Cyprus Peace Talks Break, to Reconvene in Geneva Nov. 20"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T22:37:15Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826482995d0e0204d560040",
+        "word_count": "398",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004746613/american-thanksgiving-pork-neck-stew.html",
+        "snippet": "In Atlanta, Erika Council makes a stockpot of pork neck bones as a reflection of the food cooked in the kitchens of enslaved Africans....",
+        "lead_paragraph": "In Atlanta, Erika Council makes a stockpot of pork neck bones as a reflection of the food cooked in the kitchens of enslaved Africans.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/multimedia/tgiving-neckbones/tgiving-neckbones-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/multimedia/tgiving-neckbones/tgiving-neckbones-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/03/multimedia/tgiving-neckbones/tgiving-neckbones-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/03/multimedia/tgiving-neckbones/tgiving-neckbones-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/multimedia/tgiving-neckbones/tgiving-neckbones-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/multimedia/tgiving-neckbones/tgiving-neckbones-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The American Thanksgiving: Pork Neck Bones"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pork"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          }
+        ],
+        "pub_date": "2016-11-11T22:36:56+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslye",
+              "rank": 1,
+              "lastname": "DAVIS"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "EATON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eugene",
+              "rank": 3,
+              "lastname": "YI"
+            }
+          ],
+          "original": "By LESLYE DAVIS, ALEXANDRA EATON and EUGENE YI"
+        },
+        "type_of_material": "Video",
+        "_id": "5835cbbd95d0e03926072298",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004754589/american-thanksgiving-spinach-stuffing.html",
+        "snippet": "In New Jersey, Lisa and Carmela Conte make a spinach stuffing at Thanksgiving that is adapted from traditional Italian fillings for pasta and game birds....",
+        "lead_paragraph": "In New Jersey, Lisa and Carmela Conte make a spinach stuffing at Thanksgiving that is adapted from traditional Italian fillings for pasta and game birds.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/multimedia/tgiving-stuffing-italy/tgiving-stuffing-italy-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/multimedia/tgiving-stuffing-italy/tgiving-stuffing-italy-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/multimedia/tgiving-stuffing-italy/tgiving-stuffing-italy-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/multimedia/tgiving-stuffing-italy/tgiving-stuffing-italy-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/multimedia/tgiving-stuffing-italy/tgiving-stuffing-italy-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/multimedia/tgiving-stuffing-italy/tgiving-stuffing-italy-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The American Thanksgiving: Spinach Stuffing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Spinach"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          }
+        ],
+        "pub_date": "2016-11-11T22:36:52+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslye",
+              "rank": 1,
+              "lastname": "DAVIS"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "EATON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eugene",
+              "rank": 3,
+              "lastname": "YI"
+            }
+          ],
+          "original": "By LESLYE DAVIS, ALEXANDRA EATON and EUGENE YI"
+        },
+        "type_of_material": "Video",
+        "_id": "5835cc9d95d0e0392607229e",
+        "word_count": "25",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/dining/100000004753994/american-thanksgiving-somali-rice.html",
+        "snippet": "Ayaan and Idyl Mohallim\u2019s grandmother taught them to cook Bariis iskukaris, an elegant Somali rice dish flavored with a mix of sweet brown spices and turmeric....",
+        "lead_paragraph": "Ayaan and Idyl Mohallim\u2019s grandmother taught them to cook Bariis iskukaris, an elegant Somali rice dish flavored with a mix of sweet brown spices and turmeric.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/07/multimedia/tgiving-rice-somalia/tgiving-rice-somalia-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/07/multimedia/tgiving-rice-somalia/tgiving-rice-somalia-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/07/multimedia/tgiving-rice-somalia/tgiving-rice-somalia-articleLarge.jpg",
+            "height": 337,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/07/multimedia/tgiving-rice-somalia/tgiving-rice-somalia-articleLarge.jpg",
+              "xlargeheight": "337"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/07/multimedia/tgiving-rice-somalia/tgiving-rice-somalia-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/07/multimedia/tgiving-rice-somalia/tgiving-rice-somalia-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The American Thanksgiving: Bariis Iskukaris"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Thanksgiving Day"
+          }
+        ],
+        "pub_date": "2016-11-11T22:36:47+0000",
+        "document_type": "multimedia",
+        "news_desk": "Food",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Leslye",
+              "rank": 1,
+              "lastname": "DAVIS"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 2,
+              "lastname": "EATON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eugene",
+              "rank": 3,
+              "lastname": "YI"
+            }
+          ],
+          "original": "By LESLYE DAVIS, ALEXANDRA EATON and EUGENE YI"
+        },
+        "type_of_material": "Video",
+        "_id": "5835cd2195d0e039260722a2",
+        "word_count": "26",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

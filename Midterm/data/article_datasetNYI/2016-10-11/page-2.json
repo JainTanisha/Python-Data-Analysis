@@ -1,0 +1,409 @@
+{
+  "response": {
+    "meta": {
+      "hits": 837,
+      "time": 57,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/world/africa/11reuters-nigeria-humantrafficking-babies.html",
+        "snippet": "As 16-year-old Maria strained under the anguish of labor in southeastern Nigeria, a midwife repeatedly slapped her across the face - but the real ordeal began minutes after birth....",
+        "lead_paragraph": "As 16-year-old Maria strained under the anguish of labor in southeastern Nigeria, a midwife repeatedly slapped her across the face - but the real ordeal began minutes after birth.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Baby Traffickers Thriving in Nigeria as Recession Bites",
+          "print_headline": "Baby Traffickers Thriving in Nigeria as Recession Bites"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T23:05:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd708395d0e022439c2a54",
+        "word_count": "1505",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/11/travel/tripadvisor-to-stop-selling-tickets-to-many-animal-attractions.html",
+        "snippet": "TripAdvisor will no longer sell tickets to attractions like elephant rides and dolphin swims, a decision that could reshape how booking sites approach animal welfare....",
+        "lead_paragraph": "TripAdvisor will no longer sell tickets to attractions like elephant rides and dolphin swims, a decision that could reshape how booking sites approach animal welfare.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-articleLarge.jpg",
+            "height": 446,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-articleLarge.jpg",
+              "xlargeheight": "446"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/11/travel/11tripadvisor-animals/11tripadvisor-animals-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "TripAdvisor to Stop Selling Tickets to Many Animal Attractions",
+          "content_kicker": "Update",
+          "kicker": "Update"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Animals"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Animal Abuse, Rights and Welfare"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Endangered and Extinct Species"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "TripAdvisor.com"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Viator Inc"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "People for the Ethical Treatment of Animals"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Booking.com"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Expedia Inc"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Oxford University"
+          }
+        ],
+        "pub_date": "2016-10-11T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Justin",
+              "rank": 1,
+              "lastname": "SABLICH"
+            }
+          ],
+          "original": "By JUSTIN SABLICH"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6efc95d0e022439c2a53",
+        "word_count": "872",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-hawaii-deep-sea-fish-survey.html",
+        "snippet": "Federal officials are embarking on a study of seven Hawaii fish species to assess the overall health of their populations....",
+        "lead_paragraph": "Federal officials are embarking on a study of seven Hawaii fish species to assess the overall health of their populations.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Officials Partner With Fishermen to Assess Hawaii Table Fare",
+          "print_headline": "Officials Partner With Fishermen to Assess Hawaii Table Fare"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:42:40Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6e8495d0e022439c2a52",
+        "word_count": "423",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-penn-state-abuse.html",
+        "snippet": "A panel of nine women and three men is in place for the trial next week of a former assistant coach's claim that he was improperly terminated from Penn State's football program....",
+        "lead_paragraph": "A panel of nine women and three men is in place for the trial next week of a former assistant coach's claim that he was improperly terminated from Penn State's football program.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jury Picked in Ex-Coach's Suit Over Penn State Abuse Scandal",
+          "print_headline": "Jury Picked in Ex-Coach's Suit Over Penn State Abuse Scandal"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:45:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6c8695d0e022439c2a50",
+        "word_count": "139",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-transgender-student-homecoming.html",
+        "snippet": "A transgender student in Grand Blanc has been chosen as homecoming prince....",
+        "lead_paragraph": "A transgender student in Grand Blanc has been chosen as homecoming prince.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Transgender Student in Grand Blanc Voted Homecoming Prince",
+          "print_headline": "Transgender Student in Grand Blanc Voted Homecoming Prince"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:24:05Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6c5c95d0e022439c2a4f",
+        "word_count": "244",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-campaign-2016-fact-check-clinton.html",
+        "snippet": "During a campaign rally in Miami Tuesday, Hillary Clinton said Hurricane Matthew was \"likely more destructive because of climate change.\"...",
+        "lead_paragraph": "During a campaign rally in Miami Tuesday, Hillary Clinton said Hurricane Matthew was \"likely more destructive because of climate change.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP Fact Check: Clinton on Hurricane Matthew, Climate Change",
+          "print_headline": "AP Fact Check: Clinton on Hurricane Matthew, Climate Change"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:44:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6bd695d0e022439c2a4e",
+        "word_count": "523",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-lakota-emergence-exhibit.html",
+        "snippet": "A traveling exhibit that pairs Native American art with passages of a traditional story narrating the emergence of the Lakota people in the Black Hills of South Dakota is now on display in Sioux Falls....",
+        "lead_paragraph": "A traveling exhibit that pairs Native American art with passages of a traditional story narrating the emergence of the Lakota people in the Black Hills of South Dakota is now on display in Sioux Falls.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Art Exhibit Presents Traditional Native American Story",
+          "print_headline": "Art Exhibit Presents Traditional Native American Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:43:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6bd195d0e022439c2a4d",
+        "word_count": "507",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/us/ap-us-school-shooting.html",
+        "snippet": "A teacher at a South Carolina elementary school says in a 911 call that a teen fired shots then stood just behind a group of children being rushed back into their school but didn't shoot the gun again....",
+        "lead_paragraph": "A teacher at a South Carolina elementary school says in a 911 call that a teen fired shots then stood just behind a group of children being rushed back into their school but didn't shoot the gun again.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "911 Call: School Shooter Stood by Kids, Didn't Fire Again",
+          "print_headline": "911 Call: School Shooter Stood by Kids, Didn't Fire Again"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:13:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd6a4d95d0e022439c2a4c",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/11/us/11reuters-oklahoma-police.html",
+        "snippet": "An unarmed black man who was fatally shot by police in Oklahoma last month while he had his hands in the air had a hallucinogenic drug in his system when he was killed, according to an autopsy released on Tuesday....",
+        "lead_paragraph": "An unarmed black man who was fatally shot by police in Oklahoma last month while he had his hands in the air had a hallucinogenic drug in his system when he was killed, according to an autopsy released on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Unarmed Black Man Killed by Tulsa Police Had PCP in His System: Autopsy",
+          "print_headline": "Unarmed Black Man Killed by Tulsa Police Had PCP in His System: Autopsy"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:27:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd680c95d0e022439c2a4b",
+        "word_count": "386",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/11/sports/ncaafootball/ap-fbc-northwestern-players-tweeting.html",
+        "snippet": "In another step toward redefining the amateur status of college athletes, Northwestern has agreed to drop social media restrictions placed on football players after a complaint about the team handbook was filed with the National Labor Relations Bo...",
+        "lead_paragraph": "In another step toward redefining the amateur status of college athletes, Northwestern has agreed to drop social media restrictions placed on football players after a complaint about the team handbook was filed with the National Labor Relations Board.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Northwestern Changes Team Rules After Complaint to NLRB",
+          "print_headline": "Northwestern Changes Team Rules After Complaint to NLRB"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-11T22:21:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fd66f395d0e022439c2a4a",
+        "word_count": "627",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,345 @@
+{
+  "response": {
+    "meta": {
+      "hits": 412,
+      "time": 39,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/30/world/americas/30reuters-brazil-crime-bosnia.html",
+        "snippet": "Brazilian authorities on Saturday arrested a man wanted since 1992 for allegedly committing war crimes during fighting that raged in the former Yugoslavia....",
+        "lead_paragraph": "Brazilian authorities on Saturday arrested a man wanted since 1992 for allegedly committing war crimes during fighting that raged in the former Yugoslavia.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil Authorities Arrest Man Wanted by Bosnia for War Crimes Since 1992",
+          "print_headline": "Brazil Authorities Arrest Man Wanted by Bosnia for War Crimes Since 1992"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:39:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579d48c438f0d84e5033270c",
+        "word_count": "181",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/30/us/ap-us-skydiving-without-parachute-the-latest.html",
+        "snippet": "The Latest on a skydiver's attempt to jump 25,000 feet into a net (all times local):...",
+        "lead_paragraph": "The Latest on a skydiver's attempt to jump 25,000 feet into a net (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Skydiver Successfully Lands Without Parachute",
+          "print_headline": "The Latest: Skydiver Successfully Lands Without Parachute"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:29:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579d476b38f0d84e5033270b",
+        "word_count": "517",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/31/sports/baseball/the-mets-are-clutchless-and-clueless-too.html",
+        "snippet": "They are on pace to have the second-worst batting average with runners in scoring position in baseball history, and team officials do not know why....",
+        "lead_paragraph": "They are on pace to have the second-worst batting average with runners in scoring position in baseball history, and team officials do not know why.",
+        "abstract": "New York Mets are perplexed by team's disastrous slump with runners in scoring position, which has them on pace to finish with second-worst average in baseball history.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/31/sports/31clutchless1/31clutchless1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/31/sports/31clutchless1/31clutchless1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/31/sports/31clutchless1/31clutchless1-articleLarge.jpg",
+            "height": 431,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/31/sports/31clutchless1/31clutchless1-articleLarge.jpg",
+              "xlargeheight": "431"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/31/sports/31clutchless1/31clutchless1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/31/sports/31clutchless1/31clutchless1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Mets Are Clutchless, and Clueless Too",
+          "print_headline": "Mets Are Searching for Clues to Their Lackluster Hitting in the Clutch"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Mets"
+          }
+        ],
+        "pub_date": "2016-07-30T20:24:14+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "James",
+              "rank": 1,
+              "lastname": "WAGNER"
+            }
+          ],
+          "original": "By JAMES WAGNER"
+        },
+        "type_of_material": "News",
+        "_id": "579d0cf738f0d84e503326ce",
+        "word_count": "898",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/30/world/asia/30reuters-usa-election-trump.html",
+        "snippet": "Donald Trump rejected criticism from the father of a soldier killed in Iraq who said the Republican presidential nominee had \"sacrificed nothing and no one\" and questioned whether the mother was allowed to speak during the couple's appearance at t...",
+        "lead_paragraph": "Donald Trump rejected criticism from the father of a soldier killed in Iraq who said the Republican presidential nominee had \"sacrificed nothing and no one\" and questioned whether the mother was allowed to speak during the couple's appearance at the Democratic convention. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Rebuts Criticism by Army Father at Democratic Convention",
+          "print_headline": "Trump Rebuts Criticism by Army Father at Democratic Convention"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:15:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579d43dd38f0d84e50332708",
+        "word_count": "454",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/30/world/americas/30reuters-mexico-violence.html",
+        "snippet": "Seven members of a family, including two minors, were shot dead in the violent Mexican state of Guerrero, the state public safety agency said on Saturday....",
+        "lead_paragraph": "Seven members of a family, including two minors, were shot dead in the violent Mexican state of Guerrero, the state public safety agency said on Saturday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Seven Family Members Found Dead in Mexico's Guerrero State",
+          "print_headline": "Seven Family Members Found Dead in Mexico's Guerrero State"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:15:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579d43e038f0d84e50332709",
+        "word_count": "94",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/30/us/politics/30reuters-usa-election-trump-rebut.html",
+        "snippet": "Donald Trump rejected criticism from the father of a soldier killed in Iraq who said the Republican presidential nominee had \"sacrificed nothing and no one\" and questioned whether the mother was allowed to speak during the couple's appearance at t...",
+        "lead_paragraph": "Donald Trump rejected criticism from the father of a soldier killed in Iraq who said the Republican presidential nominee had \"sacrificed nothing and no one\" and questioned whether the mother was allowed to speak during the couple's appearance at the Democratic convention. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Rebuts Criticism by Army Father at Democratic Convention",
+          "print_headline": "Trump Rebuts Criticism by Army Father at Democratic Convention"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:13:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579d432738f0d84e50332707",
+        "word_count": "454",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/30/sports/golf/30reuters-golf-pga-delay-players.html",
+        "snippet": "Reactions on Saturday at the weather-interrupted PGA Championship at Baltusrol Golf Club, where 49 players need to finish their third round on Sunday before heading back out for the final round:...",
+        "lead_paragraph": "Reactions on Saturday at the weather-interrupted PGA Championship at Baltusrol Golf Club, where 49 players need to finish their third round on Sunday before heading back out for the final round:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf-Players Gird Themselves for a Long and Wet PGA",
+          "print_headline": "Golf-Players Gird Themselves for a Long and Wet PGA"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:00:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579d406238f0d84e50332706",
+        "word_count": "316",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180844531",
+        "snippet": "CARSWELL--Robert. Poly Prep Country Day School mourns the passing of distinguished alumnus, Robert Carswell, class of 1945. In addition to his influential career at Shearman & Sterling, Mr. Carswell held government positions in the Kennedy and Car...",
+        "lead_paragraph": "<!-- ROBERT  CARSWELL -->CARSWELL--Robert.<br/><br/> Poly Prep Country Day School mourns the passing of distinguished alumnus, Robert Carswell, class of 1945. In addition to his influential career at Shearman & Sterling, Mr. Carswell held government positions in the Kennedy and Carter administrations. Most notably, as Deputy Secretary of the Treasury, he painstakingly negotiated the release of the American hostages seized in Iran in 1979. We extend our condolences to his wife Mary and the extended family.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  CARSWELL, ROBERT "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:03:09Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "579dbe1538f0d84e5033279c",
+        "word_count": "72",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180844530",
+        "snippet": "WRIGHT--Suzanne. After fighting a courageous nine month battle with pancreatic cancer, Suzanne Wright passed on July 29, 2016. Suzanne was surrounded by her family at the time of her death. She was 69. In 2005, Suzanne and her husband Bob Wright, ...",
+        "lead_paragraph": "<!-- SUZANNE WRIGHT -->WRIGHT--Suzanne.<br/><br/> After fighting a courageous nine month battle with pancreatic cancer, Suzanne Wright passed on July 29, 2016. Suzanne was surrounded by her family at the time of her death. She was 69. In 2005, Suzanne and her husband Bob Wright, co-founded Autism Speaks after their grandson Christian, was diagnosed with autism. Guided by the Wright's leadership and vision, Autism Speaks has since grown into the world's leading autism science and advocacy organization. Suzanne was born in the Bronx on December 16, 1946. She was the daughter of James Werner, a lieutenant in the New York Police Department and combat veteran of World War II, and Ruth Tobin Werner, a homemaker. Suzanne was raised in West Hempstead, Long Island. As a high school senior, she met her future husband when she attended a dance at the College of the Holy Cross, where Bob was a student. She knew immediately that he would become her husband. They married in 1967, between Bob's second and third year of law school at the University of Virginia School of Law, and moved into married student housing on campus. To help support her husband, Suzanne took a job as the assistant to the manager of the Monticello Hotel. Suzanne's education and career ambitions were put on hold while she focused on raising her three children and supporting Bob in his legal and business career, which included a federal court legal clerkship, private legal practice, positions of increasing responsibility at General Electric, and the role of president of Cox Enterprises. In 1986, he was named president and CEO of NBC. She moved her household 11 times in their first 15 years of marriage. Suzanne quickly became a vital part of the culture at NBC, helping to make the company a warm place where people felt valued and their contributions appreciated. Countless employees were touched by her acts of kindness over the twenty years that she and Bob were part of NBC. Susanne never hesitated to reach out to members of her NBC family, whether in times of need or celebration. Her commitment to her husband and to NBC did not keep her from pursuing her dream of earning her college degree. After several years of hard work, she received her Bachelor of Arts degree from Sarah Lawrence College in 1998. In addition to her work with Autism Speaks, Suzanne had an extensive history of active involvement in community and philanthropic endeavors, primarily focused on helping children. She served on the board of directors for several organizations, including Make-A-Wish Metro New York, the Laura Pels Foundation, the Inner-City Foundation for Charity & Education, and the Philidelphia-based Champions of Caring Project. Suzanne was a trusted emeritus of Sarah Lawrence College, her alma mater, and served on the board of the Tony Randall Theatrical Fund. She also received numerous awards, including the Women of Distinction Award from Palm Beach Atlantic University, the Child Magazine Children's Champions Award, Luella Bennack Volunteer Award, Spirit of Achievement Award from the Albert Einstein College of Medicine's National Women's Division, and the Women of Vision Award from the Weizmann Institute of Science. In 2008, Suzanne and Bob were named in Time 100's \"Heroes and Pioneers\" category for their commitment to global autism advocacy. They also received the first Double Helix Award for Corporate Leadership from Dr. James Watson and Cold Spring Harbor Laboratory, the NYU Child Advocacy Award, the Castle Connolly National Health Leadership Award, and the American Ireland Fund Humanitarian Award. The Wrights have received honorary doctorates from St. John's University, St. Joseph's University and the University of Massachusetts Medical School. Bob serves on the corporate Board of the Lustgarten Foundation, the nation's largest nonprofit funder of pancreatic cancer research. Suzanne is survived by her husband of 48 years and three children, Catherine Anne, Christopher James, and Maggie Suzanne. A fourth child, Sarah Suzanne died in infancy. Suzanne is also survived by six grandchildren, Christian, Mattias, Morgan, Maise, Alex and Sloan. In lieu of flowers, the family requests that donations be made to Autism Speaks or the Lustgarten Foundation, which advances pancreatic cancer research. Family will receive friends Monday and Tuesday from 2pm to 4pm and 7pm to 9pm at Frank E. Campbell, Madison Ave. at 81st St., Mass of the Resurrection Wednesday 10am St. Patrick's Cathedral.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  WRIGHT, SUZANNE "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:03:07Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "579dbe2138f0d84e503327b3",
+        "word_count": "714",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.legacy.com/Link.asp?I=LS000180844528",
+        "snippet": "OLSON--Martha A. December 25, 1921-July 30, 2011. You left us five years ago. We miss you, still hear you, always need you. And surely Thank You. Much Love, Jodila, Etta Mae, Scottles, Regina and so many others who loved you....",
+        "lead_paragraph": "<!-- MARTHA  OLSON -->OLSON--Martha A.<br/><br/> December 25, 1921-July 30, 2011. You left us five years ago. We miss you, still hear you, always need you. And surely Thank You. Much Love, Jodila, Etta Mae, Scottles, Regina and so many others who loved you.<br><br>\n ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Paid Notice: Deaths  OLSON, MARTHA "
+        },
+        "keywords": [],
+        "pub_date": "2016-07-30T20:03:04Z",
+        "document_type": "article",
+        "news_desk": "Classified",
+        "section_name": "Paid Death Notices",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Paid Death Notice",
+        "_id": "579dbe1d38f0d84e503327a9",
+        "word_count": "40",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

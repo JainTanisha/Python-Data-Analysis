@@ -1,0 +1,541 @@
+{
+  "response": {
+    "meta": {
+      "hits": 398,
+      "time": 56,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/sports/football/monday-nfl-matchup-houston-texans-oakland-raiders.html",
+        "snippet": "For the N.F.L.\u2019s first trip to Mexico City since 2005, it is exporting a marquee matchup, with two teams that entered the weekend in first and have connections to Derek Carr....",
+        "lead_paragraph": "For the N.F.L.\u2019s first trip to Mexico City since 2005, it is exporting a marquee matchup, with two teams that entered the weekend in first and have connections to Derek Carr.",
+        "abstract": null,
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Monday\u2019s N.F.L. Matchup: Houston Texans (6-3) vs. Oakland Raiders (7-2)",
+          "print_headline": "Houston Texans (6-3) vs. Oakland Raiders (7-2)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Football"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Oakland Raiders"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Houston Texans"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Carr, Derek"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico City (Mexico)"
+          }
+        ],
+        "pub_date": "2016-11-20T23:27:22+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 1,
+              "lastname": "WHITE"
+            }
+          ],
+          "original": "By DAVID WHITE"
+        },
+        "type_of_material": "News",
+        "_id": "5832315c95d0e039260719e3",
+        "word_count": "119",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/business/anthem-cigna-proposed-deal-goes-to-us-federal-court.html",
+        "snippet": "What\u2019s ahead this week: The Justice Department is challenging the deal between two of the nation\u2019s health largest insurers, saying it would be bad for customers....",
+        "lead_paragraph": "What\u2019s ahead this week: The Justice Department is challenging the deal between two of the nation\u2019s health largest insurers, saying it would be bad for customers.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/business/21ahead1/21ahead1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/business/21ahead1/21ahead1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/business/21ahead1/21ahead1-articleLarge.jpg",
+            "height": 388,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/business/21ahead1/21ahead1-articleLarge.jpg",
+              "xlargeheight": "388"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/business/21ahead1/21ahead1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/business/21ahead1/21ahead1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Anthem-Cigna Proposed Deal Goes to U.S. Federal Court",
+          "content_kicker": "The Week Ahead",
+          "kicker": "The Week Ahead",
+          "print_headline": "Stores Await Black Friday and Court Mulls Merger  "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Interest Rates"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Black Friday and Cyber Monday (Shopping)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Durable Goods (Economic Indicator)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Federal Reserve System"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Commerce Department"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "European Central Bank"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "European Parliament"
+          }
+        ],
+        "pub_date": "2016-11-20T23:24:32+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "THE NEW YORK TIMES"
+        },
+        "type_of_material": "News",
+        "_id": "583230b595d0e039260719e2",
+        "word_count": "507",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/middleeast/100000004779856/airstrikes-hit-aleppo.html",
+        "snippet": "At least 64 people have been killed by government airstrikes in rebel-held eastern Aleppo, Syria, since Thursday, according to the Syrian Observatory for Human Rights. Rebel shelling has killed 13 people in government-held western Aleppo during th...",
+        "lead_paragraph": "At least 64 people have been killed by government airstrikes in rebel-held eastern Aleppo, Syria, since Thursday, according to the Syrian Observatory for Human Rights. Rebel shelling has killed 13 people in government-held western Aleppo during that period.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/world/SYRIA/SYRIA-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/world/SYRIA/SYRIA-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/world/SYRIA/SYRIA-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/world/SYRIA/SYRIA-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/world/SYRIA/SYRIA-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/world/SYRIA/SYRIA-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Airstrikes Hit Aleppo"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:24:17+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Middle East",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "firstname": "Thiqa",
+              "middlename": "News",
+              "lastname": "AGENCY",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 2
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 3
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Syria",
+              "rank": 4,
+              "lastname": "TV"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 5
+            }
+          ],
+          "original": "By THIQA NEWS AGENCY, VIA ASSOCIATED PRESS, REUTERS and SYRIA TV, VIA ASSOCIATED PRESS"
+        },
+        "type_of_material": "Video",
+        "_id": "583230ac95d0e039260719e1",
+        "word_count": "38",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/technology/20reuters-samsung-elec-recall-brand.html",
+        "snippet": "A global recall of fire-prone Galaxy Note 7 smartphones did not appear to hurt U.S. consumers' willingness to buy Samsung Electronics phones, a Reuters/Ipsos opinion poll released on Sunday showed....",
+        "lead_paragraph": "A global recall of fire-prone Galaxy Note 7 smartphones did not appear to hurt U.S. consumers' willingness to buy Samsung Electronics phones, a Reuters/Ipsos opinion poll released on Sunday showed.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Galaxy Note 7 Recall Did Not Damage Samsung Brand in U.S.: Reuters/Ipsos Poll",
+          "print_headline": "Galaxy Note 7 Recall Did Not Damage Samsung Brand in U.S.: Reuters/Ipsos Poll"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:18:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58322f4c95d0e039260719e0",
+        "word_count": "435",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/business/20reuters-apec-summit-tpp.html",
+        "snippet": "Peru's President Pedro Pablo Kuczynski, host of the APEC trade summit, said on Sunday that it was too early to write off the sweeping Trans Pacific Partnership trade deal following Donald Trump's surprise win in the U.S. presidential election on p...",
+        "lead_paragraph": "Peru's President Pedro Pablo Kuczynski, host of the APEC trade summit, said on Sunday that it was too early to write off the sweeping Trans Pacific Partnership trade deal following Donald Trump's surprise win in the U.S. presidential election on promises to scrap it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "APEC Host Says Too Soon to Write Off TPP After Trump Victory",
+          "print_headline": "APEC Host Says Too Soon to Write Off TPP After Trump Victory"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:15:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58322e9595d0e039260719df",
+        "word_count": "88",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/sports/basketball/ap-bkn-blazers-nets.html",
+        "snippet": "C.J. McCollum took over in the third quarter for the Portland Trail Blazers to victory....",
+        "lead_paragraph": "C.J. McCollum took over in the third quarter for the Portland Trail Blazers to victory.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McCollum Scores 33 Points, Trail Blazers Beat Nets 129-109",
+          "print_headline": "McCollum Scores 33 Points, Trail Blazers Beat Nets 129-109"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:10:14+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58322d5f95d0e039260719de",
+        "word_count": "568",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/sports/ncaabasketball/ap-bkw-t25-cal-poly-ucla.html",
+        "snippet": "Jordin Canada knew in the third quarter she was inching closer to a second consecutive triple-double. Her teammates couldn't deliver it for her....",
+        "lead_paragraph": "Jordin Canada knew in the third quarter she was inching closer to a second consecutive triple-double. Her teammates couldn't deliver it for her.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Canada Leads No. 9 UCLA Women to 80-64 Blowout of Cal Poly",
+          "print_headline": "Canada Leads No. 9 UCLA Women to 80-64 Blowout of Cal Poly"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:07:14+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58322cab95d0e039260719dd",
+        "word_count": "648",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/20/business/20reuters-lifelock-m-a-symantec.html",
+        "snippet": "Symantec Corp said it would acquire U.S. identity theft protection services company LifeLock Inc for $2.3 billion, in a deal that it hopes will prop up sales at its Norton cybersecurity unit....",
+        "lead_paragraph": "Symantec Corp said it would acquire U.S. identity theft protection services company LifeLock Inc for $2.3 billion, in a deal that it hopes will prop up sales at its Norton cybersecurity unit. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Symantec to Acquire LifeLock for $2.3 Billion",
+          "print_headline": "Symantec to Acquire LifeLock for $2.3 Billion"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:06:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58322c7a95d0e039260719dc",
+        "word_count": "432",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/20/sports/golf/ap-glf-rsm-classic.html",
+        "snippet": "Billy Horschel thought he hit the winning putt, taking quick steps to the right to watch the ball track toward the cup only for it to burn the left edge....",
+        "lead_paragraph": "Billy Horschel thought he hit the winning putt, taking quick steps to the right to watch the ball track toward the cup only for it to burn the left edge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Final PGA Tour Event Goes Another Day in 4-Man Playoff",
+          "print_headline": "Final PGA Tour Event Goes Another Day in 4-Man Playoff"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-20T23:01:17+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58322bf895d0e039260719db",
+        "word_count": "827",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/21/crosswords/how-an-extreme-underdog-wins.html",
+        "snippet": "Even John Lieb is back....",
+        "lead_paragraph": "Even John Lieb is back.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/21/crosswords/21wordplay-six-flags/21wordplay-six-flags-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/21/crosswords/21wordplay-six-flags/21wordplay-six-flags-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/21/crosswords/21wordplay-six-flags/21wordplay-six-flags-articleLarge.jpg",
+            "height": 403,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/21/crosswords/21wordplay-six-flags/21wordplay-six-flags-articleLarge.jpg",
+              "xlargeheight": "403"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/21/crosswords/21wordplay-six-flags/21wordplay-six-flags-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/21/crosswords/21wordplay-six-flags/21wordplay-six-flags-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How an Extreme Underdog Wins",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-11-20T23:00:04+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "News",
+        "_id": "58322afb95d0e039260719da",
+        "word_count": "486",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

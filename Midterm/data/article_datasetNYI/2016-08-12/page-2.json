@@ -1,0 +1,571 @@
+{
+  "response": {
+    "meta": {
+      "hits": 874,
+      "time": 65,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/13/nyregion/subway-rider-arrested-on-lewdness-charges-had-a-giveaway-a-team-usa-tattoo.html",
+        "snippet": "The police say a man with an Olympic facial tattoo was arrested in Kansas City, Mo., after exposing himself on trains in Brooklyn....",
+        "lead_paragraph": "The police say a man with an Olympic facial tattoo was arrested in Kansas City, Mo., after exposing himself on trains in Brooklyn.",
+        "abstract": "New York City detectives arrest Michael Pope, wanted on charges of public lewdness on subway in Brooklyn, after tracking him down in Kansas City, Mo.",
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/nyregion/13TATTOO1/13TATTOO1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/nyregion/13TATTOO1/13TATTOO1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/nyregion/13TATTOO1/13TATTOO1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/nyregion/13TATTOO1/13TATTOO1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Subway Rider Arrested on Lewdness Charges Had a Giveaway: A Team U.S.A. Tattoo",
+          "print_headline": "Subway Rider Is Arrested in Two Cases of Lewdness"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Sex Crimes"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Kansas City (Mo)"
+          }
+        ],
+        "pub_date": "2016-08-12T23:24:01+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eli",
+              "rank": 1,
+              "lastname": "ROSENBERG"
+            }
+          ],
+          "original": "By ELI ROSENBERG"
+        },
+        "type_of_material": "News",
+        "_id": "57ae5a9695d0e021d798071e",
+        "word_count": "343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/13/opinion/a-changing-of-the-guard-on-the-front-lawn.html",
+        "snippet": "The beauty of the city\u2019s continual immigration churn is that there are newcomers who have fresh preferences in yard statuary....",
+        "lead_paragraph": "The beauty of the city\u2019s continual immigration churn is that there are newcomers who have fresh preferences in yard statuary.",
+        "abstract": "Francis X Clines Editorial Notebook observes differences in front lawn statuary around New York City's outer boroughs as immigrant populations change; notes Madonnas have begun to cede territory to elephants, foo dogs and Buddhas favored by Middle Eastern and Asian residents.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/opinion/13sat3web/13sat3web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/opinion/13sat3web/13sat3web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/13/opinion/13sat3web/13sat3web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/13/opinion/13sat3web/13sat3web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/opinion/13sat3web/13sat3web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/opinion/13sat3web/13sat3web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Changing of the Guard on the Front Lawn",
+          "content_kicker": "Editorial Notebook",
+          "kicker": "Editorial Notebook",
+          "print_headline": "A Changing of the Guard on the Front Lawn"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Lawns"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Religion and Belief"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Editorials"
+          }
+        ],
+        "pub_date": "2016-08-12T23:19:55+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Francis",
+              "middlename": "X.",
+              "lastname": "CLINES",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By FRANCIS X. CLINES"
+        },
+        "type_of_material": "Editorial",
+        "_id": "57ae59a595d0e021d798071d",
+        "word_count": "478",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/12/world/middleeast/12reuters-california-crime-saudi.html",
+        "snippet": "A Southern California man was sentenced on Friday to life in prison for fatally stabbing an engineering student from Saudia Arabia who the killer met after the victim posted an online ad to sell his car two years ago, prosecutors said....",
+        "lead_paragraph": "A Southern California man was sentenced on Friday to life in prison for fatally stabbing an engineering student from Saudia Arabia who the killer met after the victim posted an online ad to sell his car two years ago, prosecutors said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "California Man Gets Life in Prison for Slaying of Saudi Student",
+          "print_headline": "California Man Gets Life in Prison for Slaying of Saudi Student"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T23:16:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae594c95d0e021d798071c",
+        "word_count": "284",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/olympics/ap-oly-armchair-olympics.html",
+        "snippet": "In a story Aug. 13 about NBC's coverage of the Olympics, The Associated Press, relying on information provided by a publicist, reported erroneously that the online subscription content service Fullscreen made a 10-episode sports docuseries, \"Keepi...",
+        "lead_paragraph": "In a story Aug. 13 about NBC's coverage of the Olympics, The Associated Press, relying on information provided by a publicist, reported erroneously that the online subscription content service Fullscreen made a 10-episode sports docuseries, \"Keeping Score,\" on the U.S. women's soccer team. The series is only six episodes.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: Armchair Olympics Story",
+          "print_headline": "Correction: Armchair Olympics Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T23:01:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae58de95d0e021d798071b",
+        "word_count": "833",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/13/business/united-and-continental-flight-attendants-approve-contract.html",
+        "snippet": "The airline said it had reached pacts with its flight attendants and its mechanics, steps toward finally fully integrating United and Continental....",
+        "lead_paragraph": "The airline said it had reached pacts with its flight attendants and its mechanics, steps toward finally fully integrating United and Continental.",
+        "abstract": "United Continental Holdings says it has reached labor agreements with its flight attendants and its mechanics; flight attendants will see wage raises between 18 and 31 percent in September.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/business/13UNITED-SUB/13UNITED-SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/business/13UNITED-SUB/13UNITED-SUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/13/business/13UNITED-SUB/13UNITED-SUB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/13/business/13UNITED-SUB/13UNITED-SUB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/business/13UNITED-SUB/13UNITED-SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/business/13UNITED-SUB/13UNITED-SUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Two Big Labor Battles Reach an End at United",
+          "print_headline": "Two Big Labor Battles Reach an End at United"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "United Continental Holdings Inc"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Flight Attendants"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Collective Bargaining"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Labor and Jobs"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Organized Labor"
+          }
+        ],
+        "pub_date": "2016-08-12T23:14:18+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae584e95d0e021d798071a",
+        "word_count": "494",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/olympics/ap-oly-soc-neymars-nemesis.html",
+        "snippet": "The last time Neymar faced Colombia, he was sent off and went on a rant that led to a four-match suspension. The time before, he left the field on a stretcher with an injury that ended his World Cup at home....",
+        "lead_paragraph": "The last time Neymar faced Colombia, he was sent off and went on a rant that led to a four-match suspension. The time before, he left the field on a stretcher with an injury that ended his World Cup at home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Neymar Hoping for Better Luck Against Nemesis Colombia",
+          "print_headline": "Neymar Hoping for Better Luck Against Nemesis Colombia"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:44:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae582295d0e021d7980719",
+        "word_count": "455",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/us/ap-us-ex-sheriff-corruption.html",
+        "snippet": "Former Los Angeles County Sheriff Lee Baca has pleaded not guilty to obstructing a federal probe of jail abuse....",
+        "lead_paragraph": "Former Los Angeles County Sheriff Lee Baca has pleaded not guilty to obstructing a federal probe of jail abuse.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-LA County Sheriff Pleads Not Guilty to Obstructing Feds",
+          "print_headline": "Ex-LA County Sheriff Pleads Not Guilty to Obstructing Feds"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T23:11:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae57fb95d0e021d7980718",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/olympics/ap-oly-box-women-begin.html",
+        "snippet": "Mandy Bujold and Mikaela Mayer barely missed out on the debut of women's boxing at the London Olympics....",
+        "lead_paragraph": "Mandy Bujold and Mikaela Mayer barely missed out on the debut of women's boxing at the London Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Fighting Back: Women's Boxing Begins Encore in Rio Olympics",
+          "print_headline": "Fighting Back: Women's Boxing Begins Encore in Rio Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:31:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae576a95d0e021d7980717",
+        "word_count": "698",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/12/sports/olympics/ap-oly-tim-dahlberg.html",
+        "snippet": "At these Olympics, it's not always the grass that's greener on the other side....",
+        "lead_paragraph": "At these Olympics, it's not always the grass that's greener on the other side.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: Not Easy Going Green at the Olympic Diving Pool",
+          "print_headline": "Column: Not Easy Going Green at the Olympic Diving Pool"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-12T22:31:51Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ae576895d0e021d7980716",
+        "word_count": "687",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/13/opinion/the-upside-to-a-rod.html",
+        "snippet": "After an ignominious departure, a shot at redemption for Alex Rodriguez....",
+        "lead_paragraph": "After an ignominious departure, a shot at redemption for Alex Rodriguez.",
+        "abstract": "Op-Ed article by baseball analyst Doug Glanville contends Alex Rodriguez has been given valuable opportunity for redemption despite his sudden dismissal by New York Yankees; holds Rodriguez can be positive influence on younger players by being candid about his previous use of performance-enhancing drugs.",
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/13/opinion/13glanvilleweb/13glanvilleweb-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/13/opinion/13glanvilleweb/13glanvilleweb-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/13/opinion/13glanvilleweb/13glanvilleweb-articleLarge.jpg",
+            "height": 412,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/13/opinion/13glanvilleweb/13glanvilleweb-articleLarge.jpg",
+              "xlargeheight": "412"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/13/opinion/13glanvilleweb/13glanvilleweb-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/13/opinion/13glanvilleweb/13glanvilleweb-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Upside to A-Rod",
+          "content_kicker": "Contributing Op-Ed Writer",
+          "kicker": "Op-Ed | Doug Glanville",
+          "print_headline": "The Upside to A-Rod"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rodriguez, Alex"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "New York Yankees"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Doping (Sports)"
+          }
+        ],
+        "pub_date": "2016-08-12T23:04:39+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Doug",
+              "rank": 1,
+              "lastname": "GLANVILLE"
+            }
+          ],
+          "original": "By DOUG GLANVILLE"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "57ae561095d0e021d7980715",
+        "word_count": "821",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

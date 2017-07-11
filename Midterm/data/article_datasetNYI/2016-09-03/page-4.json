@@ -1,0 +1,453 @@
+{
+  "response": {
+    "meta": {
+      "hits": 422,
+      "time": 52,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/03/us/ap-us-fair-riders-injured.html",
+        "snippet": "Eight people were taken to hospitals after a ride shut down at the Delta Fair in Memphis, officials said Saturday....",
+        "lead_paragraph": "Eight people were taken to hospitals after a ride shut down at the Delta Fair in Memphis, officials said Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Some Taken to Hospital After Exiting Delta Fair Ride",
+          "print_headline": "Some Taken to Hospital After Exiting Delta Fair Ride"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T21:06:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb3c2195d0e021d7984417",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/03/world/americas/ap-lt-guatemala-massacre-documentary.html",
+        "snippet": "Ramiro Osorio still has vivid memories of the day that death came to his village of Las Dos Erres over 30 years ago at the height of Guatemala's decades-long civil war....",
+        "lead_paragraph": "Ramiro Osorio still has vivid memories of the day that death came to his village of Las Dos Erres over 30 years ago at the height of Guatemala's decades-long civil war.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "'Finding Oscar' Documents 1982 Guatemala Massacre, Fallout",
+          "print_headline": "'Finding Oscar' Documents 1982 Guatemala Massacre, Fallout"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T21:02:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb3b6b95d0e021d7984416",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004627073/protesters-chase-venezuelan-president.html",
+        "snippet": "President Nicol\u00e1s Maduro was chased at a routine political event by angry protesters banging on pots and yelling that they were hungry....",
+        "lead_paragraph": "President Nicol\u00e1s Maduro was chased at a routine political event by angry protesters banging on pots and yelling that they were hungry.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/03/multimedia/04venezuela/04venezuela-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/03/multimedia/04venezuela/04venezuela-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/03/multimedia/04venezuela/04venezuela-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/03/multimedia/04venezuela/04venezuela-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/03/multimedia/04venezuela/04venezuela-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/03/multimedia/04venezuela/04venezuela-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Protesters Chase Venezuelan President"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Maduro, Nicolas"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Venezuela"
+          }
+        ],
+        "pub_date": "2016-09-03T20:47:17Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57cb371095d0e021d7984414",
+        "word_count": "22",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/03/sports/ap-car-indycar-watkins-glen.html",
+        "snippet": "Scott Dixon won the IndyCar pole at Watkins Glen International on Saturday for the Grand Prix at The Glen in a penalty-filled affair....",
+        "lead_paragraph": "Scott Dixon won the IndyCar pole at Watkins Glen International on Saturday for the Grand Prix at The Glen in a penalty-filled affair.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Scott Dixon Wins IndyCar Pole at Watkins Glen",
+          "print_headline": "Scott Dixon Wins IndyCar Pole at Watkins Glen"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T20:35:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb345a95d0e021d7984412",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/03/sports/football/ap-fbn-broncos-cuts.html",
+        "snippet": "Mark Sanchez, Denver's biggest offseason acquisition, didn't make the roster Saturday, saving the Broncos $3.5 million and a seventh-round draft pick. Sanchez quickly agreed to a deal with the Dallas Cowboys....",
+        "lead_paragraph": "Mark Sanchez, Denver's biggest offseason acquisition, didn't make the roster Saturday, saving the Broncos $3.5 million and a seventh-round draft pick. Sanchez quickly agreed to a deal with the Dallas Cowboys.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Broncos Cut QB Mark Sanchez",
+          "print_headline": "Broncos Cut QB Mark Sanchez"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T20:31:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb33a595d0e021d7984410",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/03/us/ap-us-odd-bees-swarm-police-station.html",
+        "snippet": "A Pennsylvania police station has reopened after being cleared of a swarm of bees that forced officers to abandon the post....",
+        "lead_paragraph": "A Pennsylvania police station has reopened after being cleared of a swarm of bees that forced officers to abandon the post.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Station Opens After Invading Bees Removed",
+          "print_headline": "Police Station Opens After Invading Bees Removed"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T19:27:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb33aa95d0e021d7984411",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/03/sports/soccer/03reuters-soccer-africa-nations.html",
+        "snippet": "Holders Ivory Coast booked their place in next year&#8217;s African Nations Cup finals as Jonathan Kodjia scored a spectacular goal to secure a draw against Sierra Leone in Bouake on Saturday....",
+        "lead_paragraph": "Holders Ivory Coast booked their place in next year&#8217;s African Nations Cup finals as Jonathan Kodjia scored a spectacular goal to secure a draw against Sierra Leone in Bouake on Saturday.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Holders Ivory Coast Book Place at Nations Cup Finals",
+          "print_headline": "Holders Ivory Coast Book Place at Nations Cup Finals"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T20:31:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb33a195d0e021d798440f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/03/us/03reuters-south-carolina-clowns.html",
+        "snippet": "One clown showed up on a roadside in a rain poncho, another waved money at children near woods....",
+        "lead_paragraph": "One clown showed up on a roadside in a rain poncho, another waved money at children near woods.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Clown Sightings Spook South Carolina, Perplex Police",
+          "print_headline": "Clown Sightings Spook South Carolina, Perplex Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T20:28:22Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb32ea95d0e021d798440e",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/03/world/americas/ap-cb-jamaica-lottery-scam-arrests.html",
+        "snippet": "Sixteen people arrested for allegedly defrauding U.S. citizens will appear in court this month as Jamaican authorities take aim at lottery scam gangs that they blame for much of the island nation's violent crime....",
+        "lead_paragraph": "Sixteen people arrested for allegedly defrauding U.S. citizens will appear in court this month as Jamaican authorities take aim at lottery scam gangs that they blame for much of the island nation's violent crime.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Jamaica to Prosecute 16 People on Lottery Scam Charges",
+          "print_headline": "Jamaica to Prosecute 16 People on Lottery Scam Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-03T20:25:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb323c95d0e021d798440d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/04/us/politics/donald-trump-black-voters-detroit.html",
+        "snippet": "Mr. Trump expressed empathy with African-Americans, but did not address what has made him so unpopular with them, like his real estate company\u2019s discriminating against black tenants....",
+        "lead_paragraph": "Mr. Trump expressed empathy with African-Americans, but did not address what has made him so unpopular with them, like his real estate company\u2019s discriminating against black tenants.",
+        "abstract": "Donald Trump, who is deeply unpopular with black voters and has been accused of racism, visits Great Faith Ministries International, black church in Detroit; declines to address issues that have put him at odds with black community and instead simply praises Christian values and pledges to make lives of black Americans better.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/04/us/04TRUMPCHURCH1-SUB/04TRUMPCHURCH1-SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/04/us/04TRUMPCHURCH1-SUB/04TRUMPCHURCH1-SUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/04/us/04TRUMPCHURCH1-SUB/04TRUMPCHURCH1-SUB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/04/us/04TRUMPCHURCH1-SUB/04TRUMPCHURCH1-SUB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/04/us/04TRUMPCHURCH1-SUB/04TRUMPCHURCH1-SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/04/us/04TRUMPCHURCH1-SUB/04TRUMPCHURCH1-SUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Seeking Support and Invoking Faith, Donald Trump Visits a Black Church for the First Time",
+          "print_headline": "Trump Visits  Black Church for First Time"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Carson, Benjamin S"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Detroit (Mich)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Christians and Christianity"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Discrimination"
+          }
+        ],
+        "pub_date": "2016-09-03T20:24:46+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "Yamiche Alcindor reported from Detroit, and Alexander Burns from New York.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Yamiche",
+              "rank": 1,
+              "lastname": "ALCINDOR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexander",
+              "rank": 2,
+              "lastname": "BURNS"
+            }
+          ],
+          "original": "By YAMICHE ALCINDOR and ALEXANDER BURNS"
+        },
+        "type_of_material": "News",
+        "_id": "57cb319895d0e021d798440c",
+        "word_count": "1154",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

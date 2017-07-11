@@ -1,0 +1,561 @@
+{
+  "response": {
+    "meta": {
+      "hits": 618,
+      "time": 63,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/technology/personaltech/fighting-ios-calendar-spam.html",
+        "snippet": "Unsolicited invitations sent to your calendar program are yet another way junk mailers try to get your attention, but you have some ways to dodge it....",
+        "lead_paragraph": "Unsolicited invitations sent to your calendar program are yet another way junk mailers try to get your attention, but you have some ways to dodge it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Fighting iOS Calendar Spam",
+          "content_kicker": "Tech Tip",
+          "kicker": "Tech Tip"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mobile Applications"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Spam (Electronic)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Apple Inc"
+          }
+        ],
+        "pub_date": "2016-11-25T22:31:39+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": "Personal Tech",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "J.",
+              "rank": 1
+            }
+          ],
+          "original": "By J. D. BIERSDORFER"
+        },
+        "type_of_material": "Question",
+        "_id": "5838bbd295d0e03926072888",
+        "word_count": "418",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/technology/personaltech/build-your-own-computer.html",
+        "snippet": "You can put your own computer hardware together from a kit or a collection of parts and you might even be able to run Windows on it....",
+        "lead_paragraph": "You can put your own computer hardware together from a kit or a collection of parts and you might even be able to run Windows on it.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Build Your Own Computer",
+          "content_kicker": "Tech Tip",
+          "kicker": "Tech Tip"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Do It Yourself"
+          }
+        ],
+        "pub_date": "2016-11-25T22:29:40+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": "Personal Tech",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "J.",
+              "rank": 1
+            }
+          ],
+          "original": "By J. D. BIERSDORFER"
+        },
+        "type_of_material": "Question",
+        "_id": "5838bb5c95d0e03926072887",
+        "word_count": "463",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/arts/music/remember-when-figaro-was-set-in-trump-tower.html",
+        "snippet": "Peter Sellars on his Reagan-era staging of \u201cLe Nozze di Figaro\u201d (1988), why he chose the setting, and what Mozart was saying about money, class and power....",
+        "lead_paragraph": "Peter Sellars on his Reagan-era staging of \u201cLe Nozze di Figaro\u201d (1988), why he chose the setting, and what Mozart was saying about money, class and power.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/26/arts/26TRUMPOPERAJP/26TRUMPOPERAJP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/26/arts/26TRUMPOPERAJP/26TRUMPOPERAJP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/26/arts/26TRUMPOPERAJP/26TRUMPOPERAJP-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/26/arts/26TRUMPOPERAJP/26TRUMPOPERAJP-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/26/arts/26TRUMPOPERAJP/26TRUMPOPERAJP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/26/arts/26TRUMPOPERAJP/26TRUMPOPERAJP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Remember When \u2018Figaro\u2019 Was Set in Trump Tower?",
+          "print_headline": "Remember  the \u2018Figaro\u2019 a la Trump?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Trump Tower (Manhattan, NY)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sellars, Peter"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Mozart, Wolfgang Amadeus"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Le Nozze di Figaro (Opera)"
+          }
+        ],
+        "pub_date": "2016-11-25T22:25:37+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By MICHAEL COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "5838ba6995d0e03926072886",
+        "word_count": "1096",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/25/us/25reuters-usa-election-recount-wisconsin.html",
+        "snippet": "The organization behind the presidential campaign for Green Party candidate Jill Stein, along with one other group, on Friday filed a petition with the Wisconsin Elections Commission for a recount of votes in the Nov. 8 election, the commission sa...",
+        "lead_paragraph": "The organization behind the presidential campaign for Green Party candidate Jill Stein, along with one other group, on Friday filed a petition with the Wisconsin Elections Commission for a recount of votes in the Nov. 8 election, the commission said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Green Party Files for Vote Recount in Wisconsin: State Election Commission",
+          "print_headline": "Green Party Files for Vote Recount in Wisconsin: State Election Commission"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T22:21:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5838b97795d0e03926072885",
+        "word_count": "82",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/25/sports/soccer/25reuters-soccer-germany-bay-hoeness.html",
+        "snippet": "Uli Hoeness, who was released from prison in February after serving a sentence for tax evasion, made a triumphant return to Bayern Munich as club president on Friday after being re-elected unopposed....",
+        "lead_paragraph": "Uli Hoeness, who was released from prison in February after serving a sentence for tax evasion, made a triumphant return to Bayern Munich as club president on Friday after being re-elected unopposed.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Hoeness Reclaims Bayern Presidency After Prison Term",
+          "print_headline": "Hoeness Reclaims Bayern Presidency After Prison Term"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T22:21:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5838b97595d0e03926072884",
+        "word_count": "267",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/25/world/europe/francois-fillon-france-election.html",
+        "snippet": "Fran\u00e7ois Fillon\u2019s promises to limit immigration and protect conservative values in France have helped propel him to the front of the presidential field....",
+        "lead_paragraph": "Fran\u00e7ois Fillon\u2019s promises to limit immigration and protect conservative values in France have helped propel him to the front of the presidential field.",
+        "abstract": "Former French Prime Min Francois Fillon has emerged as surprise front-runner in runoff presidential election as right-center Republican Party prepares to choose its standard-bearer for 2017; Fillon has managed to ride nationalist and xenophobic wave that has propelled politicians in United States and Britain to power.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/26/world/26Fillon2/26Fillon2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/26/world/26Fillon2/26Fillon2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/26/world/26Fillon2/26Fillon2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/26/world/26Fillon2/26Fillon2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/26/world/26Fillon2/26Fillon2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/26/world/26Fillon2/26Fillon2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Candidate Rises on Vows to Control Islam and Immigration. This Time in France.",
+          "print_headline": "Populist Flair in France Lifts a Bid to Lead"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Fillon, Francois"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Juppe, Alain"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Le Pen, Marine"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          }
+        ],
+        "pub_date": "2016-11-25T22:19:35+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 1,
+              "lastname": "NOSSITER"
+            }
+          ],
+          "original": "By ADAM NOSSITER"
+        },
+        "type_of_material": "News",
+        "_id": "5838b8ff95d0e03926072883",
+        "word_count": "1336",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/25/business/ap-us-gov-finances.html",
+        "snippet": "Figures on government spending and debt in millions of dollars. The government's fiscal year runs Oct. 1 through Sept. 30....",
+        "lead_paragraph": "Figures on government spending and debt in millions of dollars. The government's fiscal year runs Oct. 1 through Sept. 30.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Figures on Government Spending and Debt",
+          "print_headline": "Figures on Government Spending and Debt"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T22:18:42+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5838b8ca95d0e03926072882",
+        "word_count": "108",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/25/world/europe/25reuters-centralafrica-un.html",
+        "snippet": "The United Nations' top genocide official said on Friday he had reports that militia fighters in Central African Republic hunted down and massacred members of the Fulani ethnic group during violence that killed 85 civilians this week....",
+        "lead_paragraph": "The United Nations' top genocide official said on Friday he had reports that militia fighters in Central African Republic hunted down and massacred members of the Fulani ethnic group during violence that killed 85 civilians this week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Rebels Targeted Ethnic Fulanis in Central African Republic Town",
+          "print_headline": "Rebels Targeted Ethnic Fulanis in Central African Republic Town"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T22:18:27+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5838b8bf95d0e03926072881",
+        "word_count": "397",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/11/25/realestate/living-in-takoma-park-md.html",
+        "snippet": "Founded in 1981, the Takoma Park-Silver Spring Food Co-op captures the community spirit of Takoma Park, Md....",
+        "lead_paragraph": "Founded in 1981, the Takoma Park-Silver Spring Food Co-op captures the community spirit of Takoma Park, Md.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/27/realestate/27NATLIVING-TAKOMA-PARK-slide-04KM/27NATLIVING-TAKOMA-PARK-slide-04KM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/27/realestate/27NATLIVING-TAKOMA-PARK-slide-04KM/27NATLIVING-TAKOMA-PARK-slide-04KM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/27/realestate/27NATLIVING-TAKOMA-PARK-slide-04KM/27NATLIVING-TAKOMA-PARK-slide-04KM-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/27/realestate/27NATLIVING-TAKOMA-PARK-slide-04KM/27NATLIVING-TAKOMA-PARK-slide-04KM-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/27/realestate/27NATLIVING-TAKOMA-PARK-slide-04KM/27NATLIVING-TAKOMA-PARK-slide-04KM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/27/realestate/27NATLIVING-TAKOMA-PARK-slide-04KM/27NATLIVING-TAKOMA-PARK-slide-04KM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Living in Takoma Park, Md."
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T22:18:09+0000",
+        "document_type": "multimedia",
+        "news_desk": "Real Estate",
+        "section_name": "Real Estate",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "5838b8b095d0e03926072880",
+        "word_count": "17",
+        "slideshow_credits": "Lexey Swall for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/25/world/ap-cn-canada-anchor-hijab.html",
+        "snippet": "A Toronto television journalist is believed to be Canada's first anchor to don a Muslim head scarf at one of the city's major news broadcasters....",
+        "lead_paragraph": "A Toronto television journalist is believed to be Canada's first anchor to don a Muslim head scarf at one of the city's major news broadcasters.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Reporter Becomes Canada's First Hijab-Clad News Anchor",
+          "print_headline": "Reporter Becomes Canada's First Hijab-Clad News Anchor"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-25T22:03:59+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5838b55695d0e0392607287f",
+        "word_count": "404",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

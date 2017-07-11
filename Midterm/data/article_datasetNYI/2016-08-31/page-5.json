@@ -1,0 +1,734 @@
+{
+  "response": {
+    "meta": {
+      "hits": 925,
+      "time": 26,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/09/01/world/europe/wikileaks-julian-assange-russia.html",
+        "snippet": "American officials say Mr. Assange and WikiLeaks probably have no direct ties to Russian intelligence services. But the agendas of WikiLeaks and the Kremlin have often dovetailed....",
+        "lead_paragraph": "American officials say Mr. Assange and WikiLeaks probably have no direct ties to Russian intelligence services. But the agendas of WikiLeaks and the Kremlin have often dovetailed.",
+        "abstract": "Examination by The New York Times of activities of WikiLeaks during founder Julian Assange's years in exile reveals organization's document releases have often benefited Russia; American officials believe that there are no direct ties between Russia and organization, which has been of concern due to possibility Russia is trying to influence presidential election with leaks related to hacking of Democratic National Committee emails; Assange says link to Russia is being advanced by Hillary Clinton and Democrats.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/30/world/asssange-web1/asssange-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/30/world/asssange-web1/asssange-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/30/world/asssange-web1/asssange-web1-articleLarge.jpg",
+            "height": 421,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/30/world/asssange-web1/asssange-web1-articleLarge.jpg",
+              "xlargeheight": "421"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/30/world/asssange-web1/asssange-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/30/world/asssange-web1/asssange-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How Russia Often Benefits When Julian Assange Reveals the West\u2019s Secrets",
+          "print_headline": "How Russia Often Benefits as Assange Reveals Secrets"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Assange, Julian P"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Surveillance of Citizens by Government"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Panama Papers"
+          },
+          {
+            "rank": "15",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cyberwarfare and Defense"
+          },
+          {
+            "rank": "16",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "17",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Sex Crimes"
+          },
+          {
+            "rank": "18",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "19",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "20",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "21",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Democratic National Committee"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "WikiLeaks"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classified Information and State Secrets"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Snowden, Edward J"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Whistle-Blowers"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Espionage and Intelligence Services"
+          }
+        ],
+        "pub_date": "2016-08-31T22:15:48+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jo",
+              "rank": 1,
+              "lastname": "BECKER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Steven",
+              "rank": 2,
+              "lastname": "ERLANGER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 3,
+              "lastname": "SCHMITT"
+            }
+          ],
+          "original": "By JO BECKER, STEVEN ERLANGER and ERIC SCHMITT"
+        },
+        "type_of_material": "News",
+        "_id": "57c7572295d0e021d7983b0b",
+        "word_count": "5301",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/01/us/politics/dnc-hack-russia.html",
+        "snippet": "A tangle of questions about what might connect Guccifer, the Russians, WikiLeaks and the Democratic National Committee....",
+        "lead_paragraph": "A tangle of questions about what might connect Guccifer, the Russians, WikiLeaks and the Democratic National Committee.",
+        "abstract": "American intelligence agencies are still trying to determine how documents from Democratic National Committee by hacker known as Guccifer 2.0 made their way to WikiLeaks, which published them; agencies believe Guccifer 2.0 is agent of Russian military intelligence service.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/31/world/assange-sidebar1/assange-sidebar1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/31/world/assange-sidebar1/assange-sidebar1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/31/world/assange-sidebar1/assange-sidebar1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/31/world/assange-sidebar1/assange-sidebar1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/31/world/assange-sidebar1/assange-sidebar1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/31/world/assange-sidebar1/assange-sidebar1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trying to Smoke Out the Players in the Hacking of the D.N.C.",
+          "print_headline": "Democrats\u2019 Email and a Murky Trail"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Espionage and Intelligence Services"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Democratic National Committee"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "WikiLeaks"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cyberwarfare and Defense"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-08-31T22:13:58+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "David E. Sanger contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "SCHMITT"
+            }
+          ],
+          "original": "By ERIC SCHMITT"
+        },
+        "type_of_material": "News",
+        "_id": "57c756ad95d0e021d7983b0a",
+        "word_count": "450",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/31/world/ap-un-united-nations-oil-pipeline-protest.html",
+        "snippet": "The Standing Rock Sioux Tribe must have a say with regard to a $3.8 billion oil pipeline that could disturb sacred sites and impact drinking water for 8,000 tribal members, representatives of the United Nations Permanent Forum on Indigenous Issues...",
+        "lead_paragraph": "The Standing Rock Sioux Tribe must have a say with regard to a $3.8 billion oil pipeline that could disturb sacred sites and impact drinking water for 8,000 tribal members, representatives of the United Nations Permanent Forum on Indigenous Issues said Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Body Says Sioux Must Have Say in Pipeline Project",
+          "print_headline": "UN Body Says Sioux Must Have Say in Pipeline Project"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T22:10:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7568895d0e021d7983b09",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/31/sports/soccer/31reuters-soccer-romania.html",
+        "snippet": "Romania midfielder Andrei Prepelita joined Russian side Rostov from Bulgarian champions Ludogorets on Wednesday in a bid to resurrect his career....",
+        "lead_paragraph": "Romania midfielder Andrei Prepelita joined Russian side Rostov from Bulgarian champions Ludogorets on Wednesday in a bid to resurrect his career.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Romania Midfielder Prepelita Joins Rostov From Ludogorets",
+          "print_headline": "Romania Midfielder Prepelita Joins Rostov From Ludogorets"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T22:07:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c755af95d0e021d7983b07",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/31/us/31reuters-pennsylvania-crime.html",
+        "snippet": "Kevin Ewing was supposed to be under house arrest on Tuesday, after he was charged last month with holding his wife hostage for two weeks, brutalizing her and threatening to kill her....",
+        "lead_paragraph": "Kevin Ewing was supposed to be under house arrest on Tuesday, after he was charged last month with holding his wife hostage for two weeks, brutalizing her and threatening to kill her.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Pennsylvania Man Suspected of Killing Wife After Escaping House Arrest",
+          "print_headline": "Pennsylvania Man Suspected of Killing Wife After Escaping House Arrest"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T22:06:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c755b395d0e021d7983b08",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/31/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-articleLarge.jpg",
+            "height": 386,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-articleLarge.jpg",
+              "xlargeheight": "386"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c7543895d0e021d7983b06",
+        "word_count": "12",
+        "slideshow_credits": "Rodrigo Cruz for The New York Times"
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/31/world/americas/ap-lt-brazil-political-crisis-presidential-bios.html",
+        "snippet": "For years, President Dilma Rousseff and Vice President Michel Temer had a political partnership of convenience. From different parties, they ran on the same presidential ticket and served together for more than half a decade....",
+        "lead_paragraph": "For years, President Dilma Rousseff and Vice President Michel Temer had a political partnership of convenience. From different parties, they ran on the same presidential ticket and served together for more than half a decade.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazil's Ousted and Incoming Leaders Go From Allies to Foes",
+          "print_headline": "Brazil's Ousted and Incoming Leaders Go From Allies to Foes"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T21:54:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c7534a95d0e021d7983b05",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/31/sports/basketball/ap-bkn-lakers-training-complex.html",
+        "snippet": "After Kobe Bryant's retirement and the worst season in team history, the Los Angeles Lakers' quest to rebuild a championship franchise is finally beginning in earnest....",
+        "lead_paragraph": "After Kobe Bryant's retirement and the worst season in team history, the Los Angeles Lakers' quest to rebuild a championship franchise is finally beginning in earnest.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Excited Lakers Provide Early Look at New Training Center",
+          "print_headline": "Excited Lakers Provide Early Look at New Training Center"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T21:54:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c752f995d0e021d7983b04",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/americas/100000004621625/mexicans-react-to-trumps-visit.html",
+        "snippet": "Residents of Mexico are not amused by Donald Trump\u2019s visit to the country hours before his speech in the United States on immigration....",
+        "lead_paragraph": "Residents of Mexico are not amused by Donald Trump\u2019s visit to the country hours before his speech in the United States on immigration.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/31/multimedia/01mexico-protests/01mexico-protests-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/31/multimedia/01mexico-protests/01mexico-protests-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/31/multimedia/01mexico-protests/01mexico-protests-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/31/multimedia/01mexico-protests/01mexico-protests-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/31/multimedia/01mexico-protests/01mexico-protests-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/31/multimedia/01mexico-protests/01mexico-protests-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mexicans React to Trump\u2019s Visit"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Reuters Group PLC"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mexico"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Illegal Immigration"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          }
+        ],
+        "pub_date": "2016-08-31T21:55:57Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Americas",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Neeti",
+              "rank": 1,
+              "lastname": "Upadhye"
+            }
+          ],
+          "original": "By Neeti Upadhye"
+        },
+        "type_of_material": "Video",
+        "_id": "57c7529395d0e021d7983b03",
+        "word_count": "23",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/31/briefing/donald-trump-dilma-rousseff-cuba.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-articleLarge.jpg",
+            "height": 386,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-articleLarge.jpg",
+              "xlargeheight": "386"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/31/nytnow/31eveningss-slide-P8V5/31eveningss-slide-P8V5-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump, Dilma Rousseff, Cuba: Your Wednesday Evening Briefing",
+          "print_headline": "Your Wednesday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-31T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57c7527595d0e021d7983b02",
+        "word_count": "856",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

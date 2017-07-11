@@ -1,0 +1,434 @@
+{
+  "response": {
+    "meta": {
+      "hits": 889,
+      "time": 37,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/us/ap-us-aleutians-sinking-fishing-vessel.html",
+        "snippet": "Two Good Samaritan vessels rescued 46 people Tuesday night who abandoned their sinking fishing boat in the Bering Sea off Alaska's Aleutian Islands, the Coast Guard said....",
+        "lead_paragraph": "Two Good Samaritan vessels rescued 46 people Tuesday night who abandoned their sinking fishing boat in the Bering Sea off Alaska's Aleutian Islands, the Coast Guard said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Coast Guard: 46 People Rescued From Sinking Boat Off Alaska",
+          "print_headline": "Coast Guard: 46 People Rescued From Sinking Boat Off Alaska"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:54:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5798071f38f0d860009228c8",
+        "word_count": "375",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/sports/football/ap-fbn-broncos-lynch.html",
+        "snippet": "Rookie Paxton Lynch insists he shouldn't be counted out from the Denver Broncos' quarterback competition....",
+        "lead_paragraph": "Rookie Paxton Lynch insists he shouldn't be counted out from the Denver Broncos' quarterback competition.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Broncos Rookie QB Insists He Can Win the Starting Job",
+          "print_headline": "Broncos Rookie QB Insists He Can Win the Starting Job"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:52:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5798065338f0d860009228c5",
+        "word_count": "464",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004553385/clinton-is-nominated-aided-by-sanders.html",
+        "snippet": "In a gesture meant to unite the party, Senator Bernie Sanders asked that Hillary Clinton be nominated by acclamation during the roll call vote at the Democratic National Convention....",
+        "lead_paragraph": "In a gesture meant to unite the party, Senator Bernie Sanders asked that Hillary Clinton be nominated by acclamation during the roll call vote at the Democratic National Convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/27/us/elections/27convention-sub1/27convention-sub1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/27/us/elections/27convention-sub1/27convention-sub1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/27/us/elections/27convention-sub1/27convention-sub1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/27/us/elections/27convention-sub1/27convention-sub1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/27/us/elections/27convention-sub1/27convention-sub1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/27/us/elections/27convention-sub1/27convention-sub1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Clinton Is Nominated, Aided by Sanders"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Sanders, Bernard"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democratic National Convention"
+          }
+        ],
+        "pub_date": "2016-07-26T20:49:08Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1
+            }
+          ],
+          "original": "By MICHAEL D. SHEAR and QUYNHANH DO"
+        },
+        "type_of_material": "Video",
+        "_id": "5798053738f0d860009228c4",
+        "word_count": "29",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/27/business/media/tv-psychic-miss-cleo-dies.html",
+        "snippet": "Ms. Harris\u2019s Jamaican-accented character entered America\u2019s pop culture zeitgeist in the late \u201990s with the catchphrase, \u201cCall me now!\u201d...",
+        "lead_paragraph": "Ms. Harris\u2019s Jamaican-accented character entered America\u2019s pop culture zeitgeist in the late \u201990s with the catchphrase, \u201cCall me now!\u201d",
+        "abstract": "Youree Dell Harris, better known as Miss Cleo, star of Psychic Readers Network, dies at age 53.",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/26/obituaries/27xp-MISSCLEO-obit/27xp-MISSCLEO-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/26/obituaries/27xp-MISSCLEO-obit/27xp-MISSCLEO-obit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/26/obituaries/27xp-MISSCLEO-obit/27xp-MISSCLEO-obit-articleLarge.jpg",
+            "height": 724,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/26/obituaries/27xp-MISSCLEO-obit/27xp-MISSCLEO-obit-articleLarge.jpg",
+              "xlargeheight": "724"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/26/obituaries/27xp-MISSCLEO-obit/27xp-MISSCLEO-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/26/obituaries/27xp-MISSCLEO-obit/27xp-MISSCLEO-obit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Youree Dell Harris, the TV Psychic Miss Cleo, Dies at 53",
+          "print_headline": "Youree Dell Harris, 53, TV\u2019s Psychic Miss Cleo"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Harris, Youree Dell (1962-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Psychics and Fortune Tellers"
+          }
+        ],
+        "pub_date": "2016-07-26T20:47:51+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "contributor": "Doris Burke contributed research.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Katie",
+              "rank": 1,
+              "lastname": "ROGERS"
+            }
+          ],
+          "original": "By KATIE ROGERS"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "5797cc7b38f0d86000922844",
+        "word_count": "628",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/world/americas/ap-lt-panama-canal-scrape.html",
+        "snippet": "Panama Canal authorities say a Chinese container ship's damaging scrape with the canal's new wider locks was caused by bad weather and the vessel not lining up correctly....",
+        "lead_paragraph": "Panama Canal authorities say a Chinese container ship's damaging scrape with the canal's new wider locks was caused by bad weather and the vessel not lining up correctly.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Authorities Blame Weather for Panama Canal Ship Scrape",
+          "print_headline": "Authorities Blame Weather for Panama Canal Ship Scrape"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:42:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5798045e38f0d860009228c1",
+        "word_count": "109",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/world/americas/ap-un-united-nations-secretary-general-olympics.html",
+        "snippet": "Secretary-General Ban Ki-moon is calling for an Olympic truce and urging all warring parties to lay down their weapons and put aside difference during the upcoming summer games in Rio de Janeiro....",
+        "lead_paragraph": "Secretary-General Ban Ki-moon is calling for an Olympic truce and urging all warring parties to lay down their weapons and put aside difference during the upcoming summer games in Rio de Janeiro.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Secretary-General Calls for Truce During Rio Olympics",
+          "print_headline": "UN Secretary-General Calls for Truce During Rio Olympics"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:27:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579800cf38f0d860009228bc",
+        "word_count": "125",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/world/americas/ap-lt-honduras-zika.html",
+        "snippet": "Honduras' health minister says eight babies with severe birth defects linked to the Zika virus have been born in the Central American country....",
+        "lead_paragraph": "Honduras' health minister says eight babies with severe birth defects linked to the Zika virus have been born in the Central American country.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Honduras Reports 8 Babies Born With Zika-Related Defects",
+          "print_headline": "Honduras Reports 8 Babies Born With Zika-Related Defects"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:29:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579800bc38f0d860009228bb",
+        "word_count": "127",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/26/technology/26reuters-logmein-m-a-citrix-systems.html",
+        "snippet": "LogMeIn Inc and a unit of Citrix Systems Inc that makes software products such as GoToMeeting said on Tuesday they are merging in an all-stock deal to create a $1.8 billion company focused on technology applications for the workplace....",
+        "lead_paragraph": "LogMeIn Inc and a unit of Citrix Systems Inc that makes software products such as GoToMeeting said on Tuesday they are merging in an all-stock deal to create a $1.8 billion company focused on technology applications for the workplace. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "LogMeIn to Merge With Citrix's GoTo Unit in All-Stock Deal",
+          "print_headline": "LogMeIn to Merge With Citrix's GoTo Unit in All-Stock Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:26:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579800ac38f0d860009228ba",
+        "word_count": "411",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/sports/tennis/ap-ten-montreal.html",
+        "snippet": "Eugenie Bouchard reconnected with her hometown fans with an impressive first-round victory at the women's Rogers Cup on Tuesday....",
+        "lead_paragraph": "Eugenie Bouchard reconnected with her hometown fans with an impressive first-round victory at the women's Rogers Cup on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bouchard Earns 3-Set Victory in Montreal",
+          "print_headline": "Bouchard Earns 3-Set Victory in Montreal"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:24:52Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5798002538f0d860009228b9",
+        "word_count": "918",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/26/sports/football/ap-fbn-rams-rookies-arrive.html",
+        "snippet": "Jared Goff showed up to the UC Irvine dorms a bit ahead of his fellow rookies Tuesday, getting a quick start on his first training camp with the Los Angeles Rams....",
+        "lead_paragraph": "Jared Goff showed up to the UC Irvine dorms a bit ahead of his fellow rookies Tuesday, getting a quick start on his first training camp with the Los Angeles Rams.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jared Goff Leads Rams' Rookies Into Training Camp",
+          "print_headline": "Jared Goff Leads Rams' Rookies Into Training Camp"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-26T20:24:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5798001138f0d860009228b8",
+        "word_count": "608",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

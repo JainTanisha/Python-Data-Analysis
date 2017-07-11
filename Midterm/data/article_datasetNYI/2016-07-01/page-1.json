@@ -1,0 +1,408 @@
+{
+  "response": {
+    "meta": {
+      "hits": 988,
+      "time": 76,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/02/us/reeking-oozing-algae-closes-south-florida-beaches.html",
+        "snippet": "At play are forces that define modern Florida: competing environmental, residential and agricultural interests, and a failure to manage the demands of growth....",
+        "lead_paragraph": "At play are forces that define modern Florida: competing environmental, residential and agricultural interests, and a failure to manage the demands of growth.",
+        "abstract": "Blue and green algae bloom caused by runoff from Lake Okeechobee's aging dike system ran by Army Corps of Engineers shuts down small towns along Florida's coast with its strong smell; environmentalists blame state and federal authorities for diverting flow away from Everglades, where ecosystem would filter out toxins because those areas are controlled by sugar plantations.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/02/us/02florida1/02florida1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/02/us/02florida1/02florida1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/02/us/02florida1/02florida1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/02/us/02florida1/02florida1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/02/us/02florida1/02florida1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/02/us/02florida1/02florida1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Reeking, Oozing Algae Closes South Florida Beaches",
+          "print_headline": "Reeking Algae Closes South Florida Beaches"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Florida"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coastal Areas"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Algae"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Water Pollution"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Army Corps of Engineers"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Scott, Richard L"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Lake Okeechobee (Fla)"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Levees and Dams"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Hazardous and Toxic Substances"
+          }
+        ],
+        "pub_date": "2016-07-01T23:24:11+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Les",
+              "rank": 1,
+              "lastname": "NEUHAUS"
+            }
+          ],
+          "original": "By LES NEUHAUS"
+        },
+        "type_of_material": "News",
+        "_id": "5776fb9f38f0d81f396c04a1",
+        "word_count": "1137",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/world/asia/01reuters-bangladesh-attack-japan.html",
+        "snippet": "A Japanese government spokesman said on Saturday that 12 people had been rescued from a restaurant in Dhaka that was attacked by gunmen, according to Bangladeshi police....",
+        "lead_paragraph": "A Japanese government spokesman said on Saturday that 12 people had been rescued from a restaurant in Dhaka that was attacked by gunmen, according to Bangladeshi police.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Japan Spokesman Says 12 People Rescued From Dhaka Restaurant",
+          "print_headline": "Japan Spokesman Says 12 People Rescued From Dhaka Restaurant"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T23:19:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5777333c38f0d81f396c0506",
+        "word_count": "64",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/baseball/ap-bba-white-sox-astros.html",
+        "snippet": "A veteran of 10 major league seasons, Carlos Gomez insists he didn't panic when he got off to a slow start to begin this year....",
+        "lead_paragraph": "A veteran of 10 major league seasons, Carlos Gomez insists he didn't panic when he got off to a slow start to begin this year.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Gomez Hits 2-Run Homer to Help Astros Over White Sox 5-0",
+          "print_headline": "Gomez Hits 2-Run Homer to Help Astros Over White Sox 5-0"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T23:16:13Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777329638f0d81f396c0505",
+        "word_count": "745",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/us/ap-us-fatal-police-shooting-madison-the-latest.html",
+        "snippet": "The Latest on a man who was fatally shot by a police officer in Madison, Wisconsin (all times local):...",
+        "lead_paragraph": "The Latest on a man who was fatally shot by a police officer in Madison, Wisconsin (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Authorities ID Man Shot by Officer in Wisconsin",
+          "print_headline": "The Latest: Authorities ID Man Shot by Officer in Wisconsin"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T23:14:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5777329038f0d81f396c0504",
+        "word_count": "287",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/baseball/ap-bbn-brewers-cardinals.html",
+        "snippet": "Jaime Garcia said all along there was no reason to panic....",
+        "lead_paragraph": "Jaime Garcia said all along there was no reason to panic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Garcia Goes 8 Innings, Cardinals Beat Brewers 7-1",
+          "print_headline": "Garcia Goes 8 Innings, Cardinals Beat Brewers 7-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T23:11:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "577731e238f0d81f396c0503",
+        "word_count": "634",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/sports/golf/01reuters-golf-lpga.html",
+        "snippet": "Suzann Pettersen delivered the round of the day with an eight-under-par 64 on Friday that tied her for the second-round lead with Brooke Henderson and set up a duel between past champions at the Cambia Portland Classic....",
+        "lead_paragraph": "Suzann Pettersen delivered the round of the day with an eight-under-par 64 on Friday that tied her for the second-round lead with Brooke Henderson and set up a duel between past champions at the Cambia Portland Classic.    ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pettersen Sets Up Hendersen Duel",
+          "print_headline": "Pettersen Sets Up Hendersen Duel"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T23:07:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5777306b38f0d81f396c0502",
+        "word_count": "257",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/olympics/ap-oly-ath-track-trials-berian.html",
+        "snippet": "It's not so much the logo on the outside of the shoes as the feet on the inside that can carry Boris Berian to the Olympics....",
+        "lead_paragraph": "It's not so much the logo on the outside of the shoes as the feet on the inside that can carry Boris Berian to the Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Sole Search: Berian Shines With Nike Lawsuit Behind Him",
+          "print_headline": "Sole Search: Berian Shines With Nike Lawsuit Behind Him"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:56:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57772da538f0d81f396c04ed",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/sports/golf/01reuters-golf-pga-reno.html",
+        "snippet": "Greg Chalmers eased into position for a long-awaited first PGA Tour win on Friday after moving to the top of the leader board at the midway point of the Barracuda Championship in Reno, Nevada....",
+        "lead_paragraph": "Greg Chalmers eased into position for a long-awaited first PGA Tour win on Friday after moving to the top of the leader board at the midway point of the Barracuda Championship in Reno, Nevada.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Tenacity Key for Chalmers as First Tour Win Beckons",
+          "print_headline": "Tenacity Key for Chalmers as First Tour Win Beckons"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:55:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57772d9d38f0d81f396c04ec",
+        "word_count": "325",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/01/world/asia/01reuters-bangladesh-attack-escape.html",
+        "snippet": "One foreigner, probably Japanese, escaped from a restaurant in the Bangladeshi capital on Saturday after police stormed the building to free 20 people trapped inside by gunmen, a police official said....",
+        "lead_paragraph": "One foreigner, probably Japanese, escaped from a restaurant in the Bangladeshi capital on Saturday after police stormed the building to free 20 people trapped inside by gunmen, a police official said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "At Least One Foreigner Escapes From Besieged Dhaka Restaurant: Bangladesh Police",
+          "print_headline": "At Least One Foreigner Escapes From Besieged Dhaka Restaurant: Bangladesh Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:53:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57772ce838f0d81f396c04ea",
+        "word_count": "110",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/01/sports/olympics/ap-oly-ath-us-track-trials.html",
+        "snippet": "Allyson Felix ran through the pain....",
+        "lead_paragraph": "Allyson Felix ran through the pain.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Felix Cruises, Sanya Says Goodbye _ and a Bolt From Jamaica",
+          "print_headline": "Felix Cruises, Sanya Says Goodbye _ and a Bolt From Jamaica"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-01T22:43:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57772ad338f0d81f396c04e9",
+        "word_count": "906",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

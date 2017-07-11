@@ -1,0 +1,410 @@
+{
+  "response": {
+    "meta": {
+      "hits": 881,
+      "time": 38,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/01/us/ap-us-enbridge-sandpiper-pipeline.html",
+        "snippet": "Enbridge Energy said Thursday it has dropped its proposal to build the Sandpiper crude oil pipeline across northern Minnesota....",
+        "lead_paragraph": "Enbridge Energy said Thursday it has dropped its proposal to build the Sandpiper crude oil pipeline across northern Minnesota.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Enbridge Energy Drops Plans for Sandpiper Crude Oil Pipeline",
+          "print_headline": "Enbridge Energy Drops Plans for Sandpiper Crude Oil Pipeline"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:37:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8b1cb95d0e021d7983f27",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004623724/this-weeks-movies-sept-02-2016.html",
+        "snippet": "The New York Times film critics review \u201cWhite Girl,\u201d \u201cThe Light Between Oceans\u201d and \u201cMorgan.\u201d...",
+        "lead_paragraph": "The New York Times film critics review \u201cWhite Girl,\u201d \u201cThe Light Between Oceans\u201d and \u201cMorgan.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/01/multimedia/movies-09022016/movies-09022016-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/01/multimedia/movies-09022016/movies-09022016-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/01/multimedia/movies-09022016/movies-09022016-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/01/multimedia/movies-09022016/movies-09022016-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/01/multimedia/movies-09022016/movies-09022016-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/01/multimedia/movies-09022016/movies-09022016-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "This Week\u2019s Movies | Sept. 02, 2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Morgan (Movie)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "White Girl (Movie)"
+          }
+        ],
+        "pub_date": "2016-09-01T22:51:49+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ainara",
+              "rank": 1,
+              "lastname": "TIEFENTH\u00c4LER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 2,
+              "lastname": "LINDSAY"
+            }
+          ],
+          "original": "By AINARA TIEFENTH\u00c4LER and ROBIN LINDSAY"
+        },
+        "type_of_material": "Video",
+        "_id": "57c8b13f95d0e021d7983f26",
+        "word_count": "15",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/01/us/ap-us-remote-development-fraud-settlement.html",
+        "snippet": "One of two partners in an alleged massive fraud involving development projects in Vermont says he's reached a settlement with the federal Securities and Exchange Commission....",
+        "lead_paragraph": "One of two partners in an alleged massive fraud involving development projects in Vermont says he's reached a settlement with the federal Securities and Exchange Commission.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "One of Two Partners in Fraud Probe Says He Has Deal With SEC",
+          "print_headline": "One of Two Partners in Fraud Probe Says He Has Deal With SEC"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:48:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8b11595d0e021d7983f25",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/01/sports/soccer/01reuters-soccer-world-newzealand.html",
+        "snippet": "Former England manager Peter Taylor has agreed to help New Zealand try to qualify for the 2018 World Cup finals in Russia....",
+        "lead_paragraph": "Former England manager Peter Taylor has agreed to help New Zealand try to qualify for the 2018 World Cup finals in Russia.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Former England Manager Taylor to Help New Zealand Qualify for Russia",
+          "print_headline": "Former England Manager Taylor to Help New Zealand Qualify for Russia"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:50:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8b0f895d0e021d7983f24",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/01/us/ap-us-california-legislature-liberal-agenda.html",
+        "snippet": "In a story Sept. 1 about the California Legislature's liberal agenda, The Associated Press erroneously identified the California director for the National Federation of Independent Business. He is Tom Scott, not Tim Scott....",
+        "lead_paragraph": "In a story Sept. 1 about the California Legislature's liberal agenda, The Associated Press erroneously identified the California director for the National Federation of Independent Business. He is Tom Scott, not Tim Scott.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Correction: California Legislature-Liberal Agenda Story",
+          "print_headline": "Correction: California Legislature-Liberal Agenda Story"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:46:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8b08495d0e021d7983f23",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/01/us/ap-us-pipeline-protest-sakakawea.html",
+        "snippet": "An oil-rich American Indian tribe in North Dakota was handed a setback Thursday in its fight against a Texas company building oil and natural gas pipelines beneath a lake on its reservation....",
+        "lead_paragraph": "An oil-rich American Indian tribe in North Dakota was handed a setback Thursday in its fight against a Texas company building oil and natural gas pipelines beneath a lake on its reservation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Won't Immediately Stop Pipeline Construction",
+          "print_headline": "Judge Won't Immediately Stop Pipeline Construction"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:46:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8b06d95d0e021d7983f22",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/01/us/ap-us-bus-firetruck-crash.html",
+        "snippet": "A Mississippi man died Thursday from injuries suffered when a bus carrying people seeking flood recovery work in south Louisiana hit a fire truck and other vehicles on an elevated highway west of New Orleans....",
+        "lead_paragraph": "A Mississippi man died Thursday from injuries suffered when a bus carrying people seeking flood recovery work in south Louisiana hit a fire truck and other vehicles on an elevated highway west of New Orleans.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Report 3rd Death From Louisiana Bus Crash",
+          "print_headline": "Police Report 3rd Death From Louisiana Bus Crash"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:41:19Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8afb895d0e021d7983f21",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/01/health/ap-eu-med-predicting-zika.html",
+        "snippet": "Scientists trying to predict the future path of Zika say that 2.6 billion people living in parts of Asia and Africa could be at risk of infection, based on a new analysis of travel, climate and mosquito patterns in those regions....",
+        "lead_paragraph": "Scientists trying to predict the future path of Zika say that 2.6 billion people living in parts of Asia and Africa could be at risk of infection, based on a new analysis of travel, climate and mosquito patterns in those regions.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Where's Zika Going Next? Maybe China, India, or Nigeria",
+          "print_headline": "Where's Zika Going Next? Maybe China, India, or Nigeria"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:36:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8ae7195d0e021d7983f20",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/01/world/europe/01reuters-turkey-security-politics.html",
+        "snippet": "Turkish President Tayyip Erdogan said on Friday that there could be more changes in government after the resignation of the interior minister this week, but said he had not been informed of any specific moves by Prime Minister Binali Yildirim....",
+        "lead_paragraph": "Turkish President Tayyip Erdogan said on Friday that there could be more changes in government after the resignation of the interior minister this week, but said he had not been informed of any specific moves by Prime Minister Binali Yildirim.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey's President Says More Changes Possible in Cabinet",
+          "print_headline": "Turkey's President Says More Changes Possible in Cabinet"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T22:37:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c8ae2d95d0e021d7983f1f",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended.html",
+        "snippet": "According to an amended lawsuit filed on Thursday in Delaware Chancery Court, shareholders of Good Technology said J.P. Morgan was deeply conflicted in its dealings with the company. That led the start-up to sell itself to BlackBerry last year at ...",
+        "lead_paragraph": "According to an amended lawsuit filed on Thursday in Delaware Chancery Court, shareholders of Good Technology said J.P. Morgan was deeply conflicted in its dealings with the company. That led the start-up to sell itself to BlackBerry last year at a fire- sale price.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended/DBGOOD-Public-Version-of-Second-Amended-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended/DBGOOD-Public-Version-of-Second-Amended-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended/DBGOOD-Public-Version-of-Second-Amended-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended/DBGOOD-Public-Version-of-Second-Amended-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended/DBGOOD-Public-Version-of-Second-Amended-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/01/business/dealbook/DBGOOD-Public-Version-of-Second-Amended/DBGOOD-Public-Version-of-Second-Amended-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Second Amended Complaint"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-01T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Business Day / DealBook",
+        "section_name": "Business Day",
+        "subsection_name": "DealBook",
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "57c8adc995d0e021d7983f1e",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

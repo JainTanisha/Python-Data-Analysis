@@ -1,0 +1,525 @@
+{
+  "response": {
+    "meta": {
+      "hits": 378,
+      "time": 74,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/dining/annemarie-huste-dead.html",
+        "snippet": "Ms. Huste, Jacqueline Kennedy\u2019s personal cook, was fired for disclosing details about the family to the press....",
+        "lead_paragraph": "Ms. Huste, Jacqueline Kennedy\u2019s personal cook, was fired for disclosing details about the family to the press.",
+        "abstract": "Annemarie Huste, private chef to Jacqueline Kennedy who was dismissed after sharing personal information about her employer to the press, dies at age 73.",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/nyregion/23huste-obit/23huste-obit-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/nyregion/23huste-obit/23huste-obit-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/nyregion/23huste-obit/23huste-obit-articleLarge.jpg",
+            "height": 880,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/nyregion/23huste-obit/23huste-obit-articleLarge.jpg",
+              "xlargeheight": "880"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/nyregion/23huste-obit/23huste-obit-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/nyregion/23huste-obit/23huste-obit-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Annemarie Huste, a Kennedy Chef Who Said Too Much, Dies at 73",
+          "print_headline": "Annemarie Huste, 73, Dies; a Former First Lady\u2019s Chef Fired for Saying Too Much"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Huste, Annemarie (1943-2016)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Deaths (Obituaries)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Chefs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Onassis, Jacqueline Kennedy"
+          }
+        ],
+        "pub_date": "2016-10-22T21:45:10+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "Food",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "William",
+              "rank": 1,
+              "lastname": "GRIMES"
+            }
+          ],
+          "original": "By WILLIAM GRIMES"
+        },
+        "type_of_material": "Obituary (Obit)",
+        "_id": "580bdde995d0e022439c4ad9",
+        "word_count": "904",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/world/middleeast/ap-un-united-nations-yemen.html",
+        "snippet": "The U.N. special envoy for Yemen on Saturday urged the warring parties in the Arab country to extend a temporary cease-fire for at least another renewable 72 hours....",
+        "lead_paragraph": "The U.N. special envoy for Yemen on Saturday urged the warring parties in the Arab country to extend a temporary cease-fire for at least another renewable 72 hours.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "UN Envoy Asks for Yemen Cease-Fire Extension",
+          "print_headline": "UN Envoy Asks for Yemen Cease-Fire Extension"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:39:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bdc9f95d0e022439c4ad8",
+        "word_count": "208",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/politics/a-new-era-of-internet-attacks-powered-by-everyday-devices.html",
+        "snippet": "The attack on the web\u2019s infrastructure laid bare new vulnerabilities linked to our reliance on cameras, smart thermostats and the rest of the internet of things....",
+        "lead_paragraph": "The attack on the web\u2019s infrastructure laid bare new vulnerabilities linked to our reliance on cameras, smart thermostats and the rest of the internet of things.",
+        "abstract": "Internet slowdown that swept East Coast points to high vulnerability inherent in increasing number of objects equipped with cameras and internet ability, known as 'internet of things'; malicious software infiltrated hundreds of thousands of such devices and commanded them to bombard Dyn DNS, Manchester, NH, company that acts as giant internet switchboard, with messages to overload its circuits; lack of consolidated cybersecurity in United States makes such attacks inevitable.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/us/23CYBER/23CYBER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/us/23CYBER/23CYBER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/us/23CYBER/23CYBER-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/us/23CYBER/23CYBER-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/us/23CYBER/23CYBER-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/us/23CYBER/23CYBER-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A New Era of Internet Attacks Powered by Everyday Devices",
+          "print_headline": "When Crib Monitors Double as Web Weaponry"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cyberattacks and Hackers"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cyberwarfare and Defense"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computer Security"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Home Automation and Smart Homes"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "East Coast (US)"
+          }
+        ],
+        "pub_date": "2016-10-22T21:31:21+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "contributor": "David E. Sanger reported from Washington, and Nicole Perlroth from San Francisco.",
+          "person": [
+            {
+              "firstname": "David",
+              "middlename": "E.",
+              "lastname": "SANGER",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicole",
+              "rank": 2,
+              "lastname": "PERLROTH"
+            }
+          ],
+          "original": "By DAVID E. SANGER and NICOLE PERLROTH"
+        },
+        "type_of_material": "News",
+        "_id": "580bdab295d0e022439c4ad7",
+        "word_count": "1283",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/world/americas/ap-lt-uruguay-ex-guantanamo-detainee.html",
+        "snippet": "Supporters of a former Guantanamo prisoner who has been unhappy living in Uruguay said Saturday that another country has offered to accept him....",
+        "lead_paragraph": "Supporters of a former Guantanamo prisoner who has been unhappy living in Uruguay said Saturday that another country has offered to accept him.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Possible New Home for Gitmo Ex-Detainee Unhappy in Uruguay",
+          "print_headline": "Possible New Home for Gitmo Ex-Detainee Unhappy in Uruguay"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:30:36Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bda8795d0e022439c4ad6",
+        "word_count": "230",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/sports/basketball/nba-season-preview-cleveland-cavaliers-golden-state-warriors.html",
+        "snippet": "The two teams who met in the finals last season are most likely to outclass the rest of the league once again....",
+        "lead_paragraph": "The two teams who met in the finals last season are most likely to outclass the rest of the league once again.",
+        "abstract": null,
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/sports/23NBAPREVIEW1/23NBAPREVIEW1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/sports/23NBAPREVIEW1/23NBAPREVIEW1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/sports/23NBAPREVIEW1/23NBAPREVIEW1-articleLarge.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/sports/23NBAPREVIEW1/23NBAPREVIEW1-articleLarge.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/sports/23NBAPREVIEW1/23NBAPREVIEW1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/sports/23NBAPREVIEW1/23NBAPREVIEW1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "N.B.A. Preview: Crystal Balls Show Cavaliers and Warriors Back in the Finals",
+          "print_headline": "A Familiar Forecast for the Finals"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Basketball"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cleveland Cavaliers"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Golden State Warriors"
+          }
+        ],
+        "pub_date": "2016-10-22T21:29:53+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Benjamin",
+              "rank": 1,
+              "lastname": "HOFFMAN"
+            }
+          ],
+          "original": "By BENJAMIN HOFFMAN"
+        },
+        "type_of_material": "News",
+        "_id": "580bda5895d0e022439c4ad5",
+        "word_count": "2121",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/baseball/ap-bbn-nlcs-cubs-schwarber.html",
+        "snippet": "One little doctor's appointment for Kyle Schwarber has turned into an intriguing possibility for the Chicago Cubs....",
+        "lead_paragraph": "One little doctor's appointment for Kyle Schwarber has turned into an intriguing possibility for the Chicago Cubs.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cubs Could Get Schwarber Back for World Series",
+          "print_headline": "Cubs Could Get Schwarber Back for World Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:27:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bd9ca95d0e022439c4ad4",
+        "word_count": "631",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "India's Anirban Lahiri shot a 7-under 65 on Saturday to take a four-stroke lead in the CIMB Classic....",
+        "lead_paragraph": "India's Anirban Lahiri shot a 7-under 65 on Saturday to take a four-stroke lead in the CIMB Classic.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:24:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bd93195d0e022439c4ad3",
+        "word_count": "378",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/us/22reuters-usa-pipeline-dakota.html",
+        "snippet": "More than 80 protesters were arrested on Saturday after clashing with police near a pipeline construction site in North Dakota, according to the local sheriff's department, which said pepper spray was used on some demonstrators....",
+        "lead_paragraph": "More than 80 protesters were arrested on Saturday after clashing with police near a pipeline construction site in North Dakota, according to the local sheriff's department, which said pepper spray was used on some demonstrators.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Dozens of Demonstrators Arrested at North Dakota Pipeline",
+          "print_headline": "Dozens of Demonstrators Arrested at North Dakota Pipeline"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:15:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580bd6f695d0e022439c4ad2",
+        "word_count": "406",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/world/middleeast/22reuters-mideast-crisis-chemicalweapons.html",
+        "snippet": "The White House on Saturday condemned the use of chemical weapons by the Syrian government after an international inquiry found its forces responsible for a third toxic gas attack in Syria's civil war....",
+        "lead_paragraph": "The White House on Saturday condemned the use of chemical weapons by the Syrian government after an international inquiry found its forces responsible for a third toxic gas attack in Syria's civil war. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "White House Condemns Syrian Government Forces Use of Toxic Gas",
+          "print_headline": "White House Condemns Syrian Government Forces Use of Toxic Gas"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:09:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580bd59295d0e022439c4ad1",
+        "word_count": "322",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/business/22reuters-goldmansachs-mexico.html",
+        "snippet": "Martin Werner, co-head of Goldman Sachs' investment banking business in Latin America, will depart the Wall Street bank at the end of this year, according to a person familiar with the situation....",
+        "lead_paragraph": "Martin Werner, co-head of Goldman Sachs' investment banking business in Latin America, will depart the Wall Street bank at the end of this year, according to a person familiar with the situation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Exclusive: Goldman Sachs' Latam Investment Bank Chief to Leave-Source",
+          "print_headline": "Exclusive: Goldman Sachs' Latam Investment Bank Chief to Leave-Source"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T21:03:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580bd42895d0e022439c4ad0",
+        "word_count": "250",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,352 @@
+{
+  "response": {
+    "meta": {
+      "hits": 873,
+      "time": 102,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/us/politics/12reuters-usa-election-trump-women.html",
+        "snippet": "Two women accused Donald Trump of inappropriate touching in a story posted on the New York Times website on Wednesday, accusations his spokesman called \"fiction\" but which may further damage the Republican presidential nominee's campaign with only...",
+        "lead_paragraph": "Two women accused Donald Trump of inappropriate touching in a story posted on the New York Times website on Wednesday, accusations his spokesman called \"fiction\" but which may further damage the Republican presidential nominee's campaign with only four weeks to go until the Nov. 8 election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Touched Us Inappropriately, Two Women Tell New York Times",
+          "print_headline": "Trump Touched Us Inappropriately, Two Women Tell New York Times"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:41:18Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57feca6d95d0e022439c2dc5",
+        "word_count": "872",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/nyregion/100000004706303/officials-say-plane-crash-was-intentional.html",
+        "snippet": "The East Hartford, Conn., police said the student pilot of the small plane intentionally crashed it. He was killed....",
+        "lead_paragraph": "The East Hartford, Conn., police said the student pilot of the small plane intentionally crashed it. He was killed.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/13/nyregion/13CRASH2/13CRASH2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/13/nyregion/13CRASH2/13CRASH2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/13/nyregion/13CRASH2/13CRASH2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/13/nyregion/13CRASH2/13CRASH2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/13/nyregion/13CRASH2/13CRASH2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/13/nyregion/13CRASH2/13CRASH2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Officials Say Plane Crash Was Intentional"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Aviation Accidents, Safety and Disasters"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "East Hartford (Conn)"
+          }
+        ],
+        "pub_date": "2016-10-12T23:37:28+0000",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "57fec93d95d0e022439c2dc3",
+        "word_count": "19",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/arts/12reuters-television-norman-lear.html",
+        "snippet": "Starting with the goal of simply earning a living and supporting his family, Norman Lear became one of the most influential U.S. television producers and at the age of 94, he has no intention of slowing down....",
+        "lead_paragraph": "Starting with the goal of simply earning a living and supporting his family, Norman Lear became one of the most influential U.S. television producers and at the age of 94, he has no intention of slowing down.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "At 94, Veteran TV Producer Norman Lear Reflects on Career in New Film",
+          "print_headline": "At 94, Veteran TV Producer Norman Lear Reflects on Career in New Film"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:34:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec90195d0e022439c2dc2",
+        "word_count": "423",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/sports/baseball/ap-bba-alcs-indians-rotation.html",
+        "snippet": "Corey Kluber is back at the top of the Indians' make-it-up-as-they-go rotation....",
+        "lead_paragraph": "Corey Kluber is back at the top of the Indians' make-it-up-as-they-go rotation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Corey Kluber to Start Game 1 of ALCS for Resilient Indians",
+          "print_headline": "Corey Kluber to Start Game 1 of ALCS for Resilient Indians"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:28:41Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec7b695d0e022439c2dc0",
+        "word_count": "644",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-portland-police-contract-protest.html",
+        "snippet": "Police used pepper spray and arrested 10 people as demonstrators stormed City Hall in Portland, Oregon, Wednesday trying to stop the City Council from voting on a new police contract that includes more pay for officers and raised questions about t...",
+        "lead_paragraph": "Police used pepper spray and arrested 10 people as demonstrators stormed City Hall in Portland, Oregon, Wednesday trying to stop the City Council from voting on a new police contract that includes more pay for officers and raised questions about the future use of body cameras.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Activists Clash With Portland Police as Council OKs Contract",
+          "print_headline": "Activists Clash With Portland Police as Council OKs Contract"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:27:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec7b095d0e022439c2dbf",
+        "word_count": "435",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/us/12reuters-texas-spill-coastguard.html",
+        "snippet": "The U.S. Coast Guard said on Wednesday about 5,000 gallons of low sulfur diesel fuel spilled into the Intracoastal Waterway (ICW) near Port Isabel, Texas, on Tuesday....",
+        "lead_paragraph": "The U.S. Coast Guard said on Wednesday about 5,000 gallons of low sulfur diesel fuel spilled into the Intracoastal Waterway (ICW) near Port Isabel, Texas, on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Coast Guard Responds to Diesel Spill on Intracoastal Waterway, Texas",
+          "print_headline": "Coast Guard Responds to Diesel Spill on Intracoastal Waterway, Texas"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:30:01Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec7a395d0e022439c2dbe",
+        "word_count": "168",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-internet-search-rape.html",
+        "snippet": "The Oregon Court of Appeals vacated the conviction Wednesday of a man who was sentenced to prison for raping a woman he met on a dating website....",
+        "lead_paragraph": "The Oregon Court of Appeals vacated the conviction Wednesday of a man who was sentenced to prison for raping a woman he met on a dating website.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Court Drops Rape Conviction of Man Who Met Woman on Website",
+          "print_headline": "Court Drops Rape Conviction of Man Who Met Woman on Website"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:25:14Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec70495d0e022439c2dbd",
+        "word_count": "362",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/sports/12reuters-boxing-fury.html",
+        "snippet": "Tyson Fury's troubled 11th month reign as world heavyweight champion came to an end on Thursday when the British boxer announced he would be vacating his WBO and WBA titles \"to fully focus on his medical treatment and recovery\"....",
+        "lead_paragraph": "Tyson Fury's troubled 11th month reign as world heavyweight champion came to an end on Thursday when the British boxer announced he would be vacating his WBO and WBA titles \"to fully focus on his medical treatment and recovery\". ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fury Vacates World Heavyweight Titles to Focus on Recovery",
+          "print_headline": "Fury Vacates World Heavyweight Titles to Focus on Recovery"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:27:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec6f595d0e022439c2dbc",
+        "word_count": "533",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/12/business/12reuters-britain-climatechange-targets.html",
+        "snippet": "Britain lacks the policies needed to achieve its domestic emissions targets, and should by February set out new plans to meet them, the government's climate advisers said on Thursday....",
+        "lead_paragraph": "Britain lacks the policies needed to achieve its domestic emissions targets, and should by February set out new plans to meet them, the government's climate advisers said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Britain Lacks Policies to Meet Emissions Targets &#8211; Government Advisers",
+          "print_headline": "Britain Lacks Policies to Meet Emissions Targets \u2013 Government Advisers"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:25:06Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec6ef95d0e022439c2dbb",
+        "word_count": "425",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/12/us/ap-us-charlotte-police-fatal-shooting.html",
+        "snippet": "A black man shot and killed by a North Carolina police officer last month suffered fatal gunshot wounds to the back and abdomen, according to results released Wednesday from an independent autopsy conducted for his family....",
+        "lead_paragraph": "A black man shot and killed by a North Carolina police officer last month suffered fatal gunshot wounds to the back and abdomen, according to results released Wednesday from an independent autopsy conducted for his family.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Private Autopsy: Man Killed by Police Shot in Back, Abdomen",
+          "print_headline": "Private Autopsy: Man Killed by Police Shot in Back, Abdomen"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-12T23:15:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57fec4f795d0e022439c2db9",
+        "word_count": "299",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

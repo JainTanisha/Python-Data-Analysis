@@ -1,0 +1,421 @@
+{
+  "response": {
+    "meta": {
+      "hits": 824,
+      "time": 39,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/11/us/ap-us-missing-students-the-latest.html",
+        "snippet": "The Latest on Arkansas State University students who went missing inside of a cave (all times local):...",
+        "lead_paragraph": "The Latest on Arkansas State University students who went missing inside of a cave (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Student Says 3 Regularly Shouted for Help",
+          "print_headline": "The Latest: Student Says 3 Regularly Shouted for Help"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:08:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad08a795d0e021d798039e",
+        "word_count": "415",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004500953/trailer-joshy.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/06/28/movies/video-joshy/video-joshy-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/06/28/movies/video-joshy/video-joshy-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/06/28/movies/video-joshy/video-joshy-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/06/28/movies/video-joshy/video-joshy-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/06/28/movies/video-joshy/video-joshy-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/06/28/movies/video-joshy/video-joshy-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: 'Joshy'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:20:53+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Lionsgate",
+              "rank": 1,
+              "lastname": "PREMIERE"
+            }
+          ],
+          "original": "By LIONSGATE PREMIERE"
+        },
+        "type_of_material": "Video",
+        "_id": "57ad089995d0e021d798039d",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/11/sports/olympics/ap-oly-ten-us-success.html",
+        "snippet": "Madison Keys closed in on an Olympic tennis medal by reaching the women's singles semifinals Thursday, then scampered from Court 1 to Court 4....",
+        "lead_paragraph": "Madison Keys closed in on an Olympic tennis medal by reaching the women's singles semifinals Thursday, then scampered from Court 1 to Court 4.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Madison Keys, Steve Johnson Give US 2 Singles Wins in Rio",
+          "print_headline": "Madison Keys, Steve Johnson Give US 2 Singles Wins in Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T22:59:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad080b95d0e021d798039c",
+        "word_count": "532",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/11/us/ap-us-graceland-expansion.html",
+        "snippet": "Graceland officials say a new 200,000-square-foot entertainment complex will be built across the street from Elvis Presley's former home-turned-museum....",
+        "lead_paragraph": "Graceland officials say a new 200,000-square-foot entertainment complex will be built across the street from Elvis Presley's former home-turned-museum.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "New Entertainment Complex to Be Built at Graceland",
+          "print_headline": "New Entertainment Complex to Be Built at Graceland"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:14:09Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad075b95d0e021d798039b",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/11/sports/basketball/11reuters-nba-cavaliers-james.html",
+        "snippet": "LeBron James has signed a new contract to remain with his hometown Cleveland Cavaliers for the next three seasons....",
+        "lead_paragraph": "LeBron James has signed a new contract to remain with his hometown Cleveland Cavaliers for the next three seasons.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "NBA: James to Stay With Cavaliers",
+          "print_headline": "NBA: James to Stay With Cavaliers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:13:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad073095d0e021d798039a",
+        "word_count": "223",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004587023/this-weeks-movies-august-12-2016.html",
+        "snippet": "The New York Times film critics review \u201cSausage Party,\u201d \u201cFlorence Foster Jenkins\u201d and \u201cHell or High Water.\u201d...",
+        "lead_paragraph": "The New York Times film critics review \u201cSausage Party,\u201d \u201cFlorence Foster Jenkins\u201d and \u201cHell or High Water.\u201d",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/11/multimedia/movies-08122016/movies-08122016-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/11/multimedia/movies-08122016/movies-08122016-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/11/multimedia/movies-08122016/movies-08122016-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/11/multimedia/movies-08122016/movies-08122016-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/11/multimedia/movies-08122016/movies-08122016-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/11/multimedia/movies-08122016/movies-08122016-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "This Week\u2019s Movies | August 12, 2016"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Hell or High Water (Movie)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Sausage Party (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "pub_date": "2016-08-11T23:12:59+0000",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ainara",
+              "rank": 1,
+              "lastname": "TIEFENTH\u00c4LER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 2,
+              "lastname": "LINDSAY"
+            }
+          ],
+          "original": "By AINARA TIEFENTH\u00c4LER and ROBIN LINDSAY"
+        },
+        "type_of_material": "Video",
+        "_id": "57ad070b95d0e021d7980399",
+        "word_count": "17",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/11/us/ap-us-compton-deputy-shooting-the-latest.html",
+        "snippet": "The Latest on the fatal shooting of an unarmed black man by the Los Angeles County Sheriff's Department (all times local):...",
+        "lead_paragraph": "The Latest on the fatal shooting of an unarmed black man by the Los Angeles County Sheriff's Department (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Attorney Questions Gunshot Wound in Unarmed Man's Back",
+          "print_headline": "Attorney Questions Gunshot Wound in Unarmed Man's Back"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:06:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad05dc95d0e021d7980398",
+        "word_count": "187",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/11/world/europe/11reuters-usa-election-ukraine.html",
+        "snippet": "A foreign policy adviser to U.S. presidential candidate Donald Trump confirmed his attendance at a meeting last month during which the Republican Party agreed to watered-down language in its support of Ukraine....",
+        "lead_paragraph": "A foreign policy adviser to U.S. presidential candidate Donald Trump confirmed his attendance at a meeting last month during which the Republican Party agreed to watered-down language in its support of Ukraine.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Adviser Joined Key Party Meeting on Ukraine",
+          "print_headline": "Trump Adviser Joined Key Party Meeting on Ukraine"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:05:44Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad05b295d0e021d7980397",
+        "word_count": "479",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/11/business/11reuters-uber-china-m-a-didichuxing-cheng.html",
+        "snippet": "Cheng Wei, 34, was once assistant to the head of a foot massage firm. Last week, his company Didi Chuxing bagged Uber's China business in a deal valuing his ride-hailing start-up at $35 billion - a second success in as many years in a grueling bat...",
+        "lead_paragraph": "Cheng Wei, 34, was once assistant to the head of a foot massage firm. Last week, his company Didi Chuxing bagged Uber's China business in a deal valuing his ride-hailing start-up at $35 billion - a second success in as many years in a grueling battle with a rival.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Didi's Cheng Wei: Chinese Patriot Who Tamed Uber",
+          "print_headline": "Didi's Cheng Wei: Chinese Patriot Who Tamed Uber"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:06:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad050d95d0e021d7980396",
+        "word_count": "868",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/11/business/11reuters-astrazeneca-britain.html",
+        "snippet": "Long term use of AstraZeneca's blood thinner Brilinta has been recommended as a cost-effective option for treating  patients after a heart attack, Britain's healthcare cost watchdog NICE said on Friday....",
+        "lead_paragraph": "Long term use of AstraZeneca's blood thinner Brilinta has been recommended as a cost-effective option for treating  patients after a heart attack, Britain's healthcare cost watchdog NICE said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "AstraZeneca Wins UK Cost Approval for Longer Use of Heart Drug",
+          "print_headline": "AstraZeneca Wins UK Cost Approval for Longer Use of Heart Drug"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-11T23:03:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57ad04fe95d0e021d7980395",
+        "word_count": "210",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

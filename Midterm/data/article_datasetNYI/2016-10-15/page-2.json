@@ -1,0 +1,511 @@
+{
+  "response": {
+    "meta": {
+      "hits": 404,
+      "time": 47,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/us/politics/ap-us-united-states-yemen-missiles.html",
+        "snippet": "Multiple missiles were fired again from a Houthi-controlled region in Yemen targeting an American warship in the Red Sea, a U.S. admiral said Saturday. No hits were reported....",
+        "lead_paragraph": "Multiple missiles were fired again from a Houthi-controlled region in Yemen targeting an American warship in the Red Sea, a U.S. admiral said Saturday. No hits were reported.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Admiral Says Missiles Fired Again at US Ship Near Yemen",
+          "print_headline": "US Admiral Says Missiles Fired Again at US Ship Near Yemen"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T22:46:20Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802b26195d0e022439c367c",
+        "word_count": "232",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/science/ap-us-sci-space-station.html",
+        "snippet": "The International Space Station is about to get its first delivery from Virginia in two years....",
+        "lead_paragraph": "The International Space Station is about to get its first delivery from Virginia in two years.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Space Station Getting 1st Delivery From Virginia in 2 Years",
+          "print_headline": "Space Station Getting 1st Delivery From Virginia in 2 Years"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T22:35:59Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802b03995d0e022439c367b",
+        "word_count": "561",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/middleeast/100000004711633/ladies-first-saudi-arabias-female-candidates.html",
+        "snippet": "In Saudi Arabia, women still can\u2019t drive. But they have been recently granted the right to vote and to run in an election. In this documentary, The Times\u2019s Mona El-Naggar takes us inside the ultraconservative kingdom and into the largely inacc...",
+        "lead_paragraph": "In Saudi Arabia, women still can\u2019t drive. But they have been recently granted the right to vote and to run in an election. In this documentary, The Times\u2019s Mona El-Naggar takes us inside the ultraconservative kingdom and into the largely inaccessible world of Saudi women.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/15/multimedia/saudi-documentary/saudi-documentary-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/15/multimedia/saudi-documentary/saudi-documentary-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/15/multimedia/saudi-documentary/saudi-documentary-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/15/multimedia/saudi-documentary/saudi-documentary-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/15/multimedia/saudi-documentary/saudi-documentary-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/15/multimedia/saudi-documentary/saudi-documentary-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Ladies First\u2019: Saudi Arabia\u2019s Female Candidates"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Saudi Arabia"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women's Rights"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+          }
+        ],
+        "pub_date": "2016-10-15T22:38:58+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Middle East",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mona",
+              "rank": 1,
+              "lastname": "EL-NAGGAR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 2,
+              "lastname": "BOLT"
+            }
+          ],
+          "original": "By MONA EL-NAGGAR and ADAM BOLT"
+        },
+        "type_of_material": "Video",
+        "_id": "5802b00b95d0e022439c367a",
+        "word_count": "45",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/world/middleeast/syria-talks-aleppo-russia-john-kerry.html",
+        "snippet": "Secretary of State John Kerry and the Russian foreign minister met one-on-one, but could not broker an agreement to help bring relief to the besieged city....",
+        "lead_paragraph": "Secretary of State John Kerry and the Russian foreign minister met one-on-one, but could not broker an agreement to help bring relief to the besieged city.",
+        "abstract": null,
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "New Syria Talks End Quickly, Giving Little Hope to a Beleaguered Aleppo",
+          "print_headline": "Syria Talks End Quickly, With Aleppo Still Besieged"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Humanitarian Aid"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "State Department"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kerry, John"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Lavrov, Sergey V"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Lausanne (Switzerland)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Aleppo (Syria)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Doctors Without Borders"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Syria"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-10-15T22:26:04+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nick",
+              "rank": 1,
+              "lastname": "CUMMING-BRUCE"
+            }
+          ],
+          "original": "By NICK CUMMING-BRUCE"
+        },
+        "type_of_material": "News",
+        "_id": "5802ad0495d0e022439c3679",
+        "word_count": "523",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Johnson Wagner chipped in for birdie, and wound up taking a one-shot lead in the Safeway Open by keeping bogeys off his card as the rain began to pound Silverado on Saturday....",
+        "lead_paragraph": "Johnson Wagner chipped in for birdie, and wound up taking a one-shot lead in the Safeway Open by keeping bogeys off his card as the rain began to pound Silverado on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T22:07:54Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a92a95d0e022439c3678",
+        "word_count": "830",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/15/world/europe/15reuters-montenegro-election.html",
+        "snippet": "Montenegro's ruling party faces its toughest test in 27 years in power on Sunday, when it hopes its election promise to bring the country into NATO and closer to the European Union will outweigh opposition allegations of cronyism and corruption....",
+        "lead_paragraph": "Montenegro's ruling party faces its toughest test in 27 years in power on Sunday, when it hopes its election promise to bring the country into NATO and closer to the European Union will outweigh opposition allegations of cronyism and corruption.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Montenegrins Asked to Choose Between Russia, West in Sunday Vote",
+          "print_headline": "Montenegrins Asked to Choose Between Russia, West in Sunday Vote"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T22:03:48Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a87195d0e022439c3677",
+        "word_count": "438",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/sports/ap-car-nascar-xfinity.html",
+        "snippet": "Kyle Busch continued his dominance of the Xfinity Series at Kansas Speedway on Saturday....",
+        "lead_paragraph": "Kyle Busch continued his dominance of the Xfinity Series at Kansas Speedway on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kyle Busch Wins Third Straight Xfinity Race at Kansas",
+          "print_headline": "Kyle Busch Wins Third Straight Xfinity Race at Kansas"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T22:02:44Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a7bf95d0e022439c3676",
+        "word_count": "558",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/sports/baseball/ap-bbn-nlcs-rotations.html",
+        "snippet": "Never mind the heavy workload and short rest, Clayton Kershaw insisted he is ready to pitch again....",
+        "lead_paragraph": "Never mind the heavy workload and short rest, Clayton Kershaw insisted he is ready to pitch again.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kershaw to Start Game 2 for Dodgers",
+          "print_headline": "Kershaw to Start Game 2 for Dodgers"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:59:19Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a70a95d0e022439c3675",
+        "word_count": "503",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/15/us/politics/ap-us-campaign-2016-trump-the-brief.html",
+        "snippet": "After vanquishing more than a dozen Republican rivals with a shock-and-awe primary campaign, Donald Trump is about to learn whether that same strategy can deliver him the White House....",
+        "lead_paragraph": "After vanquishing more than a dozen Republican rivals with a shock-and-awe primary campaign, Donald Trump is about to learn whether that same strategy can deliver him the White House.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "White House Brief: Things to Know About Donald Trump",
+          "print_headline": "White House Brief: Things to Know About Donald Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-15T21:43:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5802a38595d0e022439c3673",
+        "word_count": "803",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/16/opinion/sunday/james-turner.html",
+        "snippet": "An anti-materialism activist on the ubiquitous Green Man in Britain, Tom Waits, and Snoopy business cards....",
+        "lead_paragraph": "An anti-materialism activist on the ubiquitous Green Man in Britain, Tom Waits, and Snoopy business cards.",
+        "abstract": "Download interview with James Turner, founder of English nonprofit organization Glimpse; Turner offers recommendations for books and other forms of entertainment.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/16/sunday-review/16Download-Web/16Download-Web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/16/sunday-review/16Download-Web/16Download-Web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/16/sunday-review/16Download-Web/16Download-Web-articleLarge.jpg",
+            "height": 433,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/16/sunday-review/16Download-Web/16Download-Web-articleLarge.jpg",
+              "xlargeheight": "433"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/16/sunday-review/16Download-Web/16Download-Web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/16/sunday-review/16Download-Web/16Download-Web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "James Turner",
+          "content_kicker": "Download",
+          "kicker": "Download",
+          "print_headline": "James Turner"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Turner, James (Communications Executive)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Glimpse (British Nonprofit)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Great Britain"
+          }
+        ],
+        "pub_date": "2016-10-15T21:44:17+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kate",
+              "rank": 1,
+              "lastname": "MURPHY"
+            }
+          ],
+          "original": "By KATE MURPHY"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "5802a33a95d0e022439c3672",
+        "word_count": "552",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

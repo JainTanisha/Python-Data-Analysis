@@ -1,0 +1,428 @@
+{
+  "response": {
+    "meta": {
+      "hits": 732,
+      "time": 40,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/13/movies/loving-jeff-nichols-interview.html",
+        "snippet": "Jeff Nichols discusses his film, which tells the story of Mildred and Richard Loving, an interracial couple whose marriage in 1958 resulted in arrest....",
+        "lead_paragraph": "Jeff Nichols discusses his film, which tells the story of Mildred and Richard Loving, an interracial couple whose marriage in 1958 resulted in arrest.",
+        "abstract": null,
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/13/arts/13LOVING/13LOVING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/13/arts/13LOVING/13LOVING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/13/arts/13LOVING/13LOVING-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/13/arts/13LOVING/13LOVING-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/13/arts/13LOVING/13LOVING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/13/arts/13LOVING/13LOVING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Loving\u2019 Aims to Speak Softly to History",
+          "print_headline": "Speaking Softly to History"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Loving (Movie)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Nichols, Jeff (1978- )"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Negga, Ruth (1982- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Edgerton, Joel"
+          }
+        ],
+        "pub_date": "2016-11-08T22:13:00+0000",
+        "document_type": "article",
+        "news_desk": "Arts&Leisure",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Logan",
+              "rank": 1,
+              "lastname": "HILL"
+            }
+          ],
+          "original": "By LOGAN HILL"
+        },
+        "type_of_material": "News",
+        "_id": "58224df095d0e0204d55f638",
+        "word_count": "1158",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-financial-markets-box.html",
+        "snippet": "U.S. stocks closed broadly higher Tuesday, building on big gains a day earlier as the market looked ahead to the outcome of the U.S. presidential election. Safe-play sectors like utilities and phone companies rose more than the rest of the market....",
+        "lead_paragraph": "U.S. stocks closed broadly higher Tuesday, building on big gains a day earlier as the market looked ahead to the outcome of the U.S. presidential election. Safe-play sectors like utilities and phone companies rose more than the rest of the market. Energy stocks were essentially flat.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Dow Jones Industrial Average Fared on Tuesday",
+          "print_headline": "How the Dow Jones Industrial Average Fared on Tuesday"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:12:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58224def95d0e0204d55f637",
+        "word_count": "148",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/politics/ap-us-2016-election-congress-the-latest.html",
+        "snippet": "The Latest on congressional races on Election Day 2016 (all times EST):...",
+        "lead_paragraph": "The Latest on congressional races on Election Day 2016 (all times EST):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Republicans Retain Control of US Senate",
+          "print_headline": "The Latest: Republicans Retain Control of US Senate"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:09:55Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58224d3995d0e0204d55f636",
+        "word_count": "1712",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/world/africa/08reuters-mali-security.html",
+        "snippet": "Islamist militant group Ansar Dine has claimed responsibility for an attack on a town in southern Mali in which 21 prisoners were freed from jail, according to a social media posting monitored by the SITE Intelligence Group....",
+        "lead_paragraph": "Islamist militant group Ansar Dine has claimed responsibility for an attack on a town in southern Mali in which 21 prisoners were freed from jail, according to a social media posting monitored by the SITE Intelligence Group.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ansar Dine Claims Attack on Southern Mali Town",
+          "print_headline": "Ansar Dine Claims Attack on Southern Mali Town"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:06:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58224c7695d0e0204d55f635",
+        "word_count": "156",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/sports/basketball/08reuters-nba-pacers-george.html",
+        "snippet": "Indiana Pacers forward Paul George has been fined $15,000 for kicking the ball into the stands that hit a fan in the face, the National Basketball Association said on Tuesday....",
+        "lead_paragraph": "Indiana Pacers forward Paul George has been fined $15,000 for kicking the ball into the stands that hit a fan in the face, the National Basketball Association said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pacers' George Fined for Kicking Ball Into Stands",
+          "print_headline": "Pacers' George Fined for Kicking Ball Into Stands"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:06:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Basketball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58224c7595d0e0204d55f634",
+        "word_count": "116",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/politics/ap-us-2016-election-congress-control.html",
+        "snippet": "Control of Congress was up for grabs Tuesday as Republicans' hopes of protecting their narrow majority in the Senate rested on a handful of states that were toss-ups until the end....",
+        "lead_paragraph": "Control of Congress was up for grabs Tuesday as Republicans' hopes of protecting their narrow majority in the Senate rested on a handful of states that were toss-ups until the end.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Control of Congress Up for Grabs in Contested Campaigns",
+          "print_headline": "Control of Congress Up for Grabs in Contested Campaigns"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:03:58Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58224bd695d0e0204d55f633",
+        "word_count": "124",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/08/us/08reuters-usa-sempra-alisocanyon.html",
+        "snippet": "The Los Angeles County Board of Supervisors said on Tuesday it would vote on Nov. 9 on a motion calling on California Governor Jerry Brown to continue restricting natural gas injection into Southern California Gas's Aliso Canyon storage facility....",
+        "lead_paragraph": "The Los Angeles County Board of Supervisors said on Tuesday it would vote on Nov. 9 on a motion calling on California Governor Jerry Brown to continue restricting natural gas injection into Southern California Gas's Aliso Canyon storage facility.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "LA County Supervisors to Vote on Restricting Aliso Canyon Gas Injection",
+          "print_headline": "LA County Supervisors to Vote on Restricting Aliso Canyon Gas Injection"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:03:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58224bc595d0e0204d55f632",
+        "word_count": "126",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/nyregion/100000004757046/homeless-and-voting-in-new-york.html",
+        "snippet": "Wendy Range, 51, became homeless in 2010. She signed up to vote during a voter registration drive this year, and cast her ballot this morning before her volunteer shift at the soup kitchen....",
+        "lead_paragraph": "Wendy Range, 51, became homeless in 2010. She signed up to vote during a voter registration drive this year, and cast her ballot this morning before her volunteer shift at the soup kitchen.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/08/multimedia/homeless-voter/homeless-voter-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/08/multimedia/homeless-voter/homeless-voter-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/08/multimedia/homeless-voter/homeless-voter-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/08/multimedia/homeless-voter/homeless-voter-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/08/multimedia/homeless-voter/homeless-voter-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/08/multimedia/homeless-voter/homeless-voter-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Homeless and Voting in New York"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Homeless Persons"
+          }
+        ],
+        "pub_date": "2016-11-08T22:02:06Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Yousur",
+              "rank": 1,
+              "lastname": "AL-HLOU"
+            }
+          ],
+          "original": "By YOUSUR AL-HLOU"
+        },
+        "type_of_material": "Video",
+        "_id": "58224b6895d0e0204d55f631",
+        "word_count": "33",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-us-oil-pipeline-complaint.html",
+        "snippet": "North Dakota regulators are proposing a fine of at least $15,000 against the company building the four-state Dakota Access pipeline....",
+        "lead_paragraph": "North Dakota regulators are proposing a fine of at least $15,000 against the company building the four-state Dakota Access pipeline.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "North Dakota Regulators Eye Fine Against Pipeline Company",
+          "print_headline": "North Dakota Regulators Eye Fine Against Pipeline Company"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:00:46Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58224b1895d0e0204d55f630",
+        "word_count": "133",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/08/us/ap-us-charleston-church-shooting.html",
+        "snippet": "A judge announced Tuesday that he has ordered another competency exam for a white man charged with killing nine black parishioners at a Charleston church one day after halting jury selection because of a motion from defense attorneys....",
+        "lead_paragraph": "A judge announced Tuesday that he has ordered another competency exam for a white man charged with killing nine black parishioners at a Charleston church one day after halting jury selection because of a motion from defense attorneys.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Judge Orders Competency Exam, Delays Church Shooting Trial",
+          "print_headline": "Judge Orders Competency Exam, Delays Church Shooting Trial"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-08T22:00:42Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58224b1295d0e0204d55f62e",
+        "word_count": "377",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,690 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1011,
+      "time": 56,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/nyregion/review-at-7t8-european-fusion-in-northport-a-blended-menu.html",
+        "snippet": "Chef Stephen Claussell\u2019s offerings represent cuisine from different European countries, with some American dishes, too....",
+        "lead_paragraph": "Chef Stephen Claussell\u2019s offerings represent cuisine from different European countries, with some American dishes, too.",
+        "abstract": "Joanne Starkey reviews restaurant 7T8 European Fusion in Northport (Metropolitan/Long Island). ",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/nyregion/17DINELI1/17DINELI1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/nyregion/17DINELI1/17DINELI1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/nyregion/17DINELI1/17DINELI1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/nyregion/17DINELI1/17DINELI1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/nyregion/17DINELI1/17DINELI1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/nyregion/17DINELI1/17DINELI1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: At 7T8 European Fusion in Northport, a Blended Menu",
+          "content_kicker": "Dining | Long Island",
+          "kicker": "Dining | Long Island",
+          "print_headline": "Culinary Fusion, but With Few Porous Borders"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Restaurants"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "7T8 European Fusion (Northport, NY, Restaurant)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Northport (NY)"
+          }
+        ],
+        "pub_date": "2016-07-15T21:01:15+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joanne",
+              "rank": 1,
+              "lastname": "STARKEY"
+            }
+          ],
+          "original": "By JOANNE STARKEY"
+        },
+        "type_of_material": "News",
+        "_id": "57894f1c38f0d829e63dde68",
+        "word_count": "600",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/16/theater/health-concerns-for-estelle-parsons-prompt-early-closing-of-play.html",
+        "snippet": "\u201cOut of the Mouth of Babes,\u201d at the Cherry Lane Theater, had been scheduled through July 31, but the actress dropped out at the advice of her doctor....",
+        "lead_paragraph": "\u201cOut of the Mouth of Babes,\u201d at the Cherry Lane Theater, had been scheduled through July 31, but the actress dropped out at the advice of her doctor.",
+        "abstract": "Cherry Lane Theater abruptly closes production of Israel Horovitz play Out of the Mouths of Babes at after star Estelle Parsons falls ill during performance.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/16/arts/16PARSONS/16PARSONS-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/16/arts/16PARSONS/16PARSONS-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/16/arts/16PARSONS/16PARSONS-articleLarge.jpg",
+            "height": 444,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/16/arts/16PARSONS/16PARSONS-articleLarge.jpg",
+              "xlargeheight": "444"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/16/arts/16PARSONS/16PARSONS-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/16/arts/16PARSONS/16PARSONS-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Health Concerns for Estelle Parsons Prompt Early Closing of Play",
+          "print_headline": "With Parsons Ailing, Play Ends Run"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Cherry Lane Theater"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Horovitz, Israel"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Parsons, Estelle"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Out of the Mouths of Babes (Play)"
+          }
+        ],
+        "pub_date": "2016-07-15T21:01:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "PAULSON"
+            }
+          ],
+          "original": "By MICHAEL PAULSON"
+        },
+        "type_of_material": "News",
+        "_id": "57894f1038f0d829e63dde67",
+        "word_count": "351",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/16/us/missouri-city-to-pay-4-7-million-to-settle-suit-over-jailing-practices.html",
+        "snippet": "Jennings, Mo., which borders Ferguson, has agreed to compensate nearly 2,000 people, many of them poor and black, who had been jailed for unpaid traffic fines and fees....",
+        "lead_paragraph": "Jennings, Mo., which borders Ferguson, has agreed to compensate nearly 2,000 people, many of them poor and black, who had been jailed for unpaid traffic fines and fees.",
+        "abstract": "City of Jennings, Mo, will pay $4.7 million to almost 2,000 people in settlement approved by federal court pursuant to suit filed against city over its municipal court system; suit charged that jailing practices related to nonpayment of fines and fees for traffic and other petty violations placed unconstitutional burden on blacks and the poor.",
+        "print_page": "12",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/16/us/16jennings-web/16jennings-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/16/us/16jennings-web/16jennings-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/16/us/16jennings-web/16jennings-web-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/16/us/16jennings-web/16jennings-web-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/16/us/16jennings-web/16jennings-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/16/us/16jennings-web/16jennings-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Missouri City to Pay $4.7 Million to Settle Suit Over Jailing Practices",
+          "print_headline": "Missouri City to Pay $4.7 Million to Settle Suit Over Jail Practices"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Traffic and Parking Violations"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Missouri"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "St Louis County (Mo)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Prisons and Prisoners"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Courts and the Judiciary"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Fines (Penalties)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Blacks"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Justice Department"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Brown, Michael (1996-2014)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ferguson (Mo)"
+          },
+          {
+            "rank": "10",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Jennings (Mo)"
+          }
+        ],
+        "pub_date": "2016-07-15T21:00:41+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Campbell",
+              "rank": 1,
+              "lastname": "ROBERTSON"
+            }
+          ],
+          "original": "By CAMPBELL ROBERTSON"
+        },
+        "type_of_material": "News",
+        "_id": "57894efb38f0d829e63dde65",
+        "word_count": "727",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-military-surrender.html",
+        "snippet": "Around 30 Turkish soldiers who were part of a faction attempting to carry out a military coup surrendered their weapons after being surrounded by armed police in Istanbul's central Taksim square, a Reuters witness said....",
+        "lead_paragraph": "Around 30 Turkish soldiers who were part of a faction attempting to carry out a military coup surrendered their weapons after being surrounded by armed police in Istanbul's central Taksim square, a Reuters witness said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Tens of Turkish Soldiers in Attempted Coup Surrender to Police: Reuters Witness",
+          "print_headline": "Tens of Turkish Soldiers in Attempted Coup Surrender to Police: Reuters Witness"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T20:56:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789873638f0d829e63ddf0d",
+        "word_count": "78",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/europe/15reuters-turkey-security-bulgaria-border.html",
+        "snippet": "Turkey has closed the three border crossings with Bulgaria, the Bulgarian Foreign Ministry said, reiterating its appeal to Bulgarians to avoid any travels to the country's southern neighbor....",
+        "lead_paragraph": "Turkey has closed the three border crossings with Bulgaria, the Bulgarian Foreign Ministry said, reiterating its appeal to Bulgarians to avoid any travels to the country's southern neighbor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkey Closes Border Crossings With Bulgaria: Bulgarian Foreign Ministry",
+          "print_headline": "Turkey Closes Border Crossings With Bulgaria: Bulgarian Foreign Ministry"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T20:55:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789873338f0d829e63ddf0c",
+        "word_count": "68",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/nyregion/review-common-lot-in-millburn-is-a-newcomer-with-a-global-touch.html",
+        "snippet": "The restaurant, which has found a following just months after opening, comes from a husband-and-wife team with an international r\u00e9sum\u00e9....",
+        "lead_paragraph": "The restaurant, which has found a following just months after opening, comes from a husband-and-wife team with an international r\u00e9sum\u00e9.",
+        "abstract": "Fran Schumer reviews restaurant Common Lot in Millburn (Metropolitan/New Jersey). ",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/nyregion/17DINENJ2/17DINENJ2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/nyregion/17DINENJ2/17DINENJ2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/nyregion/17DINENJ2/17DINENJ2-articleLarge.jpg",
+            "height": 428,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/nyregion/17DINENJ2/17DINENJ2-articleLarge.jpg",
+              "xlargeheight": "428"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/nyregion/17DINENJ2/17DINENJ2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/nyregion/17DINENJ2/17DINENJ2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Common Lot, in Millburn, Is a Newcomer With a Global Touch",
+          "content_kicker": "Dining | New Jersey",
+          "kicker": "Dining | New Jersey",
+          "print_headline": "Newcomer With a Global Touch"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Restaurants"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Common Lot (Millburn, NJ, Restaurant)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Millburn (NJ)"
+          }
+        ],
+        "pub_date": "2016-07-15T21:00:18+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Fran",
+              "rank": 1,
+              "lastname": "SCHUMER"
+            }
+          ],
+          "original": "By FRAN SCHUMER"
+        },
+        "type_of_material": "News",
+        "_id": "57894ee338f0d829e63dde63",
+        "word_count": "716",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/us/15reuters-pitbull-trump.html",
+        "snippet": "Rapper Pitbull had harsh words for Republican presidential hopeful Donald Trump on Friday, telling reporters that he is not supporting the candidate and describing his campaign as a \"joke.\"...",
+        "lead_paragraph": "Rapper Pitbull had harsh words for Republican presidential hopeful Donald Trump on Friday, telling reporters that he is not supporting the candidate and describing his campaign as a \"joke.\" ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Pitbull Says He Is Not Supporting Trump",
+          "print_headline": "Pitbull Says He Is Not Supporting Trump"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T20:55:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789868338f0d829e63ddf09",
+        "word_count": "147",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/15/world/americas/15reuters-peru-kuczynski-cabinet.html",
+        "snippet": "Peru's President-elect Pedro Pablo Kuczynski listed his incoming ministers on Friday, in a cabinet stacked with technocrats but thin on experienced politicians who might help him broker deals with an opposition-controlled Congress....",
+        "lead_paragraph": "Peru's President-elect Pedro Pablo Kuczynski listed his incoming ministers on Friday, in a cabinet stacked with technocrats but thin on experienced politicians who might help him broker deals with an opposition-controlled Congress.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Peru President-Elect Reveals Technocrat-Filled Cabinet",
+          "print_headline": "Peru President-Elect Reveals Technocrat-Filled Cabinet"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T20:54:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5789868238f0d829e63ddf08",
+        "word_count": "412",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/15/us/ap-eu-ap-explains-turkey-military-coup.html",
+        "snippet": "Turkish military jets have flown over Turkey's capital, Ankara, and deadly fighting has been reported in what appears to be an attempted military coup. A military statement says the military has seized control of the country because of rising auto...",
+        "lead_paragraph": "Turkish military jets have flown over Turkey's capital, Ankara, and deadly fighting has been reported in what appears to be an attempted military coup. A military statement says the military has seized control of the country because of rising autocratic rule and increased terrorism, though Turkey's president, Recep Tayyip Erdogan, has said \"a minority\" within the military has attempted a coup and he has urged citizens to take to the streets to support the government.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Turkish Military Has a History of Staging Coups",
+          "print_headline": "Turkish Military Has a History of Staging Coups"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-15T20:13:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5789851b38f0d829e63ddf07",
+        "word_count": "673",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/17/nyregion/review-modern-on-the-rails-brings-italian-to-a-19th-century-station.html",
+        "snippet": "The Mamaroneck station, unused for travel for years, became home to Modern on the Rails in October....",
+        "lead_paragraph": "The Mamaroneck station, unused for travel for years, became home to Modern on the Rails in October.",
+        "abstract": "Emily DeNitto reviews restaurant Modern on the Rails in Mamaroneck (Metropolitan/Westchester).",
+        "print_page": "7",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/17/nyregion/17DINEWE1/17DINEWE1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/17/nyregion/17DINEWE1/17DINEWE1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/17/nyregion/17DINEWE1/17DINEWE1-articleLarge.jpg",
+            "height": 378,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/17/nyregion/17DINEWE1/17DINEWE1-articleLarge.jpg",
+              "xlargeheight": "378"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/17/nyregion/17DINEWE1/17DINEWE1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/17/nyregion/17DINEWE1/17DINEWE1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Modern on the Rails Brings Italian to a 19th-Century Station",
+          "content_kicker": "Dining | Westchester",
+          "kicker": "Dining | Westchester",
+          "print_headline": "Trip to Italy at a 19th-Century Train Station"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Mamaroneck (NY)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Restaurants"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Modern on the Rails (Mamaroneck, NY, Restaurant)"
+          }
+        ],
+        "pub_date": "2016-07-15T20:50:17+0000",
+        "document_type": "article",
+        "news_desk": "Metropolitan",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Emily",
+              "rank": 1,
+              "lastname": "DeNITTO"
+            }
+          ],
+          "original": "By EMILY DeNITTO"
+        },
+        "type_of_material": "News",
+        "_id": "57894c8e38f0d829e63dde5c",
+        "word_count": "698",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

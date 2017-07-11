@@ -1,0 +1,386 @@
+{
+  "response": {
+    "meta": {
+      "hits": 822,
+      "time": 39,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/18/nytnow/ryan-lochte-gawker-donald-trump-your-thursday-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Ryan Lochte, Gawker, Donald Trump: Your Thursday Evening Briefing",
+          "print_headline": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Karen",
+              "rank": 1,
+              "lastname": "WORKMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By KAREN WORKMAN and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57b6329095d0e021d798172d",
+        "word_count": "1021",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/us/politics/ap-us-state-department-video.html",
+        "snippet": "The State Department says it can't determine who ordered several minutes of videotape deleted from a news briefing about nuclear negotiations with Iran....",
+        "lead_paragraph": "The State Department says it can't determine who ordered several minutes of videotape deleted from a news briefing about nuclear negotiations with Iran.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "State Dept Mystery: Who Cut Briefing Video on Iran Talks?",
+          "print_headline": "State Dept Mystery: Who Cut Briefing Video on Iran Talks?"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:04:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6326c95d0e021d798172b",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/business/18reuters-germany-economy.html",
+        "snippet": "- The German economy remains on a solid growth path despite the recent slowdown in the second quarter, but external risks have increased after the British decision to leave the European Union, the Finance Ministry said on Friday....",
+        "lead_paragraph": "- The German economy remains on a solid growth path despite the recent slowdown in the second quarter, but external risks have increased after the British decision to leave the European Union, the Finance Ministry said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "German Economy to Grow Despite Increased Risks Such as Brexit-Ministry",
+          "print_headline": "German Economy to Grow Despite Increased Risks Such as Brexit-Ministry"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:06:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6321e95d0e021d7981729",
+        "word_count": "326",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/18/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/nytnow/18eveningss-slide-EGVH/18eveningss-slide-EGVH-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57b631fe95d0e021d7981728",
+        "word_count": "12",
+        "slideshow_credits": "Martin Bureau/Agence France-Presse \u2014 Getty Images"
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/sports/soccer/18reuters-soccer-england-wat-kaboul.html",
+        "snippet": "Sunderland have accepted a bid from Premier League rivals Watford for Younes Kaboul after the French centre half expressed a wish to leave, citing personal reasons....",
+        "lead_paragraph": "Sunderland have accepted a bid from Premier League rivals Watford for Younes Kaboul after the French centre half expressed a wish to leave, citing personal reasons.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Sunderland Agree to Let Frenchman Kaboul Join Watford",
+          "print_headline": "Sunderland Agree to Let Frenchman Kaboul Join Watford"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:03:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6316d95d0e021d7981724",
+        "word_count": "164",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/business/ap-us-eddie-bauer-data-breach.html",
+        "snippet": "Eddie Bauer says its retail stores' point-of-sale systems were infected with malware earlier this year, possibly giving hackers access to customers' payment card information....",
+        "lead_paragraph": "Eddie Bauer says its retail stores' point-of-sale systems were infected with malware earlier this year, possibly giving hackers access to customers' payment card information.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Eddie Bauer Says Retail Store Registers Hit by Malware",
+          "print_headline": "Eddie Bauer Says Retail Store Registers Hit by Malware"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T22:00:48Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b630cc95d0e021d7981723",
+        "word_count": "123",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/business/18reuters-viacom-dauman.html",
+        "snippet": "- Viacom Inc and controlling shareholder Sumner Redstone have come to an agreement on terms of a settlement that would result in the departure of Chief Executive Philippe Dauman, two sources familiar with the situation told Reuters on Thursday....",
+        "lead_paragraph": "- Viacom Inc and controlling shareholder Sumner Redstone have come to an agreement on terms of a settlement that would result in the departure of Chief Executive Philippe Dauman, two sources familiar with the situation told Reuters on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Viacom and Controlling Shareholder Sumner Redstone Agree on Settlement-Sources",
+          "print_headline": "Viacom and Controlling Shareholder Sumner Redstone Agree on Settlement-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T21:57:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6300d95d0e021d7981722",
+        "word_count": "703",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/business/18reuters-goldman-sachs-fed-lawsuit.html",
+        "snippet": "Goldman Sachs Group Inc filed a lawsuit on Thursday seeking to force a former managing director to arbitrate his claim for legal fees stemming from probes into his alleged use of confidential Federal Reserve documents....",
+        "lead_paragraph": "Goldman Sachs Group Inc filed a lawsuit on Thursday seeking to force a former managing director to arbitrate his claim for legal fees stemming from probes into his alleged use of confidential Federal Reserve documents.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Goldman Seeks to Force Ex-Employee in Fed Leak Case to Arbitrate",
+          "print_headline": "Goldman Seeks to Force Ex-Employee in Fed Leak Case to Arbitrate"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T21:57:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b6300795d0e021d7981721",
+        "word_count": "337",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/18/sports/olympics/ap-oly-tim-dahlberg-basketball.html",
+        "snippet": "So much is expected of them, mainly because there is so much talent....",
+        "lead_paragraph": "So much is expected of them, mainly because there is so much talent.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Column: Desire Trumps Talent for US Men's Basketball Team",
+          "print_headline": "Column: Desire Trumps Talent for US Men's Basketball Team"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T21:37:21Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b62f9f95d0e021d798171f",
+        "word_count": "760",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/18/business/18reuters-usa-fed-williams-septemeber.html",
+        "snippet": "San Francisco Federal Reserve Bank President John Williams on Thursday joined a growing chorus of his colleagues signaling support for a U.S. interest rate hike in coming months, saying that waiting too long could be costly for the economy....",
+        "lead_paragraph": "San Francisco Federal Reserve Bank President John Williams on Thursday joined a growing chorus of his colleagues signaling support for a U.S. interest rate hike in coming months, saying that waiting too long could be costly for the economy. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Fed's Williams Says September Rate Hike Makes Sense",
+          "print_headline": "Fed's Williams Says September Rate Hike Makes Sense"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-18T21:55:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b62f5795d0e021d798171e",
+        "word_count": "415",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

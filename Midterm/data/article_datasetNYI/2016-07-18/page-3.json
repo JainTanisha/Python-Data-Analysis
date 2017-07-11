@@ -1,0 +1,565 @@
+{
+  "response": {
+    "meta": {
+      "hits": 817,
+      "time": 57,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/18/world/africa/18reuters-kenya-aids.html",
+        "snippet": "Rashid Hassan Mohammed began using drugs when he was 15, after fleeing an abusive home in the Kenyan coastal city of Mombasa and joining a street gang that robbed and stole to buy heroin....",
+        "lead_paragraph": "Rashid Hassan Mohammed began using drugs when he was 15, after fleeing an abusive home in the Kenyan coastal city of Mombasa and joining a street gang that robbed and stole to buy heroin.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Surging Heroin Use Threatens Kenya's HIV/AIDS Gains",
+          "print_headline": "Surging Heroin Use Threatens Kenya's HIV/AIDS Gains"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T21:10:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578d7e8138f0d83d42cf4421",
+        "word_count": "994",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/19/business/us-investigates-fiat-chrysler-over-sales-figures.html",
+        "snippet": "The S.E.C. is asking whether the automaker has improperly inflated its monthly vehicle sales totals, potentially misleading investors....",
+        "lead_paragraph": "The S.E.C. is asking whether the automaker has improperly inflated its monthly vehicle sales totals, potentially misleading investors.",
+        "abstract": "Securities and Exchange Commission is investigating whether Fiat Chrysler Automobiles has been improperly exaggerating its monthly sales totals, and whether those totals have misled investors.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/19/business/19CHRYSLER/19CHRYSLER-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/19/business/19CHRYSLER/19CHRYSLER-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/19/business/19CHRYSLER/19CHRYSLER-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/19/business/19CHRYSLER/19CHRYSLER-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/19/business/19CHRYSLER/19CHRYSLER-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/19/business/19CHRYSLER/19CHRYSLER-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Investigates Fiat Chrysler Over Sales Figures",
+          "print_headline": "S.E.C. Is Investigating Whether Fiat Chrysler Inflated Sales Figures"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Fiat Chrysler Automobiles NV"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Securities and Exchange Commission"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Securities and Commodities Violations"
+          }
+        ],
+        "pub_date": "2016-07-18T21:10:16+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Neal",
+              "middlename": "E.",
+              "lastname": "BOUDETTE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By NEAL E. BOUDETTE"
+        },
+        "type_of_material": "News",
+        "_id": "578d45be38f0d83d42cf4395",
+        "word_count": "596",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/19/arts/television/shooter-on-usa-postponed-again-after-baton-rouge-attack.html",
+        "snippet": "Delayed after a gunman attack on Dallas police officers, the series was postponed indefinitely after a similar event in Baton Rouge....",
+        "lead_paragraph": "Delayed after a gunman attack on Dallas police officers, the series was postponed indefinitely after a similar event in Baton Rouge.",
+        "abstract": "USA network postpones premiere of series Shooter for second time due to recent attack on police in Baton Rouge, La. ",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/13/arts/13SHOOTERITEM/13SHOOTERITEM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/13/arts/13SHOOTERITEM/13SHOOTERITEM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/13/arts/13SHOOTERITEM/13SHOOTERITEM-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/13/arts/13SHOOTERITEM/13SHOOTERITEM-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/13/arts/13SHOOTERITEM/13SHOOTERITEM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/13/arts/13SHOOTERITEM/13SHOOTERITEM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Shooter\u2019 on USA Postponed Again After Baton Rouge Attack",
+          "print_headline": "\u2018Shooter\u2019 Succumbs Again to Real-Life Violence"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Shooter (TV Program)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "USA Network"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Baton Rouge (La)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shooting (Sport)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Attacks on Police"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Long, Gavin Eugene (1987-2016)"
+          }
+        ],
+        "pub_date": "2016-07-18T21:08:30+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Television",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeremy",
+              "rank": 1,
+              "lastname": "EGNER"
+            }
+          ],
+          "original": "By JEREMY EGNER"
+        },
+        "type_of_material": "News",
+        "_id": "578d455138f0d83d42cf438f",
+        "word_count": "163",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/us/ap-us-police-shot-baton-rouge-the-shooting.html",
+        "snippet": "The horrific scene unfolded in a matter of minutes, a black-clad man with military training stalking law enforcement officers and ignoring horrified onlookers as he shot anyone he could find wearing a badge....",
+        "lead_paragraph": "The horrific scene unfolded in a matter of minutes, a black-clad man with military training stalking law enforcement officers and ignoring horrified onlookers as he shot anyone he could find wearing a badge.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "'Sheer Brutality': Police Detail Baton Rouge Shooting Scene",
+          "print_headline": "'Sheer Brutality': Police Detail Baton Rouge Shooting Scene"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T21:01:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d7c6c38f0d83d42cf441b",
+        "word_count": "755",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/us/ap-mi-detroit-jazz-festival.html",
+        "snippet": "A new app will offer live-streamed performances from this year's Detroit Jazz Festival....",
+        "lead_paragraph": "A new app will offer live-streamed performances from this year's Detroit Jazz Festival.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "App Will Stream Performances Live From Detroit Jazz Festival",
+          "print_headline": "App Will Stream Performances Live From Detroit Jazz Festival"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T20:58:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d7bb338f0d83d42cf441a",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/18/world/asia/18reuters-northkorea-missiles-usa.html",
+        "snippet": "The U.S. military said on Monday it detected and tracked three North Korean missile launches over the span of nearly an hour....",
+        "lead_paragraph": "The U.S. military said on Monday it detected and tracked three North Korean missile launches over the span of nearly an hour.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Says It Detected Three North Korean Missile Launches",
+          "print_headline": "U.S. Says It Detected Three North Korean Missile Launches"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T20:56:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578d7baf38f0d83d42cf4419",
+        "word_count": "84",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/sports/olympics/ap-oly-bko-us-opens.html",
+        "snippet": "Coach Mike Krzyzewski got his first glimpse at the new-look U.S. national team, as the team opened camp at UNLV with just two players back from the 2012 national team that won the gold medal in London....",
+        "lead_paragraph": "Coach Mike Krzyzewski got his first glimpse at the new-look U.S. national team, as the team opened camp at UNLV with just two players back from the 2012 national team that won the gold medal in London.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Basketball Team Opens Camp in Las Vegas With New Faces",
+          "print_headline": "US Basketball Team Opens Camp in Las Vegas With New Faces"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T20:55:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d7b0838f0d83d42cf4416",
+        "word_count": "668",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/18/world/asia/18reuters-southchinasea-ruling-philippines.html",
+        "snippet": "The Philippines has turned down a Chinese proposal to start bilateral talks, its foreign minister said on Tuesday, because of Beijing's pre-condition of not discussing a court ruling that nullified most of its South China Sea claims....",
+        "lead_paragraph": "The Philippines has turned down a Chinese proposal to start bilateral talks, its foreign minister said on Tuesday, because of Beijing's pre-condition of not discussing a court ruling that nullified most of its South China Sea claims.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Philippines Says Rejected China Offer of Conditional Dialogue on South China Sea Dispute",
+          "print_headline": "Philippines Says Rejected China Offer of Conditional Dialogue on South China Sea Dispute"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T20:55:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578d7afd38f0d83d42cf4415",
+        "word_count": "455",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/18/technology/18reuters-nintendo-pokemon-stocks.html",
+        "snippet": "Shares of Japan's Nintendo Co soared 10 percent in early trade on Tuesday, buoyed by the ongoing popularity of its Pokemon GO mobile game....",
+        "lead_paragraph": "Shares of Japan's Nintendo Co soared 10 percent in early trade on Tuesday, buoyed by the ongoing popularity of its Pokemon GO mobile game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Nintendo Shares Up More Than 10 Percent in Early Trade",
+          "print_headline": "Nintendo Shares Up More Than 10 Percent in Early Trade"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T20:45:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578d78e538f0d83d42cf4412",
+        "word_count": "80",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/politics/100000004538204/slovenians-in-cleveland-react-to-melania.html",
+        "snippet": "Slovenian-Americans in Cleveland talked about Donald Trump\u2019s wife, a native of what is now Slovenia....",
+        "lead_paragraph": "Slovenian-Americans in Cleveland talked about Donald Trump\u2019s wife, a native of what is now Slovenia.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/18/multimedia/rnc-little-slovenia/rnc-little-slovenia-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/18/multimedia/rnc-little-slovenia/rnc-little-slovenia-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/18/multimedia/rnc-little-slovenia/rnc-little-slovenia-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/18/multimedia/rnc-little-slovenia/rnc-little-slovenia-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/18/multimedia/rnc-little-slovenia/rnc-little-slovenia-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/18/multimedia/rnc-little-slovenia/rnc-little-slovenia-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Slovenians in Cleveland React to Melania"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Melania"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Slovenian-Americans"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cleveland (Ohio)"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          }
+        ],
+        "pub_date": "2016-07-18T20:45:05Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jason",
+              "rank": 1,
+              "lastname": "HOROWITZ"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Shane",
+              "rank": 2,
+              "lastname": "O'NEILL"
+            }
+          ],
+          "original": "By JASON HOROWITZ and SHANE O'NEILL"
+        },
+        "type_of_material": "Video",
+        "_id": "578d782838f0d83d42cf4410",
+        "word_count": "15",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

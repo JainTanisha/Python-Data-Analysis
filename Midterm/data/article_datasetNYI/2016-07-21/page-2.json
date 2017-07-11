@@ -1,0 +1,459 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1038,
+      "time": 93,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/sports/baseball/ap-bbn-padres-cardinals.html",
+        "snippet": "Aledmys Diaz learned a valuable lesson at the All-Star Game....",
+        "lead_paragraph": "Aledmys Diaz learned a valuable lesson at the All-Star Game.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Cardinals Rally for 6-5 Win Over Padres",
+          "print_headline": "Cardinals Rally for 6-5 Win Over Padres"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:51:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57918b0c38f0d87a83eba854",
+        "word_count": "761",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/us/politics/21reuters-usa-election-policy.html",
+        "snippet": "People seeking a deeper understanding of Donald Trump's economic policy came up empty-handed this week at the Republican National Convention....",
+        "lead_paragraph": "People seeking a deeper understanding of Donald Trump's economic policy came up empty-handed this week at the Republican National Convention.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "To Wonks Hungry for Policy Details, Trump Team Serves Lighter Fare",
+          "print_headline": "To Wonks Hungry for Policy Details, Trump Team Serves Lighter Fare"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:52:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57918aeb38f0d87a83eba853",
+        "word_count": "787",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/world/asia/ap-as-china-village-protest.html",
+        "snippet": "China has arrested the popular head of a village who won a rare open election in 2012 following a standoff with the ruling Communist Party, a move that has already prompted street protests in the man's defense....",
+        "lead_paragraph": "China has arrested the popular head of a village who won a rare open election in 2012 following a standoff with the ruling Communist Party, a move that has already prompted street protests in the man's defense.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "China Arrests Popular Village Head on Graft Charges",
+          "print_headline": "China Arrests Popular Village Head on Graft Charges"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:45:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5791899038f0d87a83eba852",
+        "word_count": "319",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/22/us/politics/at-the-convention-a-90s-party-with-a-twist.html",
+        "snippet": "New York Times correspondents are chronicling the colorful, the unusual and the quirky at the Republican National Convention in Cleveland....",
+        "lead_paragraph": "New York Times correspondents are chronicling the colorful, the unusual and the quirky at the Republican National Convention in Cleveland.",
+        "abstract": "College Republican National Committee hosts party at Republican National Convention called Make America Dance Again, homage to 1990s era dominated by Clinton family that Republicans have little love for.",
+        "print_page": "13",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/22/us/22scene/22scene-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/22/us/22scene/22scene-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/22/us/22scene/22scene-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/22/us/22scene/22scene-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/22/us/22scene/22scene-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/22/us/22scene/22scene-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "At the Convention: A \u201990s Party With a Twist",
+          "print_headline": "Time Machine; \u2018Make America Dance Again\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Republican National Convention"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Bill"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Nineteen Hundred Nineties"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Parties (Social)"
+          }
+        ],
+        "pub_date": "2016-07-21T22:42:47+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sam",
+              "rank": 1,
+              "lastname": "PURDY"
+            }
+          ],
+          "original": "By SAM PURDY"
+        },
+        "type_of_material": "News",
+        "_id": "57914fe938f0d87a83eba7d9",
+        "word_count": "776",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/world/asia/ap-as-australia-balloon.html",
+        "snippet": "A 65-year-old Russian adventurer was on the brink of setting a record for flying solo in a balloon around the world nonstop and was expected to land in Australia on Saturday, his son said on Friday....",
+        "lead_paragraph": "A 65-year-old Russian adventurer was on the brink of setting a record for flying solo in a balloon around the world nonstop and was expected to land in Australia on Saturday, his son said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Russian Balloonist Hopes to Circumnavigate Globe on Saturday",
+          "print_headline": "Russian Balloonist Hopes to Circumnavigate Globe on Saturday"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:31:18Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5791861b38f0d87a83eba850",
+        "word_count": "341",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/world/asia/21reuters-china-wukan-arrest.html",
+        "snippet": "A former leader of a Chinese village who was democratically elected five years ago after taking a stand against corruption has been arrested for taking bribes, said Chinese state news agency Xinhua....",
+        "lead_paragraph": "A former leader of a Chinese village who was democratically elected five years ago after taking a stand against corruption has been arrested for taking bribes, said Chinese state news agency Xinhua. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Chinese Anti-Graft Protest Leader Arrested for Taking Bribes: Xinhua",
+          "print_headline": "Chinese Anti-Graft Protest Leader Arrested for Taking Bribes: Xinhua"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:33:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5791860938f0d87a83eba84f",
+        "word_count": "299",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/21/world/asia/21reuters-papua-protests.html",
+        "snippet": "Papua New Guinea Prime Minister Peter O'Neill survived a no-confidence vote on Friday, EMTV reported, an outcome unlikely to end upheaval in a country developing lucrative projects with energy majors ExxonMobil Corp and French giant Total SA....",
+        "lead_paragraph": "Papua New Guinea Prime Minister Peter O'Neill survived a no-confidence vote on Friday, EMTV reported, an outcome unlikely to end upheaval in a country developing lucrative projects with energy majors ExxonMobil Corp and French giant Total SA.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Papua New Guinea PM Survives No-Confidence Vote but Strikes Remain",
+          "print_headline": "Papua New Guinea PM Survives No-Confidence Vote but Strikes Remain"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:29:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5791854b38f0d87a83eba84e",
+        "word_count": "438",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/sports/baseball/ap-bbn-marlins-phillies.html",
+        "snippet": "Tom Koehler has watched his teammates play good baseball for the last month, and he was happy to finally help out....",
+        "lead_paragraph": "Tom Koehler has watched his teammates play good baseball for the last month, and he was happy to finally help out.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Koehler, Suzuki Lead Marlins Past Phillies",
+          "print_headline": "Koehler, Suzuki Lead Marlins Past Phillies"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:12:50Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5791820438f0d87a83eba84d",
+        "word_count": "788",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/21/sports/baseball/ap-bba-twins-red-sox.html",
+        "snippet": "July just keeps getting better in Boston....",
+        "lead_paragraph": "July just keeps getting better in Boston.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pedroia Has 5 of Boston's 17 Hits in 13-2 Win Over",
+          "print_headline": "Pedroia Has 5 of Boston's 17 Hits in 13-2 Win Over"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-21T22:11:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5791820438f0d87a83eba84c",
+        "word_count": "870",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/22/us/politics/tim-kaine-hillary-clinton-vice-president.html",
+        "snippet": "Mrs. Clinton\u2019s campaign has kept a tight lid on its search for a vice-presidential candidate but was expected to make her choice known on Friday afternoon....",
+        "lead_paragraph": "Mrs. Clinton\u2019s campaign has kept a tight lid on its search for a vice-presidential candidate but was expected to make her choice known on Friday afternoon.",
+        "abstract": "Democrats close to Hillary Clinton's presidential campaign strongly signal that she will choose Sen Tim Kaine of Virginia, popular politician from battleground state, as her running mate.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/19/us/22clinton-web/22clinton-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/19/us/22clinton-web/22clinton-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/19/us/22clinton-web/22clinton-web-articleLarge.jpg",
+            "height": 414,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/19/us/22clinton-web/22clinton-web-articleLarge.jpg",
+              "xlargeheight": "414"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/19/us/22clinton-web/22clinton-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/19/us/22clinton-web/22clinton-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Tim Kaine Seems Likely for Hillary Clinton\u2019s No. 2, but Liberals Balk",
+          "print_headline": "Clinton Expected to Choose Virginia Senator as Her Running Mate"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Kaine, Timothy M"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Vice Presidents and Vice Presidency (US)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Virginia"
+          }
+        ],
+        "pub_date": "2016-07-21T22:10:32+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Amy",
+              "rank": 1,
+              "lastname": "CHOZICK"
+            }
+          ],
+          "original": "By AMY CHOZICK"
+        },
+        "type_of_material": "News",
+        "_id": "5791485a38f0d87a83eba7c0",
+        "word_count": "905",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

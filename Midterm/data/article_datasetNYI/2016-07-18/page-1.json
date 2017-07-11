@@ -1,0 +1,417 @@
+{
+  "response": {
+    "meta": {
+      "hits": 817,
+      "time": 96,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/us/ap-us-ranching-standoff.html",
+        "snippet": "A federal prosecutor says Oregon standoff figure Ryan Bundy was working on a plan to escape from a Portland jail....",
+        "lead_paragraph": "A federal prosecutor says Oregon standoff figure Ryan Bundy was working on a plan to escape from a Portland jail.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Prosecutor Says Standoff Figure Hatched Escape",
+          "print_headline": "Prosecutor Says Standoff Figure Hatched Escape"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:39:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d939e38f0d83d42cf443f",
+        "word_count": "826",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/world/americas/ap-lt-colombia-peace-plebiscite.html",
+        "snippet": "Colombia's top court has approved the government's plans to hold a plebiscite on a peace deal with leftist rebels....",
+        "lead_paragraph": "Colombia's top court has approved the government's plans to hold a plebiscite on a peace deal with leftist rebels.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombia High Court Approves Plans for Peace Plebiscite",
+          "print_headline": "Colombia High Court Approves Plans for Peace Plebiscite"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:36:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d92ed38f0d83d42cf443e",
+        "word_count": "125",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/sports/baseball/ap-bbn-marlins-phillies.html",
+        "snippet": "Martin Prado got a second chance to get a clutch hit and didn't miss....",
+        "lead_paragraph": "Martin Prado got a second chance to get a clutch hit and didn't miss.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Prado's Solo Homer in 11th Lifts Marlins Over Phillies 3-2",
+          "print_headline": "Prado's Solo Homer in 11th Lifts Marlins Over Phillies 3-2"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:24:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d902738f0d83d42cf443a",
+        "word_count": "618",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/18/nyregion/document-Zarrab-Motion-to-Dismiss.html",
+        "snippet": "Defense motion to dismiss the indictment against Reza Zarrab, a Turkish gold trader charged in New York with conspiracy to violate United States sanctions on Iran and other counts....",
+        "lead_paragraph": "Defense motion to dismiss the indictment against Reza Zarrab, a Turkish gold trader charged in New York with conspiracy to violate United States sanctions on Iran and other counts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/18/nyregion/image-Zarrab-Motion-to-Dismiss/image-Zarrab-Motion-to-Dismiss-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/18/nyregion/image-Zarrab-Motion-to-Dismiss/image-Zarrab-Motion-to-Dismiss-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/18/nyregion/image-Zarrab-Motion-to-Dismiss/image-Zarrab-Motion-to-Dismiss-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/18/nyregion/image-Zarrab-Motion-to-Dismiss/image-Zarrab-Motion-to-Dismiss-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/18/nyregion/image-Zarrab-Motion-to-Dismiss/image-Zarrab-Motion-to-Dismiss-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/18/nyregion/image-Zarrab-Motion-to-Dismiss/image-Zarrab-Motion-to-Dismiss-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Zarrab\u2019s Lawyers File Motion to Dismiss Indictment"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "578d902938f0d83d42cf443b",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/07/18/nyregion/document-Zarrabs-Motion-to-Suppress.html",
+        "snippet": "Defense motion filed by lawyers for Reza Zarrab, a Turkish gold trader charged in New York with conspiracy to violate U.S. sanctions on Iran and other counts, to suppress statements he made to the Federal Bureau of Investigation when he was interr...",
+        "lead_paragraph": "Defense motion filed by lawyers for Reza Zarrab, a Turkish gold trader charged in New York with conspiracy to violate U.S. sanctions on Iran and other counts, to suppress statements he made to the Federal Bureau of Investigation when he was interrogated after arriving in the United States in March.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/18/nyregion/image-Zarrabs-Motion-to-Suppress/image-Zarrabs-Motion-to-Suppress-thumbWide.gif",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/18/nyregion/image-Zarrabs-Motion-to-Suppress/image-Zarrabs-Motion-to-Suppress-thumbWide.gif",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/18/nyregion/image-Zarrabs-Motion-to-Suppress/image-Zarrabs-Motion-to-Suppress-articleLarge.gif",
+            "height": 776,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/18/nyregion/image-Zarrabs-Motion-to-Suppress/image-Zarrabs-Motion-to-Suppress-articleLarge.gif",
+              "xlargeheight": "776"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/18/nyregion/image-Zarrabs-Motion-to-Suppress/image-Zarrabs-Motion-to-Suppress-thumbStandard.gif",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/18/nyregion/image-Zarrabs-Motion-to-Suppress/image-Zarrabs-Motion-to-Suppress-thumbStandard.gif",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Zarrab\u2019s Lawyers File Motion to Suppress Statements"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "N.Y. / Region",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "578d902138f0d83d42cf4439",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/18/sports/olympics/18reuters-olympics-rio-southkorea-flagbearer.html",
+        "snippet": "Fencer Gu Bon-gil will carry the South Korean flag at the opening ceremony of the Rio de Janiero Games, the Korean Olympic Committee said on Tuesday....",
+        "lead_paragraph": "Fencer Gu Bon-gil will carry the South Korean flag at the opening ceremony of the Rio de Janiero Games, the Korean Olympic Committee said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Fencer Gu Named South Korea Flagbearer for Rio",
+          "print_headline": "Fencer Gu Named South Korea Flagbearer for Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:21:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578d8f6138f0d83d42cf4438",
+        "word_count": "174",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/sports/baseball/ap-bbn-mets-cubs.html",
+        "snippet": "Anthony Rizzo kept fouling the ball off, over and over again. When Steven Matz finally blinked, Rizzo capitalized with one mighty swing....",
+        "lead_paragraph": "Anthony Rizzo kept fouling the ball off, over and over again. When Steven Matz finally blinked, Rizzo capitalized with one mighty swing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rizzo Homers as Cubs Beat Mets 5-1",
+          "print_headline": "Rizzo Homers as Cubs Beat Mets 5-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:14:25Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d8d5538f0d83d42cf4437",
+        "word_count": "750",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/18/sports/baseball/ap-bba-orioles-yankees.html",
+        "snippet": "Alex Rodriguez finally has his best swing, the Yankees' No Runs DMC bullpen trio is rolling and they're all trying to keep the band together....",
+        "lead_paragraph": "Alex Rodriguez finally has his best swing, the Yankees' No Runs DMC bullpen trio is rolling and they're all trying to keep the band together.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rodriguez Hits No. 696; Nova,' Pen Pitch Yanks Over O's 2-1",
+          "print_headline": "Rodriguez Hits No. 696; Nova,' Pen Pitch Yanks Over O's 2-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:13:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "578d8d5538f0d83d42cf4436",
+        "word_count": "896",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/18/us/18reuters-worldbank-economist.html",
+        "snippet": "The World Bank on Monday confirmed New York University economics professor Paul Romer as its next chief economist, bringing in a prominent voice advocating for investment in human capital and innovation....",
+        "lead_paragraph": "The World Bank on Monday confirmed New York University economics professor Paul Romer as its next chief economist, bringing in a prominent voice advocating for investment in human capital and innovation.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "World Bank Confirms NYU's Romer as Next Chief Economist",
+          "print_headline": "World Bank Confirms NYU's Romer as Next Chief Economist"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-18T22:06:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "578d8bdd38f0d83d42cf4434",
+        "word_count": "399",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/18/just-before-hitting-the-pool/",
+        "snippet": "In which I do an inordinate amount of research to understand James Mulhern\u2019s theme, totally due to my own shortcomings....",
+        "lead_paragraph": null,
+        "abstract": "In which I do an inordinate amount of research to understand James Mulhern\u2019s theme, totally due to my own shortcomings.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/18/crosswords/19wordplaynaan/19wordplaynaan-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/18/crosswords/19wordplaynaan/19wordplaynaan-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/18/crosswords/19wordplaynaan/19wordplaynaan-articleLarge.jpg",
+            "height": 436,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/18/crosswords/19wordplaynaan/19wordplaynaan-articleLarge.jpg",
+              "xlargeheight": "436"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/18/crosswords/19wordplaynaan/19wordplaynaan-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/18/crosswords/19wordplaynaan/19wordplaynaan-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Just Before Hitting the Pool",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-18T22:00:44Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "578d8a7e38f0d83d42cf4432",
+        "word_count": "283",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,416 @@
+{
+  "response": {
+    "meta": {
+      "hits": 869,
+      "time": 39,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/world/africa/16reuters-usa-treasury-saudi-charity.html",
+        "snippet": "The United States on Friday removed a defunct charity with links to Saudi Arabia from its sanctions blacklist as part of a settlement with the charity that ends a lengthy dispute arising from claims that it funneled money to terrorists, the Treasu...",
+        "lead_paragraph": "The United States on Friday removed a defunct charity with links to Saudi Arabia from its sanctions blacklist as part of a settlement with the charity that ends a lengthy dispute arising from claims that it funneled money to terrorists, the Treasury Department said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. Removes Defunct Saudi-Linked American Charity From Blacklist",
+          "print_headline": "U.S. Removes Defunct Saudi-Linked American Charity From Blacklist"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:54:33Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc78e895d0e021d7986bfe",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/sports/soccer/16reuters-soccer-england-che-liv-henderson.html",
+        "snippet": "Jordan Henderson has spent much of his Liverpool career being compared unfavorably with Steven Gerrard, but his stunning goal against Chelsea on Friday could have come straight from the copybook of the former Anfield hero....",
+        "lead_paragraph": "Jordan Henderson has spent much of his Liverpool career being compared unfavorably with Steven Gerrard, but his stunning goal against Chelsea on Friday could have come straight from the copybook of the former Anfield hero. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Henderson Screamer Has Echoes of Gerrard at His Best",
+          "print_headline": "Henderson Screamer Has Echoes of Gerrard at His Best"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:51:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc782b95d0e021d7986bfc",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/09/16/t-magazine/top-ten-new-york-fashion-week-moments.html",
+        "snippet": "Kanye West's three-hour show, direct-to-consumer fashion \u2014 and so much more....",
+        "lead_paragraph": "Kanye West's three-hour show, direct-to-consumer fashion \u2014 and so much more.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/16/t-magazine/fashion/16tmag-topten-slide-3SU7/16tmag-topten-slide-3SU7-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/16/t-magazine/fashion/16tmag-topten-slide-3SU7/16tmag-topten-slide-3SU7-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/16/t-magazine/fashion/16tmag-topten-slide-3SU7/16tmag-topten-slide-3SU7-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/16/t-magazine/fashion/16tmag-topten-slide-3SU7/16tmag-topten-slide-3SU7-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/16/t-magazine/fashion/16tmag-topten-slide-3SU7/16tmag-topten-slide-3SU7-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/16/t-magazine/fashion/16tmag-topten-slide-3SU7/16tmag-topten-slide-3SU7-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Top 10 Moments From New York Fashion Week"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "New York Fashion Week"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Marc Jacobs International LLC"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cartier SA"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Yeezy (Fashion Label)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cunningham, Bill"
+          }
+        ],
+        "pub_date": "2016-09-16T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Malina",
+              "middlename": "Joseph",
+              "lastname": "GILCHRIST",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By MALINA JOSEPH GILCHRIST"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57dc774095d0e021d7986bfb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/16/us/ap-us-house-2016-arizona.html",
+        "snippet": "Arizona state Senate President Andy Biggs has won a recount in a razor-thin Republican primary in a suburban Phoenix congressional district....",
+        "lead_paragraph": "Arizona state Senate President Andy Biggs has won a recount in a razor-thin Republican primary in a suburban Phoenix congressional district.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Recount Choses Winner in Phoenix-Area Congressional Race",
+          "print_headline": "Recount Choses Winner in Phoenix-Area Congressional Race"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:43:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc763b95d0e021d7986bf9",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/us/politics/16reuters-usa-election-michelleobama.html",
+        "snippet": "Democratic presidential nominee Hillary Clinton's campaign deployed a popular surrogate on Friday to gin up enthusiasm amid young voters who could be critical to victory on Nov. 8: Michelle Obama....",
+        "lead_paragraph": "Democratic presidential nominee Hillary Clinton's campaign deployed a popular surrogate on Friday to gin up enthusiasm amid young voters who could be critical to victory on Nov. 8: Michelle Obama.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Popular Michelle Obama Courts Young People for Clinton",
+          "print_headline": "Popular Michelle Obama Courts Young People for Clinton"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:42:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc761995d0e021d7986bf8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/16/sports/ncaafootball/ap-fbc-washington-st-legal-woes.html",
+        "snippet": "The Pullman Police Department recommended Friday that assault charges be filed against two more Washington State University football players, bringing to four the number in legal trouble....",
+        "lead_paragraph": "The Pullman Police Department recommended Friday that assault charges be filed against two more Washington State University football players, bringing to four the number in legal trouble.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Police Recommend 2 More WSU FB Players Be Charged",
+          "print_headline": "Police Recommend 2 More WSU FB Players Be Charged"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:39:49Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc758395d0e021d7986bf7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/sports/soccer/16reuters-soccer-worldcup-bra.html",
+        "snippet": "Brazil coach Tite has recalled veteran central defender Thiago Silva to his squad for the World Cup qualifiers against Bolivia and Venezuela....",
+        "lead_paragraph": "Brazil coach Tite has recalled veteran central defender Thiago Silva to his squad for the World Cup qualifiers against Bolivia and Venezuela.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Tite Recalls Thiago Silva to Brazil Squad for Qualifiers",
+          "print_headline": "Tite Recalls Thiago Silva to Brazil Squad for Qualifiers"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:40:14Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc756995d0e021d7986bf6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/16/world/middleeast/16reuters-education-reform-brown.html",
+        "snippet": "Ensuring every child gets a good education is the \"civil rights struggle of our generation\", United Nations education envoy Gordon Brown said on Friday ahead of launching a plan for the largest educational expansion in history....",
+        "lead_paragraph": "Ensuring every child gets a good education is the \"civil rights struggle of our generation\", United Nations education envoy Gordon Brown said on Friday ahead of launching a plan for the largest educational expansion in history.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Education Is Civil Rights Struggle of Our Age: U.N. Envoy Gordon Brown",
+          "print_headline": "Education Is Civil Rights Struggle of Our Age: U.N. Envoy Gordon Brown"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:39:12Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc755d95d0e021d7986bf5",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/16/us/ap-us-people-mel-gibson.html",
+        "snippet": "Mel Gibson is preparing to be a dad for the ninth time....",
+        "lead_paragraph": "Mel Gibson is preparing to be a dad for the ninth time.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mel Gibson's Girlfriend Pregnant With Star's 9th Child",
+          "print_headline": "Mel Gibson's Girlfriend Pregnant With Star's 9th Child"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T22:37:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57dc74ee95d0e021d7986bf4",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/09/16/us/politics/17polldoc.html",
+        "snippet": "The poll looked closely at women\u2019s political views and broader outlook on American life, as well as how the wider society views the role of women....",
+        "lead_paragraph": "The poll looked closely at women\u2019s political views and broader outlook on American life, as well as how the wider society views the role of women.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/17/us/politics/17pollimage2/17pollimage2-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/17/us/politics/17pollimage2/17pollimage2-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/17/us/politics/17pollimage2/17pollimage2-articleLarge.png",
+            "height": 566,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/17/us/politics/17pollimage2/17pollimage2-articleLarge.png",
+              "xlargeheight": "566"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/17/us/politics/17pollimage2/17pollimage2-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/17/us/politics/17pollimage2/17pollimage2-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A New York Times/CBS News Poll on a Woman for President"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-16T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "57dc74db95d0e021d7986bf3",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

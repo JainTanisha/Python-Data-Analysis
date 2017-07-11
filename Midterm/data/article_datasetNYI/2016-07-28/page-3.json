@@ -1,0 +1,478 @@
+{
+  "response": {
+    "meta": {
+      "hits": 933,
+      "time": 54,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/sports/baseball/ap-bba-orioles-twins.html",
+        "snippet": "Rookie Max Kepler continued to show promise for the future of the Minnesota Twins, though the present-day struggles led to one member of the team being traded away....",
+        "lead_paragraph": "Rookie Max Kepler continued to show promise for the future of the Minnesota Twins, though the present-day struggles led to one member of the team being traded away.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Kepler Homers to Lead Twins in 6-2 Win Over Orioles",
+          "print_headline": "Kepler Homers to Lead Twins in 6-2 Win Over Orioles"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T22:15:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579abd1038f0d81bd1ba57af",
+        "word_count": "833",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/28/sports/olympics/28reuters-olympics-rio-fencing.html",
+        "snippet": "Olympic fencing in Rio de Janeiro promises dramatic duels in a storied rivalry.&#160;...",
+        "lead_paragraph": "Olympic fencing in Rio de Janeiro promises dramatic duels in a storied rivalry.&#160;",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Sabres Rattle as Russo-American Rivalry Hits Piste",
+          "print_headline": "Sabres Rattle as Russo-American Rivalry Hits Piste"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T22:12:34Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579abc4538f0d81bd1ba57ae",
+        "word_count": "440",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/29/arts/design/art-of-the-aids-years-addressing-history-absorbing-fear.html",
+        "snippet": "For my generation of American gay men, the AIDS epidemic was a second Vietnam War. A long-overdue historical survey of the era has finally arrived....",
+        "lead_paragraph": "For my generation of American gay men, the AIDS epidemic was a second Vietnam War. A long-overdue historical survey of the era has finally arrived.",
+        "abstract": "Holland Cotter reviews several AIDS-themed art exhibitions at Bronx Museum of the Arts, Leslie-Lohman Museum of Gay and Lesbian Art, Participant Inc and Lesbian, Gay, Bisexual and Transgender Community Center in Greenwich Village.",
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/arts/29AIDSMUSEUM1/29AIDSMUSEUM1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/arts/29AIDSMUSEUM1/29AIDSMUSEUM1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/arts/29AIDSMUSEUM1/29AIDSMUSEUM1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/arts/29AIDSMUSEUM1/29AIDSMUSEUM1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/arts/29AIDSMUSEUM1/29AIDSMUSEUM1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/arts/29AIDSMUSEUM1/29AIDSMUSEUM1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Art of the AIDS Years: What Took Museums So Long?",
+          "content_kicker": "Art Review",
+          "kicker": "Art Review",
+          "print_headline": "Art From the Age of AIDS"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Tongues Untied (Movie)"
+          },
+          {
+            "rank": "12",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Acquired Immune Deficiency Syndrome"
+          },
+          {
+            "rank": "13",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Homosexuality and Bisexuality"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Art AIDS America (Exhibit)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Bronx Museum of the Arts"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "A Deeper Dive (Exhibit)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Leslie-Lohman Museum of Gay and Lesbian Art"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Persons of Interest (Exhibit)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Lesbian, Gay, Bisexual and Transgender Community Center"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "THINGS: A Queer Legacy of Graphic Art and Play (Exhibit)"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Participant Inc"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Visual Aids"
+          }
+        ],
+        "pub_date": "2016-07-28T22:07:43+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Holland",
+              "rank": 1,
+              "lastname": "COTTER"
+            }
+          ],
+          "original": "By HOLLAND COTTER"
+        },
+        "type_of_material": "Review",
+        "_id": "579a823038f0d81bd1ba5731",
+        "word_count": "1778",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/sports/soccer/bc-soc-mls-all-star-game.html",
+        "snippet": "Didier Drogba hardly felt like celebrating his goal given the MLS All-Stars missed multiple late scoring chances that cost them their all-star game against Premier League power Arsenal....",
+        "lead_paragraph": "Didier Drogba hardly felt like celebrating his goal given the MLS All-Stars missed multiple late scoring chances that cost them their all-star game against Premier League power Arsenal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Akpom Scores Deciding Goal as Arsenal Tops MLS All-Stars 2-1",
+          "print_headline": "Akpom Scores Deciding Goal as Arsenal Tops MLS All-Stars 2-1"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T22:00:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Soccer",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab98038f0d81bd1ba57ab",
+        "word_count": "719",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://wordplay.blogs.nytimes.com/2016/07/28/deep-in-thought/",
+        "snippet": "John Guzzetta takes us into our solving weekend....",
+        "lead_paragraph": null,
+        "abstract": "John Guzzetta takes us into our solving weekend.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/29/crosswords/29wordplaynolookpass/29wordplaynolookpass-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/29/crosswords/29wordplaynolookpass/29wordplaynolookpass-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/29/crosswords/29wordplaynolookpass/29wordplaynolookpass-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/29/crosswords/29wordplaynolookpass/29wordplaynolookpass-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/29/crosswords/29wordplaynolookpass/29wordplaynolookpass-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/29/crosswords/29wordplaynolookpass/29wordplaynolookpass-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Deep in Thought",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-07-28T22:00:33Z",
+        "document_type": "blogpost",
+        "news_desk": "Business",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "Blog",
+        "_id": "579ab91f38f0d81bd1ba57a9",
+        "word_count": "742",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/us/politics/ap-us-democrats-hack.html",
+        "snippet": "The FBI is investigating an apparent hack into computer systems at the Democratic Congressional Campaign Committee, following a similar intrusion at the Democratic National Committee....",
+        "lead_paragraph": "The FBI is investigating an apparent hack into computer systems at the Democratic Congressional Campaign Committee, following a similar intrusion at the Democratic National Committee.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "FBI Investigates Hack at House Democrats' Campaign Committee",
+          "print_headline": "FBI Investigates Hack at House Democrats' Campaign Committee"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:57:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab8d138f0d81bd1ba57a8",
+        "word_count": "129",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/us/politics/ap-us-ap-explains-first-nominated-woman.html",
+        "snippet": "It's been read, written and said countless times in the last few days: Hillary Clinton is the first woman to claim a major party's presidential nomination....",
+        "lead_paragraph": "It's been read, written and said countless times in the last few days: Hillary Clinton is the first woman to claim a major party's presidential nomination.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "AP EXPLAINS: Long History of Women Running for President",
+          "print_headline": "AP EXPLAINS: Long History of Women Running for President"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:47:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab6b838f0d81bd1ba57a6",
+        "word_count": "578",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/sports/baseball/ap-bbn-cardinals-marlins.html",
+        "snippet": "The first time Jose Fernandez faced Aledmys Diaz on Thursday, the St. Louis Cardinals' slugger fouled the first pitch off with a mighty swing....",
+        "lead_paragraph": "The first time Jose Fernandez faced Aledmys Diaz on Thursday, the St. Louis Cardinals' slugger fouled the first pitch off with a mighty swing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Diaz's Homer Helps Cardinals Beat Marlins and Fernandez, 5-4",
+          "print_headline": "Diaz's Homer Helps Cardinals Beat Marlins and Fernandez, 5-4"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:45:29Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab60c38f0d81bd1ba57a5",
+        "word_count": "718",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/28/us/ap-mi-maker-faire-detroit.html",
+        "snippet": "The Henry Ford history attraction in suburban Detroit is hosting a festival celebrating arts, crafts, engineering and technology....",
+        "lead_paragraph": "The Henry Ford history attraction in suburban Detroit is hosting a festival celebrating arts, crafts, engineering and technology.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Maker Faire Detroit Festival Marks 7th Year This Weekend",
+          "print_headline": "Maker Faire Detroit Festival Marks 7th Year This Weekend"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:35:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab3df38f0d81bd1ba57a3",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/28/business/28reuters-china-banks.html",
+        "snippet": "Twelve Chinese commercial banks have signed an alliance allowing customers to transfer funds online and via mobile phones without being charged, state news agency Xinhua reported late on Thursday....",
+        "lead_paragraph": "Twelve Chinese commercial banks have signed an alliance allowing customers to transfer funds online and via mobile phones without being charged, state news agency Xinhua reported late on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China Banks in Alliance to Offer Free Online Money Transfers",
+          "print_headline": "China Banks in Alliance to Offer Free Online Money Transfers"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-28T21:27:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579ab1b938f0d81bd1ba57a1",
+        "word_count": "87",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

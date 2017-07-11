@@ -1,0 +1,547 @@
+{
+  "response": {
+    "meta": {
+      "hits": 936,
+      "time": 55,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/ap-us-christie-traffic-jams.html",
+        "snippet": "A New Jersey judge has set a court date for Republican Gov. Chris Christie's appeal of a resident's complaint Christie allowed the closure of lanes at the George Washington Bridge in 2013, creating a traffic nightmare that ensued for days....",
+        "lead_paragraph": "A New Jersey judge has set a court date for Republican Gov. Chris Christie's appeal of a resident's complaint Christie allowed the closure of lanes at the George Washington Bridge in 2013, creating a traffic nightmare that ensued for days.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Court Date Set for Christie's Appeal of Bridge Complaint",
+          "print_headline": "Court Date Set for Christie's Appeal of Bridge Complaint"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:07:21Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b953595d0e0204d560a65",
+        "word_count": "141",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:07:04Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b951f95d0e0204d560a64",
+        "word_count": "1234",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/15/business/15reuters-usa-trump-brazil.html",
+        "snippet": "Donald Trump's U.S. election victory and the ensuing market volatility should encourage Brazilian policymakers to push ahead with ambitious economic reforms that help cushion the country from global turmoil, business executives and bankers said on...",
+        "lead_paragraph": "Donald Trump's U.S. election victory and the ensuing market volatility should encourage Brazilian policymakers to push ahead with ambitious economic reforms that help cushion the country from global turmoil, business executives and bankers said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump Win Adds Pressure on Brazil to Pass Reforms, Executives Say",
+          "print_headline": "Trump Win Adds Pressure on Brazil to Pass Reforms, Executives Say"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:06:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582b950295d0e0204d560a62",
+        "word_count": "530",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/arts/design/sketchbook-attributed-to-van-gogh-pits-scholars-against-a-museum.html",
+        "snippet": "Two scholars said a sketchbook of 65 drawings is an authentic work by Vincent van Gogh, but the Van Gogh Museum in Amsterdam disagreed....",
+        "lead_paragraph": "Two scholars said a sketchbook of 65 drawings is an authentic work by Vincent van Gogh, but the Van Gogh Museum in Amsterdam disagreed.",
+        "abstract": "Experts from Amsterdam's Van Gogh Museum say contentious sketchbook of 65 drawings is not work of Vincent van Gogh, despite claims to contrary by respected scholars Ronald Pickvance and Bogomila Welsh-Ovcharov, who has published book Vincent van Gogh: The Lost Arles Sketchbook. ",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/16/arts/16VANGOGH/16VANGOGH-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/16/arts/16VANGOGH/16VANGOGH-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/16/arts/16VANGOGH/16VANGOGH-articleLarge-v2.jpg",
+            "height": 376,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/16/arts/16VANGOGH/16VANGOGH-articleLarge-v2.jpg",
+              "xlargeheight": "376"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/16/arts/16VANGOGH/16VANGOGH-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/16/arts/16VANGOGH/16VANGOGH-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sketchbook Attributed to van Gogh Pits Scholars Against a Museum",
+          "print_headline": "A van Gogh Discovery, or Maybe Not"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "van Gogh, Vincent"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Vincent van Gogh: The Lost Arles Sketchbook (Book)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Van Gogh Museum"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Welsh-Ovcharov, Bogomila"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pickvance, Ronald"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-11-15T23:05:49+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nina",
+              "rank": 1,
+              "lastname": "SIEGAL"
+            }
+          ],
+          "original": "By NINA SIEGAL"
+        },
+        "type_of_material": "News",
+        "_id": "582b94d195d0e0204d560a61",
+        "word_count": "828",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/sports/ap-us-ncaa-graduation-rates.html",
+        "snippet": "The NCAA announced Tuesday that 77 percent of black men's Division I basketball players who entered college in 2009 earned a degree within six years, up five points from a year earlier and a record high....",
+        "lead_paragraph": "The NCAA announced Tuesday that 77 percent of black men's Division I basketball players who entered college in 2009 earned a degree within six years, up five points from a year earlier and a record high.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "NCAA: Graduation Rates Up for Black Men's Basketball Players",
+          "print_headline": "NCAA: Graduation Rates Up for Black Men's Basketball Players"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:03:38Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b945495d0e0204d560a5f",
+        "word_count": "608",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004704629/trailer-i-am-not-madame-bovary.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/11/movies/video-i-am-not-madame-bovary-us/video-i-am-not-madame-bovary-us-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/11/movies/video-i-am-not-madame-bovary-us/video-i-am-not-madame-bovary-us-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/11/movies/video-i-am-not-madame-bovary-us/video-i-am-not-madame-bovary-us-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/11/movies/video-i-am-not-madame-bovary-us/video-i-am-not-madame-bovary-us-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/11/movies/video-i-am-not-madame-bovary-us/video-i-am-not-madame-bovary-us-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/11/movies/video-i-am-not-madame-bovary-us/video-i-am-not-madame-bovary-us-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: \u2018I Am Not Madame Bovary\u2019"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T23:01:07Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Well",
+              "middlename": "Go",
+              "lastname": "USA",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By WELL GO USA"
+        },
+        "type_of_material": "Video",
+        "_id": "582b93f395d0e0204d560a5d",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/us/politics/ap-us-south-dakota-noem.html",
+        "snippet": "Republican Kristi Noem plans to leave her South Dakota congressional seat after her next term to run for governor....",
+        "lead_paragraph": "Republican Kristi Noem plans to leave her South Dakota congressional seat after her next term to run for governor.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Rep. Kristi Noem to Run for South Dakota Governor in 2018",
+          "print_headline": "US Rep. Kristi Noem to Run for South Dakota Governor in 2018"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:58:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b933595d0e0204d560a5a",
+        "word_count": "211",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/16/arts/dance/exploring-the-space-between-performer-and-audience.html",
+        "snippet": "In \u201cThank You for Coming: Play,\u201d at the Brooklyn Academy of Music, her dancers are delving into the social experience of storytelling....",
+        "lead_paragraph": "In \u201cThank You for Coming: Play,\u201d at the Brooklyn Academy of Music, her dancers are delving into the social experience of storytelling.",
+        "abstract": "Choreographer Faye Driscoll explores nature of interaction between performers and audience in her latest work Thank You for Coming: Play, which will have its New York premiere at BAM Fisher.",
+        "print_page": "5",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/arts/17DRISCOLL/16DRISCOLL1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/arts/17DRISCOLL/16DRISCOLL1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/arts/17DRISCOLL/16DRISCOLL1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/arts/17DRISCOLL/16DRISCOLL1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/arts/17DRISCOLL/16DRISCOLL1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/arts/17DRISCOLL/16DRISCOLL1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Faye Driscoll\u2019s Tingling Force Field With the Dance Audience",
+          "print_headline": "Into a Force Field Between Dancers and Audience"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Driscoll, Faye"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Brooklyn Academy of Music"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Thank You for Coming: Play (Dance)"
+          }
+        ],
+        "pub_date": "2016-11-15T22:58:39+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Dance",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Siobhan",
+              "rank": 1,
+              "lastname": "BURKE"
+            }
+          ],
+          "original": "By SIOBHAN BURKE"
+        },
+        "type_of_material": "News",
+        "_id": "582b932695d0e0204d560a59",
+        "word_count": "908",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/movies/100000004732871/trailer-blood-on-the-mountain.html",
+        "snippet": "A preview of the film....",
+        "lead_paragraph": "A preview of the film.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Internet Video Archive",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/movies/video-blood-on-the-mountain/video-blood-on-the-mountain-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/movies/video-blood-on-the-mountain/video-blood-on-the-mountain-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/movies/video-blood-on-the-mountain/video-blood-on-the-mountain-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/movies/video-blood-on-the-mountain/video-blood-on-the-mountain-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/movies/video-blood-on-the-mountain/video-blood-on-the-mountain-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/movies/video-blood-on-the-mountain/video-blood-on-the-mountain-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Trailer: \u2018Blood on the Mountain\u2019"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:57:49Z",
+        "document_type": "multimedia",
+        "news_desk": "Movies",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Abramorama",
+              "rank": 1,
+              "lastname": "ENTERTAINMENT"
+            }
+          ],
+          "original": "By ABRAMORAMA ENTERTAINMENT"
+        },
+        "type_of_material": "Video",
+        "_id": "582b931795d0e0204d560a58",
+        "word_count": "5",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/15/sports/golf/ap-glf-golf-notes.html",
+        "snippet": "The laser machines that have been tracing shots at PGA Tour events for more than a decade were getting old and needed to be replaced. That led tour officials to ask if there was a better method to collect data....",
+        "lead_paragraph": "The laser machines that have been tracing shots at PGA Tour events for more than a decade were getting old and needed to be replaced. That led tour officials to ask if there was a better method to collect data.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Tour Going From Lasers to Cameras to Track Shots on Greens",
+          "print_headline": "Tour Going From Lasers to Cameras to Track Shots on Greens"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-15T22:56:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582b92af95d0e0204d560a56",
+        "word_count": "1208",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

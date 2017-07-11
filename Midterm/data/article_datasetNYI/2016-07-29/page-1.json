@@ -1,0 +1,484 @@
+{
+  "response": {
+    "meta": {
+      "hits": 961,
+      "time": 53,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bbn-pirates-brewers.html",
+        "snippet": "Craig Counsell gave Junior Guerra an opportunity to complete a shutout....",
+        "lead_paragraph": "Craig Counsell gave Junior Guerra an opportunity to complete a shutout.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Guerra, Carter Lead Brewers to 3-1 Win Over Pirates",
+          "print_headline": "Guerra, Carter Lead Brewers to 3-1 Win Over Pirates"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T23:04:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c19bf38f0d83c0fcf78f7",
+        "word_count": "671",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bba-royals-rangers.html",
+        "snippet": "Rougned Odor homered twice, and A.J. Griffin also went a little deeper for the Texas Rangers....",
+        "lead_paragraph": "Rougned Odor homered twice, and A.J. Griffin also went a little deeper for the Texas Rangers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rougned Odor Homers Twice for Rangers in 8-3 Win Over Royals",
+          "print_headline": "Rougned Odor Homers Twice for Rangers in 8-3 Win Over Royals"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T23:00:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c191238f0d83c0fcf78ea",
+        "word_count": "762",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/books/harry-potter-and-the-cursed-child-goes-from-stage-to-page-on-saturday-at-the-witching-hour.html",
+        "snippet": "Even though J.K. Rowling isn\u2019t the author of this play, Scholastic\u2019s midnight release of the script as a book is expected to draw thousands to stores this weekend....",
+        "lead_paragraph": "Even though J.K. Rowling isn\u2019t the author of this play, Scholastic\u2019s midnight release of the script as a book is expected to draw thousands to stores this weekend.",
+        "abstract": "Bookstores across United States are celebrating publication of script for play Harry Potter and the Cursed Child; play, while based on works by Harry Potter author J K Rowling, is written by Jack Thorne and conceived by Thorne and director John Tiffany, raising question of whether it qualifies as true Harry Potter story, and whether fans care.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/us/30PLAYjp1/30jpPLAY1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/us/30PLAYjp1/30jpPLAY1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/us/30PLAYjp1/30jpPLAY1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/us/30PLAYjp1/30jpPLAY1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/us/30PLAYjp1/30jpPLAY1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/us/30PLAYjp1/30jpPLAY1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018Harry Potter and the Cursed Child\u2019 Goes From Stage to Page on Saturday at the Witching Hour",
+          "print_headline": "Stage to Page:  Harry Potter, With a Twist"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Harry Potter and the Cursed Child (Play)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Rowling, J K"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Book Trade and Publishing"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Harry Potter (Fictional Character)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Thorne, Jack (1978- )"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Tiffany, John (1971- )"
+          }
+        ],
+        "pub_date": "2016-07-29T23:01:03+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alexandra",
+              "rank": 1,
+              "lastname": "ALTER"
+            }
+          ],
+          "original": "By ALEXANDRA ALTER"
+        },
+        "type_of_material": "News",
+        "_id": "579be03238f0d83c0fcf7883",
+        "word_count": "1146",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/olympics/ap-oly-ttn-table-tennis-china-exodus-.html",
+        "snippet": "South Korea's top female table tennis player, China-born Jeon Ji-hee, has an easy explanation for why she had to leave her homeland to compete in the game she loves....",
+        "lead_paragraph": "South Korea's top female table tennis player, China-born Jeon Ji-hee, has an easy explanation for why she had to leave her homeland to compete in the game she loves.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chinese Table Tennis Domination Leads to Exodus of Talent",
+          "print_headline": "Chinese Table Tennis Domination Leads to Exodus of Talent"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:51:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c16fa38f0d83c0fcf78d4",
+        "word_count": "902",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/business/29reuters-china-nuclearpower-hinkley.html",
+        "snippet": "China General Nuclear Power Corp (CGN) on Saturday said it respects the decision of the new British government to review a nuclear power project in which it would hold a major stake, according to a statement on the company's official microblog....",
+        "lead_paragraph": "China General Nuclear Power Corp (CGN) on Saturday said it respects the decision of the new British government to review a nuclear power project in which it would hold a major stake, according to a statement on the company's official microblog.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "China General Nuclear Says Respects Britain's Decision to Review Hinkley Project",
+          "print_headline": "China General Nuclear Says Respects Britain's Decision to Review Hinkley Project"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:52:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c16eb38f0d83c0fcf78d3",
+        "word_count": "417",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-us-obit-autism-speaks-co-founder.html",
+        "snippet": "A co-founder of the advocacy group Autism Speaks has died after helping build it into one of the leading voices for people with the developmental disorder. Suzanne Wright was 69....",
+        "lead_paragraph": "A co-founder of the advocacy group Autism Speaks has died after helping build it into one of the leading voices for people with the developmental disorder. Suzanne Wright was 69.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Co-Founder of Autism Speaks, Suzanne Wright, Dies at 69",
+          "print_headline": "Co-Founder of Autism Speaks, Suzanne Wright, Dies at 69"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:47:28Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c163e38f0d83c0fcf78d2",
+        "word_count": "130",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/29/business/29reuters-usa-stocks-weekahead.html",
+        "snippet": "Wall Street, seeking direction as the S&amp;P 500 has been stuck in a narrow trading range for 12 days, will next week shift its attention from second-quarter corporate earnings reports to economic data....",
+        "lead_paragraph": "Wall Street, seeking direction as the S&amp;P 500 has been stuck in a narrow trading range for 12 days, will next week shift its attention from second-quarter corporate earnings reports to economic data.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Data in Focus as Market Struggles for Direction",
+          "print_headline": "Data in Focus as Market Struggles for Direction"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:46:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579c158138f0d83c0fcf78d1",
+        "word_count": "502",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/30/business/media/sumner-redstones-busy-october-3-cases-in-3-courts-in-3-states.html",
+        "snippet": "The fight for Mr. Redstone\u2019s media empire will culminate in October, with lawsuits over his mental competence and his move to replace five Viacom directors....",
+        "lead_paragraph": "The fight for Mr. Redstone\u2019s media empire will culminate in October, with lawsuits over his mental competence and his move to replace five Viacom directors.",
+        "abstract": "Delaware judge sets Oct 17 as tentative trial date for lawsuit over move to replace five Viacom directors; Massachusetts judge also schedules October trial for battle over media mogul Sumner Redstone's mental competence; third trial in Los Angeles is also set for October in fight over his $40 billion business empire.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/30/business/30REDSTONE/30REDSTONE-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/30/business/30REDSTONE/30REDSTONE-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/30/business/30REDSTONE/30REDSTONE-articleLarge-v2.jpg",
+            "height": 439,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/30/business/30REDSTONE/30REDSTONE-articleLarge-v2.jpg",
+              "xlargeheight": "439"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/30/business/30REDSTONE/30REDSTONE-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/30/business/30REDSTONE/30REDSTONE-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Sumner Redstone\u2019s Busy October: 3 Cases in 3 Courts in 3 States",
+          "print_headline": "Redstone\u2019s Busy October: 3 Cases in 3 Courts in 3 States"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Viacom Inc"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Redstone, Sumner M"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "National Amusements Inc"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "CBS Corporation"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Redstone, Shari"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Dauman, Philippe P"
+          }
+        ],
+        "pub_date": "2016-07-29T22:48:20+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Emily",
+              "rank": 1,
+              "lastname": "STEEL"
+            }
+          ],
+          "original": "By EMILY STEEL"
+        },
+        "type_of_material": "News",
+        "_id": "579bdd3738f0d83c0fcf787a",
+        "word_count": "475",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/us/ap-us-police-shooting-dallas-protest.html",
+        "snippet": "Several dozen protesters marched through downtown Dallas on Friday to protest police violence toward African-Americans while also paying homage to five police officers slain by a sniper during a demonstration earlier this month....",
+        "lead_paragraph": "Several dozen protesters marched through downtown Dallas on Friday to protest police violence toward African-Americans while also paying homage to five police officers slain by a sniper during a demonstration earlier this month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Dozens March in Dallas Against Police Violence Toward Blacks",
+          "print_headline": "Dozens March in Dallas Against Police Violence Toward Blacks"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:44:04Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c14d838f0d83c0fcf78d0",
+        "word_count": "246",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/29/sports/baseball/ap-bbn-rockies-mets.html",
+        "snippet": "The road to success for Tyler Chatwood is pitching on the road....",
+        "lead_paragraph": "The road to success for Tyler Chatwood is pitching on the road.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chatwood, Gonzalez Lead Rockies Over Mets for 4th Win in Row",
+          "print_headline": "Chatwood, Gonzalez Lead Rockies Over Mets for 4th Win in Row"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-29T22:36:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579c136c38f0d83c0fcf78cf",
+        "word_count": "747",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

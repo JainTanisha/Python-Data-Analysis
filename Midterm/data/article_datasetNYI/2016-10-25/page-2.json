@@ -1,0 +1,572 @@
+{
+  "response": {
+    "meta": {
+      "hits": 902,
+      "time": 133,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/us/ap-us-people-miranda-kerr.html",
+        "snippet": "Los Angeles prosecutors have charged an Australian man in an attack on a security guard outside supermodel Miranda Kerr's home earlier this month....",
+        "lead_paragraph": "Los Angeles prosecutors have charged an Australian man in an attack on a security guard outside supermodel Miranda Kerr's home earlier this month.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Arrested Outside Miranda Kerr's Home Charged With Mayhem",
+          "print_headline": "Man Arrested Outside Miranda Kerr's Home Charged With Mayhem"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:59:21Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fe3d295d0e022439c52fd",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/sports/baseball/ap-bbo-world-series-game-2-starters.html",
+        "snippet": "The last time the baseball world caught a glimpse of Trevor Bauer's mangled pinkie finger on his right hand, it was grotesquely dripping blood onto the pitching rubber in Toronto during the AL Championship Series....",
+        "lead_paragraph": "The last time the baseball world caught a glimpse of Trevor Bauer's mangled pinkie finger on his right hand, it was grotesquely dripping blood onto the pitching rubber in Toronto during the AL Championship Series.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Bauer Says Pinkie Good Enough to Go for Indians in Game 2",
+          "print_headline": "Bauer Says Pinkie Good Enough to Go for Indians in Game 2"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:55:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fe2f295d0e022439c52fc",
+        "word_count": "525",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/26/nyregion/steven-banks-was-hired-to-stem-new-yorks-homelessness-crisis-it-didnt-happen.html",
+        "snippet": "Mr. Banks, who joined the de Blasio administration after a lifetime of agitating for the poor, has faced criticism even from onetime colleagues he still considers allies....",
+        "lead_paragraph": "Mr. Banks, who joined the de Blasio administration after a lifetime of agitating for the poor, has faced criticism even from onetime colleagues he still considers allies.",
+        "abstract": "Steven Banks, de Blasio administration official tasked with combating New York City's homeless crisis, has drawn widespread criticism for his inability to confront entrenched problem in city experiencing rising inequality; some residents and officials have taken issue with practice of housing homeless in budget hotels; complaints directed at Banks are aimed at Mayor Bill de Blasio as well.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/nyregion/21banks1/21banks1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/nyregion/21banks1/21banks1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/nyregion/21banks1/21banks1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/nyregion/21banks1/21banks1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/nyregion/21banks1/21banks1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/nyregion/21banks1/21banks1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Steven Banks Was Hired to Stem New York\u2019s Homelessness Crisis. It Didn\u2019t Happen.",
+          "print_headline": "Homeless Crisis  Stymies Official  Hired to Halt It"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Homeless Persons"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Human Resources Administration (NYC)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Banks, Steven"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Income Inequality"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Affordable Housing"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Legal Aid Society"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Maspeth (Queens, NY)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "9",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "de Blasio, Bill"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Homeless Services Department (NYC)"
+          }
+        ],
+        "pub_date": "2016-10-25T22:55:30+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nikita",
+              "rank": 1,
+              "lastname": "STEWART"
+            }
+          ],
+          "original": "By NIKITA STEWART"
+        },
+        "type_of_material": "News",
+        "_id": "580fe2e895d0e022439c52fb",
+        "word_count": "1457",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/25/us/25reuters-utah-shooting.html",
+        "snippet": "A 16-year-old boy was shot and critically wounded during an argument outside a middle school in Sandy, Utah, on Tuesday, and a 14-year-old boy was taken into custody, police said....",
+        "lead_paragraph": "A 16-year-old boy was shot and critically wounded during an argument outside a middle school in Sandy, Utah, on Tuesday, and a 14-year-old boy was taken into custody, police said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Utah Boy, 16, Shot Outside School, 14-Year-Old Arrested: Police",
+          "print_headline": "Utah Boy, 16, Shot Outside School, 14-Year-Old Arrested: Police"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:54:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580fe2bc95d0e022439c52fa",
+        "word_count": "240",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/26/world/europe/calais-france-migrants.html",
+        "snippet": "Tiny French communities like Croisilles are being forced to deal firsthand with Europe\u2019s migrant crisis as officials break down a camp in Calais....",
+        "lead_paragraph": "Tiny French communities like Croisilles are being forced to deal firsthand with Europe\u2019s migrant crisis as officials break down a camp in Calais.",
+        "abstract": "Closure of migrant camp in Calais, France, sparks protests in towns across country where migrants are being moved into temporary housing.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/world/26francemigrants-web2/26francemigrants-web2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/world/26francemigrants-web2/26francemigrants-web2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/world/26francemigrants-web2/26francemigrants-web2-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/world/26francemigrants-web2/26francemigrants-web2-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/world/26francemigrants-web2/26francemigrants-web2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/world/26francemigrants-web2/26francemigrants-web2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Shouts Greet Migrants in the Streets of France: \u2018We Don\u2019t Want Them\u2019",
+          "print_headline": "\u2018We Don\u2019t Want Them,\u2019 French Shout as Migrants Arrive"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Middle East and Africa Migrant Crisis"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Refugees and Displaced Persons"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Calais (France)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          }
+        ],
+        "pub_date": "2016-10-25T22:53:56+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Aurelien Breeden contributed reporting from Calais, France.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Adam",
+              "rank": 1,
+              "lastname": "NOSSITER"
+            }
+          ],
+          "original": "By ADAM NOSSITER"
+        },
+        "type_of_material": "News",
+        "_id": "580fe28d95d0e022439c52f9",
+        "word_count": "1064",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/sports/golf/ap-glf-hsbc-mcilroy.html",
+        "snippet": "Rory McIlroy is replacing his Nike driver and two fairway metals this week at the HSBC Champions as he begins to search for new equipment....",
+        "lead_paragraph": "Rory McIlroy is replacing his Nike driver and two fairway metals this week at the HSBC Champions as he begins to search for new equipment.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "McIlroy Using New Metals as Equipment Shift Begins",
+          "print_headline": "McIlroy Using New Metals as Equipment Shift Begins"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:46:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fe0b095d0e022439c52f8",
+        "word_count": "597",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/us/politics/ap-us-campaign-2016-money.html",
+        "snippet": "Hillary Clinton and Donald Trump are trading donors for voters in these hectic final two weeks until Election Day....",
+        "lead_paragraph": "Hillary Clinton and Donald Trump are trading donors for voters in these hectic final two weeks until Election Day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Trump, Clinton Take Leave From the Fundraising Circuit",
+          "print_headline": "Trump, Clinton Take Leave From the Fundraising Circuit"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:43:12Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fe00695d0e022439c52f6",
+        "word_count": "383",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/25/us/ap-us-school-shooting-sandy.html",
+        "snippet": "A 16-year-old boy was shot twice and critically wounded by another teenager Tuesday afternoon when the two got into argument outside a middle school in a Salt Lake City suburb, authorities said....",
+        "lead_paragraph": "A 16-year-old boy was shot twice and critically wounded by another teenager Tuesday afternoon when the two got into argument outside a middle school in a Salt Lake City suburb, authorities said.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Teen Shot Outside Utah Middle School by Classmate",
+          "print_headline": "Teen Shot Outside Utah Middle School by Classmate"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:43:11Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580fe00695d0e022439c52f7",
+        "word_count": "279",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/25/sports/world-series-cubs-indians.html",
+        "snippet": "The Cubs need Jake Arrieta to pitch like it\u2019s 2015, and the Indians can\u2019t expect Roberto Perez to carry them on offense....",
+        "lead_paragraph": "The Cubs need Jake Arrieta to pitch like it\u2019s 2015, and the Indians can\u2019t expect Roberto Perez to carry them on offense.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/sports/26indianswin/26indianswin-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/sports/26indianswin/26indianswin-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/sports/26indianswin/26indianswin-articleLarge.jpg",
+            "height": 439,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/sports/26indianswin/26indianswin-articleLarge.jpg",
+              "xlargeheight": "439"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/sports/26indianswin/26indianswin-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/sports/26indianswin/26indianswin-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "World Series: Here\u2019s How the Indians Won Game 1"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "World Series"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Chicago Cubs"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cleveland Indians"
+          }
+        ],
+        "pub_date": "2016-10-25T22:38:34+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Benjamin",
+              "rank": 1,
+              "lastname": "HOFFMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 2,
+              "lastname": "WALDSTEIN"
+            }
+          ],
+          "original": "By BENJAMIN HOFFMAN and DAVID WALDSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "580fdef195d0e022439c52f5",
+        "word_count": "4032",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/25/business/25reuters-eu-gazprom-opal.html",
+        "snippet": "The European Union will decide by Monday whether to ease restrictions on Russia's access to a gas pipeline link to Germany, two people close to the issue said on Tuesday....",
+        "lead_paragraph": "The European Union will decide by Monday whether to ease restrictions on Russia's access to a gas pipeline link to Germany, two people close to the issue said on Tuesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "EU to Rule on Gazprom Pipeline Link to Germany by Oct. 31-Sources",
+          "print_headline": "EU to Rule on Gazprom Pipeline Link to Germany by Oct. 31-Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-25T22:36:35Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580fde7f95d0e022439c52f4",
+        "word_count": "479",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

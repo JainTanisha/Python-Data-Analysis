@@ -1,0 +1,611 @@
+{
+  "response": {
+    "meta": {
+      "hits": 974,
+      "time": 35,
+      "offset": 20
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/arts/music/pop-rock-listings-for-nov-18-24.html",
+        "snippet": "A selected guide to concerts in the New York City area....",
+        "lead_paragraph": "A selected guide to concerts in the New York City area.",
+        "abstract": null,
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/arts/18LISTINGSPOP/18LISTINGSPOP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/arts/18LISTINGSPOP/18LISTINGSPOP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/arts/18LISTINGSPOP/18LISTINGSPOP-articleLarge.jpg",
+            "height": 457,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/arts/18LISTINGSPOP/18LISTINGSPOP-articleLarge.jpg",
+              "xlargeheight": "457"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/arts/18LISTINGSPOP/18LISTINGSPOP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/arts/18LISTINGSPOP/18LISTINGSPOP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pop & Rock Listings for Nov. 18-24",
+          "print_headline": "The Listings: Pop"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Pop and Rock Music"
+          }
+        ],
+        "pub_date": "2016-11-17T23:27:57+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "582e3d0695d0e0392607130a",
+        "word_count": "929",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/business/ap-us-business-highlights.html",
+        "snippet": "",
+        "lead_paragraph": "",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Business Highlights",
+          "print_headline": "Business Highlights"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:27:50+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3cfb95d0e03926071309",
+        "word_count": "1256",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/ap-us-film-bleed-for-this-miles-teller.html",
+        "snippet": "By his count, Miles Teller has done 13 films in the past five years &#8212; four of them came out this year alone. Suffice it to say, the 29-year-old actor is about ready to take a break for the first time....",
+        "lead_paragraph": "By his count, Miles Teller has done 13 films in the past five years &#8212; four of them came out this year alone. Suffice it to say, the 29-year-old actor is about ready to take a break for the first time.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Miles Teller Comes Back Swinging in 'Bleed for This'",
+          "print_headline": "Miles Teller Comes Back Swinging in 'Bleed for This'"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:25:49+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3c8795d0e03926071308",
+        "word_count": "888",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/theater/theater-listings-for-nov-18-24.html",
+        "snippet": "A critical guide to productions in New York City, including shows in previews....",
+        "lead_paragraph": "A critical guide to productions in New York City, including shows in previews.",
+        "abstract": null,
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/18/theater/18THEATERLIST-COMBO/18THEATERLIST-COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/18/theater/18THEATERLIST-COMBO/18THEATERLIST-COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/18/theater/18THEATERLIST-COMBO/18THEATERLIST-COMBO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/18/theater/18THEATERLIST-COMBO/18THEATERLIST-COMBO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/18/theater/18THEATERLIST-COMBO/18THEATERLIST-COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/18/theater/18THEATERLIST-COMBO/18THEATERLIST-COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Theater Listings for Nov. 18-24",
+          "print_headline": "The Listings: Theater"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          }
+        ],
+        "pub_date": "2016-11-17T23:20:15+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Schedule",
+        "_id": "582e3b3895d0e03926071307",
+        "word_count": "5850",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/18/world/africa/us-south-sudan-arms-embargo-genocide.html",
+        "snippet": "The American ambassador to the United Nations signaled the change of position to help stop the violence convulsing the world\u2019s youngest country....",
+        "lead_paragraph": "The American ambassador to the United Nations signaled the change of position to help stop the violence convulsing the world\u2019s youngest country.",
+        "abstract": "United States prepares arms embargo against South Sudan aimed at curbing violence in brutal civil war; move reflects impatience with leaders of country's warring factions and follows United Nations warnings about potential genocide; Russia and China, who has peacekeeping force on ground, express resistance to sanctions.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S., in Shift, Backs Arms Embargo for South Sudan as Genocide Risk Rises",
+          "print_headline": "U.S. Targets South Sudan for Embargo"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "South Sudan"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Embargoes and Sanctions"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Security Council (UN)"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "War Crimes, Genocide and Crimes Against Humanity"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "United Nations"
+          }
+        ],
+        "pub_date": "2016-11-17T23:19:59+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Africa",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Somini",
+              "rank": 1,
+              "lastname": "SENGUPTA"
+            }
+          ],
+          "original": "By SOMINI SENGUPTA"
+        },
+        "type_of_material": "News",
+        "_id": "582e3b2595d0e03926071306",
+        "word_count": "592",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/sports/football/ap-fbn-bears-cutler.html",
+        "snippet": "Jay Cutler has been here before, in more than one respect....",
+        "lead_paragraph": "Jay Cutler has been here before, in more than one respect.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jeffery Suspension Leaves Bears' Jay Cutler With New Targets",
+          "print_headline": "Jeffery Suspension Leaves Bears' Jay Cutler With New Targets"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:19:22+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3b0195d0e03926071305",
+        "word_count": "617",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/sports/tennis/17reuters-tennis-atp-raonic.html",
+        "snippet": "Less than two weeks after pulling out of the Paris Masters semi-finals with a thigh injury, Milos Raonic reached the last four at the ATP World Tour Finals and is close to breaking into the top three of the rankings....",
+        "lead_paragraph": "Less than two weeks after pulling out of the Paris Masters semi-finals with a thigh injury, Milos Raonic reached the last four at the ATP World Tour Finals and is close to breaking into the top three of the rankings.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Raonic Chases Top Three Spot After Win Over Thiem",
+          "print_headline": "Raonic Chases Top Three Spot After Win Over Thiem"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:18:29+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3aca95d0e03926071304",
+        "word_count": "327",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/17/opinion/when-obamas-gone-who-will-stand-up-for-democracy.html",
+        "snippet": "With authoritarian leaders on the rise, democratic values are increasingly threatened....",
+        "lead_paragraph": "With authoritarian leaders on the rise, democratic values are increasingly threatened.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/17/opinion/17giacomoWEB/17giacomoWEB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/17/opinion/17giacomoWEB/17giacomoWEB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/17/opinion/17giacomoWEB/17giacomoWEB-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/17/opinion/17giacomoWEB/17giacomoWEB-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/17/opinion/17giacomoWEB/17giacomoWEB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/17/opinion/17giacomoWEB/17giacomoWEB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "When Obama\u2019s Gone, Who Will Stand Up for Democracy?",
+          "content_kicker": "Taking Note",
+          "kicker": "Taking Note"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Merkel, Angela"
+          },
+          {
+            "rank": "12",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "13",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Putin, Vladimir V"
+          },
+          {
+            "rank": "14",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "15",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "16",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Europe"
+          },
+          {
+            "rank": "17",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "18",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Germany"
+          },
+          {
+            "rank": "19",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "20",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Greece"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "21",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "22",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Syria"
+          },
+          {
+            "rank": "23",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ukraine"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Democracy (Theory and Philosophy)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "North Atlantic Treaty Organization"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Security Council (UN)"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Le Pen, Marine"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "persons",
+            "value": "May, Theresa M"
+          }
+        ],
+        "pub_date": "2016-11-17T23:17:25+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Carol",
+              "rank": 1,
+              "lastname": "GIACOMO"
+            }
+          ],
+          "original": "By CAROL GIACOMO"
+        },
+        "type_of_material": "Editorial",
+        "_id": "582e3a8e95d0e03926071303",
+        "word_count": "443",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/17/world/europe/17reuters-germany-usa-mann.html",
+        "snippet": "Germany has purchased the California home that once belonged to Nobel Prize-wining author Thomas Mann for $13.25 million and plans to preserve the historic property, the real estate company that listed the house said on Thursday....",
+        "lead_paragraph": "Germany has purchased the California home that once belonged to Nobel Prize-wining author Thomas Mann for $13.25 million and plans to preserve the historic property, the real estate company that listed the house said on Thursday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Germany Buys California House Built by Writer Thomas Mann",
+          "print_headline": "Germany Buys California House Built by Writer Thomas Mann"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:15:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582e3a1d95d0e03926071302",
+        "word_count": "254",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/17/us/politics/ap-us-supreme-court-atm-fees.html",
+        "snippet": "The Supreme Court has dismissed a case it took up earlier this year involving accusations that Visa and MasterCard illegally fixed ATM prices....",
+        "lead_paragraph": "The Supreme Court has dismissed a case it took up earlier this year involving accusations that Visa and MasterCard illegally fixed ATM prices.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "High Court Dismisses Case Over High ATM Fees",
+          "print_headline": "High Court Dismisses Case Over High ATM Fees"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-17T23:13:53+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582e39b995d0e03926071301",
+        "word_count": "132",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

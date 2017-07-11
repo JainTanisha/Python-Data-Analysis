@@ -1,0 +1,606 @@
+{
+  "response": {
+    "meta": {
+      "hits": 410,
+      "time": 63,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/29/world/europe/29reuters-usa-turkey.html",
+        "snippet": "The U.S. State Department updated its travel warning on Turkey on Saturday, ordering family members of consulate employees in Istanbul to leave the country, citing threats against U.S. citizens....",
+        "lead_paragraph": "The U.S. State Department updated its travel warning on Turkey on Saturday, ordering family members of consulate employees in Istanbul to leave the country, citing threats against U.S. citizens.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.S. State Orders Family of Employees in Istanbul to Leave Country",
+          "print_headline": "U.S. State Orders Family of Employees in Istanbul to Leave Country"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-29T23:03:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58152acb95d0e022439c5fc3",
+        "word_count": "142",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/29/us/ap-us-opera-powdered-substance.html",
+        "snippet": "A powdery substance a man sprinkled into the orchestra pit at New York's Metropolitan Opera may have been an opera lover's ashes, police said Saturday....",
+        "lead_paragraph": "A powdery substance a man sprinkled into the orchestra pit at New York's Metropolitan Opera may have been an opera lover's ashes, police said Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Powder Sprinkled Into Opera Pit May Have Been Human Ashes",
+          "print_headline": "Powder Sprinkled Into Opera Pit May Have Been Human Ashes"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-29T22:39:50Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5815253f95d0e022439c5fc2",
+        "word_count": "544",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/29/sports/baseball/ap-bbo-world-series-lineups.html",
+        "snippet": "With the Chicago Cubs in desperate need of a win, manager Joe Maddon put Jason Heyward in right field for Game 4 of the World Series on Saturday night....",
+        "lead_paragraph": "With the Chicago Cubs in desperate need of a win, manager Joe Maddon put Jason Heyward in right field for Game 4 of the World Series on Saturday night.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Slumping Jason Heyward Gets 1st World Series Start for Cubs",
+          "print_headline": "Slumping Jason Heyward Gets 1st World Series Start for Cubs"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-29T22:39:39Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5815253395d0e022439c5fc1",
+        "word_count": "456",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/nyregion/metropolitan-opera-cancels-performance-white-substance.html",
+        "snippet": "The Metropolitan Opera canceled a show before the final act after a man sprinkled a powdery substance into the orchestra pit....",
+        "lead_paragraph": "The Metropolitan Opera canceled a show before the final act after a man sprinkled a powdery substance into the orchestra pit.",
+        "abstract": null,
+        "print_page": "23",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/nyregion/30met/30met-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/nyregion/30met/30met-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/nyregion/30met/30met-articleLarge.jpg",
+            "height": 450,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/nyregion/30met/30met-articleLarge.jpg",
+              "xlargeheight": "450"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/nyregion/30met/30met-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/nyregion/30met/30met-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Powder Tossed at Metropolitan Opera May Have Been Human Ashes, Police Say",
+          "print_headline": "Met Opera Performances Canceled After Powder Is Sprinkled Near Stage"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Metropolitan Opera"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Guillaume Tell (Opera)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rossini, Gioacchino"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Cremation"
+          }
+        ],
+        "pub_date": "2016-10-29T22:21:34+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Sandra E. Garcia contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Michael",
+              "rank": 1,
+              "lastname": "COOPER"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Christopher",
+              "rank": 2,
+              "lastname": "MELE"
+            }
+          ],
+          "original": "By MICHAEL COOPER and CHRISTOPHER MELE"
+        },
+        "type_of_material": "News",
+        "_id": "581520f395d0e022439c5fc0",
+        "word_count": "693",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/us/politics/donald-trump-ballots-colorado.html",
+        "snippet": "Mr. Trump, pantomiming a ballot collector tossing some over his shoulder while counting others, found a new reason to question the legitimacy of the election....",
+        "lead_paragraph": "Mr. Trump, pantomiming a ballot collector tossing some over his shoulder while counting others, found a new reason to question the legitimacy of the election.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/us/elections/30ballots/30ballots-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/us/elections/30ballots/30ballots-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/us/elections/30ballots/30ballots-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/us/elections/30ballots/30ballots-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/us/elections/30ballots/30ballots-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/us/elections/30ballots/30ballots-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump Questions Veracity of Ballot Counting in Colorado"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Golden (Colo)"
+          }
+        ],
+        "pub_date": "2016-10-29T22:18:59+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nick",
+              "rank": 1,
+              "lastname": "CORASANITI"
+            }
+          ],
+          "original": "By NICK CORASANITI"
+        },
+        "type_of_material": "News",
+        "_id": "5815205a95d0e022439c5fbf",
+        "word_count": "422",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/29/sports/golf/ap-glf-sanderson-farms.html",
+        "snippet": "After Kevin Streelman opened the Sanderson Farms Championship with a 9-under 63 on Thursday, he and several other players said it would take 20 under or better to win....",
+        "lead_paragraph": "After Kevin Streelman opened the Sanderson Farms Championship with a 9-under 63 on Thursday, he and several other players said it would take 20 under or better to win.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chris Kirk, Luke List Share PGA Tour Lead in Mississippi",
+          "print_headline": "Chris Kirk, Luke List Share PGA Tour Lead in Mississippi"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-29T22:16:00Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58151fa595d0e022439c5fbe",
+        "word_count": "473",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/elections/100000004737863/hillary-clinton-criticizes-fbi-on-emails.html",
+        "snippet": "Mrs. Clinton called the decision by the F.B.I. director, James B. Comey, to notify Congress about the discovery of some of her emails \"strange\" and \"deeply troubling.\"...",
+        "lead_paragraph": "Mrs. Clinton called the decision by the F.B.I. director, James B. Comey, to notify Congress about the discovery of some of her emails \"strange\" and \"deeply troubling.\"",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/us/30CAMPAIGN/30CAMPAIGN-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/us/30CAMPAIGN/30CAMPAIGN-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/us/30CAMPAIGN/30CAMPAIGN-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/us/30CAMPAIGN/30CAMPAIGN-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/us/30CAMPAIGN/30CAMPAIGN-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/us/30CAMPAIGN/30CAMPAIGN-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Hillary Clinton Criticizes F.B.I. Director on Emails"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-29T22:15:03+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Election 2016",
+        "section_name": "U.S.",
+        "subsection_name": "Election 2016",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "58151f6b95d0e022439c5fbd",
+        "word_count": "27",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/29/sports/baseball/ap-bbo-world-series-cubs-maddons-mom.html",
+        "snippet": "After a difficult day of travel to the World Series, Albina Maddon was met by police at Chicago O'Hare International Airport....",
+        "lead_paragraph": "After a difficult day of travel to the World Series, Albina Maddon was met by police at Chicago O'Hare International Airport.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "With Police Escort, Maddon's Mom Makes It to World Series",
+          "print_headline": "With Police Escort, Maddon's Mom Makes It to World Series"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-29T22:09:37Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "58151e2d95d0e022439c5fbc",
+        "word_count": "286",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/crosswords/updates.html",
+        "snippet": "Caleb Madison updates us on his whereabouts....",
+        "lead_paragraph": "Caleb Madison updates us on his whereabouts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/30/crosswords/30wordplay-coachella/30wordplay-coachella-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/30/crosswords/30wordplay-coachella/30wordplay-coachella-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/30/crosswords/30wordplay-coachella/30wordplay-coachella-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/30/crosswords/30wordplay-coachella/30wordplay-coachella-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/30/crosswords/30wordplay-coachella/30wordplay-coachella-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/30/crosswords/30wordplay-coachella/30wordplay-coachella-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Updates",
+          "content_kicker": "Wordplay",
+          "kicker": "Wordplay"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          }
+        ],
+        "pub_date": "2016-10-29T22:00:04+0000",
+        "document_type": "article",
+        "news_desk": "Games",
+        "section_name": "Crosswords & Games",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Deb",
+              "rank": 1,
+              "lastname": "AMLEN"
+            }
+          ],
+          "original": "By DEB AMLEN"
+        },
+        "type_of_material": "News",
+        "_id": "58151be995d0e022439c5fba",
+        "word_count": "754",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/30/us/politics/two-candidates-vie-for-one-house-seat-for-the-fourth-time.html",
+        "snippet": "Frank Guinta, a Republican, and Carol Shea-Porter, a Democrat, have been in a tug of war over a congressional seat that one of them has held for a decade....",
+        "lead_paragraph": "Frank Guinta, a Republican, and Carol Shea-Porter, a Democrat, have been in a tug of war over a congressional seat that one of them has held for a decade.",
+        "abstract": null,
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/26/us/00otg-tradingplaces/00otg-tradingplaces-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/26/us/00otg-tradingplaces/00otg-tradingplaces-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/26/us/00otg-tradingplaces/00otg-tradingplaces-articleLarge.jpg",
+            "height": 432,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/26/us/00otg-tradingplaces/00otg-tradingplaces-articleLarge.jpg",
+              "xlargeheight": "432"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/26/us/00otg-tradingplaces/00otg-tradingplaces-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/26/us/00otg-tradingplaces/00otg-tradingplaces-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Two Candidates Vie for One House Seat (for the Fourth Time)",
+          "content_kicker": "On the Ground",
+          "print_headline": "Two Candidates Vie for One House Seat (for the Fourth Time)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Elections, House of Representatives"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New Hampshire"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Guinta, Frank"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Shea-Porter, Carol"
+          }
+        ],
+        "pub_date": "2016-10-29T21:59:58+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jess",
+              "rank": 1,
+              "lastname": "BIDGOOD"
+            }
+          ],
+          "original": "By JESS BIDGOOD"
+        },
+        "type_of_material": "News",
+        "_id": "58151bec95d0e022439c5fbb",
+        "word_count": "658",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

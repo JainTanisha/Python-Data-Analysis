@@ -1,0 +1,503 @@
+{
+  "response": {
+    "meta": {
+      "hits": 811,
+      "time": 49,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/business/11reuters-autonomy-hp-crime.html",
+        "snippet": "The former chief financial officer of British software company Autonomy has been indicted on U.S. charges of engaging in a fraudulent scheme to deceive investors and Hewlett Packard about his firm's performance before its sale in 2011....",
+        "lead_paragraph": "The former chief financial officer of British software company Autonomy has been indicted on U.S. charges of engaging in a fraudulent scheme to deceive investors and Hewlett Packard about his firm's performance before its sale in 2011.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Ex-Autonomy CFO Indicted in U.S., Accused of Deceiving HP",
+          "print_headline": "Ex-Autonomy CFO Indicted in U.S., Accused of Deceiving HP"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:27:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582653ee95d0e0204d560059",
+        "word_count": "358",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/technology/11reuters-usa-music-licensing-doj.html",
+        "snippet": "The U.S. Justice Department will ask an appeals court to require music licensing company BMI to change how it collects royalties, the department said in a brief court filing on Friday....",
+        "lead_paragraph": "The U.S. Justice Department will ask an appeals court to require music licensing company BMI to change how it collects royalties, the department said in a brief court filing on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Justice Department to Appeal Music Licensing Court Loss",
+          "print_headline": "Justice Department to Appeal Music Licensing Court Loss"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:27:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Technology",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "582653f495d0e0204d56005a",
+        "word_count": "299",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/us/ap-us-tv-cnn-lewandowski.html",
+        "snippet": "Corey Lewandowski, who served a brief, stormy stint as a CNN commentator after being fired as Donald Trump's campaign manager, has resigned from the network. His resignation Friday afternoon was effective immediately, said CNN spokeswoman Barbara ...",
+        "lead_paragraph": "Corey Lewandowski, who served a brief, stormy stint as a CNN commentator after being fired as Donald Trump's campaign manager, has resigned from the network. His resignation Friday afternoon was effective immediately, said CNN spokeswoman Barbara Levin.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Corey Lewandowski, Former Trump Campaign Manager, Leaves CNN",
+          "print_headline": "Corey Lewandowski, Former Trump Campaign Manager, Leaves CNN"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:25:51Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826538695d0e0204d560058",
+        "word_count": "351",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/12/science/shipwrecks-black-sea-archaeology.html",
+        "snippet": "Archaeologists have found more than 40 vessels in the Black Sea, some more than a millennium old, shedding light on early empires and trade routes....",
+        "lead_paragraph": "Archaeologists have found more than 40 vessels in the Black Sea, some more than a millennium old, shedding light on early empires and trade routes.",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/03/science/00SHIPWRECKS1/00SHIPWRECKS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/03/science/00SHIPWRECKS1/00SHIPWRECKS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/03/science/00SHIPWRECKS1/00SHIPWRECKS1-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/03/science/00SHIPWRECKS1/00SHIPWRECKS1-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/03/science/00SHIPWRECKS1/00SHIPWRECKS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/03/science/00SHIPWRECKS1/00SHIPWRECKS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u2018We Couldn\u2019t Believe Our Eyes\u2019: A Lost World of Shipwrecks Is Found",
+          "print_headline": "\u2018We Couldn\u2019t Believe Our Eyes\u2019: Explorers Find a Long Lost World of Shipwrecks"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shipwrecks (Historic)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Archaeology and Anthropology"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Polo, Marco (1254-1324)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Black Sea"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Middle Ages (Historical Period)"
+          }
+        ],
+        "pub_date": "2016-11-11T23:25:04Z",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "Science",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "William",
+              "middlename": "J.",
+              "lastname": "BROAD",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By WILLIAM J. BROAD"
+        },
+        "type_of_material": "News",
+        "_id": "5826535595d0e0204d560057",
+        "word_count": "1644",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/business/ap-us-rig-count.html",
+        "snippet": "The number of rigs exploring for oil and natural gas in the U.S. decreased by one this week to 568....",
+        "lead_paragraph": "The number of rigs exploring for oil and natural gas in the U.S. decreased by one this week to 568.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "US Rig Count Down 1 This Week to 568; Texas Gains 6",
+          "print_headline": "US Rig Count Down 1 This Week to 568; Texas Gains 6"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:21:53Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5826529b95d0e0204d560056",
+        "word_count": "126",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/sports/baseball/11reuters-baseball-bluejays-morales.html",
+        "snippet": "The Toronto Blue Jays agreed to a three-year, $33 million deal with designated hitter Kendrys Morales on Friday, a move that may point to the end of Edwin Encarnacion's tenure with the franchise....",
+        "lead_paragraph": "The Toronto Blue Jays agreed to a three-year, $33 million deal with designated hitter Kendrys Morales on Friday, a move that may point to the end of Edwin Encarnacion's tenure with the franchise.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Busy Blue Jays Sign Designated Hitter Morales",
+          "print_headline": "Busy Blue Jays Sign Designated Hitter Morales"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:21:28Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5826528295d0e0204d560055",
+        "word_count": "216",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/11/sports/football/ap-fbn-nfl-fines.html",
+        "snippet": "Turns out that was one costly towel toss for Travis Kelce....",
+        "lead_paragraph": "Turns out that was one costly towel toss for Travis Kelce.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Chiefs' Kelce Fined $24,309 for Tossing Towel at Official",
+          "print_headline": "Chiefs' Kelce Fined $24,309 for Tossing Towel at Official"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:19:16Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Pro Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "582651fe95d0e0204d560054",
+        "word_count": "310",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://news.blogs.nytimes.com/2016/11/11/what-were-reading-205/",
+        "snippet": "Get recommendations from New York Times reporters and editors. Today, stories from our political team about the rise of Donald J. Trump....",
+        "lead_paragraph": null,
+        "abstract": "Get recommendations from New York Times reporters and editors. Today, stories from our political team about the rise of Donald J. Trump.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/11/nytnow/11wwr1/11wwr1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/11/nytnow/11wwr1/11wwr1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/11/nytnow/11wwr1/11wwr1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/11/nytnow/11wwr1/11wwr1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "What We&#8217;re Reading",
+          "kicker": "News"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "New York Times"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-11-11T23:18:59Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Blogs",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE NEW YORK TIMES",
+          "organization": "The New York Times"
+        },
+        "type_of_material": "Blog",
+        "_id": "582651f095d0e0204d560053",
+        "word_count": "368",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/11/insider/a-reporter-whos-not-in-kansas-anymore-suddenly-is.html",
+        "snippet": "There are those who stay and those who go. My friend Sheree wanted to stay and I wanted to go. It could easily have been the other way around....",
+        "lead_paragraph": "There are those who stay and those who go. My friend Sheree wanted to stay and I wanted to go. It could easily have been the other way around.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/11/insider/11-Insider-TopekaHigh-Image/11-Insider-TopekaHigh-Image-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/11/insider/11-Insider-TopekaHigh-Image/11-Insider-TopekaHigh-Image-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/11/insider/11-Insider-TopekaHigh-Image/11-Insider-TopekaHigh-Image-articleLarge.jpg",
+            "height": 393,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/11/insider/11-Insider-TopekaHigh-Image/11-Insider-TopekaHigh-Image-articleLarge.jpg",
+              "xlargeheight": "393"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/11/insider/11-Insider-TopekaHigh-Image/11-Insider-TopekaHigh-Image-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/11/insider/11-Insider-TopekaHigh-Image/11-Insider-TopekaHigh-Image-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Reporter Who\u2019s \u2018Not in Kansas Anymore\u2019 Suddenly Is"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Topeka High School (Topeka, Kan)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Topeka (Kan)"
+          }
+        ],
+        "pub_date": "2016-11-11T23:18:56Z",
+        "document_type": "article",
+        "news_desk": "Insider",
+        "section_name": "Times Insider",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anemona",
+              "rank": 1,
+              "lastname": "HARTOCOLLIS"
+            }
+          ],
+          "original": "By ANEMONA HARTOCOLLIS"
+        },
+        "type_of_material": "News",
+        "_id": "582651e795d0e0204d560052",
+        "word_count": "1167",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/11/sports/cricket/11reuters-cricket-australia.html",
+        "snippet": "South Africa moved to 43 without loss at tea on day one of the second test after skittling Australia for 85, the hosts' lowest score against the Proteas at home....",
+        "lead_paragraph": "South Africa moved to 43 without loss at tea on day one of the second test after skittling Australia for 85, the hosts' lowest score against the Proteas at home.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "South Africa Survive After Routing Australia for 85",
+          "print_headline": "South Africa Survive After Routing Australia for 85"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-11T23:09:34Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "Cricket",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "58264fb695d0e0204d560050",
+        "word_count": "451",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

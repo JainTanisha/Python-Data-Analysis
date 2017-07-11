@@ -1,0 +1,372 @@
+{
+  "response": {
+    "meta": {
+      "hits": 871,
+      "time": 44,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-pennsylvania-flooding-the-latest.html",
+        "snippet": "The Latest on flooding across western and central Pennsylvania (all times local):...",
+        "lead_paragraph": "The Latest on flooding across western and central Pennsylvania (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Water Plant Shut Down After Gasoline Spill",
+          "print_headline": "The Latest: Water Plant Shut Down After Gasoline Spill"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T23:16:08Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580aa1c095d0e022439c4968",
+        "word_count": "483",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-officer-shooting-wrong-home.html",
+        "snippet": "A central Florida police officer has been indicted after authorities say he shot into a home after being dispatched to the wrong address....",
+        "lead_paragraph": "A central Florida police officer has been indicted after authorities say he shot into a home after being dispatched to the wrong address.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Officer Dispatched to Wrong Home Charged With Shooting",
+          "print_headline": "Officer Dispatched to Wrong Home Charged With Shooting"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T23:16:02Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580aa1bb95d0e022439c4967",
+        "word_count": "141",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-czech-us-russian-hacker.html",
+        "snippet": "A Russian man has been charged with hacking and stealing information from computers at LinkedIn and other San Francisco Bay Area companies, federal prosecutors announced Friday....",
+        "lead_paragraph": "A Russian man has been charged with hacking and stealing information from computers at LinkedIn and other San Francisco Bay Area companies, federal prosecutors announced Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Russian Indicted on Charges He Hacked LinkedIn",
+          "print_headline": "Russian Indicted on Charges He Hacked LinkedIn"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T23:10:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580aa06895d0e022439c4966",
+        "word_count": "319",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/business/21reuters-usa-stocks-weekahead.html",
+        "snippet": "With S&amp;P 500 earnings on track to rise after four consecutive quarters of contraction, U.S. stocks are clearing a major hurdle that puts the record high in sight for the benchmark U.S. stock index....",
+        "lead_paragraph": "With S&amp;P 500 earnings on track to rise after four consecutive quarters of contraction, U.S. stocks are clearing a major hurdle that puts the record high in sight for the benchmark U.S. stock index.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Second Wind for Stocks as Earnings Turn Positive",
+          "print_headline": "Second Wind for Stocks as Earnings Turn Positive"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T23:00:32Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9e1d95d0e022439c4965",
+        "word_count": "528",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/10/21/world/middleeast/mosul-peshmerga-isis.html",
+        "snippet": "Raging fires and smoke revealed the front lines of the battle to retake the Islamic State stronghold of Mosul, Iraq....",
+        "lead_paragraph": "Raging fires and smoke revealed the front lines of the battle to retake the Islamic State stronghold of Mosul, Iraq.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/21/world/middleeast/mosul-peshmerga-isis-1477090340518/mosul-peshmerga-isis-1477090340518-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/21/world/middleeast/mosul-peshmerga-isis-1477090340518/mosul-peshmerga-isis-1477090340518-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/21/world/middleeast/mosul-peshmerga-isis-1477090340518/mosul-peshmerga-isis-1477090340518-articleLarge.png",
+            "height": 453,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/21/world/middleeast/mosul-peshmerga-isis-1477090340518/mosul-peshmerga-isis-1477090340518-articleLarge.png",
+              "xlargeheight": "453"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/21/world/middleeast/mosul-peshmerga-isis-1477090340518/mosul-peshmerga-isis-1477090340518-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/21/world/middleeast/mosul-peshmerga-isis-1477090340518/mosul-peshmerga-isis-1477090340518-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Battle for Mosul, in One Image"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Mosul (Iraq)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Kurds"
+          }
+        ],
+        "pub_date": "2016-10-21T22:58:05+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Middle East",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sarah",
+              "rank": 1,
+              "lastname": "ALMUKHTAR"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tim",
+              "rank": 2,
+              "lastname": "WALLACE"
+            }
+          ],
+          "original": "By SARAH ALMUKHTAR and TIM WALLACE"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "580a9d7d95d0e022439c4964",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/us/politics/21reuters-usa-election-oklahoma-russia.html",
+        "snippet": "Oklahoma voting officials have denied a request from the Russian consulate in Houston to monitor the Nov. 8 general elections in the state, saying foreign delegates are not allowed into polling stations, an official said on Friday....",
+        "lead_paragraph": "Oklahoma voting officials have denied a request from the Russian consulate in Houston to monitor the Nov. 8 general elections in the state, saying foreign delegates are not allowed into polling stations, an official said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Oklahoma Rejects Russian Request to Monitor Election in State",
+          "print_headline": "Oklahoma Rejects Russian Request to Monitor Election in State"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:57:30Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9d5e95d0e022439c4963",
+        "word_count": "371",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/21/arts/21reuters-film-starwars-donaldglover.html",
+        "snippet": "Actor and singer Donald Glover will be playing Lando Calrissian in the young Han Solo spin-off film from the \"Star Wars\" universe, Walt Disney Co and Lucasfilm said on Friday....",
+        "lead_paragraph": "Actor and singer Donald Glover will be playing Lando Calrissian in the young Han Solo spin-off film from the \"Star Wars\" universe, Walt Disney Co and Lucasfilm said on Friday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Donald Glover to Play Young Lando in 'Star Wars' Han Solo Film",
+          "print_headline": "Donald Glover to Play Young Lando in 'Star Wars' Han Solo Film"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:54:27Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9caa95d0e022439c4962",
+        "word_count": "282",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-spring-break-sexual-assault.html",
+        "snippet": "Two former students at an Alabama university have been sentenced to 10 years in prison for sexually assaulting a woman during a spring break attack in Panama City Beach....",
+        "lead_paragraph": "Two former students at an Alabama university have been sentenced to 10 years in prison for sexually assaulting a woman during a spring break attack in Panama City Beach.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Men Get 10 Years for Florida Spring Break Sexual Assault",
+          "print_headline": "2 Men Get 10 Years for Florida Spring Break Sexual Assault"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:52:57Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9c5395d0e022439c4961",
+        "word_count": "131",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-texas-attorney-general-indicted.html",
+        "snippet": "Investor fraud accusations against Texas Attorney General Ken Paxton are back in federal court, at least for now, after the U.S. Securities and Exchange Commission on Friday refiled a civil lawsuit against the Republican that a judge previously di...",
+        "lead_paragraph": "Investor fraud accusations against Texas Attorney General Ken Paxton are back in federal court, at least for now, after the U.S. Securities and Exchange Commission on Friday refiled a civil lawsuit against the Republican that a judge previously dismissed.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Feds Not Dropping Fraud Case Against Texas Attorney General",
+          "print_headline": "Feds Not Dropping Fraud Case Against Texas Attorney General"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:52:52Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9c4a95d0e022439c4960",
+        "word_count": "278",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/21/us/ap-us-tourist-killed-nashville.html",
+        "snippet": "Police in North Carolina have arrested two suspects wanted in the killing of a California tourist in Nashville, Tennessee....",
+        "lead_paragraph": "Police in North Carolina have arrested two suspects wanted in the killing of a California tourist in Nashville, Tennessee.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "2 Suspects in Nashville Tourist's Death Arrested in NC",
+          "print_headline": "2 Suspects in Nashville Tourist's Death Arrested in NC"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-21T22:52:24Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580a9c3795d0e022439c495f",
+        "word_count": "126",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

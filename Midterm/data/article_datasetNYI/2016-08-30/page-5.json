@@ -1,0 +1,418 @@
+{
+  "response": {
+    "meta": {
+      "hits": 864,
+      "time": 63,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/30/us/ap-us-odd-celebrity-snake.html",
+        "snippet": "Wessie P. Thon might actually be Wessie A. Conda....",
+        "lead_paragraph": "Wessie P. Thon might actually be Wessie A. Conda.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Believed Python Perplexing Maine City Actually an Anaconda",
+          "print_headline": "Believed Python Perplexing Maine City Actually an Anaconda"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T22:12:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71c0295d0e021d7983783",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/30/us/ap-us-student-visa-scam-the-latest.html",
+        "snippet": "The Latest on a New York City woman accused of participating in a student visa scam at a fake university federal authorities set up in New Jersey (all times local):...",
+        "lead_paragraph": "The Latest on a New York City woman accused of participating in a student visa scam at a fake university federal authorities set up in New Jersey (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Lawyer Calls Student Visa Scam Charges 'Bogus'",
+          "print_headline": "The Latest: Lawyer Calls Student Visa Scam Charges 'Bogus'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T21:45:57Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71b4c95d0e021d798376d",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/30/nytnow/your-evening-briefing.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-articleLarge.jpg",
+            "height": 417,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-articleLarge.jpg",
+              "xlargeheight": "417"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Your Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "NYT Now",
+        "section_name": "NYT Now",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c719f695d0e021d7983748",
+        "word_count": "12",
+        "slideshow_credits": ""
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/30/world/americas/ap-lt-mexico-migrants.html",
+        "snippet": "Mexican immigration authorities say 424 migrants from African countries arrived at the southern state of Chiapas over two days last week....",
+        "lead_paragraph": "Mexican immigration authorities say 424 migrants from African countries arrived at the southern state of Chiapas over two days last week.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Mexico Issues Transit Visas to Surge of African Migrants",
+          "print_headline": "Mexico Issues Transit Visas to Surge of African Migrants"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T22:06:17Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71aeb95d0e021d7983763",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/30/us/ap-us-disabled-housing.html",
+        "snippet": "Los Angeles agreed Tuesday to spend at least $200 million over a decade to provide thousands of apartments for people with disabilities....",
+        "lead_paragraph": "Los Angeles agreed Tuesday to spend at least $200 million over a decade to provide thousands of apartments for people with disabilities.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "LA Paying $200M to Settle Lawsuit Over Disabled Housing",
+          "print_headline": "LA Paying $200M to Settle Lawsuit Over Disabled Housing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T21:35:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71a6695d0e021d7983758",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/30/us/ap-us-fugitive-cuba.html",
+        "snippet": "An Iowa man who tried to escape prosecution on federal firearms charges by fleeing to Cuba has been sentenced to 12 years in prison....",
+        "lead_paragraph": "An Iowa man who tried to escape prosecution on federal firearms charges by fleeing to Cuba has been sentenced to 12 years in prison.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Iowa Fugitive Who Fled to Cuba Gets 12 Years in Prison",
+          "print_headline": "Iowa Fugitive Who Fled to Cuba Gets 12 Years in Prison"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T21:33:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71a6c95d0e021d798375a",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/30/business/30reuters-refineries-motiva-split.html",
+        "snippet": "Motiva Enterprises LLC [MOTIV.UL] said on Tuesday the division of its U.S. refining assets between Royal Dutch Shell Plc and Saudi Aramco &lt;IPO-ARMO.SE&gt; would take place on April 1, 2017, months later than originally expected....",
+        "lead_paragraph": "Motiva Enterprises LLC [MOTIV.UL] said on Tuesday the division of its U.S. refining assets between Royal Dutch Shell Plc and Saudi Aramco &lt;IPO-ARMO.SE&gt; would take place on April 1, 2017, months later than originally expected.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Motiva Says Shell, Saudi Aramco to Split Assets on April 1, 2017",
+          "print_headline": "Motiva Says Shell, Saudi Aramco to Split Assets on April 1, 2017"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T22:01:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71a6395d0e021d7983756",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/30/briefing/us-presidential-race-apple-gene-wilder.html",
+        "snippet": "Here\u2019s what you need to know at the end of the day....",
+        "lead_paragraph": "Here\u2019s what you need to know at the end of the day.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-articleLarge.jpg",
+            "height": 417,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-articleLarge.jpg",
+              "xlargeheight": "417"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/30/nytnow/30eveningss-slide-YIKL/30eveningss-slide-YIKL-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "U.S. Presidential Race, Apple, Gene Wilder: Your Tuesday Evening Briefing",
+          "print_headline": "Your Tuesday Evening Briefing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Andrea",
+              "rank": 1,
+              "lastname": "KANNAPELL"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Sandra",
+              "rank": 2,
+              "lastname": "STEVENSON"
+            }
+          ],
+          "original": "By ANDREA KANNAPELL and SANDRA STEVENSON"
+        },
+        "type_of_material": "News",
+        "_id": "57c7197695d0e021d798373c",
+        "word_count": "803",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/30/sports/tennis/30reuters-tennis-open-bouchard-lawsuit.html",
+        "snippet": "Eugenie Bouchard slumped to a first-round defeat at the U.S. Open on Tuesday but the Canadian might yet leave Flushing Meadows a big winner with her lawsuit against the grand slam and United States Tennis Association still to hit the courts....",
+        "lead_paragraph": "Eugenie Bouchard slumped to a first-round defeat at the U.S. Open on Tuesday but the Canadian might yet leave Flushing Meadows a big winner with her lawsuit against the grand slam and United States Tennis Association still to hit the courts.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bouchard Falls at U.S. Open but Legal Battle Continues",
+          "print_headline": "Bouchard Falls at U.S. Open but Legal Battle Continues"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T22:00:02Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57c71a3c95d0e021d7983753",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/30/insider/readers-react-to-photo-of-omran-daqneesh.html",
+        "snippet": "A selection of comments submitted by Times readers....",
+        "lead_paragraph": "A selection of comments submitted by Times readers.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/30/insider/00insider-reader-slide-5INQ/00insider-reader-slide-5INQ-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/30/insider/00insider-reader-slide-5INQ/00insider-reader-slide-5INQ-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/30/insider/00insider-reader-slide-5INQ/00insider-reader-slide-5INQ-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/30/insider/00insider-reader-slide-5INQ/00insider-reader-slide-5INQ-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/30/insider/00insider-reader-slide-5INQ/00insider-reader-slide-5INQ-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/30/insider/00insider-reader-slide-5INQ/00insider-reader-slide-5INQ-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Readers React to Photo of Omran Daqneesh"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-30T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Times Insider",
+        "section_name": "Times Insider",
+        "subsection_name": null,
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57c7199995d0e021d7983741",
+        "word_count": "8",
+        "slideshow_credits": "Mahmoud Raslan/Aleppo Media Center"
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

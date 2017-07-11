@@ -1,0 +1,694 @@
+{
+  "response": {
+    "meta": {
+      "hits": 378,
+      "time": 66,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/sports/ncaafootball/ap-fbc-t25-wisconsin-iowa.html",
+        "snippet": "Don't count Wisconsin out of the Big Ten West race just yet....",
+        "lead_paragraph": "Don't count Wisconsin out of the Big Ten West race just yet.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Clement Carries No. 10 Wisconsin to 17-9 Win Over Iowa",
+          "print_headline": "Clement Carries No. 10 Wisconsin to 17-9 Win Over Iowa"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:42:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Football",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc13d95d0e022439c4abb",
+        "word_count": "646",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/sports/baseball/cleveland-indians-native-americans-world-series-protest.html",
+        "snippet": "A Native American advocacy group is planning to protest against the Chief Wahoo logo and the team\u2019s name at all the upcoming World Series games in Cleveland....",
+        "lead_paragraph": "A Native American advocacy group is planning to protest against the Chief Wahoo logo and the team\u2019s name at all the upcoming World Series games in Cleveland.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/sports/23WAHOO1/23WAHOO1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/sports/23WAHOO1/23WAHOO1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/sports/23WAHOO1/23WAHOO1-articleLarge.jpg",
+            "height": 384,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/sports/23WAHOO1/23WAHOO1-articleLarge.jpg",
+              "xlargeheight": "384"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/sports/23WAHOO1/23WAHOO1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/sports/23WAHOO1/23WAHOO1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Battle Over Indians\u2019 Name and Logo Moves to the World Series",
+          "print_headline": "Battle Over a Name and a Logo Moves to the World Series"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Cleveland Indians"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Native Americans"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Baseball"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mascots"
+          }
+        ],
+        "pub_date": "2016-10-22T19:42:41+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 1,
+              "lastname": "WALDSTEIN"
+            }
+          ],
+          "original": "By DAVID WALDSTEIN"
+        },
+        "type_of_material": "News",
+        "_id": "580bc13895d0e022439c4aba",
+        "word_count": "1138",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/10/22/world/americas/22reuters-venezuela-politics.html",
+        "snippet": "Led by women dressed in white, several thousand Venezuelans  marched through Caracas on Saturday in the first of what the opposition hopes will be growing protests against the quashing of a referendum to remove President Nicolas Maduro....",
+        "lead_paragraph": "Led by women dressed in white, several thousand Venezuelans  marched through Caracas on Saturday in the first of what the opposition hopes will be growing protests against the quashing of a referendum to remove President Nicolas Maduro.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Maduro Opponents March After Venezuela Referendum Sunk",
+          "print_headline": "Maduro Opponents March After Venezuela Referendum Sunk"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:39:31Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc07695d0e022439c4ab9",
+        "word_count": "420",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/texas-attorney-general-ken-paxton-fraud-charges.html",
+        "snippet": "The federal Securities and Exchange Commission refiled a lawsuit against Ken Paxton that a judge previously dismissed, and Mr. Paxton also faces criminal charges....",
+        "lead_paragraph": "The federal Securities and Exchange Commission refiled a lawsuit against Ken Paxton that a judge previously dismissed, and Mr. Paxton also faces criminal charges.",
+        "abstract": null,
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Texas Attorney General Is Again Fighting Fraud Charges",
+          "print_headline": "Fraud Charges for Texas Attorney General"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Securities and Commodities Violations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Securities and Exchange Commission"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Servergy Inc"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Paxton, Ken"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Texas"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Perry, Rick"
+          }
+        ],
+        "pub_date": "2016-10-22T19:37:54+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bc01895d0e022439c4ab8",
+        "word_count": "286",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/pentagon-mosul-iraq-isis-intelligence.html",
+        "snippet": "Dozens of extra analysts have been dispatched to Iraq to pore over data that could offer insight into the group\u2019s operations and future terror plots....",
+        "lead_paragraph": "Dozens of extra analysts have been dispatched to Iraq to pore over data that could offer insight into the group\u2019s operations and future terror plots.",
+        "abstract": null,
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/world/IRAQ1/IRAQ1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/world/IRAQ1/IRAQ1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/world/IRAQ1/IRAQ1-articleLarge.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/world/IRAQ1/IRAQ1-articleLarge.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/world/IRAQ1/IRAQ1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/world/IRAQ1/IRAQ1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Pentagon Expects Mosul Push to Unlock Trove of ISIS Intelligence",
+          "print_headline": "Mosul Push Expected to Unlock a Trove of ISIS Intelligence"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Mosul (Iraq)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Defense Department"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Baghdadi, Abu Bakr al-"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Iraq"
+          }
+        ],
+        "pub_date": "2016-10-22T19:33:41+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Alissa J. Rubin contributed reporting from Paris.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "SCHMITT"
+            }
+          ],
+          "original": "By ERIC SCHMITT"
+        },
+        "type_of_material": "News",
+        "_id": "580bbf1c95d0e022439c4ab7",
+        "word_count": "965",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/opinion/sunday/philip-le-roux.html",
+        "snippet": "A botanical garden curator on cultivating diversity, watching the flowers grow, and the camaraderie of cycling....",
+        "lead_paragraph": "A botanical garden curator on cultivating diversity, watching the flowers grow, and the camaraderie of cycling.",
+        "abstract": null,
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/opinion/23download-img/23download-img-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/opinion/23download-img/23download-img-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/opinion/23download-img/23download-img-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/opinion/23download-img/23download-img-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Philip Le Roux",
+          "content_kicker": "Download",
+          "kicker": "Download",
+          "print_headline": "Philip Le Roux"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gardens and Gardening"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Bicycles and Bicycling"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Pixies (Music Group)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Space Exploration Technologies Corp"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Froome, Christopher"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Musk, Elon"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cape Town (South Africa)"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Le Roux, Philip"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Kirstenbosch National Botanical Garden (Capetown, South Africa)"
+          }
+        ],
+        "pub_date": "2016-10-22T19:30:26+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Kate",
+              "rank": 1,
+              "lastname": "MURPHY"
+            }
+          ],
+          "original": "By KATE MURPHY"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "580bbe5e95d0e022439c4ab6",
+        "word_count": "561",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/us/ap-us-daughter-rape-sentence.html",
+        "snippet": "A Fresno man was sentenced to 1,503 years in prison for raping his teenage daughter over a four-year period....",
+        "lead_paragraph": "A Fresno man was sentenced to 1,503 years in prison for raping his teenage daughter over a four-year period.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Father Sentenced to 1,503 Years in Prison in Daughter's Rape",
+          "print_headline": "Father Sentenced to 1,503 Years in Prison in Daughter's Rape"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:24:43Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bbcfe95d0e022439c4ab5",
+        "word_count": "375",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/opinion/sunday/good-neighbors-no-politics.html",
+        "snippet": "On my block, we\u2019ve been through too much together to divide along party lines....",
+        "lead_paragraph": "On my block, we\u2019ve been through too much together to divide along party lines.",
+        "abstract": null,
+        "print_page": "9",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/10/23/opinion/23renkl/23renkl-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/10/23/opinion/23renkl/23renkl-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/10/23/opinion/23renkl/23renkl-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/10/23/opinion/23renkl/23renkl-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/10/23/opinion/23renkl/23renkl-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/10/23/opinion/23renkl/23renkl-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Good Neighbors, No Politics",
+          "content_kicker": "Opinion",
+          "kicker": "Opinion",
+          "print_headline": "Good Neighbors, No Politics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Nashville (Tenn)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Facebook Inc"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-10-22T19:21:52+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": "Sunday Review",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Margaret",
+              "rank": 1,
+              "lastname": "RENKL"
+            }
+          ],
+          "original": "By MARGARET RENKL"
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "580bbc5a95d0e022439c4ab4",
+        "word_count": "803",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/10/23/us/ohio-death-row.html",
+        "snippet": "Death row will move from Chillicothe to Toledo and a newer facility designed to handle inmates with physical and mobility limitations....",
+        "lead_paragraph": "Death row will move from Chillicothe to Toledo and a newer facility designed to handle inmates with physical and mobility limitations.",
+        "abstract": null,
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Ohio to Relocate 126 Death Row Inmates",
+          "print_headline": "Ohio to Relocate 126 Death Row Inmates"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Capital Punishment"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Prisons and Prisoners"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Ohio"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Toledo (Ohio)"
+          }
+        ],
+        "pub_date": "2016-10-22T19:21:51+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bbc5995d0e022439c4ab3",
+        "word_count": "544",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/10/22/world/middleeast/ap-ml-iraq-the-mosul-offensive-today.html",
+        "snippet": "The Iraqi army pushed into a town near the Islamic State-held city of Mosul on Saturday, a day after dozens of IS militants stormed into the northern city of Kirkuk, setting off two days of clashes and killing at least 80 people, mostly security f...",
+        "lead_paragraph": "The Iraqi army pushed into a town near the Islamic State-held city of Mosul on Saturday, a day after dozens of IS militants stormed into the northern city of Kirkuk, setting off two days of clashes and killing at least 80 people, mostly security forces.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Mosul Today: Iraqi Army Advances After IS Assault on Kirkuk",
+          "print_headline": "Mosul Today: Iraqi Army Advances After IS Assault on Kirkuk"
+        },
+        "keywords": [],
+        "pub_date": "2016-10-22T19:21:45Z",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "580bbc5495d0e022439c4ab2",
+        "word_count": "541",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,1047 @@
+{
+  "response": {
+    "meta": {
+      "hits": 194,
+      "time": 33,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/t-magazine/waiting-as-luxury.html",
+        "snippet": "In an age of instant everything, there\u2019s a renewed power \u2014 and even status \u2014 in delayed gratification....",
+        "lead_paragraph": "In an age of instant everything, there\u2019s a renewed power \u2014 and even status \u2014 in delayed gratification.",
+        "abstract": "Author Heidi Julavits reflects that waiting for experiences and luxuries, in increasingly sped-up era, has begun, in some cases, to confer power and even status.",
+        "print_page": "174",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/t-magazine/waiting2/waiting2-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/t-magazine/waiting2/waiting2-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/t-magazine/waiting2/waiting2-articleLarge.jpg",
+            "height": 829,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/t-magazine/waiting2/waiting2-articleLarge.jpg",
+              "xlargeheight": "829"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/t-magazine/waiting2/waiting2-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/t-magazine/waiting2/waiting2-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Has Waiting for Things Become the Ultimate Luxury?",
+          "print_headline": "Learning to Yearn"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Culture (Arts)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jewels and Jewelry"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Handbags and Purses"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Social Conditions and Trends"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Luxury Goods and Services"
+          }
+        ],
+        "pub_date": "2016-08-03T18:18:46+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Heidi",
+              "rank": 1,
+              "lastname": "JULAVITS"
+            }
+          ],
+          "original": "By HEIDI JULAVITS"
+        },
+        "type_of_material": "News",
+        "_id": "57aa8d1595d0e021d797f93c",
+        "word_count": "1098",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2016/08/03/t-magazine/fashion/military-fashion-trend.html",
+        "snippet": "Rigid lines, tight corners and neat rows of buttons define the season....",
+        "lead_paragraph": "Rigid lines, tight corners and neat rows of buttons define the season.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/t-magazine/fashion/military-wear-slide-D4UG/military-wear-slide-D4UG-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/t-magazine/fashion/military-wear-slide-D4UG/military-wear-slide-D4UG-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/t-magazine/fashion/military-wear-slide-D4UG/military-wear-slide-D4UG-articleLarge.jpg",
+            "height": 755,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/t-magazine/fashion/military-wear-slide-D4UG/military-wear-slide-D4UG-articleLarge.jpg",
+              "xlargeheight": "755"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/t-magazine/fashion/military-wear-slide-D4UG/military-wear-slide-D4UG-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/t-magazine/fashion/military-wear-slide-D4UG/military-wear-slide-D4UG-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Best of Fall\u2019s Military-Inspired Fashion"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coats and Jackets"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "3.1 Phillip Lim (Manhattan, NY, Retailer)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Marni Group"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Miu Miu (Fashion Label)"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kors, Michael"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "T Magazine / Fashion & Beauty",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": [],
+        "type_of_material": "Slideshow",
+        "_id": "57b6f50295d0e021d79818a1",
+        "word_count": "12",
+        "slideshow_credits": "Photograph by Mark Peckmezian. Styled by Jason Rider"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/03/insider/mosquitoes-on-my-mind-notes-from-rio.html",
+        "snippet": "The deputy Sports editor, Jay Schreiber, introduces readers to Rio on the eve of the Summer Olympics....",
+        "lead_paragraph": "The deputy Sports editor, Jay Schreiber, introduces readers to Rio on the eve of the Summer Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/insider/03insider-jay01SUB/03insider-jay01SUB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/insider/03insider-jay01SUB/03insider-jay01SUB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/insider/03insider-jay01SUB/03insider-jay01SUB-articleLarge.jpg",
+            "height": 378,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/insider/03insider-jay01SUB/03insider-jay01SUB-articleLarge.jpg",
+              "xlargeheight": "378"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/insider/03insider-jay01SUB/03insider-jay01SUB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/insider/03insider-jay01SUB/03insider-jay01SUB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Mosquitoes on My Mind: Notes From Rio"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "World Cup (Soccer)"
+          },
+          {
+            "rank": "11",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Winnipeg (Manitoba)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games (2016)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Swimming"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mosquitoes"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "United States Women's National Soccer Team"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Crouse, Karen"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brazil"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Rio de Janeiro (Brazil)"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Russia"
+          }
+        ],
+        "pub_date": "2016-08-03T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Insider",
+        "section_name": "Times Insider",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jay",
+              "rank": 1,
+              "lastname": "SCHREIBER"
+            }
+          ],
+          "original": "By JAY SCHREIBER"
+        },
+        "type_of_material": "News",
+        "_id": "57aa087b95d0e021d797ee9a",
+        "word_count": "899",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/world/europe/paris-partygoers-bored-and-short-on-cash-turn-suburbs-into-movable-fete.html",
+        "snippet": "The capital has seen much of its night life move to the socially and historically estranged suburbs as a new generation establishes an alternative to mainstream dance clubs....",
+        "lead_paragraph": "The capital has seen much of its night life move to the socially and historically estranged suburbs as a new generation establishes an alternative to mainstream dance clubs.",
+        "abstract": "Montreuil Journal; much of nightlife in Paris has decamped to suburbs like Montreuil as new generation of partygoers have sought cheaper and more energetic alternatives to mainstream urban dance clubs.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/world/05party1/05party1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/world/05party1/05party1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/world/05party1/05party1-articleLarge.jpg",
+            "height": 401,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/world/05party1/05party1-articleLarge.jpg",
+              "xlargeheight": "401"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/world/05party1/05party1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/world/05party1/05party1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Paris Partygoers, Bored and Short on Cash, Turn Suburbs Into Movable F\u00eate",
+          "content_kicker": "Montreuil Journal",
+          "kicker": "Montreuil Journal",
+          "print_headline": "Paris Partygoers, Bored and Short on Cash, Look to Suburbs"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Paris (France)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suburbs"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Montreuil (France)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Dancing"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Bars and Nightclubs"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "St Denis (France)"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Noise"
+          }
+        ],
+        "pub_date": "2016-08-03T18:09:14+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Beno\u00eet",
+              "rank": 1,
+              "lastname": "MORENNE"
+            }
+          ],
+          "original": "By BENO\u00ceT MORENNE"
+        },
+        "type_of_material": "News",
+        "_id": "57a9fa2b95d0e021d797eac4",
+        "word_count": "1219",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://well.blogs.nytimes.com/2016/08/03/read-books-live-longer/",
+        "snippet": "Book readers lived an average of almost two years longer than those who did not read at all....",
+        "lead_paragraph": null,
+        "abstract": "Book readers lived an average of almost two years longer than those who did not read at all.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/science/wellbook/wellbook-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/science/wellbook/wellbook-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/science/wellbook/wellbook-articleLarge.jpg",
+            "height": 327,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/science/wellbook/wellbook-articleLarge.jpg",
+              "xlargeheight": "327"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/science/wellbook/wellbook-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/science/wellbook/wellbook-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Read Books, Live Longer?",
+          "kicker": "Well",
+          "print_headline": "Read Books, Live Longer?"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-03T18:05:09Z",
+        "document_type": "blogpost",
+        "news_desk": "Science",
+        "section_name": "Health",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nicholas",
+              "rank": 1,
+              "lastname": "BAKALAR"
+            }
+          ],
+          "original": "By NICHOLAS BAKALAR"
+        },
+        "type_of_material": "Blog",
+        "_id": "57aa21df95d0e021d797f09c",
+        "word_count": "244",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/europe/100000004566991/how-the-coup-attempt-has-strained-us-turkey-relations.html",
+        "snippet": "After July's attempted military coup, the Turkish government is accusing the United States of supporting the military's failed takeover. Ceylan Yeginsu, The New York Times's Istanbul reporter, explains the tension between the countries....",
+        "lead_paragraph": "After July's attempted military coup, the Turkish government is accusing the United States of supporting the military's failed takeover. Ceylan Yeginsu, The New York Times's Istanbul reporter, explains the tension between the countries.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/03/world/03turkey-web/03turkey-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/03/world/03turkey-web/03turkey-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/03/world/03turkey-web/03turkey-web-articleLarge.jpg",
+            "height": 325,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/03/world/03turkey-web/03turkey-web-articleLarge.jpg",
+              "xlargeheight": "325"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/03/world/03turkey-web/03turkey-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/03/world/03turkey-web/03turkey-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "How the Coup Attempt Has Strained U.S.-Turkey Relations"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Coups D'Etat and Attempted Coups D'Etat"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Istanbul (Turkey)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Turkey"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States International Relations"
+          }
+        ],
+        "pub_date": "2016-08-03T18:06:10+0000",
+        "document_type": "multimedia",
+        "news_desk": "World / Europe",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Megan",
+              "rank": 1,
+              "lastname": "SPECIA"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Yara",
+              "rank": 2,
+              "lastname": "BISHARA"
+            }
+          ],
+          "original": "By MEGAN SPECIA and YARA BISHARA"
+        },
+        "type_of_material": "Video",
+        "_id": "57bc488f95d0e021d79821ed",
+        "word_count": "33",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/us/100000004566867/white-house-vs-homegrown-extremists.html",
+        "snippet": "The White House press secretary, Josh Earnest, said the federal government was working to combat the recruiting efforts of organizations like the Islamic State....",
+        "lead_paragraph": "The White House press secretary, Josh Earnest, said the federal government was working to combat the recruiting efforts of organizations like the Islamic State.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": null,
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/04/us/04BRIEFING/04BRIEFING-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/04/us/04BRIEFING/04BRIEFING-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/04/us/04BRIEFING/04BRIEFING-articleLarge.jpg",
+            "height": 391,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/04/us/04BRIEFING/04BRIEFING-articleLarge.jpg",
+              "xlargeheight": "391"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/04/us/04BRIEFING/04BRIEFING-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/04/us/04BRIEFING/04BRIEFING-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "White House vs. \u2018Homegrown Extremists\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          }
+        ],
+        "pub_date": "2016-08-03T18:03:50+0000",
+        "document_type": "multimedia",
+        "news_desk": "U.S.",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "Video",
+        "_id": "5888fdde95d0e0392607cc25",
+        "word_count": "24",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/04/world/33-us-service-members-have-contracted-zika-pentagon-says.html",
+        "snippet": "Military officials said the disease had been found in men and women serving abroad, including a pregnant woman....",
+        "lead_paragraph": "Military officials said the disease had been found in men and women serving abroad, including a pregnant woman.",
+        "abstract": "Defense Dept announces that over 30 active-duty American service members have contracted Zika virus abroad; one of those service members was pregnant woman.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "33 U.S. Service Members Have Contracted Zika, Pentagon Says",
+          "print_headline": "At Least 33 in Military Contracted Zika Abroad"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Zika Virus"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Defense Department"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mosquitoes"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Latin America"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Birth Defects"
+          }
+        ],
+        "pub_date": "2016-08-03T17:38:27+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Helene",
+              "rank": 1,
+              "lastname": "COOPER"
+            }
+          ],
+          "original": "By HELENE COOPER"
+        },
+        "type_of_material": "News",
+        "_id": "57a9f9c495d0e021d797eab8",
+        "word_count": "585",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/travel/the-florida-keys-by-camper-van-with-baby.html",
+        "snippet": "The transportation and accommodations combo of a camper van rental seemed ideal for a South Florida family vacation on the cheap....",
+        "lead_paragraph": "The transportation and accommodations combo of a camper van rental seemed ideal for a South Florida family vacation on the cheap.",
+        "abstract": "Freda Moon Frugal Traveler column recounts highlights from her first family trip with her infant daughter to Florida Keys aboard camper van. ",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/travel/07FRUGALFAMILY5/07FRUGALFAMILY5-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/travel/07FRUGALFAMILY5/07FRUGALFAMILY5-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/travel/07FRUGALFAMILY5/07FRUGALFAMILY5-articleLarge.jpg",
+            "height": 542,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/travel/07FRUGALFAMILY5/07FRUGALFAMILY5-articleLarge.jpg",
+              "xlargeheight": "542"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/travel/07FRUGALFAMILY5/07FRUGALFAMILY5-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/travel/07FRUGALFAMILY5/07FRUGALFAMILY5-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Florida Keys by Camper Van, With Baby",
+          "content_kicker": "Frugal Family",
+          "kicker": "Frugal Family",
+          "print_headline": "The Florida Keys by Camper Van, With Baby"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Budget Travel"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Vans"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Florida Keys"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Recreational Vehicles"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Camps and Camping"
+          }
+        ],
+        "pub_date": "2016-08-03T17:26:58+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Freda",
+              "rank": 1,
+              "lastname": "MOON"
+            }
+          ],
+          "original": "By FREDA MOON"
+        },
+        "type_of_material": "News",
+        "_id": "57aa044895d0e021d797ed04",
+        "word_count": "1650",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/07/travel/camper-travel-starter-family-vacation.html",
+        "snippet": "The writer rented a camper van, a mode of travel that evoked an Americana nostalgia well-suited to the kitschy charms of South Florida....",
+        "lead_paragraph": "The writer rented a camper van, a mode of travel that evoked an Americana nostalgia well-suited to the kitschy charms of South Florida.",
+        "abstract": "Tips for arranging budget camper van vacation in Florida Keys highlighted.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/07/travel/07FAMILYSIDEBAR/07FAMILYSIDEBAR-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/07/travel/07FAMILYSIDEBAR/07FAMILYSIDEBAR-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/07/travel/07FAMILYSIDEBAR/07FAMILYSIDEBAR-articleLarge.jpg",
+            "height": 370,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/07/travel/07FAMILYSIDEBAR/07FAMILYSIDEBAR-articleLarge.jpg",
+              "xlargeheight": "370"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/07/travel/07FAMILYSIDEBAR/07FAMILYSIDEBAR-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/07/travel/07FAMILYSIDEBAR/07FAMILYSIDEBAR-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Have Camper, Will Travel: A Starter Family Vacation",
+          "print_headline": "What\u2019s Well Suited for Getting Around"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Recreational Vehicles"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Camps and Camping"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Vans"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parks and Other Recreation Areas"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Florida Keys"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Florida"
+          }
+        ],
+        "pub_date": "2016-08-03T17:25:23+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Freda",
+              "rank": 1,
+              "lastname": "MOON"
+            }
+          ],
+          "original": "By FREDA MOON"
+        },
+        "type_of_material": "News",
+        "_id": "57aa044495d0e021d797ed01",
+        "word_count": "626",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

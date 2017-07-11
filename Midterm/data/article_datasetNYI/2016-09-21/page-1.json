@@ -1,0 +1,437 @@
+{
+  "response": {
+    "meta": {
+      "hits": 935,
+      "time": 56,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/21/world/americas/21reuters-colombia-santos.html",
+        "snippet": "Colombian President Juan Manuel Santos on Wednesday warned leftist rebels that their illicit fortune would be seized and used to pay reparations to war victims should voters approve a peace agreement in an Oct. 2 plebiscite....",
+        "lead_paragraph": "Colombian President Juan Manuel Santos on Wednesday warned leftist rebels that their illicit fortune would be seized and used to pay reparations to war victims should voters approve a peace agreement in an Oct. 2 plebiscite.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Colombia's Santos Warns FARC: We'll Come After Your Money",
+          "print_headline": "Colombia's Santos Warns FARC: We'll Come After Your Money"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:42:35Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e31ba295d0e021d79879ec",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/22/world/asia/kashmir-india-pakistan-unrest.html",
+        "snippet": "A recent incursion by militants that left 18 Indian soldiers dead has created a new challenge for India\u2019s prime minister in dealing with Pakistan....",
+        "lead_paragraph": "A recent incursion by militants that left 18 Indian soldiers dead has created a new challenge for India\u2019s prime minister in dealing with Pakistan.",
+        "abstract": null,
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/09/22/world/21India-web1/21India-web1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/09/22/world/21India-web1/21India-web1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/09/22/world/21India-web1/21India-web1-articleLarge.jpg",
+            "height": 386,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/09/22/world/21India-web1/21India-web1-articleLarge.jpg",
+              "xlargeheight": "386"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/09/22/world/21India-web1/21India-web1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/09/22/world/21India-web1/21India-web1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Kashmir Crisis Poses Major Test for India\u2019s Leader, Narendra Modi",
+          "print_headline": "In Kashmir, Major Test for Premier of India"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Kashmir and Jammu (India)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "India"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Pakistan"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Modi, Narendra"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Himalayas"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Demonstrations, Protests and Riots"
+          }
+        ],
+        "pub_date": "2016-09-21T23:42:52+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "contributor": "Ellen Barry contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Geeta",
+              "rank": 1,
+              "lastname": "ANAND"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Hari",
+              "rank": 2,
+              "lastname": "KUMAR"
+            }
+          ],
+          "original": "By GEETA ANAND and HARI KUMAR"
+        },
+        "type_of_material": "News",
+        "_id": "57e31b0195d0e021d79879e9",
+        "word_count": "994",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/21/sports/golf/ap-glf-golf-capsules.html",
+        "snippet": "Connor Syme shot a 6-under 6 to help Scotland take a one-stroke lead over Australia after the first round of the World Amateur Team Championship....",
+        "lead_paragraph": "Connor Syme shot a 6-under 6 to help Scotland take a one-stroke lead over Australia after the first round of the World Amateur Team Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Golf Capsules",
+          "print_headline": "Golf Capsules"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:41:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e31b0595d0e021d79879ea",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/21/us/21reuters-usa-police-scott-factbox.html",
+        "snippet": "Keith Scott, the black man fatally shot by a black police officer in Charlotte, North Carolina, on Tuesday, was remembered by family members and neighbors as a \"likeable\" person as the city braced for possibly more rioting triggered by his killing...",
+        "lead_paragraph": "Keith Scott, the black man fatally shot by a black police officer in Charlotte, North Carolina, on Tuesday, was remembered by family members and neighbors as a \"likeable\" person as the city braced for possibly more rioting triggered by his killing.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Factbox: Slain Charlotte Man Described as Courteous Father of Seven",
+          "print_headline": "Factbox: Slain Charlotte Man Described as Courteous Father of Seven"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:38:36Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e31af095d0e021d79879e8",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/21/sports/golf/ap-glf-world-amateur-team.html",
+        "snippet": "Connor Syme shot a 6-under 6 to help Scotland take a one-stroke lead over Australia after the first round of the World Amateur Team Championship....",
+        "lead_paragraph": "Connor Syme shot a 6-under 6 to help Scotland take a one-stroke lead over Australia after the first round of the World Amateur Team Championship.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Scotland Leads World Amateur Team Championship",
+          "print_headline": "Scotland Leads World Amateur Team Championship"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:37:45Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e31a5995d0e021d79879e7",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/21/us/ap-us-jail-death-texas.html",
+        "snippet": "A woman who went into convulsions at a Texas jail in May died after blood clots traveled into her lung, according to an autopsy....",
+        "lead_paragraph": "A woman who went into convulsions at a Texas jail in May died after blood clots traveled into her lung, according to an autopsy.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Autopsy: Jailed Texas Woman Died From Blood Clots",
+          "print_headline": "Autopsy: Jailed Texas Woman Died From Blood Clots"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:38:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e31a4d95d0e021d79879e6",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/09/22/nyregion/suspicious-package-nypd.html",
+        "snippet": "Since a bomb exploded in Chelsea, the police have responded to more than 800 reports of suspicious packages in New York City, far more than usual....",
+        "lead_paragraph": "Since a bomb exploded in Chelsea, the police have responded to more than 800 reports of suspicious packages in New York City, far more than usual.",
+        "abstract": "New York City police have responded to over 800 calls reporting suspicious packages around city since explosion in Chelsea neighborhood; police spokesman says sharp increase in calls is normal after such attacks.",
+        "print_page": "28",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "If You See Something, Say Something \u2014 and New Yorkers Have, in Droves",
+          "print_headline": "Calls to Police on Packages Rise Sharply After Bomb"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Chelsea, Manhattan Bombing (2016)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Police Department (NYC)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Rahimi, Ahmad Khan"
+          }
+        ],
+        "pub_date": "2016-09-21T23:28:32+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "Emily Palmer contributed reporting.",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ashley",
+              "rank": 1,
+              "lastname": "SOUTHALL"
+            }
+          ],
+          "original": "By ASHLEY SOUTHALL"
+        },
+        "type_of_material": "News",
+        "_id": "57e317a995d0e021d79879e4",
+        "word_count": "445",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/09/21/world/americas/21reuters-brazil-politics-corruption.html",
+        "snippet": "President Michel Temer on Wednesday criticized a surprise move by Brazilian lawmakers, including some members of his party and even a cabinet minister, to wipe the slate clean on illegal donations they allegedly received....",
+        "lead_paragraph": "President Michel Temer on Wednesday criticized a surprise move by Brazilian lawmakers, including some members of his party and even a cabinet minister, to wipe the slate clean on illegal donations they allegedly received.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Brazilian Lawmakers Under Fire for Slush Funds Amnesty Bid",
+          "print_headline": "Brazilian Lawmakers Under Fire for Slush Funds Amnesty Bid"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:25:46Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57e3176c95d0e021d79879e3",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/21/arts/ap-hkn-stars-announcer-cancer.html",
+        "snippet": "Dallas Stars announcer Dave Strader plans to work as many games as possible this season while undergoing treatment for a rare and aggressive form of cancer in his bile duct....",
+        "lead_paragraph": "Dallas Stars announcer Dave Strader plans to work as many games as possible this season while undergoing treatment for a rare and aggressive form of cancer in his bile duct.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Stars Announcer Strader Has a Rare and Aggressive Cancer",
+          "print_headline": "Stars Announcer Strader Has a Rare and Aggressive Cancer"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:21:24Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e316db95d0e021d79879e2",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/09/21/us/politics/ap-us-kurt-busch-ex-girlfriend.html",
+        "snippet": "The former girlfriend of NASCAR driver Kurt Busch has pleaded not guilty to charges of stealing from a military charity she led....",
+        "lead_paragraph": "The former girlfriend of NASCAR driver Kurt Busch has pleaded not guilty to charges of stealing from a military charity she led.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Kurt Busch's Ex Pleads Not Guilty to Stealing From Charity",
+          "print_headline": "Kurt Busch's Ex Pleads Not Guilty to Stealing From Charity"
+        },
+        "keywords": [],
+        "pub_date": "2016-09-21T23:17:42Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57e316d795d0e021d79879e1",
+        "word_count": null,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

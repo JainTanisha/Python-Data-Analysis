@@ -1,0 +1,723 @@
+{
+  "response": {
+    "meta": {
+      "hits": 963,
+      "time": 59,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/theater/the-merchant-of-venice-jonathan-pryce-review.html",
+        "snippet": "At the Lincoln Center Festival, Jonathan Pryce stars as Shylock in a production filled with scorn, violence and anti-Semitism....",
+        "lead_paragraph": "At the Lincoln Center Festival, Jonathan Pryce stars as Shylock in a production filled with scorn, violence and anti-Semitism.",
+        "abstract": "Charles Isherwood reviews Shakespeare's Globe Theater production of Shakespeare play The Merchant of Venice at Frederick P Rose Hall as part of Lincoln Center Festival; Jonathan Munby directs and Jonathan Pryce stars.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/23/arts/23MERCHANT/23MERCHANT-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/23/arts/23MERCHANT/23MERCHANT-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/23/arts/23MERCHANT/23MERCHANT-articleLarge.jpg",
+            "height": 397,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/23/arts/23MERCHANT/23MERCHANT-articleLarge.jpg",
+              "xlargeheight": "397"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/23/arts/23MERCHANT/23MERCHANT-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/23/arts/23MERCHANT/23MERCHANT-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018The Merchant of Venice\u2019 With Extra Fog, Moral and Atmospheric",
+          "print_headline": "This Shylock Has Seen It All Before"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Lincoln Center Festival"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Shakespeare's Globe Theater"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Pryce, Jonathan"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "The Merchant of Venice (Play)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Shakespeare, William"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Munby, Jonathan"
+          }
+        ],
+        "pub_date": "2016-07-22T21:55:26+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Charles",
+              "rank": 1,
+              "lastname": "ISHERWOOD"
+            }
+          ],
+          "original": "By CHARLES ISHERWOOD"
+        },
+        "type_of_material": "Review",
+        "_id": "5792964f38f0d81cba92517e",
+        "word_count": "1078",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/22/business/22reuters-g20-china.html",
+        "snippet": "Fiscal and monetary policies are becoming less effective at spurring economic activity so the world's leading economies need to increase coordination to promote sustainable growth, China's Finance Minister Lou Jiwei said on Saturday....",
+        "lead_paragraph": "Fiscal and monetary policies are becoming less effective at spurring economic activity so the world's leading economies need to increase coordination to promote sustainable growth, China's Finance Minister Lou Jiwei said on Saturday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "G20 Must Boost Coordination as Fiscal, Monetary Policy Lose Effect-Lou",
+          "print_headline": "G20 Must Boost Coordination as Fiscal, Monetary Policy Lose Effect-Lou"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T21:52:16Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5792ce5a38f0d81cba9251ec",
+        "word_count": "605",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/theater/in-golem-the-troupe-1927-shares-a-stage-with-a-claymation-co-star.html",
+        "snippet": "A fanciful adaptation of this ancient Jewish legend fits well with this company\u2019s dependence on useful, risky technology....",
+        "lead_paragraph": "A fanciful adaptation of this ancient Jewish legend fits well with this company\u2019s dependence on useful, risky technology.",
+        "abstract": "British theater company 1927 brings its 2014 play Golem, which combines live action and filmed Claymation, to New York City as part of Lincoln Center Festival.",
+        "print_page": "6",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/24/arts/24GOLEM/24GOLEM-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/24/arts/24GOLEM/24GOLEM-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/24/arts/24GOLEM/24GOLEM-articleLarge.jpg",
+            "height": 399,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/24/arts/24GOLEM/24GOLEM-articleLarge.jpg",
+              "xlargeheight": "399"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/24/arts/24GOLEM/24GOLEM-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/24/arts/24GOLEM/24GOLEM-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "In \u2018Golem,\u2019 the Troupe 1927 Shares a Stage With a Claymation Co-Star",
+          "print_headline": "Actors Play It Close to the Backdrop to Share the Zone of an Animated Golem"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "College of Charleston"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "1927 (Theater Co)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Golem (Play)"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Andrade, Suzanne"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Barritt, Paul"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Lincoln Center Festival"
+          }
+        ],
+        "pub_date": "2016-07-22T21:49:00+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Eric",
+              "rank": 1,
+              "lastname": "GRODE"
+            }
+          ],
+          "original": "By ERIC GRODE"
+        },
+        "type_of_material": "News",
+        "_id": "579294ce38f0d81cba925179",
+        "word_count": "882",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/us/ap-as-south-china-sea-analysis.html",
+        "snippet": "It's a ruling that China cannot accept, and one that the Philippines must....",
+        "lead_paragraph": "It's a ruling that China cannot accept, and one that the Philippines must.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Analysis: South China Sea Ruling Has So Far Fueled Tensions",
+          "print_headline": "Analysis: South China Sea Ruling Has So Far Fueled Tensions"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T21:36:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792caf238f0d81cba9251e8",
+        "word_count": "1204",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/22/us/ap-us-comic-con-bates-motel.html",
+        "snippet": "Rihanna is checking into the final season of \"Bates Motel\" as Marion Crane....",
+        "lead_paragraph": "Rihanna is checking into the final season of \"Bates Motel\" as Marion Crane.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Rihanna to Play Marion Crane in 'Bates Motel'",
+          "print_headline": "Rihanna to Play Marion Crane in 'Bates Motel'"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T21:37:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5792caef38f0d81cba9251e7",
+        "word_count": "238",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/theater/blue-man-group-is-sued-in-royalties-case.html",
+        "snippet": "Ian Pai, who composed music used by the global theatrical brand, contends that he has been underpaid for decades....",
+        "lead_paragraph": "Ian Pai, who composed music used by the global theatrical brand, contends that he has been underpaid for decades.",
+        "abstract": "Composer Ian Pai sues theater company Blue Man Group and its three founders for at least $150 million in damages; was early collaborator with group and claims he has been underpaid for decades since company contributes less than industry standard to composer royalty pool.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/23/arts/23BLUEMAN1/23BLUEMAN1-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/23/arts/23BLUEMAN1/23BLUEMAN1-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/23/arts/23BLUEMAN1/23BLUEMAN1-articleLarge-v2.jpg",
+            "height": 876,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/23/arts/23BLUEMAN1/23BLUEMAN1-articleLarge-v2.jpg",
+              "xlargeheight": "876"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/23/arts/23BLUEMAN1/23BLUEMAN1-thumbStandard-v3.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/23/arts/23BLUEMAN1/23BLUEMAN1-thumbStandard-v3.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Blue Man Group Is Sued in Royalties Case",
+          "print_headline": "Composer Sues Blue Man Group in Royalties Case"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Royalties"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Blue Man Group"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Pai, Ian (1968- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Suits and Litigation (Civil)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-07-22T21:28:46+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Theater",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Lorne",
+              "rank": 1,
+              "lastname": "MANLY"
+            }
+          ],
+          "original": "By LORNE MANLY"
+        },
+        "type_of_material": "News",
+        "_id": "5792901438f0d81cba92516b",
+        "word_count": "919",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/23/arts/music/steve-reich-reverberations-lincoln-center-festival.html",
+        "snippet": "Three concerts at the Lincoln Center Festival drove home how a younger generation has embraced Mr. Reich\u2019s music as its own....",
+        "lead_paragraph": "Three concerts at the Lincoln Center Festival drove home how a younger generation has embraced Mr. Reich\u2019s music as its own.",
+        "abstract": "David Allen Critic's Notebook reflects on continuing influence composer Steve Reich has on younger generation of musicians; cites performances of his music by So Percussion, Ensemble Signal and Jack Quartet as part of Lincoln Center Festival.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/23/arts/23REICHJP/23REICHJP-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/23/arts/23REICHJP/23REICHJP-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/23/arts/23REICHJP/23REICHJP-articleLarge.jpg",
+            "height": 395,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/23/arts/23REICHJP/23REICHJP-articleLarge.jpg",
+              "xlargeheight": "395"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/23/arts/23REICHJP/23REICHJP-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/23/arts/23REICHJP/23REICHJP-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Vivacious Celebration of Steve Reich, a Maverick Turned Music Hero",
+          "content_kicker": "Critic\u2019s Notebook",
+          "kicker": "Critic\u2019s Notebook",
+          "print_headline": " Nearing 80, With a New Generation in Thrall"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Reich, Steve"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "So Percussion"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "JACK Quartet"
+          },
+          {
+            "rank": "5",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Lincoln Center Festival"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Ensemble Signal"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          }
+        ],
+        "pub_date": "2016-07-22T21:19:24+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "David",
+              "rank": 1,
+              "lastname": "ALLEN"
+            }
+          ],
+          "original": "By DAVID ALLEN"
+        },
+        "type_of_material": "News",
+        "_id": "57928de038f0d81cba925165",
+        "word_count": "853",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/22/sports/olympics/22reuters-olympics-rio-swimming-phelps.html",
+        "snippet": "Having ended his career once in London on what he considered a sour note, Michael Phelps enters the Rio de Janeiro Olympics pool for his second swansong determined to bow out on his own terms....",
+        "lead_paragraph": "Having ended his career once in London on what he considered a sour note, Michael Phelps enters the Rio de Janeiro Olympics pool for his second swansong determined to bow out on his own terms.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Phelps Hoping Rio Swansong Hits the Right Notes",
+          "print_headline": "Phelps Hoping Rio Swansong Hits the Right Notes"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T21:17:11Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5792c5ef38f0d81cba9251e1",
+        "word_count": "673",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/world/asia/100000004547811/strangled-for-being-too-sexy.html",
+        "snippet": "Pakistani feminists reflect on the murder of a local social media star, Qandeel Baloch, who was strangled by her brother....",
+        "lead_paragraph": "Pakistani feminists reflect on the murder of a local social media star, Qandeel Baloch, who was strangled by her brother.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/22/multimedia/22pakistan-honorkilling/22pakistan-honorkilling-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/22/multimedia/22pakistan-honorkilling/22pakistan-honorkilling-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/22/multimedia/22pakistan-honorkilling/22pakistan-honorkilling-articleLarge.jpg",
+            "height": 338,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/22/multimedia/22pakistan-honorkilling/22pakistan-honorkilling-articleLarge.jpg",
+              "xlargeheight": "338"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/22/multimedia/22pakistan-honorkilling/22pakistan-honorkilling-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/22/multimedia/22pakistan-honorkilling/22pakistan-honorkilling-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Strangled for Being Too Sexy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Pakistan"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Murders, Attempted Murders and Homicides"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Honor Killings"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Baloch, Qandeel"
+          }
+        ],
+        "pub_date": "2016-07-22T21:16:06Z",
+        "document_type": "multimedia",
+        "news_desk": "World / Asia Pacific",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Yousur",
+              "rank": 1,
+              "lastname": "AL-HLOU"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Megan",
+              "rank": 2,
+              "lastname": "SPECIA"
+            }
+          ],
+          "original": "By YOUSUR AL-HLOU and MEGAN SPECIA"
+        },
+        "type_of_material": "Video",
+        "_id": "5792c57e38f0d81cba9251e0",
+        "word_count": "20",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/22/sports/olympics/22reuters-olympics-rio-diving-wisdom.html",
+        "snippet": "Jamaican diver Yona Knight-Wisdom hopes his uncharacteristically large frame will not only help him stand out amongst his competitors at his first Olympics but also enable him to win by making as small a splash as possible....",
+        "lead_paragraph": "Jamaican diver Yona Knight-Wisdom hopes his uncharacteristically large frame will not only help him stand out amongst his competitors at his first Olympics but also enable him to win by making as small a splash as possible. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Jamaican Diver Plots as Little Splash as Possible at First Games",
+          "print_headline": "Jamaican Diver Plots as Little Splash as Possible at First Games"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-22T21:14:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5792c53938f0d81cba9251df",
+        "word_count": "360",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

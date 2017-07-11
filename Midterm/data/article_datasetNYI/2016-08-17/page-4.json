@@ -1,0 +1,634 @@
+{
+  "response": {
+    "meta": {
+      "hits": 824,
+      "time": 50,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/business/17reuters-americanapparel-m-a.html",
+        "snippet": "American Apparel LLC, the U.S. teen clothing retailer known for its sexually suggestive advertising, has hired investment bank Houlihan Lokey Inc to explore a sale, people familiar with the matter said on Wednesday....",
+        "lead_paragraph": "American Apparel LLC, the U.S. teen clothing retailer known for its sexually suggestive advertising, has hired investment bank Houlihan Lokey Inc to explore a sale, people familiar with the matter said on Wednesday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "American Apparel Hires Investment Bank to Explore Sale: Sources",
+          "print_headline": "American Apparel Hires Investment Bank to Explore Sale: Sources"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:31:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e64695d0e021d79813d3",
+        "word_count": "303",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/17/business/17reuters-volkswagen-emissions.html",
+        "snippet": "German auto supplier Robert Bosch GmbH was a \"knowing and active participant\" in a decade-long scheme by Volkswagen AG  to evade U.S. emissions laws, according to lawyers for U.S. owners of polluting VW diesel vehicles....",
+        "lead_paragraph": "German auto supplier Robert Bosch GmbH was a \"knowing and active participant\" in a decade-long scheme by Volkswagen AG  to evade U.S. emissions laws, according to lawyers for U.S. owners of polluting VW diesel vehicles.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Bosch Worked 'Hand-In-Glove' With VW in Emissions Fraud: Lawyers",
+          "print_headline": "Bosch Worked 'Hand-In-Glove' With VW in Emissions Fraud: Lawyers"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:25:40Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e4df95d0e021d79813d2",
+        "word_count": "639",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://takingnote.blogs.nytimes.com/2016/08/17/i-took-some-advice-from-donald-trumps-new-campaign-manager/",
+        "snippet": "\u201cWomen look at the full measure\u201d of Mr. Trump, said Kellyanne Conway. I did just that....",
+        "lead_paragraph": null,
+        "abstract": "\u201cWomen look at the full measure\u201d of Mr. Trump, said Kellyanne Conway. I did just that.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/17/opinion/17northWEB/17northWEB-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/17/opinion/17northWEB/17northWEB-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/17/opinion/17northWEB/17northWEB-articleLarge.jpg",
+            "height": 443,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/17/opinion/17northWEB/17northWEB-articleLarge.jpg",
+              "xlargeheight": "443"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/17/opinion/17northWEB/17northWEB-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/17/opinion/17northWEB/17northWEB-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "I Took Some Advice From Donald Trump&#8217;s New Campaign Manager",
+          "kicker": "Taking Note"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Kelly, Megyn"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "O'Donnell, Rosie"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Oswald, Lee Harvey"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Supreme Court (US)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Assassinations and Attempted Assassinations"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Women and Girls"
+          }
+        ],
+        "pub_date": "2016-08-17T22:25:46Z",
+        "document_type": "blogpost",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Anna",
+              "rank": 1,
+              "lastname": "NORTH"
+            }
+          ],
+          "original": "By ANNA NORTH"
+        },
+        "type_of_material": "Blog",
+        "_id": "57b4e4c095d0e021d79813d1",
+        "word_count": "407",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-firefighting-foam-water-colorado-the-latest.html",
+        "snippet": "The Latest on water contamination near an Air Force base in Colorado (all times local):...",
+        "lead_paragraph": "The Latest on water contamination near an Air Force base in Colorado (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Colorado: Water Pollution Likely Came From Base",
+          "print_headline": "The Latest: Colorado: Water Pollution Likely Came From Base"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:20:15Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e39d95d0e021d79813d0",
+        "word_count": "288",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/18/world/europe/fighting-for-the-soul-of-france-more-towns-ban-a-bathing-suit-the-burkini.html",
+        "snippet": "The full-body bathing suit has become a flash point in a nation at odds with its Muslim population in the face of a series of terrorist attacks....",
+        "lead_paragraph": "The full-body bathing suit has become a flash point in a nation at odds with its Muslim population in the face of a series of terrorist attacks.",
+        "abstract": "Full-body bathing suit worn by some Muslim women, commonly known as burkini, has become flash point in French politics as country reels from string of terrorist attacks and gears up for presidential election; Prime Min Manuel Valls supports controversial burkini bans imposed by several towns.",
+        "print_page": "11",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/world/18burkini1/18burkini1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/world/18burkini1/18burkini1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/world/18burkini1/18burkini1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/world/18burkini1/18burkini1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/world/18burkini1/18burkini1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/world/18burkini1/18burkini1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Fighting for the \u2018Soul of France,\u2019 More Towns Ban a Bathing Suit: The Burkini",
+          "print_headline": "French Towns Battle to Ban Muslim Women\u2019s Beach Attire"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Muslim Veiling"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Religion-State Relations"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Beaches"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Bathing Suits and Swimwear"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Valls, Manuel"
+          },
+          {
+            "rank": "10",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Cannes (France)"
+          }
+        ],
+        "pub_date": "2016-08-17T22:18:23+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "contributor": "Lilia Blaise and Martin de Bourmont contributed reporting.",
+          "person": [
+            {
+              "firstname": "Alissa",
+              "middlename": "J.",
+              "lastname": "RUBIN",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ALISSA J. RUBIN"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e2b995d0e021d79813cf",
+        "word_count": "1456",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/us/ap-us-gulf-oil-spill-fraud-the-latest.html",
+        "snippet": "The Latest on a fraud case alleging a Texas lawyer and six others submitted fake oil spill claims. (all times local):...",
+        "lead_paragraph": "The Latest on a fraud case alleging a Texas lawyer and six others submitted fake oil spill claims. (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Jurors Considering Oil Spill Fraud Evidence",
+          "print_headline": "The Latest: Jurors Considering Oil Spill Fraud Evidence"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:43:01Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e21395d0e021d79813ce",
+        "word_count": "290",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/17/fashion/Who-Says-Romance-Is-Dead.html",
+        "snippet": "A sense of decadent romance permeated the fall runways. Here\u2019s how to get the look for everyday....",
+        "lead_paragraph": "A sense of decadent romance permeated the fall runways. Here\u2019s how to get the look for everyday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/fashion/18BROWSE2-RUFFLES-COMBO/18BROWSE2-RUFFLES-COMBO-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/fashion/18BROWSE2-RUFFLES-COMBO/18BROWSE2-RUFFLES-COMBO-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/fashion/18BROWSE2-RUFFLES-COMBO/18BROWSE2-RUFFLES-COMBO-articleLarge-v2.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/fashion/18BROWSE2-RUFFLES-COMBO/18BROWSE2-RUFFLES-COMBO-articleLarge-v2.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/fashion/18BROWSE2-RUFFLES-COMBO/18BROWSE2-RUFFLES-COMBO-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/fashion/18BROWSE2-RUFFLES-COMBO/18BROWSE2-RUFFLES-COMBO-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Who Says Romance Is Dead?",
+          "kicker": "Browsing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Shopping and Retail"
+          }
+        ],
+        "pub_date": "2016-08-17T04:00:00+0000",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Erica",
+              "rank": 1
+            }
+          ],
+          "original": "By ERICA M. BLUMENTHAL"
+        },
+        "type_of_material": "Interactive Feature",
+        "_id": "57b4e1bc95d0e021d79813cd",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/sports/olympics/ap-oly-box-welterweight.html",
+        "snippet": "Daniyar Yeleussinov leaves with a more permanent &#8212; and gnarly &#8212; reminder of his Olympic experience than a gold medal....",
+        "lead_paragraph": "Daniyar Yeleussinov leaves with a more permanent &#8212; and gnarly &#8212; reminder of his Olympic experience than a gold medal.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Yeleussinov Wins 4th Straight Kazakh Welterweight Gold Medal",
+          "print_headline": "Yeleussinov Wins 4th Straight Kazakh Welterweight Gold Medal"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T21:39:58Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e0dc95d0e021d79813cc",
+        "word_count": "426",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/17/arts/ap-fbn-jets-fitz-larry-david.html",
+        "snippet": "Hello, Larry....",
+        "lead_paragraph": "Hello, Larry.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "No Soup for Fitz? Jets Quarterback Meets 'Seinfeld' Creator",
+          "print_headline": "No Soup for Fitz? Jets Quarterback Meets 'Seinfeld' Creator"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-17T22:06:43Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57b4e0b495d0e021d79813cb",
+        "word_count": "298",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/18/arts/music/phil-collins-memoir-singles-interview.html",
+        "snippet": "This drummer and singer is returning to the spotlight \u2014 slowly \u2014 with a gig at the United States Open, a singles collection and a memoir, \u201cNot Dead Yet,\u201d this fall....",
+        "lead_paragraph": "This drummer and singer is returning to the spotlight \u2014 slowly \u2014 with a gig at the United States Open, a singles collection and a memoir, \u201cNot Dead Yet,\u201d this fall.",
+        "abstract": "Edited excerpts from interview with Phil Collins, 1980s pop music icon who is staging slow comeback after retiring from music in 2011; he discusses forthcoming 3-CD collection and soon-to-be-released memoir Not Dead Yet.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/18/arts/18PHILCOLLINS1/18PHILCOLLINS1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/18/arts/18PHILCOLLINS1/18PHILCOLLINS1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/18/arts/18PHILCOLLINS1/18PHILCOLLINS1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/18/arts/18PHILCOLLINS1/18PHILCOLLINS1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/18/arts/18PHILCOLLINS1/18PHILCOLLINS1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/18/arts/18PHILCOLLINS1/18PHILCOLLINS1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Phil Collins Is Very Much Alive",
+          "print_headline": "He\u2019s Coming Back, Slowly, Carefully"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Collins, Phil"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Not Dead Yet (Book)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-08-17T22:09:06+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Joe",
+              "rank": 1,
+              "lastname": "COSCARELLI"
+            }
+          ],
+          "original": "By JOE COSCARELLI"
+        },
+        "type_of_material": "Question",
+        "_id": "57b4e08d95d0e021d79813ca",
+        "word_count": "1133",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

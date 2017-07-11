@@ -1,0 +1,758 @@
+{
+  "response": {
+    "meta": {
+      "hits": 539,
+      "time": 65,
+      "offset": 30
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/us/ap-us-fatal-fall-child.html",
+        "snippet": "Authorities say a three-year-old boy has died after falling from the 13th floor of a New York City apartment building....",
+        "lead_paragraph": "Authorities say a three-year-old boy has died after falling from the 13th floor of a New York City apartment building.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Police: Boy, 3, Dies After Fall From NYC Apartment Building",
+          "print_headline": "Police: Boy, 3, Dies After Fall From NYC Apartment Building"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T21:37:59Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779be5938f0d837d4464f7a",
+        "word_count": "74",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/07/03/sports/olympics/03reuters-swimming-olympics-usa.html",
+        "snippet": "Connor Jaeger and Abbey Weitzeil wrapped up eight days of cut-throat competition by claiming the last two wins at the U.S. Olympic trials on Sunday as the final pieces of the Rio Games swim team were put in place....",
+        "lead_paragraph": "Connor Jaeger and Abbey Weitzeil wrapped up eight days of cut-throat competition by claiming the last two wins at the U.S. Olympic trials on Sunday as the final pieces of the Rio Games swim team were put in place.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Final Pieces in Place, U.S. Ready for Rio Plunge",
+          "print_headline": "Final Pieces in Place, U.S. Ready for Rio Plunge"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T21:36:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5779be5638f0d837d4464f79",
+        "word_count": "512",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/world/middleeast/ap-ml-saudi-suicide-bombing.html",
+        "snippet": "A suicide bomber carried out an attack early Monday near a U.S. diplomatic site in the western Saudi city of Jiddah, according to the Interior Ministry....",
+        "lead_paragraph": "A suicide bomber carried out an attack early Monday near a U.S. diplomatic site in the western Saudi city of Jiddah, according to the Interior Ministry.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Suicide Attack Carried Out Near US Diplomatic Site in Saudi",
+          "print_headline": "Suicide Attack Carried Out Near US Diplomatic Site in Saudi"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Saudi Arabia"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Islamic State in Iraq and Syria (ISIS)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Diplomatic Service, Embassies and Consulates"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Al Qaeda"
+          }
+        ],
+        "pub_date": "2016-07-03T21:34:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779bda838f0d837d4464f78",
+        "word_count": "413",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/04/arts/music/review-rob-mcclures-smile-a-glass-thats-always-half-full.html",
+        "snippet": "Mr. McClure wittily explored the meaning behind famous song lyrics and performed comedic hand puppetry, but he saved the very best for last....",
+        "lead_paragraph": "Mr. McClure wittily explored the meaning behind famous song lyrics and performed comedic hand puppetry, but he saved the very best for last.",
+        "abstract": "Stephen Holden reviews performance by singer Rob McClure at Feinstein's/54 Below.",
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/04/arts/04MCCLURE/04MCCLURE-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/04/arts/04MCCLURE/04MCCLURE-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/04/arts/04MCCLURE/04MCCLURE-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/04/arts/04MCCLURE/04MCCLURE-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/04/arts/04MCCLURE/04MCCLURE-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/04/arts/04MCCLURE/04MCCLURE-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: Rob McClure\u2019s \u2018Smile,\u2019 a Glass That\u2019s Always Half Full",
+          "print_headline": "Optimist Lifts His Half-Full Glass"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "McClure, Rob"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Feinstein's/54 Below (Manhattan, NY, Music Venue)"
+          }
+        ],
+        "pub_date": "2016-07-03T21:33:09+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Stephen",
+              "rank": 1,
+              "lastname": "HOLDEN"
+            }
+          ],
+          "original": "By STEPHEN HOLDEN"
+        },
+        "type_of_material": "Review",
+        "_id": "5779849738f0d837d4464f2f",
+        "word_count": "409",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/04/arts/design/its-an-art-gallery-no-a-living-room-ok-both.html",
+        "snippet": "Makeshift galleries have proliferated in unconventional spaces in response to high costs and a stratified art world beholden to curators and dealers....",
+        "lead_paragraph": "Makeshift galleries have proliferated in unconventional spaces in response to high costs and a stratified art world beholden to curators and dealers.",
+        "abstract": "Many artists in New York city and across country have been creating temporary, do-it-yourself galleries in apartments, storefronts and other spaces in response to rising costs and difficulty of getting dealer representation; trend also represents effort by artists to build community in increasingly stratified art world and gain control over careers.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/04/arts/04POPUP1/04POPUP1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/04/arts/04POPUP1/04POPUP1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/04/arts/04POPUP1/04POPUP1-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/04/arts/04POPUP1/04POPUP1-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/04/arts/04POPUP1/04POPUP1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/04/arts/04POPUP1/04POPUP1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "It\u2019s an Art Gallery. No, a Living Room. O.K., Both.",
+          "print_headline": "Art Gallery? Living Room? O.K., Both."
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Eddy, Austin (1986- )"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Johnson, Ryan (1978- )"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Brooklyn (NYC)"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "New York City"
+          }
+        ],
+        "pub_date": "2016-07-03T21:30:13+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robin",
+              "rank": 1,
+              "lastname": "POGREBIN"
+            }
+          ],
+          "original": "By ROBIN POGREBIN"
+        },
+        "type_of_material": "News",
+        "_id": "577983e838f0d837d4464f2d",
+        "word_count": "1288",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/04/books/review-bush-a-biography-as-scathing-indictment.html",
+        "snippet": "If George W. Bush eventually gets a more sympathetic hearing by history, as he hopes, it will not start with Jean Edward Smith\u2019s new book....",
+        "lead_paragraph": "If George W. Bush eventually gets a more sympathetic hearing by history, as he hopes, it will not start with Jean Edward Smith\u2019s new book.",
+        "abstract": "Peter Baker reviews book Bush, biography of former Pres George W Bush by Jean Edward Smith.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/04/arts/04BOOKSMITHJP/04BOOKSMITHJP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/04/arts/04BOOKSMITHJP/04BOOKSMITHJP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/04/arts/04BOOKSMITHJP/04BOOKSMITHJP-articleLarge.jpg",
+            "height": 741,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/04/arts/04BOOKSMITHJP/04BOOKSMITHJP-articleLarge.jpg",
+              "xlargeheight": "741"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/04/arts/04BOOKSMITHJP/04BOOKSMITHJP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/04/arts/04BOOKSMITHJP/04BOOKSMITHJP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Bush,\u2019 a Biography as Scathing Indictment",
+          "content_kicker": "Books of The Times",
+          "kicker": "Books of The Times",
+          "print_headline": "Presidential Biography as Scathing Indictment"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Bush (Book)"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Smith, Jean Edward"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Bush, George W"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Books and Literature"
+          }
+        ],
+        "pub_date": "2016-07-03T21:27:54+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Books",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Peter",
+              "rank": 1,
+              "lastname": "BAKER"
+            }
+          ],
+          "original": "By PETER BAKER"
+        },
+        "type_of_material": "Review",
+        "_id": "5779835d38f0d837d4464f2c",
+        "word_count": "1236",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/04/arts/garrison-keillor-turns-out-the-lights-on-lake-wobegon.html",
+        "snippet": "The creator of \u201cA Prairie Home Companion\u201d signed off the air for good with sentimentality, Powdermilk Biscuits and a call from President Obama....",
+        "lead_paragraph": "The creator of \u201cA Prairie Home Companion\u201d signed off the air for good with sentimentality, Powdermilk Biscuits and a call from President Obama.",
+        "abstract": "Dwight Garner Critic's Notebook describes Garrison Keillor's final broadcast of public radio show A Prairie Home Companion, which he has hosted for 42 years.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/04/arts/04KEILLOR/04KEILLOR-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/04/arts/04KEILLOR/04KEILLOR-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/04/arts/04KEILLOR/04KEILLOR-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/04/arts/04KEILLOR/04KEILLOR-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/04/arts/04KEILLOR/04KEILLOR-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/04/arts/04KEILLOR/04KEILLOR-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Garrison Keillor Turns Out the Lights on Lake Wobegon",
+          "content_kicker": "Critic's Notebook",
+          "kicker": "Critic's Notebook",
+          "print_headline": "Garrison Keillor Turns Out the Lights on Lake Wobegon"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "persons",
+            "value": "Keillor, Garrison"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "A Prairie Home Companion (Radio Program)"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Radio"
+          }
+        ],
+        "pub_date": "2016-07-03T21:16:48+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dwight",
+              "rank": 1,
+              "lastname": "GARNER"
+            }
+          ],
+          "original": "By DWIGHT GARNER"
+        },
+        "type_of_material": "Review",
+        "_id": "577980c438f0d837d4464f26",
+        "word_count": "821",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/video/universal/100000004432455/clark-fish-and-chips-cn.html",
+        "snippet": "\u70e4\u9c7c\u85af\u6761\u6bd4\u70b8\u9c7c\u85af\u6761\u5236\u4f5c\u8d77\u6765\u66f4\u7b80\u5355\u6e05\u723d\uff0c\u5374\u540c\u6837\u7f8e\u5473\u53ef\u53e3\u3002...",
+        "lead_paragraph": "\u70e4\u9c7c\u85af\u6761\u6bd4\u70b8\u9c7c\u85af\u6761\u5236\u4f5c\u8d77\u6765\u66f4\u7b80\u5355\u6e05\u723d\uff0c\u5374\u540c\u6837\u7f8e\u5473\u53ef\u53e3\u3002",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/05/23/multimedia/clark-fish-and-chips-cn/clark-fish-and-chips-cn-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/05/23/multimedia/clark-fish-and-chips-cn/clark-fish-and-chips-cn-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/05/23/multimedia/clark-fish-and-chips-cn/clark-fish-and-chips-cn-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/05/23/multimedia/clark-fish-and-chips-cn/clark-fish-and-chips-cn-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/05/23/multimedia/clark-fish-and-chips-cn/clark-fish-and-chips-cn-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/05/23/multimedia/clark-fish-and-chips-cn/clark-fish-and-chips-cn-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "\u70e4\u9c7c\u85af\u6761"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Food"
+          }
+        ],
+        "pub_date": "2016-07-03T21:16:10Z",
+        "document_type": "multimedia",
+        "news_desk": "Universal",
+        "section_name": "Universal",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Alec",
+              "rank": 1,
+              "lastname": "COHEN"
+            }
+          ],
+          "original": "By ALEC COHEN"
+        },
+        "type_of_material": "Video",
+        "_id": "5779b90138f0d837d4464f74",
+        "word_count": "1",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/07/04/arts/music/review-il-trionfo-and-pelleas-at-the-aix-en-provence-festival.html",
+        "snippet": "Handel\u2019s \u201cIl Trionfo del Tempo e del Disinganno\u201d and Debussy\u2019s \u201cPell\u00e9as et M\u00e9lisande\u201d are featured in this French festival....",
+        "lead_paragraph": "Handel\u2019s \u201cIl Trionfo del Tempo e del Disinganno\u201d and Debussy\u2019s \u201cPell\u00e9as et M\u00e9lisande\u201d are featured in this French festival.",
+        "abstract": "Zachary Woolfe reviews Krzysztof Warlikowski production of Handel oratorio Il Trionfo del Tempo e del Disinganno and Katie Mitchell production of Debussy opera Pelleas et Melisande at Aix-en-Provence Festival in France.",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/07/04/arts/04PELLEAS/04PELLEAS-thumbWide-v2.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/07/04/arts/04PELLEAS/04PELLEAS-thumbWide-v2.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/07/04/arts/04PELLEAS/04PELLEAS-articleLarge.jpg",
+            "height": 436,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/07/04/arts/04PELLEAS/04PELLEAS-articleLarge.jpg",
+              "xlargeheight": "436"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/07/04/arts/04PELLEAS/04PELLEAS-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/07/04/arts/04PELLEAS/04PELLEAS-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Review: \u2018Il Trionfo\u2019 and \u2018Pell\u00e9as\u2019 at the Aix-en-Provence Festival",
+          "print_headline": "Youthful Martyrs in a Battle Against Conformity"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Opera"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "creative_works",
+            "value": "Il Trionfo del Tempo e del Disinganno (Musical Work)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Pelleas et Melisande (Opera)"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Salonen, Esa-Pekka"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Philharmonia Orchestra"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Debussy, Claude"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Handel, George Frederick"
+          },
+          {
+            "rank": "8",
+            "is_major": "Y",
+            "name": "glocations",
+            "value": "Aix-en-Provence (France)"
+          }
+        ],
+        "pub_date": "2016-07-03T21:10:21+0000",
+        "document_type": "article",
+        "news_desk": "Culture",
+        "section_name": "Arts",
+        "subsection_name": "Music",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Zachary",
+              "rank": 1,
+              "lastname": "WOOLFE"
+            }
+          ],
+          "original": "By ZACHARY WOOLFE"
+        },
+        "type_of_material": "Review",
+        "_id": "57797f3e38f0d837d4464f23",
+        "word_count": "994",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/07/03/sports/olympics/ap-oly-swm-us-swim-trials.html",
+        "snippet": "Connor Jaeger had to swim nearly a mile to earn another race at the Olympics....",
+        "lead_paragraph": "Connor Jaeger had to swim nearly a mile to earn another race at the Olympics.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Jaeger, Weitzeil Win Final 2 Races of US Olympic Trials",
+          "print_headline": "Jaeger, Weitzeil Win Final 2 Races of US Olympic Trials"
+        },
+        "keywords": [],
+        "pub_date": "2016-07-03T21:06:38Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5779b75538f0d837d4464f6e",
+        "word_count": "470",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

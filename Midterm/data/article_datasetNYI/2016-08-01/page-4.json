@@ -1,0 +1,392 @@
+{
+  "response": {
+    "meta": {
+      "hits": 731,
+      "time": 49,
+      "offset": 40
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/us/ap-us-books-franzen.html",
+        "snippet": "Award-winning novelist Jonathan Franzen has an admittedly uncomfortable reason for why he doesn't expect to write a book about racial relations: He doesn't know many blacks....",
+        "lead_paragraph": "Award-winning novelist Jonathan Franzen has an admittedly uncomfortable reason for why he doesn't expect to write a book about racial relations: He doesn't know many blacks.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "An 'Embarrassed' Jonathan Franzen Says He Knows Few Blacks",
+          "print_headline": "An 'Embarrassed' Jonathan Franzen Says He Knows Few Blacks"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:44:55Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579fedfb38f0d861602e1ac1",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/us/01reuters-new-jersey-atlantic-city-default.html",
+        "snippet": "New Jersey's fiscally distressed gambling hub Atlantic City plans to release information on Tuesday about its $3.4 million debt service payments due Aug. 1, Mayor Don Guardian's chief of staff Chris Filiciello told Reuters on Monday....",
+        "lead_paragraph": "New Jersey's fiscally distressed gambling hub Atlantic City plans to release information on Tuesday about its $3.4 million debt service payments due Aug. 1, Mayor Don Guardian's chief of staff Chris Filiciello told Reuters on Monday.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Atlantic City, N.J., to Make Statement Tuesday About $3.4 Million Bond Payments",
+          "print_headline": "Atlantic City, N.J., to Make Statement Tuesday About $3.4 Million Bond Payments"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:40:00Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579fec7738f0d861602e1abd",
+        "word_count": "90",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/01/us/politics/trump-draft-card.html",
+        "snippet": "After his 18th birthday in June 1964, Donald J. Trump registered with the Selective Service, as did all men his age. It was the summer after his graduation from New York Military Academy and Mr. Trump recalled filling out his papers with his fathe...",
+        "lead_paragraph": "After his 18th birthday in June 1964, Donald J. Trump registered with the Selective Service, as did all men his age. It was the summer after his graduation from New York Military Academy and Mr. Trump recalled filling out his papers with his father, Fred Trump, at the local draft office on Jamaica Avenue in Queens.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/us/politics/02trumpcard/02trumpcard-thumbWide.png",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/us/politics/02trumpcard/02trumpcard-thumbWide.png",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/us/politics/02trumpcard/02trumpcard-articleLarge.png",
+            "height": 775,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/us/politics/02trumpcard/02trumpcard-articleLarge.png",
+              "xlargeheight": "775"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/us/politics/02trumpcard/02trumpcard-thumbStandard.png",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/us/politics/02trumpcard/02trumpcard-thumbStandard.png",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump\u2019s Registration Card"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": null,
+        "type_of_material": "Interactive Feature",
+        "_id": "579fec0d38f0d861602e1abb",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2016/08/01/us/politics/trump-record.html",
+        "snippet": "For many years, Donald J. Trump, asserted that it was \u201cultimately\u201d a high draft lottery number that kept him out of the Vietnam War, rather than a medical condition. But his Selective Service records, obtained from the National Archives, sugge...",
+        "lead_paragraph": "For many years, Donald J. Trump, asserted that it was \u201cultimately\u201d a high draft lottery number that kept him out of the Vietnam War, rather than a medical condition. But his Selective Service records, obtained from the National Archives, suggest otherwise.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/02/us/politics/02trumpvietnam-record/02trumpvietnam-record-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/02/us/politics/02trumpvietnam-record/02trumpvietnam-record-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/02/us/politics/02trumpvietnam-record/02trumpvietnam-record-articleLarge.jpg",
+            "height": 306,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/02/us/politics/02trumpvietnam-record/02trumpvietnam-record-articleLarge.jpg",
+              "xlargeheight": "306"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/02/us/politics/02trumpvietnam-record/02trumpvietnam-record-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/02/us/politics/02trumpvietnam-record/02trumpvietnam-record-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Donald Trump\u2019s Selective Service Records"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Draft and Recruitment (Military)"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Archives and Records"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2016"
+          }
+        ],
+        "pub_date": "2016-08-01T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "U.S. / Politics",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": [],
+        "type_of_material": "Interactive Feature",
+        "_id": "579febf538f0d861602e1aba",
+        "word_count": null,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/us/politics/ap-us-united-states-singapore.html",
+        "snippet": "American credibility is on the line over the Trans-Pacific Partnership, Singapore's prime minister said Monday, urging its ratification despite growing political opposition in the U.S. to the 12-nation free trade pact....",
+        "lead_paragraph": "American credibility is on the line over the Trans-Pacific Partnership, Singapore's prime minister said Monday, urging its ratification despite growing political opposition in the U.S. to the 12-nation free trade pact.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Singapore PM: US Credibility on the Line Over TPP Trade Deal",
+          "print_headline": "Singapore PM: US Credibility on the Line Over TPP Trade Deal"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:37:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579febd438f0d861602e1ab9",
+        "word_count": "375",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/nyregion/ap-us-unresolved-nyc-case-.html",
+        "snippet": "Thirty minutes after a New York City man was shot and killed in a bodega in 2007, police arrested a suspect in the case....",
+        "lead_paragraph": "Thirty minutes after a New York City man was shot and killed in a bodega in 2007, police arrested a suspect in the case.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "9 Years, 3 Trials Later: NYC Man Pleads Guilty to Killing",
+          "print_headline": "9 Years, 3 Trials Later: NYC Man Pleads Guilty to Killing"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:33:23Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "N.Y. / Region",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579feb2638f0d861602e1ab8",
+        "word_count": "147",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/sports/baseball/ap-bbn-dodgers-puig.html",
+        "snippet": "Yasiel Puig followed the Los Angeles Dodgers' wishes when he didn't show up to the stadium on Monday before the team departed on its road trip to Colorado, manager Dave Roberts told The Associated Press....",
+        "lead_paragraph": "Yasiel Puig followed the Los Angeles Dodgers' wishes when he didn't show up to the stadium on Monday before the team departed on its road trip to Colorado, manager Dave Roberts told The Associated Press.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Manager: Yasiel Puig Followed Dodgers' Wishes, Stayed Home",
+          "print_headline": "Manager: Yasiel Puig Followed Dodgers' Wishes, Stayed Home"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:29:31Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Baseball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579fea6b38f0d861602e1ab7",
+        "word_count": "464",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/sports/olympics/ap-oly-ioc-bach-.html",
+        "snippet": "IOC President Thomas Bach issued another defense of his handling of the Russian doping scandal Monday, saying the decision not to exclude the entire Russian team from the Rio de Janeiro Olympics was based on human rights and justice....",
+        "lead_paragraph": "IOC President Thomas Bach issued another defense of his handling of the Russian doping scandal Monday, saying the decision not to exclude the entire Russian team from the Rio de Janeiro Olympics was based on human rights and justice.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Thomas Bach: IOC Decision on Russians 'Is About Justice'",
+          "print_headline": "Thomas Bach: IOC Decision on Russians 'Is About Justice'"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:26:32Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579fe9c538f0d861602e1ab5",
+        "word_count": "569",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/01/us/ap-us-hot-air-balloon-crash-texas-pilot-timeline.html",
+        "snippet": "The pilot of the hot air balloon that crashed Saturday in Texas had at least four drunken-driving convictions, two prison stays and more than 40 customer complaints in his past, records show....",
+        "lead_paragraph": "The pilot of the hot air balloon that crashed Saturday in Texas had at least four drunken-driving convictions, two prison stays and more than 40 customer complaints in his past, records show.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "Pilot in Hot Air Balloon Crash Had Convictions, Complaints",
+          "print_headline": "Pilot in Hot Air Balloon Crash Had Convictions, Complaints"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:28:08Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "579fe9b938f0d861602e1ab4",
+        "word_count": "719",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/01/sports/olympics/01reuters-olympics-rio-weightlifting-toomey.html",
+        "snippet": "Australian weightlifter Tia-Clair Toomey is unlikely to win a medal at the Rio Olympics but she can claim to be the fittest woman there....",
+        "lead_paragraph": "Australian weightlifter Tia-Clair Toomey is unlikely to win a medal at the Rio Olympics but she can claim to be the fittest woman there.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Weightlifting-World's 'Second Fittest Woman' Ready for Rio",
+          "print_headline": "Weightlifting-World's 'Second Fittest Woman' Ready for Rio"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-01T20:23:37Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Olympics",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "579fe84d38f0d861602e1aaf",
+        "word_count": "380",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

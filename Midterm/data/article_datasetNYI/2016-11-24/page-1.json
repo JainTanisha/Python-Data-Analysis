@@ -1,0 +1,748 @@
+{
+  "response": {
+    "meta": {
+      "hits": 622,
+      "time": 33,
+      "offset": 10
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/us/politics/donald-trump-medicare-republicans.html",
+        "snippet": "Republicans plan to move forward on a years-old effort to shift Medicare to a system known as premium support, setting up a partisan fight....",
+        "lead_paragraph": "Republicans plan to move forward on a years-old effort to shift Medicare to a system known as premium support, setting up a partisan fight.",
+        "abstract": null,
+        "print_page": "16",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/us/25medicare1/24medicare1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/us/25medicare1/24medicare1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/us/25medicare1/24medicare1-articleLarge.jpg",
+            "height": 381,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/us/25medicare1/24medicare1-articleLarge.jpg",
+              "xlargeheight": "381"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/us/25medicare1/24medicare1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/us/25medicare1/24medicare1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A Battle to Change Medicare Is Brewing, Whether Trump Wants It or Not",
+          "print_headline": "House G.O.P. Expected to Seek Key Changes in Way Medicare Works"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Medicare"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Privatization"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Health Insurance and Managed Care"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "House of Representatives"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Ryan, Paul D Jr"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Democratic Party"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Republican Party"
+          }
+        ],
+        "pub_date": "2016-11-24T23:28:52+0000",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Robert",
+              "rank": 1,
+              "lastname": "PEAR"
+            }
+          ],
+          "original": "By ROBERT PEAR"
+        },
+        "type_of_material": "News",
+        "_id": "583777bd95d0e03926072626",
+        "word_count": "1388",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/us/ap-us-missing-woman-california-the-latest.html",
+        "snippet": "The Latest on a California woman turning up safe weeks after she went missing (all times local):...",
+        "lead_paragraph": "The Latest on a California woman turning up safe weeks after she went missing (all times local):",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "The Latest: Police Seek 2 Women in California Abduction",
+          "print_headline": "The Latest: Police Seek 2 Women in California Abduction"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T23:15:35+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "583774a295d0e03926072625",
+        "word_count": "239",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/world/europe/24reuters-france-attacks.html",
+        "snippet": "Police are searching for an armed man after finding a dead woman in a retirement home where some 60 missionaries are living in southwestern France, sources close to the matter said on Friday....",
+        "lead_paragraph": "Police are searching for an armed man after finding a dead woman in a retirement home where some 60 missionaries are living in southwestern France, sources close to the matter said on Friday. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "One Dead in Attack on Missionaries' Home in France, Suspect at Large",
+          "print_headline": "One Dead in Attack on Missionaries' Home in France, Suspect at Large"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T23:12:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "583773e595d0e03926072624",
+        "word_count": "236",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/world/europe/24reuters-mideast-crisis-syria-envoy.html",
+        "snippet": "The U.N. Special Envoy for Syria on Thursday said U.S. President Barack Obama could well keep working until his last day in office to end the war in Syria, and Russia did not want to be held responsible for the demolition of eastern Aleppo....",
+        "lead_paragraph": "The U.N. Special Envoy for Syria on Thursday said U.S. President Barack Obama could well keep working until his last day in office to end the war in Syria, and Russia did not want to be held responsible for the demolition of eastern Aleppo.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "U.N. Envoy Sees Continued U.S. Work to End Syria War",
+          "print_headline": "U.N. Envoy Sees Continued U.S. Work to End Syria War"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T23:06:31+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Europe",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5837728295d0e03926072623",
+        "word_count": "369",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/11/24/world/americas/24reuters-usa-trump-immigration-centralamerica.html",
+        "snippet": "Central American countries warned on Thursday that large numbers of migrants have fled their poor, violent homes since Donald Trump's surprise election win, hoping to reach the United States before he takes office next year....",
+        "lead_paragraph": "Central American countries warned on Thursday that large numbers of migrants have fled their poor, violent homes since Donald Trump's surprise election win, hoping to reach the United States before he takes office next year. ",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "Reuters",
+        "multimedia": [],
+        "headline": {
+          "main": "Central Americans Surge North, Hoping to Reach U.S. Before Trump Inauguration",
+          "print_headline": "Central Americans Surge North, Hoping to Reach U.S. Before Trump Inauguration"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T23:00:30+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "World",
+        "subsection_name": "Americas",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "5837711295d0e03926072622",
+        "word_count": "738",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/movies/dvd-tv-and-video-game-gift-suggestions.html",
+        "snippet": "The season offers a bounty of DVDs, TV-series box sets, streaming-service subscriptions, and games for the tube watcher or Nintendo/PlayStation jockey in your life....",
+        "lead_paragraph": "The season offers a bounty of DVDs, TV-series box sets, streaming-service subscriptions, and games for the tube watcher or Nintendo/PlayStation jockey in your life.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25GIFT-SCREENS-COMBO/25GIFT-SCREENS-COMBO-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25GIFT-SCREENS-COMBO/25GIFT-SCREENS-COMBO-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25GIFT-SCREENS-COMBO/25GIFT-SCREENS-COMBO-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25GIFT-SCREENS-COMBO/25GIFT-SCREENS-COMBO-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25GIFT-SCREENS-COMBO/25GIFT-SCREENS-COMBO-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25GIFT-SCREENS-COMBO/25GIFT-SCREENS-COMBO-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "DVD, TV and Video Game Gift Suggestions",
+          "print_headline": "Dreams on Screen (Some With Console)"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "DVD (Digital Versatile Disc)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "4",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Computer and Video Games"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Blu-Ray Disc"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          },
+          {
+            "rank": "7",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Christmas"
+          }
+        ],
+        "pub_date": "2016-11-24T22:59:50+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Movies",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "J.",
+              "rank": 1,
+              "lastname": "HOBERMAN"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Mike",
+              "rank": 2,
+              "lastname": "HALE"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Gilbert",
+              "rank": 3,
+              "lastname": "CRUZ"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Chris",
+              "rank": 4,
+              "lastname": "SUELLENTROP"
+            }
+          ],
+          "original": "By J. HOBERMAN, MIKE HALE, GILBERT CRUZ and CHRIS SUELLENTROP"
+        },
+        "type_of_material": "News",
+        "_id": "583770ee95d0e03926072621",
+        "word_count": "1830",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/11/24/sports/ncaabasketball/ap-bkc-t25-illinois-west-virginia.html",
+        "snippet": "Illinois coach John Groce stood behind the podium and offered a bit of analysis....",
+        "lead_paragraph": "Illinois coach John Groce stood behind the podium and offered a bit of analysis.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "AP",
+        "multimedia": [],
+        "headline": {
+          "main": "No. 19 West Virginia Beat Illinois 89-57 in Tip-Off",
+          "print_headline": "No. 19 West Virginia Beat Illinois 89-57 in Tip-Off"
+        },
+        "keywords": [],
+        "pub_date": "2016-11-24T22:57:40+0000",
+        "document_type": "article",
+        "news_desk": null,
+        "section_name": "Sports",
+        "subsection_name": "College Basketball",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "5837706b95d0e03926072620",
+        "word_count": "460",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/business/dull-car-finish-now-shines.html",
+        "snippet": "A flat matte finish is gaining popularity, with car enthusiasts willing to pay as much as thousands more for a vehicle with the dull look....",
+        "lead_paragraph": "A flat matte finish is gaining popularity, with car enthusiasts willing to pay as much as thousands more for a vehicle with the dull look.",
+        "abstract": "Wheels column; interest in matte finish for cars is growing, with many new car buyers choosing dull, flat look over traditional shiny paint job; trend started as fad among celebrities but trickled down to anyone willing to pay several thousand dollars more and devote extra time to maintaining finish. ",
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/24/business/25WHEELS-1/25WHEELS-1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/24/business/25WHEELS-1/25WHEELS-1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/24/business/25WHEELS-1/25WHEELS-1-articleLarge.jpg",
+            "height": 388,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/24/business/25WHEELS-1/25WHEELS-1-articleLarge.jpg",
+              "xlargeheight": "388"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/24/business/25WHEELS-1/25WHEELS-1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/24/business/25WHEELS-1/25WHEELS-1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Dull Car Finish Now Shines",
+          "content_kicker": "Wheels",
+          "kicker": "Wheels",
+          "print_headline": "Eye-Catching, but Without Any Sparkle"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Fiat Chrysler Automobiles NV"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Hyundai Motor Co"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Mercedes-Benz"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Color"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Luxury Goods and Services"
+          }
+        ],
+        "pub_date": "2016-11-24T22:53:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Eric",
+              "middlename": "A.",
+              "lastname": "TAUB",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By ERIC A. TAUB"
+        },
+        "type_of_material": "News",
+        "_id": "58376f8795d0e0392607261f",
+        "word_count": "953",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/arts/design/books-and-museum-treats-for-art-lovers.html",
+        "snippet": "From Copley to Dubuffet to Alma Thomas: A sampling of monographs, exhibition catalogs and novelty items like a Man Ray chess set or Robert Rauschenberg skateboard....",
+        "lead_paragraph": "From Copley to Dubuffet to Alma Thomas: A sampling of monographs, exhibition catalogs and novelty items like a Man Ray chess set or Robert Rauschenberg skateboard.",
+        "abstract": null,
+        "print_page": "28",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/25/arts/25GIFTART8/25GIFTART8-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/25/arts/25GIFTART8/25GIFTART8-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/25/arts/25GIFTART8/25GIFTART8-articleLarge.jpg",
+            "height": 598,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/25/arts/25GIFTART8/25GIFTART8-articleLarge.jpg",
+              "xlargeheight": "598"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/25/arts/25GIFTART8/25GIFTART8-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/25/arts/25GIFTART8/25GIFTART8-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Books and Museum Treats for Art Lovers",
+          "print_headline": "An Invitation to Live Colorfully Through Art: A Surreal Umbrella, Lush Books, Bold Scarves"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Scarves"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Games"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Gifts"
+          }
+        ],
+        "pub_date": "2016-11-24T22:53:30+0000",
+        "document_type": "article",
+        "news_desk": "Weekend",
+        "section_name": "Arts",
+        "subsection_name": "Art & Design",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Roberta",
+              "rank": 1,
+              "lastname": "SMITH"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Randy",
+              "rank": 2,
+              "lastname": "KENNEDY"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ted",
+              "rank": 3,
+              "lastname": "LOOS"
+            }
+          ],
+          "original": "By ROBERTA SMITH, RANDY KENNEDY and TED LOOS"
+        },
+        "type_of_material": "News",
+        "_id": "58376f7195d0e0392607261e",
+        "word_count": "2030",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/11/24/automobiles/autoreviews/review-a-new-porsche-cayman-and-still-a-drivers-dream.html",
+        "snippet": "Porsche remakes the Cayman in a very stealthy fashion, subtracting two cylinders and adding a turbocharger....",
+        "lead_paragraph": "Porsche remakes the Cayman in a very stealthy fashion, subtracting two cylinders and adding a turbocharger.",
+        "abstract": "Driven column review of 2017 Porsche 718 Cayman S.",
+        "print_page": "2",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/11/22/automobiles/autoreviews/driven-porsche-718/driven-porsche-718-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/11/22/automobiles/autoreviews/driven-porsche-718/driven-porsche-718-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/11/22/automobiles/autoreviews/driven-porsche-718/driven-porsche-718-articleLarge.jpg",
+            "height": 346,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/11/22/automobiles/autoreviews/driven-porsche-718/driven-porsche-718-articleLarge.jpg",
+              "xlargeheight": "346"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/11/22/automobiles/autoreviews/driven-porsche-718/driven-porsche-718-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/11/22/automobiles/autoreviews/driven-porsche-718/driven-porsche-718-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Video Review: A New Porsche Cayman, and Still a Driver\u2019s Dream",
+          "content_kicker": "Driven",
+          "kicker": "Driven",
+          "print_headline": "A Precision-Tuned Connection With Your Emotions"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "organizations",
+            "value": "Porsche AG"
+          }
+        ],
+        "pub_date": "2016-11-24T22:51:53+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Automobiles",
+        "subsection_name": "New Cars",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Tom",
+              "rank": 1,
+              "lastname": "VOELK"
+            }
+          ],
+          "original": "By TOM VOELK"
+        },
+        "type_of_material": "News",
+        "_id": "58376f0d95d0e0392607261d",
+        "word_count": "666",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

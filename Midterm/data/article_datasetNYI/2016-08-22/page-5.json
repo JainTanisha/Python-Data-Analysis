@@ -1,0 +1,372 @@
+{
+  "response": {
+    "meta": {
+      "hits": 619,
+      "time": 66,
+      "offset": 50
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/business/ap-financial-markets-stocks.html",
+        "snippet": "Stocks that moved substantially or traded heavily on Monday:...",
+        "lead_paragraph": "Stocks that moved substantially or traded heavily on Monday:",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Medivation and Syngenta Climb; Viacom, Marathon Oil Fall",
+          "print_headline": "Medivation and Syngenta Climb; Viacom, Marathon Oil Fall"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:43:06Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb648f95d0e021d798205d",
+        "word_count": "191",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2016/08/22/t-magazine/fashion/nikki-chasin-womens-clothing-profile.html",
+        "snippet": "Nikki Chasin embroiders, prints and hand-beads garments that appeal to a broad audience....",
+        "lead_paragraph": "Nikki Chasin embroiders, prints and hand-beads garments that appeal to a broad audience.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2016/08/08/t-magazine/08tmag-chasin1/08tmag-chasin1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2016/08/08/t-magazine/08tmag-chasin1/08tmag-chasin1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2016/08/08/t-magazine/08tmag-chasin-slide-9LUZ/08tmag-chasin-slide-9LUZ-articleLarge.jpg",
+            "height": 398,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2016/08/08/t-magazine/08tmag-chasin-slide-9LUZ/08tmag-chasin-slide-9LUZ-articleLarge.jpg",
+              "xlargeheight": "398"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2016/08/08/t-magazine/08tmag-chasin1/08tmag-chasin1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2016/08/08/t-magazine/08tmag-chasin1/08tmag-chasin1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Brand to Know: A Line Worn by Grandmothers and Miley Cyrus Alike",
+          "content_kicker": "On the Verge"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Cyrus, Miley"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Florida"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Lower East Side (Manhattan, NY)"
+          }
+        ],
+        "pub_date": "2016-08-22T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "TStyle",
+        "section_name": "T Magazine",
+        "subsection_name": "Fashion & Beauty",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Hilary",
+              "rank": 1,
+              "lastname": "MOSS"
+            }
+          ],
+          "original": "By HILARY MOSS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb63c695d0e021d798205c",
+        "word_count": "635",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/sports/tennis/ap-ten-connecticut-open.html",
+        "snippet": "Caroline Wozniacki entered the Connecticut Open as a wild card, hoping a tournament she has won four times would help her tune up for the U.S. Open....",
+        "lead_paragraph": "Caroline Wozniacki entered the Connecticut Open as a wild card, hoping a tournament she has won four times would help her tune up for the U.S. Open.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "4-Time Champ Wozniacki Exits Connecticut Open in 1st Round",
+          "print_headline": "4-Time Champ Wozniacki Exits Connecticut Open in 1st Round"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:35:26Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb632d95d0e021d7982059",
+        "word_count": "343",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/22/sports/golf/22reuters-golf-ryder.html",
+        "snippet": "With the Ryder Cup just over a month away, the teams are shaping up, with this week's Barclays tournament at Bethpage determining the last three automatic spots on a United States team desperate to end Europe's recent domination....",
+        "lead_paragraph": "With the Ryder Cup just over a month away, the teams are shaping up, with this week's Barclays tournament at Bethpage determining the last three automatic spots on a United States team desperate to end Europe's recent domination.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Battle On for Last Automatic Spots on U.S. Ryder Cup Team",
+          "print_headline": "Battle On for Last Automatic Spots on U.S. Ryder Cup Team"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:36:56Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb630b95d0e021d7982058",
+        "word_count": "361",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/reuters/2016/08/22/business/22reuters-usa-tax-inversions.html",
+        "snippet": "Republican lawmakers called on U.S. Treasury Secretary Jack Lew on Monday to overhaul proposed regulations intended to crack down on American companies that try to reduce their U.S. taxes by rebasing abroad in a process known as inversion....",
+        "lead_paragraph": "Republican lawmakers called on U.S. Treasury Secretary Jack Lew on Monday to overhaul proposed regulations intended to crack down on American companies that try to reduce their U.S. taxes by rebasing abroad in a process known as inversion.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Republicans Urge U.S. Treasury to Overhaul Tax Inversion Proposals",
+          "print_headline": "Republicans Urge U.S. Treasury to Overhaul Tax Inversion Proposals"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:36:20Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By REUTERS",
+          "organization": "REUTERS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb630595d0e021d7982057",
+        "word_count": "390",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/politics/ap-us-united-states-turkey.html",
+        "snippet": "With suspicions on both sides mounting, the United States is struggling to preserve its wobbly partnership with Turkey as it entertains a closer relationship with Russia and fumes over a U.S.-based cleric it blames for orchestrating last month's f...",
+        "lead_paragraph": "With suspicions on both sides mounting, the United States is struggling to preserve its wobbly partnership with Turkey as it entertains a closer relationship with Russia and fumes over a U.S.-based cleric it blames for orchestrating last month's failed coup attempt.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "US Works to Keep Turkey in Its Fold as NATO Ally Looks East",
+          "print_headline": "US Works to Keep Turkey in Its Fold as NATO Ally Looks East"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:33:03Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb627595d0e021d7982055",
+        "word_count": "910",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-china-camps-last-survivor.html",
+        "snippet": "The last remaining resident of a shrimping village established by Chinese immigrants on the northern shore of San Francisco Bay has died....",
+        "lead_paragraph": "The last remaining resident of a shrimping village established by Chinese immigrants on the northern shore of San Francisco Bay has died.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Last Resident of Historic Chinese Shrimping Village Dies",
+          "print_headline": "Last Resident of Historic Chinese Shrimping Village Dies"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:35:05Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb626895d0e021d7982054",
+        "word_count": "389",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-finger-bitten-off.html",
+        "snippet": "Police are searching for a man who bit off a bartender's finger after being kicked out of a San Francisco bar at closing time....",
+        "lead_paragraph": "Police are searching for a man who bit off a bartender's finger after being kicked out of a San Francisco bar at closing time.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Man Kicked Out of Bar Bites Off Bartender's Finger in Fight",
+          "print_headline": "Man Kicked Out of Bar Bites Off Bartender's Finger in Fight"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:29:47Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb61da95d0e021d7982052",
+        "word_count": "132",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-us-train-derailment-texas.html",
+        "snippet": "Officials say all of the cars have been cleared after a train hauling coal derailed in rural North Texas....",
+        "lead_paragraph": "Officials say all of the cars have been cleared after a train hauling coal derailed in rural North Texas.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "Workers Clear All Cars After Texas Train Derailment",
+          "print_headline": "Workers Clear All Cars After Texas Train Derailment"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:31:53Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb61ce95d0e021d7982051",
+        "word_count": "124",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/aponline/2016/08/22/us/ap-financial-markets-box.html",
+        "snippet": "Stocks closed slightly lower in quiet trading Monday after drifting most of the day between gains and losses. Energy companies fell along with the price of oil while biotechnology and drug companies rose after Pfizer announced it was buying a canc...",
+        "lead_paragraph": "Stocks closed slightly lower in quiet trading Monday after drifting most of the day between gains and losses. Energy companies fell along with the price of oil while biotechnology and drug companies rose after Pfizer announced it was buying a cancer drug maker.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "",
+        "multimedia": [],
+        "headline": {
+          "main": "How the Dow Jones Industrial Average Fared on Monday",
+          "print_headline": "How the Dow Jones Industrial Average Fared on Monday"
+        },
+        "keywords": [],
+        "pub_date": "2016-08-22T20:30:07Z",
+        "document_type": "article",
+        "news_desk": "None",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS",
+          "organization": "THE ASSOCIATED PRESS"
+        },
+        "type_of_material": "News",
+        "_id": "57bb61b895d0e021d798204f",
+        "word_count": "119",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
