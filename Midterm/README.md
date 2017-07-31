@@ -21,7 +21,7 @@ Found frequency for the words used in sent mail
 
 Prove Zipfs Law
 
-![ScreenShot](https://github.com/vegashetty/midterm/blob/master/Question%201/Analysis_2/ZipfsLaw.png?raw=true)
+![ScreenShot](https://github.com/vegashetty/Python-Data-Analysis/blob/master/Midterm/Question%201/Analysis_2/ZipfsLaw.png?raw=true)
 
 
 Based on the content for Mann,K emails, we have proven the Zipf's Law.
@@ -65,7 +65,7 @@ The top 10 common keywords were:
 
 Following is the graph depicting the occurrence of keyword:
 
-![ScreenShot](https://github.com/vegashetty/midterm/blob/master/Question%202/Analysis_1/ques2analysis1.png?raw=true)
+![ScreenShot](https://github.com/vegashetty/Python-Data-Analysis/blob/master/Midterm/Question%202/Analysis_1/ques2analysis1.png?raw=true)
 
 Based on the above analysis, we can conclude that the most discussed topic for 2016 was Presidential Election of 2016 followed by Donald Trump Jr and Hillary Clinton.
 
@@ -79,7 +79,7 @@ For every month, collected the sorted list of section names and the number of ti
 
 Based on the data collected for the months July- Dec 2016, following were the analysis:
 
-![ScreenShot](https://github.com/vegashetty/midterm/blob/master/Question%202/Analysis_2/ques2analysis2_barchart.png?raw=true)
+![ScreenShot](https://github.com/vegashetty/Python-Data-Analysis/blob/master/Midterm/Question%202/Analysis_2/ques2analysis2_barchart.png?raw=true)
 
 
 Based on the attached Excel bar chart, we can see that the distribution for news coverage from July - Nov 2016 based on section names covers more percent of Sports, World and U.S. news.
