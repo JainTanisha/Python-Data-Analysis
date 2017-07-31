@@ -8,7 +8,7 @@ For this analysis, we get the content from the Sent mail folder files using emai
 The top email senders in descending order are : kay mann, vince kaminski, chris germany, eric bass, kate symes, drew fossum, sally beck, susan scott, phillip love and benjamin rogers. 
 Created a csv file to view the range of mails sent.
 
-![ScreenShot](https://github.com/vegashetty/midterm/blob/master/Question%201/Analysis_1/Enron.png?raw=true)
+![ScreenShot](https://github.com/vegashetty/Python-Data-Analysis/blob/master/Midterm/Question%201/Analysis_1/Enron.png?raw=true)
 
 Above graph shows us very few outliers. Thereby bringing us to the conclusion that very few employees have sent a large amount of emails above 1000. The content of the top mail senders can be further investigated.
 
